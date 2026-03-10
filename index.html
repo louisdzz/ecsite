@@ -1,0 +1,770 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exit Club — La première communauté d'exiters</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #09090b;
+    --bg-card: #18181b;
+    --bg-card-hover: #1f1f23;
+    --border: #27272a;
+    --border-light: #3f3f46;
+    --text: #fafafa;
+    --text-secondary: #a1a1aa;
+    --text-muted: #71717a;
+    --accent: #c8ff3c;
+    --accent-dim: #a3d130;
+    --accent-glow: rgba(200,255,60,0.12);
+    --serif: 'Instrument Serif', Georgia, serif;
+    --sans: 'Manrope', system-ui, sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; font-size: 16px; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.6;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    padding: 0 3rem;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    background: rgba(9,9,11,0.8);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .nav-logo {
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text);
+    text-decoration: none;
+  }
+
+  .nav-logo span { color: var(--accent); }
+
+  .nav-links {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav-links a {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .nav-links a:hover { color: var(--text); }
+
+  .btn-nav {
+    font-size: 0.75rem !important;
+    font-weight: 700 !important;
+    color: var(--bg) !important;
+    background: var(--accent);
+    padding: 0.5rem 1.4rem;
+    border-radius: 6px;
+    transition: all 0.3s;
+  }
+
+  .btn-nav:hover { background: var(--accent-dim); }
+
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 8rem 2rem 6rem;
+    position: relative;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+    height: 500px;
+    background: radial-gradient(ellipse, var(--accent-glow) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .hero > * { position: relative; z-index: 1; }
+
+  .hero-tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: rgba(200,255,60,0.08);
+    border: 1px solid rgba(200,255,60,0.15);
+    padding: 0.4rem 1.2rem;
+    border-radius: 100px;
+    margin-bottom: 2.5rem;
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards 0.2s;
+  }
+
+  .hero h1 {
+    font-family: var(--serif);
+    font-size: clamp(3.5rem, 8vw, 7rem);
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -0.03em;
+    margin-bottom: 2rem;
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards 0.4s;
+  }
+
+  .hero h1 em {
+    font-style: italic;
+    color: var(--accent);
+  }
+
+  .hero-sub {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: var(--text-secondary);
+    max-width: 560px;
+    line-height: 1.7;
+    margin-bottom: 3rem;
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards 0.6s;
+  }
+
+  .hero-cta {
+    display: inline-block;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--bg);
+    background: var(--accent);
+    padding: 0.9rem 2.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s;
+    margin-bottom: 4rem;
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards 0.8s;
+  }
+
+  .hero-cta:hover {
+    background: var(--accent-dim);
+    transform: translateY(-2px);
+  }
+
+  .stats-bar {
+    display: flex;
+    gap: 0;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--bg-card);
+    opacity: 0;
+    animation: fadeUp 0.7s ease forwards 1s;
+  }
+
+  .stat {
+    padding: 1.5rem 2.5rem;
+    text-align: center;
+    border-right: 1px solid var(--border);
+  }
+
+  .stat:last-child { border-right: none; }
+
+  .stat-value {
+    font-family: var(--serif);
+    font-size: 2rem;
+    color: var(--text);
+    line-height: 1;
+  }
+
+  .stat-value span { color: var(--accent); font-size: 1.2rem; }
+
+  .stat-label {
+    font-size: 0.65rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-top: 0.4rem;
+  }
+
+  section { padding: 7rem 3rem; max-width: 1200px; margin: 0 auto; }
+
+  .section-tag {
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1rem;
+  }
+
+  .section-title {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-title em { font-style: italic; color: var(--accent); }
+
+  .section-desc {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    max-width: 600px;
+    line-height: 1.7;
+  }
+
+  .divider {
+    border: none;
+    height: 1px;
+    background: var(--border);
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .manifeste-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    margin-top: 4rem;
+    align-items: start;
+  }
+
+  .manifeste-text p {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+
+  .manifeste-text strong { color: var(--text); font-weight: 600; }
+
+  .manifeste-questions {
+    list-style: none;
+    padding: 0;
+  }
+
+  .manifeste-questions li {
+    padding: 1.2rem 0;
+    border-bottom: 1px solid var(--border);
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    align-items: baseline;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+
+  .manifeste-questions li:first-child { border-top: 1px solid var(--border); }
+
+  .q-type {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--accent);
+    white-space: nowrap;
+    padding-top: 2px;
+  }
+
+  .pull-quote {
+    font-family: var(--serif);
+    font-size: 1.6rem;
+    font-style: italic;
+    color: var(--text);
+    line-height: 1.4;
+    margin-top: 3rem;
+    padding-left: 1.5rem;
+    border-left: 3px solid var(--accent);
+  }
+
+  .pilliers-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-top: 3.5rem;
+  }
+
+  .pillier {
+    background: var(--bg-card);
+    padding: 2.5rem 2rem;
+    transition: background 0.3s;
+  }
+
+  .pillier:hover { background: var(--bg-card-hover); }
+
+  .pillier-num {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 1.2rem;
+  }
+
+  .pillier h3 {
+    font-family: var(--serif);
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: var(--text);
+    margin-bottom: 0.8rem;
+    line-height: 1.25;
+  }
+
+  .pillier p {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    line-height: 1.65;
+  }
+
+  .valeurs-list { margin-top: 3.5rem; }
+
+  .valeur {
+    display: grid;
+    grid-template-columns: 50px 200px 1fr;
+    gap: 1.5rem;
+    padding: 1.8rem 0;
+    border-bottom: 1px solid var(--border);
+    transition: all 0.3s;
+    cursor: default;
+    align-items: baseline;
+  }
+
+  .valeur:first-child { border-top: 1px solid var(--border); }
+  .valeur:hover { padding-left: 0.5rem; }
+
+  .valeur-idx {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--text-muted);
+  }
+
+  .valeur h3 {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: var(--text);
+  }
+
+  .valeur p {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+  }
+
+  .event-featured {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 3.5rem;
+    margin-top: 3.5rem;
+    margin-bottom: 1px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .event-featured::after {
+    content: '';
+    position: absolute;
+    top: -50px; right: -50px;
+    width: 300px; height: 300px;
+    background: radial-gradient(circle, var(--accent-glow) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .event-date {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1rem;
+  }
+
+  .event-name {
+    font-family: var(--serif);
+    font-size: 2rem;
+    color: var(--text);
+    margin-bottom: 0.8rem;
+  }
+
+  .event-desc {
+    font-size: 0.88rem;
+    color: var(--text-secondary);
+    max-width: 500px;
+    line-height: 1.65;
+  }
+
+  .events-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-top: 1px;
+  }
+
+  .event-card {
+    background: var(--bg-card);
+    padding: 2.2rem 1.8rem;
+    transition: background 0.3s;
+  }
+
+  .event-card:hover { background: var(--bg-card-hover); }
+
+  .event-card .event-name {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .event-card .event-desc {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+  }
+
+  .cta-final {
+    text-align: center;
+    padding: 10rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .cta-final h2 {
+    font-family: var(--serif);
+    font-size: clamp(2.5rem, 5vw, 4.5rem);
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+    margin-bottom: 1.2rem;
+  }
+
+  .cta-final h2 em { font-style: italic; color: var(--accent); }
+
+  .cta-final p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+  }
+
+  .cta-final a {
+    display: inline-block;
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: var(--bg);
+    background: var(--accent);
+    padding: 1rem 3rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s;
+  }
+
+  .cta-final a:hover {
+    background: var(--accent-dim);
+    transform: translateY(-2px);
+  }
+
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 2rem 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-left { font-size: 0.7rem; color: var(--text-muted); }
+
+  .footer-links {
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+  }
+
+  .footer-links a {
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+
+  .footer-links a:hover { color: var(--text-secondary); }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(25px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(35px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  .reveal.visible { opacity: 1; transform: translateY(0); }
+
+  @media (max-width: 1024px) {
+    nav { padding: 0 2rem; }
+    section { padding: 5rem 2rem; }
+    .manifeste-grid { grid-template-columns: 1fr; gap: 3rem; }
+    .pilliers-grid { grid-template-columns: 1fr 1fr; }
+    .events-grid { grid-template-columns: 1fr 1fr; }
+    .valeur { grid-template-columns: 50px 1fr; }
+    .valeur p { grid-column: 1 / -1; padding-left: 50px; }
+  }
+
+  @media (max-width: 640px) {
+    .nav-links .hide-mobile { display: none; }
+    .hero h1 { font-size: 3rem; }
+    .stats-bar { flex-direction: column; }
+    .stat { border-right: none; border-bottom: 1px solid var(--border); }
+    .stat:last-child { border-bottom: none; }
+    .pilliers-grid { grid-template-columns: 1fr; }
+    .events-grid { grid-template-columns: 1fr; }
+    .event-featured { padding: 2.5rem 2rem; }
+    .cta-final { padding: 6rem 2rem; }
+    footer { flex-direction: column; gap: 1rem; text-align: center; }
+    .valeur { grid-template-columns: 1fr; gap: 0.5rem; }
+    .valeur-idx { display: none; }
+    .valeur p { padding-left: 0; grid-column: auto; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="#" class="nav-logo">Exit<span>.</span>Club</a>
+  <ul class="nav-links">
+    <li><a href="#manifeste" class="hide-mobile">Manifeste</a></li>
+    <li><a href="#pilliers" class="hide-mobile">Pilliers</a></li>
+    <li><a href="#valeurs" class="hide-mobile">Valeurs</a></li>
+    <li><a href="#events" class="hide-mobile">Événements</a></li>
+    <li><a href="https://louisdebouzy.substack.com/subscribe" class="hide-mobile">Newsletter</a></li>
+    <li><a href="https://tally.so/r/wADNZN" class="btn-nav">Rejoindre</a></li>
+  </ul>
+</nav>
+
+<section class="hero">
+  <div class="hero-tag">+300 membres · +2Md€ de cash-out cumulés</div>
+  <h1>You sold.<br><em>Now what?</em></h1>
+  <p class="hero-sub">Le seul endroit en France où l'on parle 150-0 B ter, vide post-exit et allocation de capital entre gens qui sont passés par là.</p>
+  <a href="https://tally.so/r/wADNZN" class="hero-cta">Rejoindre +300 exiters →</a>
+  <div class="stats-bar">
+    <div class="stat">
+      <div class="stat-value">+2<span>Md€</span></div>
+      <div class="stat-label">Cash-out cumulés</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">300<span>+</span></div>
+      <div class="stat-label">Membres actifs</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">3<span>M€</span></div>
+      <div class="stat-label">Exit minimum</div>
+    </div>
+    <div class="stat">
+      <div class="stat-value">50<span>€/m</span></div>
+      <div class="stat-label">Adhésion</div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section id="manifeste" class="reveal">
+  <div class="section-tag">Manifeste</div>
+  <div class="section-title">L'exit est un tournant majeur.<br><em>Peu traité. Mal compris.</em></div>
+  <div class="manifeste-grid">
+    <div class="manifeste-text">
+      <p>On a vendu, on a gagné de l'argent, on est fiers. Ça dure deux jours. Et après ?</p>
+      <p>L'exit bouleverse notre rapport à l'argent, au temps et à nous-mêmes. Surgissent alors des questions d'une intensité inattendue :</p>
+      <ul class="manifeste-questions">
+        <li><span class="q-type">Matérielles</span>Que faire de mon argent, de mon 150-0 B ter, de ma holding, de mon allocation</li>
+        <li><span class="q-type">Relationnelles</span>Comment me situer face à mes amis, ma famille, comment élever sainement mes enfants</li>
+        <li><span class="q-type">Existentielles</span>Comment combler le vide, redonner du sens à ma vie, reconstruire une identité</li>
+      </ul>
+    </div>
+    <div>
+      <div class="pull-quote">Au fond, tout se résume à deux interrogations : je fais quoi de mon argent ? Je fais quoi de ma vie ?</div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section id="pilliers" class="reveal">
+  <div class="section-tag">Ce qu'on y trouve</div>
+  <div class="section-title">Un club construit autour de <em>vrais besoins</em></div>
+  <div class="section-desc">Pas un énième réseau de networking. Un espace structuré autour de ce que vivent réellement les post-exiteurs.</div>
+  <div class="pilliers-grid">
+    <div class="pillier">
+      <div class="pillier-num">01 — Réseau</div>
+      <h3>Des pairs d'exception</h3>
+      <p>Exclusivement des entrepreneurs post-exit. Confidentiel, libre, propice au ping-pong intellectuel et aux opportunités croisées.</p>
+    </div>
+    <div class="pillier">
+      <div class="pillier-num">02 — Capital</div>
+      <h3>Gestion du patrimoine</h3>
+      <p>150-0 B ter, allocation d'actifs, MFO, CGP, structuration holding, due diligence des fonds. Les meilleures pratiques entre pairs.</p>
+    </div>
+    <div class="pillier">
+      <div class="pillier-num">03 — Sens</div>
+      <h3>Psychologie post-exit</h3>
+      <p>Le vide, la perte d'identité, la reconstruction d'une mission. On en parle sans tabou entre ceux qui comprennent.</p>
+    </div>
+    <div class="pillier">
+      <div class="pillier-num">04 — Vie</div>
+      <h3>Le quotidien d'un exiter</h3>
+      <p>Éducation des enfants, gouvernance familiale, transmission de valeurs, philanthropie, organisation du quotidien.</p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section id="valeurs" class="reveal">
+  <div class="section-tag">Nos valeurs</div>
+  <div class="section-title">Les règles du jeu</div>
+  <div class="valeurs-list">
+    <div class="valeur">
+      <div class="valeur-idx">001</div>
+      <h3>Confidentialité absolue</h3>
+      <p>Ce qui se dit à l'Exit Club reste à l'Exit Club. Aucun screenshot, aucune fuite. La confiance est le fondement.</p>
+    </div>
+    <div class="valeur">
+      <div class="valeur-idx">002</div>
+      <h3>Franchise totale</h3>
+      <p>On dit les choses. Sans filtre, sans posture, sans faux-semblant. La politesse n'exclut pas la franchise.</p>
+    </div>
+    <div class="valeur">
+      <div class="valeur-idx">003</div>
+      <h3>Bienveillance exigeante</h3>
+      <p>On s'entraide. On se challenge. On veut le meilleur pour chaque membre. C'est incompatible avec la complaisance.</p>
+    </div>
+    <div class="valeur">
+      <div class="valeur-idx">004</div>
+      <h3>Générosité intellectuelle</h3>
+      <p>Partager ses contacts, ses deals, ses erreurs. Plus on donne, plus le club a de valeur pour chacun.</p>
+    </div>
+    <div class="valeur">
+      <div class="valeur-idx">005</div>
+      <h3>Aucune posture</h3>
+      <p>On ne vient pas pour se montrer. On vient pour avancer. Les cartes de visite ne servent à rien ici.</p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section id="events" class="reveal">
+  <div class="section-tag">Événements</div>
+  <div class="section-title">On se retrouve <em>en vrai</em></div>
+  <div class="event-featured">
+    <div class="event-date">Juin 2026 — Paris</div>
+    <div class="event-name">La Nuit de l'Exit</div>
+    <div class="event-desc">La soirée annuelle de la communauté. Cérémonie, rencontres, célébration. L'événement de référence des exiters francophones.</div>
+  </div>
+  <div class="events-grid">
+    <div class="event-card">
+      <div class="event-date">Mensuel</div>
+      <div class="event-name">Dîners privés</div>
+      <div class="event-desc">Tables de 8-12 exiters, thématiques ou libres. Paris, Lyon, et au-delà.</div>
+    </div>
+    <div class="event-card">
+      <div class="event-date">Trimestriel</div>
+      <div class="event-name">Expert Sessions</div>
+      <div class="event-desc">Fiscalistes, allocataires, psychologues. Les meilleurs experts sur les sujets post-exit.</div>
+    </div>
+    <div class="event-card">
+      <div class="event-date">2× par an</div>
+      <div class="event-name">Retreats</div>
+      <div class="event-desc">Hong Kong, Marrakech, Tel Aviv. Entre membres, dans des lieux d'exception.</div>
+    </div>
+    <div class="event-card">
+      <div class="event-date">Continu</div>
+      <div class="event-name">War Room</div>
+      <div class="event-desc">+12 channels WhatsApp thématiques. Deals, patrimoine, fiscalité, quotidien. Le flux permanent.</div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider">
+
+<section class="cta-final reveal">
+  <h2>Vous avez vendu.<br><em>Bienvenue chez vous.</em></h2>
+  <p>Exit minimum : 3M€ · Adhésion : 50€/mois · Cooptation requise</p>
+  <a href="https://tally.so/r/wADNZN">Demander à rejoindre →</a>
+</section>
+
+<footer>
+  <div class="footer-left">© Exit Club 2026</div>
+  <ul class="footer-links">
+    <li><a href="https://www.exit.club/conditions">Conditions</a></li>
+    <li><a href="https://www.exit.club/valeurs">Valeurs</a></li>
+    <li><a href="https://louisdebouzy.substack.com">Newsletter</a></li>
+    <li><a href="https://www.exit.club/news">News</a></li>
+  </ul>
+</footer>
+
+<script>
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) entry.target.classList.add('visible');
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+  document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+  document.querySelectorAll('nav a[href^="#"]').forEach(link => {
+    link.addEventListener('click', e => {
+      e.preventDefault();
+      document.querySelector(link.getAttribute('href'))?.scrollIntoView({ behavior: 'smooth' });
+    });
+  });
+</script>
+
+</body>
+</html>
