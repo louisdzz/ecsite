@@ -11,6 +11,7 @@
 <meta name="author" content="Louis Debouzy">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.exit.club/">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
@@ -105,16 +106,10 @@
   }
 
   .nav-logo {
-    font-family: var(--sans);
-    font-size: 0.85rem;
-    font-weight: 800;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text);
+    display: flex;
+    align-items: center;
     text-decoration: none;
   }
-
-  .nav-logo span { color: var(--accent); }
 
   .nav-links {
     display: flex;
@@ -623,13 +618,13 @@
 <body>
 
 <nav>
-  <a href="#" class="nav-logo">Exit<span>.</span>Club</a>
+  <a href="#" class="nav-logo"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAIAAAABc2X6AAABCGlDQ1BJQ0MgUHJvZmlsZQAAeJxjYGA8wQAELAYMDLl5JUVB7k4KEZFRCuwPGBiBEAwSk4sLGHADoKpv1yBqL+viUYcLcKakFicD6Q9ArFIEtBxopAiQLZIOYWuA2EkQtg2IXV5SUAJkB4DYRSFBzkB2CpCtkY7ETkJiJxcUgdT3ANk2uTmlyQh3M/Ck5oUGA2kOIJZhKGYIYnBncAL5H6IkfxEDg8VXBgbmCQixpJkMDNtbGRgkbiHEVBYwMPC3MDBsO48QQ4RJQWJRIliIBYiZ0tIYGD4tZ2DgjWRgEL7AwMAVDQsIHG5TALvNnSEfCNMZchhSgSKeDHkMyQx6QJYRgwGDIYMZAKbWPz9HbOBQAAAIfUlEQVR42u3aa1BU1x0A8HPuY7l37y7sCiwKCAiRhxrJ+JqC+HZiI1SlM0kAU2vTD5p0pkFRJ44OahoNaYw6Nr5I1Gm0naStUy3iI9UxxqhRaQkK8ogRBDVsAsvu3b3ve8/ph5swjmkEO2baTs75dO/cOWfPb8///P9ndy5MSkoCP6RGgR9YI2ACJmACJmACJmACJmACJmACJmACJmACJmACJmACJmACJmACJmACJuDvaMz3NzSEkKIohBDG+KE60jQNAHhAR3tkAIBlWf8rYAihpmmyLAuCy+FgMcYQwsHIMcbBYBAh5HQ6HQ7Ht7tACA3DkGQZQugSBFv+Xw5piqJUVR09etT+fXvTUlM0TaNp2jTNAb8j27nx1Vfert71xBO5iqLc57FHzs7KrN69Y9uWN+Lj40zThBB+v2A7ouyp2Nf3fqR9axhmUlJi0U+KYuNiAQC6rnu9Xpqmv71iFEXRNE3TtB3/UVFRJSXPlJQ+l5aWpus6wzA0TfePzzCMZaHExMTSsp8tXFjmdrsxxizL2rvg0YNtnqqq4XBYVhQIoaqqoijaX7MdtKIoaprG8Vxt7fGRI7Pq6z8NhkI5OdllpSXBYPC+mVEUJctyIBAIBAKSJFEUBQAOBoOGrui6DgAQRTEYDBmG0T94SBRlWZalUF9fH8Y4Eon09PSGQiF7eo9yD9shJ0nSqFE5ycnJfr+/paU1MzPT5/O1tLSEgiELIyfP5+fnN1+/jgFISPApiur3+4sXzH9t06uHDx9xu90Iof7NDCEMh8O5uWNzc3MZmr7e3HzhwkWv18swDMPQAGCHwzFr1gyGYa9da/T7/S6Xq6AgX1X1hKE+e7VlWS4omDx+3LjOzs7Tp89ACv7bIPpPwLbWMIw1a17u6uyq+0f9jre27al+5/btO+vXrRVFsWhecXxc7MoVFcXFxZWV6ziO27J1S3n5spMnP3j2maeHDPH29vYmJSV1dHQ4HA57baWItKz8pYqKcsHlAQAYurx9+1s7d+2xg8U0rZiYmN27dniH+BYvXvT++39OSU2p3rNTENz79u9XVVVV1WXLXlq06BcAAICNg3/44/LlKweM7YcARyKRd97e093dvWPnbqfTGR/vYximtvZYz1c9Z878/ak5T/I8v3ff/t++8WYwGJwwYXxYDH7yyaW2trb29vam6wlVr2/2+eLtxEtRVDgcnj171tq1qyVJ2rnjd2JYfGHJkooVqwKBPlEUAaTtjC1Jkssl21sGYxyJSAgBy7Qsy/R4PLNnztywvnLc+HHTp00tKy05duz4sWMnYmJiHlCumEEWxkAg8Pzzix8fO+bni38ZGxu7+Y3Xr1ype++9P6WlpbW0tp49+9Hy5eUlpc+JYtjp5BVFKSyce/Nm+40bn/t8vsKiuYcO/dXpdEZFRdm5GkJoWVZR0VxIOc6cObZy1cuGYVAUXVhYlJWVSdM0ALh/k9+bFPtvEcIcx5WXV+zdtz8jI72m5nB2Vk5eXl5NTe0jSFqWZQmC8MLSJQ0NV+c8OXtFxbKGhqtLlr5oB6eqaleu1A0bNlRRFJ7nIIQ8z0+bOuWjcx+LYigrM3PY0KEffnjW4WARQv1pnOO4oQkJAMDm5maWZVNTUzdtqho7Nrdy3XpBcAGM7MC+L/nb+xMDTNO0KIpN15uTk5NDIbG1tQ1SjNcTM2BZZgZTVGVZHjNmdEpKytZt2291dl271tjt/zI62s1xnCzLqakpqqpxHDdp0sTz5y8ghDIy0tPTR6xb/4plWQVTJvf1BRsbm/pPEZFIBACgaZqiqgBgj9ejqmpPT09BweQxYx6XpLBh6ABCXTcsy8IYUBQEGEiSZOg6wzAAYAi+rtiC4OzrC3Kcw+vxYIw1XR/wbDPYFXa5XE7B1dXVVV9f39PbGxcX63a779y5ixB66sdzDhw82NzSMnPG9GAwlJSYOHlyfne3v6GhIT19xJSCglOnTkuSHBsbixDSNG1hWemBd9/NzMw8d+5jCOHMGdOnTZs6cuRjVVUbq6qq8vPzJEkyTZSWOtwwDFVVTNOaP39eRkZGWVmp2+3WNA1jbJomw9C/enGp1+spLl4wevQogI22ts8GBDODOevxPN/c3NLRcXPLm5tZloUQ+uLjExOHsY6ors7OhqtX79794sSJD5aV//r2nTsXL16aOWNGOBLJy/tRd7c/N3dsU1PjguJ5DZ82mKYlCMKqVSuGp4z48it/RcWKkmefnjgp/8jhQ5ZlCS7Ptav/3LDhNwcP/J5hHFWvbZw6ber5CxczHsueN6/op8Xzv+juNnQjLi6O47m4uDhVVXNysttamyCEHC98fuOzmppaQXDZG+c781F0dPRgklYkErlw/mJOTvbEiRNkSTpy5G/RMTFFRYWH/nLoWmOTx+Npb+/IyclubGw6WlubNiKNppkTx082Nl5PGZ7MsuzRo7Xd3X6e52RZZhjGKTirq6vb2ztOnT5jGhqkqJ6enpMnTqxZW3nrVmdzSwvLUIFAX0d7x+bNWz0xLoRwXV3dmrXrOY7r6uq6fOmyruttbTfWrK3kojiMwZUrl1evXtPR0cFx3IMXGQ7y5VKKohRF0TSNomnLtFwuwTRNRVF4nud5HiFkn0kgpKKj3ZIkm6bhcERxXFQkIiGMuKgoew9jDFRVpWkKISQ4nbphRCKS08lDipIlied5juMkSdINg2UYAADLsqqqCoKgKApF0xghhBDLsoZhQEixLKOqmtPpVFWFYRh7JgPU18G/TdufJ+2ict+vP/sWY4wQ+qZyILvk9l/3j2MPYp+6+gehafreLl8nZIwpirIs6970a3f/5im0LGQ/HVD7cGDyjwcBEzABEzABEzABEzABEzABEzABEzABEzABEzABEzABEzABEzABEzABEzAB//+0fwHv507OV9Ac/AAAAABJRU5ErkJggg==" alt="Exit Club" style="height:28px;display:block;"></a>
   <ul class="nav-links">
     <li><a href="#manifeste" class="hide-mobile">Manifeste</a></li>
     <li><a href="#pilliers" class="hide-mobile">Pilliers</a></li>
     <li><a href="#valeurs" class="hide-mobile">Valeurs</a></li>
     <li><a href="#events" class="hide-mobile">Événements</a></li>
-    <li><a href="https://louisdebouzy.substack.com" class="hide-mobile">Newsletter</a></li>
+    <li><a href="https://louisdebouzy.substack.com/subscribe" class="hide-mobile">Newsletter</a></li>
     <li><a href="https://tally.so/r/wADNZN" class="btn-nav">Rejoindre</a></li>
   </ul>
 </nav>
@@ -786,8 +781,8 @@
 <hr class="divider">
 
 <section class="cta-final reveal">
-  <h2>Vous avez vendu.<br><em>Bienvenue chez vous.</em></h2>
-  <p>Exit minimum : 3M€ · Adhésion : 60€/mois · Cooptation requise</p>
+  <h2>Vous avez vendu.<br><em>On vous comprend.</em></h2>
+  <p>Exit minimum : 3M€ · Adhésion : 50€/mois · Cooptation requise</p>
   <a href="https://tally.so/r/wADNZN">Demander à rejoindre →</a>
 </section>
 
