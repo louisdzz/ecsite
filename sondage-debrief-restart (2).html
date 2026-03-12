@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Debrief — Exit Club</title>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --lime: #C8FF00;
+    --lime-dim: #9FCC00;
+    --dark: #0A0A0A;
+    --card: #141414;
+    --card-hover: #1A1A1A;
+    --border: #2A2A2A;
+    --text: #E8E8E8;
+    --text-dim: #888;
+    --text-muted: #555;
+    --radius: 12px;
+    --radius-sm: 8px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Manrope', sans-serif;
+    background: var(--dark);
+    color: var(--text);
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .container {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+
+  .badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: var(--lime);
+    background: rgba(200, 255, 0, 0.08);
+    border: 1px solid rgba(200, 255, 0, 0.15);
+    padding: 6px 16px;
+    border-radius: 100px;
+    margin-bottom: 24px;
+  }
+
+  .header h1 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 1.1;
+    margin-bottom: 12px;
+  }
+
+  .header h1 em {
+    font-style: italic;
+    color: var(--lime);
+  }
+
+  .header p {
+    font-size: 14px;
+    color: var(--text-dim);
+    line-height: 1.6;
+    max-width: 440px;
+    margin: 0 auto;
+  }
+
+  .section {
+    margin-bottom: 36px;
+  }
+
+  .section-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+  }
+
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 12px;
+    transition: border-color 0.2s;
+  }
+
+  .card:hover {
+    border-color: #3A3A3A;
+  }
+
+  .card-title {
+    font-family: 'Instrument Serif', serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 4px;
+  }
+
+  .card-subtitle {
+    font-size: 12px;
+    color: var(--text-dim);
+    margin-bottom: 16px;
+  }
+
+  /* Star rating */
+  .stars {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+  }
+
+  .star {
+    width: 36px;
+    height: 36px;
+    border-radius: var(--radius-sm);
+    background: var(--dark);
+    border: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.15s;
+    font-size: 18px;
+  }
+
+  .star:hover {
+    border-color: var(--lime);
+    background: rgba(200, 255, 0, 0.05);
+  }
+
+  .star.active {
+    background: rgba(200, 255, 0, 0.12);
+    border-color: var(--lime);
+    color: var(--lime);
+  }
+
+  .star-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 4px;
+    padding: 0 2px;
+  }
+
+  /* NPS */
+  .nps-row {
+    display: flex;
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+
+  .nps-btn {
+    flex: 1;
+    height: 42px;
+    border-radius: var(--radius-sm);
+    background: var(--dark);
+    border: 1px solid var(--border);
+    color: var(--text-dim);
+    font-family: 'Manrope', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .nps-btn:hover {
+    border-color: var(--lime);
+    color: var(--text);
+  }
+
+  .nps-btn.active {
+    background: rgba(200, 255, 0, 0.12);
+    border-color: var(--lime);
+    color: var(--lime);
+  }
+
+  /* Textarea */
+  textarea {
+    width: 100%;
+    min-height: 80px;
+    background: var(--dark);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 14px 16px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    color: var(--text);
+    resize: vertical;
+    transition: border-color 0.2s;
+    line-height: 1.5;
+  }
+
+  textarea::placeholder {
+    color: var(--text-muted);
+  }
+
+  textarea:focus {
+    outline: none;
+    border-color: var(--lime);
+  }
+
+  /* Checkboxes */
+  .check-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+
+  .check-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--dark);
+    border: 1px solid var(--border);
+    border-radius: 100px;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--text-dim);
+    transition: all 0.15s;
+    user-select: none;
+  }
+
+  .check-item:hover {
+    border-color: #3A3A3A;
+    color: var(--text);
+  }
+
+  .check-item.active {
+    background: rgba(200, 255, 0, 0.08);
+    border-color: var(--lime);
+    color: var(--lime);
+  }
+
+  /* Submit */
+  .submit-btn {
+    width: 100%;
+    height: 56px;
+    background: var(--lime);
+    color: var(--dark);
+    border: none;
+    border-radius: var(--radius);
+    font-family: 'Manrope', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-top: 24px;
+  }
+
+  .submit-btn:hover {
+    background: var(--lime-dim);
+    transform: translateY(-1px);
+  }
+
+  .submit-btn:active {
+    transform: translateY(0);
+  }
+
+  .submit-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    transform: none;
+  }
+
+  /* Thank you screen */
+  .thankyou {
+    display: none;
+    text-align: center;
+    padding: 80px 20px;
+  }
+
+  .thankyou.visible {
+    display: block;
+  }
+
+  .thankyou-icon {
+    font-size: 64px;
+    margin-bottom: 24px;
+  }
+
+  .thankyou h2 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 12px;
+  }
+
+  .thankyou p {
+    font-size: 14px;
+    color: var(--text-dim);
+    line-height: 1.6;
+  }
+
+  .form-container.hidden {
+    display: none;
+  }
+
+  /* Divider */
+  .divider {
+    height: 1px;
+    background: var(--border);
+    margin: 36px 0;
+  }
+
+  /* Animations */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .section {
+    animation: fadeUp 0.5s ease-out both;
+  }
+
+  .section:nth-child(2) { animation-delay: 0.05s; }
+  .section:nth-child(3) { animation-delay: 0.1s; }
+  .section:nth-child(4) { animation-delay: 0.15s; }
+  .section:nth-child(5) { animation-delay: 0.2s; }
+  .section:nth-child(6) { animation-delay: 0.25s; }
+  .section:nth-child(7) { animation-delay: 0.3s; }
+  .section:nth-child(8) { animation-delay: 0.35s; }
+
+  .anon-note {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-muted);
+    background: rgba(200, 255, 0, 0.03);
+    border: 1px solid rgba(200, 255, 0, 0.08);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    margin-bottom: 36px;
+  }
+
+  .anon-note svg {
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 480px) {
+    .header h1 { font-size: 32px; }
+    .container { padding: 28px 16px 60px; }
+    .card { padding: 20px; }
+    .star { width: 32px; height: 32px; font-size: 16px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="form-container" id="formContainer">
+    <div class="header">
+      <div class="badge">100% Anonyme</div>
+      <h1>Debrief <em>RESTART</em></h1>
+      <p>Quelques minutes pour nous aider à améliorer les prochains événements. Aucune donnée nominative n'est collectée.</p>
+    </div>
+
+    <div class="anon-note">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8 1.5A3.5 3.5 0 004.5 5v2h-.25A1.25 1.25 0 003 8.25v5.5A1.25 1.25 0 004.25 15h7.5A1.25 1.25 0 0013 13.75v-5.5A1.25 1.25 0 0011.75 7H11.5V5A3.5 3.5 0 008 1.5zM6 5a2 2 0 114 0v2H6V5zm2 5.5a1.25 1.25 0 110 2.5 1.25 1.25 0 010-2.5z" fill="#555"/></svg>
+      Vos réponses sont totalement anonymes — aucun identifiant, aucun tracking.
+    </div>
+
+    <!-- GLOBAL -->
+    <div class="section">
+      <div class="section-label">Impression générale</div>
+      <div class="card">
+        <div class="card-title">Note globale de la journée</div>
+        <div class="card-subtitle">De 1 (décevant) à 5 (excellent)</div>
+        <div class="stars" data-field="global_rating">
+          <div class="star" data-value="1">★</div>
+          <div class="star" data-value="2">★</div>
+          <div class="star" data-value="3">★</div>
+          <div class="star" data-value="4">★</div>
+          <div class="star" data-value="5">★</div>
+        </div>
+        <div class="star-label"><span>Décevant</span><span>Excellent</span></div>
+      </div>
+    </div>
+
+    <!-- MORNING - STEPHANE LEE -->
+    <div class="section">
+      <div class="section-label">Matinée — Interventions</div>
+      <div class="card">
+        <div class="card-title">Stéphane Lee</div>
+        <div class="card-subtitle">Choix du prochain projet & du bon associé après un exit</div>
+        <div class="stars" data-field="stephane_rating">
+          <div class="star" data-value="1">★</div>
+          <div class="star" data-value="2">★</div>
+          <div class="star" data-value="3">★</div>
+          <div class="star" data-value="4">★</div>
+          <div class="star" data-value="5">★</div>
+        </div>
+        <div class="star-label"><span>Décevant</span><span>Excellent</span></div>
+        <textarea data-field="stephane_comment" placeholder="Un commentaire sur cette intervention ? (facultatif)"></textarea>
+      </div>
+
+      <!-- MORNING - BENJAMIN FITOUSSI -->
+      <div class="card">
+        <div class="card-title">Benjamin Fitoussi & Olivier Tomat</div>
+        <div class="card-subtitle">Reprise d'entreprise — du sourcing au closing (45degrés capital)</div>
+        <div class="stars" data-field="benjamin_rating">
+          <div class="star" data-value="1">★</div>
+          <div class="star" data-value="2">★</div>
+          <div class="star" data-value="3">★</div>
+          <div class="star" data-value="4">★</div>
+          <div class="star" data-value="5">★</div>
+        </div>
+        <div class="star-label"><span>Décevant</span><span>Excellent</span></div>
+        <textarea data-field="benjamin_comment" placeholder="Un commentaire sur cette intervention ? (facultatif)"></textarea>
+      </div>
+    </div>
+
+    <!-- AFTERNOON - VISION BOARD -->
+    <div class="section">
+      <div class="section-label">Après-midi — Ateliers</div>
+      <div class="card">
+        <div class="card-title">Vision Board</div>
+        <div class="card-subtitle">Clarifier son projet, mode de vie, associé idéal, calendrier</div>
+        <div class="stars" data-field="vision_rating">
+          <div class="star" data-value="1">★</div>
+          <div class="star" data-value="2">★</div>
+          <div class="star" data-value="3">★</div>
+          <div class="star" data-value="4">★</div>
+          <div class="star" data-value="5">★</div>
+        </div>
+        <div class="star-label"><span>Décevant</span><span>Excellent</span></div>
+        <textarea data-field="vision_comment" placeholder="Un commentaire sur cet atelier ? (facultatif)"></textarea>
+      </div>
+
+      <!-- AFTERNOON - SPEED MATCHING -->
+      <div class="card">
+        <div class="card-title">Binômes</div>
+        <div class="card-subtitle">Confronter sa vision aux autres & repartir avec des engagements concrets</div>
+        <div class="stars" data-field="speed_rating">
+          <div class="star" data-value="1">★</div>
+          <div class="star" data-value="2">★</div>
+          <div class="star" data-value="3">★</div>
+          <div class="star" data-value="4">★</div>
+          <div class="star" data-value="5">★</div>
+        </div>
+        <div class="star-label"><span>Décevant</span><span>Excellent</span></div>
+        <textarea data-field="speed_comment" placeholder="Un commentaire sur cet atelier ? (facultatif)"></textarea>
+      </div>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- BEST MOMENT -->
+    <div class="section">
+      <div class="section-label">Ce qui a marqué</div>
+      <div class="card">
+        <div class="card-title">Le moment fort de la journée</div>
+        <div class="check-grid" data-field="highlight">
+          <div class="check-item" data-value="stephane">Intervention Stéphane</div>
+          <div class="check-item" data-value="benjamin">Intervention Benjamin & Olivier</div>
+          <div class="check-item" data-value="vision">Vision Board</div>
+          <div class="check-item" data-value="speed">Binômes</div>
+          <div class="check-item" data-value="networking">Échanges informels</div>
+          <div class="check-item" data-value="lieu">Le lieu / l'ambiance</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TOPICS FUTURS -->
+    <div class="section">
+      <div class="card">
+        <div class="card-title">Sujets à creuser</div>
+        <div class="card-subtitle">Quels sujets aimeriez-vous voir abordés dans un prochain événement ?</div>
+        <div class="check-grid" data-field="topics">
+          <div class="check-item" data-value="psycho">Psychologie post-exit</div>
+          <div class="check-item" data-value="patri">Patrimoine & structuration</div>
+          <div class="check-item" data-value="reinvest">Réinvestissement</div>
+          <div class="check-item" data-value="reprise">Reprise / search fund</div>
+          <div class="check-item" data-value="famille">Famille & transmission</div>
+          <div class="check-item" data-value="ia">IA & outils</div>
+          <div class="check-item" data-value="network">Networking structuré</div>
+          <div class="check-item" data-value="international">International / relocalisation</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- NPS -->
+    <div class="section">
+      <div class="section-label">Recommandation</div>
+      <div class="card">
+        <div class="card-title">Recommanderiez-vous cet événement ?</div>
+        <div class="card-subtitle">0 = pas du tout — 10 = absolument</div>
+        <div class="nps-row" data-field="nps">
+          <button class="nps-btn" data-value="0">0</button>
+          <button class="nps-btn" data-value="1">1</button>
+          <button class="nps-btn" data-value="2">2</button>
+          <button class="nps-btn" data-value="3">3</button>
+          <button class="nps-btn" data-value="4">4</button>
+          <button class="nps-btn" data-value="5">5</button>
+          <button class="nps-btn" data-value="6">6</button>
+          <button class="nps-btn" data-value="7">7</button>
+          <button class="nps-btn" data-value="8">8</button>
+          <button class="nps-btn" data-value="9">9</button>
+          <button class="nps-btn" data-value="10">10</button>
+        </div>
+        <div class="star-label"><span>Pas du tout</span><span>Absolument</span></div>
+      </div>
+    </div>
+
+    <!-- OPEN FEEDBACK -->
+    <div class="section">
+      <div class="section-label">Mot libre</div>
+      <div class="card">
+        <div class="card-title">Quelque chose à ajouter ?</div>
+        <div class="card-subtitle">Idées, critiques, envies — tout est bienvenu.</div>
+        <textarea data-field="open_feedback" placeholder="Exprimez-vous librement..." style="min-height: 100px;"></textarea>
+      </div>
+    </div>
+
+    <button class="submit-btn" id="submitBtn" onclick="submitSurvey()">
+      Envoyer mes réponses
+    </button>
+  </div>
+
+  <div class="thankyou" id="thankyou">
+    <div class="thankyou-icon">✦</div>
+    <h2>Merci.</h2>
+    <p>Vos retours anonymes ont bien été enregistrés.<br>Ils nous permettront de continuer à améliorer chaque événement.</p>
+  </div>
+</div>
+
+<script>
+  const formData = {};
+
+  // Star ratings
+  document.querySelectorAll('.stars').forEach(container => {
+    const field = container.dataset.field;
+    container.querySelectorAll('.star').forEach(star => {
+      star.addEventListener('click', () => {
+        const val = parseInt(star.dataset.value);
+        formData[field] = val;
+        container.querySelectorAll('.star').forEach((s, i) => {
+          s.classList.toggle('active', i < val);
+        });
+      });
+    });
+  });
+
+  // NPS
+  document.querySelectorAll('.nps-row').forEach(container => {
+    const field = container.dataset.field;
+    container.querySelectorAll('.nps-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        formData[field] = parseInt(btn.dataset.value);
+        container.querySelectorAll('.nps-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+      });
+    });
+  });
+
+  // Multi-select checkboxes
+  document.querySelectorAll('.check-grid').forEach(container => {
+    const field = container.dataset.field;
+    formData[field] = [];
+    container.querySelectorAll('.check-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const val = item.dataset.value;
+        item.classList.toggle('active');
+        if (formData[field].includes(val)) {
+          formData[field] = formData[field].filter(v => v !== val);
+        } else {
+          formData[field].push(val);
+        }
+      });
+    });
+  });
+
+  // Textareas
+  document.querySelectorAll('textarea').forEach(ta => {
+    ta.addEventListener('input', () => {
+      formData[ta.dataset.field] = ta.value;
+    });
+  });
+
+  // ⚠️ REMPLACER PAR TON URL DE DÉPLOIEMENT APPS SCRIPT
+  const WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbwkUf13vXZI9XK5DifEsaRE7NFcqqod-5ejz3VpM7ZHf4P-67v_26JiQvIoVQxBzQkncw/exec";
+
+  function submitSurvey() {
+    if (!formData.global_rating) {
+      alert('Merci d\'attribuer au moins la note globale de la journée.');
+      return;
+    }
+
+    // Webhook configuré ✓
+
+    const btn = document.getElementById('submitBtn');
+    btn.disabled = true;
+    btn.textContent = 'Envoi en cours...';
+
+    fetch(WEBHOOK_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(formData)
+    })
+    .then(() => {
+      document.getElementById('formContainer').classList.add('hidden');
+      document.getElementById('thankyou').classList.add('visible');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    })
+    .catch(() => {
+      btn.disabled = false;
+      btn.textContent = 'Envoyer mes réponses';
+      alert('Erreur lors de l\'envoi. Merci de réessayer.');
+    });
+  }
+</script>
+
+</body>
+</html>
