@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Exit Club — La première communauté d'exiters en France</title>
+<title>Exit Club · La première communauté d'exiters en France</title>
 <meta name="description" content="Exit Club réunit +300 entrepreneurs post-exit (2Md€ de cash-out cumulés). 150-0 B ter, allocation de capital, psychologie post-exit, gestion patrimoniale. Le seul club en France dédié aux fondateurs qui ont vendu.">
 <meta name="author" content="Louis Debouzy">
 <meta name="robots" content="index, follow">
@@ -13,7 +13,7 @@
 <meta property="og:url" content="https://www.exit.club/">
 <meta property="og:site_name" content="Exit Club">
 <meta property="og:locale" content="fr_FR">
-<meta property="og:title" content="Exit Club — You sold. Now what?">
+<meta property="og:title" content="Exit Club · You sold. Now what?">
 <meta property="og:description" content="+300 entrepreneurs post-exit. 2Md€ de cash-out cumulés. Le seul endroit en France où l'on parle 150-0 B ter, vide post-exit et allocation de capital entre pairs.">
 <meta property="og:image" content="https://www.exit.club/og-image.png">
 <meta property="og:image:secure_url" content="https://www.exit.club/og-image.png">
@@ -22,96 +22,105 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Exit Club - You sold. Now what?">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Exit Club — You sold. Now what?">
+<meta name="twitter:title" content="Exit Club · You sold. Now what?">
 <meta name="twitter:description" content="+300 entrepreneurs post-exit. 2Md€ de cash-out cumulés. Le seul club en France dédié aux fondateurs qui ont vendu.">
 <meta name="twitter:image" content="https://www.exit.club/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500;1,6..72,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#0C0B09; --card:#161310; --card2:#1b1712;
-    --line:#2E2A24; --ink:#FAF8F4; --muted:#ABA59C; --faint:#7c766c;
-    --accent:#C8FF3C; --accent-soft:#1C2410; --warm:#FF9E6B; --warm-soft:#2A1813;
+    --paper:#F9F5E6; --card:rgba(255,255,255,.62); --card2:#FFFDF6;
+    --line:#E4DEC8; --ink:#2E3A1C; --muted:#6F7854; --faint:#98A07E;
+    --accent:#4A661F; --accent-soft:#EDF3D2; --warm:#5C6B2A; --warm-soft:#EDF3D2;
     --max:1080px;
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
-  body{margin:0;background:var(--paper);color:var(--ink);
+  body{margin:0;background-color:var(--paper);color:var(--ink);
+    background-image:
+      radial-gradient(1000px 550px at 50% -15%, rgba(214,227,140,.5), transparent 60%),
+      radial-gradient(800px 500px at 12% 110%, rgba(196,214,120,.38), transparent 65%),
+      radial-gradient(900px 500px at 92% 102%, rgba(214,227,140,.28), transparent 60%);
+    background-attachment:fixed;
     font-family:'Inter',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
     -webkit-font-smoothing:antialiased;line-height:1.6;}
-  .serif{font-family:'Newsreader',Georgia,serif}
+  .serif{font-family:'Fraunces',Georgia,serif}
   a{color:inherit;text-decoration:none}
   .wrap{max-width:var(--max);margin:0 auto;padding:0 28px}
 
-  /* NAV */
-  nav{position:sticky;top:0;z-index:50;background:rgba(12,11,9,.78);
-    backdrop-filter:saturate(140%) blur(12px);border-bottom:1px solid var(--line)}
+  /* NAV — verre dépoli clair */
+  nav{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.55);
+    backdrop-filter:saturate(140%) blur(16px);border-bottom:1px solid rgba(255,255,255,.7)}
   .nav-in{max-width:var(--max);margin:0 auto;padding:16px 28px;display:flex;align-items:center;justify-content:space-between;gap:18px}
   .logo{font-size:21px;letter-spacing:.2px}
-  .logo i{font-family:'Newsreader';font-style:italic;font-weight:500}
+  .logo i{font-family:'Fraunces';font-style:italic;font-weight:500}
   .logo b{font-weight:600}
   .nav-links{display:flex;gap:26px;align-items:center;font-size:13.5px;color:var(--muted)}
   .nav-links a:hover{color:var(--ink)}
   .btn{display:inline-flex;align-items:center;gap:7px;border-radius:999px;font-weight:500;font-size:14px;
-    padding:10px 18px;transition:transform .15s ease, background .15s ease, border-color .15s}
+    padding:10px 18px;transition:transform .15s ease, background .15s ease, border-color .15s, box-shadow .15s}
   .btn:active{transform:scale(.97)}
-  .btn-accent{background:var(--accent);color:#0C0B09}
-  .btn-accent:hover{filter:brightness(1.05)}
-  .btn-ghost{border:1px solid var(--line);color:var(--ink)}
+  .btn-accent{background:var(--ink);color:var(--paper);box-shadow:0 10px 26px -12px rgba(46,58,28,.5)}
+  .btn-accent:hover{background:#3A4A24}
+  .btn-ghost{border:1px solid var(--line);background:rgba(255,255,255,.5);color:var(--ink)}
   .btn-ghost:hover{border-color:var(--accent)}
   @media(max-width:760px){ .nav-links a:not(.btn){display:none} }
 
   /* HERO */
   .hero{padding:96px 0 64px;text-align:center}
   .eyebrow{display:inline-block;font-size:12px;letter-spacing:.5px;color:var(--warm);
-    background:var(--warm-soft);border:1px solid #3a241a;border-radius:999px;padding:6px 14px;margin-bottom:26px}
-  h1{font-family:'Newsreader';font-weight:500;font-size:clamp(44px,8vw,84px);line-height:1.02;letter-spacing:-1.5px;margin:0}
-  h1 em{font-style:italic;color:var(--accent);font-weight:500}
+    background:var(--warm-soft);border:1px solid #D9E0B4;border-radius:8px;padding:6px 14px;margin-bottom:26px}
+  h1{font-family:'Fraunces';font-weight:340;font-size:clamp(44px,8vw,84px);line-height:1.02;letter-spacing:-1.5px;margin:0}
+  h1 em{font-style:italic;color:var(--accent);font-weight:340}
   .sub{max-width:620px;margin:24px auto 0;color:var(--muted);font-size:17px}
   .hero-cta{margin-top:34px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
   .statbar{max-width:740px;margin:64px auto 0;display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-  .stat{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 18px}
-  .stat b{font-family:'Newsreader';font-weight:500;font-size:34px;letter-spacing:-1px;display:block;color:var(--ink)}
+  .stat{background:var(--card);border:1px solid rgba(255,255,255,.75);backdrop-filter:blur(14px);border-radius:20px;padding:22px 18px;
+    box-shadow:0 14px 40px -22px rgba(140,100,40,.35)}
+  .stat b{font-family:'Fraunces';font-weight:400;font-size:34px;letter-spacing:-1px;display:block;color:var(--ink)}
   .stat b.lime{color:var(--accent)}
   .stat span{font-size:12.5px;color:var(--muted)}
 
   /* SECTIONS */
   section{padding:72px 0;border-top:1px solid var(--line)}
   .kicker{font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--muted);margin-bottom:14px}
-  .h2{font-family:'Newsreader';font-weight:500;font-size:clamp(30px,5vw,46px);line-height:1.1;letter-spacing:-.6px;margin:0 0 18px}
+  .h2{font-family:'Fraunces';font-weight:400;font-size:clamp(30px,5vw,46px);line-height:1.1;letter-spacing:-.6px;margin:0 0 18px}
   .h2 em{font-style:italic;color:var(--accent)}
   .lead{color:var(--muted);max-width:620px;font-size:16px;margin:0}
 
   .manifeste p{font-size:18px;max-width:720px;color:var(--ink)}
-  .manifeste p.q{font-family:'Newsreader';font-style:italic;font-size:24px;color:var(--muted)}
+  .manifeste p.q{font-family:'Fraunces';font-style:italic;font-size:24px;color:var(--muted)}
   .mlist{list-style:none;padding:0;margin:22px 0 0;max-width:720px}
   .mlist li{padding:14px 0;border-top:1px solid var(--line);display:flex;gap:14px;align-items:baseline}
-  .mlist li b{font-family:'Newsreader';font-style:italic;font-weight:500;color:var(--accent);min-width:120px;font-size:16px}
+  .mlist li b{font-family:'Fraunces';font-style:italic;font-weight:500;color:var(--accent);min-width:120px;font-size:16px}
   .mlist li span{color:var(--muted);font-size:15px}
 
   .grid2{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:34px}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px 26px;transition:transform .18s ease,border-color .18s}
-  .card:hover{transform:translateY(-3px);border-color:rgba(200,255,60,.3)}
+  .card{background:var(--card);border:1px solid rgba(255,255,255,.75);backdrop-filter:blur(14px);border-radius:20px;padding:26px 26px;
+    box-shadow:0 14px 40px -22px rgba(140,100,40,.35);transition:transform .18s ease,box-shadow .18s}
+  .card:hover{transform:translateY(-3px);box-shadow:0 20px 48px -20px rgba(140,100,40,.42)}
   .card .num{font-size:12px;letter-spacing:2px;color:var(--accent);text-transform:uppercase;margin-bottom:12px}
-  .card h3{font-family:'Newsreader';font-weight:500;font-size:23px;margin:0 0 8px;letter-spacing:-.3px}
+  .card h3{font-family:'Fraunces';font-weight:450;font-size:23px;margin:0 0 8px;letter-spacing:-.3px}
   .card p{margin:0;color:var(--muted);font-size:14.5px}
 
   .values{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:34px}
-  .val{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 24px}
-  .val .n{font-family:'Newsreader';font-size:14px;color:var(--faint);letter-spacing:2px}
+  .val{background:var(--card);border:1px solid rgba(255,255,255,.75);backdrop-filter:blur(14px);border-radius:20px;padding:22px 24px;
+    box-shadow:0 14px 40px -22px rgba(140,100,40,.3)}
+  .val .n{font-family:'Fraunces';font-size:14px;color:var(--faint);letter-spacing:2px}
   .val h4{font-size:16px;margin:6px 0 6px;font-weight:600}
   .val p{margin:0;color:var(--muted);font-size:14px}
 
   .events{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:34px}
-  .ev{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 22px;transition:transform .18s ease,border-color .18s}
-  .ev:hover{transform:translateY(-3px);border-color:rgba(255,158,107,.35)}
-  .ev .freq{display:inline-block;font-size:11px;letter-spacing:.4px;color:var(--warm);background:var(--warm-soft);border-radius:999px;padding:4px 11px;margin-bottom:12px}
-  .ev h4{font-family:'Newsreader';font-weight:500;font-size:20px;margin:0 0 6px}
+  .ev{background:var(--card);border:1px solid rgba(255,255,255,.75);backdrop-filter:blur(14px);border-radius:20px;padding:22px 22px;
+    box-shadow:0 14px 40px -22px rgba(140,100,40,.3);transition:transform .18s ease,box-shadow .18s}
+  .ev:hover{transform:translateY(-3px);box-shadow:0 20px 48px -20px rgba(140,100,40,.4)}
+  .ev .freq{display:inline-block;font-size:11px;letter-spacing:.4px;color:var(--warm);background:var(--warm-soft);border-radius:7px;padding:4px 11px;margin-bottom:12px}
+  .ev h4{font-family:'Fraunces';font-weight:450;font-size:20px;margin:0 0 6px}
   .ev p{margin:0;color:var(--muted);font-size:13.5px}
 
   /* CTA */
   .final{text-align:center;padding:90px 0}
-  .final h2{font-family:'Newsreader';font-weight:500;font-size:clamp(34px,6vw,60px);line-height:1.05;letter-spacing:-1px;margin:0}
+  .final h2{font-family:'Fraunces';font-weight:340;font-size:clamp(34px,6vw,60px);line-height:1.05;letter-spacing:-1px;margin:0}
   .final h2 em{font-style:italic;color:var(--accent)}
   .final .meta{color:var(--muted);font-size:14px;margin:18px 0 26px}
 
@@ -146,7 +155,7 @@
     <div class="wrap">
       <span class="eyebrow">+300 membres · +2 Md€ de cash-out cumulés</span>
       <h1 class="serif">You sold.<br><em>Now what?</em></h1>
-      <p class="sub">Le seul endroit en France où l'on parle 150-0 B ter, vide post-exit et allocation de capital — entre gens qui sont passés par là.</p>
+      <p class="sub">Le seul endroit en France où l'on parle 150-0 B ter, vide post-exit et allocation de capital, entre gens qui sont passés par là.</p>
       <div class="hero-cta">
         <a class="btn btn-accent" href="https://tally.so/r/wADNZN" target="_blank" rel="noopener">Rejoindre +300 exiters →</a>
         <a class="btn btn-ghost" href="#manifeste">Lire le manifeste</a>
@@ -168,7 +177,7 @@
       <p class="q">L'exit bouleverse notre rapport à l'argent, au temps et à nous-mêmes. Surgissent alors des questions d'une intensité inattendue :</p>
       <ul class="mlist">
         <li><b>Matérielles</b><span>Que faire de mon argent, de mon 150-0 B ter, de ma holding, de mon allocation.</span></li>
-        <li><b>Relationnelles</b><span>Comment me situer face à mes amis, ma famille — élever sainement mes enfants.</span></li>
+        <li><b>Relationnelles</b><span>Comment me situer face à mes amis, ma famille. Élever sainement mes enfants.</span></li>
         <li><b>Existentielles</b><span>Comment combler le vide, redonner du sens, reconstruire une identité.</span></li>
       </ul>
       <p style="margin-top:24px;color:var(--muted)">Au fond, tout se résume à deux interrogations : <b style="color:var(--ink)">je fais quoi de mon argent ? Je fais quoi de ma vie ?</b></p>
@@ -182,10 +191,10 @@
       <h2 class="h2">Un club construit autour de <em>vrais besoins</em></h2>
       <p class="lead">Pas un énième réseau de networking. Un espace structuré autour de ce que vivent réellement les post-exiteurs.</p>
       <div class="grid2">
-        <div class="card"><div class="num">01 — Réseau</div><h3>Des pairs d'exception</h3><p>Exclusivement des entrepreneurs post-exit. Confidentiel, libre, propice au ping-pong intellectuel et aux opportunités croisées.</p></div>
-        <div class="card"><div class="num">02 — Capital</div><h3>Gestion du patrimoine</h3><p>150-0 B ter, allocation d'actifs, MFO, CGP, structuration holding, due diligence des fonds. Les meilleures pratiques entre pairs.</p></div>
-        <div class="card"><div class="num">03 — Sens</div><h3>Psychologie post-exit</h3><p>Le vide, la perte d'identité, la reconstruction d'une mission. On en parle sans tabou, entre ceux qui comprennent.</p></div>
-        <div class="card"><div class="num">04 — Vie</div><h3>Le quotidien d'un exiter</h3><p>Éducation des enfants, gouvernance familiale, transmission de valeurs, philanthropie, organisation du quotidien.</p></div>
+        <div class="card"><div class="num">01 · Réseau</div><h3>Des pairs d'exception</h3><p>Exclusivement des entrepreneurs post-exit. Confidentiel, libre, propice au ping-pong intellectuel et aux opportunités croisées.</p></div>
+        <div class="card"><div class="num">02 · Capital</div><h3>Gestion du patrimoine</h3><p>150-0 B ter, allocation d'actifs, MFO, CGP, structuration holding, due diligence des fonds. Les meilleures pratiques entre pairs.</p></div>
+        <div class="card"><div class="num">03 · Sens</div><h3>Psychologie post-exit</h3><p>Le vide, la perte d'identité, la reconstruction d'une mission. On en parle sans tabou, entre ceux qui comprennent.</p></div>
+        <div class="card"><div class="num">04 · Vie</div><h3>Le quotidien d'un exiter</h3><p>Éducation des enfants, gouvernance familiale, transmission de valeurs, philanthropie, organisation du quotidien.</p></div>
       </div>
     </div>
   </section>
@@ -213,7 +222,7 @@
       <div class="events">
         <div class="ev"><span class="freq">Mensuel</span><h4>Dîners privés</h4><p>Tables de 30 exiters, thématiques ou libres. Paris et au-delà.</p></div>
         <div class="ev"><span class="freq">Régulier</span><h4>Masterclasses</h4><p>Fiscalité, financement, allocation. Avec avocats fiscalistes, banquiers privés, gérants.</p></div>
-        <div class="ev"><span class="freq">Régulier</span><h4>Conférences</h4><p>Macro, géopolitique, marchés. Rothschild, ISAI, Deutsche Bank — des intervenants de premier plan.</p></div>
+        <div class="ev"><span class="freq">Régulier</span><h4>Conférences</h4><p>Macro, géopolitique, marchés. Rothschild, ISAI, Deutsche Bank. Des intervenants de premier plan.</p></div>
         <div class="ev"><span class="freq">Ponctuel</span><h4>Workshops</h4><p>Restart, co-investissement, recherche d'associé. Des formats actifs entre pairs.</p></div>
         <div class="ev"><span class="freq">2× par an</span><h4>Voyages</h4><p>Chine, Marrakech, Tel Aviv. Entre membres, dans des lieux d'exception.</p></div>
         <div class="ev"><span class="freq">Continu</span><h4>War Room</h4><p>+12 channels WhatsApp thématiques. Deals, patrimoine, fiscalité, quotidien. Le flux permanent.</p></div>
