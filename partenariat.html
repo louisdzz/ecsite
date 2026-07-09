@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
 <title>Exit Club · Composez votre partenariat</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
@@ -11,6 +12,7 @@
 body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
 .serif{font-family:'Fraunces',Georgia,serif}
 .wrap{max-width:960px;margin:0 auto;padding:26px 34px 60px}
+#content{display:none}
 .top{display:flex;align-items:center;justify-content:space-between;padding-bottom:14px;border-bottom:1px solid var(--line)}
 .mark{font-family:'Fraunces',Georgia,serif;font-size:20px}.mark i{font-style:italic}.mark b{font-weight:600}
 .top .r{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint)}
@@ -19,13 +21,14 @@ h1{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:42px;line-heig
 h1 .it{font-style:italic;color:var(--accent)}
 .sub{font-size:15.5px;color:var(--muted);margin-top:14px;max-width:56ch;line-height:1.55}
 /* sticky total */
-.bar{position:sticky;top:0;z-index:20;background:rgba(247,243,228,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);
-  display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0;margin-top:22px;flex-wrap:wrap}
+.bar{position:sticky;top:0;z-index:20;background:var(--deep);color:var(--paper);border-radius:14px;
+  display:flex;align-items:center;justify-content:space-between;gap:16px;padding:16px 22px;margin-top:22px;flex-wrap:wrap;box-shadow:0 6px 20px rgba(36,48,20,.14)}
+.bar .lbl{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#C9CBB4}
 .bar .tot{display:flex;align-items:baseline;gap:12px}
-.bar .n{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:38px;color:var(--ink);line-height:1}
-.bar .mo{font-size:13px;color:var(--muted)}
-.bar .reach{font-size:12px;color:var(--muted)}
-.bar .reach b{font-family:'Fraunces';font-size:17px;color:var(--accent);font-weight:400}
+.bar .n{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:40px;line-height:1;display:inline-block}
+.bar .n.flash{animation:pop .32s ease}
+@keyframes pop{0%{transform:scale(1)}40%{transform:scale(1.14);color:#D9E48A}100%{transform:scale(1)}}
+.bar .mo{font-size:13px;color:#C9CBB4}
 .sec{padding:26px 0 0}
 .lab{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--accent);margin-bottom:6px}
 .opt{display:flex;align-items:flex-start;gap:14px;padding:14px 2px;border-top:1px solid var(--line);cursor:pointer}
@@ -37,7 +40,16 @@ h1 .it{font-style:italic;color:var(--accent)}
 .opt .t small{display:block;font-family:'Inter';font-weight:400;font-size:11px;letter-spacing:.05em;text-transform:uppercase;color:var(--faint);margin-top:2px}
 .opt .d{font-size:13px;color:var(--muted);margin-top:4px;line-height:1.45}
 .opt .price{font-family:'Fraunces',Georgia,serif;font-size:18px;color:var(--ink);flex:none;white-space:nowrap;padding-top:1px}
-/* exclusivity block */
+/* venue */
+.venue{margin-top:34px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px 26px}
+.venue h3{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:24px}
+.venue h3 .it{font-style:italic;color:var(--accent)}
+.venue p{font-size:13.5px;color:var(--muted);line-height:1.6;margin-top:10px;max-width:70ch}
+.venue .rooms{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:16px}
+.venue .rm{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--paper)}
+.venue .rm .n{font-family:'Fraunces',Georgia,serif;font-size:15px}
+.venue .rm .c{font-size:12px;color:var(--muted);margin-top:3px}
+/* exclusivity */
 .excl{margin-top:30px;background:var(--deep);color:var(--paper);border-radius:16px;padding:22px 26px;display:flex;gap:16px;align-items:flex-start;cursor:pointer}
 .excl input{appearance:none;-webkit-appearance:none;width:22px;height:22px;border:1.5px solid #7C8A5A;border-radius:6px;flex:none;margin-top:3px;cursor:pointer;position:relative;background:transparent}
 .excl input:checked{background:#C7DB4E;border-color:#C7DB4E}
@@ -50,11 +62,27 @@ h1 .it{font-style:italic;color:var(--accent)}
 .cta .rec{font-size:13px;color:var(--muted)}.cta .rec b{color:var(--ink)}
 .btn{display:inline-flex;align-items:center;gap:8px;background:var(--deep);color:var(--paper);font-size:14px;font-weight:600;padding:13px 22px;border-radius:999px;text-decoration:none}
 .foot{margin-top:34px;font-size:11px;color:var(--faint);letter-spacing:.04em}
-@media(max-width:680px){.wrap{padding:22px 20px 50px}h1{font-size:32px}.bar .n{font-size:30px}.opt .price{font-size:16px}}
+/* gate */
+#gate{position:fixed;inset:0;z-index:100;background:var(--paper);display:flex;align-items:center;justify-content:center;flex-direction:column;gap:14px;padding:24px;text-align:center}
+#gate .m{font-family:'Fraunces',Georgia,serif;font-size:26px}#gate .m i{font-style:italic}#gate .m b{font-weight:600}
+#gate p{font-size:14px;color:var(--muted);max-width:34ch}
+#gate input{width:260px;max-width:100%;border:1px solid var(--line);border-radius:999px;padding:12px 18px;font-size:15px;background:var(--card);text-align:center}
+#gate button{background:var(--deep);color:var(--paper);border:none;border-radius:999px;padding:12px 26px;font-size:14px;font-weight:600;cursor:pointer}
+#gate .err{color:#a1442f;font-size:13px;min-height:18px}
+@media(max-width:680px){.wrap{padding:22px 20px 50px}h1{font-size:32px}.bar .n{font-size:32px}.opt .price{font-size:16px}.venue .rooms{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-<div class="wrap">
+
+<div id="gate">
+  <div class="m serif"><i>exit</i><b>.club</b></div>
+  <p>Espace partenaires. Entrez le mot de passe pour accéder à la proposition.</p>
+  <input id="pw" type="password" placeholder="Mot de passe" autocomplete="off">
+  <button id="go">Entrer</button>
+  <div class="err" id="err"></div>
+</div>
+
+<div class="wrap" id="content">
 
   <div class="top">
     <div class="mark serif"><i>exit</i><b>.club</b></div>
@@ -63,46 +91,57 @@ h1 .it{font-style:italic;color:var(--accent)}
 
   <section class="hero">
     <h1>Composez votre <span class="it">partenariat.</span></h1>
-    <p class="sub">Cochez les prestations qui vous intéressent. Votre budget et votre portée se mettent à jour en direct. Vous vous adressez à ~300 fondateurs post-exit, plus de 2 Md€ de cash-out cumulés, 88 % d'ouverture newsletter.</p>
+    <p class="sub">Cochez les prestations qui vous intéressent, votre budget se met à jour en direct. Vous vous adressez à ~300 fondateurs post-exit, plus de 2 Md€ de cash-out cumulés, 88 % d'ouverture newsletter.</p>
   </section>
 
   <div class="bar">
-    <div class="tot"><span class="n" id="total">0 €</span><span class="mo" id="permois">soit 0 € / mois</span></div>
-    <div class="reach">Portée estimée : <b id="reach">0</b> impressions / an</div>
+    <div class="tot"><span class="lbl">Votre formule</span><span class="n" id="total">0 €</span><span class="mo" id="permois">soit 0 € / mois</span></div>
+    <span class="mo">/ an HT</span>
   </div>
 
   <section class="sec">
     <div class="lab">Événements</div>
-    <label class="opt"><input type="checkbox" data-price="15000" data-reach="120" checked><span class="body"><span class="t">Anniversaire de l'Exit Club<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">Le rendez-vous flagship de la saison, votre marque au cœur de la soirée.</span></span><span class="price">15 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="15000" data-reach="150" checked><span class="body"><span class="t">La Nuit de l'Exit<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">La soirée signature de tout l'écosystème de l'exit.</span></span><span class="price">15 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="10000" data-reach="120" checked><span class="body"><span class="t">Noël de l'Exit Club<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">Le cocktail de fin d'année, dans un cadre d'exception.</span></span><span class="price">10 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="14000" data-reach="120" checked><span class="body"><span class="t">Le Shabbat trimestriel<small>Cocktail intime · 30 membres · 4 / an</small></span><span class="d">Le rendez-vous le plus intime, votre entrée dans la communauté entrepreneuriale juive de Paris.</span></span><span class="price">14 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="10000" data-reach="120" checked><span class="body"><span class="t">Le Cocktail trimestriel<small>Cocktail intime · 30 membres · 4 / an</small></span><span class="d">Un rendez-vous récurrent en petit comité, top of mind toute l'année.</span></span><span class="price">10 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="15000" checked><span class="body"><span class="t">Anniversaire de l'Exit Club<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">Le rendez-vous flagship de la saison, votre marque au cœur de la soirée.</span></span><span class="price">15 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="15000" checked><span class="body"><span class="t">La Nuit de l'Exit<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">La soirée signature de tout l'écosystème de l'exit.</span></span><span class="price">15 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="10000" checked><span class="body"><span class="t">Noël de l'Exit Club<small>Cocktail · 100 membres · 1 / an</small></span><span class="d">Le cocktail de fin d'année, dans un cadre d'exception.</span></span><span class="price">10 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="14000" checked><span class="body"><span class="t">Le Shabbat trimestriel<small>Cocktail intime · 30 membres · 4 / an</small></span><span class="d">Le rendez-vous le plus intime, votre entrée dans la communauté entrepreneuriale juive de Paris.</span></span><span class="price">14 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="10000" checked><span class="body"><span class="t">Le Cocktail trimestriel<small>Cocktail intime · 30 membres · 4 / an</small></span><span class="d">Un rendez-vous récurrent en petit comité, top of mind toute l'année.</span></span><span class="price">10 000 €</span></label>
   </section>
 
   <section class="sec">
     <div class="lab">Newsletter &amp; contenu</div>
-    <label class="opt"><input type="checkbox" data-price="12000" data-reach="3168" checked><span class="body"><span class="t">Encart newsletter<small>Jusqu'à 12 éditions</small></span><span class="d">Présence dans la newsletter hebdomadaire, ouverte par 88 % des membres.</span></span><span class="price">12 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="6000" data-reach="3000" checked><span class="body"><span class="t">Co-branding des communications<small>Sur toute la saison</small></span><span class="d">Votre marque associée à l'ensemble des prises de parole du club.</span></span><span class="price">6 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="8000" data-reach="1056"><span class="body"><span class="t">Rubrique &amp; contenu premium<small>Contenu signé, rediffusé</small></span><span class="d">Un contenu éditorial rédigé et rediffusé aux membres.</span></span><span class="price">8 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="12000" checked><span class="body"><span class="t">Encart newsletter<small>Jusqu'à 12 éditions</small></span><span class="d">Un bloc à votre marque dans la newsletter hebdomadaire du lundi, ouverte par 88 % des membres.</span></span><span class="price">12 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="6000" checked><span class="body"><span class="t">Co-branding des communications<small>Sur toute la saison</small></span><span class="d">Votre logo et votre mention sur les communications du club : en-tête et pied de la newsletter, invitations aux événements, signalétique sur place.</span></span><span class="price">6 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="8000"><span class="body"><span class="t">Rubrique &amp; contenu premium<small>Contenu signé, rediffusé</small></span><span class="d">Une rubrique récurrente signée avec vous dans la newsletter (par exemple « Le point patrimoine »), rédigée avec le club et envoyée aux membres.</span></span><span class="price">8 000 €</span></label>
   </section>
 
   <section class="sec">
     <div class="lab">Digital &amp; notoriété</div>
-    <label class="opt"><input type="checkbox" data-price="3000" data-reach="300" checked><span class="body"><span class="t">Annuaire des prestataires<small>app.exit.club</small></span><span class="d">Votre référencement dans l'annuaire des prestataires recommandés.</span></span><span class="price">3 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="3000" data-reach="150" checked><span class="body"><span class="t">Visibilité dealflow<small>Formats digitaux</small></span><span class="d">Présence sur le flux d'opportunités et les formats digitaux.</span></span><span class="price">3 000 €</span></label>
-    <label class="opt"><input type="checkbox" data-price="5000" data-reach="300" checked><span class="body"><span class="t">Logo partout<small>Invitations, scénographie, site</small></span><span class="d">Votre marque devient un repère de qualité sur tous les supports.</span></span><span class="price">5 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="3000" checked><span class="body"><span class="t">Annuaire des prestataires<small>app.exit.club</small></span><span class="d">Votre référencement dans l'annuaire des prestataires recommandés de l'app du club.</span></span><span class="price">3 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="3000" checked><span class="body"><span class="t">Visibilité dealflow<small>Formats digitaux</small></span><span class="d">Présence sur le flux d'opportunités et les formats digitaux du club.</span></span><span class="price">3 000 €</span></label>
+    <label class="opt"><input type="checkbox" data-price="5000" checked><span class="body"><span class="t">Logo partout<small>Invitations, scéno, newsletter, site</small></span><span class="d">Votre logo sur les invitations, la scénographie et les écrans des soirées, la newsletter et le site du club.</span></span><span class="price">5 000 €</span></label>
   </section>
 
   <label class="excl">
-    <input type="checkbox" data-price="25000" data-reach="0" checked>
+    <input type="checkbox" data-price="25000" checked>
     <div>
       <div class="k">Option premium</div>
       <div class="t">Exclusivité sur la gestion de patrimoine</div>
-      <div class="d">Vous êtes la seule marque de gestion de patrimoine du club. Aucun concurrent sur vos rendez-vous ni dans la newsletter, toute la saison. C'est ce qui transforme une présence en position de référence.</div>
+      <div class="d">Vous êtes la seule marque de gestion de patrimoine du club. Aucun concurrent sur vos rendez-vous ni dans la newsletter, toute la saison.</div>
     </div>
     <div class="price">+ 25 000 €</div>
   </label>
+
+  <section class="venue">
+    <div class="lab">Le lieu</div>
+    <h3>51 avenue d'Iéna, <span class="it">un cercle privé du XVIe.</span></h3>
+    <p>Nos rendez-vous se tiennent au 51 Iéna, un cercle privé niché dans un hôtel particulier du XVIe arrondissement, ancienne propriété de l'entrepreneur et mécène Calouste Gulbenkian. Trois salons de réception signés par l'architecte Joseph Dirand, un cadre confidentiel et rare, réservé aux membres du Cercle. C'est là que votre marque reçoit les fondateurs de l'Exit Club.</p>
+    <div class="rooms">
+      <div class="rm"><div class="n">Salle de bal</div><div class="c">100 m² · jusqu'à 100 en cocktail</div></div>
+      <div class="rm"><div class="n">La Bibliothèque</div><div class="c">120 m² · jusqu'à 150 en cocktail</div></div>
+      <div class="rm"><div class="n">Le Salon Ovale</div><div class="c">55 m² · le plus intime, dîners confidentiels</div></div>
+    </div>
+  </section>
 
   <div class="cta">
     <div class="rec">Votre formule : <b id="ctaTotal">0 €</b> / an. On la verrouille ensemble ?</div>
@@ -115,15 +154,29 @@ h1 .it{font-style:italic;color:var(--accent)}
 
 <script>
 (function(){
+  var HASH="3a7d4f69600108db8ee98f14f7c6d2b7a33aa47970c5e77524e35916d338c612";
+  async function sha(s){var b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));return Array.from(new Uint8Array(b)).map(function(x){return x.toString(16).padStart(2,'0')}).join('');}
+  function unlock(){document.getElementById('gate').style.display='none';document.getElementById('content').style.display='block';}
+  if(sessionStorage.getItem('ec_part_ok')==='1') unlock();
+  async function tryPw(){
+    var v=document.getElementById('pw').value;
+    if(await sha(v)===HASH){ sessionStorage.setItem('ec_part_ok','1'); unlock(); }
+    else{ document.getElementById('err').textContent='Mot de passe incorrect.'; }
+  }
+  document.getElementById('go').addEventListener('click',tryPw);
+  document.getElementById('pw').addEventListener('keydown',function(e){if(e.key==='Enter')tryPw();});
+
   var boxes=[].slice.call(document.querySelectorAll('input[type=checkbox]'));
   function fmt(n){return n.toLocaleString('fr-FR');}
+  var first=true;
   function update(){
-    var t=0,r=0;
-    boxes.forEach(function(b){ if(b.checked){ t+=+b.dataset.price; r+=+b.dataset.reach; } });
+    var t=0;
+    boxes.forEach(function(b){ if(b.checked) t+=+b.dataset.price; });
     document.getElementById('total').textContent=fmt(t)+' €';
     document.getElementById('permois').textContent='soit '+fmt(Math.round(t/12))+' € / mois';
-    document.getElementById('reach').textContent=fmt(r);
     document.getElementById('ctaTotal').textContent=fmt(t)+' €';
+    if(!first){ var n=document.getElementById('total'); n.classList.remove('flash'); void n.offsetWidth; n.classList.add('flash'); }
+    first=false;
   }
   boxes.forEach(function(b){ b.addEventListener('change',update); });
   update();
