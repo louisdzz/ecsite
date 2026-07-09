@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Le Classement de l'Exit — exit.club</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
+.serif{font-family:'Fraunces',Georgia,serif}
+.wrap{max-width:1000px;margin:0 auto;padding:0 40px}
+.top{display:flex;align-items:center;justify-content:space-between;padding:26px 0}
+.mark{font-family:'Fraunces',Georgia,serif;font-size:21px}.mark i{font-style:italic}.mark b{font-weight:600}
+.top a{font-size:13px;color:var(--muted);text-decoration:none}
+.over{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint);margin:0 0 16px}
+.hero{padding:38px 0 34px}
+h1.disp{font-size:66px;line-height:.98}
+h1.disp .it{font-style:italic;color:var(--accent)}
+.lede{font-size:17px;color:var(--muted);max-width:58ch;margin:22px 0 0;line-height:1.6}
+.stat{margin-top:22px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.ticker{border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:30px 0 0;padding:14px 0;overflow:hidden;white-space:nowrap}
+.ticker .row{display:inline-block;animation:sc 40s linear infinite}
+.ticker span{font-family:'Fraunces',Georgia,serif;font-size:17px}.ticker .sep{color:var(--accent);margin:0 16px;font-style:italic}
+@keyframes sc{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+.eyebrow{font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin:0 0 8px}
+h2.disp{font-size:34px;font-weight:300}
+.intro{padding:56px 0 6px}
+.cats{display:grid;gap:16px;margin-top:26px}
+.cat{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px 24px}
+.cat .ch{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.cat h3{font-family:'Fraunces',Georgia,serif;font-weight:500;font-size:21px}
+.cat .votes{font-size:12px;color:var(--muted)}
+.cat .votes b{color:var(--accent)}
+.rank{margin-top:16px;display:grid;gap:10px}
+.row{display:flex;align-items:center;gap:14px}
+.num{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:18px;color:var(--accent);width:22px;text-align:center;flex:none}
+.bar{flex:1;height:34px;border-radius:8px;background:linear-gradient(90deg,#E7E2D0,#EFEBDD);position:relative;overflow:hidden}
+.bar span{position:absolute;left:14px;top:50%;transform:translateY(-50%);filter:blur(5px);color:var(--muted);font-size:13px;user-select:none}
+.lock{flex:none;font-size:12px;color:var(--faint);display:flex;align-items:center;gap:5px}
+.cat .cta{margin-top:16px}
+.linkbtn{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:9px 16px;text-decoration:none}
+.awards{margin-top:44px;background:var(--ink);color:var(--paper);border-radius:18px;padding:30px 32px}
+.awards .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:#C9CBB4;font-weight:600}
+.awards p{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:25px;line-height:1.3;margin-top:10px}
+.awards p em{font-style:italic;color:#D9C68A}
+.close{padding:52px 0;text-align:center}
+.close h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:30px}
+.close .btns{margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+.btn{font-size:14px;font-weight:600;padding:13px 22px;border-radius:999px;text-decoration:none}
+.btn-p{background:var(--ink);color:var(--paper)}.btn-g{border:1px solid var(--line);color:var(--ink)}
+.foot{border-top:1px solid var(--line);padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.foot a{color:var(--muted);text-decoration:none}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:44px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
+    <div style="display:flex;align-items:center;gap:22px">
+      <a href="/#manifeste" style="font-size:13.5px;color:var(--muted);text-decoration:none">Le club</a>
+      <a href="/#events" style="font-size:13.5px;color:var(--muted);text-decoration:none">Événements</a>
+      <a href="https://tally.so/r/wADNZN" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--paper);background:var(--accent);padding:9px 16px;border-radius:999px;text-decoration:none">Rejoindre</a>
+    </div>
+  </div>
+
+  <section class="hero">
+    <p class="over">L'annuaire de référence · établi par le cercle</p>
+    <h1 class="disp">Le Classement <span class="it">de l'Exit.</span></h1>
+    <p class="lede">Les meilleurs professionnels de l'exit — banquiers d'affaires, fiscalistes, notaires, gérants — désignés par ceux qui sont passés par là. Pas un annuaire payant : un classement établi par les votes de fondateurs qui ont vendu.</p>
+    <div class="stat">~300 votants · +2 Md€ de cash-out cumulés · Paris</div>
+  </section>
+
+  <div class="ticker"><div class="row">
+    <span>Banquiers d'affaires<span class="sep">·</span>Avocats fiscalistes<span class="sep">·</span>Notaires<span class="sep">·</span>Banques privées &amp; MFO<span class="sep">·</span>Experts-comptables<span class="sep">·</span>Réinvestissement<span class="sep">·</span>Assurance-vie lux<span class="sep">·</span>Crédit Lombard<span class="sep">·</span></span><span>Banquiers d'affaires<span class="sep">·</span>Avocats fiscalistes<span class="sep">·</span>Notaires<span class="sep">·</span>Banques privées &amp; MFO<span class="sep">·</span>Experts-comptables<span class="sep">·</span>Réinvestissement<span class="sep">·</span>Assurance-vie lux<span class="sep">·</span>Crédit Lombard<span class="sep">·</span></span>
+  </div></div>
+
+  <section class="intro">
+    <p class="eyebrow">Comment ça marche</p>
+    <h2 class="disp">Les membres votent. Le club tranche.</h2>
+    <p class="lede" style="margin-top:14px">Chaque catégorie est classée par les recommandations des membres — ceux qui ont réellement travaillé avec ces professionnels au moment de leur exit. Le détail du classement est réservé aux membres.</p>
+
+    <div class="cats">
+      <!-- template de catégorie, dupliqué -->
+      <div class="cat">
+        <div class="ch"><h3>Banquiers d'affaires (M&amp;A)</h3><div class="votes"><b>42</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Cabinet le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Avocats fiscalistes</h3><div class="votes"><b>38</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Cabinet le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Notaires</h3><div class="votes"><b>26</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Étude la mieux classée de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième étude recommandée</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième étude recommandée</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Banques privées &amp; Multi-Family Offices</h3><div class="votes"><b>51</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Acteur le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Experts-comptables &amp; due diligence</h3><div class="votes"><b>22</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Cabinet le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième cabinet recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Réinvestissement — PE, immobilier, dette</h3><div class="votes"><b>34</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Acteur le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+
+      <div class="cat">
+        <div class="ch"><h3>Assurance-vie luxembourgeoise &amp; crédit Lombard</h3><div class="votes"><b>19</b> recommandations de membres</div></div>
+        <div class="rank">
+          <div class="row"><div class="num">i</div><div class="bar"><span>Acteur le mieux classé de la catégorie</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">ii</div><div class="bar"><span>Deuxième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+          <div class="row"><div class="num">iii</div><div class="bar"><span>Troisième acteur recommandé</span></div><div class="lock">🔒 Membres</div></div>
+        </div>
+        <div class="cta"><a class="linkbtn" href="https://app.exit.club">Voir le classement →</a></div>
+      </div>
+    </div>
+
+    <div class="awards">
+      <div class="k">Chaque année</div>
+      <p>Le classement devient une cérémonie : <em>La Nuit de l'Exit</em>. Meilleur banquier, meilleur fiscaliste, meilleur notaire, meilleur deal de l'année — remis devant tout l'écosystème.</p>
+    </div>
+  </section>
+
+  <section class="close">
+    <h2 class="serif" style="font-weight:300">Membre du club ? <span style="font-style:italic;color:var(--accent)">Votez et voyez le classement.</span></h2>
+    <div class="btns">
+      <a class="btn btn-p" href="https://app.exit.club">Accéder au classement</a>
+      <a class="btn btn-g" href="https://www.exit.club">Rejoindre le club</a>
+    </div>
+    <p class="lede" style="margin:22px auto 0;text-align:center">Vous êtes un professionnel et souhaitez être référencé ? Le club ne se vend pas — mais on peut en parler.</p>
+  </section>
+
+  <div class="foot">
+    <div>Exit Club · Le Classement de l'Exit · établi par les membres · Paris</div>
+    <div><a href="https://www.exit.club">exit.club</a></div>
+  </div>
+
+</div>
+</body>
+</html>
