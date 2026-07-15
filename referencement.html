@@ -82,6 +82,7 @@ button:disabled{opacity:.55;cursor:wait}
         <option>Fonds PE / LBO</option>
         <option>Fonds Dette</option>
         <option>Fonds VC</option>
+        <option>Secondaire tech &amp; pré-IPO</option>
         <option>Autre</option>
       </select>
     </div>
@@ -108,7 +109,7 @@ button:disabled{opacity:.55;cursor:wait}
 
   <div class="foot">
     <div>Exit Club · L'Écosystème de l'Exit</div>
-    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="https://www.exit.club">exit.club</a></div>
+    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="mailto:louis@exit.club?subject=Référencement%20·%20aide">Un bug, une question ? Écrivez-moi</a></div>
   </div>
 
 </div>
@@ -118,7 +119,7 @@ button:disabled{opacity:.55;cursor:wait}
   var q = new URLSearchParams(location.search);
   // Préremplissage depuis les fiches et les CTA de catégorie
   if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
-  var catMap = {"banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC"};
+  var catMap = {"banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire tech & pré-IPO"};
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
   var dem = q.get("demande");
   var radios = document.querySelectorAll('input[name=demande]');
