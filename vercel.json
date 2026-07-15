@@ -1,3 +1,7 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/classement", "destination": "/ecosysteme", "permanent": true },
+    { "source": "/classement.html", "destination": "/ecosysteme", "permanent": true }
+  ]
 }
