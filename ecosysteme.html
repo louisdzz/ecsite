@@ -4576,16 +4576,22 @@ h1.disp .it{font-style:italic;color:var(--accent)}
   });
 })();
 (function(){
-  fetch('https://exit-club-app.vercel.app/api/ecosysteme-actus').then(function(r){return r.json()}).then(function(d){
+  var sec = document.getElementById('actualites');
+  function hide(){ if (sec) sec.style.display = 'none'; }
+  function escp(s){ var d = document.createElement('div'); d.textContent = s == null ? '' : String(s); return d.innerHTML; }
+  fetch('https://exit-club-app.vercel.app/api/ecosysteme-actus').then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(d){
     var el = document.getElementById('actus-list');
-    if (!d.items || !d.items.length) { el.innerHTML = '<p class="aload">Le fil reprend très vite.</p>'; return; }
+    if (!d.items || !d.items.length) { hide(); return; }
+    var latest = d.items[0].date || '1970-01-01';
+    var age = (Date.now() - new Date(latest).getTime()) / 86400000;
+    if (age > 60) { hide(); return; }
     var mois = ["","janv.","févr.","mars","avr.","mai","juin","juil.","août","sept.","oct.","nov.","déc."];
     el.innerHTML = d.items.map(function(i){
-      var p = i.date.split('-');
+      var p = String(i.date).split('-');
       var dt = mois[parseInt(p[1],10)] + ' ' + p[0];
-      return '<div class="arow"><span class="adate">'+dt+'</span><span class="acat">'+(i.categorie||'Deal')+'</span><span><span class="acible">'+i.cible+'</span>'+(i.secteur?' <span class="asect">· '+i.secteur+'</span>':'')+'</span></div>';
+      return '<div class="arow"><span class="adate">'+escp(dt)+'</span><span class="acat">'+escp(i.categorie||'Deal')+'</span><span><span class="acible">'+escp(i.cible)+'</span>'+(i.secteur?' <span class="asect">· '+escp(i.secteur)+'</span>':'')+'</span></div>';
     }).join('');
-  }).catch(function(){ document.getElementById('actus-list').innerHTML = '<p class="aload">Le fil reprend très vite.</p>'; });
+  }).catch(hide);
 })();
 </script>
 </body>
