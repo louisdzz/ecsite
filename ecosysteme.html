@@ -64,6 +64,30 @@ h1.disp .it{font-style:italic;color:var(--accent)}
 .acible{font-weight:600;color:var(--ink)}
 .asect{color:var(--muted);font-size:13px}
 .aload{padding:16px 20px;font-size:13.5px;color:var(--faint);font-style:italic}
+.league{margin-top:48px;scroll-margin-top:110px}
+.league .metho{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 22px;margin:16px 0 0}
+.league .metho p{font-size:13px;color:var(--muted);line-height:1.6;max-width:82ch}
+.league .metho b{color:var(--ink)}
+.league .lh h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:24px;margin-top:26px}
+.lsub{font-size:12.5px;color:var(--faint);margin-top:3px}
+.league table{width:100%;border-collapse:collapse;margin-top:14px;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.league thead th{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);text-align:left;padding:11px 14px;border-bottom:1px solid var(--line);background:#F4F0DF}
+.league tbody td{padding:10px 14px;border-bottom:1px solid #EFEBDB;font-size:14px}
+.league tbody tr:last-child td{border-bottom:0}
+.league td.pos{font-family:'Fraunces',Georgia,serif;font-style:italic;color:var(--faint);width:34px}
+.league td.team{font-weight:600}
+.league td.team a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--line)}
+.league td.team a:hover{color:var(--accent)}
+.league td.num{text-align:center;color:var(--muted);width:60px}
+.league td.num.big{font-family:'Fraunces',Georgia,serif;font-size:18px;color:var(--ink)}
+.league td.lastop{color:var(--muted);font-size:13px}
+.league td.lastop span{color:var(--faint)}
+.league td.forme{white-space:nowrap;width:88px}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:#E3DECB;margin-right:4px}
+.dot.on{background:var(--accent)}
+.league tr.pod td.pos{color:var(--accent);font-weight:600}
+.league tr.pod{background:#F5F2DE}
+@media(max-width:760px){.league td.lastop,.league td.forme{display:none}}
 .mid{margin-top:44px;background:var(--ink);color:var(--paper);border-radius:18px;padding:30px 32px;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
 .mid p{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:23px;line-height:1.3;max-width:32ch}
 .mid p em{font-style:italic;color:#D9C68A}
@@ -86,7 +110,7 @@ h1.disp .it{font-style:italic;color:var(--accent)}
     <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
     <div style="display:flex;align-items:center;gap:22px">
       <a href="/#manifeste" style="font-size:13.5px;color:var(--muted);text-decoration:none">Le club</a>
-      <a href="/ligues" style="font-size:13.5px;color:var(--muted);text-decoration:none">Les Ligues</a>
+      <a href="#ligues" style="font-size:13.5px;color:var(--muted);text-decoration:none">Les Ligues</a>
       <a href="/#events" style="font-size:13.5px;color:var(--muted);text-decoration:none">Événements</a>
       <a href="https://tally.so/r/wADNZN" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--paper);background:var(--accent);padding:9px 16px;border-radius:999px;text-decoration:none">Rejoindre</a>
     </div>
@@ -4420,10 +4444,98 @@ h1.disp .it{font-style:italic;color:var(--accent)}
 
   <section class="actus" id="actualites">
     <div class="ah"><div><p class="eyebrow2">L'actualité de l'exit</p><h2 class="disp2">Les dernières opérations recensées.</h2></div>
-    <a class="linkbtn" href="/ligues">Voir les Ligues de l'Exit →</a></div>
+    <a class="linkbtn" href="#ligues">Voir les Ligues de l'Exit ↓</a></div>
     <div class="alist" id="actus-list"><p class="aload">Chargement du fil…</p></div>
   </section>
 
+  <section class="league" id="ligues">
+    <div class="ah"><div><p class="eyebrow2">Saison 2025-2026 · le championnat des conseils</p><h2 class="disp2">Les Ligues de l'Exit.</h2></div></div>
+    <div class="metho">
+      <p><b>Méthodologie.</b> Une opération = une cession d'entreprise française annoncée publiquement et documentée par l'Exit Club. Chaque firme citée comme conseil du cédant marque une opération. La saison court d'août à juillet. Le périmètre s'élargit en continu : il reflète les opérations suivies, pas l'exhaustivité du marché. <b>Une opération manque ?</b> <a href="mailto:louis@exit.club?subject=Ligues%20·%20opération%20à%20ajouter" style="color:var(--accent)">Signalez-la</a>, elle sera vérifiée puis comptée.</p>
+    </div>
+
+  <section class="league">
+    <div class="lh"><h2 class="disp">Ligue 1 · Conseils M&amp;A du cédant</h2><p class="lsub">Banques d'affaires et boutiques M&amp;A citées aux côtés des cédants</p></div>
+    <table>
+      <thead><tr><th>#</th><th>Firme</th><th title="Opérations saison 2025-26">25-26</th><th title="Opérations depuis 2020">Total</th><th>Dernière opération</th><th>Forme</th></tr></thead>
+      <tbody>
+      <tr class="pod"><td class="pos">1</td><td class="team"><a href="/f/amala-partners">Amala Partners</a></td><td class="num big">2</td><td class="num">3</td><td class="lastop">Phantasm Group <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot on"></i><i class="dot"></i></td></tr>
+      <tr class="pod"><td class="pos">2</td><td class="team">Societex CF</td><td class="num big">2</td><td class="num">2</td><td class="lastop">GT Ventilation &amp; GT Production <span>· oct. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot on"></i><i class="dot"></i></td></tr>
+      <tr class="pod"><td class="pos">3</td><td class="team">Septentrion Finance</td><td class="num big">2</td><td class="num">2</td><td class="lastop">Isaert <span>· déc. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot on"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">4</td><td class="team">Adviso Partners</td><td class="num big">2</td><td class="num">2</td><td class="lastop">SMI / ISO Miège / EML <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot on"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">5</td><td class="team">Alecia</td><td class="num big">2</td><td class="num">2</td><td class="lastop">Transports Mentré <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot on"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">6</td><td class="team"><a href="/f/in-extenso-finance">In Extenso Finance</a></td><td class="num big">1</td><td class="num">2</td><td class="lastop">MGPR <span>· sept. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">7</td><td class="team">Eurallia Finance</td><td class="num big">1</td><td class="num">2</td><td class="lastop">Les Rapid'Bleus <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">8</td><td class="team">Société Générale</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Mulato Cosmetics <span>· sept. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">9</td><td class="team">Spin-Off &amp; Co</td><td class="num big">1</td><td class="num">1</td><td class="lastop">VLS <span>· sept. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">10</td><td class="team">DGCM</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Finéco Eurofinancement <span>· oct. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">11</td><td class="team"><a href="/f/clearwater-international">Clearwater International</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Fresh Food Village <span>· oct. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">12</td><td class="team">Transactions &amp; Cie</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Promis <span>· nov. 2025</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">13</td><td class="team">Trium&amp;Co</td><td class="num big">1</td><td class="num">1</td><td class="lastop">NHT <span>· janv. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">14</td><td class="team">Canopée Consulting</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Abelio <span>· mars 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">15</td><td class="team"><a href="/f/edmond-de-rothschild-cf">Edmond de Rothschild CF</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Kingoland <span>· avr. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">16</td><td class="team">Eurvad</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Kizeo <span>· avr. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">17</td><td class="team">Margo Partners</td><td class="num big">1</td><td class="num">1</td><td class="lastop">HBI <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">18</td><td class="team">Next! Financial Advisors</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Spacivox <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">19</td><td class="team">RSR Conseil</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Spacivox <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">20</td><td class="team">Melcofin &amp; Co</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Azur Fragrances <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">21</td><td class="team">Carmine Capital</td><td class="num big">1</td><td class="num">1</td><td class="lastop">LJ Trucks <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">22</td><td class="team">Impulse Corporate Finance</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Dreampath Diagnostics <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">23</td><td class="team">Aoden</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Tecnosem <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">24</td><td class="team"><a href="/f/clairfield-international">Clairfield International</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Ivès <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">25</td><td class="team">Twinl</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Synten <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">26</td><td class="team"><a href="/f/clipperton">Clipperton</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Elements Apps <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">27</td><td class="team">CIC Conseil</td><td class="num big">0</td><td class="num">5</td><td class="lastop">SLER <span>· sept. 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">28</td><td class="team">Largillière Finance</td><td class="num big">0</td><td class="num">3</td><td class="lastop">XOS <span>· mars 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">29</td><td class="team">Linkers</td><td class="num big">0</td><td class="num">2</td><td class="lastop">La Table de Charlotte <span>· févr. 2025</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">30</td><td class="team">MBA Capital</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Lefebvre Paysages <span>· nov. 2020</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">31</td><td class="team">Odelia Capital</td><td class="num big">0</td><td class="num">1</td><td class="lastop">E.P.A.I. <span>· mars 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">32</td><td class="team">Entrepreneurs &amp; Finance</td><td class="num big">0</td><td class="num">1</td><td class="lastop">AD-CA <span>· avr. 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">33</td><td class="team"><a href="/f/natixis-partners">Natixis Partners</a></td><td class="num big">0</td><td class="num">1</td><td class="lastop">Finance Active <span>· avr. 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">34</td><td class="team">Eurohold</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Accent Bio <span>· avr. 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">35</td><td class="team"><a href="/f/cambon-partners">Cambon Partners</a></td><td class="num big">0</td><td class="num">1</td><td class="lastop">Cafpi <span>· mai 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">36</td><td class="team"><a href="/f/financiere-de-courcelles">Financière de Courcelles</a></td><td class="num big">0</td><td class="num">1</td><td class="lastop">SAH Leduc <span>· mai 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">37</td><td class="team">Banque Populaire BFC</td><td class="num big">0</td><td class="num">1</td><td class="lastop">PIT <span>· mai 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">38</td><td class="team">NFinance</td><td class="num big">0</td><td class="num">1</td><td class="lastop">TL Systèmes <span>· mai 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">39</td><td class="team">BNP Paribas CF</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Cémoi <span>· mai 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">40</td><td class="team">Heliconseil</td><td class="num big">0</td><td class="num">1</td><td class="lastop">AMD Conseil <span>· juin 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">41</td><td class="team">Acticam</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Com'Inject <span>· nov. 2021</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">42</td><td class="team">Sevenstones</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Bernetic <span>· mars 2022</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">43</td><td class="team"><a href="/f/bred-banque-privee">BRED Banque Privée</a></td><td class="num big">0</td><td class="num">1</td><td class="lastop">GIGASUD / DBCOI <span>· avr. 2022</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">44</td><td class="team">Acom CF</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Transports Laclau / TAAF <span>· juil. 2022</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">45</td><td class="team"><a href="/f/banque-delubac-cie">Banque Delubac &amp; Cie</a></td><td class="num big">0</td><td class="num">1</td><td class="lastop">C2S Conseil Chimie Service <span>· nov. 2022</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">46</td><td class="team">CFI Athema</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Michalak Paris <span>· févr. 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">47</td><td class="team">eCap Partner</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Kazam! Production <span>· avr. 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">48</td><td class="team">Agro Transmission</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Benoît Chocolats <span>· mai 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">49</td><td class="team">NewCo CF</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Antena Finance <span>· juil. 2023</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">50</td><td class="team">Otoktone</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Icones Imprimerie <span>· janv. 2024</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">51</td><td class="team">NINE58 Advisors</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Ateo Finance <span>· févr. 2024</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">52</td><td class="team">JTB &amp; Associés</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Roadside <span>· avr. 2024</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section class="league">
+    <div class="lh"><h2 class="disp">Ligue 2 · Avocats du cédant</h2><p class="lsub">Cabinets cités sur la structuration juridique des cessions</p></div>
+    <table>
+      <thead><tr><th>#</th><th>Firme</th><th title="Opérations saison 2025-26">25-26</th><th title="Opérations depuis 2020">Total</th><th>Dernière opération</th><th>Forme</th></tr></thead>
+      <tbody>
+      <tr class="pod"><td class="pos">1</td><td class="team">Clavé Avocat</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Fideas Capital <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr class="pod"><td class="pos">2</td><td class="team">One Société d'Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">HBI <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr class="pod"><td class="pos">3</td><td class="team"><a href="/f/villechenon">Villechenon</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">PricingHUB <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">4</td><td class="team"><a href="/f/august-debouzy">August Debouzy</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Spacivox <span>· juin 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">5</td><td class="team">BBLM Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Azur Fragrances <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">6</td><td class="team">AMC Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">LJ Trucks <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">7</td><td class="team">Korus Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Transports Mentré <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">8</td><td class="team"><a href="/f/latham-watkins">Latham &amp; Watkins</a></td><td class="num big">1</td><td class="num">1</td><td class="lastop">Dreampath Diagnostics <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">9</td><td class="team">In Extenso Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Electricité Veit <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">10</td><td class="team">Backbone Avocats</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Ivès <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">11</td><td class="team">Dentons France</td><td class="num big">1</td><td class="num">1</td><td class="lastop">Elements Apps <span>· juil. 2026</span></td><td class="forme"><i class="dot on"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      <tr><td class="pos">12</td><td class="team">Advant Altana</td><td class="num big">0</td><td class="num">1</td><td class="lastop">Easy-Barf <span>· déc. 2024</span></td><td class="forme"><i class="dot"></i><i class="dot"></i><i class="dot"></i></td></tr>
+      </tbody>
+    </table>
+  </section>
+  </section>
   <div class="mid">
     <p>Vous avez vendu votre entreprise ? <em>Rejoignez ceux qui sont passés par là.</em></p>
     <a class="btn btn-inv" href="https://tally.so/r/wADNZN" target="_blank" rel="noopener">Rejoindre l'Exit Club</a>

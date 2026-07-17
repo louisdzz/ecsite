@@ -1,7 +1,25 @@
 {
   "cleanUrls": true,
   "redirects": [
-    { "source": "/classement", "destination": "/ecosysteme", "permanent": true },
-    { "source": "/classement.html", "destination": "/ecosysteme", "permanent": true }
+    {
+      "source": "/classement",
+      "destination": "/ecosysteme",
+      "permanent": true
+    },
+    {
+      "source": "/classement.html",
+      "destination": "/ecosysteme",
+      "permanent": true
+    },
+    {
+      "source": "/ligues",
+      "destination": "/ecosysteme#ligues",
+      "permanent": false
+    },
+    {
+      "source": "/ligues.html",
+      "destination": "/ecosysteme#ligues",
+      "permanent": false
+    }
   ]
 }
