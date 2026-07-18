@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Se référencer · L'Écosystème de l'Exit | exit.club</title>
-<meta name="description" content="Demandez votre référencement gratuit dans L'Écosystème de l'Exit ou devenez Partenaire. Réponse sous 48h.">
+<meta name="description" content="Demandez votre référencement gratuit dans L'Écosystème de l'Exit ou faites vérifier votre fiche. Réponse sous 48h.">
 <link rel="canonical" href="https://www.exit.club/referencement">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
@@ -52,7 +52,7 @@ button:disabled{opacity:.55;cursor:wait}
   <section class="hero">
     <p class="over">L'Écosystème de l'Exit</p>
     <h1 class="disp">Votre place <span style="font-style:italic;color:var(--accent)">dans l'Écosystème.</span></h1>
-    <p class="lede">Vous êtes un acteur de l'exit ? Le référencement de base est gratuit. Le statut Partenaire débloque votre fiche complète : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Réponse sous 48h.</p>
+    <p class="lede">Vous êtes un acteur de l'exit ? Le référencement de base est gratuit. La fiche vérifiée débloque tout : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Réponse sous 48h.</p>
   </section>
 
   <form id="f" novalidate>
@@ -60,7 +60,7 @@ button:disabled{opacity:.55;cursor:wait}
       <label>Votre demande</label>
       <div class="radios" id="radios">
         <label class="radio"><input type="radio" name="demande" value="Être référencé (gratuit)"><span><b>Être référencé (gratuit)</b><span>Votre firme apparaît dans sa catégorie, avec sa fiche de base.</span></span></label>
-        <label class="radio"><input type="radio" name="demande" value="Devenir Partenaire"><span><b>Devenir Partenaire</b><span>Fiche complète que vous contrôlez, badge Exit Club, contact direct. Après un entretien de qualification.</span></span></label>
+        <label class="radio"><input type="radio" name="demande" value="Faire vérifier ma fiche"><span><b>Faire vérifier ma fiche</b><span>Fiche complète que vous contrôlez, badge Exit Club, contact direct. Après un entretien de qualification.</span></span></label>
       </div>
     </div>
     <div>
@@ -123,7 +123,7 @@ button:disabled{opacity:.55;cursor:wait}
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
   var dem = q.get("demande");
   var radios = document.querySelectorAll('input[name=demande]');
-  if (dem === "partenaire") radios[1].checked = true;
+  if (dem === "partenaire" || dem === "verifier") radios[1].checked = true;
   if (dem === "referencer" || !dem) radios[0].checked = true;
   function paint(){ document.querySelectorAll(".radio").forEach(function(r){ r.classList.toggle("on", r.querySelector("input").checked); }); }
   radios.forEach(function(r){ r.addEventListener("change", paint); }); paint();
