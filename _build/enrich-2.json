@@ -1,0 +1,60 @@
+{
+  "deals": [
+    {
+      "cible": "ATM Gaming",
+      "date": "2026-04-02",
+      "valeur": 180,
+      "conseils": [],
+      "avocats": ["LPA Law"],
+      "source": "https://globallegalchronicle.com/post-233711/"
+    },
+    {
+      "cible": "Japan Experience",
+      "date": "2026-01-15",
+      "valeur": null,
+      "conseils": [],
+      "avocats": ["Steering Legal"],
+      "source": "https://www.steeringlegal.com/en/steering-legal-advises-japan-experience-partners-on-sale-of-group-to-marietton-developpement/"
+    },
+    {
+      "cible": "Illuin Technology",
+      "date": "2025-12-18",
+      "valeur": 25,
+      "conseils": [],
+      "avocats": ["Jones Day"],
+      "source": "https://www.lemondedudroit.fr/deals/102395-jones-day-a-conseille-illuin-technology-et-ses-actionnaires-dans-le-cadre-dune-operation-de-financement.html"
+    },
+    {
+      "cible": "DE ANGELIS BAT-IR",
+      "date": "2025-12-01",
+      "valeur": null,
+      "conseils": ["Eurallia Finance"],
+      "avocats": ["Fidal"],
+      "source": "https://www.fusacq.com/buzz/eurallia-finance-nice-conseille-l-integration-de-la-societe-de-renovation-du-patrimoine-de-angelis-a256438_ca_"
+    },
+    {
+      "cible": "Infoclip",
+      "date": "2025-09-15",
+      "valeur": null,
+      "conseils": [],
+      "avocats": ["WAN Avocats"],
+      "source": "https://lamartineconseil.com/nos-references/rivage-realise-sa-premiere-acquisition/"
+    },
+    {
+      "cible": "Kribs Conseils",
+      "date": "2025-08-01",
+      "valeur": null,
+      "conseils": ["Rydge Conseil"],
+      "avocats": ["Fidal"],
+      "source": "https://groupe-crystal.com/publications/communique-presse/crystal-renforce-sa-presence-en-normandie-et-en-ile-de-france-avec-lacquisition-des-activites-de-gestion-privee-du-cabinet-kribs-conseils-065"
+    },
+    {
+      "cible": "Everlink Services",
+      "date": "2025-06-20",
+      "valeur": null,
+      "conseils": ["Societex"],
+      "avocats": ["Armand Avocats"],
+      "source": "https://www.fusacq.com/buzz/societex-accompagne-everlink-services-dans-sa-cession-au-groupe-inherent-a254324_fr_"
+    }
+  ]
+}

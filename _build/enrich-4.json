@@ -1,0 +1,44 @@
+{
+  "deals": [
+    {
+      "cible": "Phodé",
+      "date": "2026-06-09",
+      "valeur": null,
+      "conseils": ["Capitalmind"],
+      "avocats": null,
+      "source": "https://www.turennecapital.com/phode-laboratoire-specialise-dans-les-solutions-sensorielles-naturelles-reorganise-son-capital-avec-lentree-de-turenne-sante-en-minoritaire/"
+    },
+    {
+      "cible": "Catra BTP",
+      "date": "2026-06-04",
+      "valeur": null,
+      "conseils": ["Polaris CF"],
+      "avocats": null,
+      "source": "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Catra-BTP-s-accroche-a-un-nouvel-entrepreneur-710960"
+    },
+    {
+      "cible": "Brunone Innovation",
+      "date": "2026-05-18",
+      "valeur": null,
+      "conseils": ["In Extenso Finance"],
+      "avocats": ["Bouteiller Hunault"],
+      "source": "https://finance.inextenso.fr/actualites/cession-industriel-brunone-innovation/"
+    },
+    {
+      "cible": "Gleamer",
+      "date": "2026-03-04",
+      "valeur": 230,
+      "conseils": null,
+      "avocats": ["McDermott Will & Schulte"],
+      "source": "https://www.lemondedudroit.fr/deals/103279-mcdermott-will-schulte-conseille-les-fondateurs-et-associes-de-gleamer-dans-le-cadre-de-la-cession-a-radnet.html ; https://www.fiercebiotech.com/medtech/radnet-snaps-gleamer-eu215-million-upfront-bolster-its-ai-imaging-portfolio"
+    },
+    {
+      "cible": "Marine Transmissions",
+      "date": "2025-11-01",
+      "valeur": null,
+      "conseils": ["Eurallia Finance"],
+      "avocats": ["Silex"],
+      "source": "https://www.eurallia.fr/nos-actualites/le-groupe-marine-transmissions-vendu-un-expert-naval"
+    }
+  ]
+}

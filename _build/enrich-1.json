@@ -1,0 +1,44 @@
+{
+  "deals": [
+    {
+      "cible": "Job&Box",
+      "date": "2026-06-05",
+      "valeur": null,
+      "conseils": ["Auris Finance"],
+      "avocats": [],
+      "source": "https://www.fusacq.com/buzz/auris-finance-conseille-job-box-dans-son-rapprochement-avec-le-groupe-morgan-services-a259445_fr_"
+    },
+    {
+      "cible": "StereoLabs",
+      "date": "2026-02-09",
+      "valeur": null,
+      "conseils": [],
+      "avocats": ["A&O Shearman"],
+      "source": "https://www.lemondedudroit.fr/deals/102975-a-o-shearman-conseille-stereolabs-sur-lacquisition-de-ses-activites-par-ouster-inc.html"
+    },
+    {
+      "cible": "Etigo",
+      "date": "2026-01-19",
+      "valeur": null,
+      "conseils": ["In Extenso Finance"],
+      "avocats": ["Ooslo"],
+      "source": "https://finance.inextenso.fr/actualites/le-groupe-etigo-sadosse-a-primagroup-pour-poursuivre-son-developpement/"
+    },
+    {
+      "cible": "Pub Colaut",
+      "date": "2025-09-24",
+      "valeur": null,
+      "conseils": ["In Extenso Finance"],
+      "avocats": ["EP Avocat", "Luma Avocats"],
+      "source": "https://finance.inextenso.fr/actualites/pub-colaut-affiche-son-avenir/"
+    },
+    {
+      "cible": "Cantor",
+      "date": "2025-08-01",
+      "valeur": null,
+      "conseils": ["Victanis"],
+      "avocats": [],
+      "source": "https://www.fusacq.com/buzz/le-groupe-symolia-et-la-societe-cantor-se-rapprochent-operation-organisee-par-caisse-d-epargne-ile-de-france-a255236_fr_"
+    }
+  ]
+}

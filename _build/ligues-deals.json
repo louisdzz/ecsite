@@ -1,71 +1,926 @@
-{"deals": [
-{"cible": "Elements Apps", "date": "2026-07-10", "valeur": 35, "conseils": ["Clipperton"], "avocats": ["Dentons France"]},
-{"cible": "Synten", "date": "2026-07-09", "valeur": 2.5, "conseils": ["Twinl"], "avocats": []},
-{"cible": "Ivès", "date": "2026-07-09", "valeur": 10, "conseils": ["Clairfield International"], "avocats": ["Backbone Avocats"]},
-{"cible": "Tecnosem", "date": "2026-07-09", "valeur": 10, "conseils": ["Aoden"], "avocats": []},
-{"cible": "Electricité Veit", "date": "2026-07-08", "valeur": 5.5, "conseils": [], "avocats": ["In Extenso Avocats"]},
-{"cible": "Transports Mentré", "date": "2026-07-07", "valeur": 7.5, "conseils": ["Alecia"], "avocats": ["Korus Avocats"]},
-{"cible": "Dreampath Diagnostics", "date": "2026-07-07", "valeur": 154, "conseils": ["Impulse Corporate Finance"], "avocats": ["Latham & Watkins"]},
-{"cible": "LJ Trucks", "date": "2026-07-06", "valeur": 15, "conseils": ["Carmine Capital"], "avocats": ["AMC Avocats"]},
-{"cible": "Azur Fragrances", "date": "2026-07-01", "valeur": 10, "conseils": ["Melcofin & Co"], "avocats": ["BBLM Avocats"]},
-{"cible": "Les Rapid'Bleus", "date": "2026-06-29", "valeur": null, "conseils": ["Eurallia Finance"], "avocats": []},
-{"cible": "Phantasm Group", "date": "2026-06-24", "valeur": null, "conseils": ["Amala Partners"], "avocats": []},
-{"cible": "Spacivox", "date": "2026-06-16", "valeur": 40, "conseils": ["Amala Partners", "RSR Conseil", "Next! Financial Advisors"], "avocats": ["August Debouzy"]},
-{"cible": "HBI", "date": "2026-06-11", "valeur": 10, "conseils": ["Margo Partners"], "avocats": ["One Société d'Avocats"]},
-{"cible": "Fideas Capital", "date": "2026-06-11", "valeur": 10, "conseils": [], "avocats": ["Clavé Avocat"]},
-{"cible": "PricingHUB", "date": "2026-06-11", "valeur": 35, "conseils": [], "avocats": ["Villechenon"]},
-{"cible": "SMI / ISO Miège / EML", "date": "2026-06-05", "valeur": null, "conseils": ["Adviso Partners"], "avocats": []},
-{"cible": "Dealinka", "date": "2026-05-18", "valeur": 15, "conseils": ["Alecia"], "avocats": []},
-{"cible": "Kizeo", "date": "2026-04-28", "valeur": 50, "conseils": ["Eurvad"], "avocats": []},
-{"cible": "Kingoland", "date": "2026-04-13", "valeur": 15, "conseils": ["Edmond de Rothschild CF"], "avocats": []},
-{"cible": "Abelio", "date": "2026-03-30", "valeur": 10, "conseils": ["Canopée Consulting"], "avocats": []},
-{"cible": "Group-Solutions", "date": "2026-01-23", "valeur": null, "conseils": ["Adviso Partners"], "avocats": []},
-{"cible": "NHT", "date": "2026-01-08", "valeur": 5, "conseils": ["Trium&Co"], "avocats": []},
-{"cible": "Promis", "date": "2025-11-26", "valeur": null, "conseils": ["Transactions & Cie"], "avocats": []},
-{"cible": "Fresh Food Village", "date": "2025-10-30", "valeur": 45, "conseils": ["Clearwater International"], "avocats": []},
-{"cible": "GT Ventilation & GT Production", "date": "2025-10-15", "valeur": 7.5, "conseils": ["Societex CF"], "avocats": []},
-{"cible": "Finéco Eurofinancement", "date": "2025-10-15", "valeur": null, "conseils": ["DGCM"], "avocats": []},
-{"cible": "VLS", "date": "2025-09-15", "valeur": null, "conseils": ["Spin-Off & Co"], "avocats": []},
-{"cible": "Établissements Hanny", "date": "2025-09-15", "valeur": 15, "conseils": ["Societex CF"], "avocats": []},
-{"cible": "MGPR", "date": "2025-09-15", "valeur": 2.5, "conseils": ["In Extenso Finance"], "avocats": []},
-{"cible": "Mulato Cosmetics", "date": "2025-09-02", "valeur": 11, "conseils": ["Société Générale"], "avocats": []},
-{"cible": "La Table de Charlotte", "date": "2025-02-18", "valeur": 4, "conseils": ["Linkers"], "avocats": []},
-{"cible": "A3M", "date": "2025-01-01", "valeur": null, "conseils": ["Eurallia Finance"], "avocats": []},
-{"cible": "Easy-Barf", "date": "2024-12-01", "valeur": null, "conseils": [], "avocats": ["Advant Altana"]},
-{"cible": "Roadside", "date": "2024-04-25", "valeur": 7.5, "conseils": ["JTB & Associés"], "avocats": []},
-{"cible": "Ateo Finance", "date": "2024-02-20", "valeur": null, "conseils": ["NINE58 Advisors"], "avocats": []},
-{"cible": "Icones Imprimerie", "date": "2024-01-11", "valeur": null, "conseils": ["Otoktone"], "avocats": []},
-{"cible": "SLER", "date": "2023-09-14", "valeur": null, "conseils": ["CIC Conseil"], "avocats": []},
-{"cible": "Antena Finance", "date": "2023-07-03", "valeur": 7.5, "conseils": ["NewCo CF"], "avocats": []},
-{"cible": "Groupe Labbe", "date": "2023-05-24", "valeur": 25, "conseils": ["CIC Conseil"], "avocats": []},
-{"cible": "Benoît Chocolats", "date": "2023-05-15", "valeur": null, "conseils": ["Agro Transmission"], "avocats": []},
-{"cible": "Kazam! Production", "date": "2023-04-06", "valeur": 7.5, "conseils": ["eCap Partner"], "avocats": []},
-{"cible": "XOS", "date": "2023-03-17", "valeur": null, "conseils": ["Largillière Finance"], "avocats": []},
-{"cible": "Michalak Paris", "date": "2023-02-03", "valeur": 15, "conseils": ["CFI Athema"], "avocats": []},
-{"cible": "LM2S", "date": "2023-01-01", "valeur": null, "conseils": ["Linkers"], "avocats": []},
-{"cible": "A l'Olivier", "date": "2023-01-01", "valeur": null, "conseils": ["Largillière Finance"], "avocats": []},
-{"cible": "C2S Conseil Chimie Service", "date": "2022-11-24", "valeur": null, "conseils": ["Banque Delubac & Cie"], "avocats": []},
-{"cible": "Tesla 2", "date": "2022-11-17", "valeur": null, "conseils": ["CIC Conseil"], "avocats": []},
-{"cible": "Groupe Maugin", "date": "2022-10-03", "valeur": null, "conseils": ["CIC Conseil"], "avocats": []},
-{"cible": "Génération Conseil", "date": "2022-08-31", "valeur": null, "conseils": ["CIC Conseil"], "avocats": []},
-{"cible": "MBV SI", "date": "2022-08-31", "valeur": null, "conseils": ["Amala Partners"], "avocats": []},
-{"cible": "Transports Laclau / TAAF", "date": "2022-07-31", "valeur": null, "conseils": ["Acom CF"], "avocats": []},
-{"cible": "Neosafe", "date": "2022-07-31", "valeur": null, "conseils": ["In Extenso Finance"], "avocats": []},
-{"cible": "GIGASUD / DBCOI", "date": "2022-04-06", "valeur": null, "conseils": ["BRED Banque Privée"], "avocats": []},
-{"cible": "Bernetic", "date": "2022-03-08", "valeur": null, "conseils": ["Sevenstones"], "avocats": []},
-{"cible": "Com'Inject", "date": "2021-11-01", "valeur": null, "conseils": ["Acticam"], "avocats": []},
-{"cible": "AMD Conseil", "date": "2021-06-02", "valeur": 5.3, "conseils": ["Heliconseil"], "avocats": []},
-{"cible": "Cémoi", "date": "2021-05-19", "valeur": null, "conseils": ["BNP Paribas CF"], "avocats": []},
-{"cible": "TL Systèmes", "date": "2021-05-10", "valeur": null, "conseils": ["NFinance"], "avocats": []},
-{"cible": "PIT", "date": "2021-05-07", "valeur": null, "conseils": ["Banque Populaire BFC"], "avocats": []},
-{"cible": "SAH Leduc", "date": "2021-05-04", "valeur": null, "conseils": ["Financière de Courcelles"], "avocats": []},
-{"cible": "Cafpi", "date": "2021-05-03", "valeur": 235, "conseils": ["Cambon Partners"], "avocats": []},
-{"cible": "Accent Bio", "date": "2021-04-27", "valeur": 25, "conseils": ["Eurohold"], "avocats": []},
-{"cible": "Finance Active", "date": "2021-04-07", "valeur": 106.5, "conseils": ["Natixis Partners"], "avocats": []},
-{"cible": "Adenior", "date": "2021-04-07", "valeur": null, "conseils": ["Largillière Finance"], "avocats": []},
-{"cible": "AD-CA", "date": "2021-04-02", "valeur": null, "conseils": ["Entrepreneurs & Finance"], "avocats": []},
-{"cible": "E.P.A.I.", "date": "2021-03-31", "valeur": null, "conseils": ["Odelia Capital"], "avocats": []},
-{"cible": "Lefebvre Paysages", "date": "2020-11-25", "valeur": null, "conseils": ["MBA Capital"], "avocats": []},
-{"cible": "Isaert", "date": "2025-12-31", "valeur": 7.5, "conseils": ["Septentrion Finance"], "avocats": []},
-{"cible": "Nord Laser Tube", "date": "2025-12-31", "valeur": null, "conseils": ["Septentrion Finance"], "avocats": []}
-]}
+{
+"deals": [
+{
+"cible": "Elements Apps",
+"date": "2026-07-10",
+"valeur": 35,
+"conseils": [
+"Clipperton"
+],
+"avocats": [
+"Dentons France"
+]
+},
+{
+"cible": "Synten",
+"date": "2026-07-09",
+"valeur": 2.5,
+"conseils": [
+"Twinl"
+],
+"avocats": []
+},
+{
+"cible": "Ivès",
+"date": "2026-07-09",
+"valeur": 10,
+"conseils": [
+"Clairfield International"
+],
+"avocats": [
+"Backbone Avocats"
+]
+},
+{
+"cible": "Tecnosem",
+"date": "2026-07-09",
+"valeur": 10,
+"conseils": [
+"Aoden"
+],
+"avocats": []
+},
+{
+"cible": "Electricité Veit",
+"date": "2026-07-08",
+"valeur": 5.5,
+"conseils": [],
+"avocats": [
+"In Extenso Avocats"
+]
+},
+{
+"cible": "Transports Mentré",
+"date": "2026-07-07",
+"valeur": 7.5,
+"conseils": [
+"Alecia"
+],
+"avocats": [
+"Korus Avocats"
+]
+},
+{
+"cible": "Dreampath Diagnostics",
+"date": "2026-07-07",
+"valeur": 154,
+"conseils": [
+"Impulse Corporate Finance"
+],
+"avocats": [
+"Latham & Watkins"
+]
+},
+{
+"cible": "LJ Trucks",
+"date": "2026-07-06",
+"valeur": 15,
+"conseils": [
+"Carmine Capital"
+],
+"avocats": [
+"AMC Avocats"
+]
+},
+{
+"cible": "Azur Fragrances",
+"date": "2026-07-01",
+"valeur": 10,
+"conseils": [
+"Melcofin & Co"
+],
+"avocats": [
+"BBLM Avocats"
+]
+},
+{
+"cible": "Les Rapid'Bleus",
+"date": "2026-06-29",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": []
+},
+{
+"cible": "Phantasm Group",
+"date": "2026-06-24",
+"valeur": null,
+"conseils": [
+"Amala Partners"
+],
+"avocats": []
+},
+{
+"cible": "Spacivox",
+"date": "2026-06-16",
+"valeur": 40,
+"conseils": [
+"Amala Partners",
+"RSR Conseil",
+"Next! Financial Advisors"
+],
+"avocats": [
+"August Debouzy"
+]
+},
+{
+"cible": "HBI",
+"date": "2026-06-11",
+"valeur": 10,
+"conseils": [
+"Margo Partners"
+],
+"avocats": [
+"One Société d'Avocats"
+]
+},
+{
+"cible": "Fideas Capital",
+"date": "2026-06-11",
+"valeur": 10,
+"conseils": [],
+"avocats": [
+"Clavé Avocat"
+]
+},
+{
+"cible": "PricingHUB",
+"date": "2026-06-11",
+"valeur": 35,
+"conseils": [],
+"avocats": [
+"Villechenon"
+]
+},
+{
+"cible": "SMI / ISO Miège / EML",
+"date": "2026-06-05",
+"valeur": null,
+"conseils": [
+"Adviso Partners"
+],
+"avocats": []
+},
+{
+"cible": "Dealinka",
+"date": "2026-05-18",
+"valeur": 15,
+"conseils": [
+"Alecia"
+],
+"avocats": []
+},
+{
+"cible": "Kizeo",
+"date": "2026-04-28",
+"valeur": 50,
+"conseils": [
+"Eurvad"
+],
+"avocats": []
+},
+{
+"cible": "Kingoland",
+"date": "2026-04-13",
+"valeur": 15,
+"conseils": [
+"Edmond de Rothschild CF"
+],
+"avocats": []
+},
+{
+"cible": "Abelio",
+"date": "2026-03-30",
+"valeur": 10,
+"conseils": [
+"Canopée Consulting"
+],
+"avocats": []
+},
+{
+"cible": "Group-Solutions",
+"date": "2026-01-23",
+"valeur": null,
+"conseils": [
+"Adviso Partners"
+],
+"avocats": []
+},
+{
+"cible": "NHT",
+"date": "2026-01-08",
+"valeur": 5,
+"conseils": [
+"Trium&Co"
+],
+"avocats": []
+},
+{
+"cible": "Promis",
+"date": "2025-11-26",
+"valeur": null,
+"conseils": [
+"Transactions & Cie"
+],
+"avocats": []
+},
+{
+"cible": "Fresh Food Village",
+"date": "2025-10-30",
+"valeur": 45,
+"conseils": [
+"Clearwater International"
+],
+"avocats": []
+},
+{
+"cible": "GT Ventilation & GT Production",
+"date": "2025-10-15",
+"valeur": 7.5,
+"conseils": [
+"Societex CF"
+],
+"avocats": []
+},
+{
+"cible": "Finéco Eurofinancement",
+"date": "2025-10-15",
+"valeur": null,
+"conseils": [
+"DGCM"
+],
+"avocats": []
+},
+{
+"cible": "VLS",
+"date": "2025-09-15",
+"valeur": null,
+"conseils": [
+"Spin-Off & Co"
+],
+"avocats": []
+},
+{
+"cible": "Établissements Hanny",
+"date": "2025-09-15",
+"valeur": 15,
+"conseils": [
+"Societex CF"
+],
+"avocats": []
+},
+{
+"cible": "MGPR",
+"date": "2025-09-15",
+"valeur": 2.5,
+"conseils": [
+"In Extenso Finance"
+],
+"avocats": []
+},
+{
+"cible": "Mulato Cosmetics",
+"date": "2025-09-02",
+"valeur": 11,
+"conseils": [
+"Société Générale"
+],
+"avocats": []
+},
+{
+"cible": "La Table de Charlotte",
+"date": "2025-02-18",
+"valeur": 4,
+"conseils": [
+"Linkers"
+],
+"avocats": []
+},
+{
+"cible": "A3M",
+"date": "2025-01-01",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": []
+},
+{
+"cible": "Easy-Barf",
+"date": "2024-12-01",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"Advant Altana"
+]
+},
+{
+"cible": "Roadside",
+"date": "2024-04-25",
+"valeur": 7.5,
+"conseils": [
+"JTB & Associés"
+],
+"avocats": []
+},
+{
+"cible": "Ateo Finance",
+"date": "2024-02-20",
+"valeur": null,
+"conseils": [
+"NINE58 Advisors"
+],
+"avocats": []
+},
+{
+"cible": "Icones Imprimerie",
+"date": "2024-01-11",
+"valeur": null,
+"conseils": [
+"Otoktone"
+],
+"avocats": []
+},
+{
+"cible": "SLER",
+"date": "2023-09-14",
+"valeur": null,
+"conseils": [
+"CIC Conseil"
+],
+"avocats": []
+},
+{
+"cible": "Antena Finance",
+"date": "2023-07-03",
+"valeur": 7.5,
+"conseils": [
+"NewCo CF"
+],
+"avocats": []
+},
+{
+"cible": "Groupe Labbe",
+"date": "2023-05-24",
+"valeur": 25,
+"conseils": [
+"CIC Conseil"
+],
+"avocats": []
+},
+{
+"cible": "Benoît Chocolats",
+"date": "2023-05-15",
+"valeur": null,
+"conseils": [
+"Agro Transmission"
+],
+"avocats": []
+},
+{
+"cible": "Kazam! Production",
+"date": "2023-04-06",
+"valeur": 7.5,
+"conseils": [
+"eCap Partner"
+],
+"avocats": []
+},
+{
+"cible": "XOS",
+"date": "2023-03-17",
+"valeur": null,
+"conseils": [
+"Largillière Finance"
+],
+"avocats": []
+},
+{
+"cible": "Michalak Paris",
+"date": "2023-02-03",
+"valeur": 15,
+"conseils": [
+"CFI Athema"
+],
+"avocats": []
+},
+{
+"cible": "LM2S",
+"date": "2023-01-01",
+"valeur": null,
+"conseils": [
+"Linkers"
+],
+"avocats": []
+},
+{
+"cible": "A l'Olivier",
+"date": "2023-01-01",
+"valeur": null,
+"conseils": [
+"Largillière Finance"
+],
+"avocats": []
+},
+{
+"cible": "C2S Conseil Chimie Service",
+"date": "2022-11-24",
+"valeur": null,
+"conseils": [
+"Banque Delubac & Cie"
+],
+"avocats": []
+},
+{
+"cible": "Tesla 2",
+"date": "2022-11-17",
+"valeur": null,
+"conseils": [
+"CIC Conseil"
+],
+"avocats": []
+},
+{
+"cible": "Groupe Maugin",
+"date": "2022-10-03",
+"valeur": null,
+"conseils": [
+"CIC Conseil"
+],
+"avocats": []
+},
+{
+"cible": "Génération Conseil",
+"date": "2022-08-31",
+"valeur": null,
+"conseils": [
+"CIC Conseil"
+],
+"avocats": []
+},
+{
+"cible": "MBV SI",
+"date": "2022-08-31",
+"valeur": null,
+"conseils": [
+"Amala Partners"
+],
+"avocats": []
+},
+{
+"cible": "Transports Laclau / TAAF",
+"date": "2022-07-31",
+"valeur": null,
+"conseils": [
+"Acom CF"
+],
+"avocats": []
+},
+{
+"cible": "Neosafe",
+"date": "2022-07-31",
+"valeur": null,
+"conseils": [
+"In Extenso Finance"
+],
+"avocats": []
+},
+{
+"cible": "GIGASUD / DBCOI",
+"date": "2022-04-06",
+"valeur": null,
+"conseils": [
+"BRED Banque Privée"
+],
+"avocats": []
+},
+{
+"cible": "Bernetic",
+"date": "2022-03-08",
+"valeur": null,
+"conseils": [
+"Sevenstones"
+],
+"avocats": []
+},
+{
+"cible": "Com'Inject",
+"date": "2021-11-01",
+"valeur": null,
+"conseils": [
+"Acticam"
+],
+"avocats": []
+},
+{
+"cible": "AMD Conseil",
+"date": "2021-06-02",
+"valeur": 5.3,
+"conseils": [
+"Heliconseil"
+],
+"avocats": []
+},
+{
+"cible": "Cémoi",
+"date": "2021-05-19",
+"valeur": null,
+"conseils": [
+"BNP Paribas CF"
+],
+"avocats": []
+},
+{
+"cible": "TL Systèmes",
+"date": "2021-05-10",
+"valeur": null,
+"conseils": [
+"NFinance"
+],
+"avocats": []
+},
+{
+"cible": "PIT",
+"date": "2021-05-07",
+"valeur": null,
+"conseils": [
+"Banque Populaire BFC"
+],
+"avocats": []
+},
+{
+"cible": "SAH Leduc",
+"date": "2021-05-04",
+"valeur": null,
+"conseils": [
+"Financière de Courcelles"
+],
+"avocats": []
+},
+{
+"cible": "Cafpi",
+"date": "2021-05-03",
+"valeur": 235,
+"conseils": [
+"Cambon Partners"
+],
+"avocats": []
+},
+{
+"cible": "Accent Bio",
+"date": "2021-04-27",
+"valeur": 25,
+"conseils": [
+"Eurohold"
+],
+"avocats": []
+},
+{
+"cible": "Finance Active",
+"date": "2021-04-07",
+"valeur": 106.5,
+"conseils": [
+"Natixis Partners"
+],
+"avocats": []
+},
+{
+"cible": "Adenior",
+"date": "2021-04-07",
+"valeur": null,
+"conseils": [
+"Largillière Finance"
+],
+"avocats": []
+},
+{
+"cible": "AD-CA",
+"date": "2021-04-02",
+"valeur": null,
+"conseils": [
+"Entrepreneurs & Finance"
+],
+"avocats": []
+},
+{
+"cible": "E.P.A.I.",
+"date": "2021-03-31",
+"valeur": null,
+"conseils": [
+"Odelia Capital"
+],
+"avocats": []
+},
+{
+"cible": "Lefebvre Paysages",
+"date": "2020-11-25",
+"valeur": null,
+"conseils": [
+"MBA Capital"
+],
+"avocats": []
+},
+{
+"cible": "Isaert",
+"date": "2025-12-31",
+"valeur": 7.5,
+"conseils": [
+"Septentrion Finance"
+],
+"avocats": []
+},
+{
+"cible": "Nord Laser Tube",
+"date": "2025-12-31",
+"valeur": null,
+"conseils": [
+"Septentrion Finance"
+],
+"avocats": []
+},
+{
+"cible": "ATM Gaming",
+"date": "2026-04-02",
+"valeur": 180,
+"conseils": [],
+"avocats": [
+"LPA Law"
+]
+},
+{
+"cible": "Japan Experience",
+"date": "2026-01-15",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"Steering Legal"
+]
+},
+{
+"cible": "Illuin Technology",
+"date": "2025-12-18",
+"valeur": 25,
+"conseils": [],
+"avocats": [
+"Jones Day"
+]
+},
+{
+"cible": "DE ANGELIS BAT-IR",
+"date": "2025-12-01",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": [
+"Fidal"
+]
+},
+{
+"cible": "Infoclip",
+"date": "2025-09-15",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"WAN Avocats"
+]
+},
+{
+"cible": "Kribs Conseils",
+"date": "2025-08-01",
+"valeur": null,
+"conseils": [
+"Rydge Conseil"
+],
+"avocats": [
+"Fidal"
+]
+},
+{
+"cible": "Everlink Services",
+"date": "2025-06-20",
+"valeur": null,
+"conseils": [
+"Societex"
+],
+"avocats": [
+"Armand Avocats"
+]
+},
+{
+"cible": "Gojob",
+"date": "2025-10-08",
+"valeur": 120,
+"conseils": [
+"Lazard",
+"C-Level Partners"
+],
+"avocats": [
+"Jones Day"
+]
+},
+{
+"cible": "ACSIO (Groupe)",
+"date": "2026-01-07",
+"valeur": null,
+"conseils": [
+"Natixis Partners"
+],
+"avocats": []
+},
+{
+"cible": "Clever Energies & Luxeo",
+"date": "2026-01-21",
+"valeur": null,
+"conseils": [
+"Forvis Mazars"
+],
+"avocats": []
+},
+{
+"cible": "Linkurious",
+"date": "2025-12-05",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"Morgan Lewis"
+]
+},
+{
+"cible": "Phasics",
+"date": "2025-08-28",
+"valeur": null,
+"conseils": [
+"Corporate Finance International (CFI)"
+],
+"avocats": []
+},
+{
+"cible": "Mojo (Archery)",
+"date": "2025-05-15",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"Orrick"
+]
+},
+{
+"cible": "Job&Box",
+"date": "2026-06-05",
+"valeur": null,
+"conseils": [
+"Auris Finance"
+],
+"avocats": []
+},
+{
+"cible": "StereoLabs",
+"date": "2026-02-09",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"A&O Shearman"
+]
+},
+{
+"cible": "Etigo",
+"date": "2026-01-19",
+"valeur": null,
+"conseils": [
+"In Extenso Finance"
+],
+"avocats": [
+"Ooslo"
+]
+},
+{
+"cible": "Pub Colaut",
+"date": "2025-09-24",
+"valeur": null,
+"conseils": [
+"In Extenso Finance"
+],
+"avocats": [
+"EP Avocat",
+"Luma Avocats"
+]
+},
+{
+"cible": "Cantor",
+"date": "2025-08-01",
+"valeur": null,
+"conseils": [
+"Victanis"
+],
+"avocats": []
+},
+{
+"cible": "Friendly Hotels",
+"date": "2026-03-12",
+"valeur": null,
+"conseils": [
+"Transaxio Hôtel"
+],
+"avocats": [
+"Fidal"
+]
+},
+{
+"cible": "COMEA PROCESS",
+"date": "2026-01-08",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": []
+},
+{
+"cible": "Incitat Environnement",
+"date": "2025-11-28",
+"valeur": null,
+"conseils": [
+"Aurignac Finance"
+],
+"avocats": []
+},
+{
+"cible": "AZ Metal",
+"date": "2025-10-21",
+"valeur": null,
+"conseils": [
+"Societex"
+],
+"avocats": [
+"Cabinet Martine Vazel"
+]
+},
+{
+"cible": "Chanavat Paysage",
+"date": "2025-10-01",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": []
+},
+{
+"cible": "Jaws Group",
+"date": "2025-06-18",
+"valeur": null,
+"conseils": [],
+"avocats": [
+"GWL"
+]
+},
+{
+"cible": "Phodé",
+"date": "2026-06-09",
+"valeur": null,
+"conseils": [
+"Capitalmind"
+],
+"avocats": []
+},
+{
+"cible": "Catra BTP",
+"date": "2026-06-04",
+"valeur": null,
+"conseils": [
+"Polaris CF"
+],
+"avocats": []
+},
+{
+"cible": "Brunone Innovation",
+"date": "2026-05-18",
+"valeur": null,
+"conseils": [
+"In Extenso Finance"
+],
+"avocats": [
+"Bouteiller Hunault"
+]
+},
+{
+"cible": "Gleamer",
+"date": "2026-03-04",
+"valeur": 230,
+"conseils": [],
+"avocats": [
+"McDermott Will & Schulte"
+]
+},
+{
+"cible": "Marine Transmissions",
+"date": "2025-11-01",
+"valeur": null,
+"conseils": [
+"Eurallia Finance"
+],
+"avocats": [
+"Silex"
+]
+}
+]
+}

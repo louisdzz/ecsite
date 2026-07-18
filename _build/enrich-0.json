@@ -1,0 +1,52 @@
+{
+  "deals": [
+    {
+      "cible": "Gojob",
+      "date": "2025-10-08",
+      "valeur": 120,
+      "conseils": ["Lazard", "C-Level Partners"],
+      "avocats": ["Jones Day"],
+      "source": "https://www.cercomm.net/persol-investit-120-millions-de-dans-gojob/"
+    },
+    {
+      "cible": "ACSIO (Groupe)",
+      "date": "2026-01-07",
+      "valeur": null,
+      "conseils": ["Natixis Partners"],
+      "avocats": null,
+      "source": "https://www.natixispartners.com/transaction/acsio/"
+    },
+    {
+      "cible": "Clever Energies & Luxeo",
+      "date": "2026-01-21",
+      "valeur": null,
+      "conseils": ["Forvis Mazars"],
+      "avocats": null,
+      "source": "https://www.forvismazars.com/fr/fr/services/financial-advisory/nos-references-fas/references-conseil-en-fusions-et-acquisitions"
+    },
+    {
+      "cible": "Linkurious",
+      "date": "2025-12-05",
+      "valeur": null,
+      "conseils": null,
+      "avocats": ["Morgan Lewis"],
+      "source": "https://www.morganlewis.com/news/2025/12/morgan-lewis-advises-artificial-intelligence-company-linkurious-on-sale-to-nuix"
+    },
+    {
+      "cible": "Phasics",
+      "date": "2025-08-28",
+      "valeur": null,
+      "conseils": ["Corporate Finance International (CFI)"],
+      "avocats": null,
+      "source": "https://www.linkedin.com/posts/corporate-finance-international_imagingsolutions-deeptech-photonics-activity-7368671820427866117-i8cC"
+    },
+    {
+      "cible": "Mojo (Archery)",
+      "date": "2025-05-15",
+      "valeur": null,
+      "conseils": null,
+      "avocats": ["Orrick"],
+      "source": "https://www.lemondedudroit.fr/deals/99107-orrick-conseille-archery-mojo-dans-le-cadre-de-son-acquisition-par-dailymotion.html"
+    }
+  ]
+}

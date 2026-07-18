@@ -23,7 +23,7 @@ SAISON_DEBUT = "2025-08-01"
 def standings(kind):
     agg = defaultdict(lambda: {"meur": 0.0, "nd": 0, "saison": 0, "total": 0, "last": None, "lastcible": ""})
     for d in deals:
-        for f in d[kind]:
+        for f in (d.get(kind) or []):
             a = agg[f]
             a["total"] += 1
             if d.get("valeur") is not None: a["meur"] += d["valeur"]
