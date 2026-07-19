@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 # Régénère la section #ligues de ecosysteme.html depuis _build/ligues-deals.json
+# SOURCE DE VÉRITÉ : base Notion "Opérations — Ligues de l'Exit"
+#   (data source collection://936c1991-f1b6-44f0-971d-15a84dd83581, sous la page Webapp Exit Club)
+# Flux de mise à jour : la session Claude exporte la base Notion (Statut = Comptée)
+#   vers _build/ligues-deals.json, puis exécute ce script, puis commit + push.
 # Classement par montants cumulés conseillés (M€), puis nb d'opérations, puis récence.
 # Usage : python3 _build/build_ligues.py  (depuis la racine du repo ecsite)
 import json, re, html, unicodedata
