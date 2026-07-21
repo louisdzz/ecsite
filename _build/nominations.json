@@ -1,0 +1,11 @@
+{
+  "_note": "Mouvements & nominations du marché de l'exit affichés dans L'EXIT TAPE. Ajouter une entrée = une ligne. date au format AAAA-MM-JJ. firme = doit matcher une fiche pour être cliquable.",
+  "nominations": [
+    {"nom": "Matthieu Grollemund", "role": "Associé Private Equity & M&A", "firme": "Proskauer", "ex": "Hogan Lovells", "date": "2026-02-19"},
+    {"nom": "Hélène Parent", "role": "Associée Private Equity & M&A", "firme": "Proskauer", "ex": "Hogan Lovells", "date": "2026-02-19"},
+    {"nom": "Pierre-Marie Boya", "role": "Associé Private Equity & M&A", "firme": "Proskauer", "ex": "Hogan Lovells", "date": "2026-02-19"},
+    {"nom": "Benjamin de Blegiers", "role": "Associé Private Equity & M&A", "firme": "Latham & Watkins", "ex": "Clifford Chance", "date": "2026-02-18"},
+    {"nom": "Daniel Zerbib", "role": "Associé Finance", "firme": "Latham & Watkins", "ex": "Clifford Chance", "date": "2026-02-18"},
+    {"nom": "Gauthier Martin", "role": "Associé Private Equity", "firme": "Latham & Watkins", "ex": "Clifford Chance", "date": "2026-02-18"}
+  ]
+}
