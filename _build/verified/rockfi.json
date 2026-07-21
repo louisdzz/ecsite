@@ -1,0 +1,18 @@
+{
+  "nom": "RockFi",
+  "initiales": "RF",
+  "categorie_label": "Conseillers en gestion de patrimoine (CGP)",
+  "categorie_id": "cgp",
+  "annee": 2026,
+  "description": "RockFi est la nouvelle gestion privée : un modèle hybride né de la rencontre entre d'anciens dirigeants de banques privées et des ingénieurs issus des fintechs européennes. La maison accompagne entrepreneurs, dirigeants et cédants sur toute la structuration de leur patrimoine après la cession, avec une tarification fixe pensée pour un conseil réellement objectif. Aujourd'hui, ce sont près de 1,3 milliard d'euros de patrimoine conseillé et environ 1 500 familles suivies.",
+  "expertises": ["Assurance-vie France & Luxembourg", "Private equity & structurés", "Ingénierie patrimoniale", "Mandats & comptes-titres", "Optimisation fiscale post-cession", "Tarification fixe"],
+  "equipe": [
+    {"nom": "Pierre Marin", "role": "Co-fondateur & CEO", "linkedin": "https://fr.linkedin.com/in/pierre-marin-rockfi"},
+    {"nom": "Stéphane Carles", "role": "Directeur associé · ex-dirigeant de banque privée"}
+  ],
+  "site": "https://www.rockfi.fr",
+  "actus": [
+    {"date": "2026-06", "texte": "RockFi lance le premier agent IA dédié aux conseillers privés : surveillance continue et suivi patrimonial en temps réel des familles accompagnées."},
+    {"date": "2026-01", "texte": "Premier rendez-vous public « RockFi Acte I » : plus de 400 invités réunis autour de la nouvelle gestion privée."}
+  ]
+}
