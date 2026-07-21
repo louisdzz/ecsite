@@ -26,6 +26,18 @@ h1.disp{font-size:62px;line-height:.98}
 h1.disp .it{font-style:italic;color:var(--accent)}
 .lede{font-size:17px;color:var(--muted);max-width:62ch;margin:22px 0 0;line-height:1.6}
 .stat{margin-top:22px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.kpis{display:flex;gap:14px;margin-top:26px;flex-wrap:wrap}
+.kpi{flex:1;min-width:150px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px}
+.kpi b{display:block;font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:38px;line-height:1;color:var(--ink)}
+.kpi span{display:block;margin-top:8px;font-size:12px;letter-spacing:.04em;color:var(--muted)}
+.microsel{margin-top:16px;font-size:13px;color:var(--faint)}
+details.metho{margin-top:16px;border-top:1px solid var(--line);padding-top:14px}
+details.metho summary{cursor:pointer;font-size:12.5px;letter-spacing:.04em;color:var(--muted);list-style:none}
+details.metho summary::-webkit-details-marker{display:none}
+details.metho summary::before{content:"﹢ ";color:var(--accent)}
+details.metho[open] summary::before{content:"﹣ "}
+details.metho p{margin-top:12px;font-size:13px;color:var(--muted);line-height:1.6;max-width:82ch}
+details.metho b{color:var(--ink)}
 .how{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:24px 26px;margin:30px 0 0}
 .how .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600;margin-bottom:10px}
 .how p{font-size:14.5px;color:var(--muted);line-height:1.65;max-width:75ch}
@@ -120,20 +132,24 @@ h1.disp .it{font-style:italic;color:var(--accent)}
   <section class="hero">
     <p class="over">Le recensement public du marché de l'exit</p>
     <h1 class="disp">L'Écosystème <span class="it">de l'Exit.</span></h1>
-    <p class="lede">Vous préparez une vente, ou vous l'avez déjà signée ? Voici l'écosystème complet, recensé catégorie par catégorie : banques d'affaires, boutiques M&amp;A et avocats pour la cession, notaires, banques privées, CGP, family offices et fonds pour la suite. Référencement gratuit, ordre alphabétique.</p>
-    <div class="stat">4160 institutions recensées · 12 catégories</div>
+    <p class="lede">Tout le marché de l'exit sur une seule carte. Votre conseil, votre concurrent, votre futur partenaire : ils y sont déjà. Et vous ?</p>
+    <div class="kpis">
+      <div class="kpi"><b>4&nbsp;160</b><span>institutions recensées</span></div>
+      <div class="kpi"><b>12</b><span>catégories</span></div>
+      <div class="kpi"><b>2&nbsp;Md€</b><span>de cash-out derrière le club</span></div>
+    </div>
+    <p class="microsel">Référencement gratuit. Les fiches vérifiées, elles, sont comptées.</p>
   </section>
-
-  <div class="how">
-    <div class="k">Comment fonctionne ce recensement</div>
-    <p>Vous cherchez un conseil habitué aux problématiques d'exit, de la préparation de la cession à la gestion du produit de vente. Cette page recense, catégorie par catégorie, l'ensemble des acteurs de l'écosystème. <b>Le référencement de base est gratuit et l'ordre est alphabétique. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</b></p>
-    <p>Les <b>fiches vérifiées</b> appartiennent à des firmes qui soutiennent l'Exit Club et ont passé un entretien de qualification avec l'équipe du club. La vérification est un engagement commercial : elle n'influence ni la présence dans l'annuaire, ni l'ordre d'affichage. Toute firme faisant l'objet de retours négatifs sérieux de la part des membres est retirée, fiche vérifiée ou non.</p>
-  </div>
 
   <div class="toolbar">
     <input class="search" id="q" type="search" placeholder="Rechercher une institution parmi les 4160 recensées…" autocomplete="off">
     <div class="jump"><a href="#banques-affaires">Banques d'affaires (M&amp;A)</a> <a href="#boutiques-ma">Boutiques M&amp;A</a> <a href="#avocats">Avocats d'affaires &amp; fiscalistes</a> <a href="#notaires">Notaires patrimoniaux</a> <a href="#banques-privees">Banques privées</a> <a href="#mfo">Multi-Family Offices</a> <a href="#cgp">Conseillers en gestion de patrimoine (CGP)</a> <a href="#assurance-vie-lux">Assurance-vie luxembourgeoise</a> <a href="#fonds-pe">Fonds de Private Equity &amp; LBO</a> <a href="#fonds-dette">Fonds de dette</a> <a href="#fonds-vc">Fonds de Venture Capital</a> <a href="#secondaire">Secondaire tech &amp; pré-IPO</a></div>
   </div>
+
+  <details class="metho">
+    <summary>Comment fonctionne ce recensement, et pourquoi vous pouvez y faire confiance</summary>
+    <p>Cette page recense, catégorie par catégorie, l'ensemble des acteurs de l'exit, de la préparation de la cession à la gestion du produit de vente. <b>Le référencement de base est gratuit, l'ordre est alphabétique. Être référencé ne vaut pas recommandation : c'est un recensement du marché, pas une sélection.</b> Les <b>fiches vérifiées</b> appartiennent à des firmes qui soutiennent l'Exit Club et ont passé un entretien de qualification ; la vérification est un engagement commercial qui n'influence ni la présence, ni l'ordre d'affichage. Toute firme faisant l'objet de retours négatifs sérieux des membres est retirée, vérifiée ou non.</p>
+  </details>
 
   <div class="cats">
 
