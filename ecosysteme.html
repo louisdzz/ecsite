@@ -181,6 +181,7 @@ a.tk:hover b{text-decoration:underline}
     while(ni<noms.length){toks.push(nomTok(noms[ni]));ni++;}
     var track=toks.join(""); var el=document.getElementById("tapeTrack");
     el.style.animationDuration=(toks.length*4.0)+"s"; el.innerHTML=track+track;
+    var hk=document.getElementById("kpiMeur"); if(hk&&d.total){hk.textContent=Number(d.total).toLocaleString("fr-FR")+" M€";}
   }).catch(function(){});
 })();
 </script>
@@ -200,13 +201,11 @@ a.tk:hover b{text-decoration:underline}
   <section class="hero">
     <p class="over">Le recensement public du marché de l'exit</p>
     <h1 class="disp">L'Écosystème <span class="it">de l'Exit.</span></h1>
-    <p class="lede">Tout le marché de l'exit sur une seule carte. Votre conseil, votre concurrent, votre futur partenaire : ils y sont déjà. Et vous ?</p>
+    <p class="lede">Tout le marché de l'exit cartographié.</p>
     <div class="kpis">
       <div class="kpi"><b>4&nbsp;160</b><span>institutions recensées</span></div>
-      <div class="kpi"><b>12</b><span>catégories</span></div>
-      <div class="kpi"><b>2&nbsp;Md€</b><span>de cash-out derrière le club</span></div>
+      <div class="kpi"><b id="kpiMeur">1&nbsp;521 M€</b><span>d'opérations de cession suivies</span></div>
     </div>
-    <p class="microsel">Référencement gratuit. Les fiches vérifiées, elles, sont comptées.</p>
   </section>
 
   <div class="toolbar">

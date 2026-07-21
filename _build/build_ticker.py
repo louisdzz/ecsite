@@ -123,6 +123,7 @@ tape_html = (
     '    while(ni<noms.length){toks.push(nomTok(noms[ni]));ni++;}\n'
     '    var track=toks.join(""); var el=document.getElementById("tapeTrack");\n'
     '    el.style.animationDuration=(toks.length*4.0)+"s"; el.innerHTML=track+track;\n'
+    '    var hk=document.getElementById("kpiMeur"); if(hk&&d.total){hk.textContent=Number(d.total).toLocaleString("fr-FR")+" M€";}\n'
     '  }).catch(function(){});\n'
     '})();\n'
     '</script>\n'
