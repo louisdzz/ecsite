@@ -148,7 +148,7 @@ tape_css = (
     '@keyframes tapescroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}\n'
     '.tape:hover .tape__track{animation-play-state:paused}\n'
     ".tk{display:inline-flex;align-items:baseline;gap:8px;padding:0 18px;text-decoration:none;"
-    "font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace}\n"
+    "font-family:'Inter',Arial,sans-serif}\n"
     '.tk+.tk{border-left:1px solid #333E1E}\n'
     'a.tk:hover b{text-decoration:underline}\n'
     '.tk b{color:#F1ECD6;font-weight:600}\n'
