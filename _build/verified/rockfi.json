@@ -5,7 +5,21 @@
   "categorie_id": "cgp",
   "annee": 2026,
   "description": "RockFi réinvente la gestion privée : un modèle hybride né de la rencontre entre d'anciens dirigeants de banques privées et des ingénieurs issus des fintechs européennes, dédié aux entrepreneurs et dirigeants pour structurer leur patrimoine avant comme après la cession. La maison conseille aujourd'hui près de 1,3 milliard d'euros pour environ 1 500 familles, avec un accès à plus de 3 000 supports couvrant toutes les classes d'actifs et une tarification fixe pensée pour un conseil réellement indépendant. Immatriculée à l'ORIAS (n° 23004556), membre de l'Anacofi, sous le contrôle de l'ACPR et de l'AMF.",
+  "chiffres": [
+    {"valeur": "1,3 Md€", "label": "de patrimoine conseillé"},
+    {"valeur": "~1 500", "label": "familles accompagnées"},
+    {"valeur": "3 000+", "label": "supports d'investissement"}
+  ],
   "expertises": ["Assurance-vie France & Luxembourg", "Private equity & produits structurés", "SCPI, PEA & comptes-titres", "Mandats personnalisés", "Ingénierie patrimoniale & fiscale", "Tarification fixe"],
+  "opportunite": {
+    "titre": "Accès private equity, structurés & architecture ouverte",
+    "texte": "RockFi ouvre à ses clients une sélection de fonds de private equity, de produits structurés et de SCPI en architecture ouverte, avec l'ingénierie patrimoniale et fiscale pour réinvestir le produit d'une cession. Conseil indépendant, tarification fixe, sans rétrocession qui oriente le conseil."
+  },
+  "parcours": [
+    {"titre": "Structuration", "texte": "On cartographie votre patrimoine post-cession et on structure : holding, assurance-vie France et Luxembourg, enveloppes fiscales adaptées à votre situation."},
+    {"titre": "Allocation", "texte": "On construit une allocation sur mesure parmi plus de 3 000 supports : private equity, produits structurés, SCPI, comptes-titres, en architecture ouverte."},
+    {"titre": "Suivi", "texte": "Un suivi continu avec un conseiller dédié, renforcé par un agent IA propriétaire, et une tarification fixe pour un conseil aligné sur vos intérêts."}
+  ],
   "equipe": [
     {"nom": "Pierre Marin", "role": "Co-fondateur & CEO", "linkedin": "https://fr.linkedin.com/in/pierre-marin-rockfi"},
     {"nom": "Stéphane Carles", "role": "Directeur associé"},
