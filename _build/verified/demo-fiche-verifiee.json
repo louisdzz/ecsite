@@ -6,11 +6,35 @@
   "categorie_id": "boutiques-ma",
   "annee": 2026,
   "description": "Boutique M&A indépendante dédiée aux cessions de PME et ETI entre 10 et 150 M€ de valorisation. 40 opérations menées depuis 2015, dont 12 cessions de sociétés fondées par des entrepreneurs membres de communautés post-exit. Process compétitifs, dual track et transmissions familiales.",
+  "chiffres": [
+    {"valeur": "40+", "label": "opérations menées"},
+    {"valeur": "10-150 M€", "label": "valorisations conseillées"},
+    {"valeur": "2015", "label": "année de création"}
+  ],
   "expertises": ["Cession majoritaire", "Dual track", "LBO primaire", "Carve-out", "Tech & services B2B"],
+  "opportunite": {
+    "titre": "Mandat de cession — éditeur SaaS B2B",
+    "texte": "Meridian conseille actuellement le fondateur d'un éditeur SaaS (ARR 8 M€, croissance 40 %) sur sa cession. Process compétitif en cours, marques d'intérêt de fonds et d'industriels européens.",
+    "date": "En ce moment"
+  },
+  "parcours": [
+    {"titre": "Préparation", "texte": "Audit de valeur, equity story, data room et sélection des acquéreurs cibles les plus pertinents."},
+    {"titre": "Process compétitif", "texte": "Mise en concurrence structurée, dual track si pertinent, négociation des marques d'intérêt."},
+    {"titre": "Closing", "texte": "Négociation du SPA, coordination des due diligences et sécurisation du cash-out du cédant."}
+  ],
   "equipe": [
     {"nom": "Claire Fontaine", "role": "Associée fondatrice · ex-Lazard", "linkedin": "https://www.linkedin.com"},
     {"nom": "Marc Delattre", "role": "Associé · 60 opérations mid-cap", "linkedin": "https://www.linkedin.com"},
     {"nom": "Sarah Benali", "role": "Directrice · secteur logiciel"}
+  ],
+  "temoignage": {
+    "texte": "Ils ont transformé une cession stressante en process maîtrisé. Résultat : 30 % au-dessus de notre attente.",
+    "auteur": "Fondateur cédant, éditeur logiciel (2025)"
+  },
+  "presse": [
+    {"nom": "CFNEWS"},
+    {"nom": "Les Échos"},
+    {"nom": "Décideurs"}
   ],
   "site": "https://www.exit.club/referencement?demande=verifier",
   "calendly": "https://www.exit.club/referencement?demande=verifier",
