@@ -73,8 +73,14 @@ if d.get("parcours"):
     parcours_html = f'<div class="card"><div class="k">Comment on vous accompagne</div><div class="steps">{steps}</div></div>'
 
 # --- Équipe ---
+def ava_html(p):
+    if p.get("photo"):
+        return f'<div class="ava"><img src="{esc(p["photo"])}" alt="{esc(p["nom"])}" loading="lazy"></div>'
+    init2 = "".join(w[0] for w in p["nom"].split()[:2]).upper()
+    return f'<div class="ava">{esc(init2)}</div>'
+
 equipe = "".join(
-    f'<div class="pers"><div class="ava">{esc("".join(w[0] for w in p["nom"].split()[:2]).upper())}</div>'
+    f'<div class="pers">{ava_html(p)}'
     f'<div><b>{esc(p["nom"])}</b><span>{esc(p["role"])}</span>'
     + (f'<a href="{esc(p["linkedin"])}" target="_blank" rel="noopener">LinkedIn</a>' if p.get("linkedin") else "")
     + '</div></div>'
@@ -193,7 +199,8 @@ h1.disp{{font-size:42px;line-height:1.02}}
 .step p{{font-size:13.5px;color:var(--muted);margin-top:3px;line-height:1.55}}
 .pers{{display:flex;gap:12px;align-items:center;padding:10px 0;border-bottom:1px solid #EFEBDB}}
 .pers:last-child{{border-bottom:0}}
-.ava{{flex:none;width:42px;height:42px;border-radius:50%;background:#E7E2D0;color:var(--ink);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600}}
+.ava{{flex:none;width:42px;height:42px;border-radius:50%;background:#E7E2D0;color:var(--ink);display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;overflow:hidden}}
+.ava img{{width:100%;height:100%;object-fit:cover}}
 .pers b{{display:block;font-size:14px}}
 .pers span{{display:block;font-size:12.5px;color:var(--muted)}}
 .pers a{{font-size:12px;color:var(--accent);text-decoration:none}}
