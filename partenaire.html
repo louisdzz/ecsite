@@ -94,6 +94,7 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="sec">Le contenu de la fiche</div>
     <div class="grp"><label for="presentation">Présentation &amp; expertise post-exit</label><textarea id="presentation" name="presentation" placeholder="Qui vous êtes, ce que vous faites pour les fondateurs après leur cession, ce qui vous distingue."></textarea></div>
     <div class="grp"><label for="equipe">Équipe <span class="opt">(un par ligne : Prénom Nom — rôle)</span></label><textarea id="equipe" name="equipe" placeholder="Pierre Marin — Co-fondateur & CEO&#10;…"></textarea></div>
+    <div class="grp"><label for="photos">Photos de l'équipe <span class="opt">(optionnel, plusieurs fichiers)</span></label><input type="file" id="photos" name="photos" accept="image/*" multiple><span class="hint">Un portrait par personne, nommé au nom du dirigeant si possible. En les déposant, vous nous autorisez à les afficher sur votre fiche.</span></div>
     <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(fichier : PDF, PPT, image)</span></label><input type="file" id="deck" name="deck" accept=".pdf,.ppt,.pptx,.key,application/pdf,image/*"><span class="hint">Le fichier arrive directement dans notre base. Document très confidentiel ? Vous pouvez aussi l'envoyer à louis@exit.club.</span></div>
     <div class="grp"><label for="opportunite">Opportunité du moment</label><textarea id="opportunite" name="opportunite" placeholder="Le fonds en cours de levée, l'offre à mettre en avant ce trimestre."></textarea></div>
     <div class="grp"><label for="actualite">Actualité récente <span class="opt">(optionnel)</span></label><textarea id="actualite" name="actualite" placeholder="Nomination, opération, distinction…"></textarea></div>
@@ -150,6 +151,7 @@ button:disabled{opacity:.55;cursor:wait}
     fd.append("fiche", q.get("fiche") || "");
     if (f.logo.files && f.logo.files[0]) fd.append("logo", f.logo.files[0]);
     if (f.deck.files && f.deck.files[0]) fd.append("deck", f.deck.files[0]);
+    if (f.photos && f.photos.files) { for (var i=0;i<f.photos.files.length;i++) fd.append("photos", f.photos.files[i]); }
     go.disabled = true; go.textContent = "Envoi…";
     fetch(API, {method:"POST", body: fd})
       .then(function(r){ return r.json().then(function(j){ return {ok:r.ok, j:j}; }); })
