@@ -125,7 +125,7 @@ h1.disp{{font-size:42px;line-height:1.02}}
   <section class="hero">
     <div class="logo">{esc(init)}</div>
     <div>
-      <span class="vbadge">✓ Fiche vérifiée {annee}</span>
+      <span class="vbadge">✓ L'Écosystème de l'Exit · {annee}</span>
       <h1 class="disp">{esc(d["nom"])}</h1>
       <div class="tagl">{esc(d["categorie_label"])}</div>
     </div>
