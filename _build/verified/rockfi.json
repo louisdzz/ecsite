@@ -4,15 +4,18 @@
   "categorie_label": "Conseillers en gestion de patrimoine (CGP)",
   "categorie_id": "cgp",
   "annee": 2026,
-  "description": "RockFi est la nouvelle gestion privée : un modèle hybride né de la rencontre entre d'anciens dirigeants de banques privées et des ingénieurs issus des fintechs européennes. La maison accompagne entrepreneurs, dirigeants et cédants sur toute la structuration de leur patrimoine après la cession, avec une tarification fixe pensée pour un conseil réellement objectif. Aujourd'hui, ce sont près de 1,3 milliard d'euros de patrimoine conseillé et environ 1 500 familles suivies.",
-  "expertises": ["Assurance-vie France & Luxembourg", "Private equity & structurés", "Ingénierie patrimoniale", "Mandats & comptes-titres", "Optimisation fiscale post-cession", "Tarification fixe"],
+  "description": "RockFi réinvente la gestion privée : un modèle hybride né de la rencontre entre d'anciens dirigeants de banques privées et des ingénieurs issus des fintechs européennes, dédié aux entrepreneurs et dirigeants pour structurer leur patrimoine avant comme après la cession. La maison conseille aujourd'hui près de 1,3 milliard d'euros pour environ 1 500 familles, avec un accès à plus de 3 000 supports couvrant toutes les classes d'actifs et une tarification fixe pensée pour un conseil réellement indépendant. Immatriculée à l'ORIAS (n° 23004556), membre de l'Anacofi, sous le contrôle de l'ACPR et de l'AMF.",
+  "expertises": ["Assurance-vie France & Luxembourg", "Private equity & produits structurés", "SCPI, PEA & comptes-titres", "Mandats personnalisés", "Ingénierie patrimoniale & fiscale", "Tarification fixe"],
   "equipe": [
     {"nom": "Pierre Marin", "role": "Co-fondateur & CEO", "linkedin": "https://fr.linkedin.com/in/pierre-marin-rockfi"},
-    {"nom": "Stéphane Carles", "role": "Directeur associé · ex-dirigeant de banque privée"}
+    {"nom": "Stéphane Carles", "role": "Directeur associé"},
+    {"nom": "René Vignau Loustau", "role": "Associé"},
+    {"nom": "Delphine Colin", "role": "Associée"}
   ],
   "site": "https://www.rockfi.fr",
   "actus": [
     {"date": "2026-06", "texte": "RockFi lance le premier agent IA dédié aux conseillers privés : surveillance continue et suivi patrimonial en temps réel des familles accompagnées."},
-    {"date": "2026-01", "texte": "Premier rendez-vous public « RockFi Acte I » : plus de 400 invités réunis autour de la nouvelle gestion privée."}
+    {"date": "2026-01", "texte": "« RockFi Acte I » : plus de 400 invités réunis autour de la nouvelle gestion privée."},
+    {"date": "2025-12", "texte": "Soirées privées au Ritz Paris pour les clients et partenaires de la maison."}
   ]
 }
