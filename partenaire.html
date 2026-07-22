@@ -29,6 +29,7 @@ label .opt{font-weight:400;color:var(--faint)}
 .hint{font-size:12px;color:var(--faint)}
 input[type=text],input[type=email],input[type=tel],input[type=url],select,textarea{width:100%;font-size:15px;font-family:'Inter',Arial,sans-serif;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);outline:none}
 textarea{min-height:88px;resize:vertical;line-height:1.5}
+input[type=file]{width:100%;font-size:14px;font-family:'Inter',Arial,sans-serif;color:var(--muted);padding:10px 12px;border:1px dashed var(--line);border-radius:10px;background:var(--paper);cursor:pointer}
 input:focus,select:focus,textarea:focus{border-color:var(--accent)}
 .consent{display:flex;gap:10px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;padding:14px 16px;background:var(--paper)}
 .consent input{margin-top:3px;accent-color:var(--accent);flex:none}
@@ -81,7 +82,7 @@ button:disabled{opacity:.55;cursor:wait}
       </select>
     </div>
     <div class="grp"><label for="site_officiel">Site officiel <span class="opt">(URL)</span></label><input type="url" id="site_officiel" name="site_officiel" placeholder="https://…"></div>
-    <div class="grp"><label for="logo">Logo <span class="opt">(URL d'une image, PNG/SVG)</span></label><input type="url" id="logo" name="logo" placeholder="https://…/logo.png"><span class="hint">Pas d'URL ? Joignez-le à un mail à louis@exit.club.</span></div>
+    <div class="grp"><label for="logo">Logo <span class="opt">(fichier image : PNG, SVG, JPG)</span></label><input type="file" id="logo" name="logo" accept="image/*"></div>
     <div class="grp"><label for="agrements">Agréments <span class="opt">(optionnel)</span></label><input type="text" id="agrements" name="agrements" placeholder="CIF, ORIAS, n° d'enregistrement…"></div>
 
     <div class="sec">Votre interlocuteur</div>
@@ -93,7 +94,7 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="sec">Le contenu de la fiche</div>
     <div class="grp"><label for="presentation">Présentation &amp; expertise post-exit</label><textarea id="presentation" name="presentation" placeholder="Qui vous êtes, ce que vous faites pour les fondateurs après leur cession, ce qui vous distingue."></textarea></div>
     <div class="grp"><label for="equipe">Équipe <span class="opt">(un par ligne : Prénom Nom — rôle)</span></label><textarea id="equipe" name="equipe" placeholder="Pierre Marin — Co-fondateur & CEO&#10;…"></textarea></div>
-    <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(URL)</span></label><input type="url" id="deck" name="deck" placeholder="https://…"><span class="hint">Confidentiel ? Envoyez-le à louis@exit.club, on le traite en direct.</span></div>
+    <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(fichier : PDF, PPT, image)</span></label><input type="file" id="deck" name="deck" accept=".pdf,.ppt,.pptx,.key,application/pdf,image/*"><span class="hint">Le fichier arrive directement dans notre base. Document très confidentiel ? Vous pouvez aussi l'envoyer à louis@exit.club.</span></div>
     <div class="grp"><label for="opportunite">Opportunité du moment</label><textarea id="opportunite" name="opportunite" placeholder="Le fonds en cours de levée, l'offre à mettre en avant ce trimestre."></textarea></div>
     <div class="grp"><label for="actualite">Actualité récente <span class="opt">(optionnel)</span></label><textarea id="actualite" name="actualite" placeholder="Nomination, opération, distinction…"></textarea></div>
     <div class="grp"><label for="rdv">Lien de prise de rendez-vous <span class="opt">(Calendly, cal.com…)</span></label><input type="url" id="rdv" name="rdv" placeholder="https://…"></div>
@@ -123,37 +124,37 @@ button:disabled{opacity:.55;cursor:wait}
   f.addEventListener("submit", function(e){
     e.preventDefault();
     msg.className = "msg";
-    var d = {
-      institution: f.institution.value.trim(),
-      categorie: f.categorie.value,
-      site_officiel: f.site_officiel.value.trim(),
-      logo: f.logo.value.trim(),
-      agrements: f.agrements.value.trim(),
-      contact: f.contact.value.trim(),
-      email: f.email.value.trim(),
-      telephone: f.telephone.value.trim(),
-      linkedin: f.linkedin.value.trim(),
-      presentation: f.presentation.value.trim(),
-      equipe: f.equipe.value.trim(),
-      deck: f.deck.value.trim(),
-      opportunite: f.opportunite.value.trim(),
-      actualite: f.actualite.value.trim(),
-      rdv: f.rdv.value.trim(),
-      consentement: f.consentement.checked,
-      site: f.site.value,
-      fiche: q.get("fiche") || ""
-    };
-    if (!d.institution || !d.categorie || !d.contact || !/^\S+@\S+\.\S+$/.test(d.email)) {
+    var institution = f.institution.value.trim(), categorie = f.categorie.value, contact = f.contact.value.trim(), email = f.email.value.trim();
+    if (!institution || !categorie || !contact || !/^\S+@\S+\.\S+$/.test(email)) {
       msg.className = "msg err"; msg.textContent = "Merci de remplir l'institution, la catégorie, votre nom et un email valide."; return;
     }
-    if (!d.consentement) {
+    if (!f.consentement.checked) {
       msg.className = "msg err"; msg.textContent = "Merci de cocher l'autorisation d'affichage."; return;
     }
+    var fd = new FormData();
+    fd.append("institution", institution);
+    fd.append("categorie", categorie);
+    fd.append("site_officiel", f.site_officiel.value.trim());
+    fd.append("agrements", f.agrements.value.trim());
+    fd.append("contact", contact);
+    fd.append("email", email);
+    fd.append("telephone", f.telephone.value.trim());
+    fd.append("linkedin", f.linkedin.value.trim());
+    fd.append("presentation", f.presentation.value.trim());
+    fd.append("equipe", f.equipe.value.trim());
+    fd.append("opportunite", f.opportunite.value.trim());
+    fd.append("actualite", f.actualite.value.trim());
+    fd.append("rdv", f.rdv.value.trim());
+    fd.append("consentement", f.consentement.checked ? "true" : "false");
+    fd.append("site", f.site.value);
+    fd.append("fiche", q.get("fiche") || "");
+    if (f.logo.files && f.logo.files[0]) fd.append("logo", f.logo.files[0]);
+    if (f.deck.files && f.deck.files[0]) fd.append("deck", f.deck.files[0]);
     go.disabled = true; go.textContent = "Envoi…";
-    fetch(API, {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(d)})
+    fetch(API, {method:"POST", body: fd})
       .then(function(r){ return r.json().then(function(j){ return {ok:r.ok, j:j}; }); })
       .then(function(r){
-        if (r.ok) { f.style.display="none"; msg.className="msg ok"; msg.innerHTML="<b>Bien reçu.</b> On met votre fiche à jour et on revient vers vous. Merci !"; msg.scrollIntoView({behavior:"smooth"}); }
+        if (r.ok) { f.style.display="none"; msg.className="msg ok"; msg.innerHTML="<b>Bien reçu.</b> Vos éléments et vos fichiers sont arrivés. On met votre fiche à jour et on revient vers vous. Merci !"; msg.scrollIntoView({behavior:"smooth"}); }
         else { msg.className="msg err"; msg.textContent = (r.j && r.j.error) || "Une erreur est survenue, réessayez."; go.disabled=false; go.textContent="Envoyer"; }
       })
       .catch(function(){ msg.className="msg err"; msg.textContent="Connexion impossible, réessayez dans un instant."; go.disabled=false; go.textContent="Envoyer"; });
