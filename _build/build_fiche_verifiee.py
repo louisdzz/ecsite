@@ -41,6 +41,11 @@ ops = [x for x in deals if nk(d["nom"]) in [nk(f) for f in (x.get("conseils") or
 init = d.get("initiales") or "".join(w[0] for w in d["nom"].split()[:2]).upper()
 annee = d.get("annee", 2026)
 
+# Signe de vie : une fiche verifiee est une fiche VIVANTE. On date la derniere
+# mise a jour a partir d'un fait reel (champ maj, sinon l'actualite la plus
+# recente). Jamais de date inventee : si rien n'est datable, rien ne s'affiche.
+maj = d.get("maj") or max([a["date"] for a in d.get("actus", []) if a.get("date")] or [""])
+
 # --- Logo (vrai visuel ou initiales) ---
 if d.get("logo_url"):
     logo_html = f'<div class="logo logo-img"><img src="{esc(d["logo_url"])}" alt="{esc(d["nom"])}"></div>'
@@ -92,6 +97,8 @@ def fmtm(am):
     a, m = am.split("-")[:2]
     mois = ["", "janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
     return f"{mois[int(m)]} {a}"
+
+fresh_html = (f'<span class="fresh"><i></i>Mise à jour {fmtm(maj)}</span>' if maj else "")
 
 actus = "".join(f'<div class="arow"><span class="adate">{fmtm(a["date"])}</span><span>{esc(a["texte"])}</span></div>'
                 for a in d.get("actus", []))
@@ -176,6 +183,8 @@ body{{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-se
 .logo-img{{background:#fff;border:1px solid var(--line)}}
 .logo img{{width:100%;height:100%;object-fit:contain;padding:8px}}
 .vbadge{{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#FFF;background:var(--accent);border-radius:999px;padding:5px 12px;margin-bottom:8px}}
+.fresh{{display:inline-flex;align-items:center;gap:6px;margin-left:8px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);vertical-align:middle}}
+.fresh i{{width:6px;height:6px;border-radius:50%;background:#5C8A2E;display:inline-block}}
 h1.disp{{font-size:42px;line-height:1.02}}
 .tagl{{margin-top:6px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}}
 .stats{{display:flex;flex-wrap:wrap;gap:14px;margin:22px 0 0}}
@@ -242,6 +251,7 @@ h1.disp{{font-size:42px;line-height:1.02}}
     {logo_html}
     <div>
       <span class="vbadge">✓ L'Écosystème de l'Exit · {annee}</span>
+      {fresh_html}
       <h1 class="disp">{esc(d["nom"])}</h1>
       <div class="tagl">{esc(d["categorie_label"])}</div>
     </div>
