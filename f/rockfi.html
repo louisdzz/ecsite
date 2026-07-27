@@ -70,6 +70,15 @@ h1.disp{font-size:42px;line-height:1.02}
 .stickycta{position:fixed;right:20px;bottom:20px;z-index:60;background:var(--accent);color:#fff;font-weight:600;font-size:14px;padding:13px 20px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(0,0,0,.18)}
 .foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .foot a{color:var(--muted);text-decoration:none}
+.hero.wl{display:flex;gap:24px;align-items:flex-start}
+.hero.wl>.hb{min-width:0}
+.flogo{flex:none;width:88px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#fff;border:1px solid var(--line)}
+.flogo.dk{background:var(--ink);border-color:var(--ink)}
+.flogo.wd{width:148px}
+.flogo.xw{width:230px}
+.flogo img{width:100%;height:100%;object-fit:contain;padding:10px}
+.sitel{font-weight:600}
+@media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px;padding:0}.flogo.wd{width:108px}.flogo.xw{width:100%;max-width:230px}.flogo img{padding:7px}}
 @media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:32px}.hero{flex-direction:column;align-items:flex-start}.stat{min-width:120px}}
 </style>
 </head>
@@ -84,14 +93,14 @@ h1.disp{font-size:42px;line-height:1.02}
     </div>
   </div>
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#cgp">Conseillers en gestion de patrimoine (CGP)</a></div>
-  <section class="hero">
+  <section class="hero wl"><div class="flogo"><img src="/assets/logos/dir/rockfi.webp" alt="RockFi" loading="lazy" width="192" height="192"></div><div class="hb">
     <div class="logo">RF</div>
     <div>
       <span class="vbadge">✓ L'Écosystème de l'Exit · 2026</span>
       <h1 class="disp">RockFi</h1>
       <div class="tagl">Conseillers en gestion de patrimoine (CGP)</div>
     </div>
-  </section>
+  </div></section>
   <div class="stats"><div class="stat"><b>1,3 Md€</b><span>de patrimoine conseillé</span></div><div class="stat"><b>~1 500</b><span>familles accompagnées</span></div><div class="stat"><b>3 000+</b><span>supports d'investissement</span></div></div>
   <div class="card"><div class="k">À propos</div><p>RockFi réinvente la gestion privée : un modèle hybride né de la rencontre entre d'anciens dirigeants de banques privées et des ingénieurs issus des fintechs européennes, dédié aux entrepreneurs et dirigeants pour structurer leur patrimoine avant comme après la cession. La maison conseille aujourd'hui près de 1,3 milliard d'euros pour environ 1 500 familles, avec un accès à plus de 3 000 supports couvrant toutes les classes d'actifs et une tarification fixe pensée pour un conseil réellement indépendant. Immatriculée à l'ORIAS (n° 23004556), membre de l'Anacofi, sous le contrôle de l'ACPR et de l'AMF.</p>
   <p style="margin-top:12px"><span class="xp">Assurance-vie France &amp; Luxembourg</span><span class="xp">Private equity &amp; produits structurés</span><span class="xp">SCPI, PEA &amp; comptes-titres</span><span class="xp">Mandats personnalisés</span><span class="xp">Ingénierie patrimoniale &amp; fiscale</span><span class="xp">Tarification fixe</span></p></div>

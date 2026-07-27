@@ -45,7 +45,10 @@ def candidates(html, base):
             out.append(m.group(1))
     seen, res = set(), []
     for u in out:
-        u = urllib.parse.urljoin(base, u.strip())
+        u = u.strip()
+        if u[:5].lower() == 'data:':      # placeholder de lazy-load, souvent tronqué
+            continue
+        u = urllib.parse.urljoin(base, u)
         if u in seen:
             continue
         seen.add(u)
