@@ -1,0 +1,530 @@
+[
+  {
+    "nom": "KPMG France",
+    "site": "kpmg.fr",
+    "ville": "Courbevoie",
+    "reseau": "KPMG International",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°4 du classement 2026 (env. 1 100 M€ de CA), n°1 sur les activités réglementées ; audit légal et transaction services ; siège de KPMG SA vérifié à Courbevoie (https://annuaire-entreprises.data.gouv.fr/entreprise/kpmg-775726417)"
+  },
+  {
+    "nom": "EY France",
+    "site": "ey.com",
+    "ville": "Courbevoie",
+    "reseau": "EY Global",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°1 du classement 2026 (1 497 M€), 49% du CA en activités réglementées ; site France : ey.com/fr_fr ; siège d'Ernst & Young Audit vérifié à Courbevoie (https://annuaire-entreprises.data.gouv.fr/entreprise/ernst-young-audit-344366315)"
+  },
+  {
+    "nom": "Deloitte France",
+    "site": "deloitte.fr",
+    "ville": "Puteaux",
+    "reseau": "Deloitte Touche Tohmatsu Limited",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°3 du classement 2026 (1 272 M€) ; siège de Deloitte & Associés vérifié à Puteaux (https://annuaire-entreprises.data.gouv.fr/entreprise/deloitte-associes-deloitte-572028041)"
+  },
+  {
+    "nom": "PwC France",
+    "site": "pwc.fr",
+    "ville": "Neuilly-sur-Seine",
+    "reseau": "PricewaterhouseCoopers International",
+    "source": "https://www.pwc.fr/fr/expertises/transactions/due-diligence-acheteur-et-due-diligence-vendeur.html",
+    "note": "offre dédiée due diligence acheteur et due diligence vendeur ; ne participe pas au classement compta-online ; siège de PricewaterhouseCoopers Audit vérifié à Neuilly-sur-Seine (https://annuaire-entreprises.data.gouv.fr/entreprise/pricewaterhousecoopers-audit-672006483)"
+  },
+  {
+    "nom": "Forvis Mazars France",
+    "site": "forvismazars.com",
+    "ville": "Courbevoie",
+    "reseau": "Forvis Mazars Global",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°7 du classement 2026 (618 M€) ; glossaire public sur la vendor due diligence (https://www.forvismazars.com/fr/fr/services/financial-advisory/glossaire-definition/t-u-v-w-x-y-z/vendor-due-diligence-rapport-de)"
+  },
+  {
+    "nom": "Grant Thornton France",
+    "site": "grantthornton.fr",
+    "ville": "Neuilly-sur-Seine",
+    "reseau": "Grant Thornton International",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "top 10 des activités réglementées ; 2 800 collaborateurs et 24 bureaux ; siège vérifié à Neuilly-sur-Seine (https://annuaire-entreprises.data.gouv.fr/entreprise/grant-thornton-632013843)"
+  },
+  {
+    "nom": "BDO France",
+    "site": "bdo.fr",
+    "ville": "Paris",
+    "reseau": "BDO International",
+    "source": "https://www.bdo.fr/en-gb/services/advisory/deal-advisory/transaction-services",
+    "note": "pôle Deal Advisory / Transaction Services ; siège vérifié à Paris 9e (https://annuaire-entreprises.data.gouv.fr/entreprise/bdo-france-bdo-bdo-500492004)"
+  },
+  {
+    "nom": "RSM France",
+    "site": "rsmfrance.fr",
+    "ville": "Paris",
+    "reseau": "RSM International",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "top 10 des activités réglementées ; siège vérifié à Paris 9e (https://annuaire-entreprises.data.gouv.fr/entreprise/800709891)"
+  },
+  {
+    "nom": "Baker Tilly France",
+    "site": "bakertilly.fr",
+    "ville": "Paris",
+    "reseau": "Baker Tilly International",
+    "source": "https://www.compta-online.com/classement-cabinets-expertise-comptable-ao7841",
+    "note": "top 10 des activités réglementées ; 2 200 collaborateurs, 219 M€ de CA (2024) ; siège vérifié à Paris 8e (https://annuaire-entreprises.data.gouv.fr/entreprise/baker-tilly-france-852869304)"
+  },
+  {
+    "nom": "Crowe France",
+    "site": "crowe.com/fr/crowefrance",
+    "ville": null,
+    "reseau": "Crowe Global",
+    "source": "https://www.crowe.com/fr/crowefrance",
+    "note": "aucun domaine crowe.fr confirmé ; le réseau français s'exprime via des pages crowe.com/fr (Crowe Avvens, Crowe HAF, Crowe Cogefis, Crowe Fidelio)"
+  },
+  {
+    "nom": "Moore France",
+    "site": "france.moore-global.com",
+    "ville": null,
+    "reseau": "Moore Global",
+    "source": "https://france.moore-global.com/?lang=fr-fr",
+    "note": "réseau international présent en France ; offre fiscalité (https://france.moore-global.com/fiscalite/)"
+  },
+  {
+    "nom": "HLB France",
+    "site": "hlb.global",
+    "ville": null,
+    "reseau": "HLB International",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°8 du classement 2026 ; agrégation des cabinets membres HLB en France, référencés sur https://www.hlb.global/locations/europe/france/ ; pas de domaine propre .fr confirmé"
+  },
+  {
+    "nom": "PKF France",
+    "site": "pkf.fr",
+    "ville": null,
+    "reseau": "PKF Global",
+    "source": "https://pkf.fr/",
+    "note": "portail français du réseau PKF Global (annuaire des cabinets membres)"
+  },
+  {
+    "nom": "Nexia S&A",
+    "site": "nexia-sa.fr",
+    "ville": null,
+    "reseau": "Nexia International",
+    "source": "https://nexia-sa.fr/services/financial-advisory",
+    "note": "cabinet dédié aux ETI avec pôle conseil financier M&A / due diligence ; a intégré Atriom pour la consolidation (https://www.compta-online.com/rapprochement-nexia-sa-atriom-ao8467)"
+  },
+  {
+    "nom": "Fiducial Expertise",
+    "site": "fiducial.fr",
+    "ville": "Courbevoie",
+    "reseau": "Fiducial",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°2 du classement 2026 (1 350 M€) ; offre audit d'entreprise (https://www.fiducial.fr/Audit-entreprise) ; siège vérifié à Courbevoie (https://annuaire-entreprises.data.gouv.fr/etablissement/55210872210462)"
+  },
+  {
+    "nom": "Cerfrance",
+    "site": "cerfrance.fr",
+    "ville": null,
+    "reseau": "Réseau Cerfrance",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°5 du classement 2026, premier réseau associatif à franchir 1 Md€ de CA ; structure fédérale, sites régionaux en sous-domaines de cerfrance.fr"
+  },
+  {
+    "nom": "In Extenso",
+    "site": "inextenso.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "n°6 du classement 2026, n°3 sur les activités réglementées ; 255 bureaux France/Belgique/Luxembourg ; offre audit et commissariat aux comptes (https://www.inextenso.fr/nos-offres/audit-et-commissariat-aux-comptes/)"
+  },
+  {
+    "nom": "COGEP",
+    "site": "cogep.fr",
+    "ville": "Le Mans",
+    "reseau": "HLB International",
+    "source": "https://www.compta-online.com/classement-cabinet-comptable-ao8667",
+    "note": "top 10 du classement 2026 et des activités réglementées ; 220 M€ de CA, 2 000 collaborateurs, 120 bureaux, adossé à Waterland ; pôle audit légal (https://www.cogep.fr/votre-projet/developper-mon-activite/audit-legal/) ; siège vérifié au Mans (https://annuaire-entreprises.data.gouv.fr/etablissement/77565206800096)"
+  },
+  {
+    "nom": "RYDGE Conseil",
+    "site": "rydge.fr",
+    "ville": "Courbevoie",
+    "reseau": null,
+    "source": "https://www.rydge.fr/cession-transmission-entreprise",
+    "note": "offre dédiée cession / transmission d'entreprise ; né de la cession des activités entrepreneurs de KPMG (430 M€ de CA, n°9 du classement 2026) ; rapprochement avec Adviso Partners pour le M&A small et mid-cap ; siège vérifié à Courbevoie (https://annuaire-entreprises.data.gouv.fr/entreprise/rydge-conseil-903309490)"
+  },
+  {
+    "nom": "Fiteco",
+    "site": "fiteco.com",
+    "ville": "Laval",
+    "reseau": null,
+    "source": "https://www.fiteco.com/",
+    "note": "top 10 des activités réglementées dans les classements compta-online ; siège à Laval (53), env. 180 bureaux et 3 000 collaborateurs ; attention : domaine en .com et non .fr"
+  },
+  {
+    "nom": "Exco",
+    "site": "exco.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://exco.fr/groupes/groupe-exco-p2b/",
+    "note": "réseau de cabinets indépendants, top 10 du classement pluridisciplinaire 2024 ; structuré en groupes régionaux (Exco P2B, Exco Nexiom...)"
+  },
+  {
+    "nom": "Orcom",
+    "site": "orcom.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.orcom.fr/",
+    "note": "positionnement explicite expertise comptable, audit et conseil aux dirigeants ; rapprochement avec BDS Associés (https://www.compta-online.com/orcom-bds-associes-ao8053)"
+  },
+  {
+    "nom": "TGS France",
+    "site": "tgs-france.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.tgs-france.fr/enjeux/transmettre-son-entreprise/",
+    "note": "groupement pluridisciplinaire avec offre dédiée « transmettre son entreprise »"
+  },
+  {
+    "nom": "Eurex",
+    "site": "eurex.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.eurex.fr/",
+    "note": "groupe d'expertise comptable, conseil et audit ; nouvelle gouvernance en 2025 (https://www.compta-online.com/eurex-nouvelle-gouvernance-ao8519)"
+  },
+  {
+    "nom": "Walter France",
+    "site": "walterfrance-allinial.com",
+    "ville": null,
+    "reseau": "Allinial Global",
+    "source": "https://www.walterfrance-allinial.com/en/homepage",
+    "note": "réseau de cabinets d'expertise comptable indépendants cité dans le classement 2025 ; attention : pas de domaine walterfrance.fr confirmé"
+  },
+  {
+    "nom": "Talenz",
+    "site": "talenz.fr",
+    "ville": null,
+    "reseau": "Talenz International",
+    "source": "https://www.talenz.fr/",
+    "note": "réseau national de cabinets indépendants (Talenz Alteis, Talenz Ares, Talenz MGA, Talenz Comexpert...)"
+  },
+  {
+    "nom": "Fideliance",
+    "site": "fideliance.fr",
+    "ville": null,
+    "reseau": "Crowe Global",
+    "source": "https://www.fideliance.fr/en/director-advisory-services/",
+    "note": "offre « conseil au dirigeant » ; appartenance au réseau Crowe confirmée sur https://www.fideliance.fr/en/crowe-international-network/ ; croissance par intégrations (Cogefis, CGF Jarry Collet & Associés)"
+  },
+  {
+    "nom": "Groupe Y Nexia",
+    "site": "groupey.fr",
+    "ville": null,
+    "reseau": "Nexia International",
+    "source": "https://groupey.fr/nexia",
+    "note": "acteur majeur du Centre-Ouest (Niort, La Rochelle, La Roche-sur-Yon) ; quatre nouveaux associés en 2025 (https://www.compta-online.com/groupey-nouveaux-associes-ao8150)"
+  },
+  {
+    "nom": "Yzico",
+    "site": "yzico.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.yzico.fr/",
+    "note": "groupe du Grand Est positionné sur l'accompagnement des entreprises et des dirigeants ; implantations Nancy / Villers-lès-Nancy, Commercy"
+  },
+  {
+    "nom": "Sadec Akelys",
+    "site": "sadec-akelys.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.compta-online.com/sadec-akelys-ao8069",
+    "note": "groupe en croissance, rapprochement avec Dauficom en Nord-Isère"
+  },
+  {
+    "nom": "Auditia",
+    "site": "auditia.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.auditia.fr/offre-et-services/expertise-comptable/",
+    "note": "cabinet d'expertise comptable et d'audit du grand Ouest (Nantes, Haute-Goulaine)"
+  },
+  {
+    "nom": "Endrix",
+    "site": "endrix.com",
+    "ville": "Lyon",
+    "reseau": null,
+    "source": "https://www.endrix.com/nous-connaitre/",
+    "note": "groupe expertise comptable / audit / conseil, 140 M€ de CA et 40+ bureaux, adossé à IK Partners ; siège vérifié à Lyon (https://annuaire.experts-comptables.org/expert-comptable/8745-endrix-grp-lyon-69007) ; attention : domaine en .com"
+  },
+  {
+    "nom": "implid",
+    "site": "implid.com",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.implid.com/chapeau/cabinet-expertise-comptable",
+    "note": "900+ professionnels, 40 bureaux en Auvergne-Rhône-Alpes, adossé à EMZ Partners (https://www.compta-online.com/private-equity-financiarisation-expertise-comptable-ao8214)"
+  },
+  {
+    "nom": "PKF Arsilon",
+    "site": "pkf-arsilon.com",
+    "ville": null,
+    "reseau": "PKF Global",
+    "source": "https://www.pkf-arsilon.com/en/",
+    "note": "800 collaborateurs, 25 bureaux, adossé à Crédit Mutuel Equity"
+  },
+  {
+    "nom": "Primexis",
+    "site": "primexis.fr",
+    "ville": "Paris",
+    "reseau": null,
+    "source": "https://www.primexis.fr/en/home-page/",
+    "note": "cabinet spécialisé groupes internationaux et fonds (450 collaborateurs, ~60 M€ de CA) ; a intégré MLAdvisory"
+  },
+  {
+    "nom": "Groupe Emargence",
+    "site": "emargence.fr",
+    "ville": "Paris",
+    "reseau": null,
+    "source": "https://www.emargence.fr/",
+    "note": "audit, conseil et expertise comptable ; 20 M€ de CA, 120 collaborateurs, levée de 10 M€ avec NextStage AM (https://www.compta-online.com/emargence-nextstage-am-ao8419)"
+  },
+  {
+    "nom": "Inelys",
+    "site": "inelys.fr",
+    "ville": "Lyon",
+    "reseau": null,
+    "source": "https://www.inelys.fr/",
+    "note": "expertise comptable, audit et conseil ; Lyon, Paris, Annecy ; 25 M€ de CA, adossé à Crédit Mutuel Equity"
+  },
+  {
+    "nom": "Ansemble",
+    "site": "ansemble.fr",
+    "ville": "Manosque",
+    "reseau": null,
+    "source": "https://ansemble.fr/",
+    "note": "groupe PACA, 35 M€ de CA, 300 collaborateurs, adossé à Cervinvest Capital / Sofipaca"
+  },
+  {
+    "nom": "Tissendo",
+    "site": "tissendo.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.tissendo.fr/",
+    "note": "cabinet d'expertise comptable, d'audit et de conseil financier, Auvergne-Rhône-Alpes ; a intégré Hexia et CDLA"
+  },
+  {
+    "nom": "Aurys",
+    "site": "aurys.fr",
+    "ville": "Paris",
+    "reseau": null,
+    "source": "https://aurys.fr/cabinet-expert-comptable-paris/",
+    "note": "groupe en diversification, a intégré Dafinity"
+  },
+  {
+    "nom": "Anderlaine",
+    "site": null,
+    "ville": "Chambéry",
+    "reseau": null,
+    "source": "https://www.compta-online.com/private-equity-financiarisation-expertise-comptable-ao8214",
+    "note": "600+ collaborateurs, 20 sites AURA/PACA, 30 000 clients ; domaine web non confirmé"
+  },
+  {
+    "nom": "Archipel",
+    "site": null,
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.compta-online.com/private-equity-financiarisation-expertise-comptable-ao8214",
+    "note": "50 M€ de CA, 9 cabinets intégrés en un an, adossé à Alpera Partners / Eurazeo ; domaine web non confirmé"
+  },
+  {
+    "nom": "Numeris",
+    "site": null,
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.compta-online.com/private-equity-financiarisation-expertise-comptable-ao8214",
+    "note": "~150 collaborateurs, adossé à Strada Partners ; domaine web non confirmé"
+  },
+  {
+    "nom": "Groupe Cofimé",
+    "site": "hlb-groupecofime.com",
+    "ville": "Colmar",
+    "reseau": "HLB International",
+    "source": "https://www.hlb-groupecofime.com/",
+    "note": "250 collaborateurs, 25 M€ de CA en Alsace ; a repris Ceralp"
+  },
+  {
+    "nom": "Finexsi",
+    "site": "finexsi.eu",
+    "ville": "Paris",
+    "reseau": null,
+    "source": "https://finexsi.eu/",
+    "note": "expert et conseil financier : évaluation d'entreprise, attestations d'équité, expertise indépendante ; longtemps 1er en CA par salarié des classements compta-online ; siège vérifié à Paris 16e (https://annuaire.experts-comptables.org/expert-comptable/16736-finexsi-expert-conseil-financier-paris-75116) ; attention : domaine en .eu"
+  },
+  {
+    "nom": "Ledouble",
+    "site": "ledouble.fr",
+    "ville": "Paris",
+    "reseau": "Baker Tilly (rapprochement annoncé en 2026)",
+    "source": "https://www.ledouble.fr/en/about-us/",
+    "note": "experts financiers indépendants : évaluation, fairness opinion (https://www.ledouble.fr/en/expertises/fairness-opinion/) ; rapprochement avec Baker Tilly France annoncé le 13/01/2026"
+  },
+  {
+    "nom": "Exelmans Audit & Conseil",
+    "site": "exelmans.com",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.exelmans.com/",
+    "note": "cabinet dédié aux acteurs de l'investissement, fonds de private equity et entrepreneurs ; 1er du classement compta-online en CA par salarié (277,8 k€ en 2025)"
+  },
+  {
+    "nom": "Advolis Orfis",
+    "site": "advolis-orfis.com",
+    "ville": "Paris",
+    "reseau": null,
+    "source": "https://advolis-orfis.com/en/services/statutory-accounting-audits/",
+    "note": "commissariat aux comptes, fiscalité de l'entreprise et du patrimoine, commissariat aux apports et à la fusion ; inscrit à la Haute Autorité de l'audit (https://h2a-france.org/personne_morale/4100090407/)"
+  },
+  {
+    "nom": "ATH",
+    "site": "ath.asso.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://ath.asso.fr/qui-sommes-nous/",
+    "note": "association technique regroupant des cabinets indépendants d'audit et d'expertise comptable ; contrôle qualité et observatoire de l'information financière ; annuaire des membres sur https://ath.asso.fr/nos-cabinets-membres/"
+  },
+  {
+    "nom": "Absoluce",
+    "site": "absoluce.net",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.absoluce.net/",
+    "note": "groupement de cabinets d'experts-comptables et de commissaires aux comptes indépendants ; attention : domaine en .net"
+  },
+  {
+    "nom": "France Défi",
+    "site": "francedefi.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.francedefi.fr/",
+    "note": "groupement national de cabinets indépendants, cité parmi les principaux réseaux par compta-online"
+  },
+  {
+    "nom": "Eurus",
+    "site": "eurus.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "https://eurus.fr/reseau-experts-comptables/",
+    "note": "groupement d'experts-comptables indépendants (anciennement Alliance Eurus)"
+  },
+  {
+    "nom": "Synerga",
+    "site": "synerga.net",
+    "ville": null,
+    "reseau": null,
+    "source": "https://www.synerga.net/",
+    "note": "groupement d'experts-comptables indépendants, membre du CGCI ; attention : domaine en .net"
+  },
+  {
+    "nom": "Audécia",
+    "site": "audecia.com",
+    "ville": null,
+    "reseau": null,
+    "source": "https://audecia.com/",
+    "note": "communauté de cabinets d'expertise comptable, citée parmi les réseaux du classement compta-online 2020"
+  },
+  {
+    "nom": "CGCI (Comité des Groupements de Cabinets Indépendants)",
+    "site": "cgci.fr",
+    "ville": null,
+    "reseau": null,
+    "source": "http://cgci.fr/index.php?Itemid=9&id=22&option=com_content&view=article",
+    "note": "instance fédérant les groupements de cabinets indépendants (Absoluce, ATH, Différence, Eurus, Fidunion, France Défi, Synerga...)"
+  },
+  {
+    "nom": "DBA",
+    "site": "fr-dba.com",
+    "ville": null,
+    "reseau": "HLB International",
+    "source": "https://www.fr-dba.com/reseau-international/",
+    "note": "cabinet indépendant, membre de HLB International en France"
+  },
+  {
+    "nom": "HLP Audit",
+    "site": "hlp-audit.fr",
+    "ville": "Nantes",
+    "reseau": null,
+    "source": "https://www.hlp-audit.fr/",
+    "note": "cabinet d'expertise comptable et de commissariat aux comptes à Nantes"
+  },
+  {
+    "nom": "SECEF",
+    "site": "secef.fr",
+    "ville": null,
+    "reseau": "Absoluce",
+    "source": "https://www.secef.fr/nous-connaitre/le-groupement-absoluce",
+    "note": "cabinet indépendant Nancy / Metz / Pont-à-Mousson, membre du groupement Absoluce"
+  },
+  {
+    "nom": "Cabinet Martini & Associés",
+    "site": "cabinet-martini.com",
+    "ville": null,
+    "reseau": "Absoluce",
+    "source": "https://www.cabinet-martini.com/le-groupement/",
+    "note": "cabinet indépendant membre du réseau Absoluce"
+  },
+  {
+    "nom": "Actis Walter France",
+    "site": "actis-walterfrance.com",
+    "ville": null,
+    "reseau": "Walter France / Allinial Global",
+    "source": "https://www.actis-walterfrance.com/nous-connaitre/un-reseau-autrement",
+    "note": "cabinet membre du réseau Walter France"
+  },
+  {
+    "nom": "LBA Walter France",
+    "site": "lba-walterfrance.com",
+    "ville": null,
+    "reseau": "Walter France / Allinial Global",
+    "source": "https://www.lba-walterfrance.com/le-reseau-walter-france",
+    "note": "cabinet membre du réseau Walter France"
+  },
+  {
+    "nom": "Conex Walter France",
+    "site": "conex-walterfrance.com",
+    "ville": null,
+    "reseau": "Walter France / Allinial Global",
+    "source": "https://www.conex-walterfrance.com/notre-cabinet/",
+    "note": "cabinet membre du réseau Walter France"
+  },
+  {
+    "nom": "BDM Walter France",
+    "site": "bdm-walterfrance.com",
+    "ville": "Marmande",
+    "reseau": "Walter France / Allinial Global",
+    "source": "https://www.bdm-walterfrance.com/",
+    "note": "cabinet d'expertise comptable, conseil et audit à Marmande (47), membre de Walter France"
+  },
+  {
+    "nom": "SERS Walter France",
+    "site": "sers-walter-allinial.com",
+    "ville": null,
+    "reseau": "Walter France / Allinial Global",
+    "source": "https://www.sers-walter-allinial.com/",
+    "note": "cabinet d'expertise comptable à Bayonne et Pau (64), membre de Walter France"
+  },
+  {
+    "nom": "Crowe Avvens",
+    "site": "crowe.com/fr/avvens",
+    "ville": null,
+    "reseau": "Crowe Global",
+    "source": "https://www.crowe.com/fr/avvens/services/expertise-comptable",
+    "note": "cabinet membre français du réseau Crowe ; pas de domaine propre confirmé"
+  },
+  {
+    "nom": "Crowe HAF",
+    "site": "crowe.com/fr/crowe-haf",
+    "ville": null,
+    "reseau": "Crowe Global",
+    "source": "https://www.crowe.com/fr/crowe-haf",
+    "note": "cabinet membre français du réseau Crowe ; pas de domaine propre confirmé"
+  }
+]

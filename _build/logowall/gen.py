@@ -106,9 +106,9 @@ def build():
         '<span>%d maisons cliquables ci-dessous, %s fiches au total</span></div>\n'
         '  <div class="wall__g">%s</div>\n'
         '  <p class="wall__f">Chaque logo mène à la fiche publique de la maison. '
-        '<a href="#cgp">Voir les 12 catégories</a></p>\n'
+        '<a href="#cgp">Voir les 13 catégories</a></p>\n'
         '</section>\n'
-        '<!-- LOGOWALL:END -->' % (len(cells), '4&nbsp;160', ''.join(cells)))
+        '<!-- LOGOWALL:END -->' % (len(cells), '4&nbsp;225', ''.join(cells)))
     return html, len(cells)
 
 

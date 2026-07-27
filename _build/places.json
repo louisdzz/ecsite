@@ -1,15 +1,68 @@
 {
  "_": "Places de fiches vérifiées ouvertes pour 2026, par catégorie de l'Écosystème. Chiffres tenus à la main : ils sont affichés en public, ils doivent être vrais. 'prises' = fiches vérifiées effectivement en ligne dans la catégorie.",
- "banques-affaires": {"label": "Banques d'affaires", "places": 8, "prises": 0},
- "boutiques-ma": {"label": "Boutiques M&A", "places": 8, "prises": 0},
- "avocats": {"label": "Avocats", "places": 8, "prises": 0},
- "notaires": {"label": "Notaires", "places": 6, "prises": 0},
- "banques-privees": {"label": "Banques privées", "places": 8, "prises": 0},
- "mfo": {"label": "Multi-family offices", "places": 8, "prises": 0},
- "cgp": {"label": "Conseillers en gestion de patrimoine", "places": 12, "prises": 1},
- "assurance-vie-lux": {"label": "Assurance-vie luxembourgeoise", "places": 4, "prises": 0},
- "fonds-pe": {"label": "Fonds de private equity", "places": 10, "prises": 0},
- "fonds-dette": {"label": "Fonds de dette", "places": 6, "prises": 0},
- "fonds-vc": {"label": "Fonds de venture capital", "places": 6, "prises": 0},
- "secondaire": {"label": "Secondaire", "places": 4, "prises": 0}
+ "banques-affaires": {
+  "label": "Banques d'affaires",
+  "places": 8,
+  "prises": 0
+ },
+ "boutiques-ma": {
+  "label": "Boutiques M&A",
+  "places": 8,
+  "prises": 0
+ },
+ "avocats": {
+  "label": "Avocats",
+  "places": 8,
+  "prises": 0
+ },
+ "notaires": {
+  "label": "Notaires",
+  "places": 6,
+  "prises": 0
+ },
+ "banques-privees": {
+  "label": "Banques privées",
+  "places": 8,
+  "prises": 0
+ },
+ "mfo": {
+  "label": "Multi-family offices",
+  "places": 8,
+  "prises": 0
+ },
+ "cgp": {
+  "label": "Conseillers en gestion de patrimoine",
+  "places": 12,
+  "prises": 1
+ },
+ "assurance-vie-lux": {
+  "label": "Assurance-vie luxembourgeoise",
+  "places": 4,
+  "prises": 0
+ },
+ "fonds-pe": {
+  "label": "Fonds de private equity",
+  "places": 10,
+  "prises": 0
+ },
+ "fonds-dette": {
+  "label": "Fonds de dette",
+  "places": 6,
+  "prises": 0
+ },
+ "fonds-vc": {
+  "label": "Fonds de venture capital",
+  "places": 6,
+  "prises": 0
+ },
+ "secondaire": {
+  "label": "Secondaire",
+  "places": 4,
+  "prises": 0
+ },
+ "experts-comptables": {
+  "label": "Experts-comptables & auditeurs",
+  "places": 6,
+  "prises": 0
+ }
 }
