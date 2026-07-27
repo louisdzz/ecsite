@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{nom} · Fiche en aperçu | L'Écosystème de l'Exit</title>
+<meta name="description" content="Aperçu privé de la fiche {nom} sur L'Écosystème de l'Exit. Non publiée.">
+<meta name="robots" content="noindex, nofollow">
+<style>
+{css}
+</style>
+</head>
+<body>
+
+<div class="draftbar">
+  <div class="wrap">
+    <span class="dot"></span>
+    <span><b>Aperçu privé.</b> Cette fiche n'est pas en ligne. Elle a été préparée pour {nom} par l'équipe de l'Exit Club.</span>
+    <span class="sp">Lien non indexé</span>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="top">
+    <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
+    <div style="display:flex;align-items:center;gap:22px">
+      <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">L'Écosystème</a>
+      <a href="{cal}" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:#fff;background:var(--accent);padding:9px 16px;border-radius:999px;text-decoration:none">Publier ma fiche</a>
+    </div>
+  </div>
+
+  <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#cgp">Conseillers en gestion de patrimoine (CGP)</a> · {region}</div>
+
+  <section class="hero">
+    {logo}
+    <div>
+      <span class="dbadge">Aperçu · non publié</span>
+      <h1 class="disp">{nom}</h1>
+      <div class="tagl">Conseillers en gestion de patrimoine (CGP) · {region}</div>
+    </div>
+  </section>
+
+  <div class="stats">{stats}</div>
+
+  <div class="note">
+    <div class="k">Pourquoi cette fiche existe déjà</div>
+    <p>« {acc} »</p>
+    <div class="sig"><b>Louis Debouzy</b> · fondateur de l'Exit Club · j'ai vendu ma société à 31 ans</div>
+  </div>
+
+  {preuve}
+
+  <div class="card">
+    <div class="k">À propos · brouillon, à valider par vous</div>
+    <p>{pitch}</p>
+    <p style="margin-top:12px">{xps}</p>
+  </div>
+
+  <div class="card">
+    <div class="k">L'équipe</div>
+    {equipe}
+    <p style="margin-top:12px;font-size:12.5px">Identifiée à partir de vos publications et du registre national. Une correction, un associé à ajouter, une photo à mettre&nbsp;: dites-le, c'est fait dans la journée.</p>
+  </div>
+
+  <div class="card">
+    <div class="k">Ce qui s'ajoute quand la fiche passe en ligne</div>
+    <div class="mods">{mods}</div>
+  </div>
+
+  <div class="card">
+    <div class="k">Qui la voit</div>
+    <p>L'Exit Club rassemble près de 300 fondateurs qui ont vendu, pour un cumul de 2 milliards d'euros de cash out. Autour d'eux, l'Écosystème de l'Exit recense 4 160 institutions du marché de la cession, pré et post, et suit 1 521 M€ d'opérations sur la saison. Banquiers d'affaires, avocats, notaires, fonds, family offices&nbsp;: la page est devenue le point de passage de tout le marché, pas seulement des membres.</p>
+    <div class="rare">
+      <div class="rc"><b>4 160</b><span>institutions recensées</span></div>
+      <div class="rc"><b>3 056</b><span>cabinets dans la catégorie CGP</span></div>
+      <div class="rc"><b>12</b><span>places CGP ouvertes pour 2026</span></div>
+    </div>
+    <p style="margin-top:14px;font-size:13.5px">Être listé est gratuit et le restera. Être identifiable ne l'est pas. Deux maisons seulement sont vérifiées à ce jour, et nous ouvrons douze places dans la catégorie CGP pour 2026, réparties par région. {regionp}, la vôtre est libre.</p>
+  </div>
+
+  <div class="card">
+    <div class="k">Ce que ça coûte</div>
+    <p>Tarif annuel, dégressif selon l'encours du cabinet. Votre tranche&nbsp;: {tranche}.</p>
+    <div class="prices">{grid}</div>
+    <p style="margin-top:14px;font-size:13.5px">Un client post-cession rembourse la fiche pour les dix prochaines années. La vérification n'influence ni la présence dans l'annuaire, ni l'ordre d'affichage, ni les Ligues&nbsp;: elle rend votre maison lisible, elle ne l'achète pas.</p>
+  </div>
+
+  <div class="cta">
+    <a class="btnp" href="{cal}" target="_blank" rel="noopener">Publier cette fiche · 25 min avec Louis</a>
+    <a class="btn2" href="mailto:louis@exit.club?subject=Fiche%20{slug}%20-%20je%20valide">Répondre par email</a>
+    {sitebtn}
+  </div>
+
+  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Aperçu confidentiel généré à partir de sources publiques&nbsp;: votre site, vos publications, le registre national des entreprises et le registre ORIAS. Aucun contenu n'est publié tant que vous ne l'avez pas validé. Pour demander le retrait de ces données, écrivez à louis@exit.club, c'est traité sous 48 heures.</p>
+
+  <div class="foot">
+    <div>Exit Club · L'Écosystème de l'Exit</div>
+    <div><a href="/ecosysteme">L'annuaire</a> · <a href="mailto:louis@exit.club?subject=Fiche%20{slug}">Contact</a></div>
+  </div>
+</div>
+
+<a class="stickycta" href="{cal}" target="_blank" rel="noopener">Publier ma fiche &rarr;</a>
+
+</body>
+</html>

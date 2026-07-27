@@ -1,0 +1,78 @@
+{
+ "attitude-patrimoine": {
+  "src": "/assets/logos/attitude-patrimoine.png",
+  "dark": false
+ },
+ "bonjour-patrimoine": {
+  "src": "/assets/logos/bonjour-patrimoine.png",
+  "dark": true
+ },
+ "boreal-patrimoine": {
+  "src": "/assets/logos/boreal-patrimoine.png",
+  "dark": false
+ },
+ "colbert-patrimoine-finance": {
+  "src": "/assets/logos/colbert-patrimoine-finance.png",
+  "dark": false
+ },
+ "elite-patrimoine": {
+  "src": "/assets/logos/elite-patrimoine.png",
+  "dark": true
+ },
+ "family-and-office": {
+  "src": "/assets/logos/family-and-office.png",
+  "dark": false
+ },
+ "fidere-conseil": {
+  "src": "/assets/logos/fidere-conseil.png",
+  "dark": false
+ },
+ "hexa-patrimoine": {
+  "src": "/assets/logos/hexa-patrimoine.png",
+  "dark": true
+ },
+ "massalia-finance": {
+  "src": "/assets/logos/massalia-finance.png",
+  "dark": true
+ },
+ "master-conseil": {
+  "src": "/assets/logos/master-conseil.png",
+  "dark": false
+ },
+ "novalfi-conseil": {
+  "src": "/assets/logos/novalfi-conseil.png",
+  "dark": false
+ },
+ "octopus-patrimoine": {
+  "src": "/assets/logos/octopus-patrimoine.png",
+  "dark": false
+ },
+ "office-experts-patrimoine": {
+  "src": "/assets/logos/office-experts-patrimoine.png",
+  "dark": false
+ },
+ "office-patrimoine": {
+  "src": "/assets/logos/office-patrimoine.png",
+  "dark": false
+ },
+ "op-finances": {
+  "src": "/assets/logos/op-finances.svg",
+  "dark": false
+ },
+ "tanguy-finances": {
+  "src": "/assets/logos/tanguy-finances.svg",
+  "dark": false
+ },
+ "treeefle-gestion-privee": {
+  "src": "/assets/logos/treeefle-gestion-privee.png",
+  "dark": true
+ },
+ "version-patrimoine": {
+  "src": "/assets/logos/version-patrimoine.png",
+  "dark": false
+ },
+ "verum-gestion-privee": {
+  "src": "/assets/logos/verum-gestion-privee.png",
+  "dark": false
+ }
+}
