@@ -254,6 +254,8 @@ MODULES = [
 TR = ["< 100 M€", "100 – 500 M€", "500 M€ – 2 Md€", "> 2 Md€"]
 TRP = {"< 100 M€":"990 €", "100 – 500 M€":"1 900 €", "500 M€ – 2 Md€":"3 900 €", "> 2 Md€":"6 900 €"}
 
+PHOTOS = json.load(open('_build/apercu/photos.json')) if os.path.exists('_build/apercu/photos.json') else {}
+
 CSS = open('_build/apercu/style.css').read()
 TPL = open('_build/apercu/tpl.html').read()
 
@@ -281,8 +283,15 @@ def build(nom):
     eq = ''
     for n, r, li in d['equipe']:
         lia = '<a href="%s" target="_blank" rel="noopener">LinkedIn</a>' % e(li) if li else ''
-        eq += ('<div class="pers"><div class="ava">%s</div><div><b>%s</b><span>%s</span>%s</div>'
-               '<span class="slot">photo à ajouter</span></div>') % (initials(n), e(n), e(r), lia)
+        ph = PHOTOS.get('%s|%s' % (slug, n))
+        if ph:
+            ava = '<div class="ava ph"><img src="%s" alt="%s" loading="lazy"></div>' % (e(ph['f']), e(n))
+            chip = ''
+        else:
+            ava = '<div class="ava">%s</div>' % initials(n)
+            chip = '<span class="slot">photo a ajouter</span>'.replace('a ajouter', '\u00e0 ajouter')
+        eq += ('<div class="pers">%s<div><b>%s</b><span>%s</span>%s</div>%s</div>') % (
+            ava, e(n), e(r), lia, chip)
 
     preuve = ''
     if c.get('angle_exit'):
