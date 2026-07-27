@@ -1,0 +1,21 @@
+banques-affaires [0:100000] 65/88 résolus -> _build/domains/banques-affaires-0.json
+boutiques-ma [0:100000] 26/41 résolus -> _build/domains/boutiques-ma-0.json
+avocats [0:100000] 137/215 résolus -> _build/domains/avocats-0.json
+notaires [0:100000] 44/89 résolus -> _build/domains/notaires-0.json
+banques-privees [0:100000] 46/66 résolus -> _build/domains/banques-privees-0.json
+mfo [0:100000] 51/72 résolus -> _build/domains/mfo-0.json
+assurance-vie-lux [0:100000] 1/3 résolus -> _build/domains/assurance-vie-lux-0.json
+fonds-pe [0:100000] 227/317 résolus -> _build/domains/fonds-pe-0.json
+fonds-dette [0:100000] 45/66 résolus -> _build/domains/fonds-dette-0.json
+fonds-vc [0:100000] 80/128 résolus -> _build/domains/fonds-vc-0.json
+secondaire [0:100000] 14/20 résolus -> _build/domains/secondaire-0.json
+DONE_NONCGP
+cgp [0:400] 190/400 résolus -> _build/domains/cgp-0.json
+cgp [400:800] 194/400 résolus -> _build/domains/cgp-400.json
+cgp [800:1200] 195/400 résolus -> _build/domains/cgp-800.json
+cgp [1200:1600] 210/400 résolus -> _build/domains/cgp-1200.json
+cgp [1600:2000] 181/400 résolus -> _build/domains/cgp-1600.json
+cgp [2000:2400] 200/400 résolus -> _build/domains/cgp-2000.json
+cgp [2400:2800] 190/400 résolus -> _build/domains/cgp-2400.json
+cgp [2800:3200] 124/256 résolus -> _build/domains/cgp-2800.json
+DONE_ALL
