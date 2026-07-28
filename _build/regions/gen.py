@@ -385,7 +385,7 @@ for nom, prep, deps in REGIONS:
              'des associés, l\'expertise post-cession et la prise de rendez-vous directe. '
              'La vérification n\'influence ni la présence dans le recensement, ni l\'ordre '
              'd\'affichage, ni les Ligues.</p></div>'
-             '<a class="btn" href="/referencement?cat=cgp&region=%s&demande=verifier">Faire vérifier ma fiche</a>'
+             '<a class="btn" href="/fiche-verifiee?cat=cgp&region=%s">Faire vérifier ma fiche</a>'
              '</div>'
              % (rest, big, CGP['places'], CGP['prises'],
                 'est' if CGP['prises'] < 2 else 'sont',

@@ -156,7 +156,7 @@ if apercu:
 demo_note = ''
 if d.get("demo"):
     demo_note = ('<div style="background:var(--ink);color:var(--paper);padding:10px 16px;text-align:center;font-size:13px">'
-                 'Fiche de démonstration · firme fictive · <a href="/referencement?demande=verifier" style="color:#D9C68A">obtenir la vôtre →</a></div>')
+                 'Fiche de démonstration · firme fictive · <a href="/fiche-verifiee" style="color:#D9C68A">obtenir la vôtre →</a></div>')
 
 page = f'''<!DOCTYPE html>
 <html lang="fr">

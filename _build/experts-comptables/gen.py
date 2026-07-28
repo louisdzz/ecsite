@@ -122,13 +122,13 @@ SEC = """<section class="cat" id="{cid}">
       <div><h3>{label}</h3><p class="cdesc">{cdesc}</p></div>
       <div class="count"><b>{n}</b> référencés</div>
     </div>
-    <!--SLOTS:START--><p class="slotline"><b>{pl} places</b> de fiche vérifiée restantes sur {pl} ouvertes pour 2026<a href="/referencement?cat={cid}&demande=verifier">Faire vérifier ma fiche</a></p><!--SLOTS:END-->
+    <!--SLOTS:START--><p class="slotline"><b>{pl} places</b> de fiche vérifiée restantes sur {pl} ouvertes pour 2026<a href="/fiche-verifiee?cat={cid}">Faire vérifier ma fiche</a></p><!--SLOTS:END-->
     <ul class="firms">
 {lis}
     </ul>
     <div class="cta">
       <a class="linkbtn" href="/referencement?cat={cid}&demande=referencer">Vous ne figurez pas dans la liste ? Faites-vous référencer, c'est gratuit →</a>
-      <a class="linkbtn" href="/referencement?cat={cid}&demande=verifier">Faire vérifier ma fiche →</a>
+      <a class="linkbtn" href="/fiche-verifiee?cat={cid}">Faire vérifier ma fiche →</a>
     </div>
   </section>
   """.format(cid=CAT_ID, label=CAT_LABEL, cdesc=CDESC, n=len(FIRMS),

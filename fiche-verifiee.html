@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Faire vérifier ma fiche · L'Écosystème de l'Exit | exit.club</title>
+<meta name="description" content="Fiche vérifiée dans L'Écosystème de l'Exit : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Grille dégressive de 990 à 6 900 € HT par an.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://www.exit.club/fiche-verifiee">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
+.wrap{max-width:760px;margin:0 auto;padding:0 40px}
+.top{display:flex;align-items:center;justify-content:space-between;padding:26px 0}
+.mark{font-family:'Fraunces',Georgia,serif;font-size:21px}.mark i{font-style:italic}.mark b{font-weight:600}
+.hero{padding:26px 0 6px}
+.over{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint);margin:0 0 14px}
+h1.disp{font-size:46px;line-height:1.02}
+h2.disp{font-size:27px;line-height:1.12;margin:0 0 6px}
+.lede{font-size:16px;color:var(--muted);margin:18px 0 0;line-height:1.65}
+.sec{margin:44px 0 0}
+.sec p{font-size:15.5px;line-height:1.7;margin:12px 0 0;color:var(--ink)}
+.sec p.q{color:var(--muted)}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:22px 0 0}
+.box{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px}
+.box.dim{background:transparent;border-style:dashed}
+.box .t{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);margin:0 0 12px}
+.box ul{list-style:none;font-size:14.5px;line-height:1.95}
+.box li{padding-left:20px;position:relative}
+.box li:before{content:"✓";position:absolute;left:0;color:var(--accent);font-size:13px}
+.box.dim li:before{content:"·";color:var(--faint)}
+.cad{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:4px;background:var(--card);margin:22px 0 0}
+.cad button{font-size:13.5px;font-weight:600;padding:8px 18px;border-radius:999px;border:0;background:transparent;color:var(--muted);cursor:pointer}
+.cad button.on{background:var(--ink);color:var(--paper)}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:18px 0 0}
+.pal{border:1px solid var(--line);border-radius:16px;padding:18px 20px;background:var(--card);cursor:pointer;display:block;position:relative}
+.pal.on{border-color:var(--accent);background:#F2F0DF;box-shadow:0 0 0 1px var(--accent) inset}
+.pal input{position:absolute;opacity:0}
+.pal .n{font-size:15px;font-weight:600}
+.pal .p{font-family:'Fraunces',Georgia,serif;font-size:30px;font-weight:300;margin:8px 0 2px;letter-spacing:-.01em}
+.pal .p span{font-family:'Inter',Arial,sans-serif;font-size:12.5px;font-weight:500;color:var(--muted);letter-spacing:0}
+.pal .c{font-size:12.5px;color:var(--muted);line-height:1.5;margin-top:6px}
+form{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:28px;margin:24px 0 0;display:grid;gap:18px}
+label{font-size:13px;font-weight:600;color:var(--ink);display:block;margin-bottom:6px}
+label .opt{font-weight:400;color:var(--faint)}
+input[type=text],input[type=email],input[type=tel],select{width:100%;font-size:15px;font-family:'Inter',Arial,sans-serif;padding:12px 14px;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink);outline:none}
+input:focus,select:focus{border-color:var(--accent)}
+.hp{position:absolute;left:-9999px;top:-9999px}
+button.go{font-size:15.5px;font-weight:600;padding:15px 24px;border-radius:999px;border:0;background:var(--ink);color:var(--paper);cursor:pointer}
+button.go:disabled{opacity:.55;cursor:wait}
+.msg{display:none;border-radius:12px;padding:16px 18px;font-size:14px;line-height:1.55}
+.msg.ok{display:block;background:#EAF0DC;border:1px solid #C6D3A5;color:var(--ink)}
+.msg.err{display:block;background:#F6E3DC;border:1px solid #E0B7A8;color:#5B2E1E}
+.fine{font-size:12.5px;color:var(--faint);line-height:1.65;margin:14px 0 0}
+.neutre{border-left:2px solid var(--line);padding:2px 0 2px 16px;font-size:13px;color:var(--muted);line-height:1.65;margin:34px 0 0}
+.foot{border-top:1px solid var(--line);margin-top:52px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.foot a{color:var(--muted);text-decoration:none}
+a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:33px}.two,.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
+    <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">← L'Écosystème</a>
+  </div>
+
+  <section class="hero">
+    <p class="over">L'Écosystème de l'Exit · Fiche vérifiée</p>
+    <h1 class="disp">Votre confrère d'à côté <span style="font-style:italic;color:var(--accent)">a déjà son logo.</span></h1>
+    <p class="lede">Vous êtes recensé gratuitement, et vous le resterez. Mais un dirigeant qui vient d'encaisser sa cession ouvre trois fiches, pas trente. Il s'arrête sur celles qui montrent un visage, une équipe, un one-pager et un créneau à réserver.</p>
+  </section>
+
+  <section class="sec">
+    <div class="two">
+      <div class="box dim">
+        <p class="t">Votre fiche aujourd'hui</p>
+        <ul>
+          <li>Nom de la maison</li>
+          <li>Catégorie</li>
+          <li>Ville et région</li>
+          <li>Dirigeants issus du registre</li>
+          <li>Aucun logo, aucun contact</li>
+        </ul>
+      </div>
+      <div class="box">
+        <p class="t">Votre fiche vérifiée</p>
+        <ul>
+          <li>Votre logo en tête de fiche</li>
+          <li>Votre équipe, photos et LinkedIn</li>
+          <li>Votre one-pager téléchargeable</li>
+          <li>Votre opportunité du moment</li>
+          <li>Votre lien de rendez-vous, en direct</li>
+          <li>Badge « L'Écosystème de l'Exit · 2026 »</li>
+        </ul>
+      </div>
+    </div>
+    <p class="fine">Vous voulez voir avant de décider : <a class="lk" href="/f/demo-fiche-verifiee" target="_blank">ouvrez une fiche vérifiée →</a></p>
+  </section>
+
+  <section class="sec">
+    <h2 class="disp">Ce que vous payez</h2>
+    <p class="q">Vous payez selon la taille de votre maison, pas selon votre appétit. La grille se lit en encours pour les CGP et les banques privées, en taille de structure pour les autres catégories. Le palier est arrêté avec vous à la qualification.</p>
+
+    <div class="cad" id="cad">
+      <button type="button" data-c="an" class="on">Annuel · 2 mois offerts</button>
+      <button type="button" data-c="mois">Mensuel</button>
+    </div>
+
+    <div class="grid" id="paliers">
+      <label class="pal" data-p="p1" data-an="990" data-mois="99">
+        <input type="radio" name="palier" value="p1">
+        <div class="n">Cabinet indépendant</div>
+        <div class="p"><b class="v">990 €</b> <span class="u">HT / an</span></div>
+        <div class="c">Moins de 100 M€ d'encours, ou cabinet mono-site</div>
+      </label>
+      <label class="pal" data-p="p2" data-an="1900" data-mois="190">
+        <input type="radio" name="palier" value="p2">
+        <div class="n">Maison établie</div>
+        <div class="p"><b class="v">1 900 €</b> <span class="u">HT / an</span></div>
+        <div class="c">100 à 500 M€ d'encours, ou plusieurs bureaux</div>
+      </label>
+      <label class="pal" data-p="p3" data-an="3900" data-mois="390">
+        <input type="radio" name="palier" value="p3">
+        <div class="n">Grande maison</div>
+        <div class="p"><b class="v">3 900 €</b> <span class="u">HT / an</span></div>
+        <div class="c">500 M€ à 2 Md€ d'encours, ou réseau national</div>
+      </label>
+      <label class="pal" data-p="p4" data-an="6900" data-mois="690">
+        <input type="radio" name="palier" value="p4">
+        <div class="n">Institution</div>
+        <div class="p"><b class="v">6 900 €</b> <span class="u">HT / an</span></div>
+        <div class="c">Plus de 2 Md€ d'encours, banque, réseau international</div>
+      </label>
+    </div>
+    <p class="fine">Prix hors taxes, TVA ajoutée au paiement. Carte bancaire ou prélèvement SEPA. Sans engagement de reconduction : vous arrêtez quand vous voulez, votre maison reste recensée gratuitement. Vous n'êtes pas retenu à la qualification : vous êtes remboursé intégralement.</p>
+  </section>
+
+  <section class="sec">
+    <h2 class="disp">Ce qu'on vous demande</h2>
+    <p class="q">Vous réglez, puis vous répondez à un seul email avec cinq éléments : votre logo, deux à cinq personnes de votre équipe, votre one-pager, l'opportunité que vous voulez mettre en avant, votre lien de rendez-vous. Votre fiche est en ligne sous 48 h.</p>
+
+    <form id="f" novalidate>
+      <div>
+        <label for="institution">Votre maison</label>
+        <input type="text" id="institution" name="institution" required autocomplete="organization">
+      </div>
+      <div>
+        <label for="categorie">Votre catégorie</label>
+        <select id="categorie" name="categorie" required>
+          <option value="">Choisir…</option>
+          <option>Banque d'affaires</option>
+          <option>Boutique M&amp;A</option>
+          <option>Family Office</option>
+          <option>Banque privée</option>
+          <option>Avocat d'affaires / fiscaliste</option>
+          <option>Expert-comptable / auditeur</option>
+          <option>Notaire patrimonial</option>
+          <option>CGP</option>
+          <option>Assurance-vie lux</option>
+          <option>Fonds PE / LBO</option>
+          <option>Fonds Dette</option>
+          <option>Fonds VC</option>
+          <option>Secondaire tech &amp; pré-IPO</option>
+          <option>Autre</option>
+        </select>
+      </div>
+      <div>
+        <label for="nom">Votre nom et prénom</label>
+        <input type="text" id="nom" name="nom" required autocomplete="name">
+      </div>
+      <div>
+        <label for="email">Email professionnel</label>
+        <input type="email" id="email" name="email" required autocomplete="email">
+      </div>
+      <div>
+        <label for="telephone">Téléphone <span class="opt">(optionnel)</span></label>
+        <input type="tel" id="telephone" name="telephone" autocomplete="tel">
+      </div>
+      <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
+      <div class="msg" id="msg"></div>
+      <button class="go" type="submit" id="go">Régler et lancer ma fiche</button>
+      <p class="fine" style="margin:0">Paiement sécurisé par Stripe. Facture automatique, numéro de TVA intracommunautaire accepté.</p>
+    </form>
+  </section>
+
+  <p class="neutre">Le recensement de base reste gratuit et ouvert à tous. Être recensé ne vaut pas recommandation de l'Exit Club. La vérification est un engagement commercial : elle n'influence ni la présence dans le recensement, ni l'ordre d'affichage, ni les Ligues.</p>
+
+  <div class="foot">
+    <div>Exit Club · L'Écosystème de l'Exit</div>
+    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="/referencement">Se référencer gratuitement</a> · <a href="mailto:louis@exit.club?subject=Fiche%20v%C3%A9rifi%C3%A9e%20%C2%B7%20question">Une question ? Écrivez-moi</a></div>
+  </div>
+
+</div>
+<script>
+(function(){
+  var API = "https://exit-club-app.vercel.app/api/fiche-verifiee/checkout";
+  var q = new URLSearchParams(location.search);
+  var cadence = "an";
+
+  if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
+  var catMap = {"banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","experts-comptables":"Expert-comptable / auditeur","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire tech & pré-IPO"};
+  var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
+
+  var msg = document.getElementById("msg"), go = document.getElementById("go");
+  if (q.get("annule")) { msg.className = "msg err"; msg.textContent = "Paiement interrompu. Votre fiche est inchangée, vous pouvez reprendre quand vous voulez."; }
+
+  function euros(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, " ") + " €"; }
+  function paintPrix(){
+    document.querySelectorAll(".pal").forEach(function(p){
+      p.querySelector(".v").textContent = euros(p.getAttribute("data-" + cadence));
+      p.querySelector(".u").textContent = cadence === "an" ? "HT / an" : "HT / mois";
+    });
+  }
+  document.querySelectorAll("#cad button").forEach(function(b){
+    b.addEventListener("click", function(){
+      cadence = b.getAttribute("data-c");
+      document.querySelectorAll("#cad button").forEach(function(x){ x.classList.toggle("on", x === b); });
+      paintPrix();
+    });
+  });
+
+  function paintPal(){
+    document.querySelectorAll(".pal").forEach(function(p){
+      p.classList.toggle("on", p.querySelector("input").checked);
+    });
+  }
+  document.querySelectorAll('input[name=palier]').forEach(function(r){
+    r.addEventListener("change", paintPal);
+  });
+  var pre = q.get("palier");
+  var first = document.querySelector('input[name=palier][value="' + (pre || "p1") + '"]') ||
+              document.querySelector('input[name=palier]');
+  first.checked = true;
+  paintPal(); paintPrix();
+
+  var f = document.getElementById("f");
+  f.addEventListener("submit", function(e){
+    e.preventDefault();
+    msg.className = "msg";
+    var d = {
+      palier: (document.querySelector('input[name=palier]:checked')||{}).value || "",
+      cadence: cadence,
+      institution: f.institution.value.trim(),
+      categorie: f.categorie.value,
+      nom: f.nom.value.trim(),
+      email: f.email.value.trim(),
+      telephone: f.telephone.value.trim(),
+      site: f.site.value,
+      fiche: q.get("fiche") || ""
+    };
+    if (!d.palier || !d.institution || !d.categorie || !d.nom || !/^\S+@\S+\.\S+$/.test(d.email)) {
+      msg.className = "msg err"; msg.textContent = "Merci de choisir un palier et de remplir votre maison, votre catégorie, votre nom et un email valide."; return;
+    }
+    go.disabled = true; go.textContent = "Ouverture du paiement…";
+    fetch(API, {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(d)})
+      .then(function(r){ return r.json().then(function(j){ return {ok:r.ok, j:j}; }); })
+      .then(function(r){
+        if (r.ok && r.j && r.j.checkoutUrl) { location.href = r.j.checkoutUrl; return; }
+        msg.className = "msg err";
+        msg.textContent = (r.j && r.j.error) || "Le paiement n'a pas pu s'ouvrir, réessayez.";
+        go.disabled = false; go.textContent = "Régler et lancer ma fiche";
+      })
+      .catch(function(){
+        msg.className = "msg err";
+        msg.textContent = "Connexion impossible, réessayez dans un instant.";
+        go.disabled = false; go.textContent = "Régler et lancer ma fiche";
+      });
+  });
+})();
+</script>
+</body>
+</html>
