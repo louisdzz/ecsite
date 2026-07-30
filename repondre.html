@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Répondre au questionnaire de votre fiche | L'Écosystème de l'Exit</title>
+<meta name="description" content="Répondez aux questions de votre fiche étalon de l'Écosystème de l'Exit. 3 minutes, tout est guidé. Nous écrivons, vous validez, la fiche est en ligne.">
+<meta name="robots" content="noindex">
+<link rel="canonical" href="https://www.exit.club/repondre">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
+.wrap{max-width:760px;margin:0 auto;padding:0 40px}
+.top{display:flex;align-items:center;justify-content:space-between;padding:26px 0}
+.mark{font-family:'Fraunces',Georgia,serif;font-size:21px}.mark i{font-style:italic}.mark b{font-weight:600}
+.hero{padding:22px 0 6px}
+.over{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint);margin:0 0 14px}
+h1.disp{font-size:40px;line-height:1.05}
+.lead{margin-top:12px;font-size:15px;color:var(--muted);max-width:60ch}
+.badge{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#FFF;background:var(--accent);border-radius:999px;padding:5px 12px;margin-top:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin:20px 0 0}
+.k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600;margin-bottom:10px}
+label{display:block;font-size:13.5px;font-weight:600;color:var(--ink);margin:14px 0 5px}
+label small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:2px}
+input[type=text],input[type=email],input[type=tel],textarea{width:100%;border:1px solid var(--line);border-radius:10px;background:#fff;padding:11px 13px;font-family:'Inter',Arial,sans-serif;font-size:14px;color:var(--ink)}
+textarea{min-height:88px;resize:vertical;line-height:1.55}
+textarea.grille{min-height:150px;font-size:13.5px}
+input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:var(--accent)}
+.qnum{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:var(--accent);color:#fff;font-size:11.5px;font-weight:600;margin-right:8px;flex:none}
+.qrow{display:flex;align-items:flex-start}
+.submitbar{margin-top:26px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.btnp{font-size:15px;font-weight:600;padding:15px 28px;border-radius:999px;background:var(--ink);color:var(--paper);border:0;cursor:pointer}
+.btnp:disabled{opacity:.55;cursor:wait}
+.hint{font-size:12.5px;color:var(--faint);max-width:44ch}
+.ok{display:none;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:40px 36px;margin:30px 0;text-align:center}
+.ok h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:30px}
+.ok p{margin-top:10px;font-size:14.5px;color:var(--muted);max-width:48ch;margin-left:auto;margin-right:auto}
+.err{display:none;margin-top:14px;font-size:13.5px;color:#8A2B1D;background:#F6E3DE;border:1px solid #E4C0B6;border-radius:10px;padding:10px 14px}
+.foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.foot a{color:var(--muted);text-decoration:none}
+.hp{position:absolute;left:-9999px;opacity:0;height:0;overflow:hidden}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:30px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
+    <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">L'Écosystème</a>
+  </div>
+
+  <section class="hero">
+    <p class="over">L'Écosystème de l'Exit · questionnaire de fiche</p>
+    <h1 class="disp">Votre fiche. Vos réponses.<br>Trois minutes.</h1>
+    <p class="lead">Répondez librement, dans vos mots, sans mise en forme : nous écrivons, vous validez tout avant publication, votre fiche passe au format complet. Chaque question est facultative, et chaque case laissée vide restera affichée « n'a pas encore répondu ».</p>
+    <span class="badge" id="badge-fiche" style="display:none"></span>
+  </section>
+
+  <form id="f" autocomplete="on">
+    <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1"></label></div>
+
+    <div class="card">
+      <div class="k">Vous</div>
+      <label>Maison<input type="text" id="institution" required maxlength="120" placeholder="Nom de votre maison"></label>
+      <label>Votre nom<input type="text" id="nom" required maxlength="120" placeholder="Prénom Nom"></label>
+      <label>Email<input type="email" id="email" required maxlength="150" placeholder="vous@maison.fr"></label>
+      <label>Téléphone <small>Facultatif</small><input type="tel" id="telephone" maxlength="40"></label>
+    </div>
+
+    <div id="questions"></div>
+
+    <div class="err" id="err"></div>
+    <div class="submitbar">
+      <button class="btnp" id="go" type="submit">Envoyer mes réponses →</button>
+      <span class="hint">Nous écrivons, vous validez tout avant publication. Rien n'est publié sans votre accord.</span>
+    </div>
+  </form>
+
+  <div class="ok" id="ok">
+    <h2>Reçu.</h2>
+    <p>Vos réponses sont chez nous. Nous les mettons en forme, vous validez le texte final, et votre fiche passe au format complet. Retour sous 72 h ouvrées sur l'email indiqué.</p>
+  </div>
+
+  <div class="foot">
+    <div>Exit Club · L'Écosystème de l'Exit · recensement du marché</div>
+    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="mailto:louis@exit.club?subject=Questionnaire%20fiche">Une question ? Écrivez-moi</a></div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var params = new URLSearchParams(location.search);
+  var fiche = (params.get('fiche')||'').replace(/[^a-z0-9-]/g,'');
+  var cat = params.get('cat')||'';
+  var inst = params.get('institution')||'';
+
+  var CAT_CRM = {ba:"Banque d'affaires", ma:"Boutique M&A", mfo:"Family Office", cgp:"CGP", ps:"CGP", avocat:"Avocat d'affaires / fiscaliste", notaire:"Notaire patrimonial", bp:"Banque privée"};
+
+  var GRILLE_BA = "Deal < 10 M€ : retainer … k€/mois, success fee … %\nDeal 10 – 30 M€ : retainer …, success fee … %\nDeal 30 – 80 M€ : retainer …, success fee … %\nDeal 80 M€ et plus : …\nFee sur la part earn-out : perçu sur l'annoncé / sur l'encaissé (rayez)";
+  var GRILLE_MFO = "Patrimoine < 2 M€ : mission … €, récurrent … €/an, tout compris … €/an\n2 – 5 M€ : …\n5 – 15 M€ : …\n15 – 50 M€ : …\n50 M€ et plus : …";
+  var GRILLE_PS = "Commission à la souscription (upfront) : … % — perçue par …\nRétrocessions annuelles : … % — perçues par …\nFrais du contrat d'assurance vie : … %\nMarge de structuration embarquée : … %\nTotal intermédiaires pour 100 000 € souscrits sur la vie du produit : … €";
+
+  var SETS = {
+    ba: [
+      {b:"L'étiquette", q:"Répartition sell-side / buy-side de vos mandats sur 24 mois, en nombre et en honoraires ?"},
+      {b:"L'étiquette", q:"Sur vos 10 derniers deals sell-side, combien d'acquéreurs étaient des maisons avec qui vous aviez déjà travaillé ou retravaillerez ?"},
+      {b:"L'étiquette", q:"Activités annexes du groupe : financement, dette, gestion, participations ?"},
+      {b:"La grille", q:"Votre grille, en fourchettes. Complétez librement :", g:GRILLE_BA},
+      {b:"Les questions des membres", q:"Sur vos 10 derniers deals, combien de vos clients ont réellement touché leur earn-out ?"},
+      {b:"Les questions des membres", q:"Le multiple annoncé au premier rendez-vous et le multiple à la signature : quel écart moyen ?"},
+      {b:"Les questions des membres", q:"Quelles protections négociez-vous sur l'earn-out de vos clients ? Citez de vraies clauses."},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année (ex. % d'earn-outs clients encaissés), et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Racontez le deal où vous avez dit à votre client de ne PAS vendre."},
+      {b:"Le portrait", q:"La chose que l'acquéreur sait toujours et que votre client vendeur ne sait jamais ?"},
+      {b:"Le portrait", q:"À 2h du matin dans la data room, c'est vous ou un analyste de 24 ans ? Le client le sait-il en signant le mandat ?"}
+    ],
+    mfo: [
+      {b:"L'étiquette", q:"Votre DER vous classe-t-il « indépendant » au sens MIF 2 ? Que deviennent les rétrocessions que les fournisseurs versent malgré tout : refusées ou restituées au client ?"},
+      {b:"L'étiquette", q:"Le groupe détient-il une structure de distribution, une société de gestion ou des participations chez des fournisseurs ?"},
+      {b:"La grille", q:"Vos honoraires, en fourchettes, tout compris. Complétez librement :", g:GRILLE_MFO},
+      {b:"Les questions des membres", q:"Décrivez le reporting consolidé que reçoivent vos familles : TER consolidé affiché ? Corrélation entre les lignes ? (Un exemple anonymisé pourra être joint à la fiche.)"},
+      {b:"Les questions des membres", q:"Le vrai coût du conseil sur un patrimoine de 5 M€ : combien d'euros par an, toutes strates comprises ?"},
+      {b:"Les questions des membres", q:"Comment vos clients accèdent-ils aux parts sans rétrocessions (clean shares) sans passer par un feeder, et combien coûte le passe-plat sinon ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année (ex. écart de frais moyen constaté sur les portefeuilles entrants audités), et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Votre propre patrimoine est-il investi comme celui de vos clients ? Vous mangez votre propre cuisine ?"},
+      {b:"Le portrait", q:"Le produit que tout le monde vend en ce moment et que vous refusez de toucher ?"},
+      {b:"Le portrait", q:"Votre client vient de vendre. Il connaît le vide d'après, le « qui suis-je maintenant ». Vous êtes équipés pour ça, ou vous gérez juste le cash ?"}
+    ],
+    ps: [
+      {b:"L'étiquette", q:"Votre rémunération sur un produit type de la gamme en cours : upfront à la souscription et rétrocessions annuelles, en % du ticket ?"},
+      {b:"L'étiquette", q:"Sur 100 € souscrits, qui capte combien entre la banque structuratrice, le distributeur et l'assureur ?"},
+      {b:"La grille", q:"Les frais, en clair. Complétez librement :", g:GRILLE_PS},
+      {b:"Les questions des membres", q:"Sur l'ensemble de vos produits arrivés à échéance ou rappelés : combien ont versé leur objectif de gain, combien ont rendu moins que le capital ?"},
+      {b:"Les questions des membres", q:"Les indices à décrément : pourquoi les utiliser, et que devient le produit dans le scénario défavorable, chiffré ?"},
+      {b:"Les questions des membres", q:"Un client vous dit : si le scénario défavorable est si improbable, pourquoi la banque accepte-t-elle de le porter ? Répondez-lui."},
+      {b:"Le chiffre assumé", q:"Le % de vos produits échus ayant délivré leur objectif de gain, tous millésimes confondus, que vous acceptez de publier et de remettre à jour chaque année ?"},
+      {b:"Le portrait", q:"Votre propre épargne est-elle investie dans vos produits ? Dans quelle proportion ?"},
+      {b:"Le portrait", q:"Le produit que vous avez refusé de lancer parce qu'il était trop beau pour être honnête ?"},
+      {b:"Le portrait", q:"Un membre du club a tout mis en ETF et écrit qu'il dort mieux. Pourquoi un produit structuré plutôt qu'un ETF ? Sans dire « protection »."}
+    ],
+    cgp: [
+      {b:"L'étiquette", q:"Votre DER vous classe-t-il « indépendant » au sens MIF 2 ? Sur 100 € de frais payés par votre client l'an dernier, combien sont revenus chez vous en rétrocessions ?"},
+      {b:"L'étiquette", q:"Le jour où vous passez en 100 % honoraires, vous perdez combien de chiffre d'affaires ?"},
+      {b:"La grille", q:"Vos honoraires et rétrocessions, en fourchettes, sur 2 M€, 5 M€ et 15 M€ confiés. Complétez librement :", g:"2 M€ confiés : …\n5 M€ : …\n15 M€ : …"},
+      {b:"Les questions des membres", q:"C'est quoi le pire produit que vous avez vendu dans votre carrière, et qu'avez-vous fait pour les clients qui l'ont encore ?"},
+      {b:"Les questions des membres", q:"Un membre a un produit structuré avec décrément, il est à -95 %. Il vous appelle. Vous lui dites quoi, concrètement ?"},
+      {b:"Les questions des membres", q:"La différence entre vous et un vendeur ? Réponse interdite : « le conseil »."},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année, et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Votre propre patrimoine est-il investi comme celui de vos clients ?"},
+      {b:"Le portrait", q:"Le produit que tout le monde vend en ce moment et que vous refusez de toucher ?"}
+    ],
+    generic: [
+      {b:"L'étiquette", q:"Comment votre maison est-elle rémunérée, exactement ? Toutes les sources, y compris celles dont on ne parle pas en rendez-vous."},
+      {b:"La grille", q:"Vos prix, en fourchettes, sur vos cas types. Complétez librement :", g:"Cas type 1 : …\nCas type 2 : …\nCas type 3 : …"},
+      {b:"Ce que vous refusez", q:"Trois dossiers, produits ou clients que vous avez refusés, avec le motif."},
+      {b:"Le crash", q:"Le dossier qui a mal tourné, et ce que vous avez changé depuis."},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année, et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Votre client type vient de vendre sa boîte. Qu'est-ce que vous comprenez de sa situation que vos concurrents ne comprennent pas ?"}
+    ]
+  };
+
+  var set = SETS[cat] || SETS.generic;
+  if (inst) document.getElementById('institution').value = inst;
+  if (fiche) {
+    var b = document.getElementById('badge-fiche');
+    b.textContent = '✓ Fiche : exit.club/f/' + fiche;
+    b.style.display = 'inline-flex';
+  }
+
+  var zone = document.getElementById('questions');
+  var lastBloc = null, cardEl = null, n = 0;
+  set.forEach(function(item){
+    if (item.b !== lastBloc) {
+      cardEl = document.createElement('div');
+      cardEl.className = 'card';
+      cardEl.innerHTML = '<div class="k">' + item.b + '</div>';
+      zone.appendChild(cardEl);
+      lastBloc = item.b;
+    }
+    n += 1;
+    var lab = document.createElement('label');
+    lab.innerHTML = '<span class="qrow"><span class="qnum">' + n + '</span><span>' + item.q + '</span></span>';
+    var ta = document.createElement('textarea');
+    ta.dataset.q = item.q;
+    if (item.g) { ta.value = item.g; ta.dataset.tpl = item.g; ta.className = 'grille'; }
+    cardEl.appendChild(lab);
+    cardEl.appendChild(ta);
+  });
+
+  document.getElementById('f').addEventListener('submit', function(ev){
+    ev.preventDefault();
+    var err = document.getElementById('err');
+    err.style.display = 'none';
+    var reponses = [];
+    zone.querySelectorAll('textarea').forEach(function(ta){
+      var r = ta.value.trim();
+      if (!r) return;
+      // Modèle de grille laissé tel quel = pas une réponse.
+      if (ta.dataset.tpl && r === ta.dataset.tpl.trim()) return;
+      reponses.push({ q: ta.dataset.q, r: r });
+    });
+    if (reponses.length === 0) {
+      err.textContent = 'Répondez au moins à une question — même une seule suffit pour démarrer.';
+      err.style.display = 'block';
+      return;
+    }
+    var btn = document.getElementById('go');
+    btn.disabled = true; btn.textContent = 'Envoi…';
+    fetch('https://app.exit.club/api/ecosysteme-reponses', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        site: document.querySelector('input[name=site]').value,
+        fiche: fiche,
+        categorie: CAT_CRM[cat] || 'Autre',
+        institution: document.getElementById('institution').value,
+        nom: document.getElementById('nom').value,
+        email: document.getElementById('email').value,
+        telephone: document.getElementById('telephone').value,
+        reponses: reponses
+      })
+    }).then(function(res){ return res.json().then(function(j){ return {ok: res.ok, j: j}; }); })
+      .then(function(x){
+        if (!x.ok) throw new Error(x.j && x.j.error || 'Erreur inattendue.');
+        document.getElementById('f').style.display = 'none';
+        document.getElementById('ok').style.display = 'block';
+        window.scrollTo({top:0, behavior:'smooth'});
+      })
+      .catch(function(e){
+        err.textContent = e.message || 'Envoi impossible pour le moment. Réessayez ou écrivez à louis@exit.club.';
+        err.style.display = 'block';
+        btn.disabled = false; btn.textContent = 'Envoyer mes réponses →';
+      });
+  });
+})();
+</script>
+</body>
+</html>
