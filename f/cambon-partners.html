@@ -90,6 +90,10 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
 .video{margin-top:14px;position:relative;border-radius:14px;background:linear-gradient(135deg,#2A351A,#47621E);height:180px;display:flex;align-items:center;justify-content:center;color:var(--paper)}
 .video .play{width:54px;height:54px;border-radius:50%;background:rgba(247,243,228,.16);border:1px solid rgba(247,243,228,.5);display:flex;align-items:center;justify-content:center;font-size:18px}
 .video .lbl{position:absolute;left:16px;bottom:12px;font-size:12px;color:#C9CBB4}
+html{scroll-behavior:smooth}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
+.toc a:hover{border-color:var(--accent);color:var(--accent)}
 @media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px;padding:0}.flogo.wd{width:108px}.flogo img{padding:7px}}
 @media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.kpis{grid-template-columns:1fr 1fr}.bigstat .n{font-size:46px}}
 </style>
@@ -114,12 +118,21 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
     <a class="tag" href="/ecosysteme#banques-affaires">Banques d'affaires (M&amp;A)</a><a class="tag" href="/ecosysteme#boutiques-ma">Boutiques M&amp;A</a>
   </div></section>
 
+  <nav class="toc">
+    <a href="#pieces">Sur pièces</a>
+    <a href="#conflits">Les conflits, déclarés</a>
+    <a href="#grille">Les honoraires</a>
+    <a href="#questions">Les questions des membres</a>
+    <a href="#chiffre">Le chiffre assumé</a>
+    <a href="#interview">L'interview</a>
+  </nav>
+
   <div class="card"><div class="k">Repères</div>
     <p>Banque d'affaires fondée en 2003 par David Salabi. Cession, acquisition, levée de fonds pour les sociétés de croissance, tech en tête. Une cinquantaine de banquiers, bureaux à Paris et Londres, plus de 450 transactions revendiquées.</p>
     <p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.cambonpartners.com/fr" target="_blank" rel="noopener nofollow">cambonpartners.com</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Cambon%20Partners" target="_blank" rel="noopener nofollow">LinkedIn</a></p>
   </div>
 
-  <div class="card">
+  <div class="card" id="pieces">
     <div class="rowh"><div class="k" style="margin:0">Sur pièces — comptes publiés</div><span class="chip-source">✓ Registre public</span></div>
     <div class="kpis">
       <div class="kpi"><b>76,7 M€</b><span>Chiffre d'affaires 2022</span></div>
@@ -134,7 +147,7 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
 
   <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">DS</div><div><b>David Salabi</b><span>Founder &amp; Managing Partner</span></div></div><div class="pers"><div class="ava">TB</div><div><b>Thomas Bertier</b><span>Managing Director</span></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Équipe identifiée par recherche Exit Club. <a href="mailto:louis@exit.club?subject=Fiche%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
 
-  <section class="sect">
+  <section class="sect" id="conflits">
     <div class="k">Bloc 1 · Transparence</div>
     <h2>Les conflits du métier, déclarés.</h2>
     <p class="lead">Le conseil M&amp;A n'est pas une activité régulée. La fiche remplace le statut qui n'existe pas par une déclaration : qui la maison sert, et comment elle est payée.</p>
@@ -145,7 +158,7 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
     </div>
   </section>
 
-  <section class="sect">
+  <section class="sect" id="grille">
     <div class="k">Bloc 2 · La grille</div>
     <h2>Les honoraires, en clair.</h2>
     <p class="lead">Communiquée par la maison en fourchettes sur trois tranches de deals, publiée après sa validation, remise à jour chaque année.</p>
@@ -161,7 +174,7 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
     </div>
   </section>
 
-  <section class="sect">
+  <section class="sect" id="questions">
     <div class="k">Bloc 3 · Les questions des membres</div>
     <h2>Ce que les fondateurs demandent vraiment.</h2>
 
@@ -184,7 +197,7 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
     </div>
   </section>
 
-  <section class="sect">
+  <section class="sect" id="chiffre">
     <div class="k">Bloc 4 · Le chiffre assumé</div>
     <h2>Un seul KPI, vérifiable, remis à jour chaque année.</h2>
     <div class="card" style="margin-top:16px">
@@ -196,7 +209,7 @@ table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;colo
     </div>
   </section>
 
-  <section class="sect">
+  <section class="sect" id="interview">
     <div class="k">Bloc 5 · L'interview</div>
     <h2>L'interview.</h2>
     <p class="lead">Extraits :</p>
