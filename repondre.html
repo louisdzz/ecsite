@@ -99,7 +99,7 @@ input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;bo
   var cat = params.get('cat')||'';
   var inst = params.get('institution')||'';
 
-  var CAT_CRM = {ba:"Banque d'affaires", ma:"Boutique M&A", mfo:"Family Office", cgp:"CGP", ps:"CGP", avocat:"Avocat d'affaires / fiscaliste", notaire:"Notaire patrimonial", bp:"Banque privée"};
+  var CAT_CRM = {ba:"Banque d'affaires", ma:"Boutique M&A", mfo:"Family Office", cgp:"CGP", ps:"CGP", avocat:"Avocat d'affaires / fiscaliste", notaire:"Notaire patrimonial", bp:"Banque privée", ec:"Autre", avlux:"Assurance-vie lux", pe:"Fonds PE / LBO", dette:"Fonds Dette", vc:"Fonds VC", secondaire:"Secondaire tech & pré-IPO"};
 
   var GRILLE_BA = "Deal < 10 M€ : retainer … k€/mois, success fee … %\nDeal 10 – 30 M€ : retainer …, success fee … %\nDeal 30 – 80 M€ : retainer …, success fee … %\nDeal 80 M€ et plus : …\nFee sur la part earn-out : perçu sur l'annoncé / sur l'encaissé (rayez)";
   var GRILLE_MFO = "Patrimoine < 2 M€ : mission … €, récurrent … €/an, tout compris … €/an\n2 – 5 M€ : …\n5 – 15 M€ : …\n15 – 50 M€ : …\n50 M€ et plus : …";
@@ -154,6 +154,94 @@ input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;bo
       {b:"Le portrait", q:"Votre propre patrimoine est-il investi comme celui de vos clients ?"},
       {b:"Le portrait", q:"Le produit que tout le monde vend en ce moment et que vous refusez de toucher ?"}
     ],
+    bp: [
+      {b:"L'étiquette", q:"Comment la banque est-elle rémunérée sur un mandat type : frais de gestion, rétrocessions des fonds maison, marge de crédit, droits de garde ?"},
+      {b:"L'étiquette", q:"Quelle part des portefeuilles de vos clients est investie dans des produits du groupe (fonds maison, produits structurés maison) ?"},
+      {b:"La grille", q:"Votre crédit Lombard, en clair. Complétez librement :", g:"LTV selon le sous-jacent : … %\nIndice de référence : …\nMarge : … % à … %\nTaux fixe possible : oui / non\nTicket minimum : … €\nDéclencheur d'appel de marge : …"},
+      {b:"Les questions des membres", q:"Avec des titres cotés valorisés 100 M€, combien peut-on tirer en Lombard chez vous ? (Question posée telle quelle dans le club, restée sans réponse.)"},
+      {b:"Les questions des membres", q:"Racontez le dernier appel de marge que vous avez exécuté sur un client. Comment ça s'est passé, concrètement ?"},
+      {b:"Les questions des membres", q:"Un fondateur post-exit avec 5 M€ en compte et zéro revenu salarié vous demande un prêt immobilier. Votre comité dit quoi, et pourquoi les autres banques disent non ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année (ex. marge Lombard médiane réellement accordée), et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Le produit maison que vous ne recommanderiez pas à votre propre famille ?"},
+      {b:"Le portrait", q:"Votre client vient de vendre. Il connaît le vide d'après, le « qui suis-je maintenant ». Vous êtes équipés pour ça, ou vous gérez juste le cash ?"}
+    ],
+    avocat: [
+      {b:"L'étiquette", q:"Vos taux horaires par niveau (associé, counsel, collaborateur) et la fourchette d'honoraires sur vos trois dossiers types ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Structuration pré-cession (holding, apport-cession) : … € à … €\nAccompagnement cession complète : … € à … €\nContentieux fiscal (proposition de rectification → issue) : … € à … €"},
+      {b:"Les questions des membres", q:"Un membre cherche « un fiscaliste de combat, pas un fiscaliste de bureau ». C'est vous ? Racontez votre dernier corps-à-corps avec l'administration, de la proposition de rectification à l'issue, avec les ordres de grandeur."},
+      {b:"Les questions des membres", q:"Le 150-0 B ter : « énorme douille » ou outil mal utilisé ? Tranchez, et donnez les trois critères d'un remploi qui passe un contrôle."},
+      {b:"Les questions des membres", q:"Deux membres ont demandé des retours sur les contrôles « holding animatrice », sans réponse depuis des mois. Répondez-leur : qu'est-ce qui fait tenir le dossier ?"},
+      {b:"Les questions des membres", q:"La clause de garantie de passif la plus violente que vous ayez vue jouer : montant, motif, issue ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année (ex. taux de dossiers de contentieux gagnés ou transigés favorablement), et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Vous avez déjà perdu ? Racontez la défaite, pas la victoire."},
+      {b:"Le portrait", q:"Le montage que vous refusez de faire même quand le client insiste et paie ?"}
+    ],
+    notaire: [
+      {b:"L'étiquette", q:"Sur une transmission type, qu'est-ce qui relève du tarif réglementé et qu'est-ce qui relève de l'honoraire libre, en euros ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Donation-partage avec démembrement (patrimoine 5 M€) : … €\nPacte Dutreil complet : … €\nStructuration transmission 10 M€+ (holding, charte familiale) : … €"},
+      {b:"Les questions des membres", q:"« Nue-propriété sur les parts de holding = la structure reine », dit un membre. Confirmez ou démontez, avec le piège des réserves qui reviennent aux nus-propriétaires."},
+      {b:"Les questions des membres", q:"Un père veut transmettre 10 M€ sans que ses enfants le sachent avant 30 ans. Architecture, calendrier, coût. Allez-y."},
+      {b:"Les questions des membres", q:"L'enfant qui a tout dilapidé malgré le montage : vous l'avez vu ? Qu'est-ce qui aurait dû être fait autrement ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année, et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"La donation faite pour de mauvaises raisons fiscales que vous avez vue exploser en vol ?"},
+      {b:"Le portrait", q:"« Ne laissez pas la logique fiscale piloter vos décisions de vie » : vous le dites à vos clients, ou vous exécutez ce qu'ils demandent ?"}
+    ],
+    ec: [
+      {b:"L'étiquette", q:"Vos missions et votre mode de facturation : forfait, temps passé, success fee sur les due diligences ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Tenue + bilan holding patrimoniale : … € à … €/an\nVendor due diligence (PME 20-50 M€) : … € à … €\nAccompagnement contrôle fiscal : … € à … €"},
+      {b:"Les questions des membres", q:"Deux ans avant une cession, qu'est-ce qu'un fondateur doit nettoyer dans ses comptes pour ne pas perdre 20 % en due diligence ? Les trois chantiers prioritaires."},
+      {b:"Les questions des membres", q:"« Quand tu fais un bel exit, tu deviens VIP auprès de la DGFiP », dit un membre contrôlé sur place une semaine après sa vente. Comment préparez-vous vos clients à ce contrôle quasi certain ?"},
+      {b:"Les questions des membres", q:"Le red flag que l'acquéreur trouve toujours et que le vendeur n'avait jamais vu ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année, et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Le dossier que vous avez refusé parce que les comptes ne racontaient pas la vérité ?"}
+    ],
+    avlux: [
+      {b:"L'étiquette", q:"Vos contrats sont-ils émis par une entité luxembourgeoise ou par une succursale française d'un assureur luxembourgeois ? Nommez l'émetteur exact, contrat par contrat."},
+      {b:"L'étiquette", q:"Comment êtes-vous rémunérés : commission d'apport, rétrocessions annuelles, honoraires ? En % du contrat."},
+      {b:"La grille", q:"Les frais du contrat, en clair. Complétez librement :", g:"Frais d'entrée : … %\nFrais de gestion annuels du contrat : … %\nFrais des fonds sous-jacents (moyenne) : … %\nFrais du fonds interne dédié si applicable : … %"},
+      {b:"Les questions des membres", q:"Un membre affirme qu'une AV « luxembourgeoise » émise par une succursale française change totalement la fiscalité (12,8 % prélevés en France contre 0 %). Trois professionnels l'ont contredit. Tranchez, textes à l'appui."},
+      {b:"Les questions des membres", q:"Le triangle de sécurité et le super-privilège : que valent-ils vraiment dans un scénario Sapin 2, et le fonds euro de votre contrat est-il réassuré hors de France ?"},
+      {b:"Les questions des membres", q:"En cas de nantissement Lombard sur le contrat, qu'est-ce que l'assureur peut saisir, et à quelle vitesse ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année, et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"Votre propre épargne longue est-elle en assurance vie luxembourgeoise ?"}
+    ],
+    pe: [
+      {b:"L'étiquette", q:"Comment le fonds et ses distributeurs sont-ils rémunérés : management fees, carried, rétrocessions aux distributeurs, frais du feeder ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Management fees : … %/an sur … (engagé / investi)\nCarried interest : … % au-delà de … % de hurdle\nFrais du feeder retail si applicable : … %/an\nTicket minimum en direct (clean share) : … €"},
+      {b:"Les questions des membres", q:"« Le seul critère qui compte c'est le DPI, le reste c'est du marketing », dit un membre. Donnez le DPI actuel de vos trois derniers millésimes, pas le TVPI."},
+      {b:"Les questions des membres", q:"Comment un particulier accède-t-il à vos parts sans feeder, et combien coûte le passe-plat sinon, tout compris ?"},
+      {b:"Les questions des membres", q:"« Les NAV marks ne veulent plus rien dire », dit un autre. Comment valorisez-vous vos participations non cotées, et quand les avez-vous dépréciées pour la dernière fois ?"},
+      {b:"Le chiffre assumé", q:"Le DPI moyen de vos millésimes de plus de 7 ans, que vous acceptez de publier et de remettre à jour chaque année ?"},
+      {b:"Le portrait", q:"Le deal dont vous êtes le moins fier, et ce qu'il a changé dans votre process ?"},
+      {b:"Le portrait", q:"Votre propre argent est-il dans le fonds, et à quelle hauteur ?"}
+    ],
+    dette: [
+      {b:"L'étiquette", q:"Comment le fonds est-il rémunéré, et qui vous apporte les dossiers ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Frais de gestion : … %/an\nRendement cible net investisseur : … %\nTicket minimum : … €"},
+      {b:"Les questions des membres", q:"Le taux de défaut réel de votre portefeuille, tous millésimes, et le taux de recouvrement moyen sur les dossiers en défaut ? (Un membre a la moitié de ses 25 tickets de crowdfunding en défaut ou en retard : votre différence, chiffrée.)"},
+      {b:"Les questions des membres", q:"Le dernier dossier que vous avez refusé, et le motif précis."},
+      {b:"Les questions des membres", q:"Quand un emprunteur fait défaut, racontez ce qui se passe concrètement, du premier impayé à la récupération."},
+      {b:"Le chiffre assumé", q:"Le taux de défaut annuel de votre portefeuille, publié et remis à jour chaque année ?"},
+      {b:"Le portrait", q:"Le dossier qui vous a le plus coûté, et ce qu'il a changé dans votre grille d'analyse ?"}
+    ],
+    vc: [
+      {b:"L'étiquette", q:"Management fees, carried, recyclage : comment le fonds gagne-t-il de l'argent, et à partir de quand vos LPs en gagnent-ils ?"},
+      {b:"La grille", q:"Complétez librement :", g:"Management fees : … %/an\nCarried : … %\nTicket LP minimum : … €"},
+      {b:"Les questions des membres", q:"Le DPI de vos millésimes de plus de 8 ans ? (Un membre cite un fonds de 2015 à 0,8x distribué : où en êtes-vous, vraiment ?)"},
+      {b:"Les questions des membres", q:"Combien de sociétés de votre portefeuille actuel sont des morts-vivants, et comment les traitez-vous dans la NAV ?"},
+      {b:"Les questions des membres", q:"Un fondateur post-exit veut devenir LP chez vous : qu'est-ce qu'il obtient qu'un business angel actif n'obtient pas tout seul ?"},
+      {b:"Le chiffre assumé", q:"Le DPI moyen de vos millésimes matures, publié et remis à jour chaque année ?"},
+      {b:"Le portrait", q:"L'anti-portfolio : la boîte que vous avez refusée et qui vous hante ?"}
+    ],
+    secondaire: [
+      {b:"L'étiquette", q:"Qui vous rémunère sur une transaction : le vendeur, l'acheteur, les deux ? En % réel."},
+      {b:"La grille", q:"Complétez librement :", g:"Commission vendeur : … %\nCommission acheteur : … %\nTicket minimum : … €\nDélai moyen entre mandat et cash : … semaines"},
+      {b:"Les questions des membres", q:"La décote moyenne réelle constatée sur vos douze derniers mois de transactions, par rapport au dernier tour ?"},
+      {b:"Les questions des membres", q:"Qui sont réellement les acheteurs en face, et que savent-ils que le vendeur ne sait pas ?"},
+      {b:"Les questions des membres", q:"Le transfert refusé par la société ou le fonds : ça arrive à quelle fréquence, et que devient le vendeur ?"},
+      {b:"Le chiffre assumé", q:"Le KPI que vous acceptez de publier et de remettre à jour chaque année (ex. décote médiane, délai médian), et sa valeur 2026 ?"},
+      {b:"Le portrait", q:"La transaction que vous avez déconseillée au vendeur ?"}
+    ],
     generic: [
       {b:"L'étiquette", q:"Comment votre maison est-elle rémunérée, exactement ? Toutes les sources, y compris celles dont on ne parle pas en rendez-vous."},
       {b:"La grille", q:"Vos prix, en fourchettes, sur vos cas types. Complétez librement :", g:"Cas type 1 : …\nCas type 2 : …\nCas type 3 : …"},
@@ -164,6 +252,7 @@ input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;bo
     ]
   };
 
+  SETS.ma = SETS.ba;
   var set = SETS[cat] || SETS.generic;
   if (inst) document.getElementById('institution').value = inst;
   if (fiche) {
