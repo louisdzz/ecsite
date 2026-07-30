@@ -70,7 +70,27 @@ h1.disp{font-size:42px;line-height:1.02}
 .stickycta{position:fixed;right:20px;bottom:20px;z-index:60;background:var(--accent);color:#fff;font-weight:600;font-size:14px;padding:13px 20px;border-radius:999px;text-decoration:none;box-shadow:0 8px 24px rgba(0,0,0,.18)}
 .foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .foot a{color:var(--muted);text-decoration:none}
-@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:32px}.hero{flex-direction:column;align-items:flex-start}.stat{min-width:120px}}
+.sect{margin-top:34px}
+.sect .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600}
+.sect h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:26px;margin-top:8px}
+.chip-ok{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#FFF;background:var(--accent);border-radius:999px;padding:4px 10px}
+.chip-source{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.etq{padding:12px 0;border-bottom:1px solid #EFEBDB;display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.etq:last-child{border-bottom:0}
+.etq .q{font-size:14px;color:var(--ink);font-weight:500;max-width:52ch}
+.etq .q small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:3px}
+table.grille{width:100%;border-collapse:collapse;margin-top:6px;font-size:13.5px}
+table.grille th{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:600;text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+table.grille td{padding:11px 10px;border-bottom:1px solid #EFEBDB;color:var(--muted)}
+table.grille td.deal{color:var(--ink);font-weight:600;white-space:nowrap}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:14px}
+.qa .qq{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:17px;line-height:1.4;color:var(--ink)}
+.qa .rr{margin-top:10px;font-size:14px;color:var(--muted);line-height:1.65}
+.qa .rep{margin-top:12px;display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.bigstat{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;margin-top:8px}
+.bigstat .n{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:60px;line-height:1;color:var(--accent)}
+.bigstat .l{font-size:14px;color:var(--muted);max-width:38ch}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:32px}.hero{flex-direction:column;align-items:flex-start}.stat{min-width:120px}.bigstat .n{font-size:44px}}
 </style>
 </head>
 <body>
@@ -100,6 +120,57 @@ h1.disp{font-size:42px;line-height:1.02}
   <div class="card"><div class="k">L'équipe</div><div class="pers"><div class="ava">CF</div><div><b>Claire Fontaine</b><span>Associée fondatrice · ex-Lazard</span><a href="https://www.linkedin.com" target="_blank" rel="noopener">LinkedIn</a></div></div><div class="pers"><div class="ava">MD</div><div><b>Marc Delattre</b><span>Associé · 60 opérations mid-cap</span><a href="https://www.linkedin.com" target="_blank" rel="noopener">LinkedIn</a></div></div><div class="pers"><div class="ava">SB</div><div><b>Sarah Benali</b><span>Directrice · secteur logiciel</span></div></div></div>
   <div class="card"><div class="k">Actualités & opérations</div><div class="arow"><span class="adate">juin 2026</span><span>Cession de Novatech Industries (CA 22 M€) à un groupe industriel européen : conseil exclusif du cédant.</span></div><div class="arow"><span class="adate">avr. 2026</span><span>Meridian &amp; Associés renforce son équipe tech avec l'arrivée d'une directrice dédiée au logiciel B2B.</span></div><div class="arow"><span class="adate">févr. 2026</span><span>Dual track mené pour un éditeur SaaS : cession majoritaire retenue, valorisation 9x ARR.</span></div></div>
   
+  <section class="sect">
+    <div class="k">Transparence</div>
+    <h2>Les conflits du métier, déclarés.</h2>
+    <div class="card" style="margin-top:14px">
+      <div class="etq"><div class="q">Répartition sell-side / buy-side des mandats sur 24 mois<small>92 % sell-side, 8 % buy-side, en honoraires. Aucun mandat buy-side pour un fonds à qui la maison a vendu.</small></div><span class="chip-ok">✓ Déclaré</span></div>
+      <div class="etq"><div class="q">Récurrence des acquéreurs<small>Sur les 10 derniers deals : 3 acquéreurs déjà rencontrés sur un process antérieur, déclarés au client dès le mandat.</small></div><span class="chip-ok">✓ Déclaré</span></div>
+      <div class="etq"><div class="q">Activités annexes du groupe<small>Aucune : pas de financement, pas de dette, pas de société de gestion.</small></div><span class="chip-ok">✓ Déclaré</span></div>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">La grille</div>
+    <h2>Les honoraires, en clair.</h2>
+    <div class="card" style="margin-top:14px">
+      <div style="overflow-x:auto"><table class="grille" style="min-width:560px">
+        <tr><th>Tranche de deal</th><th>Retainer</th><th>Success fee</th><th>Fee sur la part earn-out</th></tr>
+        <tr><td class="deal">&lt; 10 M€</td><td>6 – 9 k€ / mois, imputable</td><td>3,0 – 4,0 %</td><td rowspan="3" style="vertical-align:middle"><b style="color:var(--accent)">Sur l'encaissé uniquement.</b><br>Jamais sur le montant annoncé au closing.</td></tr>
+        <tr><td class="deal">10 – 30 M€</td><td>9 – 12 k€ / mois, imputable</td><td>2,0 – 3,0 %</td></tr>
+        <tr><td class="deal">30 – 80 M€</td><td>12 – 15 k€ / mois, imputable</td><td>1,3 – 2,0 %</td></tr>
+      </table></div>
+      <p style="margin-top:12px;font-size:12.5px;color:var(--faint)">Fourchettes déclarées par la maison, millésime 2026, remises à jour chaque année.</p>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Les questions des membres</div>
+    <h2>Ce que les fondateurs demandent vraiment.</h2>
+    <div class="qa">
+      <p class="qq">Sur vos 10 derniers deals, combien de vos clients ont réellement touché leur earn-out ?</p>
+      <p class="rr">« Sept avaient une composante earn-out. Cinq ont tout touché, un a touché 60 %, un est en litige, nous l'assistons encore. Notre règle depuis 2019 : un compte séquestre alimenté trimestriellement, sinon nous déconseillons la clause. »</p>
+      <div class="rep"><span class="chip-ok">✓ Réponse de la maison · interview 2026</span></div>
+    </div>
+    <div class="qa">
+      <p class="qq">Le multiple annoncé au premier rendez-vous et le multiple à la signature : quel écart moyen ?</p>
+      <p class="rr">« Moins 7 % en moyenne sur nos 20 derniers mandats, écart publié chaque année. Le pitch qui promet 12x pour signer le mandat et closer à 8x, c'est le fléau du métier : nous préférons perdre le mandat au pitch que le client au closing. »</p>
+      <div class="rep"><span class="chip-ok">✓ Réponse de la maison · interview 2026</span></div>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Le chiffre assumé</div>
+    <h2>Un seul KPI, vérifiable, remis à jour chaque année.</h2>
+    <div class="card" style="margin-top:14px">
+      <div class="bigstat">
+        <span class="n">86 %</span>
+        <span class="l">des sommes d'earn-out négociées par la maison ont été effectivement encaissées par ses clients depuis 2019.</span>
+      </div>
+      <p style="margin-top:12px"><span class="chip-source">Millésime 2026 · engagement de mise à jour annuelle</span></p>
+    </div>
+  </section>
+
   <div class="quote"><p>« Ils ont transformé une cession stressante en process maîtrisé. Résultat : 30 % au-dessus de notre attente. »</p><span>Fondateur cédant, éditeur logiciel (2025)</span></div>
   <div class="card"><div class="k">Vu dans</div><div class="press"><span>CFNEWS</span><span>Les Échos</span><span>Décideurs</span></div></div>
   <div class="card"><div class="k">Prendre rendez-vous</div><div class="cal"><iframe src="https://www.exit.club/fiche-verifiee" loading="lazy"></iframe></div></div>
