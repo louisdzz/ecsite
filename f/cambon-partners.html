@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Cambon Partners · Banques d'affaires (M&amp;A) | L'Écosystème de l'Exit</title>
-<meta name="description" content="Cambon Partners est référencé dans les catégories Banques d'affaires (M&amp;A) et Boutiques M&amp;A de L'Écosystème de l'Exit, le recensement public des acteurs de l'exit. Fiche non revendiquée.">
+<meta name="description" content="Cambon Partners est référencé dans les catégories Banques d'affaires (M&amp;A) et Boutiques M&amp;A de L'Écosystème de l'Exit. Aperçu du format fiche étalon : grille, conflits déclarés, réponses aux questions des membres.">
 <meta property="og:title" content="Cambon Partners · L'Écosystème de l'Exit">
 <meta property="og:description" content="Fiche Banques d'affaires (M&amp;A) dans le recensement public des acteurs de l'exit.">
 <meta property="og:url" content="https://www.exit.club/f/cambon-partners">
@@ -37,19 +37,8 @@ h1.disp{font-size:46px;line-height:1.02}
 .sect{margin-top:36px}
 .sect .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600}
 .sect h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:27px;margin-top:8px}
-.mods{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:18px}
-.mod{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;overflow:hidden}
-.mod .mh{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.mod .mt{font-size:13.5px;font-weight:600;color:var(--ink)}
-.mod .chip{flex:none;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px;display:inline-flex;align-items:center;gap:5px}
-.mod .chip.plus{color:#8A6D1D;border-color:#E2D5A8;background:#F6EED3}
-.sk{margin-top:14px;display:grid;gap:8px}
-.sk i{display:block;height:11px;border-radius:6px;background:linear-gradient(90deg,#E7E2D0,#EFEBDD);filter:blur(2.5px)}
-.sk i:nth-child(1){width:88%}.sk i:nth-child(2){width:64%}.sk i:nth-child(3){width:76%}
-.sk.ava{grid-template-columns:repeat(4,44px);gap:10px}
-.sk.ava i{height:44px;width:44px;border-radius:50%;filter:blur(3px)}
-.sk .btnghost{height:36px;width:190px;border-radius:999px;background:linear-gradient(90deg,#E3DECB,#ECE7D6);filter:blur(2px)}
-.gap{margin-top:26px;background:var(--ink);color:var(--paper);border-radius:18px;padding:28px 30px}
+.sect p.lead{margin-top:8px;font-size:14.5px;color:var(--muted);max-width:62ch}
+.gap{margin-top:36px;background:var(--ink);color:var(--paper);border-radius:18px;padding:28px 30px}
 .gap p.big{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:21px;line-height:1.35;max-width:48ch}
 .gap p.big em{font-style:italic;color:#D9C68A}
 .gap p.small{margin-top:12px;font-size:13.5px;color:#C9CBB4;max-width:64ch}
@@ -68,8 +57,41 @@ h1.disp{font-size:46px;line-height:1.02}
 .flogo.wd{width:148px}
 .flogo img{width:100%;height:100%;object-fit:contain;padding:10px}
 .sitel{font-weight:600}
+/* ---- Fiche étalon ---- */
+.notice{margin-top:18px;border:1px dashed var(--accent);background:#F1EFD9;border-radius:14px;padding:14px 18px;font-size:13.5px;color:var(--ink)}
+.notice b{color:var(--accent)}
+.chip-etalon{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:#8A6D1D;border:1px solid #E2D5A8;background:#F6EED3;border-radius:999px;padding:4px 10px}
+.chip-attente{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.chip-source{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.rowh{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:10px}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:6px}
+.kpi{background:var(--paper);border:1px solid var(--line);border-radius:12px;padding:12px 14px}
+.kpi b{display:block;font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:22px;color:var(--ink)}
+.kpi span{font-size:11.5px;color:var(--muted)}
+.etq{padding:12px 0;border-bottom:1px solid #EFEBDB;display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.etq:last-child{border-bottom:0}
+.etq .q{font-size:14px;color:var(--ink);font-weight:500;max-width:52ch}
+.etq .q small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:3px}
+table.grille{width:100%;border-collapse:collapse;margin-top:6px;font-size:13.5px}
+table.grille th{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:600;text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+table.grille td{padding:11px 10px;border-bottom:1px solid #EFEBDB;color:var(--muted)}
+table.grille td.deal{color:var(--ink);font-weight:600;white-space:nowrap}
+table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;color:var(--faint)}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:14px}
+.qa .qq{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:17.5px;line-height:1.4;color:var(--ink)}
+.qa .verb{margin-top:10px;padding-left:14px;border-left:3px solid var(--line);font-size:13.5px;font-style:italic;color:var(--muted)}
+.qa .rep{margin-top:12px;display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.bigstat{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;margin-top:8px}
+.bigstat .n{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:64px;line-height:1;color:var(--faint)}
+.bigstat .l{font-size:14px;color:var(--muted);max-width:36ch}
+.fc{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.fc span{font-size:13px;font-weight:500;color:var(--ink);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:8px 14px}
+.fc span i{font-style:normal;color:var(--faint);padding:0 6px}
+.video{margin-top:14px;position:relative;border-radius:14px;background:linear-gradient(135deg,#2A351A,#47621E);height:180px;display:flex;align-items:center;justify-content:center;color:var(--paper)}
+.video .play{width:54px;height:54px;border-radius:50%;background:rgba(247,243,228,.16);border:1px solid rgba(247,243,228,.5);display:flex;align-items:center;justify-content:center;font-size:18px}
+.video .lbl{position:absolute;left:16px;bottom:12px;font-size:12px;color:#C9CBB4}
 @media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px;padding:0}.flogo.wd{width:108px}.flogo img{padding:7px}}
-@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.mods{grid-template-columns:1fr}}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.kpis{grid-template-columns:1fr 1fr}.bigstat .n{font-size:46px}}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.cambonpartners.com/fr"], "logo": "https://www.exit.club/assets/logos/dir/cambon-partners.webp", "name": "Cambon Partners", "url": "https://www.exit.club/f/cambon-partners"}</script>
 </head>
@@ -87,55 +109,118 @@ h1.disp{font-size:46px;line-height:1.02}
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#banques-affaires">Banques d'affaires (M&amp;A)</a></div>
 
   <section class="hero wl"><div class="flogo dk wd"><img src="/assets/logos/dir/cambon-partners.webp" alt="Cambon Partners" loading="lazy" width="192" height="52"></div><div class="hb">
-    <p class="over">Fiche référencée · non revendiquée</p>
+    <p class="over">Fiche étalon · aperçu du nouveau format</p>
     <h1 class="disp">Cambon Partners</h1>
     <a class="tag" href="/ecosysteme#banques-affaires">Banques d'affaires (M&amp;A)</a><a class="tag" href="/ecosysteme#boutiques-ma">Boutiques M&amp;A</a>
   </div></section>
 
-  <div class="card"><div class="k">Repères</div><p>Banque d'affaires : conseil en cession, acquisition et financement.</p><p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.cambonpartners.com/fr" target="_blank" rel="noopener nofollow">cambonpartners.com</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Cambon%20Partners" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
+  <div class="notice"><b>Aperçu.</b> Voici à quoi ressemble une fiche de la nouvelle génération : construite sur pièces publiques et sur une interview d'une heure, écrite par l'Exit Club, validée par la maison avant publication. Les éléments marqués « interview à venir » seront remplis par Cambon Partners.</div>
+
+  <div class="card"><div class="k">Repères</div>
+    <p>Banque d'affaires fondée en 2003 par David Salabi. Cession, acquisition, levée de fonds pour les sociétés de croissance, tech en tête. Une cinquantaine de banquiers, bureaux à Paris et Londres, plus de 450 transactions revendiquées.</p>
+    <p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.cambonpartners.com/fr" target="_blank" rel="noopener nofollow">cambonpartners.com</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Cambon%20Partners" target="_blank" rel="noopener nofollow">LinkedIn</a></p>
+  </div>
+
+  <div class="card">
+    <div class="rowh"><div class="k" style="margin:0">Sur pièces — comptes publiés</div><span class="chip-source">✓ Registre public</span></div>
+    <div class="kpis">
+      <div class="kpi"><b>76,7 M€</b><span>Chiffre d'affaires 2022</span></div>
+      <div class="kpi"><b>47,8 %</b><span>Marge EBITDA 2022</span></div>
+      <div class="kpi"><b>42</b><span>Salariés (2022)</span></div>
+      <div class="kpi"><b>2003</b><span>Année de création</span></div>
+    </div>
+    <p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Source : comptes déposés au greffe (SIREN 450 725 098). Derniers comptes publiés : exercice 2022.</p>
+  </div>
 
   <div class="card"><div class="k">Dans les Ligues de l'Exit</div><p><b>1 opération</b> conseillée côté cédant · 235 M€ cumulés · dernière : Cafpi (mai 2021). <a href="/ecosysteme#ligues" style="color:var(--accent)">Voir le classement →</a></p></div>
 
-  <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">TB</div><div><b>Thomas Bertier</b><span>MD</span></div></div><div class="pers"><div class="ava">DS</div><div><b>David Salabi</b><span>Founder &amp; MP</span></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Équipe identifiée par recherche Exit Club. <a href="mailto:louis@exit.club?subject=Fiche%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
+  <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">DS</div><div><b>David Salabi</b><span>Founder &amp; Managing Partner</span></div></div><div class="pers"><div class="ava">TB</div><div><b>Thomas Bertier</b><span>Managing Director</span></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Équipe identifiée par recherche Exit Club. <a href="mailto:louis@exit.club?subject=Fiche%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
 
   <section class="sect">
-    <div class="k">Réservé aux fiches vérifiées</div>
-    <h2>Ce qu'elle pourrait montrer.</h2>
-    <div class="mods">
-      <div class="mod">
-        <div class="mh"><span class="mt">Logo &amp; équipe</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk ava"><i></i><i></i><i></i><i></i></div>
+    <div class="k">Bloc 1 · Transparence</div>
+    <h2>Les conflits du métier, déclarés.</h2>
+    <p class="lead">Le conseil M&amp;A n'est pas une activité régulée. La fiche remplace le statut qui n'existe pas par une déclaration : qui la maison sert, et comment elle est payée.</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">Répartition sell-side / buy-side des mandats sur 24 mois<small>En nombre d'opérations et en honoraires.</small></div><span class="chip-attente">Interview à venir</span></div>
+      <div class="etq"><div class="q">Récurrence des acquéreurs<small>Sur les 10 derniers deals sell-side, combien d'acquéreurs sont des maisons avec qui la banque a déjà travaillé ou retravaillera.</small></div><span class="chip-attente">Interview à venir</span></div>
+      <div class="etq"><div class="q">Activités annexes du groupe<small>Financement, dette, gestion, participations.</small></div><span class="chip-attente">Interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Bloc 2 · La grille</div>
+    <h2>Les honoraires, en clair.</h2>
+    <p class="lead">Communiquée par la maison sur trois cas types, publiée après sa validation, remise à jour chaque année.</p>
+    <div class="card" style="margin-top:16px">
+      <div style="overflow-x:auto"><table class="grille" style="min-width:560px">
+        <tr><th>Cas type</th><th>Retainer</th><th>Success fee</th><th>Fee sur la part earn-out</th></tr>
+        <tr><td class="deal">Deal 25 M€</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">Deal 60 M€</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">Deal 150 M€+</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+      </table></div>
+      <p style="margin-top:12px;font-size:12.5px;color:var(--faint)">La colonne qui compte : le fee sur l'earn-out est-il payé sur le montant annoncé au closing, ou sur ce que le client encaisse réellement ?</p>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Bloc 3 · Les questions des membres</div>
+    <h2>Ce que les fondateurs demandent vraiment.</h2>
+    <p class="lead">Questions posées mot pour mot dans les échanges du club — 300 fondateurs, 2 Md€ de cash-out cumulés — et restées sans réponse publique. La fiche donne à la maison l'occasion d'y répondre la première.</p>
+
+    <div class="qa">
+      <p class="qq">Sur vos 20 derniers deals, combien de vos clients ont réellement touché leur earn-out ?</p>
+      <p class="verb">« J'ai lu quelque part que seulement 40 % des earn-out finissent par être payés… » — un membre du club. Le chiffre circule, personne ne l'a démenti.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Cambon Partners · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Le multiple annoncé au premier rendez-vous et le multiple à la signature : quel écart moyen ?</p>
+      <p class="verb">Entre la LOI et le closing, combien d'opérations recoupées en exclusivité, et de combien ?</p>
+      <div class="rep"><span class="chip-attente">Réponse de Cambon Partners · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Quelles protections négociez-vous sur l'earn-out de vos clients ?</p>
+      <p class="verb">Deux mécanismes seulement ont circulé dans le club, trouvés par des membres eux-mêmes : un compte gage espèces alimenté chaque mois, et un veto sur toute opération M&amp;A jusqu'au paiement intégral.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Cambon Partners · interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Bloc 4 · Le chiffre assumé</div>
+    <h2>Un seul KPI, vérifiable, remis à jour chaque année.</h2>
+    <div class="card" style="margin-top:16px">
+      <div class="bigstat">
+        <span class="n">— %</span>
+        <span class="l">de leurs clients cédants ont encaissé leur earn-out. Le chiffre qu'aucun conseil ne publie. Le premier qui le publie prend la catégorie.</span>
       </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Présentation &amp; expertise post-exit</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Actualités &amp; opérations : deals M&amp;A, levées, nominations</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">One-pager de votre dernier fonds / offre</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Opportunité du moment</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Prise de rendez-vous directe</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><span class="btnghost"></span></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Vidéo tournée dans vos locaux par l'Exit Club</span><span class="chip plus">🔒 Vérifié+</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
+      <p style="margin-top:12px"><span class="chip-attente">Communiqué par la maison · millésime 2026</span></p>
+    </div>
+  </section>
+
+  <section class="sect">
+    <div class="k">Bloc 5 · L'interview</div>
+    <h2>Une heure. Pas une plaquette.</h2>
+    <p class="lead">L'Exit Club écrit tout, la maison valide tout avant publication. Extraits du questionnaire :</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">« Racontez le deal où vous avez dit à votre client de ne pas vendre. »</div></div>
+      <div class="etq"><div class="q">« À 2h du matin dans la data room, c'est vous ou un analyste de 24 ans ? »</div></div>
+      <div class="etq"><div class="q">« La chose que l'acquéreur sait toujours et que votre client vendeur ne sait jamais ? »</div></div>
+      <div class="etq"><div class="q">« Votre client signe, encaisse, et le lendemain il n'est plus CEO de rien. Vous le rappelez, ou votre métier s'arrête au virement ? »</div></div>
+    </div>
+    <div class="video"><div class="play">▶</div><div class="lbl">Fast &amp; Curious · 2 minutes · tourné par l'Exit Club</div></div>
+    <div class="fc">
+      <span>Earn-out <i>ou</i> cash au closing</span>
+      <span>Retainer <i>ou</i> full success</span>
+      <span>Exclusivité <i>ou</i> process ouvert</span>
+      <span>Fondateur <i>ou</i> fonds</span>
+      <span>Signing <i>ou</i> closing</span>
     </div>
   </section>
 
   <div class="gap">
-    <p class="big">Vous représentez Cambon Partners ? <em>Prenez le contrôle de cette fiche.</em></p>
-    <p class="small">Des fondateurs en cession ou en post-cession consultent l'Écosystème pour choisir leurs conseils. Aujourd'hui, votre fiche ne leur donne aucune raison de vous écrire. La version vérifiée, elle, prend le rendez-vous à votre place. <a href="/f/demo-fiche-verifiee" style="color:#D9C68A">Voir un exemple de fiche vérifiée →</a></p>
+    <p class="big">Cette fiche est un aperçu. <em>Elle devient réelle en une heure d'interview.</em></p>
+    <p class="small">Des fondateurs en cession ou en post-cession consultent l'Écosystème pour choisir leurs conseils. Les questions ci-dessus sont les leurs, mot pour mot. La maison qui y répond la première prend la catégorie ; les suivantes afficheront « n'a pas encore répondu ».</p>
     <div class="btns">
       <a class="btn btn-inv" href="/referencement?institution=Cambon%20Partners&cat=banques-affaires&fiche=cambon-partners&demande=referencer">Revendiquer cette fiche</a>
       <a class="btn btn-line" href="/fiche-verifiee?institution=Cambon%20Partners&cat=banques-affaires&fiche=cambon-partners">Faire vérifier ma fiche</a>
@@ -144,7 +229,7 @@ h1.disp{font-size:46px;line-height:1.02}
 
   <div class="back"><a class="linkbtn" href="/ecosysteme#banques-affaires">← Retour à la catégorie Banques d'affaires (M&amp;A)</a></div>
 
-  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Fiche non revendiquée. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</p>
+  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Aperçu du format « fiche étalon ». Les éléments marqués « interview à venir » seront remplis par la maison et validés par elle avant publication : leur absence ne traduit aucun refus de sa part. Données chiffrées issues des registres publics et du site de la maison. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</p>
 
   <div class="foot">
     <div>Exit Club · L'Écosystème de l'Exit · recensement du marché</div>
