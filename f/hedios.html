@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hedios · Gestion privée | L'Écosystème de l'Exit</title>
+<meta name="description" content="Hedios est référencé dans L'Écosystème de l'Exit. Aperçu du format fiche étalon : étiquette réglementaire, rémunération en clair, réponses aux questions des membres sur les produits structurés.">
+<meta property="og:title" content="Hedios · L'Écosystème de l'Exit">
+<meta property="og:description" content="Fiche Gestion privée dans le recensement public des acteurs de l'exit.">
+<meta property="og:url" content="https://www.exit.club/f/hedios">
+<link rel="canonical" href="https://www.exit.club/f/hedios">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
+.wrap{max-width:860px;margin:0 auto;padding:0 40px}
+.top{display:flex;align-items:center;justify-content:space-between;padding:26px 0}
+.mark{font-family:'Fraunces',Georgia,serif;font-size:21px}.mark i{font-style:italic}.mark b{font-weight:600}
+.crumb{font-size:13px;color:var(--muted);margin:14px 0 0}
+.crumb a{color:var(--muted);text-decoration:none;border-bottom:1px dotted var(--line)}
+.hero{padding:26px 0 8px}
+.over{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint);margin:0 0 14px}
+h1.disp{font-size:46px;line-height:1.02}
+.tag{display:inline-block;margin-top:16px;margin-right:12px;text-decoration:none;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:22px 24px;margin:24px 0 0}
+.card .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600;margin-bottom:10px}
+.card p{font-size:14.5px;color:var(--muted);line-height:1.65}
+.card p+p{margin-top:10px}
+.card a{color:var(--accent)}
+.pers{display:flex;gap:12px;align-items:center;padding:8px 0;border-bottom:1px solid #EFEBDB}
+.pers:last-child{border-bottom:0}
+.ava{flex:none;width:38px;height:38px;border-radius:50%;background:#E7E2D0;color:var(--ink);display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600}
+.pers b{display:block;font-size:14px;color:var(--ink)}
+.pers span{display:block;font-size:12.5px;color:var(--muted)}
+.sect{margin-top:36px}
+.sect .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600}
+.sect h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:27px;margin-top:8px}
+.sect p.lead{margin-top:8px;font-size:14.5px;color:var(--muted);max-width:62ch}
+.gap{margin-top:36px;background:var(--ink);color:var(--paper);border-radius:18px;padding:28px 30px}
+.gap p.big{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:21px;line-height:1.35;max-width:48ch}
+.gap p.big em{font-style:italic;color:#D9C68A}
+.gap p.small{margin-top:12px;font-size:13.5px;color:#C9CBB4;max-width:64ch}
+.gap .btns{margin-top:18px;display:flex;gap:12px;flex-wrap:wrap}
+.btn{font-size:13.5px;font-weight:600;padding:12px 20px;border-radius:999px;text-decoration:none}
+.btn-inv{background:var(--paper);color:var(--ink)}
+.btn-line{border:1px solid #55603B;color:var(--paper)}
+.back{margin:34px 0 0}
+.linkbtn{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:9px 16px;text-decoration:none}
+.foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.foot a{color:var(--muted);text-decoration:none}
+.sitel{font-weight:600}
+.chip-attente{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.chip-source{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.etq{padding:12px 0;border-bottom:1px solid #EFEBDB;display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.etq:last-child{border-bottom:0}
+.etq .q{font-size:14px;color:var(--ink);font-weight:500;max-width:52ch}
+.etq .q small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:3px}
+table.grille{width:100%;border-collapse:collapse;margin-top:6px;font-size:13.5px}
+table.grille th{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:600;text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+table.grille td{padding:11px 10px;border-bottom:1px solid #EFEBDB;color:var(--muted)}
+table.grille td.deal{color:var(--ink);font-weight:600;white-space:nowrap}
+table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;color:var(--faint)}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:14px}
+.qa .qq{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:17.5px;line-height:1.4;color:var(--ink)}
+.qa .verb{margin-top:10px;padding-left:14px;border-left:3px solid var(--line);font-size:13.5px;font-style:italic;color:var(--muted)}
+.qa .rep{margin-top:12px;display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.bigstat{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;margin-top:8px}
+.bigstat .n{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:64px;line-height:1;color:var(--faint)}
+.bigstat .l{font-size:14px;color:var(--muted);max-width:36ch}
+html{scroll-behavior:smooth}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
+.toc a:hover{border-color:var(--accent);color:var(--accent)}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.bigstat .n{font-size:46px}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.hedios.com"], "name": "Hedios", "url": "https://www.exit.club/f/hedios"}</script>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
+    <div style="display:flex;align-items:center;gap:22px">
+      <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">L'Écosystème</a>
+      <a href="https://tally.so/r/wADNZN" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--paper);background:var(--accent);padding:9px 16px;border-radius:999px;text-decoration:none">Rejoindre</a>
+    </div>
+  </div>
+
+  <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#cgp">Gestion privée</a></div>
+
+  <section class="hero">
+    <p class="over">Fiche étalon · aperçu du nouveau format</p>
+    <h1 class="disp">Hedios</h1>
+    <a class="tag" href="/ecosysteme#cgp">Gestion privée</a><a class="tag" href="/ecosysteme#cgp">Produits structurés</a>
+  </section>
+
+  <nav class="toc">
+    <a href="#etiquette">L'étiquette</a>
+    <a href="#grille">La rémunération</a>
+    <a href="#questions">Les questions des membres</a>
+    <a href="#chiffre">Le chiffre assumé</a>
+    <a href="#interview">L'interview</a>
+  </nav>
+
+  <div class="card"><div class="k">Repères</div>
+    <p>Concepteur et distributeur en ligne de produits structurés (Gammes H), logés en assurance vie et contrats de capitalisation auprès de l'assureur Suravenir. Maison dirigée par Julien Vautel, siège rue de la Bourse à Paris. Pionnier revendiqué de la distribution de placements structurés par Internet.</p>
+    <p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.hedios.com" target="_blank" rel="noopener nofollow">hedios.com</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Hedios" target="_blank" rel="noopener nofollow">LinkedIn</a></p>
+  </div>
+
+  <section class="sect" id="etiquette">
+    <div class="k">Bloc 1 · L'étiquette</div>
+    <h2>Qui paie la maison, et combien.</h2>
+    <p class="lead">Un produit structuré empile trois intervenants : la banque qui structure, le distributeur, l'assureur qui loge. L'étiquette dit ce que chacun capte, en commençant par la maison référencée.</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">Statuts réglementaires<small>Courtier en assurance et CIF · ORIAS n° 07005142 · membre CNCGP (association agréée par l'AMF).</small></div><span class="chip-source">✓ Registre public</span></div>
+      <div class="etq"><div class="q">Rémunération de la maison, produit par produit<small>Commission perçue à la souscription (upfront) et rétrocessions annuelles, en % du ticket, sur un produit type de la gamme en cours.</small></div><span class="chip-attente">Interview à venir</span></div>
+      <div class="etq"><div class="q">La décomposition sur 100 € souscrits<small>Ce que captent la banque structuratrice, le distributeur et l'assureur, et ce qui travaille réellement pour le client.</small></div><span class="chip-attente">Interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect" id="grille">
+    <div class="k">Bloc 2 · La rémunération</div>
+    <h2>Les frais, en clair.</h2>
+    <p class="lead">Communiqués par la maison en fourchettes sur un produit type, publiés après sa validation, remis à jour à chaque gamme.</p>
+    <div class="card" style="margin-top:16px">
+      <div style="overflow-x:auto"><table class="grille" style="min-width:560px">
+        <tr><th>Poste</th><th>En % du ticket</th><th>Qui le perçoit</th></tr>
+        <tr><td class="deal">Commission à la souscription (upfront)</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">Rétrocessions annuelles</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">Frais du contrat d'assurance vie</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">Marge de structuration embarquée</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+      </table></div>
+      <p style="margin-top:12px;font-size:12.5px;color:var(--faint)">La ligne qui compte : le total capté par les intermédiaires sur la durée de vie du produit, en euros pour 100 000 € souscrits.</p>
+    </div>
+  </section>
+
+  <section class="sect" id="questions">
+    <div class="k">Bloc 3 · Les questions des membres</div>
+    <h2>Ce que les fondateurs demandent vraiment.</h2>
+
+    <div class="qa">
+      <p class="qq">Sur l'ensemble de vos produits arrivés à échéance ou rappelés, combien ont versé leur objectif de gain, et combien ont rendu moins que le capital investi ?</p>
+      <p class="verb">« On m'annonce 8 à 9 % par an : dans quel scénario exactement est-ce que je perds, et combien ? » — la question revient telle quelle dans les échanges du club, sans réponse chiffrée.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Hedios · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Sur 100 € souscrits, qui capte combien entre la banque, le distributeur et l'assureur ?</p>
+      <p class="verb">« Les upfronts captés par le distributeur peuvent atteindre 6 à 7 % » — un professionnel de la gestion, membre du club, à propos du marché des produits structurés.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Hedios · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Les indices à décrément : pourquoi les utiliser, et que devient le produit dans le scénario défavorable, chiffré ?</p>
+      <p class="verb">« J'ai récupéré un client avec un produit structuré sur indice à décrément, il est à -95 % » — un conseiller membre du club, à propos d'un produit du marché.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Hedios · interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect" id="chiffre">
+    <div class="k">Bloc 4 · Le chiffre assumé</div>
+    <h2>Un seul KPI, vérifiable, remis à jour chaque année.</h2>
+    <div class="card" style="margin-top:16px">
+      <div class="bigstat">
+        <span class="n">— %</span>
+        <span class="l">des produits de la maison arrivés à terme ont délivré leur objectif de gain, tous millésimes confondus. Le chiffre que toute la catégorie promet et que personne ne publie en continu.</span>
+      </div>
+      <p style="margin-top:12px"><span class="chip-attente">Communiqué par la maison · millésime 2026</span></p>
+    </div>
+  </section>
+
+  <section class="sect" id="interview">
+    <div class="k">Bloc 5 · L'interview</div>
+    <h2>L'interview.</h2>
+    <p class="lead">Extraits :</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">« Expliquez votre métier en 30 secondes. Interdits : "protection", "jusqu'à", "objectif de gain". »</div></div>
+      <div class="etq"><div class="q">« Votre propre épargne est-elle investie dans vos Gammes H ? Dans quelle proportion ? »</div></div>
+      <div class="etq"><div class="q">« Le produit que vous avez refusé de lancer parce qu'il était trop beau pour être honnête ? »</div></div>
+      <div class="etq"><div class="q">« Un membre du club a tout mis en ETF et écrit qu'il dort mieux. Pourquoi un produit structuré plutôt qu'un ETF ? Sans dire "protection". »</div></div>
+      <div class="etq"><div class="q">« Un client vous dit : si le scénario défavorable est si improbable, pourquoi la banque accepte-t-elle de le porter ? Répondez-lui. »</div></div>
+    </div>
+  </section>
+
+  <div class="gap">
+    <p class="big">Cette fiche est un aperçu. <em>Elle devient réelle en une heure d'interview.</em></p>
+    <p class="small">Des fondateurs en cession ou en post-cession consultent l'Écosystème pour choisir leurs conseils. Les questions ci-dessus sont les leurs, mot pour mot. La maison qui y répond la première prend la catégorie ; les suivantes afficheront « n'a pas encore répondu ».</p>
+    <div class="btns">
+      <a class="btn btn-inv" href="/referencement?institution=Hedios&cat=cgp&fiche=hedios&demande=referencer">Revendiquer cette fiche</a>
+      <a class="btn btn-line" href="/fiche-verifiee?institution=Hedios&cat=cgp&fiche=hedios">Faire vérifier ma fiche</a>
+    </div>
+  </div>
+
+  <div class="back"><a class="linkbtn" href="/ecosysteme#cgp">← Retour à la catégorie Gestion privée</a></div>
+
+  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Aperçu du format « fiche étalon ». Les éléments marqués « interview à venir » seront remplis par la maison et validés par elle avant publication : leur absence ne traduit aucun refus de sa part. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</p>
+
+  <div class="foot">
+    <div>Exit Club · L'Écosystème de l'Exit · recensement du marché</div>
+    <div><a href="/referencement">Se référencer</a> · <a href="mailto:louis@exit.club?subject=Fiche%20hedios%20·%20remarque">Un bug, une remarque ? Écrivez-moi</a></div>
+  </div>
+
+</div>
+</body>
+</html>
