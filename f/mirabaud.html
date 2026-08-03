@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mirabaud · Banques privées | L'Écosystème de l'Exit</title>
-<meta name="description" content="Mirabaud est référencé dans la catégorie Banques privées de L'Écosystème de l'Exit, le recensement public des acteurs de l'exit. Fiche non revendiquée.">
+<meta name="description" content="Mirabaud est référencé dans la catégorie Banques privées de L'Écosystème de l'Exit. Aperçu du format fiche étalon : rémunération et frais, tarifs, réponses aux questions des membres.">
 <meta property="og:title" content="Mirabaud · L'Écosystème de l'Exit">
 <meta property="og:description" content="Fiche Banques privées dans le recensement public des acteurs de l'exit.">
 <meta property="og:url" content="https://www.exit.club/f/mirabaud">
@@ -37,19 +37,8 @@ h1.disp{font-size:46px;line-height:1.02}
 .sect{margin-top:36px}
 .sect .k{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600}
 .sect h2{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:27px;margin-top:8px}
-.mods{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:18px}
-.mod{position:relative;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;overflow:hidden}
-.mod .mh{display:flex;align-items:center;justify-content:space-between;gap:10px}
-.mod .mt{font-size:13.5px;font-weight:600;color:var(--ink)}
-.mod .chip{flex:none;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px;display:inline-flex;align-items:center;gap:5px}
-.mod .chip.plus{color:#8A6D1D;border-color:#E2D5A8;background:#F6EED3}
-.sk{margin-top:14px;display:grid;gap:8px}
-.sk i{display:block;height:11px;border-radius:6px;background:linear-gradient(90deg,#E7E2D0,#EFEBDD);filter:blur(2.5px)}
-.sk i:nth-child(1){width:88%}.sk i:nth-child(2){width:64%}.sk i:nth-child(3){width:76%}
-.sk.ava{grid-template-columns:repeat(4,44px);gap:10px}
-.sk.ava i{height:44px;width:44px;border-radius:50%;filter:blur(3px)}
-.sk .btnghost{height:36px;width:190px;border-radius:999px;background:linear-gradient(90deg,#E3DECB,#ECE7D6);filter:blur(2px)}
-.gap{margin-top:26px;background:var(--ink);color:var(--paper);border-radius:18px;padding:28px 30px}
+.sect p.lead{margin-top:8px;font-size:14.5px;color:var(--muted);max-width:62ch}
+.gap{margin-top:36px;background:var(--ink);color:var(--paper);border-radius:18px;padding:28px 30px}
 .gap p.big{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:21px;line-height:1.35;max-width:48ch}
 .gap p.big em{font-style:italic;color:#D9C68A}
 .gap p.small{margin-top:12px;font-size:13.5px;color:#C9CBB4;max-width:64ch}
@@ -61,17 +50,32 @@ h1.disp{font-size:46px;line-height:1.02}
 .linkbtn{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:9px 16px;text-decoration:none}
 .foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .foot a{color:var(--muted);text-decoration:none}
-.hero.wl{display:flex;gap:24px;align-items:flex-start}
-.hero.wl>.hb{min-width:0}
-.flogo{flex:none;width:88px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#fff;border:1px solid var(--line)}
-.flogo.dk{background:var(--ink);border-color:var(--ink)}
-.flogo.wd{width:148px}
-.flogo img{width:100%;height:100%;object-fit:contain;padding:10px}
 .sitel{font-weight:600}
-@media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px;padding:0}.flogo.wd{width:108px}.flogo img{padding:7px}}
-@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.mods{grid-template-columns:1fr}}
+.chip-attente{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.chip-source{display:inline-flex;align-items:center;gap:6px;font-size:10.5px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:4px 10px}
+.etq{padding:12px 0;border-bottom:1px solid #EFEBDB;display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.etq:last-child{border-bottom:0}
+.etq .q{font-size:14px;color:var(--ink);font-weight:500;max-width:52ch}
+.etq .q small{display:block;font-weight:400;font-size:12.5px;color:var(--muted);margin-top:3px}
+table.grille{width:100%;border-collapse:collapse;margin-top:6px;font-size:13.5px}
+table.grille th{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:600;text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+table.grille td{padding:11px 10px;border-bottom:1px solid #EFEBDB;color:var(--muted)}
+table.grille td.deal{color:var(--ink);font-weight:600;white-space:nowrap}
+table.grille td.pend{font-family:'Fraunces',Georgia,serif;font-style:italic;color:var(--faint)}
+.qa{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-top:14px}
+.qa .qq{font-family:'Fraunces',Georgia,serif;font-weight:400;font-size:17.5px;line-height:1.4;color:var(--ink)}
+.qa .verb{margin-top:10px;padding-left:14px;border-left:3px solid var(--line);font-size:13.5px;font-style:italic;color:var(--muted)}
+.qa .rep{margin-top:12px;display:flex;align-items:center;gap:10px;font-size:13px;color:var(--muted)}
+.bigstat{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;margin-top:8px}
+.bigstat .n{font-family:'Fraunces',Georgia,serif;font-weight:300;font-size:64px;line-height:1;color:var(--faint)}
+.bigstat .l{font-size:14px;color:var(--muted);max-width:36ch}
+html{scroll-behavior:smooth}
+.toc{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+.toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
+.toc a:hover{border-color:var(--accent);color:var(--accent)}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:34px}.bigstat .n{font-size:46px}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.mirabaud.com/en"], "logo": "https://www.exit.club/assets/logos/dir/mirabaud.webp", "name": "Mirabaud", "url": "https://www.exit.club/f/mirabaud"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.mirabaud.com"], "logo": "https://www.exit.club/assets/logos/dir/mirabaud.webp", "name": "Mirabaud", "url": "https://www.exit.club/f/mirabaud"}</script>
 </head>
 <body>
 <div class="wrap">
@@ -86,54 +90,105 @@ h1.disp{font-size:46px;line-height:1.02}
 
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#banques-privees">Banques privées</a></div>
 
-  <section class="hero wl"><div class="flogo dk wd"><img src="/assets/logos/dir/mirabaud.webp" alt="Mirabaud" loading="lazy" width="192" height="32"></div><div class="hb">
-    <p class="over">Fiche référencée · non revendiquée</p>
+  <section class="hero" style="display:flex;gap:24px;align-items:flex-start"><div style="flex:none;width:148px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:var(--ink)"><img src="/assets/logos/dir/mirabaud.webp" alt="Mirabaud" loading="lazy" style="width:100%;height:100%;object-fit:contain;padding:10px"></div><div style="min-width:0">
+    <p class="over">Fiche étalon · aperçu du nouveau format</p>
     <h1 class="disp">Mirabaud</h1>
     <a class="tag" href="/ecosysteme#banques-privees">Banques privées</a>
   </div></section>
 
-  <div class="card"><div class="k">Repères</div><p>Banque privée : gestion de fortune bancaire, en France, en Suisse et au Luxembourg.</p><p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.mirabaud.com/en" target="_blank" rel="noopener nofollow">mirabaud.com</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Mirabaud" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
+  <nav class="toc">
+    <a href="#etiquette">Rémunération et frais</a>
+    <a href="#grille">Les tarifs</a>
+    <a href="#questions">Les questions des membres</a>
+    <a href="#chiffre">Le chiffre assumé</a>
+    <a href="#interview">L'interview</a>
+  </nav>
+
+  <div class="card"><div class="k">Repères</div>
+    <p>Maison genevoise fondée en 1819, dirigée par ses associés. Gestion de fortune bancaire en France, en Suisse et au Luxembourg : mandats de gestion, conseil, crédit patrimonial.</p>
+    <p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://www.mirabaud.com" target="_blank" rel="noopener nofollow">mirabaud.com</a> · <a href="https://www.linkedin.com/company/mirabaud" target="_blank" rel="noopener nofollow">LinkedIn</a></p>
+  </div>
 
   <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">SJ</div><div><b>Stéphane Jaouen</b><span>Directeur général de la banque privée Mirabaud en France</span></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Identifiée via le registre national des entreprises. <a href="mailto:louis@exit.club?subject=Fiche%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
 
-  <section class="sect">
-    <div class="k">Réservé aux fiches vérifiées</div>
-    <h2>Ce qu'elle pourrait montrer.</h2>
-    <div class="mods">
-      <div class="mod">
-        <div class="mh"><span class="mt">Logo &amp; équipe</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk ava"><i></i><i></i><i></i><i></i></div>
+  <section class="sect" id="etiquette">
+    <div class="k">Bloc 1 · Rémunération et frais</div>
+    <h2>Rémunération et frais.</h2>
+    <p class="lead">Trois déclarations, sans chiffres confidentiels. C'est le modèle qui est déclaré ici ; les montants sont dans la grille.</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">Entité et supervision<small>Présence en France identifiée au registre national des entreprises ; groupe supervisé en Suisse et dans l'UE.</small></div><span class="chip-source">✓ Registre public</span></div>
+      <div class="etq"><div class="q">Rétrocessions sur les fonds en mandat<small>Conservées ou restituées au client ? Déclaratif, oui ou non.</small></div><span class="chip-attente">Interview à venir</span></div>
+      <div class="etq"><div class="q">Fonds maison dans les mandats<small>La banque loge-t-elle ses propres fonds dans les portefeuilles clients, et le déclare-t-elle par écrit ? Oui ou non.</small></div><span class="chip-attente">Interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect" id="grille">
+    <div class="k">Bloc 2 · La grille</div>
+    <h2>Les tarifs.</h2>
+    <p class="lead">Communiquée par la maison en fourchettes, par tranche d'encours confié, publiée après sa validation, remise à jour chaque année.</p>
+    <div class="card" style="margin-top:16px">
+      <div style="overflow-x:auto"><table class="grille" style="min-width:560px">
+        <tr><th>Encours confié</th><th>Mandat de gestion, tout compris</th><th>Droits de garde &amp; frais d'ordre</th><th>Crédit Lombard (marge sur indice)</th></tr>
+        <tr><td class="deal">1 – 5 M€</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">5 – 15 M€</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">15 – 50 M€</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+        <tr><td class="deal">50 M€ et plus</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td><td class="pend">interview à venir</td></tr>
+      </table></div>
+      <p style="margin-top:12px;font-size:12.5px;color:var(--faint)">Les colonnes qui comptent : le tout compris (mandat, enveloppes, sous-jacents) et la marge Lombard exprimée avec son indice, pas en « à partir de ».</p>
+    </div>
+  </section>
+
+  <section class="sect" id="questions">
+    <div class="k">Bloc 3 · Les questions des membres</div>
+    <h2>Ce que les fondateurs demandent vraiment.</h2>
+
+    <div class="qa">
+      <p class="qq">Votre grille Lombard : LTV, indice, marge, et ce qui déclenche un appel de marge ?</p>
+      <p class="verb">Dans le club, une banque a répondu « nos frais dépendent beaucoup des montants investis, je ne peux pas te donner de chiffre exact ». Trois semaines plus tard, un concurrent donnait tout : LTV 50-70 %, Ester + 0,5 à 1 %, cas réels à 3,20 % et 2,75 %. La première a perdu le sujet.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Mirabaud · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Sur 100 € de frais payés par un client l'an dernier, combien reviennent à la banque au-delà du mandat affiché ?</p>
+      <p class="verb">« Suite à un audit de mes lignes, j'ai constaté une accumulation de strates de frais non justifiées par une performance qui est loin d'être au rendez-vous » — un membre du club.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Mirabaud · interview à venir</span></div>
+    </div>
+
+    <div class="qa">
+      <p class="qq">Un fondateur post-exit, plusieurs millions en compte, zéro revenu salarié : que dit votre comité crédit ?</p>
+      <p class="verb">« Plusieurs d'entre nous galèrent à obtenir des prêts immo depuis nos exits... même avec des millions sur les comptes » — un membre du club.</p>
+      <div class="rep"><span class="chip-attente">Réponse de Mirabaud · interview à venir</span></div>
+    </div>
+  </section>
+
+  <section class="sect" id="chiffre">
+    <div class="k">Bloc 4 · Le chiffre assumé</div>
+    <h2>Un seul KPI, vérifiable, remis à jour chaque année.</h2>
+    <div class="card" style="margin-top:16px">
+      <div class="bigstat">
+        <span class="n">— %</span>
+        <span class="l">de marge médiane au-dessus de l'indice sur les crédits Lombard accordés dans l'année. Le chiffre que toute la catégorie garde secret.</span>
       </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Présentation &amp; expertise post-exit</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Actualités &amp; opérations : deals M&amp;A, levées, nominations</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">One-pager de votre dernier fonds / offre</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Opportunité du moment</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Prise de rendez-vous directe</span><span class="chip">🔒 Vérifié</span></div>
-        <div class="sk"><span class="btnghost"></span></div>
-      </div>
-      <div class="mod">
-        <div class="mh"><span class="mt">Vidéo tournée dans vos locaux par l'Exit Club</span><span class="chip plus">🔒 Vérifié+</span></div>
-        <div class="sk"><i></i><i></i></div>
-      </div>
+      <p style="margin-top:12px"><span class="chip-attente">Communiqué par la maison · millésime 2026</span></p>
+    </div>
+  </section>
+
+  <section class="sect" id="interview">
+    <div class="k">Bloc 5 · L'interview</div>
+    <h2>L'interview.</h2>
+    <p class="lead">Extraits :</p>
+    <div class="card" style="margin-top:16px">
+      <div class="etq"><div class="q">« Expliquez votre métier en 30 secondes. Interdits : sur-mesure, indépendant, alignement d'intérêts. »</div></div>
+      <div class="etq"><div class="q">« Un membre a écrit : "j'ai fini par tout gérer moi-même en ETF, je dors mieux". Il a 8 M€. Convainquez-le, ou admettez qu'il a raison. »</div></div>
+      <div class="etq"><div class="q">« Avec des titres valorisés 100 M€, combien peut-on tirer en Lombard ? » (posée telle quelle dans le club, restée sans réponse)</div></div>
+      <div class="etq"><div class="q">« Racontez le dernier appel de marge que vous avez exécuté sur un client. Comment ça s'est passé, humainement. »</div></div>
+      <div class="etq"><div class="q">« Votre client vient de vendre. Il a le vide d'après, le "qui suis-je maintenant". Vous êtes équipés pour ça, ou vous gérez juste le cash ? »</div></div>
     </div>
   </section>
 
   <div class="gap">
-    <p class="big">Vous représentez Mirabaud ? <em>Prenez le contrôle de cette fiche.</em></p>
-    <p class="small">Des fondateurs en cession ou en post-cession consultent l'Écosystème pour choisir leurs conseils. Aujourd'hui, votre fiche ne leur donne aucune raison de vous écrire. La version vérifiée, elle, prend le rendez-vous à votre place. <a href="/f/demo-fiche-verifiee" style="color:#D9C68A">Voir un exemple de fiche vérifiée →</a></p>
+    <p class="big">Cette fiche est un aperçu. <em>Elle devient réelle en une heure d'interview.</em></p>
+    <p class="small">Des fondateurs en cession ou en post-cession consultent l'Écosystème pour choisir leurs conseils. Les questions ci-dessus sont les leurs, mot pour mot. La maison qui y répond la première prend la catégorie ; les suivantes afficheront « n'a pas encore répondu ».</p>
     <div class="btns">
       <a class="btn btn-inv" href="/referencement?institution=Mirabaud&cat=banques-privees&fiche=mirabaud&demande=referencer">Revendiquer cette fiche</a>
       <a class="btn btn-line" href="/fiche-verifiee?institution=Mirabaud&cat=banques-privees&fiche=mirabaud">Faire vérifier ma fiche</a>
@@ -142,7 +197,7 @@ h1.disp{font-size:46px;line-height:1.02}
 
   <div class="back"><a class="linkbtn" href="/ecosysteme#banques-privees">← Retour à la catégorie Banques privées</a></div>
 
-  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Fiche non revendiquée. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</p>
+  <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Aperçu du format « fiche étalon ». Les éléments marqués « interview à venir » seront remplis par la maison et validés par elle avant publication : leur absence ne traduit aucun refus de sa part. Être référencé ne vaut pas recommandation de l'Exit Club : il s'agit d'un recensement du marché, pas d'une sélection.</p>
 
   <div class="foot">
     <div>Exit Club · L'Écosystème de l'Exit · recensement du marché</div>
