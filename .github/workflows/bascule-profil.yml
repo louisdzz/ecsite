@@ -1,0 +1,276 @@
+name: Bascule fiche -> profil verifie
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bascule:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Identite git
+        run: |
+          git config user.name "Louis Debouzy"
+          git config user.email "louis.debouzy@gmail.com"
+
+      - name: Etape A - bascule du vocabulaire
+        run: |
+          python3 - <<'PY'
+          import glob, os, re, collections
+
+          def files(*pats):
+              out = []
+              for p in pats: out += sorted(glob.glob(p))
+              return [f for f in out if os.path.isfile(f)]
+
+          ALL = files("*.html", "f/*.html", "regions/*.html")
+
+          # ---------- 1. page produit : chapo, hierarchie des benefices, six elements ----------
+          p = "fiche-verifiee.html"; s = open(p, encoding="utf-8").read()
+          s = s.replace(
+           'content="Fiche vérifiée dans L\'Écosystème de l\'Exit : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Grille dégressive de 990 à 6 900 € HT par an."',
+           'content="Fiche vérifiée dans L\'Écosystème de l\'Exit : vos réponses sur les frais, la rémunération et les tarifs, votre agenda en accès direct, logo, équipe, one-pager, opportunité du moment. De 990 à 6 900 € HT par an."')
+          s = s.replace(
+           "Vous êtes recensé gratuitement, et vous le resterez. Mais un dirigeant qui vient d'encaisser sa cession ouvre trois fiches, pas trente. Il s'arrête sur celles qui montrent un visage, une équipe, un one-pager et un créneau à réserver.",
+           "Vous êtes recensé gratuitement, et vous le resterez. Ce que change une fiche vérifiée est le niveau d'information de votre interlocuteur au premier échange : il arrive en connaissant votre équipe, votre positionnement, vos tarifs.")
+          s = s.replace(
+           """          <li>Votre logo en tête de fiche</li>
+                    <li>Votre équipe, photos et LinkedIn</li>
+                    <li>Votre one-pager téléchargeable</li>
+                    <li>Votre opportunité du moment</li>
+                    <li>Votre lien de rendez-vous, en direct</li>""",
+           """          <li>Vos réponses aux questions que les exiters se posent : frais, rémunération, tarifs</li>
+                    <li>Votre agenda en accès direct, sans formulaire de contact</li>
+                    <li>Votre logo en tête de fiche</li>
+                    <li>Votre équipe, photos et LinkedIn</li>
+                    <li>Votre one-pager téléchargeable</li>
+                    <li>Votre opportunité du moment</li>""")
+          s = s.replace(
+           "Vous réglez, puis vous répondez à un seul email avec cinq éléments : votre logo, deux à cinq personnes de votre équipe, votre one-pager, l'opportunité que vous voulez mettre en avant, votre lien de rendez-vous.",
+           "Vous réglez, puis vous répondez à un seul email avec six éléments : vos réponses aux questions sur vos frais, votre rémunération et vos tarifs, votre lien d'agenda, votre logo, deux à cinq personnes de votre équipe, votre one-pager, l'opportunité que vous voulez mettre en avant.")
+          open(p, "w", encoding="utf-8").write(s)
+          print("etape 1 : page produit OK")
+
+          # ---------- 2. page merci : six elements, accords, objet du mail ----------
+          p = "merci-fiche-verifiee.html"; s = open(p, encoding="utf-8").read()
+          s = s.replace("Votre fiche attend cinq fichiers.", "Votre fiche attend six éléments.")
+          s = s.replace("      <li>Votre logo en PNG ou SVG, fond transparent.</li>",
+           "      <li>Vos réponses aux questions sur vos frais, votre rémunération et vos tarifs.</li>\n      <li>Votre logo en PNG ou SVG, fond transparent.</li>")
+          s = s.replace("subject=Fiche%20v%C3%A9rifi%C3%A9e%20%C2%B7%20mes%205%20%C3%A9l%C3%A9ments",
+                        "subject=Profil%20v%C3%A9rifi%C3%A9%20%C2%B7%20mes%206%20%C3%A9l%C3%A9ments")
+          s = s.replace("validé par la firme, qualifiée par l'équipe", "validé par la firme, qualifié par l'équipe")
+          open(p, "w", encoding="utf-8").write(s)
+          print("etape 2 : page merci OK")
+
+          # ---------- 3. fiche -> profil, tout le vocabulaire visible ----------
+          RULES = [
+           ("Voir un exemple de fiche vérifiée", "Voir un exemple de profil vérifié"),
+           ("Réservé aux fiches vérifiées", "Réservé aux profils vérifiés"),
+           ("Faire vérifier ma fiche", "Faire vérifier mon profil"),
+           ("Revendiquer cette fiche", "Revendiquer ce profil"),
+           ("Prenez le contrôle de cette fiche.", "Prenez le contrôle de ce profil."),
+           ("votre fiche ne leur donne aucune raison", "votre profil ne leur donne aucune raison"),
+           ("Fiche référencée · non revendiquée", "Profil référencé · non revendiqué"),
+           ("Fiche non revendiquée", "Profil non revendiqué"),
+           ("Fiche référencée", "Profil référencé"),
+           ("fiches vérifiées", "profils vérifiés"),
+           ("Fiche vérifiée", "Profil vérifié"),
+           ("fiche vérifiée", "profil vérifié"),
+           ("Fiche%20·%20correction", "Profil%20·%20correction"),
+           ("subject=Fiche%20", "subject=Profil%20"),
+           ("Régler et lancer ma fiche", "Régler et lancer mon profil"),
+           ("faites vérifier votre fiche", "faites vérifier votre profil"),
+           ("On met votre fiche en ligne", "On met votre profil en ligne"),
+           ("On met votre fiche à jour", "On met votre profil à jour"),
+           ("votre fiche est en ligne sous 48 h", "votre profil est en ligne sous 48 h"),
+           ("Votre fiche est en ligne sous 48 h", "Votre profil est en ligne sous 48 h"),
+           ("les afficher sur votre fiche", "les afficher sur votre profil"),
+           ("afficher ces éléments sur ma fiche", "afficher ces éléments sur mon profil"),
+           ("Cette fiche est un aperçu", "Ce profil est un aperçu"),
+           ("Fiche étalon · aperçu du nouveau format", "Profil étalon · aperçu du nouveau format"),
+           ("format « fiche étalon »", "format « profil étalon »"),
+           ("format fiche étalon", "format profil étalon"),
+           ("/* ---- Fiche étalon ---- */", "/* ---- Profil étalon ---- */"),
+           ("Fiche Secondaire", "Profil Secondaire"),
+           ("Fiche Assurance-vie", "Profil Assurance-vie"),
+           ("Fiche Multi-Family", "Profil Multi-Family"),
+           ("4&nbsp;225 fiches au total", "4&nbsp;225 profils au total"),
+           ("Chaque logo mène à la fiche publique", "Chaque logo mène au profil public"),
+           ("Fiche complète que vous contrôlez", "Profil complet que vous contrôlez"),
+           ("Fiche de démonstration", "Profil de démonstration"),
+           ("Le contenu de la fiche", "Le contenu du profil"),
+           ("Votre fiche est inchangée", "Votre profil est inchangé"),
+           ("Votre fiche aujourd'hui", "Votre profil aujourd'hui"),
+           ("avec sa fiche de base", "avec son profil de base"),
+           ("Votre logo en tête de fiche", "Votre logo en tête de profil"),
+           ("La fiche remplace le statut", "Le profil remplace le statut"),
+           ("depuis les fiches et les CTA", "depuis les profils et les CTA"),
+           ("Votre fiche vérifiée", "Votre profil vérifié"),
+           ("Votre fiche attend", "Votre profil attend"),
+           ("Votre fiche est lancée", "Votre profil est lancé"),
+           ("ouvrez une fiche vérifiée", "ouvrez un profil vérifié"),
+           ("votre fiche.", "votre profil."),
+          ]
+          TITRE = re.compile(r'(?<![\w%])Fiche (?=(?:Conseillers|Fonds|Notaires|Avocats|Banques|Multi-Family|Experts|Family|Boutiques|Cabinets|Assureurs|Plateformes|Sociétés|Chasseurs|Courtiers|Gérants|Banque|Groupes))')
+          ACCORDS = [("Une profil","Un profil"),("une profil","un profil"),("Cette profil","Ce profil"),
+           ("cette profil","ce profil"),("La profil","Le profil"),("la profil","le profil"),
+           ("ma profil","mon profil"),("sa profil","son profil"),("profil vérifiée","profil vérifié"),
+           ("profils vérifiées","profils vérifiés"),("profil référencée","profil référencé"),
+           ("profil non revendiquée","profil non revendiqué"),("profil publique","profil public"),
+           ("profil complète","profil complet")]
+          n = 0
+          for path in ALL:
+              s = open(path, encoding="utf-8").read(); o = s
+              for a, b in RULES: s = s.replace(a, b)
+              s = TITRE.sub("Profil ", s)
+              for a, b in ACCORDS: s = s.replace(a, b)
+              if s != o:
+                  open(path, "w", encoding="utf-8").write(s); n += 1
+          print(f"etape 3 : {n} fichiers basculés en « profil »")
+
+          # ---------- controle ----------
+          bad = []
+          for path in ALL:
+              s = open(path, encoding="utf-8").read()
+              for motif in ["une profil", "Une profil", "cette profil", "profil vérifiée", "fiche vérifiée", "Fiche vérifiée"]:
+                  if motif in s: bad.append((path, motif))
+          if bad:
+              print("!! restes a verifier :", bad[:5]); raise SystemExit(1)
+          print("controle : aucun reste, aucun accord casse")
+          PY
+
+      - name: Commit A
+        run: |
+          git add -A
+          git commit -F - <<'MSG'
+          Ecosysteme: page produit et bascule fiche -> profil verifie
+
+          - page produit: nouveau chapo, benefices reordonnes (reponses et agenda en tete), six elements, meta description
+          - page merci alignee sur six elements, les reponses frais/remuneration/tarifs manquaient
+          - tout le vocabulaire visible du site passe de fiche a profil
+          - accords corriges apres bascule du genre
+          MSG
+
+      - name: Etape B - rattrapage des trois ecarts
+        run: |
+          python3 - <<'PY2'
+          #!/usr/bin/env python3
+          # Rattrapage des trois ecarts releves apres passage de rebuild.py sur main.
+          # Idempotent : peut etre relance sans dommage. Chaque correction est verifiee,
+          # une correction qui ne s'applique pas est signalee, pas silencieuse.
+
+          import glob, os, re, sys
+
+          def files(*pats):
+              out = []
+              for p in pats: out += sorted(glob.glob(p))
+              return [f for f in out if os.path.isfile(f)]
+
+          ALL = files("*.html", "f/*.html", "regions/*.html")
+          if not ALL:
+              sys.exit("!! aucun html trouve : lancer depuis la racine du repo ecsite")
+
+          rapport = []
+
+          def note(ok, texte):
+              rapport.append((ok, texte))
+              print(("  ok   " if ok else "  ECHEC") + " " + texte)
+
+          # ---------- 1. « agenda en acces direct » dans la liste des benefices ----------
+          p = "fiche-verifiee.html"; s = open(p, encoding="utf-8").read(); o = s
+          AGENDA = "<li>Votre agenda en accès direct, sans formulaire de contact</li>"
+          if AGENDA in s:
+              note(True, "1. agenda deja present dans les benefices, rien a faire")
+          else:
+              ancre = re.search(r'([ \t]*)<li>Votre logo en tête de profil</li>', s)
+              if not ancre:
+                  note(False, "1. ancre « <li>Votre logo en tête de profil</li> » introuvable, "
+                              "liste des benefices a inspecter a la main")
+              else:
+                  ind = ancre.group(1)
+                  s = s[:ancre.start()] + ind + AGENDA + "\n" + s[ancre.start():]
+                  note(AGENDA in s, "1. agenda insere en tete de liste, avant le logo")
+
+          # ---------- 2. delai : la page produit fait foi, 7 jours partout ----------
+          s = s.replace("Votre profil est en ligne sous 48 h", "Votre profil est en ligne sous 7 jours")
+          s = s.replace("votre profil est en ligne sous 48 h", "votre profil est en ligne sous 7 jours")
+          open(p, "w", encoding="utf-8").write(s)
+          note("sous 48 h" not in s, "2a. page produit sans « 48 h »")
+
+          p = "merci-fiche-verifiee.html"; m = open(p, encoding="utf-8").read()
+          m = m.replace("votre profil est en ligne sous 48 h", "votre profil est en ligne sous 7 jours")
+          m = m.replace("Votre profil est en ligne sous 48 h", "Votre profil est en ligne sous 7 jours")
+          note("sous 48 h" not in m, "2b. page merci sans « 48 h »")
+
+          INTERVIEW = ('  <p class="lede" style="margin-top:1.2rem">Une fois vos éléments reçus, on cale '
+                       "une heure d'interview en visio. C'est la dernière étape avant la mise en ligne.</p>")
+          if "heure d'interview" in m:
+              note(True, "2c. mention de l'interview deja presente sur la page merci")
+          else:
+              cible = re.search(r'(<a class="btn" href="mailto:louis@exit\.club\?subject=Profil[^<]*</a>)', m)
+              if not cible:
+                  note(False, "2c. bouton d'envoi introuvable sur la page merci, mention interview a ajouter a la main")
+              else:
+                  m = m[:cible.end()] + "\n" + INTERVIEW + m[cible.end():]
+                  note("heure d'interview" in m, "2c. mention de l'interview ajoutee sous le bouton d'envoi")
+          open(p, "w", encoding="utf-8").write(m)
+
+          # ---------- 3. objet de mail encode : « Profil vérifiée » -> « Profil vérifié » ----------
+          ENC = [("Profil%20v%C3%A9rifi%C3%A9e", "Profil%20v%C3%A9rifi%C3%A9"),
+                 ("profil%20v%C3%A9rifi%C3%A9e", "profil%20v%C3%A9rifi%C3%A9"),
+                 ("Profils%20v%C3%A9rifi%C3%A9es", "Profils%20v%C3%A9rifi%C3%A9s"),
+                 ("profils%20v%C3%A9rifi%C3%A9es", "profils%20v%C3%A9rifi%C3%A9s")]
+          n = 0
+          for path in ALL:
+              s = open(path, encoding="utf-8").read(); o = s
+              for a, b in ENC: s = s.replace(a, b)
+              if s != o:
+                  open(path, "w", encoding="utf-8").write(s); n += 1
+          note(True, f"3. accords encodes corriges dans {n} fichier(s)")
+
+          # ---------- controle elargi : texte brut ET url-encode ----------
+          MOTIFS = ["une profil", "Une profil", "cette profil", "profil vérifiée", "profils vérifiées",
+                    "fiche vérifiée", "Fiche vérifiée", "fiches vérifiées",
+                    "v%C3%A9rifi%C3%A9e%20", "v%C3%A9rifi%C3%A9es",
+                    "Fiche%20v", "fiche%20v", "sous 48 h"]
+          bad = []
+          for path in ALL:
+              s = open(path, encoding="utf-8").read()
+              for motif in MOTIFS:
+                  if motif in s: bad.append((path, motif))
+          if bad:
+              print("!! restes a verifier :", bad[:8]); sys.exit(1)
+          note(True, "controle elargi : aucun reste, texte brut et url-encode")
+
+          echecs = [t for ok, t in rapport if not ok]
+          if echecs:
+              print("\n!! " + str(len(echecs)) + " correction(s) non appliquee(s), ne pas committer en l'etat :")
+              for t in echecs: print("   - " + t)
+              sys.exit(1)
+          print("\nrattrapage complet : les trois ecarts sont corriges")
+          PY2
+
+      - name: Commit B
+        run: |
+          git add -A
+          git commit -F - <<'MSG2'
+          Ecosysteme: rattrapage agenda, delai 7 jours, objet de mail encode
+
+          - benefice « votre agenda en acces direct, sans formulaire de contact » remis dans la liste
+          - delai unifie a 7 jours sur la page produit et la page merci, les deux se contredisaient
+          - mention de l'heure d'interview ajoutee sur la page merci, l'acheteur ne la connaissait pas
+          - objet de mail « Profil verifiee » corrige en « Profil verifie » dans le pied de page produit
+          - controle elargi aux chaines url-encodees, il ne voyait que le texte brut
+          MSG2
+
+      - name: Push
+        run: |
+          git log --oneline -3
+          git push origin HEAD:main
