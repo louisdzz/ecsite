@@ -1,0 +1,53 @@
+name: Appliquer un patch
+
+on:
+  push:
+    branches: [main]
+    paths: ['patches/**.py']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+      LANG: C.UTF-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Identite git
+        run: |
+          git config user.name "Louis Debouzy"
+          git config user.email "louis.debouzy@gmail.com"
+
+      - name: Appliquer chaque patch, un commit par patch
+        run: |
+          shopt -s nullglob
+          liste=(patches/*.py)
+          if [ ${#liste[@]} -eq 0 ]; then
+            echo "aucun patch dans patches/, rien a faire"
+            exit 0
+          fi
+          for f in "${liste[@]}"; do
+            echo "=============================================="
+            echo ">> $f"
+            echo "=============================================="
+            python3 "$f"
+            awk '/^#!/ {next} /^#/ {sub(/^#[ ]?/, ""); print; next} {exit}' "$f" > /tmp/msg.txt
+            if [ ! -s /tmp/msg.txt ]; then
+              echo "Patch: $(basename "$f" .py)" > /tmp/msg.txt
+            fi
+            git rm -q "$f"
+            git add -A
+            echo "--- message de commit ---"
+            cat /tmp/msg.txt
+            git commit -q -F /tmp/msg.txt
+          done
+
+      - name: Push
+        run: |
+          git log --oneline -5
+          git push origin HEAD:main
