@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Faire vérifier ma fiche · L'Écosystème de l'Exit | exit.club</title>
-<meta name="description" content="Fiche vérifiée dans L'Écosystème de l'Exit : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Grille dégressive de 990 à 6 900 € HT par an.">
+<title>Faire vérifier mon profil · L'Écosystème de l'Exit | exit.club</title>
+<meta name="description" content="Profil vérifié dans L'Écosystème de l'Exit : vos réponses sur les frais, la rémunération et les tarifs, votre agenda en accès direct, logo, équipe, one-pager, opportunité du moment. De 990 à 6 900 € HT par an.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://www.exit.club/fiche-verifiee">
 <style>
@@ -71,15 +71,15 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
   </div>
 
   <section class="hero">
-    <p class="over">L'Écosystème de l'Exit · Fiche vérifiée</p>
+    <p class="over">L'Écosystème de l'Exit · Profil vérifié</p>
     <h1 class="disp">Votre confrère d'à côté <span style="font-style:italic;color:var(--accent)">a déjà son logo.</span></h1>
-    <p class="lede">Vous êtes recensé gratuitement, et vous le resterez. Mais un dirigeant qui vient d'encaisser sa cession ouvre trois fiches, pas trente. Il s'arrête sur celles qui montrent un visage, une équipe, un one-pager et un créneau à réserver.</p>
+    <p class="lede">Vous êtes recensé gratuitement, et vous le resterez. Ce que change un profil vérifié est le niveau d'information de votre interlocuteur au premier échange : il arrive en connaissant votre équipe, votre positionnement, vos tarifs.</p>
   </section>
 
   <section class="sec">
     <div class="two">
       <div class="box dim">
-        <p class="t">Votre fiche aujourd'hui</p>
+        <p class="t">Votre profil aujourd'hui</p>
         <ul>
           <li>Nom de la maison</li>
           <li>Catégorie</li>
@@ -89,10 +89,10 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
         </ul>
       </div>
       <div class="box">
-        <p class="t">Votre fiche vérifiée</p>
+        <p class="t">Votre profil vérifié</p>
         <ul>
           <li><b>Vos réponses aux questions que les exiters se posent : frais, rémunération, tarifs</b></li>
-        <li>Votre logo en tête de fiche</li>
+        <li>Votre logo en tête de profil</li>
           <li>Votre équipe, photos et LinkedIn</li>
           <li>Votre one-pager téléchargeable</li>
           <li>Votre opportunité du moment</li>
@@ -197,7 +197,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
       </div>
       <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
       <div class="msg" id="msg"></div>
-      <button class="go" type="submit" id="go">Régler et lancer ma fiche</button>
+      <button class="go" type="submit" id="go">Régler et lancer mon profil</button>
       <p class="fine" style="margin:0">Paiement sécurisé par Stripe. Facture automatique, numéro de TVA intracommunautaire accepté.</p>
     </form>
   </section>
@@ -206,7 +206,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
 
   <div class="foot">
     <div>Exit Club · L'Écosystème de l'Exit</div>
-    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="/referencement">Se référencer gratuitement</a> · <a href="mailto:louis@exit.club?subject=Fiche%20v%C3%A9rifi%C3%A9e%20%C2%B7%20question">Une question ? Écrivez-moi</a></div>
+    <div><a href="/ecosysteme">L'Écosystème</a> · <a href="/referencement">Se référencer gratuitement</a> · <a href="mailto:louis@exit.club?subject=Profil%20v%C3%A9rifi%C3%A9e%20%C2%B7%20question">Une question ? Écrivez-moi</a></div>
   </div>
 
 </div>
@@ -221,7 +221,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
 
   var msg = document.getElementById("msg"), go = document.getElementById("go");
-  if (q.get("annule")) { msg.className = "msg err"; msg.textContent = "Paiement interrompu. Votre fiche est inchangée, vous pouvez reprendre quand vous voulez."; }
+  if (q.get("annule")) { msg.className = "msg err"; msg.textContent = "Paiement interrompu. Votre profil est inchangé, vous pouvez reprendre quand vous voulez."; }
 
   function euros(n){ return String(n).replace(/\B(?=(\d{3})+(?!\d))/g, " ") + " €"; }
   function paintPrix(){
@@ -277,12 +277,12 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
         if (r.ok && r.j && r.j.checkoutUrl) { location.href = r.j.checkoutUrl; return; }
         msg.className = "msg err";
         msg.textContent = (r.j && r.j.error) || "Le paiement n'a pas pu s'ouvrir, réessayez.";
-        go.disabled = false; go.textContent = "Régler et lancer ma fiche";
+        go.disabled = false; go.textContent = "Régler et lancer mon profil";
       })
       .catch(function(){
         msg.className = "msg err";
         msg.textContent = "Connexion impossible, réessayez dans un instant.";
-        go.disabled = false; go.textContent = "Régler et lancer ma fiche";
+        go.disabled = false; go.textContent = "Régler et lancer mon profil";
       });
   });
 })();

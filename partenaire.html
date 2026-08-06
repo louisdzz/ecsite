@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Portail partenaire · L'Écosystème de l'Exit | exit.club</title>
-<meta name="description" content="Déposez et mettez à jour le contenu de votre fiche vérifiée de l'Écosystème de l'Exit : équipe, présentation, one-pager, opportunité du moment, prise de rendez-vous.">
+<meta name="description" content="Déposez et mettez à jour le contenu de votre profil vérifié de l'Écosystème de l'Exit : équipe, présentation, one-pager, opportunité du moment, prise de rendez-vous.">
 <meta name="robots" content="noindex, nofollow">
 <link rel="canonical" href="https://www.exit.club/partenaire">
 <style>
@@ -55,8 +55,8 @@ button:disabled{opacity:.55;cursor:wait}
 
   <section class="hero">
     <p class="over">Portail partenaire</p>
-    <h1 class="disp">Le contenu de <span style="font-style:italic;color:var(--accent)">votre fiche.</span></h1>
-    <p class="lede">Déposez, en une fois, tout ce qui alimente votre fiche vérifiée de l'Écosystème : équipe, présentation, one-pager de votre fonds, opportunité du moment, prise de rendez-vous. On met votre fiche en ligne et on garde la trace pour vos mises à jour. Un document confidentiel ? Envoyez-le à <a href="mailto:louis@exit.club" style="color:var(--accent)">louis@exit.club</a>.</p>
+    <h1 class="disp">Le contenu de <span style="font-style:italic;color:var(--accent)">votre profil.</span></h1>
+    <p class="lede">Déposez, en une fois, tout ce qui alimente votre profil vérifié de l'Écosystème : équipe, présentation, one-pager de votre fonds, opportunité du moment, prise de rendez-vous. On met votre profil en ligne et on garde la trace pour vos mises à jour. Un document confidentiel ? Envoyez-le à <a href="mailto:louis@exit.club" style="color:var(--accent)">louis@exit.club</a>.</p>
   </section>
 
   <form id="f" novalidate>
@@ -91,16 +91,16 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="grp"><label for="telephone">Téléphone <span class="opt">(optionnel)</span></label><input type="tel" id="telephone" name="telephone" autocomplete="tel"></div>
     <div class="grp"><label for="linkedin">LinkedIn <span class="opt">(optionnel)</span></label><input type="url" id="linkedin" name="linkedin" placeholder="https://linkedin.com/in/…"></div>
 
-    <div class="sec">Le contenu de la fiche</div>
+    <div class="sec">Le contenu du profil</div>
     <div class="grp"><label for="presentation">Présentation &amp; expertise post-exit</label><textarea id="presentation" name="presentation" placeholder="Qui vous êtes, ce que vous faites pour les fondateurs après leur cession, ce qui vous distingue."></textarea></div>
     <div class="grp"><label for="equipe">Équipe <span class="opt">(un par ligne : Prénom Nom — rôle)</span></label><textarea id="equipe" name="equipe" placeholder="Pierre Marin — Co-fondateur & CEO&#10;…"></textarea></div>
-    <div class="grp"><label for="photos">Photos de l'équipe <span class="opt">(optionnel, plusieurs fichiers)</span></label><input type="file" id="photos" name="photos" accept="image/*" multiple><span class="hint">Un portrait par personne, nommé au nom du dirigeant si possible. En les déposant, vous nous autorisez à les afficher sur votre fiche.</span></div>
+    <div class="grp"><label for="photos">Photos de l'équipe <span class="opt">(optionnel, plusieurs fichiers)</span></label><input type="file" id="photos" name="photos" accept="image/*" multiple><span class="hint">Un portrait par personne, nommé au nom du dirigeant si possible. En les déposant, vous nous autorisez à les afficher sur votre profil.</span></div>
     <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(fichier : PDF, PPT, image)</span></label><input type="file" id="deck" name="deck" accept=".pdf,.ppt,.pptx,.key,application/pdf,image/*"><span class="hint">Le fichier arrive directement dans notre base. Document très confidentiel ? Vous pouvez aussi l'envoyer à louis@exit.club.</span></div>
     <div class="grp"><label for="opportunite">Opportunité du moment</label><textarea id="opportunite" name="opportunite" placeholder="Le fonds en cours de levée, l'offre à mettre en avant ce trimestre."></textarea></div>
     <div class="grp"><label for="actualite">Actualité récente <span class="opt">(optionnel)</span></label><textarea id="actualite" name="actualite" placeholder="Nomination, opération, distinction…"></textarea></div>
     <div class="grp"><label for="rdv">Lien de prise de rendez-vous <span class="opt">(Calendly, cal.com…)</span></label><input type="url" id="rdv" name="rdv" placeholder="https://…"></div>
 
-    <label class="consent"><input type="checkbox" id="consentement" name="consentement"><span>J'autorise l'Exit Club à afficher ces éléments sur ma fiche de l'Écosystème de l'Exit, et je certifie être habilité à représenter cette institution.</span></label>
+    <label class="consent"><input type="checkbox" id="consentement" name="consentement"><span>J'autorise l'Exit Club à afficher ces éléments sur mon profil de l'Écosystème de l'Exit, et je certifie être habilité à représenter cette institution.</span></label>
 
     <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
     <div class="msg" id="msg"></div>
@@ -156,7 +156,7 @@ button:disabled{opacity:.55;cursor:wait}
     fetch(API, {method:"POST", body: fd})
       .then(function(r){ return r.json().then(function(j){ return {ok:r.ok, j:j}; }); })
       .then(function(r){
-        if (r.ok) { f.style.display="none"; msg.className="msg ok"; msg.innerHTML="<b>Bien reçu.</b> Vos éléments et vos fichiers sont arrivés. On met votre fiche à jour et on revient vers vous. Merci !"; msg.scrollIntoView({behavior:"smooth"}); }
+        if (r.ok) { f.style.display="none"; msg.className="msg ok"; msg.innerHTML="<b>Bien reçu.</b> Vos éléments et vos fichiers sont arrivés. On met votre profil à jour et on revient vers vous. Merci !"; msg.scrollIntoView({behavior:"smooth"}); }
         else { msg.className="msg err"; msg.textContent = (r.j && r.j.error) || "Une erreur est survenue, réessayez."; go.disabled=false; go.textContent="Envoyer"; }
       })
       .catch(function(){ msg.className="msg err"; msg.textContent="Connexion impossible, réessayez dans un instant."; go.disabled=false; go.textContent="Envoyer"; });

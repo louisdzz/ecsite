@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Se référencer · L'Écosystème de l'Exit | exit.club</title>
-<meta name="description" content="Demandez votre référencement gratuit dans L'Écosystème de l'Exit ou faites vérifier votre fiche. Réponse sous 48h.">
+<meta name="description" content="Demandez votre référencement gratuit dans L'Écosystème de l'Exit ou faites vérifier votre profil. Réponse sous 48h.">
 <link rel="canonical" href="https://www.exit.club/referencement">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
@@ -52,15 +52,15 @@ button:disabled{opacity:.55;cursor:wait}
   <section class="hero">
     <p class="over">L'Écosystème de l'Exit</p>
     <h1 class="disp">Votre place <span style="font-style:italic;color:var(--accent)">dans l'Écosystème.</span></h1>
-    <p class="lede">Vous êtes un acteur de l'exit ? Le référencement de base est gratuit. La fiche vérifiée débloque tout : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Réponse sous 48h.</p>
+    <p class="lede">Vous êtes un acteur de l'exit ? Le référencement de base est gratuit. Le profil vérifié débloque tout : logo, équipe, one-pager, opportunité du moment, prise de rendez-vous directe. Réponse sous 48h.</p>
   </section>
 
   <form id="f" novalidate>
     <div>
       <label>Votre demande</label>
       <div class="radios" id="radios">
-        <label class="radio"><input type="radio" name="demande" value="Être référencé (gratuit)"><span><b>Être référencé (gratuit)</b><span>Votre firme apparaît dans sa catégorie, avec sa fiche de base.</span></span></label>
-        <label class="radio"><input type="radio" name="demande" value="Fiche vérifiée"><span><b>Faire vérifier ma fiche</b><span>Fiche complète que vous contrôlez, badge Exit Club, contact direct. Après un entretien de qualification. <a href="/f/demo-fiche-verifiee" target="_blank" style="color:var(--accent)">Voir un exemple →</a></span></span></label>
+        <label class="radio"><input type="radio" name="demande" value="Être référencé (gratuit)"><span><b>Être référencé (gratuit)</b><span>Votre firme apparaît dans sa catégorie, avec son profil de base.</span></span></label>
+        <label class="radio"><input type="radio" name="demande" value="Profil vérifié"><span><b>Faire vérifier mon profil</b><span>Profil complet que vous contrôlez, badge Exit Club, contact direct. Après un entretien de qualification. <a href="/f/demo-fiche-verifiee" target="_blank" style="color:var(--accent)">Voir un exemple →</a></span></span></label>
       </div>
     </div>
     <div>
@@ -117,7 +117,7 @@ button:disabled{opacity:.55;cursor:wait}
 (function(){
   var API = "https://exit-club-app.vercel.app/api/ecosysteme-lead";
   var q = new URLSearchParams(location.search);
-  // Préremplissage depuis les fiches et les CTA de catégorie
+  // Préremplissage depuis les profils et les CTA de catégorie
   if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
   var catMap = {"banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire tech & pré-IPO"};
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
