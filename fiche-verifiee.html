@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Faire vérifier mon profil · L'Écosystème de l'Exit | exit.club</title>
-<meta name="description" content="Profil vérifié dans L'Écosystème de l'Exit : vos réponses sur les frais, la rémunération et les tarifs, votre agenda en accès direct, logo, équipe, one-pager, opportunité du moment. De 990 à 6 900 € HT par an.">
+<meta name="description" content="Profil vérifié dans L'Écosystème de l'Exit : vos réponses sur les frais, la rémunération et les tarifs, votre agenda en accès direct, logo, équipe, one-pager, opportunité du moment. 2 400 € HT par an.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://www.exit.club/fiche-verifiee">
 <style>
@@ -35,7 +35,7 @@ h2.disp{font-size:27px;line-height:1.12;margin:0 0 6px}
 .cad{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:4px;background:var(--card);margin:22px 0 0}
 .cad button{font-size:13.5px;font-weight:600;padding:8px 18px;border-radius:999px;border:0;background:transparent;color:var(--muted);cursor:pointer}
 .cad button.on{background:var(--ink);color:var(--paper)}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:18px 0 0}
+.grid{display:grid;grid-template-columns:1fr;gap:14px;margin:18px 0 0}
 .pal{border:1px solid var(--line);border-radius:16px;padding:18px 20px;background:var(--card);cursor:pointer;display:block;position:relative}
 .pal.on{border-color:var(--accent);background:#F2F0DF;box-shadow:0 0 0 1px var(--accent) inset}
 .pal input{position:absolute;opacity:0}
@@ -59,7 +59,7 @@ button.go:disabled{opacity:.55;cursor:wait}
 .foot{border-top:1px solid var(--line);margin-top:52px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
 .foot a{color:var(--muted);text-decoration:none}
 a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
-@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:33px}.two,.grid{grid-template-columns:1fr}}
+@media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:33px}h1.disp br{display:none}.two,.grid{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -72,7 +72,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
 
   <section class="hero">
     <p class="over">L'Écosystème de l'Exit · Profil vérifié</p>
-    <h1 class="disp">Votre confrère d'à côté <span style="font-style:italic;color:var(--accent)">a déjà son logo.</span></h1>
+    <h1 class="disp">Votre profil répond aux questions que les exiters posent. <br><span style="font-style:italic;color:var(--accent)">Frais, rémunération, tarifs.</span></h1>
     <p class="lede">Vous êtes recensé gratuitement, et vous le resterez. Ce que change un profil vérifié est le niveau d'information de votre interlocuteur au premier échange : il arrive en connaissant votre équipe, votre positionnement, vos tarifs.</p>
   </section>
 
@@ -91,7 +91,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
       <div class="box">
         <p class="t">Votre profil vérifié</p>
         <ul>
-          <li><b>Vos réponses aux questions que les exiters se posent : frais, rémunération, tarifs</b></li>
+          <li><b>Vos réponses aux questions de votre catégorie, écrites puis validées par vous</b></li>
           <li>Votre agenda en accès direct, sans formulaire de contact</li>
           <li>Votre logo en tête de profil</li>
           <li>Votre équipe, photos et LinkedIn</li>
@@ -118,7 +118,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
 
 <section class="sec">
     <h2 class="disp">Ce que vous payez</h2>
-    <p class="q">Vous payez selon la taille de votre maison, pas selon votre appétit. La grille se lit en encours pour les CGP et les banques privées, en taille de structure pour les autres catégories. Le palier est arrêté avec vous à la qualification.</p>
+    <p class="q">Vous payez le même prix que toutes les maisons de l'Écosystème, quelle que soit votre catégorie, quelle que soit votre taille. 2 400 € HT par an, ou 240 € HT par mois. La qualification porte sur ce que votre maison accepte de publier.</p>
 
     <div class="cad" id="cad">
       <button type="button" data-c="an" class="on">Annuel · 2 mois offerts</button>
@@ -126,37 +126,19 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
     </div>
 
     <div class="grid" id="paliers">
-      <label class="pal" data-p="p1" data-an="990" data-mois="99">
-        <input type="radio" name="palier" value="p1">
-        <div class="n">Cabinet indépendant</div>
-        <div class="p"><b class="v">990 €</b> <span class="u">HT / an</span></div>
-        <div class="c">Moins de 100 M€ d'encours, ou cabinet mono-site</div>
-      </label>
-      <label class="pal" data-p="p2" data-an="2000" data-mois="200">
-        <input type="radio" name="palier" value="p2">
-        <div class="n">Maison établie</div>
-        <div class="p"><b class="v">2 000 €</b> <span class="u">HT / an</span></div>
-        <div class="c">100 à 500 M€ d'encours, ou plusieurs bureaux</div>
-      </label>
-      <label class="pal" data-p="p3" data-an="3900" data-mois="390">
-        <input type="radio" name="palier" value="p3">
-        <div class="n">Grande maison</div>
-        <div class="p"><b class="v">3 900 €</b> <span class="u">HT / an</span></div>
-        <div class="c">500 M€ à 2 Md€ d'encours, ou réseau national</div>
-      </label>
-      <label class="pal" data-p="p4" data-an="6900" data-mois="690">
-        <input type="radio" name="palier" value="p4">
-        <div class="n">Institution</div>
-        <div class="p"><b class="v">6 900 €</b> <span class="u">HT / an</span></div>
-        <div class="c">Plus de 2 Md€ d'encours, banque, réseau international</div>
+      <label class="pal" data-p="standard" data-an="2400" data-mois="240">
+        <input type="radio" name="palier" value="standard">
+        <div class="n">Profil vérifié</div>
+        <div class="p"><b class="v">2 400 €</b> <span class="u">HT / an</span></div>
+        <div class="c">Toutes catégories, toutes tailles de maison</div>
       </label>
     </div>
-    <p class="fine">Prix hors taxes, TVA ajoutée au paiement. Carte bancaire ou prélèvement SEPA. Sans engagement de reconduction : vous arrêtez quand vous voulez, votre maison reste recensée gratuitement. Vous n'êtes pas retenu à la qualification : vous êtes remboursé intégralement.</p>
+    <p class="fine">Prix hors taxes, TVA ajoutée au paiement. Carte bancaire ou prélèvement SEPA. Sans engagement de reconduction : vous arrêtez quand vous voulez, votre maison reste recensée gratuitement. Vous êtes remboursé intégralement si vous renoncez à la qualification. Tarif de lancement du 6 août 2026, bloqué à vie pour les maisons qui souscrivent avant la publication de la page de leur catégorie.</p>
   </section>
 
   <section class="sec">
     <h2 class="disp">Ce qu'on vous demande</h2>
-    <p class="q">Vous réglez, puis deux choses. Un email avec vos pièces : logo, équipe, one-pager, opportunité du moment, lien de rendez-vous. Et une heure d'interview pour répondre aux questions de votre catégorie : nous écrivons tout, vous validez tout avant publication. Votre profil est en ligne sous 7 jours.</p>
+    <p class="q">Vous réglez, puis deux choses. Un email avec vos pièces : logo, équipe, one-pager, opportunité du moment, lien de rendez-vous. Et une heure d'interview sans filtre pour répondre aux questions de votre catégorie : nous écrivons tout, vous validez tout avant publication. Votre profil est en ligne sous 7 jours.</p>
 
     <form id="f" novalidate>
       <div>
@@ -247,7 +229,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
     r.addEventListener("change", paintPal);
   });
   var pre = q.get("palier");
-  var first = document.querySelector('input[name=palier][value="' + (pre || "p1") + '"]') ||
+  var first = document.querySelector('input[name=palier][value="' + (pre || "standard") + '"]') ||
               document.querySelector('input[name=palier]');
   first.checked = true;
   paintPal(); paintPrix();
@@ -268,7 +250,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
       fiche: q.get("fiche") || ""
     };
     if (!d.palier || !d.institution || !d.categorie || !d.nom || !/^\S+@\S+\.\S+$/.test(d.email)) {
-      msg.className = "msg err"; msg.textContent = "Merci de choisir un palier et de remplir votre maison, votre catégorie, votre nom et un email valide."; return;
+      msg.className = "msg err"; msg.textContent = "Merci de remplir votre maison, votre catégorie, votre nom et un email valide."; return;
     }
     go.disabled = true; go.textContent = "Ouverture du paiement…";
     fetch(API, {method:"POST", headers:{"Content-Type":"application/json"}, body: JSON.stringify(d)})
