@@ -197,6 +197,11 @@ border:1px solid var(--line);border-radius:100px;background:var(--card)}
 /*SLOTS_CSS_END*/
 .cats>*{min-width:0}
 @media(max-width:760px){body{overflow-x:clip}#ligue-cgp{overflow-x:auto}.league table,.league-t table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}}
+.qres{margin-top:9px;font-size:13px;color:var(--muted);min-height:1px}
+.qres b{color:var(--ink);font-weight:600}
+.qres.none{color:var(--accent)}
+.qres a{color:inherit;border-bottom:1px dotted currentColor;text-decoration:none}
+body.searching #ligue-cgp,body.searching #ligues,body.searching #actualites{display:none}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "L'Écosystème de l'Exit", "url": "https://www.exit.club/ecosysteme", "description": "Le recensement public des acteurs de l'exit en France : banques d'affaires, boutiques M&A, multi-family offices, banques privées, avocats, experts-comptables et auditeurs, notaires, CGP, fonds.", "publisher": {"@type": "Organization", "name": "Exit Club", "url": "https://www.exit.club"}}</script>
 </head>
@@ -276,6 +281,7 @@ border:1px solid var(--line);border-radius:100px;background:var(--card)}
 
 <div class="toolbar">
     <input class="search" id="q" type="search" placeholder="Rechercher une institution parmi les 4222 recensées…" autocomplete="off">
+    <div class="qres" id="qres"></div>
     <div class="jump"><a href="#banques-affaires">Banques d'affaires (M&amp;A)</a> <a href="#boutiques-ma">Boutiques M&amp;A</a> <a href="#mfo">Multi-Family Offices</a> <a href="#banques-privees">Banques privées</a> <a href="#avocats">Avocats d'affaires &amp; fiscalistes</a> <a href="#experts-comptables">Experts-comptables &amp; auditeurs</a> <a href="#notaires">Notaires patrimoniaux</a> <a href="#cgp">Conseillers en gestion de patrimoine (CGP)</a> <a href="#assurance-vie-lux">Assurance-vie luxembourgeoise</a> <a href="#treso">Trésorerie &amp; monétaire</a> <a href="#fonds-pe">Fonds de Private Equity &amp; LBO</a> <a href="#fonds-dette">Fonds de dette</a> <a href="#fonds-vc">Fonds de Venture Capital</a> <a href="#secondaire">Secondaire tech &amp; pré-IPO</a></div>
   </div>
 
@@ -4987,13 +4993,17 @@ border:1px solid var(--line);border-radius:100px;background:var(--card)}
 <script>
 (function(){
   var q=document.getElementById('q');
-  var norm=function(s){return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()};
+  var norm=function(s){return s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'')};
   var lis=[].slice.call(document.querySelectorAll('.firms li'));
   lis.forEach(function(li){li.dataset.n=norm(li.textContent)});
+  var res=document.getElementById('qres');
   q.addEventListener('input',function(){
     var v=norm(q.value.trim());
+    var n=0;
+    document.body.classList.toggle('searching',!!v);
     lis.forEach(function(li){
       var show=!v||li.dataset.n.indexOf(v)>-1;
+      if(show)n++;
       li.classList.toggle('hidden',!show);
       li.classList.toggle('hit',!!v&&show);
     });
@@ -5001,6 +5011,19 @@ border:1px solid var(--line);border-radius:100px;background:var(--card)}
       var any=cat.querySelector('.firms li:not(.hidden)');
       cat.style.display=any?'':'none';
     });
+    if(!res)return;
+    if(!v){res.textContent='';res.className='qres';return}
+    if(n){
+      res.className='qres';
+      res.innerHTML='<b>'+n+'</b> '+(n>1?'acteurs trouv\u00e9s':'acteur trouv\u00e9');
+      return;
+    }
+    res.className='qres none';
+    res.textContent='Aucun acteur ne correspond \u00e0 \u00ab '+q.value.trim()+' \u00bb. ';
+    var a=document.createElement('a');
+    a.href='mailto:louis@exit.club?subject=%C3%89cosyst%C3%A8me%20%C2%B7%20acteur%20manquant';
+    a.textContent='Signalez-le, on l\'ajoute.';
+    res.appendChild(a);
   });
 })();
 (function(){
