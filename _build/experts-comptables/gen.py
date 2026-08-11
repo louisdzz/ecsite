@@ -122,7 +122,6 @@ SEC = """<section class="cat" id="{cid}">
       <div><h3>{label}</h3><p class="cdesc">{cdesc}</p></div>
       <div class="count"><b>{n}</b> référencés</div>
     </div>
-    <!--SLOTS:START--><p class="slotline"><b>{pl} places</b> de fiche vérifiée restantes sur {pl} ouvertes pour 2026<a href="/fiche-verifiee?cat={cid}">Faire vérifier ma fiche</a></p><!--SLOTS:END-->
     <ul class="firms">
 {lis}
     </ul>
