@@ -303,6 +303,7 @@ input:focus,textarea:focus{outline:2px solid var(--accent);outline-offset:1px;bo
   };
 
   SETS.ma = SETS.ba;
+  SETS.treso = SETS.treso || SETS.generic;
   var set = SETS[cat] || SETS.generic;
   if (inst) document.getElementById('institution').value = inst;
   if (fiche) {
