@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jets d&#x27;affaires : les disponibilités en direct | L&#x27;Écosystème de l&#x27;Exit</title>
+<meta name="description" content="Les disponibilités en direct des opérateurs de jets d&#x27;affaires référencés dans L&#x27;Écosystème de l&#x27;Exit : empty legs, vols à la demande, parts fractionnées. Départ, arrivée, appareil, places, prix.">
+<link rel="canonical" href="https://www.exit.club/jets">
+<meta property="og:title" content="Jets d&#x27;affaires · L&#x27;Écosystème de l&#x27;Exit">
+<meta property="og:description" content="Plusieurs opérateurs, une seule page, les disponibilités en direct.">
+<meta property="og:url" content="https://www.exit.club/jets">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+.disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
+.wrap{max-width:1000px;margin:0 auto;padding:0 40px}
+.top{display:flex;align-items:center;justify-content:space-between;padding:26px 0}
+.mark{font-family:'Fraunces',Georgia,serif;font-size:21px;text-decoration:none;color:var(--ink)}
+.mark i{font-style:italic}.mark b{font-weight:600}
+.topnav{display:flex;gap:18px;align-items:center;font-size:13.5px}
+.topnav a{color:var(--muted);text-decoration:none}
+.topnav a.btn-p{background:var(--ink);color:var(--paper);padding:9px 18px;border-radius:999px;font-weight:600}
+.crumb{font-size:12.5px;color:var(--faint);padding:6px 0 0}
+.crumb a{color:var(--muted);text-decoration:none}
+.hero{padding:26px 0 6px;max-width:680px}
+.over{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--faint);margin:0 0 14px}
+h1.disp{font-size:46px;line-height:1.02}
+.lede{font-size:15.5px;color:var(--muted);margin:16px 0 0;line-height:1.6}
+.board{background:var(--card);border:1px solid var(--line);border-radius:18px;margin:30px 0 0;overflow:hidden}
+.bhead{display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap;padding:16px 20px;border-bottom:1px solid var(--line)}
+.filters{display:flex;gap:10px;flex-wrap:wrap;flex:1;min-width:0}
+.filters input,.filters select{font-size:14px;font-family:'Inter',Arial,sans-serif;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--ink);outline:none}
+.filters input{flex:1;min-width:200px}
+.filters input:focus,.filters select:focus{border-color:var(--accent)}
+.fresh{font-size:12.5px;color:var(--faint);white-space:nowrap}
+.fresh b{color:var(--ink);font-weight:600}
+.fresh.ko{color:#8A4B32}
+.rows{display:block}
+.row{display:grid;grid-template-columns:104px 1fr 124px 124px 58px 100px 116px;gap:14px;align-items:center;padding:14px 20px;border-bottom:1px solid var(--line);font-size:14px}
+.row:last-child{border-bottom:0}
+.row.hidden{display:none}
+.rhead{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);background:#F2EFE0}
+.rhead .num{text-align:right}
+.date b{display:block;font-weight:600}
+.date span{font-size:12.5px;color:var(--faint)}
+.leg b{font-weight:600}
+.leg .tag{display:inline-block;margin-top:5px}
+.leg .nt{display:block;font-size:12.5px;color:var(--faint);margin-top:4px}
+.op a{color:inherit;text-decoration:none;border-bottom:1px dotted var(--line)}
+.op a:hover{color:var(--accent)}
+.op span{display:block;font-size:12.5px;color:var(--faint);margin-top:2px}
+.num{text-align:right;font-variant-numeric:tabular-nums}
+.tag{display:inline-block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);border-radius:999px;padding:3px 9px;background:var(--paper)}
+.ask{color:var(--faint);font-style:italic}
+.go{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:600;color:var(--ink);border:1px solid var(--line);border-radius:999px;padding:8px 14px;text-decoration:none;background:var(--paper);white-space:nowrap}
+.go:hover{border-color:var(--accent);color:var(--accent)}
+.state{padding:34px 20px;text-align:center;font-size:14px;color:var(--muted);line-height:1.6}
+.state a{color:var(--accent)}
+.sect{margin:44px 0 0;padding-top:30px;border-top:1px solid var(--line)}
+.k{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint);margin-bottom:12px}
+h2.disp{font-size:30px;line-height:1.1}
+.sect p.lead{font-size:14.5px;color:var(--muted);margin-top:12px;max-width:660px;line-height:1.6}
+.ops{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:0 26px;margin-top:18px}
+.ops li{border-bottom:1px solid var(--line);padding:11px 0}
+.ops a{color:inherit;text-decoration:none;font-size:14.5px;display:block}
+.ops a:hover{color:var(--accent)}
+.ops small{display:block;font-size:12.5px;color:var(--faint);margin-top:2px}
+.qs{margin-top:18px;display:grid;gap:14px}
+.qq{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;font-size:14.5px;line-height:1.55}
+.gap{margin:44px 0 0;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:28px}
+.gap p.big{font-size:19px;line-height:1.35}
+.gap p.big em{font-style:italic;color:var(--accent)}
+.gap p.small{font-size:13.5px;color:var(--muted);margin-top:12px;line-height:1.6;max-width:680px}
+.btns{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+.btn{font-size:14px;font-weight:600;padding:12px 22px;border-radius:999px;text-decoration:none;display:inline-block}
+.btn-inv{background:var(--ink);color:var(--paper)}
+.btn-line{border:1px solid var(--line);color:var(--ink)}
+.foot{border-top:1px solid var(--line);margin-top:48px;padding:22px 0 40px;font-size:12px;color:var(--faint);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.foot a{color:var(--muted);text-decoration:none}
+.note{margin-top:26px;font-size:12px;color:var(--faint);line-height:1.5}
+@media(max-width:860px){
+.wrap{padding:0 20px}
+h1.disp{font-size:34px}
+.row{grid-template-columns:1fr 1fr;gap:8px 14px;padding:16px 16px}
+.rhead{display:none}
+.row>*{min-width:0}
+.row .leg{grid-column:1/3;order:1}
+.row .date{order:2}
+.row .op{order:3}
+.row .ap{order:4}
+.row .pl{order:5;text-align:left}
+.row .pr{order:6;text-align:left}
+.row .ac{grid-column:1/3;order:7;margin-top:6px}
+.num{text-align:left}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/"><i>exit</i><b>.club</b></a>
+    <div class="topnav">
+      <a href="/ecosysteme">L&#x27;Écosystème</a>
+      <a class="btn-p" href="https://tally.so/r/wADNZN" target="_blank" rel="noopener">Rejoindre</a>
+    </div>
+  </div>
+
+  <div class="crumb"><a href="/ecosysteme">L&#x27;Écosystème de l&#x27;Exit</a> · <a href="/ecosysteme#jets">Aviation d&#x27;affaires</a></div>
+
+  <section class="hero">
+    <p class="over">Aviation d&#x27;affaires</p>
+    <h1 class="disp">Les disponibilités en direct.</h1>
+    <p class="lede">Plusieurs opérateurs, une seule page. Les places encore ouvertes sur les vols déjà programmés, les vols à la demande et les parts disponibles, avec le départ, l&#x27;arrivée, l&#x27;appareil et le prix quand la maison l&#x27;affiche.</p>
+  </section>
+
+  <div class="board">
+    <div class="bhead">
+      <div class="filters">
+        <input id="q" type="search" placeholder="Départ, arrivée, opérateur, appareil…" autocomplete="off">
+        <select id="type">
+          <option value="">Tous les types</option>
+          <option value="Empty leg">Empty leg</option>
+          <option value="Vol à la demande">Vol à la demande</option>
+          <option value="Part fractionnée">Part fractionnée</option>
+        </select>
+      </div>
+      <div class="fresh" id="fresh">Chargement des disponibilités…</div>
+    </div>
+    <div class="rows" id="rows">
+      <div class="row rhead">
+        <div>Départ</div>
+        <div>Trajet</div>
+        <div>Opérateur</div>
+        <div>Appareil</div>
+        <div class="num">Places</div>
+        <div class="num">Prix</div>
+        <div></div>
+      </div>
+    </div>
+    <div class="state" id="state">Chargement des disponibilités…</div>
+  </div>
+
+  <section class="sect">
+    <div class="k">Les opérateurs référencés</div>
+    <h2 class="disp">Sept maisons, un standard commun.</h2>
+    <p class="lead">Chaque maison est référencée gratuitement et son profil pose les mêmes questions que les treize autres catégories de l&#x27;Écosystème. Le référencement ne vaut pas recommandation : il s&#x27;agit d&#x27;un recensement du marché.</p>
+    <ul class="ops" id="ops"></ul>
+  </section>
+
+  <section class="sect">
+    <div class="k">Les questions des exiters</div>
+    <h2 class="disp">Ce que les fondateurs demandent vraiment.</h2>
+    <p class="lead">Ces trois questions sont posées à chaque maison de la catégorie. Les réponses publiées sont celles de la maison, mot pour mot.</p>
+    <div class="qs">
+      <div class="qq">Le prix réel d&#x27;un Paris-Nice aller-retour dans la journée, tout compris, positionnement et temps d&#x27;attente inclus.</div>
+      <div class="qq">L&#x27;appareil réservé n&#x27;est pas disponible le matin du départ : ce qui se passe, et qui paie l&#x27;écart.</div>
+      <div class="qq">Sur une carte d&#x27;heures ou une part fractionnée, ce qui est récupéré en cas d&#x27;arrêt au bout d&#x27;un an.</div>
+    </div>
+  </section>
+
+  <div class="gap">
+    <p class="big">Vous êtes opérateur ou courtier ? <em>Vos disponibilités s&#x27;affichent ici.</em></p>
+    <p class="small">Les fondateurs qui consultent cette page viennent de vendre leur société. Ils cherchent un départ dans les jours qui viennent, et ils comparent avant d&#x27;écrire. Envoyez-nous vos disponibilités et elles apparaissent sur cette page, avec un lien direct vers votre devis.</p>
+    <div class="btns">
+      <a class="btn btn-inv" href="mailto:louis@exit.club?subject=Jets%20%C2%B7%20publier%20mes%20disponibilit%C3%A9s&amp;body=Op%C3%A9rateur%20%3A%0AType%20(empty%20leg%20%2F%20vol%20%C3%A0%20la%20demande%20%2F%20part%20fractionn%C3%A9e)%20%3A%0AD%C3%A9part%20%3A%0AArriv%C3%A9e%20%3A%0ADate%20et%20heure%20%3A%0AAppareil%20%3A%0APlaces%20%3A%0APrix%20(ou%20%C2%AB%20sur%20demande%20%C2%BB)%20%3A%0ALien%20de%20devis%20%3A">Publier mes disponibilités →</a>
+      <a class="btn btn-line" href="/referencement?cat=jets&amp;demande=referencer">Me faire référencer, c&#x27;est gratuit</a>
+      <a class="btn btn-line" href="/fiche-verifiee?cat=jets">Faire vérifier mon profil</a>
+    </div>
+  </div>
+
+  <p class="note">Les disponibilités affichées sont déclarées par les maisons et peuvent partir à tout moment. L&#x27;Exit Club n&#x27;est ni transporteur aérien, ni courtier, ni intermédiaire à la réservation : la relation contractuelle, le prix et l&#x27;exécution du vol relèvent exclusivement de la maison choisie.</p>
+
+  <div class="foot">
+    <div>Exit Club · L&#x27;Écosystème de l&#x27;Exit · Aviation d&#x27;affaires · Paris</div>
+    <div><a href="/ecosysteme">L&#x27;Écosystème</a> · <a href="/referencement">Se référencer</a> · <a href="mailto:louis@exit.club?subject=Jets%20%C2%B7%20remarque">Un bug, une remarque ? Écrivez-moi</a></div>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  'use strict';
+
+  /* Les maisons referencees. Le tableau du haut est alimente par l'API ;
+     cette liste-ci est statique et sert de repli permanent : la page garde
+     toujours une valeur meme si l'API tombe. */
+  var OPS = [
+    ['flexjet','Flexjet','Propriété fractionnée et cartes d&#x27;heures'],
+    ['vistajet','VistaJet','Abonnement en heures sur flotte exploitée en propre'],
+    ['netjets','NetJets','Propriété fractionnée, cartes d&#x27;heures, location'],
+    ['lunajets','LunaJets','Courtier, mise en concurrence des opérateurs'],
+    ['globeair','GlobeAir','Court-courrier européen, tarifs publiés'],
+    ['flyvictor','Fly Victor','Place de marché, devis de plusieurs opérateurs'],
+    ['astonjet','Astonjet','Location, gestion et vente d&#x27;appareils']
+  ];
+
+  var API = 'https://exit-club-app.vercel.app/api/dispos?verticale=Jets';
+  var MOIS = ['','janv.','févr.','mars','avr.','mai','juin','juil.','août','sept.','oct.','nov.','déc.'];
+
+  var elRows = document.getElementById('rows');
+  var elState = document.getElementById('state');
+  var elFresh = document.getElementById('fresh');
+  var elQ = document.getElementById('q');
+  var elType = document.getElementById('type');
+  var elOps = document.getElementById('ops');
+
+  function esc(s){ var d = document.createElement('div'); d.textContent = s == null ? '' : String(s); return d.innerHTML; }
+
+  function norm(s){
+    return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g,'')
+      .toLowerCase().replace(/[^a-z0-9]/g,'');
+  }
+
+  /* L'heure est lue telle qu'elle est declaree dans la chaine ISO, sans
+     passer par Date : un depart annonce a 9h30 locale reste 9h30, quel que
+     soit le fuseau du visiteur. */
+  function jour(iso){
+    var m = String(iso || '').match(/^(\d{4})-(\d{2})-(\d{2})(?:T(\d{2}):(\d{2}))?/);
+    if (!m) return { j:'', h:'' };
+    var j = String(Number(m[3])) + ' ' + MOIS[Number(m[2])];
+    var h = m[4] ? (m[4] + 'h' + m[5]) : 'horaire à confirmer';
+    return { j:j, h:h };
+  }
+
+  function euros(n){
+    return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + ' €';
+  }
+
+  /* Les operateurs : rendu immediat, sans dependre du reseau. */
+  elOps.innerHTML = OPS.map(function(o){
+    return '<li><a href="/f/'+o[0]+'">'+o[1]+'<small>'+o[2]+'</small></a></li>';
+  }).join('');
+
+  var lignes = [];
+
+  function ligne(d){
+    var t = jour(d.date);
+    var op = d.slug
+      ? '<a href="/f/'+esc(d.slug)+'">'+esc(d.operateur)+'</a>'
+      : esc(d.operateur);
+    var prix = (d.prix != null)
+      ? euros(d.prix)
+      : '<span class="ask">sur demande</span>';
+    var lien = d.lien
+      ? '<a class="go" href="'+esc(d.lien)+'" target="_blank" rel="noopener nofollow">Demander →</a>'
+      : '<a class="go" href="mailto:louis@exit.club?subject='+encodeURIComponent('Jets · ' + (d.ref || (d.depart + ' → ' + d.arrivee)))+'">Demander →</a>';
+    return '<div class="row">'
+      + '<div class="date"><b>'+esc(t.j)+'</b><span>'+esc(t.h)+'</span></div>'
+      + '<div class="leg"><b>'+esc(d.depart || '')+' → '+esc(d.arrivee || '')+'</b>'
+      +   (d.type ? '<span class="tag">'+esc(d.type)+'</span>' : '')
+      +   (d.notes ? '<span class="nt">'+esc(d.notes)+'</span>' : '')
+      +   '</div>'
+      + '<div class="op">'+op+'</div>'
+      + '<div class="ap">'+esc(d.appareil || '')+'</div>'
+      + '<div class="num pl">'+(d.places != null ? esc(d.places) : '<span class="ask">n.c.</span>')+'</div>'
+      + '<div class="num pr">'+prix+'</div>'
+      + '<div class="ac">'+lien+'</div>'
+      + '</div>';
+  }
+
+  function filtre(){
+    var v = norm(elQ.value.trim());
+    var t = elType.value;
+    var vus = 0;
+    lignes.forEach(function(o){
+      var ok = (!v || o.n.indexOf(v) > -1) && (!t || o.d.type === t);
+      o.el.classList.toggle('hidden', !ok);
+      if (ok) vus++;
+    });
+    if (!lignes.length) return;
+    elState.style.display = vus ? 'none' : 'block';
+    if (!vus) elState.textContent = 'Aucune disponibilité ne correspond à cette recherche.';
+  }
+
+  function vide(msg, ko){
+    elState.style.display = 'block';
+    elState.innerHTML = msg;
+    elFresh.textContent = ko ? 'Tableau momentanément indisponible' : 'Aucune disponibilité publiée';
+    if (ko) elFresh.className = 'fresh ko';
+  }
+
+  fetch(API, { cache: 'no-store' })
+    .then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(data){
+      var d = (data && data.dispos) || [];
+      if (!d.length) {
+        vide('Aucune disponibilité publiée pour l’instant. Les sept maisons référencées ci-dessous répondent aux demandes au cas par cas, et cette page se remplit dès qu’une place s’ouvre.', false);
+        return;
+      }
+      elRows.insertAdjacentHTML('beforeend', d.map(ligne).join(''));
+      var els = elRows.querySelectorAll('.row:not(.rhead)');
+      lignes = d.map(function(o, i){
+        return { d:o, el:els[i], n:norm([o.depart,o.arrivee,o.operateur,o.appareil,o.type,o.ref].join(' ')) };
+      });
+      elState.style.display = 'none';
+      elFresh.innerHTML = '<b>' + d.length + '</b> ' + (d.length > 1 ? 'disponibilités' : 'disponibilité');
+      elQ.addEventListener('input', filtre);
+      elType.addEventListener('change', filtre);
+    })
+    .catch(function(){
+      vide('Les disponibilités ne se chargent pas pour le moment. Les sept maisons référencées ci-dessous restent joignables, et <a href="mailto:louis@exit.club?subject=Jets%20%C2%B7%20une%20demande">une demande nous arrive directement</a>.', true);
+    });
+})();
+</script>
+</body>
+</html>
