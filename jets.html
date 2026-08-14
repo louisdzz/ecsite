@@ -145,7 +145,7 @@ h1.disp{font-size:34px}
 
   <section class="sect">
     <div class="k">Les opérateurs référencés</div>
-    <h2 class="disp">Sept maisons, un standard commun.</h2>
+    <h2 class="disp">Huit maisons, un standard commun.</h2>
     <p class="lead">Chaque maison est référencée gratuitement et son profil pose les mêmes questions que les treize autres catégories de l&#x27;Écosystème. Le référencement ne vaut pas recommandation : il s&#x27;agit d&#x27;un recensement du marché.</p>
     <ul class="ops" id="ops"></ul>
   </section>
@@ -191,6 +191,7 @@ h1.disp{font-size:34px}
     ['flexjet','Flexjet','Propriété fractionnée et cartes d&#x27;heures'],
     ['vistajet','VistaJet','Abonnement en heures sur flotte exploitée en propre'],
     ['netjets','NetJets','Propriété fractionnée, cartes d&#x27;heures, location'],
+    ['jetfly','Jetfly','Propriété partagée sur flotte Pilatus'],
     ['lunajets','LunaJets','Courtier, mise en concurrence des opérateurs'],
     ['globeair','GlobeAir','Court-courrier européen, tarifs publiés'],
     ['flyvictor','Fly Victor','Place de marché, devis de plusieurs opérateurs'],
@@ -287,7 +288,7 @@ h1.disp{font-size:34px}
     .then(function(data){
       var d = (data && data.dispos) || [];
       if (!d.length) {
-        vide('Aucune disponibilité publiée pour l’instant. Les sept maisons référencées ci-dessous répondent aux demandes au cas par cas, et cette page se remplit dès qu’une place s’ouvre.', false);
+        vide('Aucune disponibilité publiée pour l’instant. Les huit maisons référencées ci-dessous répondent aux demandes au cas par cas, et cette page se remplit dès qu’une place s’ouvre.', false);
         return;
       }
       elRows.insertAdjacentHTML('beforeend', d.map(ligne).join(''));
@@ -301,7 +302,7 @@ h1.disp{font-size:34px}
       elType.addEventListener('change', filtre);
     })
     .catch(function(){
-      vide('Les disponibilités ne se chargent pas pour le moment. Les sept maisons référencées ci-dessous restent joignables, et <a href="mailto:louis@exit.club?subject=Jets%20%C2%B7%20une%20demande">une demande nous arrive directement</a>.', true);
+      vide('Les disponibilités ne se chargent pas pour le moment. Les huit maisons référencées ci-dessous restent joignables, et <a href="mailto:louis@exit.club?subject=Jets%20%C2%B7%20une%20demande">une demande nous arrive directement</a>.', true);
     });
 })();
 </script>
