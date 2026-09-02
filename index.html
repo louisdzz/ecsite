@@ -89,7 +89,25 @@
   .btn-accent:hover{background:var(--deep)}
   .btn-ghost{border:1px solid var(--ink);color:var(--ink)}
   .btn-ghost:hover{background:rgba(42,53,26,.06)}
-  @media(max-width:760px){ .nav-links a:not(.btn){display:none} }
+  /* Sous 760px, les liens passent dans le panneau deroulant ouvert par le
+     bouton ci-dessous. Sans lui, la navigation etait simplement absente. */
+  .burger{display:none;background:none;border:1px solid var(--line);border-radius:8px;
+    padding:7px 9px;cursor:pointer;line-height:0}
+  .burger span{display:block;width:18px;height:1.5px;background:var(--ink);margin:3.5px 0;
+    transition:transform .25s ease,opacity .2s ease}
+  .burger[aria-expanded="true"] span:nth-child(1){transform:translateY(5px) rotate(45deg)}
+  .burger[aria-expanded="true"] span:nth-child(2){opacity:0}
+  .burger[aria-expanded="true"] span:nth-child(3){transform:translateY(-5px) rotate(-45deg)}
+  @media(max-width:760px){
+    .burger{display:block}
+    .nav-links{position:absolute;top:100%;left:0;right:0;display:none;
+      flex-direction:column;align-items:stretch;gap:0;
+      background:var(--paper);border-bottom:1px solid var(--line);
+      padding:6px 22px 18px;font-size:15px}
+    .nav-links.open{display:flex}
+    .nav-links a{padding:13px 0;border-bottom:1px solid var(--line)}
+    .nav-links a:last-child{border-bottom:none;margin-top:12px;text-align:center}
+  }
 
   /* HERO, aligné à gauche, massif */
   .hero{padding:110px 0 0}
@@ -163,7 +181,9 @@
   <nav>
     <div class="nav-in">
       <a class="logo" href="#top"><i>exit</i><b>.club</b></a>
-      <div class="nav-links">
+      <button class="burger" id="burger" aria-expanded="false" aria-controls="nav-links"
+        aria-label="Ouvrir le menu"><span></span><span></span><span></span></button>
+      <div class="nav-links" id="nav-links">
         <a href="#manifeste">Manifeste</a>
         <a href="#piliers">Le club</a>
         <a href="#valeurs">Valeurs</a>
@@ -302,5 +322,26 @@
 
   <!-- PromoteKit — tracking parrainage / affiliation (?via=) -->
   <script async src="https://cdn.promotekit.com/pk.js" data-promotekit="28e58480-1d14-41dc-abdb-d778a9db9cff"></script>
+<script>
+// Menu mobile. La barre est en position sticky : le panneau se place en
+// dessous et se referme des qu'on navigue, la page fonctionnant par ancres.
+(function(){
+  var b = document.getElementById('burger');
+  var m = document.getElementById('nav-links');
+  if(!b || !m) return;
+  function ferme(){ m.classList.remove('open'); b.setAttribute('aria-expanded','false');
+    b.setAttribute('aria-label','Ouvrir le menu'); }
+  b.addEventListener('click', function(){
+    var ouvert = m.classList.toggle('open');
+    b.setAttribute('aria-expanded', ouvert ? 'true' : 'false');
+    b.setAttribute('aria-label', ouvert ? 'Fermer le menu' : 'Ouvrir le menu');
+  });
+  m.addEventListener('click', function(e){ if(e.target.tagName === 'A') ferme(); });
+  document.addEventListener('keydown', function(e){ if(e.key === 'Escape') ferme(); });
+  document.addEventListener('click', function(e){
+    if(!m.contains(e.target) && !b.contains(e.target)) ferme();
+  });
+})();
+</script>
 </body>
 </html>
