@@ -218,6 +218,12 @@ body.searching .apres{margin-top:0;padding-top:0;border-top:0}
 .blocq h2{font-size:32px;line-height:1.08;margin-top:6px}
 .blocq .lede{font-size:15px;color:var(--muted);margin-top:14px;line-height:1.6}
 @media(max-width:760px){.blocq h2,.apres-h h2{font-size:26px}}
+.firms li.xcap{display:none}
+body.searching .firms li.xcap{display:list-item}
+body.searching .firms li.hidden{display:none}
+body.searching .voirplus{display:none}
+.voirplus{margin-top:14px;display:inline-block;font-size:13px;font-weight:600;color:var(--accent);background:none;border:1px solid var(--accent);border-radius:999px;padding:7px 16px;cursor:pointer;font-family:inherit}
+.voirplus:hover{background:var(--accent);color:#fff}
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "L'Écosystème de l'Exit", "url": "https://www.exit.club/ecosysteme", "description": "Le recensement public des acteurs de l'exit en France : banques d'affaires, boutiques M&A, multi-family offices, banques privées, avocats, experts-comptables et auditeurs, notaires, CGP, fonds.", "publisher": {"@type": "Organization", "name": "Exit Club", "url": "https://www.exit.club"}}</script>
 </head>
@@ -5101,6 +5107,25 @@ body.searching .apres{margin-top:0;padding-top:0;border-top:0}
       return '<div class="arow"><span class="adate">'+escp(dt)+'</span><span class="acat">'+escp(i.categorie||'Deal')+'</span><span><span class="acible">'+escp(i.cible)+'</span>'+(i.secteur?' <span class="asect">· '+escp(i.secteur)+'</span>':'')+'</span></div>';
     }).join('');
   }).catch(hide);
+})();
+</script>
+<script>
+(function(){
+  var N=matchMedia('(max-width:760px)').matches?12:30;
+  document.querySelectorAll('section.cat ul.firms').forEach(function(ul){
+    var lis=[].slice.call(ul.querySelectorAll('li'));
+    if(lis.length<=N+8)return;
+    var extra=lis.slice(N);
+    extra.forEach(function(li){li.classList.add('xcap')});
+    var b=document.createElement('button');
+    b.className='voirplus';b.type='button';
+    b.textContent='Afficher les '+extra.length+' autres';
+    b.addEventListener('click',function(){
+      extra.forEach(function(li){li.classList.remove('xcap')});
+      b.remove();
+    });
+    ul.parentNode.insertBefore(b,ul.nextSibling);
+  });
 })();
 </script>
 </body>
