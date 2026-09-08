@@ -1,0 +1,33 @@
+/* Directory navigation stays in the document flow, including without JavaScript. */
+.toolbar{position:relative;top:auto;z-index:auto}
+.toolbar .jump{position:static;max-height:none;overflow:visible;box-shadow:none}
+.toolbar .jump[hidden]{display:none!important}
+.ec-category-toggle{display:flex;align-items:center;justify-content:space-between;width:100%;min-height:44px;margin-top:10px;padding:10px 14px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--ink);font:500 14px/1.4 Inter,Arial,sans-serif;cursor:pointer;text-align:left}
+.ec-category-toggle::after{content:'+';font-size:20px}
+.ec-category-toggle[aria-expanded=true]::after{content:'−'}
+.toolbar .jump{gap:8px;margin-top:10px}
+.toolbar .jump a{display:flex;align-items:center;min-height:44px;padding:9px 12px;border:1px solid var(--line);border-radius:10px}
+.toolbar .search{font-size:16px}
+.cat,.league,.actus{scroll-margin-top:54px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.table-scroll>table{display:table!important;overflow:visible!important}
+@media(max-width:760px){
+  .tape{position:relative;top:auto}
+  .toolbar{margin-top:8px;padding:10px 0}
+  .toolbar .jump{display:grid;grid-template-columns:minmax(0,1fr)}
+  .toolbar .jump a{font-size:14px;overflow-wrap:anywhere}
+  .cat,.league,.actus{scroll-margin-top:16px}
+  .cat{padding:20px 18px}
+  .cat h3,.firms li a{overflow-wrap:anywhere}
+  .firms li{padding:0}
+  .firms li a{min-height:44px;display:flex;align-items:center;padding:8px 0;font-size:15px}
+  .arow{display:grid;grid-template-columns:auto minmax(0,1fr);gap:6px 12px;padding:14px 16px}
+  .arow>:last-child{grid-column:1/-1;min-width:0;overflow-wrap:anywhere}
+  .adate{width:auto}
+  .acat{justify-self:start}
+  #ligue-cgp{overflow:visible}
+  .league th,.league-t th{overflow-wrap:anywhere}
+  .btn{white-space:normal;text-align:center}
+}

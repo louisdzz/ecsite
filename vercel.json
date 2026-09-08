@@ -13,12 +13,12 @@
     },
     {
       "source": "/ligues",
-      "destination": "/ecosysteme#ligues",
+      "destination": "/ecosysteme-ligues#ligues",
       "permanent": false
     },
     {
       "source": "/ligues.html",
-      "destination": "/ecosysteme#ligues",
+      "destination": "/ecosysteme-ligues#ligues",
       "permanent": false
     }
   ]
