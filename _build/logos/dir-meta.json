@@ -9963,5 +9963,950 @@
 "nom": "tikehau-capital",
 "src": "https://www.tikehaucapital.com/~/media/Images/T/Tikehau-Capital-V2/logo/tikehau-logo-light.svg",
 "rescue": true
+},
+"axa-wealth-europe-lu": {
+"f": "/assets/logos/dir/axa-wealth-europe-lu-20260911.webp",
+"nom": "AXA Wealth Europe (LU)",
+"w": 240,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"a-o-shearman": {
+"f": "/assets/logos/dir/a-o-shearman-20260911.webp",
+"nom": "A&O Shearman",
+"w": 464,
+"h": 43,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"aklea": {
+"f": "/assets/logos/dir/aklea-20260911.webp",
+"nom": "Aklea",
+"w": 600,
+"h": 61,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"altair-avocats": {
+"f": "/assets/logos/dir/altair-avocats-20260911.webp",
+"nom": "Altaïr Avocats",
+"w": 557,
+"h": 216,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"altitude-avocats": {
+"f": "/assets/logos/dir/altitude-avocats-20260911.webp",
+"nom": "Altitude Avocats",
+"w": 317,
+"h": 240,
+"dark": true,
+"wide": false,
+"xwide": false
+},
+"apollo-societe-d-avocats": {
+"f": "/assets/logos/dir/apollo-societe-d-avocats-20260911.webp",
+"nom": "Apollo Société d'Avocats",
+"w": 492,
+"h": 220,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"aramis": {
+"f": "/assets/logos/dir/aramis-20260911.webp",
+"nom": "Aramis",
+"w": 240,
+"h": 80,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"arfe-avocats": {
+"f": "/assets/logos/dir/arfe-avocats-20260911.webp",
+"nom": "Arfé Avocats",
+"w": 346,
+"h": 157,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"armand-avocats": {
+"f": "/assets/logos/dir/armand-avocats-20260911.webp",
+"nom": "Armand Avocats",
+"w": 450,
+"h": 170,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"arsene": {
+"f": "/assets/logos/dir/arsene-20260911.webp",
+"nom": "Arsene",
+"w": 213,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"ateleia-avocats": {
+"f": "/assets/logos/dir/ateleia-avocats-20260911.webp",
+"nom": "Ateleia Avocats",
+"w": 444,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"aures": {
+"f": "/assets/logos/dir/aures-20260911.webp",
+"nom": "Aurès",
+"w": 498,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"avocats-picovschi": {
+"f": "/assets/logos/dir/avocats-picovschi-20260911.webp",
+"nom": "Avocats Picovschi",
+"w": 507,
+"h": 101,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"bensaid-avocats": {
+"f": "/assets/logos/dir/bensaid-avocats-20260911.webp",
+"nom": "Bensaid Avocats",
+"w": 381,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"bignon-lebray": {
+"f": "/assets/logos/dir/bignon-lebray-20260911.webp",
+"nom": "Bignon Lebray",
+"w": 600,
+"h": 56,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"blackbird-associes": {
+"f": "/assets/logos/dir/blackbird-associes-20260911.webp",
+"nom": "Blackbird Associés",
+"w": 400,
+"h": 59,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"bonnier-saint-felix": {
+"f": "/assets/logos/dir/bonnier-saint-felix-20260911.webp",
+"nom": "Bonnier Saint-Félix",
+"w": 600,
+"h": 99,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"bruzzo-dubucq": {
+"f": "/assets/logos/dir/bruzzo-dubucq-20260911.webp",
+"nom": "Bruzzo Dubucq",
+"w": 600,
+"h": 118,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"cabinet-bornhauser": {
+"f": "/assets/logos/dir/cabinet-bornhauser-20260911.webp",
+"nom": "Cabinet Bornhauser",
+"w": 350,
+"h": 63,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"cards-avocats": {
+"f": "/assets/logos/dir/cards-avocats-20260911.webp",
+"nom": "Cards Avocats",
+"w": 530,
+"h": 169,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"chammas-marcheteau": {
+"f": "/assets/logos/dir/chammas-marcheteau-20260911.webp",
+"nom": "Chammas & Marcheteau",
+"w": 600,
+"h": 73,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"chatelain-cantoni-avocats": {
+"f": "/assets/logos/dir/chatelain-cantoni-avocats-20260911.webp",
+"nom": "Chatelain Cantoni Avocats",
+"w": 500,
+"h": 186,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"chaumont-quere-associes": {
+"f": "/assets/logos/dir/chaumont-quere-associes-20260911.webp",
+"nom": "Chaumont Quéré & Associés",
+"w": 399,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"chess-avocats": {
+"f": "/assets/logos/dir/chess-avocats-20260911.webp",
+"nom": "Chess Avocats",
+"w": 177,
+"h": 130,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"christine-turlier-partners": {
+"f": "/assets/logos/dir/christine-turlier-partners-20260911.webp",
+"nom": "Christine Turlier & Partners",
+"w": 404,
+"h": 110,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"cms-francis-lefebvre": {
+"f": "/assets/logos/dir/cms-francis-lefebvre-20260911.webp",
+"nom": "CMS Francis Lefebvre",
+"w": 600,
+"h": 46,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"coblence-avocats": {
+"f": "/assets/logos/dir/coblence-avocats-20260911.webp",
+"nom": "Coblence Avocats",
+"w": 600,
+"h": 62,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"colisee-avocats": {
+"f": "/assets/logos/dir/colisee-avocats-20260911.webp",
+"nom": "Colisée Avocats",
+"w": 427,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"cornet-vincent-segurel": {
+"f": "/assets/logos/dir/cornet-vincent-segurel-20260911.webp",
+"nom": "Cornet Vincent Ségurel",
+"w": 96,
+"h": 96,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"couderc-dinh-associes": {
+"f": "/assets/logos/dir/couderc-dinh-associes-20260911.webp",
+"nom": "Couderc Dinh & Associés",
+"w": 600,
+"h": 33,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"de-gaulle-fleurance": {
+"f": "/assets/logos/dir/de-gaulle-fleurance-20260911.webp",
+"nom": "De Gaulle Fleurance",
+"w": 165,
+"h": 181,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"de-pardieu-brocas-maffei": {
+"f": "/assets/logos/dir/de-pardieu-brocas-maffei-20260911.webp",
+"nom": "De Pardieu Brocas Maffei",
+"w": 562,
+"h": 120,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"dechert-llp": {
+"f": "/assets/logos/dir/dechert-llp-20260911.webp",
+"nom": "Dechert LLP",
+"w": 269,
+"h": 43,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"deloitte-societe-d-avocats": {
+"f": "/assets/logos/dir/deloitte-societe-d-avocats-20260911.webp",
+"nom": "Deloitte Société d'Avocats",
+"w": 389,
+"h": 125,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"delsol-avocats": {
+"f": "/assets/logos/dir/delsol-avocats-20260911.webp",
+"nom": "Delsol Avocats",
+"w": 250,
+"h": 104,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"desfilis": {
+"f": "/assets/logos/dir/desfilis-20260911.webp",
+"nom": "Desfilis",
+"w": 451,
+"h": 139,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"dla-piper": {
+"f": "/assets/logos/dir/dla-piper-20260911.webp",
+"nom": "DLA Piper",
+"w": 151,
+"h": 87,
+"dark": true,
+"wide": false,
+"xwide": false
+},
+"dmms-associes": {
+"f": "/assets/logos/dir/dmms-associes-20260911.webp",
+"nom": "DMMS & Associés",
+"w": 350,
+"h": 122,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"duroc-partners": {
+"f": "/assets/logos/dir/duroc-partners-20260911.webp",
+"nom": "Duroc Partners",
+"w": 350,
+"h": 112,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"ebl-lexington": {
+"f": "/assets/logos/dir/ebl-lexington-20260911.webp",
+"nom": "EBL Lexington",
+"w": 600,
+"h": 144,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"everlaw-tax": {
+"f": "/assets/logos/dir/everlaw-tax-20260911.webp",
+"nom": "Everlaw & Tax",
+"w": 306,
+"h": 90,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"ey-societe-d-avocats": {
+"f": "/assets/logos/dir/ey-societe-d-avocats-20260911.webp",
+"nom": "EY Société d'Avocats",
+"w": 229,
+"h": 229,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"farewell": {
+"f": "/assets/logos/dir/farewell-20260911.webp",
+"nom": "Farewell",
+"w": 240,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"fbt-avocats": {
+"f": "/assets/logos/dir/fbt-avocats-20260911.webp",
+"nom": "FBT Avocats",
+"w": 393,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"freshfields": {
+"f": "/assets/logos/dir/freshfields-20260911.webp",
+"nom": "Freshfields",
+"w": 600,
+"h": 50,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"gca": {
+"f": "/assets/logos/dir/gca-20260911.webp",
+"nom": "GCA",
+"w": 600,
+"h": 199,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"ggv-avocats-rechtsanwalte": {
+"f": "/assets/logos/dir/ggv-avocats-rechtsanwalte-20260911.webp",
+"nom": "GGV Avocats - Rechtsanwälte",
+"w": 600,
+"h": 124,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"goethe-avocats": {
+"f": "/assets/logos/dir/goethe-avocats-20260911.webp",
+"nom": "Goethe Avocats",
+"w": 372,
+"h": 99,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"gowling-wlg": {
+"f": "/assets/logos/dir/gowling-wlg-20260911.webp",
+"nom": "Gowling Wlg",
+"w": 274,
+"h": 50,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"hb-avocats": {
+"f": "/assets/logos/dir/hb-avocats-20260911.webp",
+"nom": "HB Avocats",
+"w": 330,
+"h": 188,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"hebras-avocats": {
+"f": "/assets/logos/dir/hebras-avocats-20260911.webp",
+"nom": "Hebras Avocats",
+"w": 576,
+"h": 96,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"herald-avocats": {
+"f": "/assets/logos/dir/herald-avocats-20260911.webp",
+"nom": "Herald Avocats",
+"w": 459,
+"h": 133,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"ic-avocats": {
+"f": "/assets/logos/dir/ic-avocats-20260911.webp",
+"nom": "IC Avocats",
+"w": 240,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"ixis": {
+"f": "/assets/logos/dir/ixis-20260911.webp",
+"nom": "Ixis",
+"w": 406,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"joffe-associes": {
+"f": "/assets/logos/dir/joffe-associes-20260911.webp",
+"nom": "Joffe & Associes",
+"w": 427,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"julien-jeulin-associes": {
+"f": "/assets/logos/dir/julien-jeulin-associes-20260911.webp",
+"nom": "Julien Jeulin & Associés",
+"w": 446,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"keels-avocats": {
+"f": "/assets/logos/dir/keels-avocats-20260911.webp",
+"nom": "Keels Avocats",
+"w": 160,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"king-spalding": {
+"f": "/assets/logos/dir/king-spalding-20260911.webp",
+"nom": "King & Spalding",
+"w": 600,
+"h": 223,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"kleber-avocats": {
+"f": "/assets/logos/dir/kleber-avocats-20260911.webp",
+"nom": "Kléber Avocats",
+"w": 600,
+"h": 79,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"kurzaj-modicom": {
+"f": "/assets/logos/dir/kurzaj-modicom-20260911.webp",
+"nom": "Kurzaj & Modicom",
+"w": 600,
+"h": 124,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"lacombe-avocats": {
+"f": "/assets/logos/dir/lacombe-avocats-20260911.webp",
+"nom": "Lacombe Avocats",
+"w": 600,
+"h": 200,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"latournerie-wolfrom-avocats": {
+"f": "/assets/logos/dir/latournerie-wolfrom-avocats-20260911.webp",
+"nom": "Latournerie Wolfrom Avocats",
+"w": 376,
+"h": 171,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"lmt-avocats": {
+"f": "/assets/logos/dir/lmt-avocats-20260911.webp",
+"nom": "LMT Avocats",
+"w": 352,
+"h": 70,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"loyens-loeff-s-e-l-a-s": {
+"f": "/assets/logos/dir/loyens-loeff-s-e-l-a-s-20260911.webp",
+"nom": "Loyens & Loeff S.E.L.A.S.",
+"w": 600,
+"h": 151,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"lpa-law": {
+"f": "/assets/logos/dir/lpa-law-20260911.webp",
+"nom": "LPA Law",
+"w": 575,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"maison-eck": {
+"f": "/assets/logos/dir/maison-eck-20260911.webp",
+"nom": "Maison Eck",
+"w": 271,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"mamou-boccara": {
+"f": "/assets/logos/dir/mamou-boccara-20260911.webp",
+"nom": "Mamou & Boccara",
+"w": 600,
+"h": 113,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"melot-buchet": {
+"f": "/assets/logos/dir/melot-buchet-20260911.webp",
+"nom": "Melot & Buchet",
+"w": 250,
+"h": 64,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"mlcp-avocat": {
+"f": "/assets/logos/dir/mlcp-avocat-20260911.webp",
+"nom": "MLCP Avocat",
+"w": 320,
+"h": 194,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"operandi": {
+"f": "/assets/logos/dir/operandi-20260911.webp",
+"nom": "Operandi",
+"w": 467,
+"h": 107,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"opleo-avocats": {
+"f": "/assets/logos/dir/opleo-avocats-20260911.webp",
+"nom": "Opleo Avocats",
+"w": 552,
+"h": 84,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"oratio-avocats": {
+"f": "/assets/logos/dir/oratio-avocats-20260911.webp",
+"nom": "Oratio Avocats",
+"w": 497,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"orsay-avocats": {
+"f": "/assets/logos/dir/orsay-avocats-20260911.webp",
+"nom": "Orsay Avocats",
+"w": 600,
+"h": 215,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"oyat-avocats": {
+"f": "/assets/logos/dir/oyat-avocats-20260911.webp",
+"nom": "Oyat Avocats",
+"w": 600,
+"h": 160,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"parthema-avocats": {
+"f": "/assets/logos/dir/parthema-avocats-20260911.webp",
+"nom": "Parthema Avocats",
+"w": 571,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"piotraut-gine-avocats": {
+"f": "/assets/logos/dir/piotraut-gine-avocats-20260911.webp",
+"nom": "Piotraut Giné Avocats",
+"w": 345,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"pwc-societe-d-avocats": {
+"f": "/assets/logos/dir/pwc-societe-d-avocats-20260911.webp",
+"nom": "PwC Société d'Avocats",
+"w": 187,
+"h": 141,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"reinhart-marville-torre": {
+"f": "/assets/logos/dir/reinhart-marville-torre-20260911.webp",
+"nom": "Reinhart Marville Torre",
+"w": 352,
+"h": 91,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"riviere-avocats-associes": {
+"f": "/assets/logos/dir/riviere-avocats-associes-20260911.webp",
+"nom": "Rivière Avocats Associés",
+"w": 126,
+"h": 79,
+"dark": true,
+"wide": false,
+"xwide": false
+},
+"rosenpick-associes": {
+"f": "/assets/logos/dir/rosenpick-associes-20260911.webp",
+"nom": "Rosenpick & Associés",
+"w": 240,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"rozant-cohen": {
+"f": "/assets/logos/dir/rozant-cohen-20260911.webp",
+"nom": "Rozant & Cohen",
+"w": 600,
+"h": 115,
+"dark": true,
+"wide": true,
+"xwide": true
+},
+"sand-avocats": {
+"f": "/assets/logos/dir/sand-avocats-20260911.webp",
+"nom": "Sand Avocats",
+"w": 240,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"sekri-valentin-zerrouk": {
+"f": "/assets/logos/dir/sekri-valentin-zerrouk-20260911.webp",
+"nom": "Sekri Valentin Zerrouk",
+"w": 534,
+"h": 237,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"stephenson-harwood-aarpi": {
+"f": "/assets/logos/dir/stephenson-harwood-aarpi-20260911.webp",
+"nom": "Stephenson Harwood Aarpi",
+"w": 419,
+"h": 139,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"sullivan-cromwell": {
+"f": "/assets/logos/dir/sullivan-cromwell-20260911.webp",
+"nom": "Sullivan & Cromwell",
+"w": 600,
+"h": 36,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"tca-touttee-conseil-associes": {
+"f": "/assets/logos/dir/tca-touttee-conseil-associes-20260911.webp",
+"nom": "TCA - Touttée Conseil & Associés",
+"w": 216,
+"h": 155,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"tournayre-avocat": {
+"f": "/assets/logos/dir/tournayre-avocat-20260911.webp",
+"nom": "Tournayre Avocat",
+"w": 176,
+"h": 96,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"uggc-avocats": {
+"f": "/assets/logos/dir/uggc-avocats-20260911.webp",
+"nom": "UGGC Avocats",
+"w": 446,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"valther": {
+"f": "/assets/logos/dir/valther-20260911.webp",
+"nom": "Valther",
+"w": 600,
+"h": 214,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"vaslin-associes": {
+"f": "/assets/logos/dir/vaslin-associes-20260911.webp",
+"nom": "Vaslin Associés",
+"w": 293,
+"h": 145,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"vassaux-avocat": {
+"f": "/assets/logos/dir/vassaux-avocat-20260911.webp",
+"nom": "Vassaux Avocat",
+"w": 300,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"vatiris-avocats": {
+"f": "/assets/logos/dir/vatiris-avocats-20260911.webp",
+"nom": "Vatiris Avocats",
+"w": 476,
+"h": 240,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"vgg-associes": {
+"f": "/assets/logos/dir/vgg-associes-20260911.webp",
+"nom": "VGG & Associés",
+"w": 495,
+"h": 240,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"watson-farley-williams": {
+"f": "/assets/logos/dir/watson-farley-williams-20260911.webp",
+"nom": "Watson Farley & Williams",
+"w": 600,
+"h": 24,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"woog-associes": {
+"f": "/assets/logos/dir/woog-associes-20260911.webp",
+"nom": "Woog & Associes",
+"w": 397,
+"h": 113,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"yards": {
+"f": "/assets/logos/dir/yards-20260911.webp",
+"nom": "Yards",
+"w": 387,
+"h": 107,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"ydes": {
+"f": "/assets/logos/dir/ydes-20260911.webp",
+"nom": "Ydès",
+"w": 512,
+"h": 180,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"zamour-avocats": {
+"f": "/assets/logos/dir/zamour-avocats-20260911.webp",
+"nom": "Zamour Avocats",
+"w": 209,
+"h": 125,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"abn-amro": {
+"f": "/assets/logos/dir/abn-amro-20260911.webp",
+"nom": "ABN Amro",
+"w": 432,
+"h": 107,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"amala-partners": {
+"f": "/assets/logos/dir/amala-partners-20260911.webp",
+"nom": "Amala Partners",
+"w": 600,
+"h": 164,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"baader-bank": {
+"f": "/assets/logos/dir/baader-bank-20260911.webp",
+"nom": "Baader Bank",
+"w": 483,
+"h": 160,
+"dark": true,
+"wide": true,
+"xwide": false
+},
+"berenberg": {
+"f": "/assets/logos/dir/berenberg-20260911.webp",
+"nom": "Berenberg",
+"w": 298,
+"h": 240,
+"dark": false,
+"wide": false,
+"xwide": false
+},
+"caixabank": {
+"f": "/assets/logos/dir/caixabank-20260911.webp",
+"nom": "CaixaBank",
+"w": 403,
+"h": 83,
+"dark": false,
+"wide": true,
+"xwide": false
+},
+"danske-bank": {
+"f": "/assets/logos/dir/danske-bank-20260911.webp",
+"nom": "Danske Bank",
+"w": 600,
+"h": 61,
+"dark": false,
+"wide": true,
+"xwide": true
+},
+"euroland-corporate": {
+"f": "/assets/logos/dir/euroland-corporate-20260911.webp",
+"nom": "Euroland Corporate",
+"w": 203,
+"h": 80,
+"dark": true,
+"wide": true,
+"xwide": false
 }
 }
