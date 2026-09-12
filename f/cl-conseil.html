@@ -93,8 +93,15 @@ html{scroll-behavior:smooth}
 .toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
 .toc a:hover{border-color:var(--accent);color:var(--accent)}
 @media(max-width:760px){.bigstat .n{font-size:46px}}
+
+.hero.wl{display:flex;gap:24px;align-items:flex-start}.hero.wl>.hb{min-width:0}
+.flogo{flex:none;width:88px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#fff;border:1px solid var(--line)}
+.flogo.dk{background:var(--ink);border-color:var(--ink)}.flogo.wd{width:148px}.flogo.xw{width:230px}
+.flogo img{width:100%;height:100%;object-fit:contain;padding:10px;box-sizing:border-box}
+@media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px}.flogo.wd{width:108px}.flogo.xw{width:190px}.flogo img{padding:7px}}
+@media(max-width:480px){.hero.wl{flex-direction:column}.hero.wl>.hb{width:100%}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.cl-conseil.com"], "name": "CL Conseil", "url": "https://www.exit.club/f/cl-conseil"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.cl-conseil.com"], "name": "CL Conseil", "url": "https://www.exit.club/f/cl-conseil", "logo": "https://www.exit.club/assets/logos/dir/cl-conseil-20260912.webp"}</script>
 </head>
 <body>
 <div class="wrap">
@@ -109,11 +116,11 @@ html{scroll-behavior:smooth}
 
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#cgp">Conseillers en gestion de patrimoine (CGP)</a></div>
 
-  <section class="hero">
+  <section class="hero wl"><div class="flogo dk wd"><img src="/assets/logos/dir/cl-conseil-20260912.webp" alt="CL Conseil" width="600" height="125" decoding="async"></div><div class="hb">
     <p class="over">Profil référencé · non revendiqué</p>
     <h1 class="disp">CL Conseil</h1>
     <a class="tag" href="/ecosysteme#cgp">Conseillers en gestion de patrimoine (CGP)</a>
-  </section>
+  </div></section>
 
   <nav class="toc">
     <a href="#etiquette">Rémunération et frais</a>
