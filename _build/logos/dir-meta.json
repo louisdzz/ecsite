@@ -8,12 +8,13 @@
     "nom": "1 2 3 Financez"
   },
   "137-notaires": {
-    "f": "/assets/logos/dir/137-notaires.webp",
+    "f": "/assets/logos/dir/137-notaires-audit-20260913.webp",
+    "nom": "137 Notaires",
+    "w": 215,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 63,
-    "h": 71,
-    "nom": "137 Notaires"
+    "xwide": false
   },
   "1694-notaires": {
     "f": "/assets/logos/dir/1694-notaires.webp",
@@ -72,12 +73,13 @@
     "nom": "2L Courtage"
   },
   "360brokers": {
-    "f": "/assets/logos/dir/360brokers.webp",
+    "f": "/assets/logos/dir/360brokers-audit-20260913.webp",
+    "nom": "360Brokers",
+    "w": 180,
+    "h": 182,
     "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 35,
-    "nom": "360Brokers"
+    "wide": false,
+    "xwide": false
   },
   "574-invest": {
     "f": "/assets/logos/dir/574-invest.webp",
@@ -96,12 +98,13 @@
     "nom": "A Contrario"
   },
   "a-plus-finance": {
-    "f": "/assets/logos/dir/a-plus-finance.webp",
+    "f": "/assets/logos/dir/a-plus-finance-audit-20260913.webp",
+    "nom": "A Plus Finance",
+    "w": 87,
+    "h": 94,
     "dark": false,
     "wide": false,
-    "w": 26,
-    "h": 28,
-    "nom": "A Plus Finance"
+    "xwide": false
   },
   "a2c-conseil": {
     "f": "/assets/logos/dir/a2c-conseil.webp",
@@ -176,12 +179,13 @@
     "nom": "Acceo Conseil"
   },
   "accesfi": {
-    "f": "/assets/logos/dir/accesfi.webp",
+    "f": "/assets/logos/dir/accesfi-audit-20260913.webp",
+    "nom": "Accesfi",
+    "w": 218,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 174,
-    "h": 192,
-    "nom": "Accesfi"
+    "xwide": false
   },
   "access-capital-partners": {
     "f": "/assets/logos/dir/access-capital-partners.webp",
@@ -216,12 +220,13 @@
     "nom": "Accip"
   },
   "accompagnement-developpement-finances": {
-    "f": "/assets/logos/dir/accompagnement-developpement-finances.webp",
+    "f": "/assets/logos/dir/accompagnement-developpement-finances-audit-20260913.webp",
+    "nom": "Accompagnement & Developpement Finances",
+    "w": 600,
+    "h": 123,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 24,
-    "nom": "Accompagnement &amp; Developpement Finances"
+    "xwide": false
   },
   "accuracy": {
     "f": "/assets/logos/dir/accuracy.webp",
@@ -264,12 +269,13 @@
     "nom": "act legal"
   },
   "acte-2": {
-    "f": "/assets/logos/dir/acte-2.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/acte-2-audit-20260913.webp",
+    "nom": "Acte 2",
+    "w": 130,
+    "h": 70,
+    "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 84,
-    "nom": "Acte 2"
+    "xwide": false
   },
   "acteon-notaires": {
     "f": "/assets/logos/dir/acteon-notaires.webp",
@@ -280,12 +286,13 @@
     "nom": "Acteon Notaires"
   },
   "actif-patrimoine": {
-    "f": "/assets/logos/dir/actif-patrimoine.webp",
+    "f": "/assets/logos/dir/actif-patrimoine-audit-20260913.webp",
+    "nom": "Actif Patrimoine",
+    "w": 189,
+    "h": 199,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 66,
-    "nom": "Actif Patrimoine"
+    "wide": false,
+    "xwide": false
   },
   "actil": {
     "f": "/assets/logos/dir/actil.webp",
@@ -320,12 +327,13 @@
     "nom": "Adagia Partners SAS"
   },
   "ademe-investissement": {
-    "f": "/assets/logos/dir/ademe-investissement.webp",
+    "f": "/assets/logos/dir/ademe-investissement-audit-20260913.webp",
+    "nom": "ADEME Investissement",
+    "w": 586,
+    "h": 213,
     "dark": false,
-    "wide": false,
-    "w": 29,
-    "h": 28,
-    "nom": "ADEME Investissement"
+    "wide": true,
+    "xwide": false
   },
   "adp-invest": {
     "f": "/assets/logos/dir/adp-invest.webp",
@@ -336,12 +344,13 @@
     "nom": "ADP Invest"
   },
   "advance-avocats": {
-    "f": "/assets/logos/dir/advance-avocats.webp",
+    "f": "/assets/logos/dir/advance-avocats-audit-20260913.webp",
+    "nom": "Advance Avocats",
+    "w": 600,
+    "h": 97,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 108,
-    "nom": "Advance Avocats"
+    "wide": true,
+    "xwide": true
   },
   "advenis": {
     "f": "/assets/logos/dir/advenis.webp",
@@ -392,12 +401,13 @@
     "nom": "Aeternia Patrimoine"
   },
   "aether-financial-services": {
-    "f": "/assets/logos/dir/aether-financial-services.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 180,
-    "nom": "Aether Financial Services"
+    "f": "/assets/logos/dir/aether-financial-services-audit-20260913.webp",
+    "nom": "Aether Financial Services",
+    "w": 312,
+    "h": 67,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "affidavit-notaires": {
     "f": "/assets/logos/dir/affidavit-notaires.webp",
@@ -408,12 +418,13 @@
     "nom": "Affidavit Notaires"
   },
   "africinvest-europe": {
-    "f": "/assets/logos/dir/africinvest-europe.webp",
+    "f": "/assets/logos/dir/africinvest-europe-audit-20260913.webp",
+    "nom": "Africinvest Europe",
+    "w": 181,
+    "h": 80,
     "dark": false,
-    "wide": false,
-    "w": 48,
-    "h": 36,
-    "nom": "Africinvest Europe"
+    "wide": true,
+    "xwide": false
   },
   "agami-family-office": {
     "f": "/assets/logos/dir/agami-family-office.webp",
@@ -536,12 +547,13 @@
     "nom": "Alcaix Notaires"
   },
   "alcyone-family-office": {
-    "f": "/assets/logos/dir/alcyone-family-office.webp",
+    "f": "/assets/logos/dir/alcyone-family-office-audit-20260913.webp",
+    "nom": "Alcyone Family Office",
+    "w": 389,
+    "h": 113,
     "dark": true,
-    "wide": false,
-    "w": 163,
-    "h": 192,
-    "nom": "Alcyone Family Office"
+    "wide": true,
+    "xwide": false
   },
   "aldebaran-capital-partners": {
     "f": "/assets/logos/dir/aldebaran-capital-partners.webp",
@@ -552,12 +564,13 @@
     "nom": "Aldebaran Capital Partners"
   },
   "alerion-avocats": {
-    "f": "/assets/logos/dir/alerion-avocats.webp",
+    "f": "/assets/logos/dir/alerion-avocats-audit-20260913.webp",
+    "nom": "Alerion Avocats",
+    "w": 108,
+    "h": 62,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 33,
-    "nom": "Alerion Avocats"
+    "wide": false,
+    "xwide": false
   },
   "aliquis-conseil": {
     "f": "/assets/logos/dir/aliquis-conseil.webp",
@@ -584,12 +597,13 @@
     "nom": "Allegra Finance"
   },
   "alliance-et-patrimoine": {
-    "f": "/assets/logos/dir/alliance-et-patrimoine.webp",
+    "f": "/assets/logos/dir/alliance-et-patrimoine-audit-20260913.webp",
+    "nom": "Alliance ET Patrimoine",
+    "w": 600,
+    "h": 125,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 30,
-    "nom": "Alliance ET Patrimoine"
+    "xwide": false
   },
   "allianz-global-investors": {
     "f": "/assets/logos/dir/allianz-global-investors.webp",
@@ -616,20 +630,22 @@
     "nom": "Allo Courtier"
   },
   "alpha-phi": {
-    "f": "/assets/logos/dir/alpha-phi.webp",
+    "f": "/assets/logos/dir/alpha-phi-audit-20260913.webp",
+    "nom": "Alpha Phi",
+    "w": 350,
+    "h": 239,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Alpha Phi"
+    "xwide": false
   },
   "alpheo": {
-    "f": "/assets/logos/dir/alpheo.webp",
+    "f": "/assets/logos/dir/alpheo-audit-20260913.webp",
+    "nom": "Alpheo",
+    "w": 420,
+    "h": 112,
     "dark": false,
-    "wide": false,
-    "w": 60,
-    "h": 60,
-    "nom": "Alpheo"
+    "wide": true,
+    "xwide": false
   },
   "altai-partners": {
     "f": "/assets/logos/dir/altai-partners.webp",
@@ -656,12 +672,13 @@
     "nom": "Alter Finance"
   },
   "althemis": {
-    "f": "/assets/logos/dir/althemis.webp",
+    "f": "/assets/logos/dir/althemis-audit-20260913.webp",
+    "nom": "Althemis",
+    "w": 194,
+    "h": 111,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Althemis"
+    "wide": false,
+    "xwide": false
   },
   "althos-patrimoine": {
     "f": "/assets/logos/dir/althos-patrimoine.webp",
@@ -672,12 +689,13 @@
     "nom": "Althos Patrimoine"
   },
   "altius-patrimoine": {
-    "f": "/assets/logos/dir/altius-patrimoine.webp",
+    "f": "/assets/logos/dir/altius-patrimoine-audit-20260913.webp",
+    "nom": "Altius Patrimoine",
+    "w": 268,
+    "h": 136,
     "dark": false,
-    "wide": false,
-    "w": 142,
-    "h": 143,
-    "nom": "Altius Patrimoine"
+    "wide": true,
+    "xwide": false
   },
   "aluni-patrimoine": {
     "f": "/assets/logos/dir/aluni-patrimoine.webp",
@@ -688,12 +706,13 @@
     "nom": "Aluni Patrimoine"
   },
   "amadeis": {
-    "f": "/assets/logos/dir/amadeis.webp",
+    "f": "/assets/logos/dir/amadeis-audit-20260913.webp",
+    "nom": "Amadeis",
+    "w": 230,
+    "h": 75,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 70,
-    "nom": "Amadeis"
+    "xwide": false
   },
   "amanthee-patrimoine": {
     "f": "/assets/logos/dir/amanthee-patrimoine.webp",
@@ -712,12 +731,13 @@
     "nom": "Amundi Asset Management"
   },
   "anaxago-capital": {
-    "f": "/assets/logos/dir/anaxago-capital.webp",
+    "f": "/assets/logos/dir/anaxago-capital-audit-20260913.webp",
+    "nom": "Anaxago Capital",
+    "w": 600,
+    "h": 83,
     "dark": false,
-    "wide": false,
-    "w": 85,
-    "h": 85,
-    "nom": "Anaxago Capital"
+    "wide": true,
+    "xwide": true
   },
   "andeon": {
     "f": "/assets/logos/dir/andeon.webp",
@@ -768,12 +788,13 @@
     "nom": "Apex Capital Raising"
   },
   "api-courtage": {
-    "f": "/assets/logos/dir/api-courtage.webp",
+    "f": "/assets/logos/dir/api-courtage-audit-20260913.webp",
+    "nom": "API Courtage",
+    "w": 232,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 186,
-    "h": 192,
-    "nom": "API Courtage"
+    "xwide": false
   },
   "apollo": {
     "f": "/assets/logos/dir/apollo.webp",
@@ -792,20 +813,22 @@
     "nom": "Apollux Patrimoine"
   },
   "aps-credits-immo": {
-    "f": "/assets/logos/dir/aps-credits-immo.webp",
+    "f": "/assets/logos/dir/aps-credits-immo-audit-20260913.webp",
+    "nom": "APS Credits Immo",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 80,
-    "h": 82,
-    "nom": "APS Credits Immo"
+    "xwide": false
   },
   "aquasourca": {
-    "f": "/assets/logos/dir/aquasourca.webp",
+    "f": "/assets/logos/dir/aquasourca-audit-20260913.webp",
+    "nom": "Aquasourca",
+    "w": 600,
+    "h": 75,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 35,
-    "nom": "Aquasourca"
+    "xwide": true
   },
   "aquis-patrimoine": {
     "f": "/assets/logos/dir/aquis-patrimoine.webp",
@@ -840,12 +863,13 @@
     "nom": "Archers"
   },
   "archimed": {
-    "f": "/assets/logos/dir/archimed.webp",
+    "f": "/assets/logos/dir/archimed-audit-20260913.webp",
+    "nom": "Archimed",
+    "w": 600,
+    "h": 79,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 39,
-    "nom": "Archimed"
+    "xwide": true
   },
   "arcmont-asset-management": {
     "f": "/assets/logos/dir/arcmont-asset-management.webp",
@@ -864,20 +888,22 @@
     "nom": "Arcole"
   },
   "arctic-securities": {
-    "f": "/assets/logos/dir/arctic-securities.webp",
+    "f": "/assets/logos/dir/arctic-securities-audit-20260913.webp",
+    "nom": "Arctic Securities",
+    "w": 376,
+    "h": 72,
     "dark": false,
-    "wide": false,
-    "w": 155,
-    "h": 133,
-    "nom": "Arctic Securities"
+    "wide": true,
+    "xwide": true
   },
   "ardabelle-capital": {
-    "f": "/assets/logos/dir/ardabelle-capital.webp",
+    "f": "/assets/logos/dir/ardabelle-capital-audit-20260913.webp",
+    "nom": "Ardabelle Capital",
+    "w": 600,
+    "h": 151,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 187,
-    "nom": "Ardabelle Capital"
+    "wide": true,
+    "xwide": false
   },
   "ardian": {
     "f": "/assets/logos/dir/ardian.webp",
@@ -896,20 +922,22 @@
     "nom": "Ardian France"
   },
   "arendt-medernach-sas": {
-    "f": "/assets/logos/dir/arendt-medernach-sas.webp",
+    "f": "/assets/logos/dir/arendt-medernach-sas-audit-20260913.webp",
+    "nom": "Arendt & Medernach SAS",
+    "w": 259,
+    "h": 149,
     "dark": false,
     "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Arendt &amp; Medernach SAS"
+    "xwide": false
   },
   "ares-management": {
-    "f": "/assets/logos/dir/ares-management.webp",
+    "f": "/assets/logos/dir/ares-management-audit-20260913.webp",
+    "nom": "Ares Management",
+    "w": 440,
+    "h": 197,
     "dark": false,
-    "wide": false,
-    "w": 28,
-    "h": 30,
-    "nom": "Ares Management"
+    "wide": true,
+    "xwide": false
   },
   "argos-conseil": {
     "f": "/assets/logos/dir/argos-conseil.webp",
@@ -936,12 +964,13 @@
     "nom": "Arkea Capital"
   },
   "arkwood": {
-    "f": "/assets/logos/dir/arkwood.webp",
+    "f": "/assets/logos/dir/arkwood-audit-20260913.webp",
+    "nom": "Arkwood",
+    "w": 600,
+    "h": 80,
     "dark": false,
-    "wide": false,
-    "w": 57,
-    "h": 57,
-    "nom": "Arkwood"
+    "wide": true,
+    "xwide": true
   },
   "arlane": {
     "f": "/assets/logos/dir/arlane.webp",
@@ -976,12 +1005,13 @@
     "nom": "Arthus Conseil"
   },
   "as-finance-conseil": {
-    "f": "/assets/logos/dir/as-finance-conseil.webp",
+    "f": "/assets/logos/dir/as-finance-conseil-audit-20260913.webp",
+    "nom": "AS Finance Conseil",
+    "w": 185,
+    "h": 185,
     "dark": false,
     "wide": false,
-    "w": 50,
-    "h": 50,
-    "nom": "AS Finance Conseil"
+    "xwide": false
   },
   "asb-conseil": {
     "f": "/assets/logos/dir/asb-conseil.webp",
@@ -992,12 +1022,13 @@
     "nom": "ASB Conseil"
   },
   "ascalon-finances": {
-    "f": "/assets/logos/dir/ascalon-finances.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 116,
-    "nom": "Ascalon Finances"
+    "f": "/assets/logos/dir/ascalon-finances-audit-20260913.webp",
+    "nom": "Ascalon Finances",
+    "w": 600,
+    "h": 177,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "ascensio-invest": {
     "f": "/assets/logos/dir/ascensio-invest.webp",
@@ -1040,12 +1071,13 @@
     "nom": "Association Bancaire Pour L'Euro ABE EUR"
   },
   "assurfinance": {
-    "f": "/assets/logos/dir/assurfinance.webp",
+    "f": "/assets/logos/dir/assurfinance-audit-20260913.webp",
+    "nom": "Assurfinance",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 96,
-    "h": 112,
-    "nom": "Assurfinance"
+    "xwide": false
   },
   "astae-avocats": {
     "f": "/assets/logos/dir/astae-avocats.webp",
@@ -1056,12 +1088,13 @@
     "nom": "Astaé Avocats"
   },
   "aster": {
-    "f": "/assets/logos/dir/aster.webp",
+    "f": "/assets/logos/dir/aster-audit-20260913.webp",
+    "nom": "Aster",
+    "w": 300,
+    "h": 84,
     "dark": false,
     "wide": true,
-    "w": 136,
-    "h": 54,
-    "nom": "Aster"
+    "xwide": false
   },
   "asterism-finance": {
     "f": "/assets/logos/dir/asterism-finance.webp",
@@ -1104,12 +1137,13 @@
     "nom": "AT Solutions"
   },
   "athanor-patrimoine": {
-    "f": "/assets/logos/dir/athanor-patrimoine.webp",
+    "f": "/assets/logos/dir/athanor-patrimoine-audit-20260913.webp",
+    "nom": "Athanor Patrimoine",
+    "w": 591,
+    "h": 240,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 62,
-    "nom": "Athanor Patrimoine"
+    "xwide": false
   },
   "atlante-gestion-sas": {
     "f": "/assets/logos/dir/atlante-gestion-sas.webp",
@@ -1128,12 +1162,13 @@
     "nom": "Atlantique Credits"
   },
   "atout-capital": {
-    "f": "/assets/logos/dir/atout-capital.webp",
+    "f": "/assets/logos/dir/atout-capital-audit-20260913.webp",
+    "nom": "Atout Capital",
+    "w": 405,
+    "h": 67,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 110,
-    "nom": "Atout Capital"
+    "wide": true,
+    "xwide": true
   },
   "atout-pret": {
     "f": "/assets/logos/dir/atout-pret.webp",
@@ -1184,12 +1219,13 @@
     "nom": "AURAE Impact"
   },
   "auriga-partners": {
-    "f": "/assets/logos/dir/auriga-partners.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 93,
-    "nom": "Auriga Partners"
+    "f": "/assets/logos/dir/auriga-partners-audit-20260913.webp",
+    "nom": "Auriga Partners",
+    "w": 336,
+    "h": 160,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "auris": {
     "f": "/assets/logos/dir/auris.webp",
@@ -1224,20 +1260,22 @@
     "nom": "Avalon Capital"
   },
   "avicap": {
-    "f": "/assets/logos/dir/avicap.webp",
-    "dark": false,
-    "wide": false,
-    "w": 49,
-    "h": 43,
-    "nom": "Avicap"
-  },
-  "avire-finance": {
-    "f": "/assets/logos/dir/avire-finance.webp",
+    "f": "/assets/logos/dir/avicap-audit-20260913.webp",
+    "nom": "Avicap",
+    "w": 520,
+    "h": 104,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Avire Finance"
+    "xwide": false
+  },
+  "avire-finance": {
+    "f": "/assets/logos/dir/avire-finance-audit-20260913.webp",
+    "nom": "Avire Finance",
+    "w": 480,
+    "h": 112,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "axa-investment-managers": {
     "f": "/assets/logos/dir/axa-investment-managers.webp",
@@ -1296,12 +1334,13 @@
     "nom": "Ayming Financement DE Proces"
   },
   "az-courtage": {
-    "f": "/assets/logos/dir/az-courtage.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/az-courtage-audit-20260913.webp",
+    "nom": "AZ Courtage",
+    "w": 254,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 92,
-    "h": 88,
-    "nom": "AZ Courtage"
+    "xwide": false
   },
   "azulis-capital": {
     "f": "/assets/logos/dir/azulis-capital.webp",
@@ -1344,12 +1383,13 @@
     "nom": "Baltis"
   },
   "bank-of-america": {
-    "f": "/assets/logos/dir/bank-of-america.webp",
+    "f": "/assets/logos/dir/bank-of-america-audit-20260913.webp",
+    "nom": "Bank of America",
+    "w": 427,
+    "h": 58,
     "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 98,
-    "nom": "Bank of America"
+    "wide": true,
+    "xwide": true
   },
   "bank-r": {
     "f": "/assets/logos/dir/bank-r.webp",
@@ -1360,12 +1400,13 @@
     "nom": "Bank'R"
   },
   "banque-hottinguer": {
-    "f": "/assets/logos/dir/banque-hottinguer.webp",
+    "f": "/assets/logos/dir/banque-hottinguer-audit-20260913.webp",
+    "nom": "Banque Hottinguer",
+    "w": 600,
+    "h": 150,
     "dark": false,
-    "wide": false,
-    "w": 142,
-    "h": 119,
-    "nom": "Banque Hottinguer"
+    "wide": true,
+    "xwide": false
   },
   "banque-richelieu": {
     "f": "/assets/logos/dir/banque-richelieu.webp",
@@ -1392,12 +1433,13 @@
     "nom": "Banque Transatlantique"
   },
   "banquimmo": {
-    "f": "/assets/logos/dir/banquimmo.webp",
+    "f": "/assets/logos/dir/banquimmo-audit-20260913.webp",
+    "nom": "Banquimmo",
+    "w": 180,
+    "h": 217,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 51,
-    "nom": "Banquimmo"
+    "wide": false,
+    "xwide": false
   },
   "barclays": {
     "f": "/assets/logos/dir/barclays.webp",
@@ -1440,12 +1482,13 @@
     "nom": "Bayard Finance"
   },
   "bcr-finances": {
-    "f": "/assets/logos/dir/bcr-finances.webp",
+    "f": "/assets/logos/dir/bcr-finances-audit-20260913.webp",
+    "nom": "BCR Finances",
+    "w": 360,
+    "h": 45,
     "dark": false,
-    "wide": false,
-    "w": 97,
-    "h": 97,
-    "nom": "BCR Finances"
+    "wide": true,
+    "xwide": true
   },
   "bd-conseils": {
     "f": "/assets/logos/dir/bd-conseils.webp",
@@ -1480,12 +1523,13 @@
     "nom": "Bee Family Office"
   },
   "beelong-family-office": {
-    "f": "/assets/logos/dir/beelong-family-office.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/beelong-family-office-audit-20260913.webp",
+    "nom": "Beelong Family Office",
+    "w": 424,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 192,
-    "h": 104,
-    "nom": "Beelong Family Office"
+    "xwide": false
   },
   "belvedere-advisory": {
     "f": "/assets/logos/dir/belvedere-advisory.webp",
@@ -1496,12 +1540,13 @@
     "nom": "Belvedere Advisory"
   },
   "berrylaw": {
-    "f": "/assets/logos/dir/berrylaw.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 45,
-    "nom": "Berrylaw"
+    "f": "/assets/logos/dir/berrylaw-audit-20260913.webp",
+    "nom": "Berrylaw",
+    "w": 323,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "bex-capital": {
     "f": "/assets/logos/dir/bex-capital.webp",
@@ -1520,20 +1565,22 @@
     "nom": "BG2C Finances"
   },
   "bg2v": {
-    "f": "/assets/logos/dir/bg2v.webp",
+    "f": "/assets/logos/dir/bg2v-audit-20260913.webp",
+    "nom": "BG2V",
+    "w": 198,
+    "h": 59,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "BG2V"
+    "wide": true,
+    "xwide": false
   },
   "bird-bird-aarpi": {
-    "f": "/assets/logos/dir/bird-bird-aarpi.webp",
-    "dark": false,
-    "wide": false,
-    "w": 115,
-    "h": 100,
-    "nom": "Bird &amp; Bird AARPI"
+    "f": "/assets/logos/dir/bird-bird-aarpi-audit-20260913.webp",
+    "nom": "Bird & Bird AARPI",
+    "w": 503,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "bl-courtage": {
     "f": "/assets/logos/dir/bl-courtage.webp",
@@ -1560,12 +1607,13 @@
     "nom": "BlackPearl Family Office"
   },
   "blisce": {
-    "f": "/assets/logos/dir/blisce.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/blisce-audit-20260913.webp",
+    "nom": "Blisce",
+    "w": 85,
+    "h": 85,
+    "dark": true,
     "wide": false,
-    "w": 82,
-    "h": 140,
-    "nom": "Blisce"
+    "xwide": false
   },
   "bloom-legal": {
     "f": "/assets/logos/dir/bloom-legal.webp",
@@ -1624,12 +1672,13 @@
     "nom": "Bonjour Patrimoine"
   },
   "bonnard-lawson": {
-    "f": "/assets/logos/dir/bonnard-lawson.webp",
-    "dark": false,
-    "wide": false,
-    "w": 160,
-    "h": 192,
-    "nom": "Bonnard Lawson"
+    "f": "/assets/logos/dir/bonnard-lawson-audit-20260913.webp",
+    "nom": "Bonnard Lawson",
+    "w": 600,
+    "h": 118,
+    "dark": true,
+    "wide": true,
+    "xwide": true
   },
   "bordeaux-sud": {
     "f": "/assets/logos/dir/bordeaux-sud.webp",
@@ -1640,20 +1689,22 @@
     "nom": "Bordeaux SUD"
   },
   "bordier-cie": {
-    "f": "/assets/logos/dir/bordier-cie.webp",
+    "f": "/assets/logos/dir/bordier-cie-audit-20260913.webp",
+    "nom": "Bordier & Cie",
+    "w": 600,
+    "h": 123,
     "dark": false,
-    "wide": false,
-    "w": 112,
-    "h": 149,
-    "nom": "Bordier &amp; Cie"
+    "wide": true,
+    "xwide": false
   },
   "bordier-cie-france": {
-    "f": "/assets/logos/dir/bordier-cie-france.webp",
+    "f": "/assets/logos/dir/bordier-cie-france-audit-20260913.webp",
+    "nom": "Bordier & Cie France",
+    "w": 600,
+    "h": 123,
     "dark": false,
-    "wide": false,
-    "w": 112,
-    "h": 149,
-    "nom": "Bordier &amp; Cie France"
+    "wide": true,
+    "xwide": false
   },
   "boreal-patrimoine": {
     "f": "/assets/logos/dir/boreal-patrimoine.webp",
@@ -1720,20 +1771,22 @@
     "nom": "Brighteye Research Paris"
   },
   "brookfield": {
-    "f": "/assets/logos/dir/brookfield.webp",
-    "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Brookfield"
-  },
-  "budgeo": {
-    "f": "/assets/logos/dir/budgeo.webp",
+    "f": "/assets/logos/dir/brookfield-audit-20260913.webp",
+    "nom": "Brookfield",
+    "w": 600,
+    "h": 92,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 65,
-    "nom": "Budgeo"
+    "xwide": true
+  },
+  "budgeo": {
+    "f": "/assets/logos/dir/budgeo-audit-20260913.webp",
+    "nom": "Budgeo",
+    "w": 347,
+    "h": 120,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "bureau-finance-epargne": {
     "f": "/assets/logos/dir/bureau-finance-epargne.webp",
@@ -2024,12 +2077,13 @@
     "nom": "Capital Initiative Financement"
   },
   "capitem-partenaires": {
-    "f": "/assets/logos/dir/capitem-partenaires.webp",
+    "f": "/assets/logos/dir/capitem-partenaires-audit-20260913.webp",
+    "nom": "Capitem Partenaires",
+    "w": 232,
+    "h": 67,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 65,
-    "nom": "Capitem Partenaires"
+    "xwide": false
   },
   "capitole-energie": {
     "f": "/assets/logos/dir/capitole-energie.webp",
@@ -2056,12 +2110,13 @@
     "nom": "Capyg"
   },
   "carat-capital": {
-    "f": "/assets/logos/dir/carat-capital.webp",
+    "f": "/assets/logos/dir/carat-capital-audit-20260913.webp",
+    "nom": "Carat Capital",
+    "w": 512,
+    "h": 102,
     "dark": false,
-    "wide": false,
-    "w": 126,
-    "h": 160,
-    "nom": "Carat Capital"
+    "wide": true,
+    "xwide": true
   },
   "cardif-lux-vie": {
     "f": "/assets/logos/dir/cardif-lux-vie.webp",
@@ -2104,12 +2159,13 @@
     "nom": "Cassini"
   },
   "cathay-innovation": {
-    "f": "/assets/logos/dir/cathay-innovation.webp",
-    "dark": true,
-    "wide": false,
-    "w": 46,
-    "h": 48,
-    "nom": "Cathay Innovation"
+    "f": "/assets/logos/dir/cathay-innovation-audit-20260913.webp",
+    "nom": "Cathay Innovation",
+    "w": 587,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "cayola-consulting-patrimoine": {
     "f": "/assets/logos/dir/cayola-consulting-patrimoine.webp",
@@ -2120,12 +2176,13 @@
     "nom": "Cayola Consulting Patrimoine"
   },
   "cazals-manzo": {
-    "f": "/assets/logos/dir/cazals-manzo.webp",
+    "f": "/assets/logos/dir/cazals-manzo-audit-20260913.webp",
+    "nom": "Cazals Manzo",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 59,
-    "h": 69,
-    "nom": "Cazals Manzo"
+    "xwide": false
   },
   "cb-courtage": {
     "f": "/assets/logos/dir/cb-courtage.webp",
@@ -2152,12 +2209,13 @@
     "nom": "CCI Finance"
   },
   "ccr-invest": {
-    "f": "/assets/logos/dir/ccr-invest.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "CCR Invest"
+    "f": "/assets/logos/dir/ccr-invest-audit-20260913.webp",
+    "nom": "CCR Invest",
+    "w": 600,
+    "h": 150,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "ccsm": {
     "f": "/assets/logos/dir/ccsm.webp",
@@ -2208,12 +2266,13 @@
     "nom": "CE Courtage &amp; Finances"
   },
   "cedrus-partners": {
-    "f": "/assets/logos/dir/cedrus-partners.webp",
-    "dark": false,
-    "wide": false,
-    "w": 91,
-    "h": 97,
-    "nom": "Cedrus Partners"
+    "f": "/assets/logos/dir/cedrus-partners-audit-20260913.webp",
+    "nom": "Cedrus Partners",
+    "w": 508,
+    "h": 113,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "cehenne-patrimoine": {
     "f": "/assets/logos/dir/cehenne-patrimoine.webp",
@@ -2224,12 +2283,13 @@
     "nom": "Céhenne Patrimoine"
   },
   "celyan": {
-    "f": "/assets/logos/dir/celyan.webp",
+    "f": "/assets/logos/dir/celyan-audit-20260913.webp",
+    "nom": "Celyan",
+    "w": 600,
+    "h": 240,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 74,
-    "nom": "Celyan"
+    "xwide": false
   },
   "centerview-partners": {
     "f": "/assets/logos/dir/centerview-partners.webp",
@@ -2264,12 +2324,13 @@
     "nom": "Cézembre Capital"
   },
   "cf-profina": {
-    "f": "/assets/logos/dir/cf-profina.webp",
+    "f": "/assets/logos/dir/cf-profina-audit-20260913.webp",
+    "nom": "CF Profina",
+    "w": 599,
+    "h": 105,
     "dark": false,
-    "wide": false,
-    "w": 170,
-    "h": 192,
-    "nom": "CF Profina"
+    "wide": true,
+    "xwide": true
   },
   "cg-conseils": {
     "f": "/assets/logos/dir/cg-conseils.webp",
@@ -2280,12 +2341,13 @@
     "nom": "CG Conseils"
   },
   "cga-patrimoine": {
-    "f": "/assets/logos/dir/cga-patrimoine.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/cga-patrimoine-audit-20260913.webp",
+    "nom": "CGA Patrimoine",
+    "w": 435,
+    "h": 119,
+    "dark": true,
     "wide": true,
-    "w": 162,
-    "h": 42,
-    "nom": "CGA Patrimoine"
+    "xwide": false
   },
   "cgp-expert": {
     "f": "/assets/logos/dir/cgp-expert.webp",
@@ -2384,12 +2446,13 @@
     "nom": "Cinécapital"
   },
   "cinven-france-sas": {
-    "f": "/assets/logos/dir/cinven-france-sas.webp",
+    "f": "/assets/logos/dir/cinven-france-sas-audit-20260913.webp",
+    "nom": "Cinven France SAS",
+    "w": 600,
+    "h": 104,
     "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Cinven France SAS"
+    "wide": true,
+    "xwide": true
   },
   "citi": {
     "f": "/assets/logos/dir/citi.webp",
@@ -2408,28 +2471,31 @@
     "nom": "Citi Private Bank"
   },
   "city-and-co-centre-loire": {
-    "f": "/assets/logos/dir/city-and-co-centre-loire.webp",
+    "f": "/assets/logos/dir/city-and-co-centre-loire-audit-20260913.webp",
+    "nom": "City AND CO Centre Loire",
+    "w": 414,
+    "h": 122,
     "dark": true,
     "wide": true,
-    "w": 191,
-    "h": 69,
-    "nom": "City AND CO Centre Loire"
+    "xwide": false
   },
   "city-stone": {
-    "f": "/assets/logos/dir/city-stone.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/city-stone-audit-20260913.webp",
+    "nom": "City Stone",
+    "w": 600,
+    "h": 140,
+    "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "City Stone"
+    "xwide": false
   },
   "cj-finance-invest": {
-    "f": "/assets/logos/dir/cj-finance-invest.webp",
+    "f": "/assets/logos/dir/cj-finance-invest-audit-20260913.webp",
+    "nom": "CJ Finance Invest",
+    "w": 233,
+    "h": 94,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 28,
-    "nom": "CJ Finance Invest"
+    "xwide": false
   },
   "cks-courtage-immobilier": {
     "f": "/assets/logos/dir/cks-courtage-immobilier.webp",
@@ -2504,12 +2570,13 @@
     "nom": "Club Patrimoine"
   },
   "cncgp-chambre-nationale-des-conseils-en-gestion-de-patrimoine": {
-    "f": "/assets/logos/dir/cncgp-chambre-nationale-des-conseils-en-gestion-de-patrimoine.webp",
+    "f": "/assets/logos/dir/cncgp-chambre-nationale-des-conseils-en-gestion-de-patrimoine-audit-20260913.webp",
+    "nom": "CNCGP - Chambre Nationale des Conseils en Gestion de Patrimoine",
+    "w": 542,
+    "h": 240,
     "dark": false,
-    "wide": false,
-    "w": 56,
-    "h": 57,
-    "nom": "CNCGP - Chambre Nationale des Conseils en Gestion de Patrimoine"
+    "wide": true,
+    "xwide": false
   },
   "cni-conseil": {
     "f": "/assets/logos/dir/cni-conseil.webp",
@@ -2560,12 +2627,13 @@
     "nom": "Colorado"
   },
   "come-maison-financiere": {
-    "f": "/assets/logos/dir/come-maison-financiere.webp",
+    "f": "/assets/logos/dir/come-maison-financiere-audit-20260913.webp",
+    "nom": "Côme Maison Financière",
+    "w": 555,
+    "h": 205,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 71,
-    "nom": "Côme Maison Financière"
+    "xwide": false
   },
   "committed-advisors": {
     "f": "/assets/logos/dir/committed-advisors.webp",
@@ -2608,12 +2676,13 @@
     "nom": "Conciliapret"
   },
   "connectcredit": {
-    "f": "/assets/logos/dir/connectcredit.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/connectcredit-audit-20260913.webp",
+    "nom": "Connectcredit",
+    "w": 600,
+    "h": 116,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 38,
-    "nom": "Connectcredit"
+    "xwide": true
   },
   "conseil-financement-pg": {
     "f": "/assets/logos/dir/conseil-financement-pg.webp",
@@ -2752,12 +2821,13 @@
     "nom": "Credissimmo France"
   },
   "credit-agricole-cib": {
-    "f": "/assets/logos/dir/credit-agricole-cib.webp",
+    "f": "/assets/logos/dir/credit-agricole-cib-audit-20260913.webp",
+    "nom": "Crédit Agricole CIB",
+    "w": 600,
+    "h": 72,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 74,
-    "nom": "Crédit Agricole CIB"
+    "xwide": true
   },
   "credit-agricole-indosuez": {
     "f": "/assets/logos/dir/credit-agricole-indosuez.webp",
@@ -2768,12 +2838,13 @@
     "nom": "Crédit Agricole Indosuez"
   },
   "credit-agricole-payments-services": {
-    "f": "/assets/logos/dir/credit-agricole-payments-services.webp",
+    "f": "/assets/logos/dir/credit-agricole-payments-services-audit-20260913.webp",
+    "nom": "Credit Agricole Payments Services",
+    "w": 119,
+    "h": 17,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 74,
-    "nom": "Credit Agricole Payments Services"
+    "xwide": true
   },
   "credit-avenue": {
     "f": "/assets/logos/dir/credit-avenue.webp",
@@ -2792,12 +2863,13 @@
     "nom": "Credit Conseil Immo"
   },
   "credit-home-financement": {
-    "f": "/assets/logos/dir/credit-home-financement.webp",
-    "dark": false,
-    "wide": false,
-    "w": 175,
-    "h": 192,
-    "nom": "Credit Home Financement"
+    "f": "/assets/logos/dir/credit-home-financement-audit-20260913.webp",
+    "nom": "Credit Home Financement",
+    "w": 466,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "credit-pack": {
     "f": "/assets/logos/dir/credit-pack.webp",
@@ -2848,12 +2920,13 @@
     "nom": "Credits DU Centre"
   },
   "credits-et-conseils": {
-    "f": "/assets/logos/dir/credits-et-conseils.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/credits-et-conseils-audit-20260913.webp",
+    "nom": "Credits ET Conseils",
+    "w": 273,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 143,
-    "h": 192,
-    "nom": "Credits ET Conseils"
+    "xwide": false
   },
   "credixel": {
     "f": "/assets/logos/dir/credixel.webp",
@@ -2971,20 +3044,22 @@
     "nom": "Davis Polk"
   },
   "de-sancy": {
-    "f": "/assets/logos/dir/de-sancy.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/de-sancy-audit-20260913.webp",
+    "nom": "De Sancy",
+    "w": 289,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 126,
-    "h": 127,
-    "nom": "De Sancy"
+    "xwide": false
   },
   "de-sancy-patrimoine": {
-    "f": "/assets/logos/dir/de-sancy-patrimoine.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/de-sancy-patrimoine-audit-20260913.webp",
+    "nom": "De Sancy Patrimoine",
+    "w": 289,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 126,
-    "h": 127,
-    "nom": "De Sancy Patrimoine"
+    "xwide": false
   },
   "dea-capital-real-estate-france": {
     "f": "/assets/logos/dir/dea-capital-real-estate-france.webp",
@@ -3011,12 +3086,13 @@
     "nom": "Debevoise &amp; Plimpton LLP"
   },
   "decarion": {
-    "f": "/assets/logos/dir/decarion.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/decarion-audit-20260913.webp",
+    "nom": "Decarion",
+    "w": 228,
+    "h": 134,
+    "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 132,
-    "nom": "Decarion"
+    "xwide": false
   },
   "decarion-office": {
     "f": "/assets/logos/dir/decarion-office.webp",
@@ -3131,12 +3207,13 @@
     "nom": "DNA Finance"
   },
   "dobree-patrimoine": {
-    "f": "/assets/logos/dir/dobree-patrimoine.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/dobree-patrimoine-audit-20260913.webp",
+    "nom": "Dobree Patrimoine",
+    "w": 428,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 170,
-    "h": 86,
-    "nom": "Dobree Patrimoine"
+    "xwide": false
   },
   "domiserve": {
     "f": "/assets/logos/dir/domiserve.webp",
@@ -3235,12 +3312,13 @@
     "nom": "EDF Invest"
   },
   "edf-trading-markets-limited": {
-    "f": "/assets/logos/dir/edf-trading-markets-limited.webp",
+    "f": "/assets/logos/dir/edf-trading-markets-limited-audit-20260913.webp",
+    "nom": "EDF Trading Markets Limited",
+    "w": 387,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "EDF Trading Markets Limited"
+    "xwide": false
   },
   "edmon": {
     "f": "/assets/logos/dir/edmon.webp",
@@ -3283,12 +3361,13 @@
     "nom": "Ekkio Capital"
   },
   "elea-capital": {
-    "f": "/assets/logos/dir/elea-capital.webp",
+    "f": "/assets/logos/dir/elea-capital-audit-20260913.webp",
+    "nom": "Elea Capital",
+    "w": 300,
+    "h": 142,
     "dark": false,
-    "wide": false,
-    "w": 32,
-    "h": 32,
-    "nom": "Elea Capital"
+    "wide": true,
+    "xwide": false
   },
   "elige-capital": {
     "f": "/assets/logos/dir/elige-capital.webp",
@@ -3395,12 +3474,13 @@
     "nom": "Energie Pulse"
   },
   "ennoia-patrimoine": {
-    "f": "/assets/logos/dir/ennoia-patrimoine.webp",
+    "f": "/assets/logos/dir/ennoia-patrimoine-audit-20260913.webp",
+    "nom": "Ennoia Patrimoine",
+    "w": 600,
+    "h": 189,
     "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 130,
-    "nom": "Ennoia Patrimoine"
+    "wide": true,
+    "xwide": false
   },
   "eoden-ressources": {
     "f": "/assets/logos/dir/eoden-ressources.webp",
@@ -3491,36 +3571,40 @@
     "nom": "Equistone Partners France SAS"
   },
   "equityzen": {
-    "f": "/assets/logos/dir/equityzen.webp",
+    "f": "/assets/logos/dir/equityzen-audit-20260913.webp",
+    "nom": "EquityZen",
+    "w": 600,
+    "h": 176,
     "dark": false,
-    "wide": false,
-    "w": 108,
-    "h": 108,
-    "nom": "EquityZen"
+    "wide": true,
+    "xwide": false
   },
   "erganeo": {
-    "f": "/assets/logos/dir/erganeo.webp",
+    "f": "/assets/logos/dir/erganeo-audit-20260913.webp",
+    "nom": "Erganeo",
+    "w": 267,
+    "h": 40,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 128,
-    "nom": "Erganeo"
+    "wide": true,
+    "xwide": true
   },
   "erganeo-sas": {
-    "f": "/assets/logos/dir/erganeo-sas.webp",
+    "f": "/assets/logos/dir/erganeo-sas-audit-20260913.webp",
+    "nom": "Erganeo SAS",
+    "w": 267,
+    "h": 40,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 128,
-    "nom": "Erganeo SAS"
+    "wide": true,
+    "xwide": true
   },
   "esfin-gestion-credit-cooperatif": {
-    "f": "/assets/logos/dir/esfin-gestion-credit-cooperatif.webp",
+    "f": "/assets/logos/dir/esfin-gestion-credit-cooperatif-audit-20260913.webp",
+    "nom": "Esfin Gestion (Crédit Coopératif)",
+    "w": 369,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 124,
-    "nom": "Esfin Gestion (Crédit Coopératif)"
+    "xwide": false
   },
   "essling-capital": {
     "f": "/assets/logos/dir/essling-capital.webp",
@@ -3547,12 +3631,13 @@
     "nom": "Estuaire Finances Atlantique"
   },
   "estuaire-notaires": {
-    "f": "/assets/logos/dir/estuaire-notaires.webp",
+    "f": "/assets/logos/dir/estuaire-notaires-audit-20260913.webp",
+    "nom": "Estuaire Notaires",
+    "w": 227,
+    "h": 240,
     "dark": false,
-    "wide": true,
-    "w": 189,
-    "h": 70,
-    "nom": "Estuaire Notaires"
+    "wide": false,
+    "xwide": false
   },
   "ethicus-patrimoine": {
     "f": "/assets/logos/dir/ethicus-patrimoine.webp",
@@ -3587,12 +3672,13 @@
     "nom": "Eurazeo"
   },
   "eurinfi": {
-    "f": "/assets/logos/dir/eurinfi.webp",
+    "f": "/assets/logos/dir/eurinfi-audit-20260913.webp",
+    "nom": "Eurinfi",
+    "w": 420,
+    "h": 115,
     "dark": false,
     "wide": true,
-    "w": 191,
-    "h": 43,
-    "nom": "Eurinfi"
+    "xwide": false
   },
   "euro-courtage": {
     "f": "/assets/logos/dir/euro-courtage.webp",
@@ -3635,12 +3721,13 @@
     "nom": "Evarinvest AM"
   },
   "evercore": {
-    "f": "/assets/logos/dir/evercore.webp",
+    "f": "/assets/logos/dir/evercore-audit-20260913.webp",
+    "nom": "Evercore",
+    "w": 521,
+    "h": 82,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 52,
-    "nom": "Evercore"
+    "xwide": true
   },
   "evolem": {
     "f": "/assets/logos/dir/evolem.webp",
@@ -3659,12 +3746,13 @@
     "nom": "Evolufi"
   },
   "excelium-finance": {
-    "f": "/assets/logos/dir/excelium-finance.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 132,
-    "nom": "Excelium Finance"
+    "f": "/assets/logos/dir/excelium-finance-audit-20260913.webp",
+    "nom": "Excelium Finance",
+    "w": 427,
+    "h": 123,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "excellia-finance-conseil": {
     "f": "/assets/logos/dir/excellia-finance-conseil.webp",
@@ -3699,12 +3787,13 @@
     "nom": "Expole Patrimoine"
   },
   "extendam": {
-    "f": "/assets/logos/dir/extendam.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/extendam-audit-20260913.webp",
+    "nom": "Extendam",
+    "w": 530,
+    "h": 137,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 27,
-    "nom": "Extendam"
+    "xwide": false
   },
   "f31": {
     "f": "/assets/logos/dir/f31.webp",
@@ -3795,12 +3884,13 @@
     "nom": "FI Courtage"
   },
   "ficamex-patrimoine": {
-    "f": "/assets/logos/dir/ficamex-patrimoine.webp",
-    "dark": true,
-    "wide": false,
-    "w": 188,
-    "h": 188,
-    "nom": "Ficamex Patrimoine"
+    "f": "/assets/logos/dir/ficamex-patrimoine-audit-20260913.webp",
+    "nom": "Ficamex Patrimoine",
+    "w": 496,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": true
   },
   "fidelia-patrimoine": {
     "f": "/assets/logos/dir/fidelia-patrimoine.webp",
@@ -3875,12 +3965,13 @@
     "nom": "Finance Conseil Leasing Solutions"
   },
   "finance-et-factor": {
-    "f": "/assets/logos/dir/finance-et-factor.webp",
+    "f": "/assets/logos/dir/finance-et-factor-audit-20260913.webp",
+    "nom": "Finance ET Factor",
+    "w": 150,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 49,
-    "h": 57,
-    "nom": "Finance ET Factor"
+    "xwide": false
   },
   "finance-et-tradition-2": {
     "f": "/assets/logos/dir/finance-et-tradition-2.webp",
@@ -3891,20 +3982,22 @@
     "nom": "Finance ET Tradition 2"
   },
   "finance-invest": {
-    "f": "/assets/logos/dir/finance-invest.webp",
-    "dark": true,
-    "wide": false,
-    "w": 185,
-    "h": 192,
-    "nom": "Finance Invest"
+    "f": "/assets/logos/dir/finance-invest-audit-20260913.webp",
+    "nom": "Finance Invest",
+    "w": 600,
+    "h": 191,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "finance-invest-gestion-de-patrimoine": {
-    "f": "/assets/logos/dir/finance-invest-gestion-de-patrimoine.webp",
-    "dark": true,
-    "wide": false,
-    "w": 185,
-    "h": 192,
-    "nom": "Finance Invest - Gestion de Patrimoine"
+    "f": "/assets/logos/dir/finance-invest-gestion-de-patrimoine-audit-20260913.webp",
+    "nom": "Finance Invest - Gestion de Patrimoine",
+    "w": 600,
+    "h": 191,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "financeclub": {
     "f": "/assets/logos/dir/financeclub.webp",
@@ -3971,12 +4064,13 @@
     "nom": "Finantis"
   },
   "finaway-courtage": {
-    "f": "/assets/logos/dir/finaway-courtage.webp",
+    "f": "/assets/logos/dir/finaway-courtage-audit-20260913.webp",
+    "nom": "Finaway Courtage",
+    "w": 465,
+    "h": 240,
     "dark": false,
-    "wide": false,
-    "w": 140,
-    "h": 72,
-    "nom": "Finaway Courtage"
+    "wide": true,
+    "xwide": false
   },
   "finaxeed": {
     "f": "/assets/logos/dir/finaxeed.webp",
@@ -3995,20 +4089,22 @@
     "nom": "Finaxio"
   },
   "finebac": {
-    "f": "/assets/logos/dir/finebac.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/finebac-audit-20260913.webp",
+    "nom": "Finebac",
+    "w": 576,
+    "h": 240,
+    "dark": true,
     "wide": true,
-    "w": 170,
-    "h": 57,
-    "nom": "Finebac"
+    "xwide": false
   },
   "finexpertpro-com": {
-    "f": "/assets/logos/dir/finexpertpro-com.webp",
+    "f": "/assets/logos/dir/finexpertpro-com-audit-20260913.webp",
+    "nom": "Finexpertpro.Com",
+    "w": 600,
+    "h": 166,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Finexpertpro.Com"
+    "xwide": false
   },
   "finidemepriver-com": {
     "f": "/assets/logos/dir/finidemepriver-com.webp",
@@ -4075,12 +4171,13 @@
     "nom": "Finzzle Groupe"
   },
   "fipagest": {
-    "f": "/assets/logos/dir/fipagest.webp",
+    "f": "/assets/logos/dir/fipagest-audit-20260913.webp",
+    "nom": "Fipagest",
+    "w": 300,
+    "h": 200,
     "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 37,
-    "nom": "Fipagest"
+    "wide": false,
+    "xwide": false
   },
   "first-conseil": {
     "f": "/assets/logos/dir/first-conseil.webp",
@@ -4131,12 +4228,13 @@
     "nom": "For Talents Transmission"
   },
   "forge-global": {
-    "f": "/assets/logos/dir/forge-global.webp",
+    "f": "/assets/logos/dir/forge-global-audit-20260913.webp",
+    "nom": "Forge Global",
+    "w": 245,
+    "h": 80,
     "dark": false,
-    "wide": false,
-    "w": 89,
-    "h": 94,
-    "nom": "Forge Global"
+    "wide": true,
+    "xwide": false
   },
   "fortunea-invest": {
     "f": "/assets/logos/dir/fortunea-invest.webp",
@@ -4163,20 +4261,22 @@
     "nom": "Fouquet Patrimoine"
   },
   "france-garanties": {
-    "f": "/assets/logos/dir/france-garanties.webp",
+    "f": "/assets/logos/dir/france-garanties-audit-20260913.webp",
+    "nom": "France Garanties",
+    "w": 340,
+    "h": 78,
     "dark": false,
     "wide": true,
-    "w": 146,
-    "h": 30,
-    "nom": "France Garanties"
+    "xwide": false
   },
   "france-valley": {
-    "f": "/assets/logos/dir/france-valley.webp",
+    "f": "/assets/logos/dir/france-valley-audit-20260913.webp",
+    "nom": "France Valley",
+    "w": 600,
+    "h": 145,
     "dark": false,
-    "wide": false,
-    "w": 144,
-    "h": 126,
-    "nom": "France Valley"
+    "wide": true,
+    "xwide": false
   },
   "francois-1er-finance": {
     "f": "/assets/logos/dir/francois-1er-finance.webp",
@@ -4235,20 +4335,22 @@
     "nom": "Gaday Invest"
   },
   "gaia-consulting": {
-    "f": "/assets/logos/dir/gaia-consulting.webp",
-    "dark": false,
-    "wide": false,
-    "w": 48,
+    "f": "/assets/logos/dir/gaia-consulting-audit-20260913.webp",
+    "nom": "Gaia Consulting",
+    "w": 93,
     "h": 43,
-    "nom": "Gaia Consulting"
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "galia-gestion": {
-    "f": "/assets/logos/dir/galia-gestion.webp",
+    "f": "/assets/logos/dir/galia-gestion-audit-20260913.webp",
+    "nom": "Galia Gestion",
+    "w": 140,
+    "h": 47,
     "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Galia Gestion"
+    "wide": true,
+    "xwide": false
   },
   "galiena-capital": {
     "f": "/assets/logos/dir/galiena-capital.webp",
@@ -4259,12 +4361,13 @@
     "nom": "Galiena Capital"
   },
   "garibaldi-participations": {
-    "f": "/assets/logos/dir/garibaldi-participations.webp",
+    "f": "/assets/logos/dir/garibaldi-participations-audit-20260913.webp",
+    "nom": "Garibaldi Participations",
+    "w": 556,
+    "h": 168,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 85,
-    "nom": "Garibaldi Participations"
+    "xwide": false
   },
   "garonne-patrimoine": {
     "f": "/assets/logos/dir/garonne-patrimoine.webp",
@@ -4299,15 +4402,13 @@
     "nom": "Giano Capital"
   },
   "gide-loyrette-nouel": {
-    "f": "/assets/logos/dir/gide-loyrette-nouel.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 180,
-    "h": 180,
+    "f": "/assets/logos/dir/gide-loyrette-nouel-audit-20260913.webp",
     "nom": "Gide Loyrette Nouel",
-    "src": "https://www.gide.com/wp-content/themes/gide/assets/favicon/apple-touch-icon.png",
-    "rescue": true
+    "w": 320,
+    "h": 96,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "gilbert-dupont": {
     "f": "/assets/logos/dir/gilbert-dupont.webp",
@@ -4350,12 +4451,13 @@
     "nom": "GMV Notaires"
   },
   "go-capital": {
-    "f": "/assets/logos/dir/go-capital.webp",
+    "f": "/assets/logos/dir/go-capital-audit-20260913.webp",
+    "nom": "Go Capital",
+    "w": 600,
+    "h": 78,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 27,
-    "nom": "Go Capital"
+    "xwide": true
   },
   "goetzpartners": {
     "f": "/assets/logos/dir/goetzpartners.webp",
@@ -4366,28 +4468,31 @@
     "nom": "Goetzpartners"
   },
   "gold-patrimoine": {
-    "f": "/assets/logos/dir/gold-patrimoine.webp",
+    "f": "/assets/logos/dir/gold-patrimoine-audit-20260913.webp",
+    "nom": "Gold Patrimoine",
+    "w": 74,
+    "h": 28,
     "dark": false,
     "wide": true,
-    "w": 74,
-    "h": 29,
-    "nom": "Gold Patrimoine"
+    "xwide": false
   },
   "goldman-sachs-bank-europe-se": {
-    "f": "/assets/logos/dir/goldman-sachs-bank-europe-se.webp",
+    "f": "/assets/logos/dir/goldman-sachs-bank-europe-se-audit-20260913.webp",
+    "nom": "Goldman Sachs Bank Europe SE",
+    "w": 232,
+    "h": 96,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 164,
-    "nom": "Goldman Sachs Bank Europe SE"
+    "wide": true,
+    "xwide": false
   },
   "goldman-sachs-paris-inc-cie": {
-    "f": "/assets/logos/dir/goldman-sachs-paris-inc-cie.webp",
+    "f": "/assets/logos/dir/goldman-sachs-paris-inc-cie-audit-20260913.webp",
+    "nom": "Goldman Sachs Paris Inc & Cie",
+    "w": 232,
+    "h": 96,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 164,
-    "nom": "Goldman Sachs Paris Inc &amp; Cie"
+    "wide": true,
+    "xwide": false
   },
   "goodvest": {
     "f": "/assets/logos/dir/goodvest.webp",
@@ -4518,20 +4623,22 @@
     "nom": "Groupe Insinia"
   },
   "groupe-orion": {
-    "f": "/assets/logos/dir/groupe-orion.webp",
+    "f": "/assets/logos/dir/groupe-orion-audit-20260913.webp",
+    "nom": "Groupe Orion",
+    "w": 600,
+    "h": 189,
     "dark": false,
     "wide": true,
-    "w": 138,
-    "h": 58,
-    "nom": "Groupe Orion"
+    "xwide": false
   },
   "groupe-patrimmofi": {
-    "f": "/assets/logos/dir/groupe-patrimmofi.webp",
+    "f": "/assets/logos/dir/groupe-patrimmofi-audit-20260913.webp",
+    "nom": "Groupe Patrimmofi",
+    "w": 451,
+    "h": 85,
     "dark": false,
-    "wide": false,
-    "w": 101,
-    "h": 115,
-    "nom": "Groupe Patrimmofi"
+    "wide": true,
+    "xwide": true
   },
   "groupe-premium": {
     "f": "/assets/logos/dir/groupe-premium.webp",
@@ -4606,20 +4713,22 @@
     "nom": "Haskell Patrimoine Conseil - Groupe Patrimmofi"
   },
   "haussmann-finance": {
-    "f": "/assets/logos/dir/haussmann-finance.webp",
+    "f": "/assets/logos/dir/haussmann-finance-audit-20260913.webp",
+    "nom": "Haussmann Finance",
+    "w": 600,
+    "h": 80,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 25,
-    "nom": "Haussmann Finance"
+    "xwide": true
   },
   "haussmann-notaires": {
-    "f": "/assets/logos/dir/haussmann-notaires.webp",
+    "f": "/assets/logos/dir/haussmann-notaires-audit-20260913.webp",
+    "nom": "Haussmann Notaires",
+    "w": 592,
+    "h": 139,
     "dark": false,
     "wide": true,
-    "w": 172,
-    "h": 40,
-    "nom": "Haussmann Notaires"
+    "xwide": false
   },
   "hayfin-capital": {
     "f": "/assets/logos/dir/hayfin-capital.webp",
@@ -4654,20 +4763,22 @@
     "nom": "Helios Investment Partners LLP"
   },
   "hello-finances": {
-    "f": "/assets/logos/dir/hello-finances.webp",
+    "f": "/assets/logos/dir/hello-finances-audit-20260913.webp",
+    "nom": "Hello Finances",
+    "w": 500,
+    "h": 195,
     "dark": false,
-    "wide": false,
-    "w": 160,
-    "h": 177,
-    "nom": "Hello Finances"
+    "wide": true,
+    "xwide": false
   },
   "hiive": {
-    "f": "/assets/logos/dir/hiive.webp",
+    "f": "/assets/logos/dir/hiive-audit-20260913.webp",
+    "nom": "Hiive",
+    "w": 568,
+    "h": 131,
     "dark": false,
-    "wide": false,
-    "w": 166,
-    "h": 192,
-    "nom": "Hiive"
+    "wide": true,
+    "xwide": false
   },
   "hivest-capital-partners": {
     "f": "/assets/logos/dir/hivest-capital-partners.webp",
@@ -4678,12 +4789,13 @@
     "nom": "Hivest Capital Partners"
   },
   "hoche-avocats": {
-    "f": "/assets/logos/dir/hoche-avocats.webp",
+    "f": "/assets/logos/dir/hoche-avocats-audit-20260913.webp",
+    "nom": "Hoche Avocats",
+    "w": 431,
+    "h": 126,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 26,
-    "nom": "Hoche Avocats"
+    "xwide": false
   },
   "hogan-lovells": {
     "f": "/assets/logos/dir/hogan-lovells.webp",
@@ -4769,12 +4881,13 @@
     "nom": "Ht'Courtage"
   },
   "hyperion-capital": {
-    "f": "/assets/logos/dir/hyperion-capital.webp",
-    "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Hyperion Capital"
+    "f": "/assets/logos/dir/hyperion-capital-audit-20260913.webp",
+    "nom": "Hyperion Capital",
+    "w": 600,
+    "h": 126,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "i-kapital": {
     "f": "/assets/logos/dir/i-kapital.webp",
@@ -4865,12 +4978,13 @@
     "nom": "IDF Capital"
   },
   "idico": {
-    "f": "/assets/logos/dir/idico.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/idico-audit-20260913.webp",
+    "nom": "IdiCo",
+    "w": 304,
+    "h": 125,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 44,
-    "nom": "IdiCo"
+    "xwide": false
   },
   "ik-partners": {
     "f": "/assets/logos/dir/ik-partners.webp",
@@ -4881,12 +4995,13 @@
     "nom": "IK Partners"
   },
   "iker-family-office": {
-    "f": "/assets/logos/dir/iker-family-office.webp",
+    "f": "/assets/logos/dir/iker-family-office-audit-20260913.webp",
+    "nom": "iKer Family Office",
+    "w": 600,
+    "h": 121,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 35,
-    "nom": "iKer Family Office"
+    "xwide": false
   },
   "immo-courtage": {
     "f": "/assets/logos/dir/immo-courtage.webp",
@@ -4921,12 +5036,13 @@
     "nom": "Imonya"
   },
   "in-extenso-finance": {
-    "f": "/assets/logos/dir/in-extenso-finance.webp",
+    "f": "/assets/logos/dir/in-extenso-finance-audit-20260913.webp",
+    "nom": "In Extenso Finance",
+    "w": 600,
+    "h": 158,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 89,
-    "nom": "In Extenso Finance"
+    "wide": true,
+    "xwide": false
   },
   "indigo-capital": {
     "f": "/assets/logos/dir/indigo-capital.webp",
@@ -4985,20 +5101,22 @@
     "nom": "Ingenierie Financiere"
   },
   "initiative-finance": {
-    "f": "/assets/logos/dir/initiative-finance.webp",
+    "f": "/assets/logos/dir/initiative-finance-audit-20260913.webp",
+    "nom": "Initiative & Finance",
+    "w": 600,
+    "h": 227,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 60,
-    "nom": "Initiative &amp; Finance"
+    "xwide": false
   },
   "inlo-avocats": {
-    "f": "/assets/logos/dir/inlo-avocats.webp",
+    "f": "/assets/logos/dir/inlo-avocats-audit-20260913.webp",
+    "nom": "Inlo Avocats",
+    "w": 368,
+    "h": 139,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Inlo Avocats"
+    "wide": true,
+    "xwide": false
   },
   "innoscripta-france": {
     "f": "/assets/logos/dir/innoscripta-france.webp",
@@ -5009,12 +5127,13 @@
     "nom": "Innoscripta France"
   },
   "innovacom": {
-    "f": "/assets/logos/dir/innovacom.webp",
+    "f": "/assets/logos/dir/innovacom-audit-20260913.webp",
+    "nom": "Innovacom",
+    "w": 600,
+    "h": 231,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 44,
-    "nom": "Innovacom"
+    "xwide": false
   },
   "innovafonds": {
     "f": "/assets/logos/dir/innovafonds.webp",
@@ -5073,12 +5192,13 @@
     "nom": "Invest CF"
   },
   "invest-services-finances": {
-    "f": "/assets/logos/dir/invest-services-finances.webp",
+    "f": "/assets/logos/dir/invest-services-finances-audit-20260913.webp",
+    "nom": "Invest Services Finances",
+    "w": 112,
+    "h": 90,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 191,
-    "nom": "Invest Services Finances"
+    "xwide": false
   },
   "investimium": {
     "f": "/assets/logos/dir/investimium.webp",
@@ -5097,20 +5217,22 @@
     "nom": "IP Conseils"
   },
   "ipsum-conseils": {
-    "f": "/assets/logos/dir/ipsum-conseils.webp",
+    "f": "/assets/logos/dir/ipsum-conseils-audit-20260913.webp",
+    "nom": "Ipsum Conseils",
+    "w": 158,
+    "h": 115,
     "dark": false,
     "wide": false,
-    "w": 89,
-    "h": 94,
-    "nom": "Ipsum Conseils"
+    "xwide": false
   },
   "irbis-solutions": {
-    "f": "/assets/logos/dir/irbis-solutions.webp",
+    "f": "/assets/logos/dir/irbis-solutions-audit-20260913.webp",
+    "nom": "Irbis Solutions",
+    "w": 600,
+    "h": 160,
     "dark": false,
-    "wide": false,
-    "w": 147,
-    "h": 72,
-    "nom": "Irbis Solutions"
+    "wide": true,
+    "xwide": false
   },
   "ird-invest": {
     "f": "/assets/logos/dir/ird-invest.webp",
@@ -5121,12 +5243,13 @@
     "nom": "IRD Invest"
   },
   "irdi-capital-investissement": {
-    "f": "/assets/logos/dir/irdi-capital-investissement.webp",
+    "f": "/assets/logos/dir/irdi-capital-investissement-audit-20260913.webp",
+    "nom": "Irdi Capital-Investissement",
+    "w": 307,
+    "h": 51,
     "dark": true,
     "wide": true,
-    "w": 191,
-    "h": 31,
-    "nom": "Irdi Capital-Investissement"
+    "xwide": true
   },
   "isai": {
     "f": "/assets/logos/dir/isai.webp",
@@ -5153,12 +5276,13 @@
     "nom": "Isomer Capital"
   },
   "j3g-patrimoine": {
-    "f": "/assets/logos/dir/j3g-patrimoine.webp",
+    "f": "/assets/logos/dir/j3g-patrimoine-audit-20260913.webp",
+    "nom": "J3G Patrimoine",
+    "w": 168,
+    "h": 240,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 60,
-    "nom": "J3G Patrimoine"
+    "wide": false,
+    "xwide": false
   },
   "jacquet-patrimoine-et-solutions": {
     "f": "/assets/logos/dir/jacquet-patrimoine-et-solutions.webp",
@@ -5169,12 +5293,13 @@
     "nom": "Jacquet Patrimoine ET Solutions"
   },
   "jade-patrimoine": {
-    "f": "/assets/logos/dir/jade-patrimoine.webp",
+    "f": "/assets/logos/dir/jade-patrimoine-audit-20260913.webp",
+    "nom": "Jade Patrimoine",
+    "w": 288,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Jade Patrimoine"
+    "xwide": false
   },
   "jcc": {
     "f": "/assets/logos/dir/jcc.webp",
@@ -5185,12 +5310,13 @@
     "nom": "JCC"
   },
   "jeantet": {
-    "f": "/assets/logos/dir/jeantet.webp",
+    "f": "/assets/logos/dir/jeantet-audit-20260913.webp",
+    "nom": "Jeantet",
+    "w": 222,
+    "h": 94,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 61,
-    "nom": "Jeantet"
+    "xwide": false
   },
   "jeausserand-audouard": {
     "f": "/assets/logos/dir/jeausserand-audouard.webp",
@@ -5433,12 +5559,13 @@
     "nom": "Keyliance"
   },
   "kino-gestion-privee": {
-    "f": "/assets/logos/dir/kino-gestion-privee.webp",
-    "dark": true,
-    "wide": false,
-    "w": 100,
-    "h": 47,
-    "nom": "Kino Gestion Privee"
+    "f": "/assets/logos/dir/kino-gestion-privee-audit-20260913.webp",
+    "nom": "Kino Gestion Privee",
+    "w": 184,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "kj-finances": {
     "f": "/assets/logos/dir/kj-finances.webp",
@@ -5465,20 +5592,22 @@
     "nom": "Kofman Patrimoine"
   },
   "kohlberg-kravis-roberts-co": {
-    "f": "/assets/logos/dir/kohlberg-kravis-roberts-co.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/kohlberg-kravis-roberts-co-audit-20260913.webp",
+    "nom": "Kohlberg Kravis Roberts & CO",
+    "w": 419,
+    "h": 115,
+    "dark": false,
     "wide": true,
-    "w": 191,
-    "h": 46,
-    "nom": "Kohlberg Kravis Roberts &amp; CO"
+    "xwide": false
   },
   "kohlberg-kravis-roberts-co-bureau-paris": {
-    "f": "/assets/logos/dir/kohlberg-kravis-roberts-co-bureau-paris.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/kohlberg-kravis-roberts-co-bureau-paris-audit-20260913.webp",
+    "nom": "Kohlberg Kravis Roberts & Co (Bureau Paris)",
+    "w": 419,
+    "h": 115,
+    "dark": false,
     "wide": true,
-    "w": 191,
-    "h": 46,
-    "nom": "Kohlberg Kravis Roberts &amp; Co (Bureau Paris)"
+    "xwide": false
   },
   "kpmg-avocats": {
     "f": "/assets/logos/dir/kpmg-avocats.webp",
@@ -5497,12 +5626,13 @@
     "nom": "Kzen Consulting"
   },
   "l-agence-francaise-du-patrimoine": {
-    "f": "/assets/logos/dir/l-agence-francaise-du-patrimoine.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/l-agence-francaise-du-patrimoine-audit-20260913.webp",
+    "nom": "L'Agence Française du Patrimoine",
+    "w": 600,
+    "h": 139,
+    "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 46,
-    "nom": "L'Agence Française du Patrimoine"
+    "xwide": false
   },
   "l-catterton-europe-sas": {
     "f": "/assets/logos/dir/l-catterton-europe-sas.webp",
@@ -5521,12 +5651,13 @@
     "nom": "L'Espace Patrimoine"
   },
   "la-cle-finance": {
-    "f": "/assets/logos/dir/la-cle-finance.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/la-cle-finance-audit-20260913.webp",
+    "nom": "LA CLE Finance",
+    "w": 124,
+    "h": 126,
+    "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "LA CLE Finance"
+    "xwide": false
   },
   "la-fontaine-family-office": {
     "f": "/assets/logos/dir/la-fontaine-family-office.webp",
@@ -5537,28 +5668,31 @@
     "nom": "La Fontaine Family Office"
   },
   "la-maison-du-pret-immobilier": {
-    "f": "/assets/logos/dir/la-maison-du-pret-immobilier.webp",
-    "dark": false,
-    "wide": false,
-    "w": 190,
-    "h": 169,
-    "nom": "LA Maison DU Pret Immobilier"
-  },
-  "la-tour-international": {
-    "f": "/assets/logos/dir/la-tour-international.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 95,
-    "nom": "La Tour International"
-  },
-  "lacourte-et-associes": {
-    "f": "/assets/logos/dir/lacourte-et-associes.webp",
+    "f": "/assets/logos/dir/la-maison-du-pret-immobilier-audit-20260913.webp",
+    "nom": "LA Maison DU Pret Immobilier",
+    "w": 317,
+    "h": 147,
     "dark": false,
     "wide": true,
-    "w": 141,
-    "h": 54,
-    "nom": "Lacourte et Associés"
+    "xwide": false
+  },
+  "la-tour-international": {
+    "f": "/assets/logos/dir/la-tour-international-audit-20260913.webp",
+    "nom": "La Tour International",
+    "w": 308,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lacourte-et-associes": {
+    "f": "/assets/logos/dir/lacourte-et-associes-audit-20260913.webp",
+    "nom": "Lacourte et Associés",
+    "w": 403,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "lacourte-raquin-associes": {
     "f": "/assets/logos/dir/lacourte-raquin-associes.webp",
@@ -5593,12 +5727,13 @@
     "nom": "Laurus Conseil"
   },
   "lawford-investment": {
-    "f": "/assets/logos/dir/lawford-investment.webp",
+    "f": "/assets/logos/dir/lawford-investment-audit-20260913.webp",
+    "nom": "Lawford Investment",
+    "w": 337,
+    "h": 140,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 77,
-    "nom": "Lawford Investment"
+    "xwide": false
   },
   "lazard": {
     "f": "/assets/logos/dir/lazard.webp",
@@ -5641,12 +5776,13 @@
     "nom": "LB Finances"
   },
   "lbp-am": {
-    "f": "/assets/logos/dir/lbp-am.webp",
+    "f": "/assets/logos/dir/lbp-am-audit-20260913.webp",
+    "nom": "LBP AM",
+    "w": 284,
+    "h": 57,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 26,
-    "nom": "LBP AM"
+    "xwide": false
   },
   "lcc": {
     "f": "/assets/logos/dir/lcc.webp",
@@ -5657,12 +5793,13 @@
     "nom": "LCC"
   },
   "lce-avocats": {
-    "f": "/assets/logos/dir/lce-avocats.webp",
+    "f": "/assets/logos/dir/lce-avocats-audit-20260913.webp",
+    "nom": "LCE Avocats",
+    "w": 198,
+    "h": 142,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 62,
-    "nom": "LCE Avocats"
+    "wide": false,
+    "xwide": false
   },
   "le-comptoir-des-credits": {
     "f": "/assets/logos/dir/le-comptoir-des-credits.webp",
@@ -5801,12 +5938,13 @@
     "nom": "LIA Patrimoine (Utmost)"
   },
   "liberty-patrimoine": {
-    "f": "/assets/logos/dir/liberty-patrimoine.webp",
+    "f": "/assets/logos/dir/liberty-patrimoine-audit-20260913.webp",
+    "nom": "Liberty Patrimoine",
+    "w": 307,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 134,
-    "nom": "Liberty Patrimoine"
+    "xwide": false
   },
   "libre-invest": {
     "f": "/assets/logos/dir/libre-invest.webp",
@@ -5841,20 +5979,22 @@
     "nom": "Linxea"
   },
   "liontree": {
-    "f": "/assets/logos/dir/liontree.webp",
+    "f": "/assets/logos/dir/liontree-audit-20260913.webp",
+    "nom": "LionTree",
+    "w": 267,
+    "h": 83,
     "dark": true,
-    "wide": false,
-    "w": 77,
-    "h": 76,
-    "nom": "LionTree"
+    "wide": true,
+    "xwide": false
   },
   "lita-gestion": {
-    "f": "/assets/logos/dir/lita-gestion.webp",
+    "f": "/assets/logos/dir/lita-gestion-audit-20260913.webp",
+    "nom": "LITA Gestion",
+    "w": 310,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 79,
-    "h": 85,
-    "nom": "LITA Gestion"
+    "xwide": false
   },
   "ll-berg": {
     "f": "/assets/logos/dir/ll-berg.webp",
@@ -5889,12 +6029,13 @@
     "nom": "LMG Conseil"
   },
   "lr-patrimoine": {
-    "f": "/assets/logos/dir/lr-patrimoine.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 67,
-    "nom": "LR Patrimoine"
+    "f": "/assets/logos/dir/lr-patrimoine-audit-20260913.webp",
+    "nom": "LR Patrimoine",
+    "w": 227,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "ls-advisors": {
     "f": "/assets/logos/dir/ls-advisors.webp",
@@ -5905,12 +6046,13 @@
     "nom": "LS Advisors"
   },
   "lstp": {
-    "f": "/assets/logos/dir/lstp.webp",
+    "f": "/assets/logos/dir/lstp-audit-20260913.webp",
+    "nom": "Lstp",
+    "w": 290,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 155,
-    "nom": "Lstp"
+    "xwide": false
   },
   "ltm-courtage": {
     "f": "/assets/logos/dir/ltm-courtage.webp",
@@ -5953,12 +6095,13 @@
     "nom": "LUZ"
   },
   "luze-family-office": {
-    "f": "/assets/logos/dir/luze-family-office.webp",
-    "dark": false,
-    "wide": false,
-    "w": 127,
-    "h": 192,
-    "nom": "Luze Family Office"
+    "f": "/assets/logos/dir/luze-family-office-audit-20260913.webp",
+    "nom": "Luze Family Office",
+    "w": 262,
+    "h": 98,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "lybellis-patrimoine": {
     "f": "/assets/logos/dir/lybellis-patrimoine.webp",
@@ -5985,28 +6128,31 @@
     "nom": "Lynceus Partners France"
   },
   "lynq-private-office": {
-    "f": "/assets/logos/dir/lynq-private-office.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 63,
-    "nom": "LYNQ Private Office"
-  },
-  "m-capital": {
-    "f": "/assets/logos/dir/m-capital.webp",
+    "f": "/assets/logos/dir/lynq-private-office-audit-20260913.webp",
+    "nom": "LYNQ Private Office",
+    "w": 415,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 153,
-    "nom": "M Capital"
+    "xwide": false
   },
-  "m-conseils": {
-    "f": "/assets/logos/dir/m-conseils.webp",
+  "m-capital": {
+    "f": "/assets/logos/dir/m-capital-audit-20260913.webp",
+    "nom": "M Capital",
+    "w": 600,
+    "h": 76,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 65,
-    "nom": "M Conseils"
+    "xwide": true
+  },
+  "m-conseils": {
+    "f": "/assets/logos/dir/m-conseils-audit-20260913.webp",
+    "nom": "M Conseils",
+    "w": 433,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "m-m-warburg": {
     "f": "/assets/logos/dir/m-m-warburg.webp",
@@ -6121,12 +6267,13 @@
     "nom": "Marine Patrimoine"
   },
   "marlin-equity-partners": {
-    "f": "/assets/logos/dir/marlin-equity-partners.webp",
+    "f": "/assets/logos/dir/marlin-equity-partners-audit-20260913.webp",
+    "nom": "Marlin Equity Partners",
+    "w": 600,
+    "h": 154,
     "dark": false,
-    "wide": false,
-    "w": 126,
-    "h": 117,
-    "nom": "Marlin Equity Partners"
+    "wide": true,
+    "xwide": false
   },
   "marquis-family-office": {
     "f": "/assets/logos/dir/marquis-family-office.webp",
@@ -6153,12 +6300,13 @@
     "nom": "Master Conseil"
   },
   "master-finances": {
-    "f": "/assets/logos/dir/master-finances.webp",
+    "f": "/assets/logos/dir/master-finances-audit-20260913.webp",
+    "nom": "Master Finances",
+    "w": 417,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Master Finances"
+    "xwide": false
   },
   "match-credit": {
     "f": "/assets/logos/dir/match-credit.webp",
@@ -6193,12 +6341,13 @@
     "nom": "MB Family Office"
   },
   "mbo": {
-    "f": "/assets/logos/dir/mbo.webp",
+    "f": "/assets/logos/dir/mbo-audit-20260913.webp",
+    "nom": "MBO+",
+    "w": 575,
+    "h": 240,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 55,
-    "nom": "MBO+"
+    "xwide": false
   },
   "mcdermott-will-schulte": {
     "f": "/assets/logos/dir/mcdermott-will-schulte.webp",
@@ -6217,20 +6366,22 @@
     "nom": "MCV Consulting"
   },
   "mecofinance": {
-    "f": "/assets/logos/dir/mecofinance.webp",
+    "f": "/assets/logos/dir/mecofinance-audit-20260913.webp",
+    "nom": "Mecofinance",
+    "w": 237,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 43,
-    "h": 40,
-    "nom": "Mecofinance"
+    "xwide": false
   },
   "medidan": {
-    "f": "/assets/logos/dir/medidan.webp",
+    "f": "/assets/logos/dir/medidan-audit-20260913.webp",
+    "nom": "Medidan",
+    "w": 178,
+    "h": 240,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 40,
-    "nom": "Medidan"
+    "wide": false,
+    "xwide": false
   },
   "mediobanca": {
     "f": "/assets/logos/dir/mediobanca.webp",
@@ -6241,28 +6392,31 @@
     "nom": "Mediobanca"
   },
   "meeschaert": {
-    "f": "/assets/logos/dir/meeschaert.webp",
+    "f": "/assets/logos/dir/meeschaert-audit-20260913.webp",
+    "nom": "Meeschaert",
+    "w": 300,
+    "h": 89,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 23,
-    "nom": "Meeschaert"
+    "xwide": false
   },
   "meeschaert-family-office": {
-    "f": "/assets/logos/dir/meeschaert-family-office.webp",
+    "f": "/assets/logos/dir/meeschaert-family-office-audit-20260913.webp",
+    "nom": "Meeschaert Family Office",
+    "w": 333,
+    "h": 100,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 23,
-    "nom": "Meeschaert Family Office"
+    "xwide": false
   },
   "meeschaert-gestion-privee": {
-    "f": "/assets/logos/dir/meeschaert-gestion-privee.webp",
+    "f": "/assets/logos/dir/meeschaert-gestion-privee-audit-20260913.webp",
+    "nom": "Meeschaert Gestion Privée",
+    "w": 300,
+    "h": 89,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 23,
-    "nom": "Meeschaert Gestion Privée"
+    "xwide": false
   },
   "meilleurtaux-placement": {
     "f": "/assets/logos/dir/meilleurtaux-placement.webp",
@@ -6321,12 +6475,13 @@
     "nom": "MG Credits Immobiliers"
   },
   "mg-finance": {
-    "f": "/assets/logos/dir/mg-finance.webp",
+    "f": "/assets/logos/dir/mg-finance-audit-20260913.webp",
+    "nom": "MG Finance",
+    "w": 538,
+    "h": 200,
     "dark": false,
     "wide": true,
-    "w": 172,
-    "h": 42,
-    "nom": "MG Finance"
+    "xwide": false
   },
   "mg-groupe": {
     "f": "/assets/logos/dir/mg-groupe.webp",
@@ -6337,12 +6492,13 @@
     "nom": "MG Groupe"
   },
   "mga": {
-    "f": "/assets/logos/dir/mga.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/mga-audit-20260913.webp",
+    "nom": "MGA",
+    "w": 176,
+    "h": 57,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 58,
-    "nom": "MGA"
+    "xwide": false
   },
   "mgt-conseil": {
     "f": "/assets/logos/dir/mgt-conseil.webp",
@@ -6425,20 +6581,22 @@
     "nom": "Moelis &amp; Company"
   },
   "momentum": {
-    "f": "/assets/logos/dir/momentum.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 34,
-    "nom": "Momentum"
+    "f": "/assets/logos/dir/momentum-audit-20260913.webp",
+    "nom": "Momentum",
+    "w": 325,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "momentum-invest": {
-    "f": "/assets/logos/dir/momentum-invest.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 34,
-    "nom": "Momentum Invest"
+    "f": "/assets/logos/dir/momentum-invest-audit-20260913.webp",
+    "nom": "Momentum Invest",
+    "w": 325,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "mon-budget": {
     "f": "/assets/logos/dir/mon-budget.webp",
@@ -6505,12 +6663,13 @@
     "nom": "Moncourtier.Com"
   },
   "monext": {
-    "f": "/assets/logos/dir/monext.webp",
+    "f": "/assets/logos/dir/monext-audit-20260913.webp",
+    "nom": "Monext",
+    "w": 600,
+    "h": 77,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 121,
-    "nom": "Monext"
+    "wide": true,
+    "xwide": true
   },
   "moneybounce": {
     "f": "/assets/logos/dir/moneybounce.webp",
@@ -6585,12 +6744,13 @@
     "nom": "Monty Global Payments"
   },
   "moonfare": {
-    "f": "/assets/logos/dir/moonfare.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/moonfare-audit-20260913.webp",
+    "nom": "Moonfare",
+    "w": 480,
+    "h": 80,
+    "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 45,
-    "nom": "Moonfare"
+    "xwide": true
   },
   "morgan-lewis-bockius-uk-llp": {
     "f": "/assets/logos/dir/morgan-lewis-bockius-uk-llp.webp",
@@ -6721,12 +6881,13 @@
     "nom": "National Prets Immobiliers"
   },
   "naxos-avocats": {
-    "f": "/assets/logos/dir/naxos-avocats.webp",
+    "f": "/assets/logos/dir/naxos-avocats-audit-20260913.webp",
+    "nom": "Naxos Avocats",
+    "w": 242,
+    "h": 101,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 44,
-    "nom": "Naxos Avocats"
+    "xwide": false
   },
   "neofi-patrimoine": {
     "f": "/assets/logos/dir/neofi-patrimoine.webp",
@@ -6745,12 +6906,13 @@
     "nom": "Neowise"
   },
   "newalpha-asset-management": {
-    "f": "/assets/logos/dir/newalpha-asset-management.webp",
+    "f": "/assets/logos/dir/newalpha-asset-management-audit-20260913.webp",
+    "nom": "NewAlpha Asset Management",
+    "w": 507,
+    "h": 139,
     "dark": false,
-    "wide": false,
-    "w": 171,
-    "h": 157,
-    "nom": "NewAlpha Asset Management"
+    "wide": true,
+    "xwide": false
   },
   "nexa-avocats": {
     "f": "/assets/logos/dir/nexa-avocats.webp",
@@ -6761,12 +6923,13 @@
     "nom": "Nexa Avocats"
   },
   "nexo-capital": {
-    "f": "/assets/logos/dir/nexo-capital.webp",
+    "f": "/assets/logos/dir/nexo-capital-audit-20260913.webp",
+    "nom": "Nexo Capital",
+    "w": 334,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Nexo Capital"
+    "xwide": false
   },
   "next-step-spa": {
     "f": "/assets/logos/dir/next-step-spa.webp",
@@ -6873,12 +7036,13 @@
     "nom": "Normandie Transports Enguehard"
   },
   "northleaf-capital": {
-    "f": "/assets/logos/dir/northleaf-capital.webp",
+    "f": "/assets/logos/dir/northleaf-capital-audit-20260913.webp",
+    "nom": "Northleaf Capital",
+    "w": 600,
+    "h": 128,
     "dark": false,
-    "wide": false,
-    "w": 138,
-    "h": 178,
-    "nom": "Northleaf Capital"
+    "wide": true,
+    "xwide": false
   },
   "norton-rose-fulbright": {
     "f": "/assets/logos/dir/norton-rose-fulbright.webp",
@@ -7025,28 +7189,31 @@
     "nom": "Occte"
   },
   "ocp-patrimoine": {
-    "f": "/assets/logos/dir/ocp-patrimoine.webp",
+    "f": "/assets/logos/dir/ocp-patrimoine-audit-20260913.webp",
+    "nom": "OCP Patrimoine",
+    "w": 600,
+    "h": 223,
     "dark": false,
     "wide": true,
-    "w": 147,
-    "h": 53,
-    "nom": "OCP Patrimoine"
+    "xwide": false
   },
   "octopus-patrimoine": {
-    "f": "/assets/logos/dir/octopus-patrimoine.webp",
+    "f": "/assets/logos/dir/octopus-patrimoine-audit-20260913.webp",
+    "nom": "Octopus Patrimoine",
+    "w": 600,
+    "h": 193,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 62,
-    "nom": "Octopus Patrimoine"
+    "xwide": false
   },
   "odin-capital": {
-    "f": "/assets/logos/dir/odin-capital.webp",
+    "f": "/assets/logos/dir/odin-capital-audit-20260913.webp",
+    "nom": "Odin Capital",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Odin Capital"
+    "xwide": false
   },
   "odyssee-patrimoine": {
     "f": "/assets/logos/dir/odyssee-patrimoine.webp",
@@ -7129,12 +7296,13 @@
     "nom": "Omage Finance Conseil"
   },
   "omnes-capital": {
-    "f": "/assets/logos/dir/omnes-capital.webp",
+    "f": "/assets/logos/dir/omnes-capital-audit-20260913.webp",
+    "nom": "Omnes Capital",
+    "w": 355,
+    "h": 80,
     "dark": false,
-    "wide": false,
-    "w": 48,
-    "h": 48,
-    "nom": "Omnes Capital"
+    "wide": true,
+    "xwide": false
   },
   "omnia-finance": {
     "f": "/assets/logos/dir/omnia-finance.webp",
@@ -7145,12 +7313,13 @@
     "nom": "Omnia Finance"
   },
   "only-capital": {
-    "f": "/assets/logos/dir/only-capital.webp",
-    "dark": false,
-    "wide": false,
-    "w": 161,
-    "h": 109,
-    "nom": "Only Capital"
+    "f": "/assets/logos/dir/only-capital-audit-20260913.webp",
+    "nom": "Only Capital",
+    "w": 300,
+    "h": 128,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "opale-gestion": {
     "f": "/assets/logos/dir/opale-gestion.webp",
@@ -7161,20 +7330,22 @@
     "nom": "Opale Gestion"
   },
   "opengate-capital": {
-    "f": "/assets/logos/dir/opengate-capital.webp",
+    "f": "/assets/logos/dir/opengate-capital-audit-20260913.webp",
+    "nom": "OpenGate Capital",
+    "w": 600,
+    "h": 105,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 40,
-    "nom": "OpenGate Capital"
+    "xwide": true
   },
   "opera": {
-    "f": "/assets/logos/dir/opera.webp",
+    "f": "/assets/logos/dir/opera-audit-20260913.webp",
+    "nom": "Opera",
+    "w": 600,
+    "h": 237,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 70,
-    "nom": "Opera"
+    "xwide": false
   },
   "operlis-bordeaux": {
     "f": "/assets/logos/dir/operlis-bordeaux.webp",
@@ -7289,15 +7460,13 @@
     "nom": "P.G.A"
   },
   "pai-partners": {
-    "f": "/assets/logos/dir/pai-partners.webp",
+    "f": "/assets/logos/dir/pai-partners-audit-20260913.webp",
+    "nom": "PAI Partners",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "xwide": false,
-    "w": 42,
-    "h": 42,
-    "nom": "PAI Partners",
-    "src": "https://www.paipartners.com/wp-content/themes/paipartners/assets/images/favicons/favicon.ico",
-    "rescue": true
+    "xwide": false
   },
   "palm-exchange": {
     "f": "/assets/logos/dir/palm-exchange.webp",
@@ -7332,12 +7501,13 @@
     "nom": "Paris Private Finance"
   },
   "parquest": {
-    "f": "/assets/logos/dir/parquest.webp",
+    "f": "/assets/logos/dir/parquest-audit-20260913.webp",
+    "nom": "Parquest",
+    "w": 539,
+    "h": 112,
     "dark": false,
-    "wide": false,
-    "w": 126,
-    "h": 160,
-    "nom": "Parquest"
+    "wide": true,
+    "xwide": false
   },
   "partenaire-finances": {
     "f": "/assets/logos/dir/partenaire-finances.webp",
@@ -7364,20 +7534,22 @@
     "nom": "Partenariat Patrimoine"
   },
   "partners-finances": {
-    "f": "/assets/logos/dir/partners-finances.webp",
+    "f": "/assets/logos/dir/partners-finances-audit-20260913.webp",
+    "nom": "Partners Finances",
+    "w": 600,
+    "h": 213,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 80,
-    "nom": "Partners Finances"
+    "xwide": false
   },
   "patrimmofi": {
-    "f": "/assets/logos/dir/patrimmofi.webp",
+    "f": "/assets/logos/dir/patrimmofi-audit-20260913.webp",
+    "nom": "Patrimmofi",
+    "w": 451,
+    "h": 85,
     "dark": false,
-    "wide": false,
-    "w": 101,
-    "h": 115,
-    "nom": "Patrimmofi"
+    "wide": true,
+    "xwide": true
   },
   "patrimoine-et-entreprise": {
     "f": "/assets/logos/dir/patrimoine-et-entreprise.webp",
@@ -7420,20 +7592,22 @@
     "nom": "Patrimonia Group"
   },
   "paul-hastings": {
-    "f": "/assets/logos/dir/paul-hastings.webp",
+    "f": "/assets/logos/dir/paul-hastings-audit-20260913.webp",
+    "nom": "Paul Hastings",
+    "w": 600,
+    "h": 176,
     "dark": false,
-    "wide": false,
-    "w": 48,
-    "h": 48,
-    "nom": "Paul Hastings"
+    "wide": true,
+    "xwide": false
   },
   "paul-hastings-europe-llp": {
-    "f": "/assets/logos/dir/paul-hastings-europe-llp.webp",
+    "f": "/assets/logos/dir/paul-hastings-europe-llp-audit-20260913.webp",
+    "nom": "Paul Hastings (Europe) LLP",
+    "w": 600,
+    "h": 176,
     "dark": false,
-    "wide": false,
-    "w": 48,
-    "h": 48,
-    "nom": "Paul Hastings (Europe) LLP"
+    "wide": true,
+    "xwide": false
   },
   "paymed": {
     "f": "/assets/logos/dir/paymed.webp",
@@ -7708,12 +7882,13 @@
     "nom": "Portzamparc (BNP)"
   },
   "praemia-reim": {
-    "f": "/assets/logos/dir/praemia-reim.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 181,
-    "nom": "Praemia REIM"
+    "f": "/assets/logos/dir/praemia-reim-audit-20260913.webp",
+    "nom": "Praemia REIM",
+    "w": 600,
+    "h": 159,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "praesium": {
     "f": "/assets/logos/dir/praesium.webp",
@@ -7740,12 +7915,13 @@
     "nom": "Prelys Courtage"
   },
   "prestigitaux": {
-    "f": "/assets/logos/dir/prestigitaux.webp",
+    "f": "/assets/logos/dir/prestigitaux-audit-20260913.webp",
+    "nom": "Prestigitaux",
+    "w": 600,
+    "h": 180,
     "dark": false,
-    "wide": false,
-    "w": 178,
-    "h": 178,
-    "nom": "Prestigitaux"
+    "wide": true,
+    "xwide": false
   },
   "pret-mium-financement": {
     "f": "/assets/logos/dir/pret-mium-financement.webp",
@@ -7764,20 +7940,22 @@
     "nom": "Pret &amp; Taux Caen"
   },
   "primaval-mediterranee": {
-    "f": "/assets/logos/dir/primaval-mediterranee.webp",
-    "dark": false,
-    "wide": false,
-    "w": 163,
-    "h": 75,
-    "nom": "Primaval Méditerranée"
+    "f": "/assets/logos/dir/primaval-mediterranee-audit-20260913.webp",
+    "nom": "Primaval Méditerranée",
+    "w": 600,
+    "h": 171,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "prisma-conseil": {
-    "f": "/assets/logos/dir/prisma-conseil.webp",
+    "f": "/assets/logos/dir/prisma-conseil-audit-20260913.webp",
+    "nom": "Prisma Conseil",
+    "w": 175,
+    "h": 77,
     "dark": false,
-    "wide": false,
-    "w": 59,
-    "h": 53,
-    "nom": "Prisma Conseil"
+    "wide": true,
+    "xwide": false
   },
   "privassets": {
     "f": "/assets/logos/dir/privassets.webp",
@@ -7892,12 +8070,13 @@
     "nom": "Quadra Capital Partners France"
   },
   "quadral-conseil-en-financement": {
-    "f": "/assets/logos/dir/quadral-conseil-en-financement.webp",
+    "f": "/assets/logos/dir/quadral-conseil-en-financement-audit-20260913.webp",
+    "nom": "Quadral Conseil EN Financement",
+    "w": 260,
+    "h": 59,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 43,
-    "nom": "Quadral Conseil EN Financement"
+    "xwide": false
   },
   "quadrille-capital": {
     "f": "/assets/logos/dir/quadrille-capital.webp",
@@ -7980,12 +8159,13 @@
     "nom": "R.S.C"
   },
   "raiffeisen-bank-international-ag": {
-    "f": "/assets/logos/dir/raiffeisen-bank-international-ag.webp",
+    "f": "/assets/logos/dir/raiffeisen-bank-international-ag-audit-20260913.webp",
+    "nom": "Raiffeisen Bank International AG",
+    "w": 600,
+    "h": 109,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 34,
-    "nom": "Raiffeisen Bank International AG"
+    "xwide": true
   },
   "rb-conseils": {
     "f": "/assets/logos/dir/rb-conseils.webp",
@@ -8052,12 +8232,13 @@
     "nom": "Régnier Notaires"
   },
   "reseau-premiance": {
-    "f": "/assets/logos/dir/reseau-premiance.webp",
+    "f": "/assets/logos/dir/reseau-premiance-audit-20260913.webp",
+    "nom": "Reseau Premiance",
+    "w": 600,
+    "h": 224,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 69,
-    "nom": "Reseau Premiance"
+    "xwide": false
   },
   "resobanque": {
     "f": "/assets/logos/dir/resobanque.webp",
@@ -8100,12 +8281,13 @@
     "nom": "Rhône Capital"
   },
   "rochevelle-gestion-privee": {
-    "f": "/assets/logos/dir/rochevelle-gestion-privee.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/rochevelle-gestion-privee-audit-20260913.webp",
+    "nom": "Rochevelle Gestion Privée",
+    "w": 440,
+    "h": 91,
+    "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 38,
-    "nom": "Rochevelle Gestion Privée"
+    "xwide": false
   },
   "rockby": {
     "f": "/assets/logos/dir/rockby.webp",
@@ -8116,20 +8298,22 @@
     "nom": "Rockby"
   },
   "ropes-gray-france-aarpi": {
-    "f": "/assets/logos/dir/ropes-gray-france-aarpi.webp",
+    "f": "/assets/logos/dir/ropes-gray-france-aarpi-audit-20260913.webp",
+    "nom": "Ropes & Gray France AARPI",
+    "w": 600,
+    "h": 154,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 156,
-    "nom": "Ropes &amp; Gray France AARPI"
+    "wide": true,
+    "xwide": false
   },
   "rp-courtage": {
-    "f": "/assets/logos/dir/rp-courtage.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 186,
-    "nom": "RP Courtage"
+    "f": "/assets/logos/dir/rp-courtage-audit-20260913.webp",
+    "nom": "RP Courtage",
+    "w": 600,
+    "h": 178,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "rs-gestion": {
     "f": "/assets/logos/dir/rs-gestion.webp",
@@ -8292,12 +8476,13 @@
     "nom": "SCOR Investment Partners SE"
   },
   "scotto-partners": {
-    "f": "/assets/logos/dir/scotto-partners.webp",
-    "dark": true,
+    "f": "/assets/logos/dir/scotto-partners-audit-20260913.webp",
+    "nom": "Scotto Partners",
+    "w": 600,
+    "h": 101,
+    "dark": false,
     "wide": true,
-    "w": 166,
-    "h": 33,
-    "nom": "Scotto Partners"
+    "xwide": true
   },
   "screening": {
     "f": "/assets/logos/dir/screening.webp",
@@ -8404,12 +8589,13 @@
     "nom": "Sico Bank"
   },
   "sienna-im": {
-    "f": "/assets/logos/dir/sienna-im.webp",
+    "f": "/assets/logos/dir/sienna-im-audit-20260913.webp",
+    "nom": "Sienna IM",
+    "w": 600,
+    "h": 165,
     "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 108,
-    "nom": "Sienna IM"
+    "wide": true,
+    "xwide": false
   },
   "sikka-inclusive-finance": {
     "f": "/assets/logos/dir/sikka-inclusive-finance.webp",
@@ -8420,12 +8606,13 @@
     "nom": "Sikka Inclusive Finance"
   },
   "simmons-simmons": {
-    "f": "/assets/logos/dir/simmons-simmons.webp",
+    "f": "/assets/logos/dir/simmons-simmons-audit-20260913.webp",
+    "nom": "Simmons & Simmons",
+    "w": 600,
+    "h": 171,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 120,
-    "nom": "Simmons &amp; Simmons"
+    "wide": true,
+    "xwide": false
   },
   "simplinvest": {
     "f": "/assets/logos/dir/simplinvest.webp",
@@ -8548,20 +8735,22 @@
     "nom": "Société Générale Private Banking France"
   },
   "sodero-gestion": {
-    "f": "/assets/logos/dir/sodero-gestion.webp",
+    "f": "/assets/logos/dir/sodero-gestion-audit-20260913.webp",
+    "nom": "Sodero Gestion",
+    "w": 407,
+    "h": 137,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 54,
-    "nom": "Sodero Gestion"
+    "xwide": false
   },
   "soffal-by-coffra-group": {
-    "f": "/assets/logos/dir/soffal-by-coffra-group.webp",
+    "f": "/assets/logos/dir/soffal-by-coffra-group-audit-20260913.webp",
+    "nom": "Soffal by Coffra Group",
+    "w": 256,
+    "h": 83,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 33,
-    "nom": "Soffal by Coffra Group"
+    "xwide": false
   },
   "sofidep": {
     "f": "/assets/logos/dir/sofidep.webp",
@@ -8580,20 +8769,22 @@
     "nom": "Sofilaro Gestion"
   },
   "sofiouest": {
-    "f": "/assets/logos/dir/sofiouest.webp",
+    "f": "/assets/logos/dir/sofiouest-audit-20260913.webp",
+    "nom": "Sofiouest",
+    "w": 501,
+    "h": 147,
     "dark": false,
-    "wide": false,
-    "w": 108,
-    "h": 180,
-    "nom": "Sofiouest"
+    "wide": true,
+    "xwide": false
   },
   "sofipaca-groupe-credit-agricole": {
-    "f": "/assets/logos/dir/sofipaca-groupe-credit-agricole.webp",
+    "f": "/assets/logos/dir/sofipaca-groupe-credit-agricole-audit-20260913.webp",
+    "nom": "SOFIPACA - Groupe Crédit Agricole",
+    "w": 600,
+    "h": 99,
     "dark": false,
-    "wide": false,
-    "w": 133,
-    "h": 87,
-    "nom": "SOFIPACA - Groupe Crédit Agricole"
+    "wide": true,
+    "xwide": true
   },
   "sogefinances": {
     "f": "/assets/logos/dir/sogefinances.webp",
@@ -8708,12 +8899,13 @@
     "nom": "Steering Legal"
   },
   "stellium-courtage-invest": {
-    "f": "/assets/logos/dir/stellium-courtage-invest.webp",
+    "f": "/assets/logos/dir/stellium-courtage-invest-audit-20260913.webp",
+    "nom": "Stellium Courtage & Invest",
+    "w": 600,
+    "h": 219,
     "dark": false,
-    "wide": false,
-    "w": 101,
-    "h": 92,
-    "nom": "Stellium Courtage &amp; Invest"
+    "wide": true,
+    "xwide": false
   },
   "stellium-financement": {
     "f": "/assets/logos/dir/stellium-financement.webp",
@@ -8732,12 +8924,13 @@
     "nom": "Stifel"
   },
   "stj-advisors": {
-    "f": "/assets/logos/dir/stj-advisors.webp",
-    "dark": false,
-    "wide": false,
-    "w": 157,
-    "h": 150,
-    "nom": "STJ Advisors"
+    "f": "/assets/logos/dir/stj-advisors-audit-20260913.webp",
+    "nom": "STJ Advisors",
+    "w": 119,
+    "h": 56,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "stm": {
     "f": "/assets/logos/dir/stm.webp",
@@ -8772,12 +8965,13 @@
     "nom": "Strateggyz"
   },
   "strategie-patrimoine-rennes": {
-    "f": "/assets/logos/dir/strategie-patrimoine-rennes.webp",
+    "f": "/assets/logos/dir/strategie-patrimoine-rennes-audit-20260913.webp",
+    "nom": "Strategie Patrimoine Rennes",
+    "w": 480,
+    "h": 144,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 57,
-    "nom": "Strategie Patrimoine Rennes"
+    "xwide": false
   },
   "stratera-conseil": {
     "f": "/assets/logos/dir/stratera-conseil.webp",
@@ -8796,12 +8990,13 @@
     "nom": "Studely"
   },
   "sud-conseils-patrimoine": {
-    "f": "/assets/logos/dir/sud-conseils-patrimoine.webp",
+    "f": "/assets/logos/dir/sud-conseils-patrimoine-audit-20260913.webp",
+    "nom": "Sud Conseils Patrimoine",
+    "w": 600,
+    "h": 71,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 28,
-    "nom": "Sud Conseils Patrimoine"
+    "xwide": true
   },
   "sud-courtage": {
     "f": "/assets/logos/dir/sud-courtage.webp",
@@ -8852,12 +9047,13 @@
     "nom": "TAG Partners"
   },
   "taux-story": {
-    "f": "/assets/logos/dir/taux-story.webp",
+    "f": "/assets/logos/dir/taux-story-audit-20260913.webp",
+    "nom": "Taux Story",
+    "w": 600,
+    "h": 169,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 54,
-    "nom": "Taux Story"
+    "xwide": false
   },
   "tauxpremier-com": {
     "f": "/assets/logos/dir/tauxpremier-com.webp",
@@ -8924,12 +9120,13 @@
     "nom": "TGS France Avocats"
   },
   "the-wealth-office": {
-    "f": "/assets/logos/dir/the-wealth-office.webp",
+    "f": "/assets/logos/dir/the-wealth-office-audit-20260913.webp",
+    "nom": "The Wealth Office",
+    "w": 600,
+    "h": 178,
     "dark": false,
     "wide": true,
-    "w": 90,
-    "h": 29,
-    "nom": "The Wealth Office"
+    "xwide": false
   },
   "themelyo": {
     "f": "/assets/logos/dir/themelyo.webp",
@@ -8940,20 +9137,22 @@
     "nom": "Thémélyo"
   },
   "thesee-patrimoine": {
-    "f": "/assets/logos/dir/thesee-patrimoine.webp",
+    "f": "/assets/logos/dir/thesee-patrimoine-audit-20260913.webp",
+    "nom": "Thesee Patrimoine",
+    "w": 600,
+    "h": 108,
     "dark": false,
-    "wide": false,
-    "w": 160,
-    "h": 192,
-    "nom": "Thesee Patrimoine"
+    "wide": true,
+    "xwide": true
   },
   "theseis-partenaires": {
-    "f": "/assets/logos/dir/theseis-partenaires.webp",
-    "dark": false,
-    "wide": false,
-    "w": 164,
-    "h": 173,
-    "nom": "Theseis Partenaires"
+    "f": "/assets/logos/dir/theseis-partenaires-audit-20260913.webp",
+    "nom": "Theseis Partenaires",
+    "w": 300,
+    "h": 111,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "tilt-capital-partners": {
     "f": "/assets/logos/dir/tilt-capital-partners.webp",
@@ -8996,12 +9195,13 @@
     "nom": "TKR Patrimoine"
   },
   "toadenn-patrimoine": {
-    "f": "/assets/logos/dir/toadenn-patrimoine.webp",
+    "f": "/assets/logos/dir/toadenn-patrimoine-audit-20260913.webp",
+    "nom": "Toadenn Patrimoine",
+    "w": 320,
+    "h": 100,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 55,
-    "nom": "Toadenn Patrimoine"
+    "xwide": false
   },
   "trade-station-sg": {
     "f": "/assets/logos/dir/trade-station-sg.webp",
@@ -9068,12 +9268,13 @@
     "nom": "UI Investissement"
   },
   "ul-invest": {
-    "f": "/assets/logos/dir/ul-invest.webp",
+    "f": "/assets/logos/dir/ul-invest-audit-20260913.webp",
+    "nom": "UL Invest",
+    "w": 198,
+    "h": 240,
     "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 44,
-    "nom": "UL Invest"
+    "wide": false,
+    "xwide": false
   },
   "unexo-gestion": {
     "f": "/assets/logos/dir/unexo-gestion.webp",
@@ -9108,12 +9309,13 @@
     "nom": "Unitup"
   },
   "v-patrimoine": {
-    "f": "/assets/logos/dir/v-patrimoine.webp",
+    "f": "/assets/logos/dir/v-patrimoine-audit-20260913.webp",
+    "nom": "V Patrimoine",
+    "w": 600,
+    "h": 105,
     "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 98,
-    "nom": "V Patrimoine"
+    "wide": true,
+    "xwide": true
   },
   "valetys": {
     "f": "/assets/logos/dir/valetys.webp",
@@ -9268,28 +9470,31 @@
     "nom": "Visalto Finances"
   },
   "vitalepargne": {
-    "f": "/assets/logos/dir/vitalepargne.webp",
+    "f": "/assets/logos/dir/vitalepargne-audit-20260913.webp",
+    "nom": "Vitalepargne",
+    "w": 494,
+    "h": 240,
     "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 93,
-    "nom": "Vitalepargne"
+    "wide": true,
+    "xwide": false
   },
   "viva-payment-services": {
-    "f": "/assets/logos/dir/viva-payment-services.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/viva-payment-services-audit-20260913.webp",
+    "nom": "Viva Payment Services",
+    "w": 355,
+    "h": 64,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 67,
-    "nom": "Viva Payment Services"
+    "xwide": true
   },
   "vontobel-france": {
-    "f": "/assets/logos/dir/vontobel-france.webp",
+    "f": "/assets/logos/dir/vontobel-france-audit-20260913.webp",
+    "nom": "Vontobel (France)",
+    "w": 376,
+    "h": 67,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Vontobel (France)"
+    "wide": true,
+    "xwide": true
   },
   "vos-courtiers": {
     "f": "/assets/logos/dir/vos-courtiers.webp",
@@ -9300,12 +9505,13 @@
     "nom": "VOS Courtiers"
   },
   "vp-bank-luxembourg": {
-    "f": "/assets/logos/dir/vp-bank-luxembourg.webp",
+    "f": "/assets/logos/dir/vp-bank-luxembourg-audit-20260913.webp",
+    "nom": "VP Bank Luxembourg",
+    "w": 320,
+    "h": 107,
     "dark": false,
-    "wide": false,
-    "w": 57,
-    "h": 57,
-    "nom": "VP Bank Luxembourg"
+    "wide": true,
+    "xwide": false
   },
   "vr-finance": {
     "f": "/assets/logos/dir/vr-finance.webp",
@@ -9340,12 +9546,13 @@
     "nom": "VYP Finance"
   },
   "waf-conseil": {
-    "f": "/assets/logos/dir/waf-conseil.webp",
+    "f": "/assets/logos/dir/waf-conseil-audit-20260913.webp",
+    "nom": "WAF Conseil",
+    "w": 600,
+    "h": 159,
     "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 120,
-    "nom": "WAF Conseil"
+    "wide": true,
+    "xwide": false
   },
   "wakerstone": {
     "f": "/assets/logos/dir/wakerstone.webp",
@@ -9388,20 +9595,22 @@
     "nom": "White Star Capital France SAS"
   },
   "widoowin": {
-    "f": "/assets/logos/dir/widoowin.webp",
+    "f": "/assets/logos/dir/widoowin-audit-20260913.webp",
+    "nom": "Widoowin",
+    "w": 418,
+    "h": 60,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Widoowin"
+    "wide": true,
+    "xwide": true
   },
   "widoowin-gestion-privee": {
-    "f": "/assets/logos/dir/widoowin-gestion-privee.webp",
+    "f": "/assets/logos/dir/widoowin-gestion-privee-audit-20260913.webp",
+    "nom": "WIDOOWIN Gestion Privée",
+    "w": 291,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "WIDOOWIN Gestion Privée"
+    "xwide": false
   },
   "willkie-farr": {
     "f": "/assets/logos/dir/willkie-farr.webp",
@@ -9420,28 +9629,31 @@
     "nom": "Willkie Farr &amp; Gallagher LLP"
   },
   "wsi-conseil": {
-    "f": "/assets/logos/dir/wsi-conseil.webp",
+    "f": "/assets/logos/dir/wsi-conseil-audit-20260913.webp",
+    "nom": "WSI Conseil",
+    "w": 600,
+    "h": 121,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 80,
-    "nom": "WSI Conseil"
+    "xwide": false
   },
   "xelis-family-office": {
-    "f": "/assets/logos/dir/xelis-family-office.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 173,
-    "nom": "Xelis Family Office"
-  },
-  "xerys-invest": {
-    "f": "/assets/logos/dir/xerys-invest.webp",
+    "f": "/assets/logos/dir/xelis-family-office-audit-20260913.webp",
+    "nom": "Xelis Family Office",
+    "w": 322,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 73,
-    "h": 42,
-    "nom": "Xerys Invest"
+    "xwide": false
+  },
+  "xerys-invest": {
+    "f": "/assets/logos/dir/xerys-invest-audit-20260913.webp",
+    "nom": "Xerys Invest",
+    "w": 424,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "y-not": {
     "f": "/assets/logos/dir/y-not.webp",
@@ -9460,12 +9672,13 @@
     "nom": "Yieldy"
   },
   "yooliz": {
-    "f": "/assets/logos/dir/yooliz.webp",
+    "f": "/assets/logos/dir/yooliz-audit-20260913.webp",
+    "nom": "Yooliz",
+    "w": 463,
+    "h": 240,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 74,
-    "nom": "Yooliz"
+    "xwide": false
   },
   "yotta-capital-partners": {
     "f": "/assets/logos/dir/yotta-capital-partners.webp",
@@ -9525,26 +9738,22 @@
     "rescue": true
   },
   "breega": {
-    "f": "/assets/logos/dir/breega.webp",
-    "dark": false,
-    "wide": true,
-    "xwide": false,
-    "w": 192,
-    "h": 49,
+    "f": "/assets/logos/dir/breega-audit-20260913.webp",
     "nom": "Breega",
-    "src": "https://cdn.prod.website-files.com/674eef7ce8fcbec7ae1481d2/674f35674403f1f0cffb80fa_alice%20and%20bob.png",
-    "rescue": true
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "deutsche-bank": {
-    "f": "/assets/logos/dir/deutsche-bank.webp",
+    "f": "/assets/logos/dir/deutsche-bank-audit-20260913.webp",
+    "nom": "Deutsche Bank",
+    "w": 272,
+    "h": 80,
     "dark": false,
     "wide": true,
-    "xwide": true,
-    "w": 192,
-    "h": 21,
-    "nom": "Deutsche Bank",
-    "src": "https://www.db.com/application/project/images/logos/identifier_RETINA.png",
-    "rescue": true
+    "xwide": false
   },
   "eqt": {
     "f": "/assets/logos/dir/eqt.webp",
@@ -9602,15 +9811,13 @@
     "rescue": true
   },
   "lbo-france": {
-    "f": "/assets/logos/dir/lbo-france.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 89,
-    "h": 89,
+    "f": "/assets/logos/dir/lbo-france-audit-20260913.webp",
     "nom": "LBO France",
-    "src": "https://www.lbofrance.com/app/uploads/2025/08/cropped-Capture-decran-2025-08-26-a-10.27.13-180x180.png",
-    "rescue": true
+    "w": 600,
+    "h": 84,
+    "dark": false,
+    "wide": true,
+    "xwide": true
   },
   "montefiore-investment": {
     "f": "/assets/logos/dir/montefiore-investment.webp",
@@ -9635,37 +9842,31 @@
     "rescue": true
   },
   "oddo-bhf": {
-    "f": "/assets/logos/dir/oddo-bhf.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 178,
-    "h": 180,
+    "f": "/assets/logos/dir/oddo-bhf-audit-20260913.webp",
     "nom": "Oddo BHF",
-    "src": "https://www.oddo-bhf.com/gravity:ce/rs:auto:180:180/sh:0.6/q:70/app/uploads/sites/2/2024/11/blason-2.png",
-    "rescue": true
+    "w": 243,
+    "h": 120,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "oddo-bhf-pwm": {
-    "f": "/assets/logos/dir/oddo-bhf-pwm.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 178,
-    "h": 180,
+    "f": "/assets/logos/dir/oddo-bhf-pwm-audit-20260913.webp",
     "nom": "Oddo BHF PWM",
-    "src": "https://www.oddo-bhf.com/gravity:ce/rs:auto:180:180/sh:0.6/q:70/app/uploads/sites/2/2024/11/blason-2.png",
-    "rescue": true
+    "w": 243,
+    "h": 120,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "pictet-wealth-management": {
-    "f": "/assets/logos/dir/pictet-wealth-management.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 73,
-    "h": 85,
+    "f": "/assets/logos/dir/pictet-wealth-management-audit-20260913.webp",
     "nom": "Pictet Wealth Management",
-    "src": "https://www.pictet.com/etc.clientlibs/picdev/clientlibs/clientlib-site/resources/images/logo_1.svg",
-    "rescue": true
+    "w": 360,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "rothschild-co": {
     "f": "/assets/logos/dir/rothschild-co.webp",
@@ -9701,15 +9902,13 @@
     "rescue": true
   },
   "bredin-prat": {
-    "f": "/assets/logos/dir/bredin-prat.webp",
+    "f": "/assets/logos/dir/bredin-prat-audit-20260913.webp",
+    "nom": "Bredin Prat",
+    "w": 350,
+    "h": 21,
     "dark": false,
     "wide": true,
-    "xwide": true,
-    "w": 192,
-    "h": 11,
-    "nom": "Bredin Prat",
-    "src": "https://www.bredinprat.fr/wp-content/themes/bredintheme/images/Logo_BP.png",
-    "rescue": true
+    "xwide": true
   },
   "cleary-gottlieb": {
     "f": "/assets/logos/dir/cleary-gottlieb.webp",
@@ -9833,15 +10032,13 @@
     "rescue": true
   },
   "citigroup": {
-    "f": "/assets/logos/dir/citigroup.webp",
+    "f": "/assets/logos/dir/citigroup-audit-20260913.webp",
+    "nom": "Citigroup",
+    "w": 372,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "xwide": false,
-    "w": 44,
-    "h": 26,
-    "nom": "Citigroup",
-    "src": "https://www.citigroup.com/global/citigroup-ui/akpublic/images/gpa_favicon.ico",
-    "rescue": true
+    "xwide": false
   },
   "cyrus-herez": {
     "f": "/assets/logos/dir/cyrus-herez.webp",
@@ -9932,15 +10129,13 @@
     "rescue": true
   },
   "rockfi": {
-    "f": "/assets/logos/dir/rockfi.webp",
-    "dark": false,
-    "wide": false,
-    "xwide": false,
-    "w": 192,
-    "h": 192,
+    "f": "/assets/logos/dir/rockfi-audit-20260913.webp",
     "nom": "RockFi",
-    "src": "https://cdn.prod.website-files.com/6895a11a67e50a85e0b93804/6895b952948c24a29f6e1dc7_webclip.png",
-    "rescue": true
+    "w": 600,
+    "h": 162,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   },
   "rothschild-co-martin-maurel": {
     "f": "/assets/logos/dir/rothschild-co-martin-maurel.webp",
@@ -18636,6 +18831,78 @@
     "nom": "Trade Republic",
     "w": 563,
     "h": 51,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "bank-pictet-cie-europe-ag-succursale-de-paris": {
+    "f": "/assets/logos/dir/bank-pictet-cie-europe-ag-succursale-de-paris-audit-20260913.webp",
+    "nom": "Bank Pictet & Cie (Europe) AG, Succursale de Paris",
+    "w": 360,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "boursobank": {
+    "f": "/assets/logos/dir/boursobank-audit-20260913.webp",
+    "nom": "BoursoBank",
+    "w": 600,
+    "h": 140,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "oddo-cie": {
+    "f": "/assets/logos/dir/oddo-cie-audit-20260913.webp",
+    "nom": "Oddo & Cie",
+    "w": 243,
+    "h": 120,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "pictet-geneve": {
+    "f": "/assets/logos/dir/pictet-geneve-audit-20260913.webp",
+    "nom": "Pictet (Genève)",
+    "w": 360,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "pictet-luxembourg": {
+    "f": "/assets/logos/dir/pictet-luxembourg-audit-20260913.webp",
+    "nom": "Pictet Luxembourg",
+    "w": 360,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "pictet-paris": {
+    "f": "/assets/logos/dir/pictet-paris-audit-20260913.webp",
+    "nom": "Pictet (Paris)",
+    "w": 360,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "union-bancaire-privee-france": {
+    "f": "/assets/logos/dir/union-bancaire-privee-france-audit-20260913.webp",
+    "nom": "Union Bancaire Privée (France)",
+    "w": 600,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "union-bancaire-privee-geneve": {
+    "f": "/assets/logos/dir/union-bancaire-privee-geneve-audit-20260913.webp",
+    "nom": "Union Bancaire Privée (Genève)",
+    "w": 600,
+    "h": 85,
     "dark": false,
     "wide": true,
     "xwide": true

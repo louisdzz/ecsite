@@ -117,8 +117,17 @@ background:var(--card);font-size:13px;color:var(--muted)}
 .opp p{font-size:14px;color:#C9CBB4;margin-top:6px;line-height:1.6}
 .hero{display:flex;gap:22px;align-items:center}
 .pers .lk{display:inline-flex;align-items:center;justify-content:center;width:17px;height:17px;border-radius:4px;background:#0A66C2;color:#fff;font-size:10.5px;font-weight:700;text-decoration:none;margin-left:7px;vertical-align:1px;font-family:Arial,sans-serif;line-height:1}
+
+/* Audit visuel du 13 septembre 2026 */
+.hero.wl{display:flex;gap:24px;align-items:flex-start}
+.flogo{flex:none;width:88px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#fff;border:1px solid var(--line)}
+.flogo.dk{background:var(--ink);border-color:var(--ink)}.flogo.wd{width:148px}.flogo.xw{width:230px}
+.flogo img{width:100%;height:100%;object-fit:contain;padding:10px}
+.hero.wl>.hb{min-width:0}.flogo img{box-sizing:border-box}
+@media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px}.flogo.wd{width:108px}.flogo.xw{width:190px}.flogo img{padding:7px}}
+@media(max-width:480px){.hero.wl{flex-direction:column}.hero.wl>.hb{width:100%}.flogo.xw{width:190px;max-width:100%}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.rockfi.fr"], "logo": "https://www.exit.club/assets/logos/dir/rockfi.webp", "name": "RockFi", "url": "https://www.exit.club/f/rockfi"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://www.rockfi.fr"], "logo": "https://www.exit.club/assets/logos/dir/rockfi-audit-20260913.webp", "name": "RockFi", "url": "https://www.exit.club/f/rockfi"}</script>
 </head>
 <body>
 <div class="wrap">
@@ -133,15 +142,15 @@ background:var(--card);font-size:13px;color:var(--muted)}
 
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#mfo">Multi-Family Offices</a></div>
 
-  <section class="hero">
-    <div class="logo">RF</div>
+  <section class="hero wl"><div class="flogo wd"><img src="/assets/logos/dir/rockfi-audit-20260913.webp" alt="RockFi" width="600" height="162" decoding="async"></div><div class="hb">
+    
     <div>
       <span class="vbadge">✓ L'Écosystème de l'Exit · 2026</span>
       <span class="fresh"><i></i>Mise à jour août 2026</span>
       <h1 class="disp">RockFi</h1>
       <div class="tagl">Multi-Family Offices</div>
     </div>
-  </section>
+  </div></section>
 
   <!--RLINE:START-->
   <p class="rline">Maison à <b>Paris</b> · <a href="/ecosysteme#mfo">Voir les 66 multi-family offices recensés →</a></p><!--RLINE:END-->

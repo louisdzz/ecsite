@@ -58,8 +58,14 @@
     "dark": false
   },
   "boursobank": {
-    "page": "https://www.boursobank.com",
-    "dark": false
+    "page": "https://www.boursobank.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f51ea3f9020104060ed0f1417c872d2743a16a770af28be4b0b1eda54598a95d",
+    "assetSha256": "480126b5b3235168f0ce567557d34b43214eec26748c1aa10d4a6bebb974489c"
   },
   "wormser-freres": {
     "page": "https://www.banquewormser.com",
@@ -9722,5 +9728,2355 @@
     "validation": "Vérifié pour intégration",
     "originalSha256": "ffb78fac26a5f02e8093a7cb040072ac5c1ec1ed42828d8ed974285fd4230938",
     "assetSha256": "42f60082b149c4e2cacd349f43ca78d9a9c95f3aa712afe1d40bd6fb69efb625"
+  },
+  "137-notaires": {
+    "page": "https://137notaires.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e715489be492e137dd0cf111df1133b007bdd0dabd4d950844a6a5f9ee00186b",
+    "assetSha256": "69e67aa0fb926c22b45e65b9a51f1a0f6d53a49fd822a4611c1bea148aa0e624"
+  },
+  "360brokers": {
+    "page": "https://www.360brokers.fr",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "58a3a38c75198ad4d8dc87bb8efd37dc7a398a07b56720542e51d1e0ea0d5616",
+    "assetSha256": "d212a30c268509b040c7a3e8d95dce67fbc497f3828f681dabe5318aa2541842"
+  },
+  "a-plus-finance": {
+    "page": "https://www.aplusfinance.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e1c8396e1dd8beb8cc02fa625d2a4f962f42890618aa1479cade19bf2e90edb4",
+    "assetSha256": "329135abd47a55edb0b4df3e1948022a2eee415d89aa74ff04e0e812a7e96bdb"
+  },
+  "accesfi": {
+    "page": "https://accesfi.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "549f9d79f7968795fa3bc0bcd5d104d6eaee54f91646471ae4203e06d92375e0",
+    "assetSha256": "b691e8cf32f8dab0b155075fcf2f69092a524102122821da546aa06c1abb19a9"
+  },
+  "accompagnement-developpement-finances": {
+    "page": "https://accompagnement.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ffe3701b55e9f4de4773e7c21a5b24827b4a2b4f89e55b100d2da3cdd5540b7b",
+    "assetSha256": "86d58fa36baa23baeee0671632c3b11c84e3691f51a82ad0f390d9d021c4ed2f"
+  },
+  "acte-2": {
+    "page": "https://www.acte2.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "de87586d24d943976881bddd23b90e1a7009ed14c4b3b019cbec9ac6969a62ab",
+    "assetSha256": "0d72b3185d794c433c81abb300a27bfeb6647d8f6bad8e03db0a1f72cceba748"
+  },
+  "actif-patrimoine": {
+    "page": "https://www.actif-patrimoine.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3cf22fa8c7a6f673a866f992a4128ac2fb31c42a3fd8759fcd6ed7f2b4fc1dc2",
+    "assetSha256": "79f217448b5bc30f8a7b6317926e92f7a0603d33984c915755961145ec4122f2"
+  },
+  "ademe-investissement": {
+    "page": "https://www.ademe-investissement.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "711433760530d9bb3671cdfe843012cddb988e57ae4425a7996673abf315273a",
+    "assetSha256": "c03769e3ab7fe9664539dc67a9503253341d7e7efc78b9e2d270af3b863139f8"
+  },
+  "advance-avocats": {
+    "page": "https://www.advance-avocats.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A001",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8428cd0b84eb2d5cc4dbfe778cd89f4d3da4750240a4becc65bf2c7ea4dc42f0",
+    "assetSha256": "e68fff979deb5800ebb7b18fc9ba5834813971c9c820e14679d7741dfcec41b7"
+  },
+  "aether-financial-services": {
+    "page": "https://aetherfs.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "75610859547ae8aa143defe32a04e1a05f05ec69bdcfec45d01146eb0888904f",
+    "assetSha256": "05d5661c8b8d56d3062134458c01a0e567adb9ab65f42ed4a3775098813b3c79"
+  },
+  "africinvest-europe": {
+    "page": "https://www.africinvest.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "68369f506f2604deb91c6c18c8a533857579b70e03dfb76bcb47b8f468adc926",
+    "assetSha256": "2182b98f929cd56f2cb325ea2020c7541580e8b039521b06cb80c36c612ffd02"
+  },
+  "alcyone-family-office": {
+    "page": "https://alcyone-family.com/fr",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d6c35437a4b82fd3da9fd04e0dc8cfea066e7951dbbd78bd71e465b4d1821f36",
+    "assetSha256": "619a41d8efc8aa1291a002831eb728bba53fb6343eb7ab6c41c536f793c390c4"
+  },
+  "alerion-avocats": {
+    "page": "https://www.alerionavocats.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "64eadd038c0b19c8b1fba36e5d76265a951c1984687ea034ef9c9652aa40c965",
+    "assetSha256": "b42038cfa05da6fdded335ce134da244c0a9d0c048c12ca1b72f250fb3bfb43f"
+  },
+  "alliance-et-patrimoine": {
+    "page": "https://www.alliancepatrimoine.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ef656968a65010d26e5a0f739f21587a0a95b63753178155211820dbb4ffcffc",
+    "assetSha256": "2715f7f6f2478a2fec2244ff2843f3246585884323db48f9a3dc827c76b7968b"
+  },
+  "alpha-phi": {
+    "page": "https://alphaphi.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3d22711ec5b6697fe0e010441356db2976f12bc0603303761b7cd267871d69c7",
+    "assetSha256": "172c209c9e2eb9bc35aecbff51240d96e54e8245390c34e5b0e351e2ebb80c76"
+  },
+  "alpheo": {
+    "page": "http://www.alpheo.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "fe0e168e87d909332d991cb0786f85c30b904462e028cb638b9658591618bfd2",
+    "assetSha256": "ec29fd483857d2d6403a012d622c6b50b542e7ef7b7b7a75e6587b80c639cea3"
+  },
+  "althemis": {
+    "page": "https://althemis.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ea6e8fa6cab22dc2b9eabf402a30ab44f9208cd857e3370094f9af61e0c4b7a5",
+    "assetSha256": "273efed85e67cbbb2a318a9a98ee3fc2a05b2cb653a6b2e5f1b47e9be931c452"
+  },
+  "altius-patrimoine": {
+    "page": "https://www.altius-patrimoine.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b37f9f22332ad830789793837afc70c620e6bc2e9b0877a4fe274dff191a07d5",
+    "assetSha256": "35aeebe908441cf767b1d56dde46f3fb962325e7147d4a5357c9eb899e5c93c9"
+  },
+  "amadeis": {
+    "page": "https://www.amadeis.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4d9c52b281a40d7a3f5f7bdd1ad691e3ae633526b09d061afc9b01ec6cfe393e",
+    "assetSha256": "f1ec934d1d49389d7d0a202fa4772978a5c0f1a2647baf6ec383e7c843558113"
+  },
+  "anaxago-capital": {
+    "page": "https://www.anaxago.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e54760b8dec85d299cd4a12a8a56ec5dbaae737c21769024251312ab11ad4741",
+    "assetSha256": "a2111af3b70904e3942fde0840f13e07e603727b9ea0f3996aaa39165805b61f"
+  },
+  "api-courtage": {
+    "page": "https://www.apicourtage.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A002",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "83b40a88a39b295dd3ae8f1d0706bf8dd3044889aee40056d9e05692c2c41d60",
+    "assetSha256": "7690b32d77e807b0100330de82279ca145d9682615bbdea6ef0181447f462a53"
+  },
+  "aps-credits-immo": {
+    "page": "https://www.apscreditsimmo.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f9572bf4eed40992ca3c9b18474b1bb2a6813e286dacca1430b7037284019613",
+    "assetSha256": "ac63945248b497c2550e53b7a443561261a0f82735724eabdcca553671ebe423"
+  },
+  "aquasourca": {
+    "page": "https://www.aquasourca.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f19e4625e86d4b449f90ed9d94f971c95806234a915f59eb671a0cf2ab0639ff",
+    "assetSha256": "2594394aa7eb24cfae936e6351a1bb274bab43e35ddf469e506ee9c419bac19c"
+  },
+  "archimed": {
+    "page": "https://www.archimed.group",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d9407416316987c0ffb7e255ef200e9e863b3681f417cc169ad5945ab373b368",
+    "assetSha256": "68dd666bce57f15d06a1c92219cc710b9725ef660ad3d0aa797ed1059e523e80"
+  },
+  "arctic-securities": {
+    "page": "https://www.arctic.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b887827a3546a3d465ed0ffd1082a6a226041fbea7c35160f0a630c3afd90537",
+    "assetSha256": "8cce87d602471e295febfb07e9712f0231b888d9afc024d549f7b3ad4646003a"
+  },
+  "ardabelle-capital": {
+    "page": "https://ardabelle.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "51d16c91ed9bdb9b174209184d728b07456297731122e8ba1eea719aedcf16be",
+    "assetSha256": "5f2bff1e6288d96a1e68fcaed8ae43793ddc7af754d0cb9db0a9647304a15766"
+  },
+  "arendt-medernach-sas": {
+    "page": "https://www.arendt.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dabd64c3bf9db02357beaf27389aaab692345309f68bef732af5dc55bea29efe",
+    "assetSha256": "5160cbc4ed90e613a156214e7839cfc9e46ccf33c565f1fd3276b7ac34de2cab"
+  },
+  "ares-management": {
+    "page": "https://www.ares.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "9f9a982f6c77b5ec07caabc32354b4d0cf3b327f68c6daf59085077a873d98c7",
+    "assetSha256": "e33438b97219a61f00bcb32fc0879c9e254d1fc2283c05aa61c7fa074e96ca4a"
+  },
+  "arkwood": {
+    "page": "https://www.arkwood.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d18af2f94b57acefc3c236f0fdb08db294db7db1bd617fc9acc607d6230cf9fa",
+    "assetSha256": "84a6cc9938cb1f50e57166fe80c08ee8e07e55067855cde26bca3566ca7ea25f"
+  },
+  "as-finance-conseil": {
+    "page": "https://asfinanceconseil.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c0595efb58854023cf8c0ae0ebd1079eff132edbb1347258965cbc88f83c741e",
+    "assetSha256": "6d9d9e429158badf4a3e2f2cde82c60849dcde8cbde7d3dd5af2244a57992bd1"
+  },
+  "ascalon-finances": {
+    "page": "https://www.ascalon-finances.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b8751d37965f2af1da1fbb4b5512788d766d14ba3d6882c3bd38a284287c4097",
+    "assetSha256": "35d1d09aa5c0bd1119c4b40a5fdae356c2fff1c6be5b4613a93d5489c059338e"
+  },
+  "assurfinance": {
+    "page": "https://www.assurfinance.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3d4d538f4ad438e15df0378b863195472e2a4162eae1d8b878cb9fcd28ab5de0",
+    "assetSha256": "74e969fb2ae959f8769ddd2bd5d143c528c36d10c055dc11e2c20019d5f446f0"
+  },
+  "aster": {
+    "page": "https://www.aster.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "89fec5683e961298a6a533a43c52fbebfc6f50632226153dd89b725cbf341754",
+    "assetSha256": "e52bffe5a4f581a374c7b047ed94417637125f72a8f8f1b223813bea01a91214"
+  },
+  "athanor-patrimoine": {
+    "page": "https://www.athanor-patrimoine.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ec6331af050d8ea60895a226f9c7f0a31a34a3bc589a5c6d5c30911a2307c675",
+    "assetSha256": "be86f858442d078d13e37896dc8649d3ecf4c50a05649960128e62611e29f8c3"
+  },
+  "atout-capital": {
+    "page": "https://www.atoutcapital.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A003",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b0f5861337b1135d8261443ee156e645f721215ba8b61520d4e58b3b4e7cbda5",
+    "assetSha256": "9c71cb93c64098927b9a26bb159c76a19897c9a250afd421a6afc87eeb075c4f"
+  },
+  "auriga-partners": {
+    "page": "https://www.aurigapartners.com",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "9f052273c22043f9f6de9779ce4051a145433cb2e8dffeb03bd41cbce28d4566",
+    "assetSha256": "97468c38dac4015eef388bcff6324d07f0e8123f250f6b0d1069f53dae615eb0"
+  },
+  "avicap": {
+    "page": "https://www.avicap.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "eeaa6824e9c85bfad850d0b922fb5b179b1a246b02525f87440b93392cd595cc",
+    "assetSha256": "b9ae7349b1445303fe6a117a1134c5ab8fd4529f6a22c803ab2fee70beeee449"
+  },
+  "avire-finance": {
+    "page": "https://avirefinance.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "51cd5e890161db187cc958d35b9de6a95fa9c2f3d80af4bd941b1f6afcf9cdd0",
+    "assetSha256": "70fc4317fec6868a1b2f1b879684b290cadd7ebbf4aa8b5d462143cf2b989a1c"
+  },
+  "az-courtage": {
+    "page": "https://www.azcourtage.com",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "adfec47df299ce01c5fe6b9e02c4b880adede91510d1e838b4ce2289e12ffaf1",
+    "assetSha256": "fd2e2c3a6af75fd583e802e75c343f3e878adc9c8f335b148996e72a47dab1f2"
+  },
+  "bank-of-america": {
+    "page": "https://newsroom.bankofamerica.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "24756cf3b8f587201784cf52a6f4838018febc66b132191a2b26b1f5b034c9df",
+    "assetSha256": "958894413eca91cb796b55d4f8ca7d06421c0bb78869f30fb28c112bae1731bf"
+  },
+  "bank-pictet-cie-europe-ag-succursale-de-paris": {
+    "page": "https://www.group.pictet",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b5c3d096952378a8c6223bf7d9a62b1779abc39e6046e419ef557d1fe38a2169",
+    "assetSha256": "d77145d24ff776ffb07920c5f8638bea75819a337e2c9f5fd7b08554cd853b3e"
+  },
+  "banque-hottinguer": {
+    "page": "https://www.banque-hottinguer.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5b948377dea05515355dfef8a7b6fcbb4b13b7a9cf72ecac16b027889b843e18",
+    "assetSha256": "971826ec54c2d6349a3dac4b7c2cf379b2edca201b8d7642b81512fd954fe1a1"
+  },
+  "banquimmo": {
+    "page": "https://www.banquimmo.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "2c1b6eee7f99b3e9f5bc85353a9af89071b2e997a01a21453f0ab39aa33607fc",
+    "assetSha256": "c5671c31528aa72176c17efafd5f8f76bb0d744dd2524d2b1817e1e355e2a441"
+  },
+  "bcr-finances": {
+    "page": "https://www.bcrfinances.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a8e631dea753855bbeec0488c694e3edd242e7f43dc13f215be8044ca4b3a8fd",
+    "assetSha256": "7d144d8763ae1fdaf05219547489588698ac2c811beb956c859093fbe46b5c6b"
+  },
+  "beelong-family-office": {
+    "page": "https://beelongfamily.com",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A004",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b8a1758b40298a7e6642d83ebfcccebe4490a48bea93119b2f7df5c22fb1d624",
+    "assetSha256": "a0a9debec29350671c8f01c75041b1e00a376683e5fb7a2dcaecf567bf85fea0"
+  },
+  "berrylaw": {
+    "page": "https://www.berrylaw.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "88a356c50fd8877fe2b7d29655b4ec15ef0340ea3fd6c0aee804837173d3f839",
+    "assetSha256": "fb99ecde907aa724c8933f2cf498d60bfd0a45863e4d6b4275a8e9b5646d4ede"
+  },
+  "bg2v": {
+    "page": "https://bg2v.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "cf85be37ddbd7a335ff31985b7190dc0465385299a811b9587a7207429cc3142",
+    "assetSha256": "da01f92faa6863ba18618a028f060a0b5a0dfe0916712ecf098db6cd7ca45646"
+  },
+  "bird-bird-aarpi": {
+    "page": "https://www.twobirds.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f87e2703e4c5e92e0a370ae5e72b1eeeca9e716720fac841b2638ceab7100a86",
+    "assetSha256": "a4c5fe196bf258de2a02c0dbba2dcd735bd4094047d2ad89784f4168028cd73d"
+  },
+  "blisce": {
+    "page": "https://www.blisce.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6546207ffa7c627b1858f765385ba5556b7f1731cfa55da7f2608a5743c86dcd",
+    "assetSha256": "92bedd20981ca26868a417c07b62a9c132617de89cdeece99e57aa09ba14f444"
+  },
+  "bonnard-lawson": {
+    "page": "https://www.bonnard-lawson.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b8bf60ef9ac2c9f8a06c03e856f18bf5f51fd4d6eb62fc3679bc6ead33ec0e3f",
+    "assetSha256": "4e279637fbdd2a663abe716723d9c77c3a227c1176abcfee6e5cb9198f73989f"
+  },
+  "bordier-cie": {
+    "page": "https://www.bordier.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "64f466a03b6b990001ad821b18c8d26f9d1e5676b94c7584e378b2b8e814b6d1",
+    "assetSha256": "2458f79c101537b2a300b102dda2a44fb71c78a1de8d93d62ba2b6d4faac35d3"
+  },
+  "bordier-cie-france": {
+    "page": "https://www.bordier.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "64f466a03b6b990001ad821b18c8d26f9d1e5676b94c7584e378b2b8e814b6d1",
+    "assetSha256": "2458f79c101537b2a300b102dda2a44fb71c78a1de8d93d62ba2b6d4faac35d3"
+  },
+  "bredin-prat": {
+    "page": "https://www.bredinprat.fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "2476a0855d916dffa549acc688d4d9ad9d4c76e9eabb34c21a431f0e5a5343ad",
+    "assetSha256": "6c15f80c5dbb9ebcd406210125b888c3d841164fc7f9b9b69b34ebf046c4780f"
+  },
+  "breega": {
+    "page": "https://www.breega.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "40dc5ef34b31636e4fb2a889171eaf531d016acf3f50dfc7801ac74119b13d86",
+    "assetSha256": "51c5eb5473f101e5911b2059b398a5210820c63a35d34be5b3ebed9db40fa3a6"
+  },
+  "brookfield": {
+    "page": "https://www.brookfield.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c2e10994d611d420e873a712bd91071f8f81985d6c710f1db83cd90b81f6145e",
+    "assetSha256": "e846bf0ba17d7302ec46968f2d7230b53ee9bc9a60df5c0f2398384549e79e43"
+  },
+  "budgeo": {
+    "page": "https://www.budgeo.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A005",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "69c595fc4ded575ab29f624c73418caf34cb62ffcb853b973e1ddece045d5316",
+    "assetSha256": "f3113a2c49647675008bd13fa1ae4c2e8209feca3159f74badab808b0786912a"
+  },
+  "capitem-partenaires": {
+    "page": "https://www.capitem.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "029c8066d018cc202a150363d78a046973c5b20822089441d6b364bcd5bc08ce",
+    "assetSha256": "af11d7189b6a80fdd957f34621b82e8c6a9551944961170cd1734a25015768b4"
+  },
+  "carat-capital": {
+    "page": "https://www.caratcapital.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dc65d716a80e620e7a3997f6d2f00c0e28b5e8aaedbc6e4b58ffd7b31842631a",
+    "assetSha256": "80261c7507b5aba3b1d683bbfed7aca4a40dd3c3627b3b61b55cbe4c5022d4ff"
+  },
+  "cathay-innovation": {
+    "page": "https://cathayinnovation.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d9201f3eaf1a1aceb1701c79811222ef5d2446cc1126b68ce730b690316b5829",
+    "assetSha256": "70720eda2e602fb2799cbbd6d58903695254c6961392b82cacf97b35fe0466e1"
+  },
+  "cazals-manzo": {
+    "page": "https://www.cazalsmanzo.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "90273d15afc9c4b14d9f32a0c01785485ddda3571fd82460bc10e276c8632258",
+    "assetSha256": "f2e4b7176b82467ff3e333dd1d9ce5c79c9eab3633b40e962edb00f175d33e3a"
+  },
+  "ccr-invest": {
+    "page": "https://ccrinvest.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e4f5b346935eb99ea4dd45c0123e23dfaaec98e4117e7f5f71a910229ab05c90",
+    "assetSha256": "e43665e9ae54a1ff229ef2de07a5ebc59b71425358915a92dc5b32e8e032d53f"
+  },
+  "cedrus-partners": {
+    "page": "https://www.cedruspartners.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "aa2015c9f27d386bb7ccdd3095613bf8cd75de943903558f70c0686ccad5ea6f",
+    "assetSha256": "d62c5ca4c66fc903ed3a7db94f2bbf73111da5295d4c0d1202a904c3fd23b7be"
+  },
+  "celyan": {
+    "page": "https://www.celyan.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A006",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "aee2c10217c3cd4aed08e0491978b7562f6d3eab2db7c387fba88a1bcef67714",
+    "assetSha256": "cc509a56827ef2272aff291b870be52fa9d156e7ddaeb8221fa19ffbc5f08e13"
+  },
+  "cf-profina": {
+    "page": "https://www.cf-profina.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "bb527c20f1e0468886154a09fd172cff4b4d8584a72b1736d84a86804c8e9c03",
+    "assetSha256": "17ccd170738514319fe163004d31525031826a9a20d71b139cf30d47cd0b7a88"
+  },
+  "cga-patrimoine": {
+    "page": "https://www.cgapatrimoine.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a81378faa1834de1902906992acba5b0b5346c07b47a90a13544e92a34e88cf0",
+    "assetSha256": "2105733c41b6f89c7d5625752edf9f7fb044917de53dcaeeaedc50db9885e33f"
+  },
+  "cinven-france-sas": {
+    "page": "https://www.cinven.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "045dd28cfc301e2074e53cbc60b11ab13b511041e54c0ad99c4860931415d3ce",
+    "assetSha256": "f8377a807bca81ed846ba77540e2ce9cfdc1bb937c1da4d4397fb27de127a992"
+  },
+  "citigroup": {
+    "page": "https://www.citigroup.com/global",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "2f0131c795b4a64534671422cbf96a26a19695f6be224b5c7f281a0ce2f93d5c",
+    "assetSha256": "da1de6f449782394d6cf4a944965a21a9ac367b7ea3fe9da4fc143866fbe1d5b"
+  },
+  "city-and-co-centre-loire": {
+    "page": "https://cityandco.fr/nos-agences/agence-tours/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "921494c09e0b55e12dd05b9d372df041f77253b148babb5f94c6def914369062",
+    "assetSha256": "3629ac24d94e740fc4711138347ac738d7be638439d492edbebe88496046ddc8"
+  },
+  "city-stone": {
+    "page": "https://www.citystone.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5565b201cbcc426087964a541653c3ca1a036126b7161457fa3f8c188ddbbec8",
+    "assetSha256": "0a9c2315f968a76e5a5874c69d6e21b07153cbe6d3b0262400c9db5916acbce3"
+  },
+  "cj-finance-invest": {
+    "page": "https://www.cj-financeinvest.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "011285538987effbb22bee7e961ebd063191ed1735031642fc74f45cc59f2151",
+    "assetSha256": "02dd8fd4e4bf560baec61b6c01a8f15e86a617cb226a2568d17015b283dfce3a"
+  },
+  "cncgp-chambre-nationale-des-conseils-en-gestion-de-patrimoine": {
+    "page": "https://www.cncgp.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "23f3df41ebbd4495a602206a8da84cce2de1846b7ab8c46824776612a5a83805",
+    "assetSha256": "12885ff35ad895a32272ed305adfba0dc8b581c8c2a0013e0366a5df0a020958"
+  },
+  "come-maison-financiere": {
+    "page": "https://comemaisonfinanciere.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5974564a6bb4906aa46b2647a2bcc327c5e5bc45be620a49a55b081d79a45db4",
+    "assetSha256": "cce74fb8610cfc2a174be7c0689d1c9f1e2dd38f24f85516ec6c6de827be3b07"
+  },
+  "connectcredit": {
+    "page": "https://www.connectcredit.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A007",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e70ee12fbc9ada2da1d25c9a4d69a860cebb374a86c4a1b385ab09f994144174",
+    "assetSha256": "ebabd6ba1c00769887db633137bc769d7c4e207b654c87eb4176407b928cf780"
+  },
+  "credit-agricole-cib": {
+    "page": "https://www.ca-cib.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "06ae80a44c0178f38f7ed280d2848bef28e6567e457858271c8229a19aba6d65",
+    "assetSha256": "5b04a21e560ccf50b9f461b4dca3a3f73d536fdf6e6d4c3b06ea51d54d5c7c15"
+  },
+  "credit-agricole-payments-services": {
+    "page": "https://www.credit-agricole.com/marques-et-metiers/toutes-nos-marques/credit-agricole-payment-services",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "11b13c355a42402305bd0ce4fdaa0642a6cf5063ba66d8546ca57b86d999bb60",
+    "assetSha256": "512360c62a3ad79d9ff17c4fee3c25ca007d49cd3da5c740f9a37ed31c8a2c11"
+  },
+  "credit-home-financement": {
+    "page": "https://www.credithome.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3a12fbb67a1bdf26139e4ebc83908ceeea7eae49ce1ce8271bce28745adc5597",
+    "assetSha256": "c52ab02c63040d83a0b225021a8f61ecdd8550dfa20b6cb628b20aafc6f19363"
+  },
+  "credits-et-conseils": {
+    "page": "https://credits-et-conseils.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "871bff4e78260d1a5a766b4745d9a9cd961e76510905e7486002e098017d5e9c",
+    "assetSha256": "f9316eb09940c9a8eef8966f27f2da0f1edd777426bdc83bfd4fcfc438a9455c"
+  },
+  "de-sancy": {
+    "page": "https://www.desancy.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4f901f0d9b1958ef8b2ce11336846fe55bf7f95505f7e0d32b554aebf7c69b00",
+    "assetSha256": "47d7478b1c02ac664744a75ed8b6a760bc58a044674e52308c7e7ad09dedc163"
+  },
+  "de-sancy-patrimoine": {
+    "page": "https://www.desancy.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4f901f0d9b1958ef8b2ce11336846fe55bf7f95505f7e0d32b554aebf7c69b00",
+    "assetSha256": "47d7478b1c02ac664744a75ed8b6a760bc58a044674e52308c7e7ad09dedc163"
+  },
+  "decarion": {
+    "page": "https://decarion.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A008",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "864a47e99a506f667f516b9946bc11b381bdfa2cd68ad833bf7fa58600fb9805",
+    "assetSha256": "0dbb4e5dd91b79e412283869b73ec2e196caa248aecb6262566d8b189617e19f"
+  },
+  "deutsche-bank": {
+    "page": "https://www.db.com/index?language_id=1",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A009",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "67693f66a124fd36327d7707d9186eca9369ad0fe196357158f548bd61776a57",
+    "assetSha256": "5d7c38da0e7af095842da11094ae9706b2dbaa066ba487767fed9c5d7fa793f7"
+  },
+  "dobree-patrimoine": {
+    "page": "https://www.dobree-patrimoine.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A009",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c7002735a9007ec50322ab8e44d4c386ce7c912ed11ebfc376fa3db86099afcf",
+    "assetSha256": "3b79579dce0004cf1957cf03cc0f648ce6a87fd361669ece10896ca06b3fca72"
+  },
+  "edf-trading-markets-limited": {
+    "page": "https://www.edftrading.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A009",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c146dc528e8a5c1cc9e4472b1c4aae5035e4b3404d2d49c63cfd08db5e86e1c4",
+    "assetSha256": "1df5453020e87b1aa7ba73745d65bf0e714c1998b58d30357bce5dcda51a7d0c"
+  },
+  "elea-capital": {
+    "page": "https://www.elea-capital.fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A009",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8342624c510bee831c47f79a0c05111a9a1438d0b6de8ecae830327e8fa8af5d",
+    "assetSha256": "26fb34838811ffab6b525358c989f98f18422327b3142c56aa2472d347a494a1"
+  },
+  "ennoia-patrimoine": {
+    "page": "https://ennoia-patrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6a1f6b291bf6bda7eea7881c6fc8eaed885c87f132dcd5840a96d4e4831f988b",
+    "assetSha256": "40eb71f07893d17fe550500fba90863d257760a6b5acf16ceb51edf49ce7382c"
+  },
+  "equityzen": {
+    "page": "https://equityzen.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d5126d6858b4fa96316970a8ff0c9bc699cb972d384eef84ee770729d0899b3c",
+    "assetSha256": "0f50db740b2b31cafe3fc12bf0017e2e61ad2dcda4069eb1d07e95a82f5ef2a2"
+  },
+  "erganeo": {
+    "page": "https://www.erganeo.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b096d2d94a27a0f562268c52bd2d4e21b798e6b0ca02b97a8fb8322162039713",
+    "assetSha256": "ff6630eda3b832352a548f4e36a3e322e771e6b1fabfdb506cb4b1901ae39b47"
+  },
+  "erganeo-sas": {
+    "page": "https://www.erganeo.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b096d2d94a27a0f562268c52bd2d4e21b798e6b0ca02b97a8fb8322162039713",
+    "assetSha256": "ff6630eda3b832352a548f4e36a3e322e771e6b1fabfdb506cb4b1901ae39b47"
+  },
+  "esfin-gestion-credit-cooperatif": {
+    "page": "https://www.esfingestion.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dff85dbc884926cacbc68a722dfa0c8184b9719b3dd1f487616b06c17ab0ee9c",
+    "assetSha256": "882417673998598e0b79e98fe9555c1d604f0a913cf9b60e4fd0ad9b0ebfd6e2"
+  },
+  "estuaire-notaires": {
+    "page": "https://estuaire.notaires.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "32ba8ae36223a4f521dca80b0bd9ef9d9fc1e513eb97f29b7deb7ae2e7cb72a7",
+    "assetSha256": "f168b05471d9dbc7e54fc39f7adb500f7ebfdc506329aec16f70e715b777fc20"
+  },
+  "eurinfi": {
+    "page": "https://eurinfi.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "30ebb8939e58ac7b617ea5cf9831987f818f5d86a6d56ab7c342a8299c76e553",
+    "assetSha256": "f072eba738e55f27a29c6601600fdde8b5d82f2ae8922b03388392b8e67e507e"
+  },
+  "evercore": {
+    "page": "https://www.evercore.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "56daad1f3df246dc497fdb0d0b2feb6637a95b0524cb8c4c0a75a93b89d63d85",
+    "assetSha256": "4d0b9694c2c4c9aad060f1d8f36a2e2408a23c63439889741831f7c8e6f0d441"
+  },
+  "excelium-finance": {
+    "page": "https://www.exceliumfinance.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5a688e000273c9af3aa611f28ab9ca3bfcf828209d7e58955952da665f1a7758",
+    "assetSha256": "2ca2d743274fd1da154f49bb895e6f9808d88d82b8e86f55de70dcb1b85740d0"
+  },
+  "extendam": {
+    "page": "https://extendam.com/fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A010",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8fff6aad2c92fe6949d75c9e367fdb3440503d442ccbb25a6ab7c4d3a8fb30e6",
+    "assetSha256": "52c3a9f18856dba657cc47007fbd99abedc745712d09358a61fce684d1b9f0d4"
+  },
+  "ficamex-patrimoine": {
+    "page": "https://www.ficamex.fr/nos-ficamex/ficamex-patrimoine",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "151d9bac08a5b0a4981c37b50bc32fbcfbb6fa75e93480d978d3a635fe086db7",
+    "assetSha256": "65ddba78b27349c2c6da6200ca88863c85239ff34c579530dfda4642d1275f51"
+  },
+  "finance-et-factor": {
+    "page": "https://finance-factor.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "caae720eea40d87ff4e31ca43ab84a102fc581dbd20a775a9df832c6e68f2ad9",
+    "assetSha256": "adbb04ac22495764c321d4d7558b36c837880aa07991174c98f1c9d6d76434ab"
+  },
+  "finance-invest": {
+    "page": "https://financeinvest.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d1461a4d9db862f1afded3b2e124ffbe5123b2857bd33d0dfb251258b380570c",
+    "assetSha256": "d85ac1abd6b7229405add6bcd7caab038b7cd75b806eb897eee48498e1907895"
+  },
+  "finance-invest-gestion-de-patrimoine": {
+    "page": "https://financeinvest.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d1461a4d9db862f1afded3b2e124ffbe5123b2857bd33d0dfb251258b380570c",
+    "assetSha256": "d85ac1abd6b7229405add6bcd7caab038b7cd75b806eb897eee48498e1907895"
+  },
+  "finaway-courtage": {
+    "page": "https://finaway.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1b5ea1da1477bf4bfa534c3e9a54e46d3b2b24d6e8771688405473efac87399c",
+    "assetSha256": "b63f5e3f8bd572503d01cdf4484c1437ae5d6ad09844b3e151c632e666ae64c7"
+  },
+  "finebac": {
+    "page": "https://finebac.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4273f360c8e5f0b91f063e62b9c818b27440f3e313581c7aa3b3ad2f7929a961",
+    "assetSha256": "3f4095de96f7440dd05059fb2cea81c5db2d217f5d1975bf76e546bee05111d1"
+  },
+  "finexpertpro-com": {
+    "page": "https://www.finexpertpro.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "67e9a187374e55588f6fd0b4d0701a49e2a0f9192be0342cf89b5af9852cc040",
+    "assetSha256": "37c20762163ad0401d03ce496e93f2768408492054bd563954dd4f320c0f20f4"
+  },
+  "fipagest": {
+    "page": "https://www.fipagest.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "93b0898a31e5c0274ecebdef89fa335f9b59fd6aef61ceedeba944288886c9ba",
+    "assetSha256": "23700585d782cf232cfe35ed56f7040b0adce1edcabcc87e67302b8ebc2d64d1"
+  },
+  "forge-global": {
+    "page": "https://forgeglobal.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A011",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "62a82ffb7b5af4e0ee5521fcddd3d970dcb941ffcecc3fd1b040654e1b2c7fb1",
+    "assetSha256": "90919a99ece3c9d5c2dbb70c70cb1c1780b3c4a33bc963f6cefac9c2b054c23e"
+  },
+  "france-garanties": {
+    "page": "https://francegaranties.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "695cc9f58df1e0e8e2b3ad1352f35080407d69a0428d9e39503a873724ef0575",
+    "assetSha256": "44478e2b26d0819c5a68ad015aa1a7c9a7c675b2b36b764b1f8eba16b32bbfb6"
+  },
+  "france-valley": {
+    "page": "https://www.france-valley.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d62b9ba5edce55bee32b7cf497a1bcb61086c8bf573fcf8a57762844d0720c63",
+    "assetSha256": "c7ba3e1a07d63190f13f3bb7467f7de362031a4b1154adacbda9483bc1790020"
+  },
+  "gaia-consulting": {
+    "page": "https://www.gaiaconsulting.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f905ed9c2e200373ec33399e0eb79b24e664dfa5aa88c54b0df44ff834bd68e4",
+    "assetSha256": "6699be2a65a0d35d657856abfa81a2f25c25fb8e269c98d9f184336991dc36c1"
+  },
+  "galia-gestion": {
+    "page": "https://galia-gestion.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a79222eaee8a6da8ec61afb93578d6fdd2923705eb04dacdda80953b5864b179",
+    "assetSha256": "4a65e495419328bf11501ea5aced5ba3bf7118b7a7a537f5c3c15b84a4f386c8"
+  },
+  "garibaldi-participations": {
+    "page": "https://www.garibaldi-participations.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "675fe7d876d1b7fd282134e17ff26214c5ea8e624cb3bb5a62d6e48a81a71a4d",
+    "assetSha256": "6843cde95e5d72818a53071c88de0f2be946e7b9f778fa03dd615c8f225037a9"
+  },
+  "gide-loyrette-nouel": {
+    "page": "https://www.gide.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "06774e42eaf88979d116d3c6485d6ec54f6eba92c77d70e7a4f872bad4090548",
+    "assetSha256": "f6faef4f6073034e5ce713a336f704756f01e90a7cf0bc173f343ac582d66167"
+  },
+  "go-capital": {
+    "page": "https://www.gocapital.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3a12e79b4de0c45a71f1752a2887273dd4bb0c9a021f0fe797f914af902b1132",
+    "assetSha256": "14a49a6b1907668006533ab21f8c2a536263137458d41f39d81e9b4c066d02d1"
+  },
+  "gold-patrimoine": {
+    "page": "http://www.goldpatrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e305eb028c13ffd8d15ff48c70e72fd6f90e11e96d2e63d74c7ea3e20679a4b1",
+    "assetSha256": "5ec1ac7fb40d7787972a5a54821d7dc0a1c4672288fadc53de3416faa4ef32f6"
+  },
+  "goldman-sachs-bank-europe-se": {
+    "page": "https://www.goldmansachs.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "64dc0c1bcc45ccccba1727b4b504b8543e6ae43462d72dbd91bd9735cb80e2aa",
+    "assetSha256": "1505c0a536939d5748fec0a465f6f59bc962cd1a9d3e5c3fd18ca071f64f41dc"
+  },
+  "goldman-sachs-paris-inc-cie": {
+    "page": "https://www.goldmansachs.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "64dc0c1bcc45ccccba1727b4b504b8543e6ae43462d72dbd91bd9735cb80e2aa",
+    "assetSha256": "1505c0a536939d5748fec0a465f6f59bc962cd1a9d3e5c3fd18ca071f64f41dc"
+  },
+  "groupe-orion": {
+    "page": "https://www.lafinancieredorion.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dbef21bcfcae1aece935fa279794768e0b20f1433ae49375648085d5cfbe245e",
+    "assetSha256": "a418afe8fda70ab7a023b40113ed56bafe5885f544cee93a9763dbaa03ee3dd6"
+  },
+  "groupe-patrimmofi": {
+    "page": "https://patrimmofi.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A012",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "69c874ea6f4cb8ddb1a32ce2aa1b7ec907d73a9c78c2e987ff1cebf65d43b10f",
+    "assetSha256": "822b51761b0f2fb6be1c2bc000ace84d8ed2df5047853ca0784dd914a327aa57"
+  },
+  "haussmann-finance": {
+    "page": "https://haussmannfinance.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b770785364ea5b938382c4546b0d0f4e434ec84e40c388fa1f5af7632f9067cb",
+    "assetSha256": "48709105db76230f1eb0a9c1c551d4652830e9de4083034122b15e4a19b1cc55"
+  },
+  "haussmann-notaires": {
+    "page": "https://www.haussmannnotaires.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a96e42eb73b29c3d1c1a83e646ff7fd406a367ba6576b62eadc9b7eaeeca2964",
+    "assetSha256": "6e128ec039167fe67bbbb58ea21c5f89d7086a86b8e94705e808e969850cc1c0"
+  },
+  "hello-finances": {
+    "page": "https://www.hello-finances.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "efa78491008dc481026a42fa15e1cbdcb7878eee5615ccdaf79199b17e2bb937",
+    "assetSha256": "fc7fd409b0a80d40792f6a00a8d69feefbe8b6e4d56bc115829ba858ef3d7d82"
+  },
+  "hiive": {
+    "page": "https://www.hiive.com/brand-guidelines",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a14978f93afd89468afc5c39d1f81777abddc1c3ea95a9430c9ed3d79ef5e76a",
+    "assetSha256": "3bc1535ad3c4b6acc4c38cb41229f8aab1f1b591259de6f3bdc06790bd5c312d"
+  },
+  "hoche-avocats": {
+    "page": "https://www.hoche-avocats.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "34a79dbb09afc8cf215374eaceb8a279e4e2a54a893523b041ec5e4be2ba10f6",
+    "assetSha256": "75decca3d568928de42a3a08b5919eadb9aa65851edd9ee34d26a09a54e8a3b5"
+  },
+  "hyperion-capital": {
+    "page": "https://hyperion-capital.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "9a0d9bdcccbdf219432ecbfe965b05b33e3a8ac97c91b5eef5f1a7e7285fdef5",
+    "assetSha256": "32f8847962bb5171d4e9d23d0f32341e06dc85186b3f1ee1ce2751a13bbfbe1b"
+  },
+  "idico": {
+    "page": "https://idico.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "47673b847ac3d7fb7d97108a98b18b7863278f8034a6d53ca8e6a45a5c0b6bf1",
+    "assetSha256": "b7c5e065cc966b96ec04b66162e706e3b0aa621b5cfef48f242947db27c71c29"
+  },
+  "iker-family-office": {
+    "page": "https://www.iker-fo.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "cd6535b6b79c9c6cf6d2c7e9835a2f3e6662730c9e501fd30d0faf3b28cb7b43",
+    "assetSha256": "f6bfc3b9b9c061ad357e9e7e0834bc9bd5cd3a213c5a1693ff31e22cc5a6a1fe"
+  },
+  "in-extenso-finance": {
+    "page": "https://finance.inextenso.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A013",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d3476bae7a0cbf46bde9db19e51e68804087d996ade2afb75c645480799396f6",
+    "assetSha256": "f60103e825986983d96e16b3dca2bc43695886fbd0c7652caccdf43288409ef3"
+  },
+  "initiative-finance": {
+    "page": "https://www.initiative-finance.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8f873ef01d0a6ec738da6ea2cb943b8edae8f80e2e23b6ba168886544cd446e7",
+    "assetSha256": "d062d072e5e7664aa7e04f4f7da34c89241706518fe078e31deb1545bc4edc48"
+  },
+  "inlo-avocats": {
+    "page": "https://www.inlo.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a66e46076d25ccaa1c3cef13a9a9cb285e1af0b7491ec7087b59608b628a0ee1",
+    "assetSha256": "d5c8bd2710d450f75bb84b8db81a022d53e4320dd24b1c2691e8393962f41ec8"
+  },
+  "innovacom": {
+    "page": "https://innovacom.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "579772f9eded1e1c1137befefe7f27821f01417f3acaa6e9917c2e139c132cc0",
+    "assetSha256": "6535af65246169479b6a463b65c41055c26fc5a5bf2b598ae50579ff2de29547"
+  },
+  "invest-services-finances": {
+    "page": "https://www.moncgp.net/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dfa1b55818a381541fca8b20743bea308cd6673443282e95e8ce00da2c6763f8",
+    "assetSha256": "74f08a2aedb26e5db45bd7011468e3e8c439965f891c2977ae9b4d453c077e06"
+  },
+  "ipsum-conseils": {
+    "page": "https://ipsum-conseils.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "94ca17fc688320ef0ddb2c10e71e915c4f75826dc92690f8de4e19e000bb76a4",
+    "assetSha256": "acaf3abdc21401908393cc13480719e3419291022ffe7ac9f6e1df9fe90cb176"
+  },
+  "irbis-solutions": {
+    "page": "https://www.irbis-finance.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "88f0af72c3426aaa0efde5f16607cd6041b7a265b74363e01360c3aff98d1ad5",
+    "assetSha256": "a12a1bdf9de50d60be3cefd8a47f059d74c9b5c9be61b3a05b41320f921970c5"
+  },
+  "irdi-capital-investissement": {
+    "page": "https://www.irdi.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c1c1e1061310c3e6c6059d98d643ae0379505c11ff015788322f83de6eb8324b",
+    "assetSha256": "2f0cef713374f5f3dbfbab031a2686eb884678dc7efd348cdffe08864294ea52"
+  },
+  "j3g-patrimoine": {
+    "page": "https://j3g-patrimoine.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c55556f979254ac627cb9bf26e9b4366b96c84e54dc2d78998bcc44ce2bc30bf",
+    "assetSha256": "f34b79939d25fbb9ad9f21558bc60e485cae600d17a42a7479e029a5bd7375db"
+  },
+  "jade-patrimoine": {
+    "page": "https://www.jade-patrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5e55280cad6bec0fb887e4c40b9d93547f267d612b5911ad9bc12a8e4a66a72f",
+    "assetSha256": "0c76524c00ccdd2c9c3e5b6c6aa978283740b490b663a7b070f72278be2f42dc"
+  },
+  "jeantet": {
+    "page": "https://www.jeantet.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A014",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "892d29a806c5d1b0c8c30258f4f6e17abc94cb80886a4da9d7e1c7cc956d0418",
+    "assetSha256": "78ba8916b4763f5fa18613b0822edad08c241e4c64914bb99ff943a1dae068e3"
+  },
+  "kino-gestion-privee": {
+    "page": "https://www.kino.gp/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ec5c59610c03212785e59875674347ea83295deb6994a2863b3f368e7b78ef7b",
+    "assetSha256": "bcdc35c8606fb61bd3639241dbc442f64793b8d31bd2ea7643ee5a32f35ce57f"
+  },
+  "kohlberg-kravis-roberts-co": {
+    "page": "https://www.kkr.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1c3818440347bda45141927031315cc386f6b650d4352b52a473c979e16b8088",
+    "assetSha256": "71245b6faabfb97c8b95dd38d175728c5124288247052eecb874b806645fd3d0"
+  },
+  "kohlberg-kravis-roberts-co-bureau-paris": {
+    "page": "https://www.kkr.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1c3818440347bda45141927031315cc386f6b650d4352b52a473c979e16b8088",
+    "assetSha256": "71245b6faabfb97c8b95dd38d175728c5124288247052eecb874b806645fd3d0"
+  },
+  "l-agence-francaise-du-patrimoine": {
+    "page": "https://afdp.net/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1e36e4580253580a9e98ffec96e3c6177b9615e9bc46cdafb9710fbfe523c9e6",
+    "assetSha256": "cccf9508315429e27d7147cf2ecb3c7ce5ce4ba38f59a876092ccf9cb4ab4ce8"
+  },
+  "la-cle-finance": {
+    "page": "https://www.laclefinance.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "88a66c90faf22c5a2b8610233d5ef0d7d7efef8ebff38eabf3bc5b9a005683d9",
+    "assetSha256": "41b3a86f6b116939799946ce606a0953c5842d82172388388918d31405fa8fea"
+  },
+  "la-maison-du-pret-immobilier": {
+    "page": "https://www.la-maison-du-pret-immobilier.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "dbcc3714b21f35cd1647489872129cc5d53d4a5059658b40c5b93ad0be709f88",
+    "assetSha256": "842272c26ae2b7c1fa5ad21aa279b0218e3e6d41b2ef9ff864613adab18dd6cc"
+  },
+  "la-tour-international": {
+    "page": "https://latourinternational.com/en/the-firm/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "eba226eeb5970c44eee4aad809f574ff9361b2270abe657282583c5224cec1f2",
+    "assetSha256": "0faea759244839fdfe7d93d51512b96b342f081e8b1730e47a4e8a63ce0ad865"
+  },
+  "lacourte-et-associes": {
+    "page": "https://www.lacourte.notaires.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f0bdc9dcb1afed17eefe8b551bc038fdc454987151a5942682b975311a4a5956",
+    "assetSha256": "2d32626122c0e5f5a77f648b500f1a0e6b5f0bc37e679ad2919c771cf555cae1"
+  },
+  "lawford-investment": {
+    "page": "https://www.lawfordinvestment.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b3a396e2b7abe88978688f326d24587e9dd56d4faf2cb8337b2572e77d1a46eb",
+    "assetSha256": "0d7102dee67031a523ec0c34d6c160ce952b17bd5180c2b257baa78d0387343c"
+  },
+  "lbo-france": {
+    "page": "https://www.lbofrance.com/en/home/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "666ba691393aa5809574692734456e4aa1a642f8d3fdf793b040b7d28cb16342",
+    "assetSha256": "47c16ec3dbc68bee319b10e44dc816663fe101e62c8dd7b06b14fcab1cff9cb7"
+  },
+  "lbp-am": {
+    "page": "https://www.lbpam.com/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3c74b6ed4cbc4afbed06edd1b2623e0501b29d866f7aaac6c17ee46f42d3b336",
+    "assetSha256": "1993c7e489480006d7408b0766a8eea4e92f66763159e0d025c0594e3f51e62d"
+  },
+  "lce-avocats": {
+    "page": "https://www.lce-avocats.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A015",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "9bcb9df3a4c4304013a5166ccf0fec681b11966a84328b853bb46966a8b324aa",
+    "assetSha256": "8c29ad6208d202073fed5ec9dd89455613f9181e3c3ff08c274d90beffcb872c"
+  },
+  "liberty-patrimoine": {
+    "page": "https://libertypatrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c0ae9c27b248ae1333be48766600b2f32608815a6812112f3e02cd091874bd8f",
+    "assetSha256": "6d58375fe0c5db9dfadb2b0281b5fb68aff5f1be4dab34a201e9d605d257c6eb"
+  },
+  "liontree": {
+    "page": "https://liontree.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6b630b6d85c9a8c9a1228121909aacd3610e03f2994514f527a5fc383adde0c8",
+    "assetSha256": "ccdf61eb9d6d7e9a8f5357080871b9e1b36969395c3ba920d53091d38e0f0c8e"
+  },
+  "lita-gestion": {
+    "page": "https://lita.co/fr/a-propos",
+    "logoSource": "https://cdn.prod.website-files.com/67f6bb85464c4377f53b3c5b/682376b709f8beab9e4ebde7_Logo%20lita%20gestion.avif",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8ced556c7879ae1fb684b497fcbf0f000f71b3ac7649e880f05c282528b01f23",
+    "assetSha256": "53a7e384f189cf266489ac6b9fc8468e963bc61347e3fe21e91deb29277a5a90"
+  },
+  "lr-patrimoine": {
+    "page": "https://lrpatrimoine.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "88a36b06c7da97614f2ba1073015bfcc78b1d24d2da906eab56116821d10ece3",
+    "assetSha256": "ccc54db667bba480b88b9b966327de059b895b6541e48028042b4f9fea0fe793"
+  },
+  "lstp": {
+    "page": "https://lstp.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "67a101f3f55b7b5fd1cef9240504b23011add5eabe52dd2914cb450cdb1ed7ac",
+    "assetSha256": "c69f2da76d3302c08d1f3adf28a4ec506ff9e75adb46019807796b1b7375b980"
+  },
+  "luze-family-office": {
+    "page": "https://www.luzefamilyoffice.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d5124995aad63042ad3367fe1c309f487e1d445ee023e7012f30ae10286b1141",
+    "assetSha256": "bbc8826ccec7266af5ee09ba99bf19881fbc4df7a92907ce9b5857696f412358"
+  },
+  "lynq-private-office": {
+    "page": "https://lynqprivateoffice.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "370f0420d4a74dce12def893ea9e96596dbfb820c8dd31fd78c98fdf2ce7754e",
+    "assetSha256": "c6c29a1079e93dac77dd8903fecfe5252f3ea812dbfeafb17e7013c086ff1517"
+  },
+  "m-capital": {
+    "page": "https://www.mcapital.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "da808cefe8c3d553d14a87eb9374524d372193d261f1a524a7396765a9959aac",
+    "assetSha256": "f3243f2924db83771eebc0f781434bafa3910a3e0def87f8da9371bd3c9a5e9d"
+  },
+  "m-conseils": {
+    "page": "https://www.m-conseils.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A016",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b0a560b23332635fc5e29ee2be0620232c58489c9a61d1d60bc1df8f32599169",
+    "assetSha256": "11d329fcf372a32c2f80d3348a85afa6ca9cb2989730438cee0329cd86408f6e"
+  },
+  "marlin-equity-partners": {
+    "page": "https://www.marlinequity.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4dfff51ea92df16cc7717e372d405cfa6ff6f6cd7c7a84181f78eeacfd68047a",
+    "assetSha256": "5a860b97e7b8857268a0d2a4a70e5793a28573a1cfc4328991b6731bbfa92bce"
+  },
+  "master-finances": {
+    "page": "https://www.masterfinances.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "7e869beb3f576837be944890ed9396476a8d9bcde5ee8083fd3a63abda9990ae",
+    "assetSha256": "692813a4c1989a253f0547c9d6f2ca083d3aabb8e7c7f33fae45682acfac9266"
+  },
+  "mbo": {
+    "page": "https://mbo.plus/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "439b1b7f6cfc354fc3b89117d46f6618f71592276336abe0b291f6f51aaa2049",
+    "assetSha256": "3dcee4fdd3d9f0df5241b42244a05a6756d45681b859fb2da121bbde115f8f76"
+  },
+  "mecofinance": {
+    "page": "https://www.mecofinance.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e34e6022a6ee24eafc4073e8aff52df9093cacdd77df8191f925f722bdbc2855",
+    "assetSha256": "6cde9453f13cd1a6a9625065f89039b437828ed8154fc408224e69926e4da6a9"
+  },
+  "medidan": {
+    "page": "https://www.eurolocatique-medidan.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "60c4afd9af6b15fe6627818438ae5b7e546dc76e7022dcc47683769c8368b443",
+    "assetSha256": "da3b394c7311bfd8b190d402a2a4e19c3f3bcd3f435650cb2d92ff59e38728f9"
+  },
+  "meeschaert": {
+    "page": "https://www.meeschaert.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "aeb86758f2505f26e348f779eeea3c72a88c12bf952be3e2c62c5d842bd229a5",
+    "assetSha256": "29b117bf4f3b990617fea57d806b258b02306f61c918dcd106bb42ac90c4ee6c"
+  },
+  "meeschaert-family-office": {
+    "page": "https://meeschaert.com/family-office/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "498a61a4e7432acede3bc80bcca3632696635075d59c21180f664e65aa2853ae",
+    "assetSha256": "231dcf6678af0c4c694cb2de3b9c328ea262d5c306c6ec92ffc0078150c40d5a"
+  },
+  "meeschaert-gestion-privee": {
+    "page": "https://meeschaert.com/gestion-privee/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "aeb86758f2505f26e348f779eeea3c72a88c12bf952be3e2c62c5d842bd229a5",
+    "assetSha256": "29b117bf4f3b990617fea57d806b258b02306f61c918dcd106bb42ac90c4ee6c"
+  },
+  "mg-finance": {
+    "page": "https://mg-finance.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "9fb10f021d54b496c825b8db41f655fd9a0db738ad7e53df0236f842152a6084",
+    "assetSha256": "47a0830b8e0384ca90a534afb30dcdf31fb91ca71ca89a2708a5648fe70b7c04"
+  },
+  "mga": {
+    "page": "https://www.mga-patrimoine.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A017",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "33630cdcc4d4ac2f65c499f5c32527724f8c58ebc902e3e6bdfac152a32d73f0",
+    "assetSha256": "c4f89b76fe2f2505c77fab5cd50e770acd43a55ea2bd3d21284eb23ca86a7e76"
+  },
+  "momentum": {
+    "page": "https://momentuminvest.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "67456a09ad38e1ce96f503eda8eecf5b946ed2ac0deca22a99ce983ce0c71308",
+    "assetSha256": "11370a6cc8ff43fdc0fe03311b963dc7c272c4f3718d9ebcfb7fb997389a851a"
+  },
+  "momentum-invest": {
+    "page": "https://momentuminvest.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "67456a09ad38e1ce96f503eda8eecf5b946ed2ac0deca22a99ce983ce0c71308",
+    "assetSha256": "11370a6cc8ff43fdc0fe03311b963dc7c272c4f3718d9ebcfb7fb997389a851a"
+  },
+  "monext": {
+    "page": "https://www.monext.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e6effdf17660765b405d2dec63e8ebd50be2cfe0b8b82faf5d5f7d7510d438c2",
+    "assetSha256": "3f18a4a85116464035f5ff718ec6a64d13e4591c002ab3987c2d108dab132f07"
+  },
+  "moonfare": {
+    "page": "https://www.moonfare.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3318db3264a721eb510554b5306abc75e0b3e5cbdaaf2d14ac0ea76cfe2d6914",
+    "assetSha256": "4e1e68970bca6b9e76807dca0be14e3c9b7d29666b48ea755b7da1e487ec9386"
+  },
+  "naxos-avocats": {
+    "page": "https://naxos-avocats.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "739caa16544ccadc1ee9d11fddac8df38486a95cdf66f440002ee10f92b0b46b",
+    "assetSha256": "0abd7446205a24442bdb2ec6b5cdc8c2be3c41f8830b4436dc37d1bfb80b2b42"
+  },
+  "newalpha-asset-management": {
+    "page": "https://www.newalpha.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ace6e5d07fa38472db9eb0e929baf8b2807d1e6bfa4beee3ac80aa9ad77af279",
+    "assetSha256": "ea9680b87a14bef0f507537bfad49e2c0ad6cb7ed995198935a3ec3ab454fb77"
+  },
+  "nexo-capital": {
+    "page": "https://www.nexocapital.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A018",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4c5aed5275b07324078812843dd635564338be2a8e4904d58b5e975c6bc646e9",
+    "assetSha256": "024d82d70c62a0d2cb6eb57f0757da7bacae3ca88d9bd989db86adfa6678009d"
+  },
+  "northleaf-capital": {
+    "page": "https://www.northleafcapital.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3f616f79f6e7a20816af8b40e7c3fde7c838134df5e320d2d91e8ea31c2d9c34",
+    "assetSha256": "bbf6d0d9141a233afc8f30cbb893000c94dd71ac8f201601ccb941912fbba302"
+  },
+  "ocp-patrimoine": {
+    "page": "https://www.ocp-patrimoine.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "56a20cdf03da10268e440d4d5f94ab65f2fdd1fd957885df2ad21e0a054bb8ec",
+    "assetSha256": "d98e672785d66fee6b02874772cd7d72601e669e34e52edf2f6f3ca37d525537"
+  },
+  "octopus-patrimoine": {
+    "page": "https://www.octopus-patrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "42abd159d3436449287e558f2f1afdac98593bdb824d0a9781344826e8ed28cb",
+    "assetSha256": "4ceb49ee8267df952be684fa1ad11f398cbc39e91a07f9422988bd52f82ec501"
+  },
+  "oddo-bhf": {
+    "page": "https://www.oddo-bhf.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "df7d9170c6a2045ed8de236af06e57dfd45581fb57de0b7c732efe2207d76739",
+    "assetSha256": "fa209f2e3a0d50c6c333a724c95112b24ab9e868571bf095f15c6deb7620d593"
+  },
+  "oddo-bhf-pwm": {
+    "page": "https://www.oddo-bhf.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "df7d9170c6a2045ed8de236af06e57dfd45581fb57de0b7c732efe2207d76739",
+    "assetSha256": "fa209f2e3a0d50c6c333a724c95112b24ab9e868571bf095f15c6deb7620d593"
+  },
+  "oddo-cie": {
+    "page": "https://www.oddo-bhf.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "df7d9170c6a2045ed8de236af06e57dfd45581fb57de0b7c732efe2207d76739",
+    "assetSha256": "fa209f2e3a0d50c6c333a724c95112b24ab9e868571bf095f15c6deb7620d593"
+  },
+  "odin-capital": {
+    "page": "https://odincapital.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "bd4588acec8ee286d3634df64ed8271a366c968fac0ba5d9659c979681d06867",
+    "assetSha256": "7528a82ca66a729860653a69d7c971e4c521906537320c1959b41bba023043de"
+  },
+  "omnes-capital": {
+    "page": "https://www.omnescapital.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f4f2929efbf4cd9b9c5ad863362bd4116498a254aa8215c171280e932f07467a",
+    "assetSha256": "7e593f7244d4ec27db7fdb856d172bbccd5b78fcbdc130003db4e49036add4b3"
+  },
+  "only-capital": {
+    "page": "https://onlycapital.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A019",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6c1f5111f6c7f6b1e4434cd43d1166ef143b909c353630da57395db4c9d5c2fe",
+    "assetSha256": "5c68a841639b82d06a5bd4dfec750ccf42122a47b8b5496cc7a8a860bf8cfb5f"
+  },
+  "opengate-capital": {
+    "page": "https://opengatecapital.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "8477a810b529d3f3043c2164a821ab5b5ed39e923cebc7126facf68f2d58bfde",
+    "assetSha256": "c41688b47c2c6e997664bd0d15ee46e6eec36806ed05fb53da33ba3e11cb33d0"
+  },
+  "opera": {
+    "page": "https://opera-patrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "87d85da24b640d42becac54914cadbbba7ae1143308676187e5c3523597728bf",
+    "assetSha256": "89a852f214b8f9f0a06cd3c99d78057fab1b180999a5ac7e23696b33e52696e0"
+  },
+  "pai-partners": {
+    "page": "https://www.paipartners.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3b6794f707b3fe477c747cf5400ba6d18ca47ed8ad4b327a37026a8ef1c14cc1",
+    "assetSha256": "1770e9955c8cbe144f05bec1da9fa1cb8a35c24d5b733d2edecfa0dfbe5bc11f"
+  },
+  "parquest": {
+    "page": "https://www.parquest.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "0d6a3e9c7089790012c15d125dadcde4d07b52a969f7c329031003b1712e8049",
+    "assetSha256": "85b80e5990ee6425761a9dd90ec7bbe2a23acc8c419928c32f04570774ef870c"
+  },
+  "partners-finances": {
+    "page": "https://www.partners-finances.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "372d6c167f2508736aab18342949059cd01aa08485e8dc4680b9f8b4aa8d8d9b",
+    "assetSha256": "3d7f99f86670e887e65fcc40e9d829895166df5ee846d232cab7b79c689fe777"
+  },
+  "patrimmofi": {
+    "page": "https://www.patrimmofi.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "cb763ce2043d7bcf1bbebab0703e3186597c0d1da003cb2a5a5c6ce3e3d86162",
+    "assetSha256": "822b51761b0f2fb6be1c2bc000ace84d8ed2df5047853ca0784dd914a327aa57"
+  },
+  "paul-hastings": {
+    "page": "https://www.paulhastings.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "954c2501c9406a78acfe5161f01a79f4787dc0668a40689714e3f63fdb6b8d84",
+    "assetSha256": "92cc8485bbc1d23630b5cb74c9d3ba596a9370716192f76cb47ba8ab55639444"
+  },
+  "paul-hastings-europe-llp": {
+    "page": "https://www.paulhastings.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A020",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "954c2501c9406a78acfe5161f01a79f4787dc0668a40689714e3f63fdb6b8d84",
+    "assetSha256": "92cc8485bbc1d23630b5cb74c9d3ba596a9370716192f76cb47ba8ab55639444"
+  },
+  "praemia-reim": {
+    "page": "https://www.praemiareim.com/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "791f8bf5be49fdb0da64a565b8bca90c8a0e2981c7005b51e384caf3f40299ff",
+    "assetSha256": "78dd50b30a797b94b0631d3c8d378b62df7bcc8b4f0b80645a797e8179f61ba4"
+  },
+  "prestigitaux": {
+    "page": "https://prestigitaux.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5ba527ca5230bd8df1baca57f60f91bcd1062220e601fd011988422b1e94e1c2",
+    "assetSha256": "f18765ce2ce13bb1c355131baa43ce113d89db43ce6661c16666c1492f76beae"
+  },
+  "primaval-mediterranee": {
+    "page": "https://primaval.fr",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4e487f6eab4d2e572353eab736f1577c9f13649f4e2571886bc2a5583ec0e6e9",
+    "assetSha256": "a7f8ec49f968a8c732e019988b62b53a0ca41847d2284d88ed295fb683a71b57"
+  },
+  "prisma-conseil": {
+    "page": "https://prisma-conseil.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "238d9dc92c05d0e0b58efe7d846870233a4be377249cf405e2e76d392828f19c",
+    "assetSha256": "f9676cf9a794be73f1b725533520927ce546c8387a7c6661065436acbdef5890"
+  },
+  "quadral-conseil-en-financement": {
+    "page": "https://www.quadral.fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "524bdba5d4827e379430e3e4d55b5776d12ec5d63ff220a639ed30351a31bb72",
+    "assetSha256": "8f549daff0051da606d302dae66d911256bb678f65f5915bdcd77804f15caafa"
+  },
+  "pictet-geneve": {
+    "page": "https://www.pictet.com/fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b5c3d096952378a8c6223bf7d9a62b1779abc39e6046e419ef557d1fe38a2169",
+    "assetSha256": "d77145d24ff776ffb07920c5f8638bea75819a337e2c9f5fd7b08554cd853b3e"
+  },
+  "pictet-luxembourg": {
+    "page": "https://www.pictet.com/fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b5c3d096952378a8c6223bf7d9a62b1779abc39e6046e419ef557d1fe38a2169",
+    "assetSha256": "d77145d24ff776ffb07920c5f8638bea75819a337e2c9f5fd7b08554cd853b3e"
+  },
+  "pictet-paris": {
+    "page": "https://www.pictet.com/fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b5c3d096952378a8c6223bf7d9a62b1779abc39e6046e419ef557d1fe38a2169",
+    "assetSha256": "d77145d24ff776ffb07920c5f8638bea75819a337e2c9f5fd7b08554cd853b3e"
+  },
+  "pictet-wealth-management": {
+    "page": "https://www.pictet.com/fr/fr",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A021",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b5c3d096952378a8c6223bf7d9a62b1779abc39e6046e419ef557d1fe38a2169",
+    "assetSha256": "d77145d24ff776ffb07920c5f8638bea75819a337e2c9f5fd7b08554cd853b3e"
+  },
+  "raiffeisen-bank-international-ag": {
+    "page": "https://www.rbinternational.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ae98bae1694ada0895fa192e333cda76f2b388ef0d1db2a6d8a6892b476e990b",
+    "assetSha256": "692d1f5ab38af1f101d522ed0cc19ad18d220886ecf1eb0f2cbbeafe7ace75cc"
+  },
+  "reseau-premiance": {
+    "page": "https://www.reseaupremiancefinance.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "68fef1269a6e0af1381825483ac2a881a518f344d1b11b7c576736eaf48b6eed",
+    "assetSha256": "4c81b09f276b9a96925d7e289830cb841b17a3467daea5d0590c0be5094934ef"
+  },
+  "rochevelle-gestion-privee": {
+    "page": "https://rochevelle.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "34d15f9be8b437a76127a4a8cef56c004ae898e7a28dc0f7bff8c5ca041ac546",
+    "assetSha256": "1a74c59efb4e826b54718c7f96ece8ba82c6ad277ef041b39ba7c8192fb204ac"
+  },
+  "rockfi": {
+    "page": "https://www.rockfi.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "efacc78bf97962a90866497e769480da800ad6146297cbec3982489ef8b0f703",
+    "assetSha256": "263a53269ddda086a63f249c8e1057d2f96df688499897b0882f7291d17684ee"
+  },
+  "ropes-gray-france-aarpi": {
+    "page": "https://www.ropesgray.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6736aa4912a2dc69a835e4c7e4b4da86744d75eacb2758838e943e02ab673094",
+    "assetSha256": "0876f7e29edd213470101980d5e3e20e612b38f4b8da16c13c993230b611d489"
+  },
+  "rp-courtage": {
+    "page": "https://www.rpcourtage.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A022",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d64c0f983367f6c6c25e3edd20028b821534bfaaa662dda121754039fa9a6bd1",
+    "assetSha256": "5af8973db2334a2c04345ea5e13b76cd8f4afc25c06132154bfc352c60a185b5"
+  },
+  "scotto-partners": {
+    "page": "https://www.scottopartners.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "597ee502abe6c18dbd68b77613c17841d8c5721e6403509a78b054708b1a9d5e",
+    "assetSha256": "6736a4706af40325f86df80167280b56153bb58149dfe0902bb278c2a5654f09"
+  },
+  "sienna-im": {
+    "page": "https://www.sienna-im.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "2ee8151b6d526be74ef6d6b6eb591004a62d55f7a8d35e6d99a36a137323cac2",
+    "assetSha256": "794f4af2d2e10797784ad2cced95bb35c9299d1e7ceaebca1cb2b7a060002ad6"
+  },
+  "simmons-simmons": {
+    "page": "https://www.simmons-simmons.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1bb3244716cb4ff1181443ac18279fa2675fd89672a0104a887d2e9e7951d47b",
+    "assetSha256": "cad31712de1cab8663836c8ebb775d62c00c549c3d6c35d3df4127f5b729ae48"
+  },
+  "sodero-gestion": {
+    "page": "https://www.sodero.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "02be56488e4406f99a8ea496e95feffdd7eec6f14d43cf2a5bde5410ff1cc82c",
+    "assetSha256": "f9b76faf2db9dd5eb2395c3840a60aafac07bd2de794c811505794988dfead08"
+  },
+  "soffal-by-coffra-group": {
+    "page": "https://www.coffra-group.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e09aabb2335bac9a1d174bdd49533b9795eac7e2f647feebac3c45445ac0ac69",
+    "assetSha256": "dcd0ccf74f690e619d0292c808e9535ef603498feb83730ff25255e6ac5b5a7f"
+  },
+  "sofiouest": {
+    "page": "https://www.sofiouest.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b8fc0acbda75675a04a39b08f568019884f53e8c9507072bbc359b360a785f8d",
+    "assetSha256": "a9d68c3c06442116e0ad26c32a2a582158035869a19ac2a19edbde5da5e8d482"
+  },
+  "sofipaca-groupe-credit-agricole": {
+    "page": "https://www.sofipaca.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A023",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "19dbe7efd5d9a8d9c3272c383036f2d179597a119051511a82d9a51eaceb7f82",
+    "assetSha256": "b850f853f5d5950b28d6498c899acbf64568fe187a01a84c2d4ebeafd49579e6"
+  },
+  "stellium-courtage-invest": {
+    "page": "https://www.stellium.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "7bf834f115ef4b91920ab8cb8b1f78910777d10e1936f60b5575fec1d9ce24a8",
+    "assetSha256": "4717171e25f81a7803b6a8d710be82be47a097582d0eee891426793136becc1e"
+  },
+  "stj-advisors": {
+    "page": "https://www.stjadvisors.com/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "1af57b564a84e95b3b55d931b5eb5edf0a1d3d1e6b3d0e657f6efd8a31272e23",
+    "assetSha256": "f9ae4c542a6fe782d69c279ea5499e507b23deeba0be131662b44dd87c671d29"
+  },
+  "strategie-patrimoine-rennes": {
+    "page": "https://www.strategie-patrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4b44bdb2de513a11853005cdb1e9cb36870827deb826b7f268316c9dd299434e",
+    "assetSha256": "8ddc51c2f2e6035550ec63f4bbfe04eaf9ead6826a5a2460c172ab2832213c62"
+  },
+  "sud-conseils-patrimoine": {
+    "page": "https://www.sudconseilspatrimoine.com/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "a7fc5642ef03a0f782559e8fdc187fb16e7c25a681270380302bfce08672730e",
+    "assetSha256": "0f9589f8aa098b11ef9b25d1d30fc673295996659a6c81461f1801564f6e9934"
+  },
+  "taux-story": {
+    "page": "https://www.tauxstory.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "e0539af1454133536ade77b4a90ea3de592038c95cd416ff22a8662ce4f378cd",
+    "assetSha256": "9689a48cc69c37295516c886d3baf88415276eece2499954969148fc69dc9ab3"
+  },
+  "the-wealth-office": {
+    "page": "https://www.thewealthoffice.co/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "bddbe9a52f98758ea47a4a869421878f224dd37350a29f283bf5bb39a7f86c8a",
+    "assetSha256": "ba57cf4c5b2af28e62638ceefbc55dd0a38e152cd729d6106ea131344ada8681"
+  },
+  "thesee-patrimoine": {
+    "page": "https://www.theseepatrimoine.fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "aae0ffa8b7b45244e7cd703a8844fb5cf21b0e5ffc06986f164ec54f5428d4eb",
+    "assetSha256": "04274d9570b0b781692dd09e09664754c9fdb667404f3dffe40ea123d3a67b3c"
+  },
+  "theseis-partenaires": {
+    "page": "https://theseis-partenaires.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "43447c7f4ac089d0cfc7a53aebcd389c185789f0e72f189e82adfe2233229677",
+    "assetSha256": "fcc33f3da1bc80cf7f6d5a64422a757a1176e362da61244069840358a770f6b8"
+  },
+  "toadenn-patrimoine": {
+    "page": "https://www.toadennpatrimoine.fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A024",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "b8c3c8ebff0d9d98b734d8c9d05e8b050ed899c7696a29471876170090323232",
+    "assetSha256": "2e8e4255228da8effadc29e374c2115f639cfb293d5c79d06e80201c2c92b12d"
+  },
+  "ul-invest": {
+    "page": "https://ulinvest.lu/fr/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "84b24eddbc06267285f5839003cfd3c236ee5845f7a773504eb43a8fd0de3bdd",
+    "assetSha256": "10cc192737f31c39575af402afca0a4cc2467af22705b96fe3741bd8ae0bae0c"
+  },
+  "union-bancaire-privee-france": {
+    "page": "https://www.ubp.com/en",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5580e30460268ba1ab76cbc982b54cbde7e178ded66118fa9ac85229733d8014",
+    "assetSha256": "fd717219a3ae7456778ae550e16ceb3400b604c0e419a23b8dc8ad459733ba1c"
+  },
+  "union-bancaire-privee-geneve": {
+    "page": "https://www.ubp.com/en",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "5580e30460268ba1ab76cbc982b54cbde7e178ded66118fa9ac85229733d8014",
+    "assetSha256": "fd717219a3ae7456778ae550e16ceb3400b604c0e419a23b8dc8ad459733ba1c"
+  },
+  "v-patrimoine": {
+    "page": "https://www.vpatrimoine.com",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "81c1c08dc8b440a5e218742ac5cda18474011f68ca29ef93e8cdae4593ba5e0e",
+    "assetSha256": "6e1ac3fa53f7d8f0706146731e4487efe047ea28181b2bc49cadf11ea7917d83"
+  },
+  "vitalepargne": {
+    "page": "https://www.vitalepargne.com",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ddfd79723edbdc4c37909476b116830b28cd363977378d990ce245fdf3f7589b",
+    "assetSha256": "0dbb1fea460f65f2c9d474962ce4cee1ff816797109056a2b6be0ea29fd6ae39"
+  },
+  "viva-payment-services": {
+    "page": "https://www.viva.com/fr-fr/",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "6299fa2cb5d7e9b43504a2535d4170c3afdcca40dfb9dc07a028a4b3e7892e60",
+    "assetSha256": "675969750c9a6d249614d6aaa605ce53634f5ac8cc8dd4dcb524a5b118321609"
+  },
+  "vontobel-france": {
+    "page": "https://www.vontobel.com/en-us/",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "ae39f42241667d50e3f24e39a0ec4185bba92ca7d2537f9493138b69554a3d4a",
+    "assetSha256": "2a6d2653e76f56da1e264b2e6d6482a2b0a2869693dda29fd526e7ffb75f1147"
+  },
+  "vp-bank-luxembourg": {
+    "page": "https://www.vpbank.com/en",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "302a4817d7922e2c57e11e0e8b73fd61b5cb31aa34aef938188cd834744e43e3",
+    "assetSha256": "aeed8ced67dce228262597461f43725b0ce3a7230b35ffa9ffcfb7e94a7b61af"
+  },
+  "waf-conseil": {
+    "page": "https://waf-conseil.fr",
+    "logoSource": "",
+    "dark": true,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "c150a3928ca03532701c1135b04acd1e80dba5abc096141ad644cee0f5459d9b",
+    "assetSha256": "8e49da4927edc3402e28031575090db7292ebfbedbc9733df25aa8a9195104cd"
+  },
+  "widoowin": {
+    "page": "https://www.widoowin.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "d5ff7efb3b898952eee54aa8ce58e6319820154242ba88040562aec7bb5572f8",
+    "assetSha256": "15fd04d656262183f1e244a607af32338c16e9a35cc02ef62712c7ed0d0ed5b6"
+  },
+  "widoowin-gestion-privee": {
+    "page": "https://www.widoowin.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A025",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "4a7425ba3d54ecc04475ffd03971bfa693363dfa3c4578e9e6cae8eb888a666d",
+    "assetSha256": "fa6f00a1cb3cd78770b855d518a879c8e2f6a3ad67b457b97fcc5a71d5c9f59b"
+  },
+  "wsi-conseil": {
+    "page": "https://wsi-conseil.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A026",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "7a64e446c3470b99d5f84b640c75c2082c6ccda10563a41109a65f3db9d01f97",
+    "assetSha256": "90813bcfd0f35e9ca75b33f7aac7df1e00e34d17633eca21dcd034f1cb790d7e"
+  },
+  "xelis-family-office": {
+    "page": "https://www.xelisfamilyoffice.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A026",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "f6a2e708f0de1c02404c9dd8ac2610a824ef57e7f1df2d4a729809a44b555d8f",
+    "assetSha256": "2f1a007cc5691d24b566a23c05582a7aa870b9d9d5814dc6ad46c45a8d7c835c"
+  },
+  "xerys-invest": {
+    "page": "https://xerys.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A026",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "3ee10ea92941417a53c206d2725d5636e6a7090b618867965c5ea5af5669db46",
+    "assetSha256": "fe0bc9fcbf30cf31daf424780e199e6d8b5c04aa21a2241a79ee547554c23453"
+  },
+  "yooliz": {
+    "page": "https://www.yooliz.com",
+    "logoSource": "",
+    "dark": false,
+    "verificationDate": "2026-09-13",
+    "lot": "A026",
+    "validation": "Vérifié pour intégration",
+    "originalSha256": "147cbed7661828a821831086a4dcfbe0e22aca3b879cc74cb2327b36b60fc1d3",
+    "assetSha256": "9fbb30f8eb5ac2530e8148c14abf52c9ea3eea96cc9ba1186f0b3291c916a890"
   }
 }
