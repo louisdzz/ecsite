@@ -1289,7 +1289,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alti-wealth-management-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "apertio",
@@ -1297,7 +1300,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/apertio-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aramis-finance",
@@ -1305,7 +1311,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aramis-finance-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "avant-garde-family-office",
@@ -1313,7 +1322,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avant-garde-family-office-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "axion-family-business",
@@ -1373,7 +1385,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cf-gestion-privee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cg-family-office",
@@ -1389,7 +1404,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/citadelle-family-office-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "clerville-investment-management",
@@ -1397,7 +1415,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clerville-investment-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "colisee-family-office",
@@ -1405,7 +1426,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/colisee-family-office-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "come-maison-financiere",
@@ -1432,7 +1456,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edouard-7-gestion-privee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "epitome-finance",
@@ -1440,7 +1467,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/epitome-finance-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "etz-family-office",
@@ -1448,7 +1478,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/etz-family-office-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eukratos",
@@ -1456,7 +1489,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eukratos-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "even-fo",
@@ -1548,7 +1584,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hedon-family-office-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "herest",
@@ -1597,7 +1636,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ivesta-family-office-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "keepers",
@@ -1605,7 +1647,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/keepers-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kimpa",
@@ -1613,7 +1658,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kimpa-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "la-fontaine-family-office",
@@ -1689,7 +1737,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mansartis-conseil-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "marquis-family-office",
@@ -1735,7 +1786,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/myway-family-office-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "neuflize-obc-family-office",
@@ -1770,7 +1824,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/octave-family-office-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "officium",
@@ -1816,7 +1873,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/requirem-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rockfi",
@@ -4884,7 +4944,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/absoluce-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "actis-walter-france",
@@ -4892,7 +4955,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/actis-walter-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "advolis-orfis",
@@ -4900,7 +4966,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/advolis-orfis-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "anderlaine",
@@ -4908,7 +4977,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/anderlaine-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "ansemble",
@@ -4916,7 +4988,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ansemble-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "archipel",
@@ -4932,7 +5007,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/auditia-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "audecia",
@@ -4940,7 +5018,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/audecia-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aurys",
@@ -4948,7 +5029,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aurys-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "baker-tilly-france",
@@ -4956,7 +5040,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/baker-tilly-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bdm-walter-france",
@@ -4964,7 +5051,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bdm-walter-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bdo-france",
@@ -4972,7 +5062,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bdo-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cabinet-martini-et-associes",
@@ -4980,7 +5073,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cabinet-martini-et-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cerfrance",
@@ -4988,7 +5084,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cerfrance-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cogep",
@@ -4996,7 +5095,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cogep-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "conex-walter-france",
@@ -5004,7 +5106,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/conex-walter-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "crowe-avvens",
@@ -5044,7 +5149,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/deloitte-france-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "endrix",
@@ -5052,7 +5160,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/endrix-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "eurex",
@@ -5060,7 +5171,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eurex-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eurus",
@@ -5076,7 +5190,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/exco-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "exelmans-audit-et-conseil",
@@ -5084,7 +5201,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/exelmans-audit-et-conseil-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "ey-france",
@@ -5092,7 +5212,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ey-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fideliance",
@@ -5100,7 +5223,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fideliance-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fiducial-expertise",
@@ -5108,7 +5234,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fiducial-expertise-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finexsi",
@@ -5116,7 +5245,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finexsi-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fiteco",
@@ -5124,7 +5256,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fiteco-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "forvis-mazars-france",
@@ -5132,7 +5267,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/forvis-mazars-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "france-defi",
@@ -5148,7 +5286,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/grant-thornton-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-cofime",
@@ -5156,7 +5297,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-cofime-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-emargence",
@@ -5164,7 +5308,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-emargence-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-y-nexia",
@@ -5172,7 +5319,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-y-nexia-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hlb-france",
@@ -5188,7 +5338,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hlp-audit-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "implid",
@@ -5196,7 +5349,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/implid-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "in-extenso",
@@ -5204,7 +5360,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/in-extenso-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "inelys",
@@ -5212,7 +5371,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/inelys-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kpmg-france",
@@ -5220,7 +5382,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kpmg-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lba-walter-france",
@@ -5236,7 +5401,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ledouble-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "moore-france",
@@ -5244,7 +5412,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/moore-france-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "nexia-s-et-a",
@@ -5252,7 +5423,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nexia-s-et-a-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "numeris",
@@ -5260,7 +5434,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/numeris-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "orcom",
@@ -5268,7 +5445,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/orcom-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pkf-arsilon",
@@ -5276,7 +5456,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pkf-arsilon-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pkf-france",
@@ -5300,7 +5483,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pwc-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rsm-france",
@@ -5308,7 +5494,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rsm-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rydge-conseil",
@@ -5316,7 +5505,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rydge-conseil-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "sadec-akelys",
@@ -5324,7 +5516,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sadec-akelys-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "secef",
@@ -5332,7 +5527,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/secef-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "sers-walter-france",
@@ -5340,7 +5538,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sers-walter-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "synerga",
@@ -5348,7 +5549,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/synerga-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "talenz",
@@ -5356,7 +5560,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/talenz-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "tgs-france",
@@ -5364,7 +5571,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tgs-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tissendo",
@@ -5372,7 +5582,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tissendo-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "walter-france",
@@ -5380,7 +5593,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/walter-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "yzico",
@@ -5388,7 +5604,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/yzico-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "137-notaires",
@@ -5407,7 +5626,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/14-pyramides-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "1661-notaires",
@@ -5464,7 +5686,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/actalion-notaires-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "acte-2",
@@ -5538,7 +5763,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alpha-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "althemis",
@@ -5565,7 +5793,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/attal-associes-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "benoit-morel-notaire",
@@ -5581,7 +5812,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bremens-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "c-c-notaires",
@@ -5589,7 +5823,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/c-c-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cheuvreux-notaires",
@@ -5597,7 +5834,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cheuvreux-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "david-notaires",
@@ -5605,7 +5845,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/david-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dextera-notaires",
@@ -5659,7 +5902,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/etasse-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "etude-352",
@@ -5675,7 +5921,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/etude-schmuckle-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "etude-thomas-levy-notaires",
@@ -5691,7 +5940,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fidal-notaires-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fidnot",
@@ -5707,7 +5959,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/flusin-notaires-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fortier-notaire",
@@ -5723,7 +5978,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gaillot-le-roux-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gmh-notaires",
@@ -5731,7 +5989,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gmh-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gmv-notaires",
@@ -5788,7 +6049,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/horae-notaires-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "jacquin-associes",
@@ -5815,7 +6079,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/l2s-associes-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lacourte-et-associes",
@@ -5842,7 +6109,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/le-breton-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ledolex",
@@ -5866,7 +6136,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/les-notaires-du-trocadero-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "letulle-notaires",
@@ -5874,7 +6147,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/letulle-notaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lexfair-notaires",
@@ -5893,7 +6169,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lexonot-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "michelez-notaires",
@@ -5950,7 +6229,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/notaires-associes-montparnasse-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "notaires-office-bourg-en-bresse",
@@ -5988,7 +6270,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/office-du-dome-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "office-notarial-de-l-europe",
@@ -6004,7 +6289,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/office-notarial-d-ergue-gaberic-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "office-notarial-des-allees",
@@ -6020,7 +6308,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/office-notarial-du-guesclin-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "office-notarial-jean-christophe-besse",
@@ -6036,7 +6327,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/office-notarial-paris-republique-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "opera-notaires",
@@ -6068,7 +6362,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pb-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "prouvost-associes",
@@ -6076,7 +6373,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/prouvost-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "r-d-notaires",
@@ -6103,7 +6403,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rochelois-notaires-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "scp-dubail-associes",
@@ -6111,7 +6414,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/scp-dubail-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "stephanie-gaillard-serougne-notaire",
@@ -6135,7 +6441,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/thibierge-associes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "up-notaires",
@@ -6162,7 +6471,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vialla-dossa-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "victoires-notaires-associes",
@@ -6170,7 +6482,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/victoires-notaires-associes-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "vxl-notaires",
@@ -33542,7 +33857,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/valois-patrimoine-conseil-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "valoria",
@@ -33651,7 +33969,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/valytis-conseil-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vanstavel-finances",
@@ -33740,7 +34061,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vdl-groupe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vecteur-finance",
@@ -33756,7 +34080,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/venn-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "veracash",
@@ -33764,7 +34091,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/veracash-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vercin-favero",
@@ -33791,7 +34121,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/verum-gestion-privee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vesta-conseil",
@@ -33807,7 +34140,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vf-conseil-patrimoine-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "v-fund-immo-i",
@@ -33847,7 +34183,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/via-la-plateforme-patrimoniale-520326729-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "viarouge",
@@ -33895,7 +34234,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/views-s-consulting-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vigifinance",
@@ -33903,7 +34245,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vigifinance-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "vilamoconsult",
@@ -33951,7 +34296,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vincent-foussard-monceau-gestion-privee-finance-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vip-conseils",
@@ -34027,7 +34375,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vivons-courtier-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vix-investment-solutions",
@@ -34035,7 +34386,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vix-investment-solutions-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vjf-credits",
@@ -34070,7 +34424,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/votre-conseil-patrimoine-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "votre-taux-negocie",
@@ -34097,7 +34454,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vpm-patrimoine-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vps",
@@ -34197,7 +34557,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wagner-patrimoine-et-conseils-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "wakerstone",
@@ -34232,7 +34595,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/we-adviz-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "wealthcome",
@@ -34240,7 +34606,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wealthcome-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "wealth-conseil",
@@ -34248,7 +34617,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wealth-conseil-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "wealth-management-pacific",
@@ -34256,7 +34628,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wealth-management-pacific-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "we-do-good",
@@ -34264,7 +34639,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/we-do-good-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "welys-family-office",
@@ -34283,7 +34661,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/weshake-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "whole-pear",
@@ -34291,7 +34672,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/whole-pear-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "widoowin",
@@ -34310,7 +34694,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/widoowin-cross-asset-solutions-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "widoowin-gestion-privee",
@@ -34388,7 +34775,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/xpollens-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "yam-assurances-courtage",
@@ -34466,7 +34856,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/yochbee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "yo-fi",
@@ -34585,7 +34978,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/byzantine-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cashbee",
@@ -34593,7 +34989,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cashbee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "memo-bank",
@@ -34601,7 +35000,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/memo-bank-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "n26",
@@ -34609,7 +35011,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/n26-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "qonto",
@@ -34617,7 +35022,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/qonto-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "regular",
@@ -34625,7 +35033,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/regular-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "revolut",
@@ -34633,7 +35044,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/revolut-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "spiko",
@@ -34641,7 +35055,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/spiko-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "trade-republic",
@@ -34649,7 +35066,10 @@
       "categories": [
         "treso"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/trade-republic-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "qcp",
@@ -34665,7 +35085,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/123-investment-managers-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "21-invest",
@@ -34684,7 +35107,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/3i-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "45degres-capital",
@@ -34692,7 +35118,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/45degres-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "abenex",
@@ -34752,7 +35181,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/adaxtra-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "adbio-partners",
@@ -34760,7 +35192,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/adbio-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ademe-investissement",
@@ -34779,7 +35214,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/adn-transition-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "adp-invest",
@@ -34831,7 +35269,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/agilacapital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "alba-infra-partners",
@@ -34880,7 +35321,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aloe-private-equity-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "altaroc",
@@ -34888,7 +35332,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altaroc-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "altaroc-partners",
@@ -34896,7 +35343,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altaroc-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "alter-equity",
@@ -34915,7 +35365,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altis-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "altur-gestion",
@@ -34931,7 +35384,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/amazon-invest-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ambienta-sgr-spa",
@@ -34939,7 +35395,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ambienta-sgr-spa-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "amdg-private-equity",
@@ -34955,7 +35414,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/amethis-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "amundi-asset-management",
@@ -35034,7 +35496,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/apheon-advisors-france-s-a-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "a-plus-finance",
@@ -35086,7 +35551,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/archinvest-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "arcole",
@@ -35139,7 +35607,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/argos-fund-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "arjun-infrastructure-europe-sas",
@@ -35188,7 +35659,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/armen-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "astorg-partner",
@@ -35281,7 +35755,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/axeleo-capital-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "axio-capital",
@@ -35311,7 +35788,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/b-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "bel-ventures",
@@ -35338,7 +35818,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bgv-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "blackfin-capital-partners",
@@ -35346,7 +35829,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/blackfin-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "blackrock-france-s-a-s",
@@ -35354,7 +35840,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/blackrock-france-s-a-s-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "blackstone-europe-llp",
@@ -35403,7 +35892,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/breizh-invest-pme-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "breizh-rebond",
@@ -35433,7 +35925,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/brownfields-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "btp-capital-investissement",
@@ -35441,7 +35936,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/btp-capital-investissement-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "burelle-participations",
@@ -35498,7 +35996,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capital-dynamics-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capital-export",
@@ -35517,7 +36018,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capital-grand-est-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capitem-partenaires",
@@ -35536,7 +36040,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cathay-capital-private-equity-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cavipar",
@@ -35552,7 +36059,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cdpq-london-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cd-r-llp",
@@ -35576,7 +36086,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cerea-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cervinvest-capital",
@@ -35647,7 +36160,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clint-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "committed-advisors",
@@ -35666,7 +36182,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/connect-pro-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "conquest-advisors-france",
@@ -35682,7 +36201,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/creadev-international-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credit-agricole-alpes-developpement",
@@ -35698,7 +36220,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-agricole-regions-investissement-carvest-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credit-mutuel-equity",
@@ -35706,7 +36231,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-mutuel-equity-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credit-mutuel-impact",
@@ -35714,7 +36242,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-mutuel-impact-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cvc-advisers-france-sa",
@@ -35722,7 +36253,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cvc-advisers-france-sa-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dealbydeal-invest",
@@ -35741,7 +36275,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/demea-sustainable-investment-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "edf-invest",
@@ -35760,7 +36297,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edify-sa-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "edmond-de-rothschild-banque-privee",
@@ -35768,7 +36308,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edmond-de-rothschild-banque-privee-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "edmond-de-rothschild-private-equity-france",
@@ -35776,7 +36319,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edmond-de-rothschild-private-equity-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ekkio-capital",
@@ -35795,7 +36341,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/elevation-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "elige-capital",
@@ -35814,7 +36363,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/em8-private-equity-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "emz-partners",
@@ -35833,7 +36385,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/enerfip-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "enowe",
@@ -35841,7 +36396,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/enowe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "entrepreneur-invest",
@@ -35876,7 +36434,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eqt-partners-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "equistone-partners-france-sas",
@@ -35895,7 +36456,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eres-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "esfin-gestion-credit-cooperatif",
@@ -35937,7 +36501,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eurefi-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "evolem",
@@ -35975,7 +36542,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/extens-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fcde",
@@ -35983,7 +36553,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fcde-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fiaro-financiere-d-investissement-aro",
@@ -35999,7 +36572,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finorpa-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "five-arrows-managers",
@@ -36015,7 +36591,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/flandrin-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "flexstone-partners",
@@ -36034,7 +36613,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/florestan-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "for-talents-transmission",
@@ -36064,7 +36646,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/franklin-investment-holding-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "frenchfood-capital",
@@ -36083,7 +36668,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fundpartner-am-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "galia-gestion",
@@ -36124,7 +36712,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gei-poincare-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "geneo-capital-entrepreneur",
@@ -36143,7 +36734,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/generali-asset-management-france-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gimv",
@@ -36151,7 +36745,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gimv-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "grand-sud-ouest-capital",
@@ -36159,7 +36756,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/grand-sud-ouest-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-industriel-marcel-dassault",
@@ -36167,7 +36767,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-industriel-marcel-dassault-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "h-i-g-european-capital-partners-advisors-sas",
@@ -36175,7 +36778,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/h-i-g-european-capital-partners-advisors-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "hivest-capital-partners",
@@ -36194,7 +36800,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hld-associes-europe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hotel-investissement-capital",
@@ -36202,7 +36811,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hotel-investissement-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hy24-sas",
@@ -36210,7 +36822,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hy24-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "icapital",
@@ -36251,7 +36866,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/idia-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "idico",
@@ -36281,7 +36899,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/impact-expansion-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "impact-partners",
@@ -36289,7 +36910,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/impact-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "infravia-capital-partners",
@@ -36330,7 +36954,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/investindustrial-advisers-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "investisseurs-et-partenaires",
@@ -36338,7 +36965,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/investisseurs-et-partenaires-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "irdi-capital-investissement",
@@ -36368,7 +36998,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/iron-wave-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "isalt",
@@ -36376,7 +37009,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/isalt-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "isatis-capital",
@@ -36384,7 +37020,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/isatis-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ixo-private-equity",
@@ -36392,7 +37031,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ixo-private-equity-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jadel",
@@ -36400,7 +37042,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jadel-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jcdecaux-holding",
@@ -36482,7 +37127,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-maison-partners-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "latour-capital-management",
@@ -36490,7 +37138,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/latour-capital-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lauxera-capital-partners",
@@ -36498,7 +37149,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lauxera-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lazard-elaia-capital",
@@ -36528,7 +37182,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lbo-france-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "l-catterton-europe-sas",
@@ -36588,7 +37245,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lt-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "macif-impact-ess",
@@ -36615,7 +37275,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mandarine-gestion-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "matignon-investissement-et-gestion",
@@ -36653,7 +37316,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/meanings-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "meridiam",
@@ -36672,7 +37338,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/merieux-equity-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mindstone",
@@ -36680,7 +37349,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mindstone-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mircap-partners",
@@ -36699,7 +37371,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mirova-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "momentum",
@@ -36740,7 +37415,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/montefiore-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "montefiore-investment",
@@ -36770,7 +37448,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/moonbase-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "moonfare",
@@ -36822,7 +37503,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nci-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nextstage-am",
@@ -36874,7 +37558,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/noria-gestion-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "noteus-partners",
@@ -36882,7 +37569,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/noteus-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "obotritia-capital-sas",
@@ -36920,7 +37610,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ocean-participations-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "oddo-bhf-asset-management-sas",
@@ -36936,7 +37629,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/omada-investment-managers-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "opengate-capital",
@@ -36955,7 +37651,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/origine-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ouest-croissance-gestion",
@@ -37004,7 +37703,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/parvilla-investissements-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "peninsular-capital-management",
@@ -37023,7 +37725,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/peqan-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "perceva",
@@ -37031,7 +37736,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/perceva-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "peugeot-invest",
@@ -37072,7 +37780,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/private-corner-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "prudentia-capital",
@@ -37102,7 +37813,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/quaero-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "qualium-investissement",
@@ -37132,7 +37846,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/raise-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "reed-management",
@@ -37159,7 +37876,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/revaia-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "rgreen-invest",
@@ -37178,7 +37898,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rive-private-investment-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rives-croissance",
@@ -37240,7 +37963,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/seven2-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sienna-investment-managers",
@@ -37248,7 +37974,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sienna-investment-managers-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "siparex",
@@ -37352,7 +38081,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sofival-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sopromec-participations",
@@ -37379,7 +38111,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sparring-opportunities-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "stags-participations",
@@ -37395,7 +38130,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/swen-capital-partners-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "tag-partners",
@@ -37425,7 +38163,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tertium-invest-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "the-carlyle-group",
@@ -37441,7 +38182,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tiic-advisor-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "tilt-capital-partners",
@@ -37460,7 +38204,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/trail-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "trajan-investment-advisor",
@@ -37468,7 +38215,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/trajan-investment-advisor-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "trocadero-capital-partners-sas",
@@ -37476,7 +38226,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/trocadero-capital-partners-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "turenne-capital",
@@ -37484,7 +38237,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/turenne-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "turenne-groupe",
@@ -37492,7 +38248,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/turenne-groupe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ui-investissement",
@@ -37544,7 +38303,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/unigrains-developpement-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "varsity-capital",
@@ -37552,7 +38314,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/varsity-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vauban-infrastructures-partners",
@@ -37560,7 +38325,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vauban-infrastructures-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vega-investment-solutions",
@@ -37568,7 +38336,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vega-investment-solutions-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vendis-capital",
@@ -37576,7 +38347,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vendis-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vermeer-capital",
@@ -37592,7 +38366,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/verto-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vivalto-partners",
@@ -37600,7 +38377,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vivalto-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "volney-developpement-sas",
@@ -37616,7 +38396,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/waterland-private-equity-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "weinberg-capital-partners",
@@ -37646,7 +38429,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wenova-am-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "windhurst-neopar",
@@ -37703,7 +38489,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/apera-asset-management-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "apollo",
@@ -37771,7 +38560,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bnp-paribas-am-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bpifrance-financement",
@@ -37809,7 +38601,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capza-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capza-axa-im-alts",
@@ -37817,7 +38612,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capza-axa-im-alts-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capzanine",
@@ -37825,7 +38623,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capzanine-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cheyne-capital",
@@ -37844,7 +38645,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cic-private-debt-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "clubfunding-asset-management",
@@ -37852,7 +38656,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clubfunding-asset-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "crescent-capital",
@@ -37882,7 +38689,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eiffel-investment-group-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eqt",
@@ -37901,7 +38711,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/federated-hermes-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "five-arrows-rothschild-co",
@@ -37944,7 +38757,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hld-europe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "icg",
@@ -37974,7 +38790,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/infranity-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "infravia-capital",
@@ -37993,7 +38812,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kartesia-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "kartesia-france",
@@ -38001,7 +38823,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kartesia-france-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "kepler-cheuvreux-invest",
@@ -38061,7 +38886,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/m-g-investments-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mml-capital",
@@ -38069,7 +38897,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mml-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "muzinich-co",
@@ -38137,7 +38968,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/octopus-investments-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "omnes-capital",
@@ -38167,7 +39001,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pemberton-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "permira",
@@ -38219,7 +39056,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tikehau-investment-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tyrus-capital",
@@ -38254,7 +39094,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/zencap-am-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "115k",
@@ -38262,7 +39105,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/115k-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "2050-do",
@@ -38278,7 +39124,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/360-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "50-partners-gestion",
@@ -38286,7 +39135,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/50-partners-gestion-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "574-invest",
@@ -38337,7 +39189,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alpha-intelligence-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "alven",
@@ -38345,7 +39200,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alven-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "angelor",
@@ -38386,7 +39244,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avp-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "blisce",
@@ -38438,7 +39299,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/c4-ventures-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capagro-sas",
@@ -38446,7 +39310,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capagro-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "capital-venture-by-klee-group",
@@ -38454,7 +39321,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/capital-venture-by-klee-group-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cathay-innovation",
@@ -38473,7 +39343,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cerca-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cita-investissement",
@@ -38489,7 +39362,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/citizen-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "colam-impact",
@@ -38497,7 +39373,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/colam-impact-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credit-mutuel-innovation",
@@ -38505,7 +39384,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-mutuel-innovation-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cyberstarts",
@@ -38513,7 +39395,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cyberstarts-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "daphni",
@@ -38532,7 +39417,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/digital-africa-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "edf-pulse-ventures",
@@ -38540,7 +39428,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edf-pulse-ventures-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "educapital",
@@ -38559,7 +39450,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/elaia-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "elephants-ventures-hardware-club",
@@ -38567,7 +39461,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/elephants-ventures-hardware-club-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "emblem",
@@ -38575,7 +39472,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/emblem-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "engie-new-ventures",
@@ -38603,7 +39503,10 @@
         "fonds-vc",
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eqnx-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "erganeo-sas",
@@ -38622,7 +39525,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eutopia-gestion-sas-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "expansion-ventures",
@@ -38630,7 +39536,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/expansion-ventures-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "famae-impact",
@@ -38638,7 +39547,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/famae-impact-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fdj-united",
@@ -38657,7 +39569,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/femuqui-ventures-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finovam-gestion",
@@ -38687,7 +39602,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/five-seasons-ventures-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fj-labs",
@@ -38706,7 +39624,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/foreis-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "founders-future-capital-partners",
@@ -38714,7 +39635,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/founders-future-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "france-angels",
@@ -38722,7 +39646,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/france-angels-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "frst",
@@ -38730,7 +39657,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/frst-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "frst-capital",
@@ -38738,7 +39668,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/frst-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fundora",
@@ -38754,7 +39687,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/future-positive-capital-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "galion-exe",
@@ -38762,7 +39698,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/galion-exe-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "go-capital",
@@ -38781,7 +39720,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hi-inov-dentressangle-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ibionext",
@@ -38805,7 +39747,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/inco-ventures-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "innovacom",
@@ -38832,7 +39777,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/iris-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "isai",
@@ -38870,7 +39818,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jeito-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "karista",
@@ -38878,7 +39829,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/karista-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "kic-innoenergy-s-e",
@@ -38886,7 +39840,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kic-innoenergy-s-e-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "korelya-capital",
@@ -38894,7 +39851,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/korelya-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kurma-partners",
@@ -38978,7 +39938,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/newfund-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nextstage",
@@ -38997,7 +39960,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nova-by-saint-gobain-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "obratori-l-occitane-group-ventures",
@@ -39005,7 +39971,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/obratori-l-occitane-group-ventures-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "odyssee-venture",
@@ -39024,7 +39993,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/oneragtime-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "open-cnp",
@@ -39032,7 +40004,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/open-cnp-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "orange-digital-investment",
@@ -39056,7 +40031,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ovni-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "paris-business-angels",
@@ -39075,7 +40053,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/partech-partners-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "partech-ventures",
@@ -39083,7 +40064,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/partech-ventures-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "phitrust-impact-investors",
@@ -39113,7 +40097,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/polytechnique-ventures-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "pro-btp-innovation",
@@ -39143,7 +40130,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/region-sud-investissement-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ring",
@@ -39191,7 +40181,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/seedcamp-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "serena-capital",
@@ -39199,7 +40192,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/serena-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "seventure-partners",
@@ -39218,7 +40214,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/shift4good-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "singular",
@@ -39226,7 +40225,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/singular-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "singular-capital-partners",
@@ -39234,7 +40236,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/singular-capital-partners-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sistafund",
@@ -39242,7 +40247,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sistafund-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "slate-vc",
@@ -39269,7 +40277,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/speedinvest-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "spring-sas",
@@ -39277,7 +40288,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/spring-sas-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "starquest",
@@ -39285,7 +40299,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/starquest-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "supernova-invest",
@@ -39342,7 +40359,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ventech-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "via-id",
@@ -39350,7 +40370,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/via-id-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "white-star-capital-france-sas",
@@ -39423,7 +40446,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/coller-capital-ltd-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "delta-alternative-management",
@@ -39431,7 +40457,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/delta-alternative-management-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "equityzen",
@@ -39472,7 +40501,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/g-squared-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "hiive",
@@ -39491,7 +40523,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/industry-ventures-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "isomer-capital",
@@ -39521,7 +40556,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mvp-manhattan-venture-partners-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "nasdaq-private-market",
@@ -39529,7 +40567,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nasdaq-private-market-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rockby",
@@ -39559,7 +40600,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/solvo-capital-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tempocap",
@@ -39567,7 +40611,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tempocap-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "zanbato",
@@ -39575,7 +40622,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/zanbato-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "astonjet",
@@ -39583,7 +40633,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/astonjet-20260913.webp",
+        "dark": true
+      }
     },
     {
       "slug": "flexjet",
@@ -39591,7 +40644,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/flexjet-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "flyvictor",
@@ -39607,7 +40663,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/globeair-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jetfly",
@@ -39631,7 +40690,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/netjets-20260913.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vistajet",
