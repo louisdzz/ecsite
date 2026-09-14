@@ -79,6 +79,11 @@
       "id": "jets",
       "name": "Aviation d'affaires",
       "description": "Propriété fractionnée, cartes d'heures, affrètement à la demande, vols de repositionnement."
+    },
+    {
+      "id": "expatriation",
+      "name": "Expatriation & installation à l’étranger",
+      "description": "Préparation du départ, création de structures locales et accompagnement des entrepreneurs et de leur famille dans leur pays d’installation."
     }
   ],
   "houses": [
@@ -40699,6 +40704,30 @@
         "jets"
       ],
       "logo": false
+    },
+    {
+      "slug": "exillium",
+      "name": "EXILLIUM",
+      "categories": [
+        "expatriation"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/exillium.png",
+        "dark": false
+      },
+      "note": "Dubaï · Création de sociétés et installation des familles",
+      "keywords": [
+        "Dubaï",
+        "Émirats arabes unis",
+        "UAE",
+        "relocation",
+        "Henri Al Helaly",
+        "Londres",
+        "Marbella",
+        "Rabat",
+        "visas",
+        "résidence"
+      ]
     }
   ]
 }

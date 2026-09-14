@@ -12,7 +12,8 @@ const labels = {
   'banques-privees': 'Banques privées', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires patrimoniaux', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
-  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', secondaire: 'Secondaire & pré-IPO', jets: 'Aviation d’affaires'
+  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', secondaire: 'Secondaire & pré-IPO', jets: 'Aviation d’affaires',
+  expatriation: 'Expatriation & installation à l’étranger'
 };
 let houses = [], categories = [], active = '', limit = pageSize;
 
@@ -112,11 +113,11 @@ document.addEventListener('keydown', e => {
 });
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260913-audit-logos');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260913-exillium');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json(); categories = data.categories;
     const categoryNames = Object.fromEntries(categories.map(c => [c.id, c.name]));
-    houses = data.houses.sort((a,b) => a.name.localeCompare(b.name, 'fr', { sensitivity: 'base', ignorePunctuation: true })).map(h => ({ ...h, search: normalize(h.name + ' ' + h.categories.map(c => categoryNames[c] + ' ' + labels[c]).join(' ')) }));
+    houses = data.houses.sort((a,b) => a.name.localeCompare(b.name, 'fr', { sensitivity: 'base', ignorePunctuation: true })).map(h => ({ ...h, search: normalize(h.name + ' ' + h.categories.map(c => categoryNames[c] + ' ' + labels[c]).join(' ') + ' ' + (h.keywords || []).join(' ')) }));
     const params = new URLSearchParams(location.search);
     input.value = params.get('q') || '';
     const requested = params.get('metier') || location.hash.slice(1);
