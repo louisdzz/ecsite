@@ -40738,6 +40738,27 @@
         "visas",
         "résidence"
       ]
+    },
+    {
+      "slug": "bluefish-patrimoine",
+      "name": "BlueFish Patrimoine",
+      "categories": [
+        "cgp"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/bluefish-patrimoine.png",
+        "dark": false
+      },
+      "note": "Bretagne · Ouverture prochaine · Conseil sur honoraires",
+      "keywords": [
+        "Laurent Le Grin",
+        "CFA",
+        "Bretagne",
+        "honoraires",
+        "rétrocessions",
+        "allocation d’actifs",
+        "conseil patrimonial"
+      ]
     }
   ]
 }
