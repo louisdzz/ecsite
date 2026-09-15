@@ -5,7 +5,14 @@
     "dark": false
   },
   "deutsche-bank-wealth-management": {
-    "dark": false
+    "page": "https://www.deutschewealth.com/",
+    "logoSource": null,
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "5cf95619aafc479d9f43f3b67b939cb3ac9ffc38aabd1629253a52937964cfd4",
+    "assetSha256": "221c6d080f6a1d692541bb5ac729c5fae0e9d81f3cc05d055f99ccbc089e6e12"
   },
   "intesa-sanpaolo-wm-lu": {
     "dark": true
@@ -14,24 +21,48 @@
     "dark": false
   },
   "banque-de-luxembourg": {
-    "page": "https://www.banquedeluxembourg.com/bank/bl/homepage",
-    "dark": false
+    "page": "https://www.banquedeluxembourg.com/",
+    "logoSource": null,
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "51f47c4aac6d3454a56e8517ec38f01a032f53b531ac174e95c764462b905a4e",
+    "assetSha256": "5f3432a410be5c8e1bcc919b08d0fc68576f812767e9f50fd1c86d245412aac6"
   },
   "banque-bonhote": {
-    "page": "https://www.bonhote.ch",
-    "dark": false
+    "page": "https://www.bonhote.ch/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "3fc5caf6f5361aa80f61d656f6afaee5f0afa8a47030a2c1c7af1239dbdc3492",
+    "assetSha256": "91451ad3047746f439f5f6f9609fa4c3df9f45ab43a82aae563afbe81da4a9cb"
   },
   "bcge": {
     "page": "https://www.bcge.ch/en/",
     "dark": false
   },
   "neuflize-obc": {
-    "page": "https://www.neuflizeobc.fr/fr/index.html",
-    "dark": false
+    "page": "https://www.neuflizeobc.fr/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "389224ebe29afeac82a4fe7d2cc6b0e04b72741827684b21d79fa724dcbeee63",
+    "assetSha256": "06cf79e1fb2ea25dc59a700598a09919ad64a8b92fb13cac4706dfca6d0622d1"
   },
   "banque-palatine": {
-    "page": "https://www.palatine.fr",
-    "dark": false
+    "page": "https://www.palatine.fr/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "5c6093b58e4fef49f798a33f5e3ce48ca198951712ed285b50e614d5951dfcf2",
+    "assetSha256": "4bdd1f382fc66e111abdd6ff9364e68c42e78a81c1f82a4587b00a16159a77e3"
   },
   "degroof-petercam": {
     "page": "https://www.degroofpetercam.com/fr-be",
@@ -42,8 +73,14 @@
     "dark": false
   },
   "bnp-paribas-wealth-management": {
-    "page": "https://wealthmanagement.bnpparibas.com/en.html",
-    "dark": false
+    "page": "https://wealthmanagement.bnpparibas/fr.html",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "aa2e5a2310315711e5ba58a7537a91d2d8e4366ce1f53d3153ddc069a1910cff",
+    "assetSha256": "6736fde2421698f077c5df9e594de38eb9b7296c5b2a2c95bd18e03a8f0e1bdb"
   },
   "reyl-intesa-sanpaolo": {
     "page": "https://www.intesasanpaolowm.ch/",
@@ -17099,5 +17136,185 @@
     "validation": "Identité et rendu contrôlés",
     "originalSha256": "a81e52083d3a855f59c1d539b5f8cdcd937a5eac5e52f1a19263987eccf11fc9",
     "assetSha256": "756129e318dda980cb64bc30d17c4fb760d62e279685517dc82d4b1dfa11e4f6"
+  },
+  "2-b-consulting": {
+    "page": "https://www.baker-associes.com/",
+    "logoSource": "https://www.baker-associes.com/wp-content/uploads/2018/10/Baker-et-associes-logo-50px-trans.png",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "ce71074385bfcead971b139a7b9e5aae511eebbad31cb085d70d28445e4a3710",
+    "assetSha256": "44fa848af605ea15e112bbb47f3b732cf429c595dcc1715d1d032307685a81ec"
+  },
+  "abr-conseil": {
+    "page": "https://www.cabinetjoss.fr/",
+    "logoSource": "https://www.cabinetjoss.fr/wp-content/uploads/2026/05/logo-joss-courtier-en-pret-immobilier-toulouse.svg",
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "af46d3320f4116dd69e68beca367b08c2917e8fd8288566ff3cc192cf81c56c1",
+    "assetSha256": "45f61bd485727ed337924def5a49f8c5c183d7eb18f915d166e6b45fafcd8a3e"
+  },
+  "astre-patrimoine": {
+    "page": "https://www.astre-patrimoine.fr/",
+    "logoSource": "https://www.astre-patrimoine.fr/img/astre_patrimoine_logo_horizontal.svg",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "dd33589f7a87c087ea6917b501db68c0256b55725a548aec303aabb30a9fb183",
+    "assetSha256": "5031efe4e1f631154ace56577c4c2ae40eb93b79ffd77c525cbc7bb0ae35df72"
+  },
+  "secret-company": {
+    "page": "https://www.bdurandcapital.com/",
+    "logoSource": "https://www.bdurandcapital.com/resources/2590/logo%20b_%20durand.png",
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "753bf7a7731e188381ae80c14b4584b33f05b5ed021526593aa4feb03a6d8aac",
+    "assetSha256": "3fc25440b648bee24adda0d70935b6988647b12c2b57ff8b0e8488adb013e44a"
+  },
+  "societe-de-credit-antilles-guyane": {
+    "page": "https://defi-antilles.com/",
+    "logoSource": "https://defi-antilles.com/wp-content/uploads/sites/13/2023/02/logo-defi-antilles.svg",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "3945eb69f025e8d3e31fad54f3a090311a73b83aad12f9e150dcc45cd2d9eaa7",
+    "assetSha256": "401f6218f742b5e059c822892fae70cdea439c470e7af20ea89aa7cb1bf6e811"
+  },
+  "societe-de-diffusion-de-magasin": {
+    "page": "https://www.multi-change.com/",
+    "logoSource": "https://www.multi-change.com/img/Multi-Change.gif",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "5be3a50b9dc0e338a9ceb9657bef0eb2eb76dd378559be41312c45fe782928f3",
+    "assetSha256": "ffeeb5e13345d7bd0b727140fefeed296494687cbafcc2951d2ac04387b78692"
+  },
+  "villard-patrimoine": {
+    "page": "https://www.villardpatrimoine.com/",
+    "logoSource": "https://static.wixstatic.com/media/35a14d_4259d0e4f3a34b6a974935bd74061660~mv2.png",
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "G001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "38a01dbb8eb95f2fd67a05fdd98246257a9c43fd802e208f605015002a3e34e0",
+    "assetSha256": "552afe6a558d9f70ed5fc4041a6098b41adddd6520d4882aaee658f93e0f90c4"
+  },
+  "banque-delubac-cie": {
+    "page": "https://www.delubac.com/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "600276405d1dda8d865e8ee8eb3568824f9ac20e1967978257734582319f2921",
+    "assetSha256": "5b12bccb5a853bfdd202c8c8ba77ae16addd35ccc4c858ff18520b2dade4bb2d"
+  },
+  "banque-neuflize-obc": {
+    "page": "https://www.neuflizeobc.fr/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "389224ebe29afeac82a4fe7d2cc6b0e04b72741827684b21d79fa724dcbeee63",
+    "assetSha256": "06cf79e1fb2ea25dc59a700598a09919ad64a8b92fb13cac4706dfca6d0622d1"
+  },
+  "bcge-suisse": {
+    "page": "https://www.bcge.ch/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "a631f6f01b08b782a9e233e3a6e993cf30a2921f813266ccea6752a3b6def779",
+    "assetSha256": "db98cb88b33478b5c28b7377c8828a239c1850ec6e35eab9d4912edf91779d96"
+  },
+  "deutsche-bank-luxembourg": {
+    "page": "https://country.db.com/luxembourg/",
+    "logoSource": null,
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "H001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "61fe807a344b6d8c8c9d73b3e21cfff72d21ec8b31391631517146b6c0676e6e",
+    "assetSha256": "f4b090c760c5496a48f85c96d7b54d39c1f8735687ad20649992471ff43df77f"
+  },
+  "aurel-bgc": {
+    "page": "https://www.aurel-bgc.com/",
+    "logoSource": "https://www.aurel-bgc.com/aurelbgc/img/logoAurel2Blanc.png",
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "119104956b048a9b81d1a3394b81d88a4fe7457febc9f586a829d71cfa960f14",
+    "assetSha256": "f18ba070332b71d87c911ff9e43164b2d21a8797361611b3cfdfa0b15178b319"
+  },
+  "change-de-l-or": {
+    "page": "https://www.changedelor.fr/",
+    "logoSource": "https://www.changedelor.fr/wp-content/images/logo.png",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "3dd6dee014c46a7d70ba802f1da78314bf0bac468e2215270dd4a6b548dcd8bf",
+    "assetSha256": "273e62ecbbd7f71eb52a2c54ed0933e683ff088f37701e24ead945f2c73e015f"
+  },
+  "daiwa-corporate-advisory": {
+    "page": "https://www.dcadvisory.com/",
+    "logoSource": "https://www.dcadvisory.com/",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "71fa481fd75714fe702eafc99e3ba3f90d532913a1977b29884e963377a09688",
+    "assetSha256": "8e02febce652014605712959a02b8089c777c90c4ede8a48d2de13ab0d7c995c"
+  },
+  "elitya-finances": {
+    "page": "https://www.elitya.com/",
+    "logoSource": "https://www.elitya.com/wp-content/uploads/2025/10/Logo-Elitya-1.png",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "0885bfd629c6a23d4d8cc0feb75ef67660931fcfc82211739f98d1251fedb1a2",
+    "assetSha256": "512a68f47b7b1c591af8fccdda84a85ff21d38dcef4e6f5e7c0e08d96d77dac6"
+  },
+  "ginkgo-partners": {
+    "page": "http://www.ginkgo-partners.com/",
+    "logoSource": "http://www.ginkgo-partners.com/images/LogoGinkgoTexte.gif",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "649bee87dc38d5f0f4e1be01ddf45fccef01dbe46dc5c473d19175716429a650",
+    "assetSha256": "6470d022685c6d2e80f78ba164a18e5097a5deaffc06f5997878f79dd0fdcca7"
+  },
+  "groupement-des-cartes-bancaires": {
+    "page": "https://www.cartes-bancaires.com/",
+    "logoSource": "https://www.cartes-bancaires.com/wp-content/uploads/2021/02/LOGO_CB_Quadri_SMALL.svg",
+    "dark": false,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "1c3f2bf1b3147ec597174505953cf4926f35f5ed9c515fe948e59d9507c007e2",
+    "assetSha256": "ea1216f51fae95943cef1430611fe01a9a07510195cc4896e64ed337cc2f97b2"
+  },
+  "raine-group": {
+    "page": "https://raine.com/",
+    "logoSource": "https://raine.com/wp-content/uploads/2026/01/raine-logo-white.svg",
+    "dark": true,
+    "verificationDate": "2026-09-15",
+    "lot": "I001",
+    "validation": "Identité et rendu contrôlés",
+    "originalSha256": "0760588504e7b6e1c9def71d74ab0b9fcab7f3a9d50ec83ade3c320083db29c0",
+    "assetSha256": "e3d154fd9de50828b6d0e5a08a8e952cf2e0dfc430559070984f700dcd0df1e5"
   }
 }

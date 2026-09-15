@@ -1139,9 +1139,12 @@
     "why": "2/3 mots"
   },
   "deutsche-bank-wealth-management": {
-    "domain": "deutsche-bank.com",
+    "domain": "deutschewealth.com",
+    "url": "https://www.deutschewealth.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
-    "why": "3/4 mots"
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "gresham-banque-privee": {
     "domain": "gresham-banque-privee.fr",
@@ -1460,9 +1463,12 @@
     "why": "mot unique + secteur:finance"
   },
   "abr-conseil": {
-    "domain": "abrconseil.fr",
+    "domain": "cabinetjoss.fr",
+    "url": "https://www.cabinetjoss.fr/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "access-finance": {
     "domain": "accessfinance.com",
@@ -2210,8 +2216,11 @@
   },
   "astre-patrimoine": {
     "domain": "astre-patrimoine.fr",
-    "ok": false,
-    "why": "0/2 mots"
+    "url": "https://www.astre-patrimoine.fr",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "athena": {
     "domain": "athena-patrimoine.fr",
@@ -6309,9 +6318,12 @@
     "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "secret-company": {
-    "domain": "secret-company.com",
+    "domain": "bdurandcapital.com",
+    "url": "https://www.bdurandcapital.com",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "sesterce": {
     "domain": "sesterce.com",
@@ -7987,9 +7999,12 @@
     "why": "mot unique + secteur:patrimoine"
   },
   "change-de-l-or": {
-    "domain": "change.com",
-    "ok": false,
-    "why": "mot unique + secteur:aucun"
+    "domain": "changedelor.fr",
+    "url": "https://www.changedelor.fr/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "cg-invest": {
     "domain": "cg-invest.com",
@@ -8750,9 +8765,12 @@
     "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "daiwa-corporate-advisory": {
-    "domain": "daiwacorporate.com",
+    "domain": "dcadvisory.com",
+    "url": "https://www.dcadvisory.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
-    "why": "2/3 mots"
+    "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "dauphine-asset-management": {
     "domain": "dauphine.fr",
@@ -14061,6 +14079,150 @@
     "url": "https://www.uniongeneraledesplacements.fr/",
     "verificationDate": "2026-09-15",
     "source": "Livraison de logo et identité contrôlées CDEF",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "2-b-consulting": {
+    "domain": "baker-associes.com",
+    "url": "https://www.baker-associes.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "societe-de-credit-antilles-guyane": {
+    "domain": "defi-antilles.com",
+    "url": "https://defi-antilles.com",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "societe-de-diffusion-de-magasin": {
+    "domain": "multi-change.com",
+    "url": "https://www.multi-change.com",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "villard-patrimoine": {
+    "domain": "villardpatrimoine.com",
+    "url": "https://www.villardpatrimoine.com",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "banque-bonhote": {
+    "domain": "bonhote.ch",
+    "url": "https://www.bonhote.ch/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "banque-de-luxembourg": {
+    "domain": "banquedeluxembourg.com",
+    "url": "https://www.banquedeluxembourg.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "banque-delubac-cie": {
+    "domain": "delubac.com",
+    "url": "https://www.delubac.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "banque-neuflize-obc": {
+    "domain": "neuflizeobc.fr",
+    "url": "https://www.neuflizeobc.fr/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "banque-palatine": {
+    "domain": "palatine.fr",
+    "url": "https://www.palatine.fr/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "bcge-suisse": {
+    "domain": "bcge.ch",
+    "url": "https://www.bcge.ch/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "bnp-paribas-wealth-management": {
+    "domain": "wealthmanagement.bnpparibas",
+    "url": "https://wealthmanagement.bnpparibas/fr.html",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "deutsche-bank-luxembourg": {
+    "domain": "country.db.com",
+    "url": "https://country.db.com/luxembourg/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "neuflize-obc": {
+    "domain": "neuflizeobc.fr",
+    "url": "https://www.neuflizeobc.fr/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "aurel-bgc": {
+    "domain": "aurel-bgc.com",
+    "url": "https://www.aurel-bgc.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "elitya-finances": {
+    "domain": "elitya.com",
+    "url": "https://www.elitya.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "ginkgo-partners": {
+    "domain": "ginkgo-partners.com",
+    "url": "http://www.ginkgo-partners.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "groupement-des-cartes-bancaires": {
+    "domain": "cartes-bancaires.com",
+    "url": "https://www.cartes-bancaires.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
+    "ok": true,
+    "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "raine-group": {
+    "domain": "raine.com",
+    "url": "https://raine.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
     "why": "Site identifié dans la livraison de logo contrôlée"
   }

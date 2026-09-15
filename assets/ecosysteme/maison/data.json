@@ -1249,7 +1249,10 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/raine-group-fin-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "rothschild-co-mid-cap",
@@ -1997,9 +2000,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/banque-bonhote-official.svg",
-        "dark": false,
-        "source": "https://www.bonhote.ch"
+        "src": "/assets/logos/dir/banque-bonhote-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2021,7 +2023,7 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/dir/delubac-cie.webp",
+        "src": "/assets/logos/dir/banque-delubac-cie-fin-20260915.webp",
         "dark": false
       }
     },
@@ -2032,9 +2034,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/banque-de-luxembourg-official.svg",
-        "dark": false,
-        "source": "https://www.banquedeluxembourg.com/bank/bl/homepage"
+        "src": "/assets/logos/dir/banque-de-luxembourg-fin-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -2064,9 +2065,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/neuflize-obc-official.svg",
-        "dark": false,
-        "source": "https://www.neuflizeobc.fr/fr/index.html"
+        "src": "/assets/logos/dir/banque-neuflize-obc-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2076,9 +2076,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/banque-palatine-official.png",
-        "dark": false,
-        "source": "https://www.palatine.fr"
+        "src": "/assets/logos/dir/banque-palatine-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2144,9 +2143,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/bcge-official.png",
-        "dark": false,
-        "source": "https://www.bcge.ch/en/"
+        "src": "/assets/logos/dir/bcge-suisse-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2179,9 +2177,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/bnp-paribas-wealth-management-official.png",
-        "dark": false,
-        "source": "https://wealthmanagement.bnpparibas.com/en.html"
+        "src": "/assets/logos/dir/bnp-paribas-wealth-management-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2304,9 +2301,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/deutsche-bank-wealth-management-official.png",
-        "dark": false,
-        "source": "https://www.db.com/application/project/images/logos/identifier_RETINA.png"
+        "src": "/assets/logos/dir/deutsche-bank-luxembourg-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -2316,9 +2312,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/deutsche-bank-wealth-management-official.png",
-        "dark": false,
-        "source": "https://www.db.com/application/project/images/logos/identifier_RETINA.png"
+        "src": "/assets/logos/dir/deutsche-bank-wealth-management-fin-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -2534,9 +2529,8 @@
         "banques-privees"
       ],
       "logo": {
-        "src": "/assets/logos/maisons/neuflize-obc-official.svg",
-        "dark": false,
-        "source": "https://www.neuflizeobc.fr/fr/index.html"
+        "src": "/assets/logos/dir/neuflize-obc-fin-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -6770,7 +6764,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/2-b-consulting-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "2b-courtage-et-finance",
@@ -7198,7 +7195,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/abr-conseil-fin-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "abrdn-investments-ireland-limited",
@@ -9830,7 +9830,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/astre-patrimoine-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "astria-capital-management",
@@ -10130,7 +10133,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aurel-bgc-fin-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "aurelien-letort-investissements-conseil",
@@ -13206,7 +13212,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/change-de-l-or-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "change-de-l-ouest",
@@ -15719,7 +15728,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/daiwa-corporate-advisory-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dajp-investissement",
@@ -16926,7 +16938,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/elitya-finances-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ellipse-consult",
@@ -20028,7 +20043,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ginkgo-partners-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "glassy",
@@ -20539,7 +20557,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupement-des-cartes-bancaires-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupement-d-etudes-et-de-recherches-pour-l-economie-regionale",
@@ -32465,7 +32486,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/secret-company-fin-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "sefima",
@@ -33041,7 +33065,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/societe-de-credit-antilles-guyane-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "societe-de-diffusion-de-magasin",
@@ -33049,7 +33076,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/societe-de-diffusion-de-magasin-fin-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "societe-de-participations-financieres-chenevard",
@@ -35376,7 +35406,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/villard-patrimoine-fin-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "villenave-credits",
