@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Crée la catégorie « Experts-comptables & auditeurs » de l'Écosystème.
+"""Crée la catégorie « Experts-comptables & auditeurs » de l’Annuaire de l’Exit.
 
 - lit _build/experts-comptables/sourced.json (noms + domaines vérifiés, source par entrée)
 - génère une fiche /f/<slug>.html par cabinet à partir de _build/fiche_template.html

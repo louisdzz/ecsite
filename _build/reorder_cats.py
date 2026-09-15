@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Réordonne les catégories de l'Écosystème + déplace la Ligue des CGP juste
+"""Réordonne les catégories de l’Annuaire de l’Exit + déplace la Ligue des CGP juste
 au-dessus de la catégorie CGP (elle ne doit plus être le premier classement lu).
 Idempotent : relancer ne change rien si l'ordre est déjà bon.
 """

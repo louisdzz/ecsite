@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Mur de logos sous le hero de l'Écosystème.
+"""Mur de logos sous le hero de l’Annuaire de l’Exit.
 Liste triée à la main : le mur est la première preuve de sérieux que voit un
 visiteur, il doit avoir zéro taux d'erreur. Grille STATIQUE (la page porte déjà
 un bandeau animé en haut, une deuxième animation serait du bruit).
@@ -102,7 +102,7 @@ def build():
     html = (
         '<!-- LOGOWALL:START -->\n'
         '<section class="wall" aria-label="Institutions recensées">\n'
-        '  <div class="wall__h"><p>Ils sont dans l\'Écosystème</p>'
+        '  <div class="wall__h"><p>Ils sont dans l’Annuaire de l’Exit</p>'
         '<span>%d maisons cliquables ci-dessous, %s fiches au total</span></div>\n'
         '  <div class="wall__g">%s</div>\n'
         '  <p class="wall__f">Chaque logo mène à la fiche publique de la maison. '

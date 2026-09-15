@@ -1,0 +1,9 @@
+/* Navigation du nouvel Annuaire : le nom reste lisible sur mobile. */
+@media(max-width:760px){
+  .top{flex-wrap:wrap;gap:12px}
+  .top>div{max-width:100%;flex-wrap:wrap;gap:12px!important}
+  .top a,.crumb{overflow-wrap:anywhere}
+  .header{gap:16px}
+  .header .main-nav{min-width:0;flex:1;flex-wrap:wrap;justify-content:flex-end;gap:4px 12px}
+  .header .main-nav a.current{line-height:1.35}
+}

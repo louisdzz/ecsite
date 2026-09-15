@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Résout le vrai domaine de chaque institution de l'Écosystème.
+"""Résout le vrai domaine de chaque institution de l’Annuaire de l’Exit.
 Méthode : on fabrique des candidats de domaine à partir du nom, on vérifie que
 le DNS répond, que le site répond en HTTP, et que la page cite bien un jeton
 distinctif du nom. Aucun moteur de recherche n'est interrogé.

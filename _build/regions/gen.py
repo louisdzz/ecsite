@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Pages régionales de l'Écosystème : /regions/<region>.
+"""Pages régionales de l’Annuaire de l’Exit : /regions/<region>.
 
 Pourquoi ces pages. Un cabinet ne paie pas parce que sa fiche est belle, il paie
 parce que celle du confrère d'à côté l'est plus. La page régionale met les
@@ -246,6 +246,7 @@ HEAD = """<!DOCTYPE html>
 <meta property="og:url" content="{{URL}}">
 <link rel="canonical" href="{{URL}}">
 <style>{{CSS}}</style>
+<link rel="stylesheet" href="/assets/annuaire-navigation.css?v=20260915">
 </head>
 <body>
 <div class="wrap">
@@ -253,7 +254,7 @@ HEAD = """<!DOCTYPE html>
   <div class="top">
     <a class="mark" href="/"><i>exit</i><b>.club</b></a>
     <div class="nav">
-      <a href="/ecosysteme">L'Écosystème</a>
+      <a href="/ecosysteme">L’Annuaire de l’Exit</a>
       <a class="cta" href="https://tally.so/r/wADNZN" target="_blank" rel="noopener">Rejoindre</a>
     </div>
   </div>
@@ -261,7 +262,7 @@ HEAD = """<!DOCTYPE html>
 
 FOOT = """
   <div class="foot">
-    <div>Exit Club · L'Écosystème de l'Exit · recensement du marché</div>
+    <div>Exit Club · L’Annuaire de l’Exit · recensement du marché</div>
     <div><a href="/referencement">Se référencer</a> · <a href="mailto:louis@exit.club?subject=Pages%20r%C3%A9gionales%20%C2%B7%20remarque">Un bug, une remarque ? Écrivez-moi</a></div>
   </div>
 
@@ -330,7 +331,7 @@ def carte(slug, v, r):
 
 
 TOTAL = len(GEO)
-ITOT = 4160                     # institutions de l'Écosystème, toutes catégories
+ITOT = 4160                     # institutions de l’Annuaire de l’Exit, toutes catégories
 counts = {}      # cabinets de CONSEIL patrimonial, hors courtage declare
 LOCALL = 0       # tous les cabinets localises, courtage inclus
 for nom, prep, deps in REGIONS:
@@ -355,10 +356,10 @@ for nom, prep, deps in REGIONS:
     nvil = len({v.get('commune') for s, v in conseil if v.get('commune')})
     rest = CGP['places'] - CGP['prises']
 
-    b = ['<div class="crumb"><a href="/ecosysteme">L\'Écosystème de l\'Exit</a> · '
+    b = ['<div class="crumb"><a href="/ecosysteme">L’Annuaire de l’Exit</a> · '
          '<a href="/regions">Régions</a> · <a href="/ecosysteme#cgp">Gestion privée</a></div>']
     b.append('<section class="hero"><p class="over">Gestion privée · %s</p>'
-             '<h1 class="disp">L\'Écosystème de l\'Exit <span class="it">%s.</span></h1>'
+             '<h1 class="disp">L’Annuaire de l’Exit <span class="it">%s.</span></h1>'
              '<p class="lede">%d cabinets de conseil en gestion de patrimoine recensés %s, '
              'sur les %s institutions du marché français de la cession. Un fondateur qui vient '
              'de signer arrive ici pour choisir son cabinet.</p></section>'
@@ -451,17 +452,17 @@ for nom, prep, deps in REGIONS:
 
     b.append('<div class="back"><a class="linkbtn" href="/ecosysteme#cgp">← '
              'Revenir à la catégorie gestion privée</a></div>')
-    b.append('<p class="note">Recensement public : la présence dans l\'Écosystème de l\'Exit '
+    b.append('<p class="note">Recensement public : la présence dans l’Annuaire de l’Exit '
              'est gratuite et ouverte à tous. Être recensé ne vaut pas recommandation de l\'Exit '
              'Club. Localisation issue du registre national des entreprises. Encours issus de '
              'sources publiques datées, jamais d\'une estimation. Une correction ? '
              '<a href="mailto:louis@exit.club?subject=%C3%89cosyst%C3%A8me%20%C2%B7%20correction" '
              'style="color:var(--muted)">Écrivez-moi</a>.</p>')
 
-    t = ('Gestion privée %s : %d cabinets recensés | L\'Écosystème de l\'Exit'
+    t = ('Gestion privée %s : %d cabinets recensés | L’Annuaire de l’Exit'
          % (prep, len(conseil)))
     d_ = ('Les %d cabinets de conseil en gestion de patrimoine recensés %s dans '
-          'l\'Écosystème de l\'Exit : villes, encours publiés, fiches vérifiées.'
+          'l’Annuaire de l’Exit : villes, encours publiés, fiches vérifiées.'
           % (len(conseil), prep))
     open(os.path.join(OUT, rslug + '.html'), 'w', encoding='utf-8').write(
         page(t, d_, 'https://www.exit.club/regions/' + rslug, ''.join(b), FILTRE))
@@ -471,7 +472,7 @@ for nom, prep, deps in REGIONS:
 
 # ---------------------------------------------------------------- index
 loc = sum(counts.values())
-b = ['<div class="crumb"><a href="/ecosysteme">L\'Écosystème de l\'Exit</a> · Régions</div>']
+b = ['<div class="crumb"><a href="/ecosysteme">L’Annuaire de l’Exit</a> · Régions</div>']
 b.append('<section class="hero"><p class="over">Gestion privée · France</p>'
          '<h1 class="disp">Le marché, <span class="it">région par région.</span></h1>'
          '<p class="lede">%s cabinets de conseil en gestion de patrimoine localisés par le '
@@ -491,13 +492,13 @@ b.append('<section class="sect"><div class="k">Recensement</div>'
                    % (slugify(n2), e(n2), counts[n2])
                    for n2, p2, d2 in REGIONS if counts[n2]))
 b.append('<div class="back"><a class="linkbtn" href="/ecosysteme">← '
-         'Revenir à l\'Écosystème de l\'Exit</a></div>')
+         'Revenir à l’Annuaire de l’Exit</a></div>')
 b.append('<p class="note">Localisation issue du registre national des entreprises. '
-         '%d cabinets recensés dans l\'Écosystème n\'ont pas de siège identifié avec certitude : '
+         '%d cabinets recensés dans l’Annuaire de l’Exit n\'ont pas de siège identifié avec certitude : '
          'ils ne sont volontairement rattachés à aucune région. Être recensé ne vaut pas '
          'recommandation de l\'Exit Club.</p>' % (TOTAL - LOCALL))
 open(os.path.join(OUT, 'index.html'), 'w', encoding='utf-8').write(
-    page('Gestion privée région par région | L\'Écosystème de l\'Exit',
+    page('Gestion privée région par région | L’Annuaire de l’Exit',
          'Les cabinets de gestion de patrimoine du marché français de la cession, '
          'région par région : villes, encours publiés, fiches vérifiées.',
          'https://www.exit.club/regions', ''.join(b)))

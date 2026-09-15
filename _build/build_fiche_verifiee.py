@@ -163,7 +163,7 @@ page = f'''<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{esc(d["nom"])} · Fiche vérifiée {annee} | L'Écosystème de l'Exit</title>
+<title>{esc(d["nom"])} · Fiche vérifiée {annee} | L’Annuaire de l’Exit</title>
 <meta name="description" content="{esc(d["description"][:150])}">
 {robots}
 <link rel="canonical" href="https://www.exit.club/f/{slug}">
@@ -235,6 +235,7 @@ h1.disp{{font-size:42px;line-height:1.02}}
 .foot a{{color:var(--muted);text-decoration:none}}
 @media(max-width:760px){{.wrap{{padding:0 22px}}h1.disp{{font-size:32px}}.hero{{flex-direction:column;align-items:flex-start}}.stat{{min-width:120px}}}}
 </style>
+<link rel="stylesheet" href="/assets/annuaire-navigation.css?v=20260915">
 </head>
 <body>
 {banner}{demo_note}
@@ -242,15 +243,15 @@ h1.disp{{font-size:42px;line-height:1.02}}
   <div class="top">
     <a class="mark" href="/" style="text-decoration:none;color:var(--ink)"><i>exit</i><b>.club</b></a>
     <div style="display:flex;align-items:center;gap:22px">
-      <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">L'Écosystème</a>
+      <a href="/ecosysteme" style="font-size:13.5px;color:var(--muted);text-decoration:none">L’Annuaire de l’Exit</a>
       <a href="https://tally.so/r/wADNZN" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--paper);background:var(--accent);padding:9px 16px;border-radius:999px;text-decoration:none">Rejoindre</a>
     </div>
   </div>
-  <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#{d["categorie_id"]}">{esc(d["categorie_label"])}</a></div>
+  <div class="crumb"><a href="/ecosysteme">L’Annuaire de l’Exit</a> · <a href="/ecosysteme#{d["categorie_id"]}">{esc(d["categorie_label"])}</a></div>
   <section class="hero">
     {logo_html}
     <div>
-      <span class="vbadge">✓ L'Écosystème de l'Exit · {annee}</span>
+      <span class="vbadge">✓ L’Annuaire de l’Exit · {annee}</span>
       {fresh_html}
       <h1 class="disp">{esc(d["nom"])}</h1>
       <div class="tagl">{esc(d["categorie_label"])}</div>
@@ -270,7 +271,7 @@ h1.disp{{font-size:42px;line-height:1.02}}
   {cta_html}
   <p style="margin-top:30px;font-size:12px;color:var(--faint);line-height:1.5">Fiche vérifiée : contenu fourni et validé par la firme, qualifiée par l'équipe de l'Exit Club. La vérification est un engagement commercial : elle n'influence ni la présence dans l'annuaire, ni l'ordre d'affichage, ni les Ligues.</p>
   <div class="foot">
-    <div>Exit Club · L'Écosystème de l'Exit</div>
+    <div>Exit Club · L’Annuaire de l’Exit</div>
     <div><a href="/referencement">Se référencer</a> · <a href="mailto:louis@exit.club?subject=Fiche%20{slug}">Contact</a></div>
   </div>
 </div>

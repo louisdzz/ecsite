@@ -245,7 +245,7 @@ REGP = {
 MODULES = [
  ("Votre logo et vos associés en tête de fiche", "Photos, fonctions, LinkedIn. Le lecteur voit des visages, pas une raison sociale."),
  ("Votre présentation et vos expertises post-cession", "Le texte que vous validez, pas celui qu'un algorithme a deviné."),
- ("Actualités &amp; opérations", "Deals, levées, nominations, prix. Chaque publication vous fait remonter dans le fil de l'Écosystème."),
+ ("Actualités &amp; opérations", "Deals, levées, nominations, prix. Chaque publication vous fait remonter dans le fil de l’Annuaire de l’Exit."),
  ("Opportunité du moment", "Un encart daté, que vous changez quand vous voulez : un fonds qui ouvre, un club deal, une place au comité."),
  ("Le one-pager de votre dernier fonds ou de votre offre", "Téléchargeable directement depuis la fiche."),
  ("La prise de rendez-vous directe", "Votre agenda intégré. Le membre réserve sans passer par personne."),
