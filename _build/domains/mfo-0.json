@@ -1,9 +1,9 @@
 {
   "ade-ci-family-office": {
-    "nom": "Ade-ci Family Office",
     "domain": "ade-ci.com",
     "url": "https://ade-ci.com/",
-    "titre": "Votre Partenaire en Gestion de Patrimoine d&#039;Exception - Ade-ci Family Office"
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées CDEF"
   },
   "agami-family-office": {
     "nom": "AGAMI Family Office",
@@ -84,16 +84,17 @@
     "titre": "etz.com"
   },
   "even-fo": {
-    "nom": "Even FO",
-    "domain": "evenfo.com",
-    "url": "https://evenfo.com/",
-    "titre": "Evenfo | Stock Discovery & Monitoring"
+    "domain": "even-fo.com",
+    "url": "https://even-fo.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées CDEF"
   },
   "fair-e": {
-    "nom": "Fair-e",
-    "domain": "faire.fr",
-    "url": "https://www.faire.fr",
-    "titre": "Faire.fr - Magazine de Référence en Business, Finance et Immobilier"
+    "domain": null,
+    "url": null,
+    "ok": false,
+    "why": "Ancien lien attribué à un homonyme ou à un prestataire ; site à confirmer",
+    "verificationDate": "2026-09-15"
   },
   "familiance": {
     "nom": "Familiance",
@@ -278,10 +279,10 @@
     "titre": "Pulse"
   },
   "pulse-family-office": {
-    "nom": "Pulse | Family Office",
-    "domain": "pulse-family.com",
-    "url": "https://www.pulse-family.com",
-    "titre": "Pulse — Keeping Families Connected"
+    "domain": "pulse-fo.com",
+    "url": "https://www.pulse-fo.com/",
+    "verificationDate": "2026-09-15",
+    "source": "Livraison de logo et identité contrôlées CDEF"
   },
   "sagis-am": {
     "nom": "Sagis AM",

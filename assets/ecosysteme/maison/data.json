@@ -276,7 +276,10 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/carnegie-investment-bank-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "citi",
@@ -378,7 +381,10 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dnb-markets-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "edmond-de-rothschild-cf",
@@ -457,7 +463,10 @@
         "banques-affaires",
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/goldman-sachs-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "goldman-sachs-paris-inc-cie",
@@ -603,7 +612,10 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/liberum-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lincoln-international",
@@ -711,7 +723,7 @@
         "banques-affaires"
       ],
       "logo": {
-        "src": "/assets/logos/dir/numis-deutsche-numis.webp",
+        "src": "/assets/logos/dir/numis-deutsche-numis-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -795,7 +807,10 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rabobank-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rbc-capital-markets",
@@ -1275,7 +1290,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ade-ci-family-office-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "agami-family-office",
@@ -1505,7 +1523,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/even-fo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fair-e",
@@ -1513,10 +1534,7 @@
       "categories": [
         "mfo"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/fair-e.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "familiance",
@@ -1674,10 +1692,7 @@
       "categories": [
         "mfo"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/la-fontaine-family-office.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "la-rectorie-family-office",
@@ -1712,7 +1727,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lux-heritage-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lynq-private-office",
@@ -1870,7 +1888,10 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pulse-family-office-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "requirem",
@@ -2736,7 +2757,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/akilys-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aklea",
@@ -2788,7 +2812,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/andreae-associates-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "a-o-shearman",
@@ -2818,7 +2845,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aquila-avocats-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "aramis",
@@ -3032,7 +3062,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bh-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bignon-lebray",
@@ -3139,7 +3172,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cabinet-alexis-agoguet-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cabinet-aupoix",
@@ -3147,7 +3183,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cabinet-aupoix-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cabinet-bornhauser",
@@ -3289,7 +3328,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/c-level-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "clifford-chance",
@@ -3330,7 +3372,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cms-francis-lefebvre-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "coblence-avocats",
@@ -3349,7 +3394,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cohen-amir-aslani-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "colisee-avocats",
@@ -3379,7 +3427,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/coteg-azam-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "couderc-dinh-associes",
@@ -3626,7 +3677,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fidal-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fiducial-legal-by-lamy",
@@ -3634,7 +3688,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fiducial-legal-by-lamy-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fieloux-avocats",
@@ -3727,7 +3784,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ginestie-paley-vincent-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "goethe-avocats",
@@ -3754,7 +3814,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/goodwin-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "goodwin-procter-france",
@@ -3784,7 +3847,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/harlay-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "harving-avocats",
@@ -3792,7 +3858,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/harving-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hb-avocats",
@@ -4223,7 +4292,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mazars-societe-d-avocats-lyon-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mcdermott-will-schulte",
@@ -4253,7 +4325,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/menu-semeria-broc-msb-avocats-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "mlcp-avocat",
@@ -4295,7 +4370,7 @@
         "avocats"
       ],
       "logo": {
-        "src": "/assets/logos/dir/nexa-avocats.webp",
+        "src": "/assets/logos/dir/nexa-avocats-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -4470,7 +4545,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/racine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "racine-avocats",
@@ -4478,7 +4556,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/racine-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "reinhart-marville-torre",
@@ -4582,7 +4663,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sevestre-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "simmons-simmons",
@@ -4678,7 +4762,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sullivan-cromwell-llp-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "taylor-wessing",
@@ -4686,7 +4773,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/taylor-wessing-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tca-touttee-conseil-associes",
@@ -4848,7 +4938,10 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/weil-gotshal-manges-llp-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "white-case",
@@ -5143,7 +5236,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dba-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "deloitte-france",
@@ -5184,7 +5280,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eurus-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "exco",
@@ -5280,7 +5379,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/france-defi-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "grant-thornton-france",
@@ -5395,7 +5497,10 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lba-walter-france-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ledouble",
@@ -5639,7 +5744,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/1661-notaires-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "1694-notaires",
@@ -5669,7 +5777,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/83-haussmann-notaires-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "a-contrario",
@@ -5877,7 +5988,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dvml-notaires-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "efficiency",
@@ -5915,7 +6029,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/etude-352-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "etude-schmuckle",
@@ -5972,7 +6089,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fortier-notaire-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gaillot-le-roux-notaires",
@@ -6062,7 +6182,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jacquin-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kl-conseil",
@@ -6103,7 +6226,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lbmb-notaires-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "le-breton-notaires",
@@ -6122,7 +6248,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ledolex-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "les-notaires-des-allees",
@@ -6130,7 +6259,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/les-notaires-des-allees-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "les-notaires-du-trocadero",
@@ -6204,7 +6336,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/morel-d-arleux-hurel-billecocq-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "n3t",
@@ -6213,7 +6348,7 @@
         "notaires"
       ],
       "logo": {
-        "src": "/assets/logos/dir/n3t.webp",
+        "src": "/assets/logos/dir/n3t-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -6223,7 +6358,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nenert-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "notaires-associes-montparnasse",
@@ -6243,7 +6381,7 @@
         "notaires"
       ],
       "logo": {
-        "src": "/assets/logos/dir/notaires-office-bourg-en-bresse.webp",
+        "src": "/assets/logos/dir/notaires-office-bourg-en-bresse-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -6253,7 +6391,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/notaires-quai-de-la-tournelle-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "now-notaires",
@@ -6348,7 +6489,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/palais-royal-notaires-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "parthema-notaires",
@@ -6435,7 +6579,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/strock-associes-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "thibierge-associes",
@@ -6454,7 +6601,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/up-notaires-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "vh-15-notaires",
@@ -6506,7 +6656,10 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wargny-lelong-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "110capital",
@@ -6563,7 +6716,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/1cjl-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "1-plus-1-conseils",
@@ -6579,7 +6735,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/1point6-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "2a2spc",
@@ -6627,7 +6786,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/2c-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "2c-finance",
@@ -6732,7 +6894,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/34g-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "360brokers",
@@ -6843,7 +7008,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a2d-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "a2d-invest",
@@ -6867,7 +7035,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a2g-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "a2o-finance",
@@ -6899,7 +7070,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ab3c-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "a-bc-finance",
@@ -6975,7 +7149,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-b-f-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ab-fi",
@@ -7093,7 +7270,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/acceo-conseil.webp",
+        "src": "/assets/logos/dir/acceo-conseil-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -7244,7 +7421,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-coeur-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "acorfi",
@@ -7358,7 +7538,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/actuel-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "acturial-group",
@@ -7377,7 +7560,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ad-maiora-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "adaline-finance",
@@ -7420,7 +7606,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-d-e-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "adelie-advisors",
@@ -7466,7 +7655,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aditum-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aditum-finance",
@@ -7493,7 +7685,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-d-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "advantim",
@@ -7583,7 +7778,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aelis-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aelis-groupe",
@@ -7661,7 +7859,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/afc-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "affilior-gestion-privee",
@@ -7669,7 +7870,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/affilior-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "affineo-courtage",
@@ -7889,7 +8093,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/agora-conseil-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "agora-finance",
@@ -7935,7 +8142,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/agricourtage-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aic-financement",
@@ -8070,7 +8280,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/akor-immo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "akos-conseils-et-courtage",
@@ -8218,7 +8431,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/allais-participations-conseils-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "all-credit-immobilier",
@@ -8261,7 +8477,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/allier-credit-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "allin",
@@ -8291,7 +8510,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/allure-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "allure-finance-groupe-insinia",
@@ -8310,7 +8532,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alpagos-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "al-patrimoine",
@@ -8337,7 +8562,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alpex-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "alpha-finances-patrimoine",
@@ -8375,7 +8603,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alpin-capital-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "alpinia-finance",
@@ -8443,7 +8674,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alterenv-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "alter-finance",
@@ -8481,7 +8715,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alternative-forest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "alternative-patrimoine",
@@ -8489,7 +8726,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alternative-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "alt-financement",
@@ -8516,7 +8756,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altheo-partners-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "althos-patrimoine",
@@ -8535,7 +8778,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altiore-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "altius-patrimoine",
@@ -8554,7 +8800,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altus-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aluni-patrimoine",
@@ -8630,7 +8879,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ambitus-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ambre-patrimoine",
@@ -8638,7 +8890,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ambre-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ambriva-partners",
@@ -8646,7 +8901,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ambriva-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "amecofin-conseil",
@@ -8721,7 +8979,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ananke-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "anaxago-patrimony",
@@ -8794,7 +9055,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/antium-france-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "antoine-azoulay-immobilier-et-placements",
@@ -8850,7 +9114,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ap2i-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "apc-finances",
@@ -8940,7 +9207,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/apolline-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "apollux-patrimoine",
@@ -8978,7 +9248,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-p-s-immo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aqueducs-courtage",
@@ -9067,7 +9340,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/argam-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "argos-conseil",
@@ -9108,7 +9384,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/armavema-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "armenius-patrimoine",
@@ -9176,7 +9455,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/arum-gestion-privee-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "arven-patrimoine",
@@ -9349,7 +9631,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ass-caisse-reglem-pecuni-avocat-barreau-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "asselio-patrimoine",
@@ -9434,7 +9719,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/association-bancaire-pour-l-euro-abe-eur.webp",
+        "src": "/assets/logos/dir/association-bancaire-pour-l-euro-abe-eur-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -9523,7 +9808,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aston-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "astoria-finance",
@@ -9531,7 +9819,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/astoria-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "astre-patrimoine",
@@ -9555,10 +9846,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/astyrian-patrimoine.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "at-conseil",
@@ -9615,7 +9903,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/athena-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "athena-capital",
@@ -9699,7 +9990,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/attitude-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "attractive-financial-services",
@@ -9782,7 +10076,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/audit-invest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "auditor",
@@ -9850,7 +10147,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/auris.webp",
+        "src": "/assets/logos/dir/auris-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -9901,7 +10198,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avantage-conseil-courtage-acc-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "avec-mon-courtier",
@@ -9936,7 +10236,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avenir-et-patrimoine-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "avenir-financements",
@@ -9971,7 +10274,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avenis-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "avicap",
@@ -10039,7 +10345,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/axeleo-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "axelia",
@@ -10066,7 +10375,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/axelya-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "axesscible",
@@ -10106,7 +10418,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/axyne-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "aydo",
@@ -10203,10 +10518,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/bail-finance-solutions.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "balmat-gestion-privee",
@@ -10274,10 +10586,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/baring-france.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "barnes",
@@ -10285,7 +10594,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/barnes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "baron-et-associes",
@@ -10409,7 +10721,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bc-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bc-mon-taux",
@@ -10455,7 +10770,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bd-finances-et-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "b-direct",
@@ -10471,10 +10789,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/bdmat.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "b-durand-capital-partners",
@@ -10482,7 +10797,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/b-durand-capital-partners-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "beater",
@@ -10536,7 +10854,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/belledonne-patrimoine-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "belvedere-advisory",
@@ -10644,7 +10965,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bfi-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "bfo-by-come",
@@ -10771,7 +11095,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/blackparrot-capital-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "blackrock-france",
@@ -10820,7 +11147,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bleu-chocolat-investments-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "blevins-franks-wealth-management-limited",
@@ -10828,7 +11158,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/blevins-franks-wealth-management-limited-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "blitz-invest",
@@ -11019,10 +11352,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/bordeaux-sud.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "boreal-patrimoine",
@@ -11114,10 +11444,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/breizh-conseil-credits.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "breizh-conseils-patrimoine",
@@ -11145,7 +11472,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/brighteye-research-paris.webp",
+        "src": "/assets/logos/dir/brighteye-research-paris-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -11250,10 +11577,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/business-courtage-conseil-finances.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "business-relief",
@@ -11377,7 +11701,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cabinet-dabadie-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cabinet-de-conseil-en-gestion-de-patrimoine-a-paris",
@@ -11522,7 +11849,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/cabinet-philippe-gaffinel.webp",
+        "src": "/assets/logos/dir/cabinet-philippe-gaffinel-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -11532,10 +11859,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/cabinet-philippe-ouanson.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "cabinet-pierre-babillot",
@@ -11630,7 +11954,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/caisse-auton-reglem-pecuniers-avocats-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "caisse-locale-de-credit-agricole-mutuel-de-lens-lievin",
@@ -11761,7 +12088,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/canopia-gestion-privee.webp",
+        "src": "/assets/logos/dir/canopia-gestion-privee-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -11771,7 +12098,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cap-au-nord-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cap-credit",
@@ -11829,7 +12159,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/cap-finance-et-courtage.webp",
+        "src": "/assets/logos/dir/cap-finance-et-courtage-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -11869,10 +12199,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/capital-croissance-immobilier.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "capital-in-fine",
@@ -12166,7 +12493,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cb-patrinvest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cbr-consulting",
@@ -12193,7 +12523,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cbs-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cbs-courtage",
@@ -12217,10 +12550,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/c-c-f-a.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "cc-financement",
@@ -12252,10 +12582,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/cci-finance.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "c-c-patrimoine",
@@ -12342,7 +12669,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cdg-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cdl-patrimoine",
@@ -12413,7 +12743,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cedric-navas-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "cedrus-partners",
@@ -12432,7 +12765,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cefin-capital-debt-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cegyd-conseil",
@@ -12440,7 +12776,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cegyd-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cehenne-patrimoine",
@@ -12567,7 +12906,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/centres-d-affaires-tamel-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "centuri",
@@ -12583,7 +12925,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/c-e-p-consultant-en-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cercle-patrimonial",
@@ -12675,10 +13020,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/c-f-h.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "cfo-compagnie-financiere-de-l-opera",
@@ -12686,7 +13028,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cfo-compagnie-financiere-de-l-opera-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "c-f-p",
@@ -12768,7 +13113,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cgp-entrepreneurs-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cgp-expert",
@@ -12825,7 +13173,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/chambre-de-commerce-et-d-industrie-franco-portugaise-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "chambre-de-commerce-suisse-en-france",
@@ -12833,7 +13184,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/chambre-de-commerce-suisse-en-france-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "champeil-wealth-management",
@@ -12887,7 +13241,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/change-est-nord-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "change-et-collection",
@@ -13074,7 +13431,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cheval-blanc-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "chevalier-credit-assurance",
@@ -13082,7 +13442,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/chevalier-credit-assurance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "chevrillon-associes-sca",
@@ -13153,7 +13516,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cholet-dupont-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "cholet-dupont-oudart",
@@ -13180,7 +13546,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/chrome-advisor-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cht-finances",
@@ -13188,7 +13557,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cht-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cia-courtimmo",
@@ -13332,7 +13704,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/citywire-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cj-finance-invest",
@@ -13368,8 +13743,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/cks-courtage-immobilier.webp",
-        "dark": false
+        "src": "/assets/logos/dir/cks-courtage-immobilier-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -13435,7 +13810,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clery-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cl-finances",
@@ -13484,7 +13862,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/club-aktif-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "club-elite-patrimoine-prive",
@@ -13523,7 +13904,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/c-ma-solution.webp",
+        "src": "/assets/logos/dir/c-ma-solution-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -13593,10 +13974,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/cofisem.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "co-founder",
@@ -13631,7 +14009,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/colbert-groupe-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "colbert-patrimoine-finance",
@@ -13639,7 +14020,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/colbert-patrimoine-finance-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "colbert-patrimoine-invest",
@@ -13655,7 +14039,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/colbr-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "coliseum-ingenierie",
@@ -13674,7 +14061,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/collaboration-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "collin-associes",
@@ -13690,7 +14080,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/collinet-doucelance-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "colorado",
@@ -13728,7 +14121,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/com-corporate-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "come",
@@ -13736,7 +14132,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/come-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "come-le-family-office",
@@ -13798,7 +14197,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/compagnie-financiere-de-l-opera-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "compagnie-financiere-du-boisvert",
@@ -13855,7 +14257,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/comptoir-de-la-bourse-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "comptoir-des-tuileries",
@@ -13863,7 +14268,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/comptoir-des-tuileries-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "comptoir-financier-arin",
@@ -13871,7 +14279,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/comptoir-financier-arin-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "comptoir-national-rochelais",
@@ -14055,7 +14466,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/conseillor-finance-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "conseil-patrimoine-et-fiscalite-64",
@@ -14114,7 +14528,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/conseils-mcc-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "conseil-social-voyage",
@@ -14144,7 +14561,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/consilium-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "consulting-patrimoine",
@@ -14171,7 +14591,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/corbin-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "corhofi-financial-services",
@@ -14190,7 +14613,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/corpas-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "corum-l-epargne",
@@ -14326,10 +14752,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/courtage-finance-49.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "courtage-finance-conseil",
@@ -14337,10 +14760,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/courtage-finance-conseil.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "courtage-fin-pro",
@@ -14429,7 +14849,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/courtimmo-prets-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "courtineo",
@@ -14475,7 +14898,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/coventis-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cover-one",
@@ -14532,7 +14958,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cpi-credimmo-prets-immobiliers-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cp-investissements",
@@ -14600,8 +15029,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/crea-patrimoine.webp",
-        "dark": false
+        "src": "/assets/logos/dir/crea-patrimoine-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -14610,7 +15039,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/creatif-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credifi",
@@ -14629,7 +15061,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credigo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cred-immo",
@@ -14808,7 +15243,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-deux-l-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "credit-gagnant",
@@ -15028,7 +15466,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credyl-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "crefident",
@@ -15074,10 +15515,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/cristal-groupe-international.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "cristo-courtage",
@@ -15093,7 +15531,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/crystal-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "c-s-a-finance",
@@ -15144,7 +15585,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ctrl-a-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cuivres-coquelicots",
@@ -15220,7 +15664,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cvl-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cyberpret",
@@ -15239,7 +15686,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cyrus-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "cyrus-herez",
@@ -15258,7 +15708,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/d2c-finances-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "daiwa-corporate-advisory",
@@ -15282,7 +15735,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/daleth-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dama",
@@ -15336,10 +15792,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/dauphine-asset-management.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "david-laget-courtage",
@@ -15358,7 +15811,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/db-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "d-b-courtage-immo",
@@ -15469,7 +15925,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/deferney-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "defitax",
@@ -15488,7 +15947,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/de-jonghe-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "delac",
@@ -15555,7 +16017,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/demoulin-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "derome-transactions",
@@ -15682,7 +16147,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dg-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dgc-finances",
@@ -15753,7 +16221,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/dima-conseil.webp",
+        "src": "/assets/logos/dir/dima-conseil-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -15779,7 +16247,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/directcredit-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "distrib-finance",
@@ -15849,7 +16320,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dlh-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "d-mo",
@@ -15998,7 +16472,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ds-pro-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dtb-wealth-management",
@@ -16047,7 +16524,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dwt-family-office-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "dyna-financement",
@@ -16066,10 +16546,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/e-2c-f.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "eag-levallois",
@@ -16194,7 +16671,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eden-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "edenred-france",
@@ -16265,7 +16745,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/effi-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "efp-courtage",
@@ -16500,7 +16983,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/elysee-consulting-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "elysees-change-84",
@@ -16516,10 +17002,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/emc2-conseil.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "em-conseil",
@@ -16557,7 +17040,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/emd-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "emeraude-capital",
@@ -16664,7 +17150,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/engagement-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ennoia-patrimoine",
@@ -16721,7 +17210,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/epie-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ep-invest",
@@ -16729,7 +17221,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ep-invest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "epoch-capital-france",
@@ -16737,7 +17232,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/epoch-capital-france-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "epona-patrimoine-conseil",
@@ -16745,7 +17243,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/epona-patrimoine-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "epsilium-courtage-sud-ouest",
@@ -16919,7 +17420,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/estelle-perignon-lacaze-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "esteloan",
@@ -16957,7 +17461,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eternam-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ethicus-patrimoine",
@@ -16976,7 +17483,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ethik-conseil-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ethique-et-courtage",
@@ -17003,10 +17513,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/eti.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "etoile-patrimoine",
@@ -17057,7 +17564,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/euclide-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eurassur",
@@ -17103,7 +17613,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eurl-general-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eurl-jffouladou",
@@ -17157,7 +17670,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eurogest-patrimoine-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "eurolocatique",
@@ -17176,10 +17692,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/euro-pacific-finance.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "euro-patrimoine-investissement",
@@ -17187,7 +17700,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/euro-patrimoine-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "european-currency-exchange",
@@ -17328,7 +17844,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/excellis-ingenierie-et-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "exclusive-family-office",
@@ -17377,7 +17896,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/expertise-patrimoniale-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "experto",
@@ -17385,7 +17907,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/experto-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "experts-credits",
@@ -17393,10 +17918,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/experts-credits.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "experts-en-patrimoine",
@@ -17404,7 +17926,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/experts-en-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "experts-partenaires-patrimoniaux",
@@ -17442,7 +17967,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/expret-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "extens-conseil",
@@ -17483,7 +18011,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/faa-conseil-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fa-conseils-patrimoines",
@@ -17529,7 +18060,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/famille-et-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "family-and-office",
@@ -17538,7 +18072,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/family-and-office.webp",
+        "src": "/assets/logos/dir/family-and-office-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -17567,7 +18101,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fb-wealth-manager-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fc2-developpement",
@@ -17642,10 +18179,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/ferless-conseil.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "ferless-conseil-com",
@@ -17653,10 +18187,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/ferless-conseil-com.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "fgbl-courtage",
@@ -17675,7 +18206,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fg-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fg-intermediation",
@@ -17775,7 +18309,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fidam-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fidecac-gestion-privee",
@@ -17791,7 +18328,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fi-defi-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fidelia-patrimoine",
@@ -17810,7 +18350,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fidere-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fiduciaire-securite",
@@ -17919,7 +18462,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finagral-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finan-c",
@@ -18034,7 +18580,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/finance-et-tradition-2.webp",
+        "src": "/assets/logos/dir/finance-et-tradition-2-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -18125,7 +18671,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finance-mon-toit-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finance-ocean-cif",
@@ -18208,7 +18757,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/financiere-de-la-clarte-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "financiere-de-l-ocean-indien",
@@ -18275,7 +18827,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/financiere-galilee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "financiere-jean-richard",
@@ -18318,7 +18873,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/financiere-patrick-senior-fsp-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "financiere-santos",
@@ -18375,7 +18933,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finarena-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finary",
@@ -18383,7 +18944,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finary-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finaway-courtage",
@@ -18500,7 +19064,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finindep-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "finindev-consulting",
@@ -18552,7 +19119,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finomie-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "finord-conseil",
@@ -18634,7 +19204,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fipad-conseil-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fipad-conseil-ccif-euthenia-l-interpro-finexys",
@@ -18642,7 +19215,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fipad-conseil-ccif-euthenia-l-interpro-finexys-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fipagest",
@@ -18680,10 +19256,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/fiscae.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "fisher-investments-luxembourg",
@@ -18710,7 +19283,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fl-conseil-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "fl-courtage",
@@ -18753,7 +19329,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fluv-assur-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "fonds-de-garantie-des-depots-et-de-resolution",
@@ -19277,7 +19856,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gauthier-schaller-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gb-action",
@@ -19368,10 +19950,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/gestion-finance-et-patrimoine.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "gestionnaire-de-patrimoine-associe",
@@ -19398,7 +19977,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/g-f-roussillon-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gie-delattre-distribution-groupe",
@@ -19454,10 +20036,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/glassy.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "glazing-holding",
@@ -19530,7 +20109,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/glr-consultants-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "gma-courtage",
@@ -19565,7 +20147,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/goldfinger-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "goldman-sachs-bank-europe-se",
@@ -19704,7 +20289,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gregory-dutreil-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "greselec",
@@ -19758,7 +20346,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/grisbee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "grisbee-gestion-privee",
@@ -19766,7 +20357,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/grisbee-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-allen-carat-capital-hedon-family-office",
@@ -19801,7 +20395,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-ciec-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-codimatel",
@@ -19839,7 +20436,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-cyrus-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-donot",
@@ -19855,7 +20455,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-fcn-objectif-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-finakor",
@@ -19890,7 +20493,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-id-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "groupe-insinia",
@@ -19952,7 +20558,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupement-territorial-ess-centre-bretagne-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-mufraggi",
@@ -19990,7 +20599,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-pea-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "groupe-pelican",
@@ -19998,7 +20610,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-pelican-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-premium",
@@ -20017,7 +20632,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-quinze-gestion-privee-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "groupe-rayne",
@@ -20025,7 +20643,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/groupe-rayne-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "groupe-regis-malcles",
@@ -20215,7 +20836,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/haenggi-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "haenggi-et-associes",
@@ -20223,7 +20847,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/haenggi-et-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hagefi",
@@ -20318,7 +20945,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/haussmann-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "h-c-finance",
@@ -20419,7 +21049,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/henrion-immobilier-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hent-financing",
@@ -20467,7 +21100,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hestia-finances-investissements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hets-capital",
@@ -20524,7 +21160,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hilbert-investment-solutions-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hilbert-wealth-management",
@@ -20605,7 +21244,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hods-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "hoffmann-finance",
@@ -20710,10 +21352,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/hool.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "hoome",
@@ -20738,8 +21377,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/horizon-financement.webp",
-        "dark": false
+        "src": "/assets/logos/dir/horizon-financement-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -20783,10 +21422,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/howhen-group.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "hpva-participations",
@@ -20889,7 +21525,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ica-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "icc-bordeaux",
@@ -20905,10 +21544,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/icc-saint-jean.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "icc-toulouse-nord",
@@ -20916,10 +21552,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/icc-toulouse-nord.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "i-c-e-finance",
@@ -21006,10 +21639,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/idea-patrimoine.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "i-d-finance",
@@ -21044,7 +21674,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/id-patrimoine-paca-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "idsud",
@@ -21117,7 +21750,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/imani-you-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "imm-horizon-finances",
@@ -21369,7 +22005,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/ingenierie-financiere.webp",
+        "src": "/assets/logos/dir/ingenierie-financiere-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -21387,7 +22023,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ingesens-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "initiative-beziers-ouest-herault",
@@ -21417,7 +22056,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/inkipit-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "innoscripta-france",
@@ -21453,8 +22095,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/inovea-finance.webp",
-        "dark": false
+        "src": "/assets/logos/dir/inovea-finance-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -21611,7 +22253,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/ip-conseils.webp",
+        "src": "/assets/logos/dir/ip-conseils-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -21651,7 +22293,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/isalys-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "isere-courtage",
@@ -21678,7 +22323,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/isi-gestion-privee-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "isodom",
@@ -21781,7 +22429,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/janngo-capital-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "janouki-courtage",
@@ -21789,7 +22440,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/janouki-courtage-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jason",
@@ -21883,7 +22537,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jc-courtage-et-immobilier-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jchsc-finances",
@@ -21907,7 +22564,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jcs-conseil-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "jc-wealth-management",
@@ -21955,7 +22615,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jeddak-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "jefferies-gmbh",
@@ -21985,7 +22648,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jeremie-blanc-optim-courtage-jeremie-blanc-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jf-flores-patrimoine-consultant",
@@ -22026,7 +22692,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/jiminy-conseil.webp",
+        "src": "/assets/logos/dir/jiminy-conseil-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -22093,7 +22759,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jmcf-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "j-m-conseils",
@@ -22152,7 +22821,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/joh-berenberg-gossler-co-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "josse-stratege-consulting",
@@ -22228,7 +22900,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/jubile.webp",
+        "src": "/assets/logos/dir/jubile-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -22238,7 +22910,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/julien-andres-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "julien-dariaux",
@@ -22262,7 +22937,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/julien-pinson-immobilier-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "julouis",
@@ -22300,7 +22978,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jurifinance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jurisconsulte-patrimoine",
@@ -22308,7 +22989,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jurisconsulte-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "justae-gestion-privee",
@@ -22378,7 +23062,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kaliz-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "kalstone",
@@ -22386,7 +23073,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kalstone-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kanti",
@@ -22405,7 +23095,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kapigo-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kara-finances",
@@ -22451,10 +23144,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/kariti-finance.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "kasa",
@@ -22525,7 +23215,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/keewe-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kentel-patrimoine",
@@ -22574,7 +23267,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kereis-expertises-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kerjean-financement",
@@ -22631,7 +23327,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/k-financement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "k-founders",
@@ -22639,7 +23338,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/k-founders-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "k-g-courtage",
@@ -22666,7 +23368,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kimpa-impact-investing-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "kino-gestion-privee",
@@ -22791,7 +23496,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/k-patrimoine-et-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kp-education",
@@ -22855,7 +23563,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kyruna-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "kzen-consulting",
@@ -22909,7 +23620,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-curatelaire-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-fabrique-du-courtage",
@@ -22944,7 +23658,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-financiere-azureenne-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-financiere-de-beaumont",
@@ -22952,7 +23669,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-financiere-de-beaumont-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-financiere-de-paris",
@@ -22971,7 +23691,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-financiere-des-alpes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-financiere-d-orion",
@@ -22979,7 +23702,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-financiere-d-orion-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-financiere-du-bassin",
@@ -23082,7 +23808,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lagfo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "laila-boularas",
@@ -23166,7 +23895,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lam-conseils-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "landesbank-saar",
@@ -23193,7 +23925,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-palme-partners-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "la-peyrouse-finance",
@@ -23209,7 +23944,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/laplace-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "l-arche",
@@ -23217,7 +23955,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/l-arche-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "la-rochelle-courtage",
@@ -23360,7 +24101,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lc-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lcp-partners",
@@ -23368,7 +24112,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lcp-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ld",
@@ -23444,7 +24191,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/le-bourbasquet-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "le-comptoir-des-credits",
@@ -23482,10 +24232,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/le-doss.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "leduc-associes",
@@ -23577,7 +24324,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lenbox-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "leone-kapital",
@@ -23615,7 +24365,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lepine-associes-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "les-compagnons-du-patrimoine",
@@ -23634,7 +24387,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/les-conciliateurs-de-la-lys-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "les-courtieres",
@@ -23691,7 +24447,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lesueur-investissement-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "letailleur-conseils-patrimoine",
@@ -23699,7 +24458,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/letailleur-conseils-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "leto-partners",
@@ -23718,7 +24480,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/letus-private-office-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lexaly-conseils",
@@ -23746,8 +24511,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/lfc-courtage.webp",
-        "dark": false
+        "src": "/assets/logos/dir/lfc-courtage-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -23772,7 +24537,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lfl-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lga-strategie-patrimoine",
@@ -23780,7 +24548,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lga-strategie-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lg-development",
@@ -23904,7 +24675,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/linard-gestion-de-fortune-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "l-investisseur-responsable",
@@ -23942,7 +24716,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lion-d-or-patrimoine-et-investissements-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "lionne-finance",
@@ -23958,7 +24735,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lion-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "liote",
@@ -24001,10 +24781,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/ll-conseils-31.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "lm4-conseil-patrimoine",
@@ -24012,7 +24789,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lm4-conseil-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "lm-co-gestion-privee",
@@ -24020,7 +24800,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lm-co-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lm-courtage",
@@ -24039,7 +24822,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lm-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lmg-conseil",
@@ -24098,7 +24884,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lombard-odier-group-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "london-forfaiting-company-limited",
@@ -24141,7 +24930,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/louvre-banque-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "louvre-gestion-privee",
@@ -24160,7 +24952,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lov-group-invest-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "loze-et-associes",
@@ -24206,7 +25001,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lp-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lr-patrimoine",
@@ -24236,7 +25034,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lsf-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lstp",
@@ -24326,7 +25127,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/luxus-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "luz",
@@ -24429,7 +25233,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lyssor-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "macourtage",
@@ -24475,7 +25282,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/magellan-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "magellan-investissement-conseil",
@@ -24526,7 +25336,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/magnacarta-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mahana-capital",
@@ -24556,7 +25369,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/maison-des-patrimoines-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "majj-invest",
@@ -24572,7 +25388,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/majoral-courtage-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "makor-securities-paris",
@@ -24580,7 +25399,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/makor-securities-paris-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "maloja",
@@ -24588,7 +25410,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/maloja-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mama",
@@ -24596,10 +25421,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/mama.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "mameri-consulting",
@@ -24775,7 +25597,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/massalia-finance-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "masson-conseil-patrimoine-associes",
@@ -24805,7 +25630,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/master-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "master-finances",
@@ -24916,7 +25744,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mazaline-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mb27-courtage",
@@ -25172,7 +26003,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/md-solutions-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mecofinance",
@@ -25299,7 +26133,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/merimee-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "merimee-mediterranee",
@@ -25315,7 +26152,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mermoz-gestion-formation-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mesa-verde",
@@ -25323,10 +26163,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/mesa-verde.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "meta-gestion-privee",
@@ -25345,7 +26182,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/metagram-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "meyon",
@@ -25391,7 +26231,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mfs-investment-management-company-lux-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "m-f-tel",
@@ -25399,7 +26242,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/m-f-tel-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mga",
@@ -25418,7 +26264,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mga-gestion-de-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "mg-credits-immobiliers",
@@ -25571,7 +26420,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mirari-wealth-management-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mirettes-io",
@@ -25595,7 +26447,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mister-finances-paca-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mistral-capital-management",
@@ -25633,7 +26488,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mj-cie-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mj-courtage",
@@ -25727,7 +26585,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mn-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mobile-pay",
@@ -25808,10 +26669,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/moncourtier-com.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "mon-courtier-m-accompagne",
@@ -25827,10 +26685,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/mon-courtier-pro-toulon.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "monemprunt-com",
@@ -25980,7 +26835,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/montaigne-conseil-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "montaigne-patrimoine",
@@ -26026,7 +26884,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/montea-sca-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "montprez-finances",
@@ -26053,7 +26914,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/monty-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "monty-global-payments",
@@ -26091,7 +26955,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mosaic-investissements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "moselle-financement",
@@ -26129,7 +26996,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mousquebieres-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mp-finance-conseil",
@@ -26137,7 +27007,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mp-finance-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mph-conseil-patrimoine",
@@ -26145,7 +27018,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mph-conseil-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mpl-financement",
@@ -26337,7 +27213,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mue-conseils-et-financements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "multiservices",
@@ -26418,7 +27297,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/my-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "m-y-consulting",
@@ -26472,10 +27354,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/na-courtage.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "nadia-donati",
@@ -26513,7 +27392,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/na-patrimoine-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nathalie-faessel",
@@ -26532,10 +27414,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/national-prets-immobiliers.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "nation-patrimoine-conseil",
@@ -26543,7 +27422,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nation-patrimoine-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nbc-paris",
@@ -26589,7 +27471,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nc-strategie-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ndc-associes",
@@ -26605,7 +27490,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ndfi-regroupement-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "neaxia",
@@ -26701,8 +27589,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/neowise.webp",
-        "dark": false
+        "src": "/assets/logos/dir/neowise-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -26711,7 +27599,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nespoulous-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nets-denmark-a-s",
@@ -26757,10 +27648,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/next-step-spa.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "next-steps-solutions",
@@ -26787,7 +27675,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nfi-invest-gestion-privee-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "nfinance-holdings-corp",
@@ -26817,10 +27708,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/ng-credit.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "ng-finance",
@@ -26828,7 +27716,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ng-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ngi-courtage",
@@ -26955,7 +27846,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/norma-conseils-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "normandie-finance",
@@ -26963,7 +27857,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/normandie-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "normandie-strategie-invest",
@@ -26971,7 +27868,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/normandie-strategie-invest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "normandie-transports-enguehard",
@@ -27074,7 +27974,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/novam-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "npi-conseils",
@@ -27082,7 +27985,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/npi-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "nr-expertise-conseils",
@@ -27239,7 +28145,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/octopus-immo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "octopus-patrimoine",
@@ -27332,7 +28241,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/office-patrimoine.webp",
+        "src": "/assets/logos/dir/office-patrimoine-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -27342,7 +28251,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/officina-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "officium-asset-management",
@@ -27383,7 +28295,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ofilae-paris-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "oillic-finances",
@@ -27391,7 +28306,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/oillic-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "okali",
@@ -27445,7 +28363,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/olivier-rohee-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "omage-finance-conseil",
@@ -27472,7 +28393,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/omega-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "omnia-finance",
@@ -27595,7 +28519,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/op-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "opportunae-conseil",
@@ -27643,7 +28570,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/optimal-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "optimance",
@@ -27713,7 +28643,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/oria-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "orifab",
@@ -27778,7 +28711,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ornay-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "o-s-courtage",
@@ -27886,7 +28822,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/owners-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "oxiliz",
@@ -27902,10 +28841,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/oximo.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "oxygene-budget",
@@ -28000,7 +28936,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/p-a-m-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pandora",
@@ -28027,7 +28966,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/parimo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "paris-dauphine",
@@ -28160,7 +29102,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/passion-finances-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "p-a-t-g-courtage",
@@ -28222,7 +29167,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimmofi-gp1-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimocap",
@@ -28230,7 +29178,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimocap-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimoine-conseils",
@@ -28238,7 +29189,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimoine-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimoine-consultant",
@@ -28254,7 +29208,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimoine-consultant-colmar-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimoine-et-entreprise",
@@ -28284,7 +29241,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimoine-et-fiscalite-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimoine-et-gestion",
@@ -28292,7 +29252,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimoine-et-gestion-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimoine-et-perstectives",
@@ -28371,7 +29334,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/patrimoine-sa-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "patrimonia-group",
@@ -28455,7 +29421,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/paytweak-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pb-courtage",
@@ -28528,10 +29497,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/pearl-advisory.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "pech-gestion-privee",
@@ -28569,7 +29535,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/peiny-rosset-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pemberton-asset-management",
@@ -28651,7 +29620,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/persephone-conseil-investissement-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "perspectives",
@@ -28708,10 +29680,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/p-g-a.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "pg-lg-saintes",
@@ -28782,7 +29751,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/picard-credit-solutions.webp",
+        "src": "/assets/logos/dir/picard-credit-solutions-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -28800,7 +29769,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pierre-placements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pierre-jacquin-patrimoine",
@@ -28808,7 +29780,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pierre-jacquin-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pierrou-ehret-patrimoine",
@@ -28905,7 +29880,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/platineos-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "p-l-conseils-immobilier-finances",
@@ -28951,7 +29929,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ploovers-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pluralle-groupe",
@@ -28959,7 +29940,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pluralle-groupe-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "plurifinances",
@@ -29013,7 +29997,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pm-investissements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "pmp-patrimoine",
@@ -29043,7 +30030,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pointet-gestion-de-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "point-nine-france",
@@ -29299,10 +30289,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/pret-taux-caen.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "pret-taux-le-havre",
@@ -29329,7 +30316,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/primas-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "primaval-mediterranee",
@@ -29443,7 +30433,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/proficap-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "profiscalis",
@@ -29451,10 +30444,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/profiscalis.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "profits-and-benefits",
@@ -29538,7 +30528,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/prosper-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "prosperia",
@@ -29730,7 +30723,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/quantic-capital-management-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "quantx-finance",
@@ -29738,10 +30734,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/quantx-finance.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "quatrimonia",
@@ -29771,7 +30764,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/quercus-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "quercus-patrimoine-69",
@@ -29779,7 +30775,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/quercus-patrimoine-69-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "quintessence",
@@ -29798,10 +30797,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/quipu-digital.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "quivrin-courtage",
@@ -29858,7 +30854,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ramify-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ramonville-financement-immobilier",
@@ -29904,7 +30903,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rbf-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "r-capital",
@@ -29966,10 +30968,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/real-assets-investment-managers.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "reb-im",
@@ -29977,10 +30976,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/reb-im.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "re-di-fin",
@@ -30004,7 +31000,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/reference-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "reficoncept",
@@ -30123,10 +31122,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/reversim.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "rezult",
@@ -30134,7 +31130,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rezult-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "rhetores-courtage",
@@ -30150,7 +31149,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rhetores-finance-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "rhetores-groupe",
@@ -30166,7 +31168,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rhone-alpes-financement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rhone-capital",
@@ -30174,10 +31179,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/rhone-capital.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "rhone-investissements",
@@ -30185,7 +31187,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rhone-investissements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ria-france",
@@ -30228,7 +31233,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rive-neuve-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "riviera-courtage-conseils",
@@ -30384,7 +31392,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rp-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "rpsp-australia",
@@ -30530,10 +31541,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/s-a-consulting.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "safe-credits",
@@ -30616,7 +31624,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sapians-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sarl-36-carnot-courtage",
@@ -30821,7 +31832,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sarl-lb-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sarl-lel-finances",
@@ -30829,7 +31843,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sarl-lel-finances-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "sarl-lv-conseils",
@@ -30931,7 +31948,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sarl-soab-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sarl-stephanie-curt-conseil",
@@ -31079,10 +32099,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/sas-la-preteuse.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "sas-metge-conseil",
@@ -31090,7 +32107,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sas-metge-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sas-m-r",
@@ -31155,7 +32175,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sasu-myriam-mitoire-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sasu-nicolas-henric",
@@ -31187,7 +32210,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sausset-les-pins-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sauvant-consultants-la-retraite-c-est-a-vie",
@@ -31376,7 +32402,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/scp-patrimoine-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "screening",
@@ -31471,7 +32500,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/selection-finance-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "select-placements",
@@ -31479,7 +32511,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/select-placements-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "selektya",
@@ -31495,7 +32530,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/selene-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "selounat-finance",
@@ -31511,7 +32549,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/seml-oktave-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sepaje",
@@ -31557,7 +32598,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/serendip-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "serenitys-patrimoine",
@@ -31587,7 +32631,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/servant-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "service-finance",
@@ -31677,7 +32724,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/shiva-finance-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "shizen-labs",
@@ -31873,8 +32923,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/smart-lenders-asset-management.webp",
-        "dark": true
+        "src": "/assets/logos/dir/smart-lenders-asset-management-reprise-20260915.webp",
+        "dark": false
       }
     },
     {
@@ -31956,10 +33006,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/societe-commerciale-financiere-pw.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "societe-conseilpour-la-prevention-des-impayes",
@@ -31986,10 +33033,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/societe-de-bureaux-de-change-de-la-defense.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "societe-de-credit-antilles-guyane",
@@ -32032,7 +33076,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/societe-europeenne-de-gestion-financiere-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "societe-europeenne-financement-location",
@@ -32048,10 +33095,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/societe-financiere-remoise.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "societe-francaise-de-financement-et-d4assurance",
@@ -32118,7 +33162,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sofica-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sofidy-financement",
@@ -32253,10 +33300,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/solpay.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "solubail",
@@ -32560,7 +33604,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/statere-finance-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "stella-holding",
@@ -32598,7 +33645,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/stellium-invest-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "stephane-delcourt",
@@ -32625,7 +33675,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/stievenart-capital-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "stm",
@@ -32688,7 +33741,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/strategie-finance-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "strategie-investissement",
@@ -32731,7 +33787,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/strateg-inov-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "strateginvest",
@@ -32762,8 +33821,8 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/strat-fi.webp",
-        "dark": false
+        "src": "/assets/logos/dir/strat-fi-reprise-20260915.webp",
+        "dark": true
       }
     },
     {
@@ -32921,7 +33980,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/swiss-life-banque-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sydel",
@@ -32951,7 +34013,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sylk-conseils-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sylpa-le2",
@@ -32967,7 +34032,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/symphonium-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "synalp-groupe",
@@ -33026,7 +34094,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tanguy-finances-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tauxpremier-com",
@@ -33064,10 +34135,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/tds-credit.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "templar-finance-et-assurances",
@@ -33097,7 +34165,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/terrae-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tessi-encaissements",
@@ -33127,7 +34198,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tetraktys-conseil-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tf-conseils",
@@ -33197,7 +34271,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/theseis-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "theseis-partenaires",
@@ -33254,7 +34331,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tikker-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "timalets-partners",
@@ -33282,7 +34362,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/tipeee.webp",
+        "src": "/assets/logos/dir/tipeee-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -33442,10 +34522,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/trade-station-sg.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "tradition-securities-and-futures",
@@ -33483,7 +34560,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/treeefle-gestion-privee-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "trilogie-cgp",
@@ -33540,7 +34620,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tsuru-patrimoine-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "tt-pret",
@@ -33556,7 +34639,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tudigo-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "twenty-six-patrimoine",
@@ -33564,7 +34650,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/twenty-six-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tylia-invest",
@@ -33591,7 +34680,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/uff-banque-conseil-en-gestion-de-patrimoine-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "ufifrance-patrimoine",
@@ -33640,7 +34732,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/uncredit-re-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "unifinancements",
@@ -33656,7 +34751,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/union-generale-des-placements-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "unipret",
@@ -33686,7 +34784,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/universite-jean-moulin-lyon-3-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "unixom",
@@ -33713,7 +34814,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/urban-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "urbanis-finance",
@@ -33762,7 +34866,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vakoa-gestion-privee-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "valacp",
@@ -33835,7 +34942,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/val-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "vallyber",
@@ -34018,7 +35128,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/vault-group.webp",
+        "src": "/assets/logos/dir/vault-group-reprise-20260915.webp",
         "dark": true
       }
     },
@@ -34052,10 +35162,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/vdh-concept.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "vdl-groupe",
@@ -34169,7 +35276,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/v-g-f-i-conseil-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "vi-advisory",
@@ -34502,10 +35612,7 @@
       "categories": [
         "cgp"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/vs-financements.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "v-s-i-paca",
@@ -34653,7 +35760,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/welys-family-office.webp",
+        "src": "/assets/logos/dir/welys-family-office-reprise-20260915.webp",
         "dark": true
       }
     },
@@ -34821,7 +35928,7 @@
         "cgp"
       ],
       "logo": {
-        "src": "/assets/logos/dir/yieldy.webp",
+        "src": "/assets/logos/dir/yieldy-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -34934,7 +36041,10 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/z-m-investissement-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "zoah-investissement",
@@ -35282,7 +36392,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alba-infra-partners-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "albarest-partners",
@@ -35378,7 +36491,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/altur-gestion-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "amazon-invest",
@@ -35408,7 +36524,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/amdg-private-equity-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "amethis",
@@ -35620,7 +36739,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/arjun-infrastructure-europe-sas-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "arkanum-partners",
@@ -35716,10 +36838,7 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/auxitex.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "axa-im-prime",
@@ -35957,10 +37076,7 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/burgundy-private-equity.webp",
-        "dark": false
-      }
+      "logo": false
     },
     {
       "slug": "butler-capital-partners",
@@ -36154,7 +37270,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/city-star-industry-investment-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "clint-capital",
@@ -36525,7 +37644,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/experienced-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "extendam",
@@ -37206,7 +38328,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/comptoir-du-private-equity-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "lexington-partners",
@@ -37288,7 +38413,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/matignon-investissement-et-gestion-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "mbo",
@@ -37623,7 +38751,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/oddo-bhf-asset-management-sas-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "omada-investment-managers-sas",
@@ -37686,7 +38817,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/paluel-marmont-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "parquest",
@@ -37948,7 +39082,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/schroders-capital-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "search-funds-france-network",
@@ -38134,7 +39271,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/stags-participations-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "swen-capital-partners",
@@ -38186,7 +39326,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/the-carlyle-group-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "tiic-advisor-sas",
@@ -38452,7 +39595,10 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/windhurst-neopar-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "yotta-capital-partners",
@@ -38545,7 +39691,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/arkea-asset-management-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "avanseo",
@@ -38594,7 +39743,10 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bridgepoint-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "capital-croissance",
@@ -39128,7 +40280,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/2050-do-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "360-capital-partners",
@@ -39185,7 +40340,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alma-mundi-ventures-sgeic-sa-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "alm-innovation",
@@ -39781,7 +40939,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/insead-business-angels-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "iris",
@@ -39822,7 +40983,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/janngo-capital-partners-sas-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "jeito-capital",
@@ -39885,7 +41049,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/localglobe-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "maif-impact",
@@ -39929,7 +41096,7 @@
         "fonds-vc"
       ],
       "logo": {
-        "src": "/assets/logos/dir/motier-ventures.webp",
+        "src": "/assets/logos/dir/motier-ventures-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -40270,7 +41437,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/slate-vc-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "sofinnova-partners",
@@ -40334,7 +41504,7 @@
         "fonds-vc"
       ],
       "logo": {
-        "src": "/assets/logos/dir/technofounders.webp",
+        "src": "/assets/logos/dir/technofounders-reprise-20260915.webp",
         "dark": false
       }
     },
@@ -40344,7 +41514,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tomcat-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "truffle-capital",
@@ -40363,7 +41536,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/united-founders-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "ventech",
@@ -40393,10 +41569,7 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": {
-        "src": "/assets/logos/dir/white-star-capital-france-sas.webp",
-        "dark": true
-      }
+      "logo": false
     },
     {
       "slug": "wind-venture",
@@ -40431,7 +41604,10 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/yaday-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "caplight",
@@ -40450,7 +41626,10 @@
       "categories": [
         "secondaire"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clifton-partners-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "coller-capital-ltd",
@@ -40686,7 +41865,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jetfly-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "lunajets",
@@ -40694,7 +41876,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lunajets-reprise-20260915.webp",
+        "dark": false
+      }
     },
     {
       "slug": "netjets",
@@ -40713,7 +41898,10 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vistajet-reprise-20260915.webp",
+        "dark": true
+      }
     },
     {
       "slug": "exillium",

@@ -89,8 +89,16 @@ html{scroll-behavior:smooth}
 .toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
 .toc a:hover{border-color:var(--accent);color:var(--accent)}
 @media(max-width:760px){.bigstat .n{font-size:46px}}
+
+/* Logos contrôlés le 15 septembre 2026 */
+.hero.wl{display:flex;gap:24px;align-items:flex-start}.hero.wl>.hb{min-width:0}
+.flogo{flex:none;width:88px;height:88px;border-radius:20px;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#fff;border:1px solid var(--line)}
+.flogo.dk{background:#182326;border-color:#182326}.flogo.wd{width:148px}.flogo.xw{width:230px}
+.flogo img{width:100%;height:100%;object-fit:contain;padding:10px;box-sizing:border-box}
+@media(max-width:760px){.hero.wl{gap:14px}.flogo{width:60px;height:60px;border-radius:14px}.flogo.wd{width:108px}.flogo.xw{width:190px}.flogo img{padding:7px}}
+@media(max-width:480px){.hero.wl{flex-direction:column}.hero.wl>.hb{width:100%}.flogo.xw{width:190px;max-width:100%}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://stags.fr"], "name": "Stags Participations", "url": "https://www.exit.club/f/stags-participations"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "sameAs": ["https://stags.fr/"], "name": "Stags Participations", "url": "https://www.exit.club/f/stags-participations", "logo": "https://www.exit.club/assets/logos/dir/stags-participations-reprise-20260915.webp"}</script>
 <link rel="stylesheet" href="/assets/annuaire-navigation.css?v=20260915">
 </head>
 <body>
@@ -106,11 +114,11 @@ html{scroll-behavior:smooth}
 
   <div class="crumb"><a href="/ecosysteme">L’Annuaire de l’Exit</a> · <a href="/ecosysteme#fonds-pe">Fonds de Private Equity &amp; LBO</a></div>
 
-  <section class="hero">
+  <section class="hero wl"><div class="flogo"><img src="/assets/logos/dir/stags-participations-reprise-20260915.webp" alt="Stags Participations" width="130" height="240" decoding="async"></div><div class="hb">
     <p class="over">Profil référencé · non revendiqué</p>
     <h1 class="disp">Stags Participations</h1>
     <a class="tag" href="/ecosysteme#fonds-pe">Fonds de Private Equity &amp; LBO</a>
-  </section>
+  </div></section>
 
   <nav class="toc">
     <a href="#etiquette">Rémunération et frais</a>
@@ -120,7 +128,7 @@ html{scroll-behavior:smooth}
     <a href="#interview">L'interview sans filtre</a>
   </nav>
 
-  <div class="card"><div class="k">Repères</div><p>Fonds de Private Equity &amp; LBO : réinvestissement au capital de sociétés non cotées.</p><p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://stags.fr" target="_blank" rel="noopener nofollow">stags.fr</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Stags%20Participations" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
+  <div class="card"><div class="k">Repères</div><p>Fonds de Private Equity &amp; LBO : réinvestissement au capital de sociétés non cotées.</p><p style="margin-top:10px;font-size:13px"><a class="sitel" href="https://stags.fr/" target="_blank" rel="noopener nofollow">stags.fr</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Stags%20Participations" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
 
   <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">GD</div><div><b>Grégoire de Castelnau</b><span>Directeur Général</span></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Équipe identifiée par recherche Exit Club. <a href="mailto:louis@exit.club?subject=Profil%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
 

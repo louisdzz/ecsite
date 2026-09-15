@@ -171,12 +171,13 @@
     "nom": "Acacia Legal"
   },
   "acceo-conseil": {
-    "f": "/assets/logos/dir/acceo-conseil.webp",
+    "f": "/assets/logos/dir/acceo-conseil-reprise-20260915.webp",
+    "nom": "Acceo Conseil",
+    "w": 180,
+    "h": 91,
     "dark": false,
-    "wide": false,
-    "w": 32,
-    "h": 32,
-    "nom": "Acceo Conseil"
+    "wide": true,
+    "xwide": false
   },
   "accesfi": {
     "f": "/assets/logos/dir/accesfi-audit-20260913.webp",
@@ -1063,12 +1064,13 @@
     "nom": "Asselio Patrimoine"
   },
   "association-bancaire-pour-l-euro-abe-eur": {
-    "f": "/assets/logos/dir/association-bancaire-pour-l-euro-abe-eur.webp",
+    "f": "/assets/logos/dir/association-bancaire-pour-l-euro-abe-eur-reprise-20260915.webp",
+    "nom": "Association Bancaire Pour L'Euro ABE EUR",
+    "w": 291,
+    "h": 91,
     "dark": false,
-    "wide": false,
-    "w": 173,
-    "h": 173,
-    "nom": "Association Bancaire Pour L'Euro ABE EUR"
+    "wide": true,
+    "xwide": false
   },
   "assurfinance": {
     "f": "/assets/logos/dir/assurfinance-audit-20260913.webp",
@@ -1111,14 +1113,6 @@
     "w": 88,
     "h": 90,
     "nom": "Astorg Partner"
-  },
-  "astyrian-patrimoine": {
-    "f": "/assets/logos/dir/astyrian-patrimoine.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 65,
-    "nom": "Astyrian Patrimoine"
   },
   "at-gestion-privee": {
     "f": "/assets/logos/dir/at-gestion-privee.webp",
@@ -1228,12 +1222,13 @@
     "xwide": false
   },
   "auris": {
-    "f": "/assets/logos/dir/auris.webp",
+    "f": "/assets/logos/dir/auris-reprise-20260915.webp",
+    "nom": "Auris",
+    "w": 299,
+    "h": 155,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 54,
-    "nom": "Auris"
+    "xwide": false
   },
   "aussitauxpret": {
     "f": "/assets/logos/dir/aussitauxpret.webp",
@@ -1242,14 +1237,6 @@
     "w": 192,
     "h": 22,
     "nom": "Aussitauxpret"
-  },
-  "auxitex": {
-    "f": "/assets/logos/dir/auxitex.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 68,
-    "nom": "Auxitex"
   },
   "avalon-capital": {
     "f": "/assets/logos/dir/avalon-capital.webp",
@@ -1350,14 +1337,6 @@
     "h": 76,
     "nom": "Azulis Capital"
   },
-  "bail-finance-solutions": {
-    "f": "/assets/logos/dir/bail-finance-solutions.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 68,
-    "nom": "Bail Finance Solutions"
-  },
   "baker-mckenzie": {
     "f": "/assets/logos/dir/baker-mckenzie.webp",
     "dark": false,
@@ -1457,14 +1436,6 @@
     "h": 192,
     "nom": "Barclays Private Bank (Suisse)"
   },
-  "baring-france": {
-    "f": "/assets/logos/dir/baring-france.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 32,
-    "nom": "Baring France"
-  },
   "baussant-conseil": {
     "f": "/assets/logos/dir/baussant-conseil.webp",
     "dark": false,
@@ -1497,14 +1468,6 @@
     "w": 192,
     "h": 129,
     "nom": "BD Conseils"
-  },
-  "bdmat": {
-    "f": "/assets/logos/dir/bdmat.webp",
-    "dark": false,
-    "wide": false,
-    "w": 98,
-    "h": 97,
-    "nom": "Bdmat"
   },
   "beaureale-investments-france": {
     "f": "/assets/logos/dir/beaureale-investments-france.webp",
@@ -1680,14 +1643,6 @@
     "wide": true,
     "xwide": true
   },
-  "bordeaux-sud": {
-    "f": "/assets/logos/dir/bordeaux-sud.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 45,
-    "nom": "Bordeaux SUD"
-  },
   "bordier-cie": {
     "f": "/assets/logos/dir/bordier-cie-audit-20260913.webp",
     "nom": "Bordier & Cie",
@@ -1738,14 +1693,6 @@
     "h": 42,
     "nom": "BRED Banque Privée"
   },
-  "breizh-conseil-credits": {
-    "f": "/assets/logos/dir/breizh-conseil-credits.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 38,
-    "nom": "Breizh Conseil Credits"
-  },
   "breizh-conseils-patrimoine": {
     "f": "/assets/logos/dir/breizh-conseils-patrimoine.webp",
     "dark": false,
@@ -1763,12 +1710,13 @@
     "nom": "Breizh Rebond"
   },
   "brighteye-research-paris": {
-    "f": "/assets/logos/dir/brighteye-research-paris.webp",
+    "f": "/assets/logos/dir/brighteye-research-paris-reprise-20260915.webp",
+    "nom": "Brighteye Research Paris",
+    "w": 600,
+    "h": 89,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 60,
-    "nom": "Brighteye Research Paris"
+    "xwide": true
   },
   "brookfield": {
     "f": "/assets/logos/dir/brookfield-audit-20260913.webp",
@@ -1796,22 +1744,6 @@
     "h": 84,
     "nom": "Bureau Finance Epargne"
   },
-  "burgundy-private-equity": {
-    "f": "/assets/logos/dir/burgundy-private-equity.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 108,
-    "nom": "Burgundy Private Equity"
-  },
-  "business-courtage-conseil-finances": {
-    "f": "/assets/logos/dir/business-courtage-conseil-finances.webp",
-    "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Business Courtage Conseil Finances"
-  },
   "bwk-legal": {
     "f": "/assets/logos/dir/bwk-legal.webp",
     "dark": false,
@@ -1827,22 +1759,6 @@
     "w": 192,
     "h": 49,
     "nom": "Byway Capital"
-  },
-  "c-c-f-a": {
-    "f": "/assets/logos/dir/c-c-f-a.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 105,
-    "nom": "C.C.F.A"
-  },
-  "c-f-h": {
-    "f": "/assets/logos/dir/c-f-h.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 68,
-    "nom": "C.F.H"
   },
   "c-f-p": {
     "f": "/assets/logos/dir/c-f-p.webp",
@@ -1861,12 +1777,13 @@
     "nom": "C I B Finance"
   },
   "c-ma-solution": {
-    "f": "/assets/logos/dir/c-ma-solution.webp",
+    "f": "/assets/logos/dir/c-ma-solution-reprise-20260915.webp",
+    "nom": "C MA Solution",
+    "w": 240,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 103,
-    "nom": "C MA Solution"
+    "xwide": false
   },
   "c-v-finance": {
     "f": "/assets/logos/dir/c-v-finance.webp",
@@ -1901,20 +1818,13 @@
     "nom": "Cabinet FB Finances"
   },
   "cabinet-philippe-gaffinel": {
-    "f": "/assets/logos/dir/cabinet-philippe-gaffinel.webp",
+    "f": "/assets/logos/dir/cabinet-philippe-gaffinel-reprise-20260915.webp",
+    "nom": "Cabinet Philippe Gaffinel",
+    "w": 600,
+    "h": 224,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Cabinet Philippe Gaffinel"
-  },
-  "cabinet-philippe-ouanson": {
-    "f": "/assets/logos/dir/cabinet-philippe-ouanson.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Cabinet Philippe Ouanson"
+    "wide": true,
+    "xwide": false
   },
   "cabinet-z-t": {
     "f": "/assets/logos/dir/cabinet-z-t.webp",
@@ -1973,12 +1883,13 @@
     "nom": "Campbell Lutyens"
   },
   "canopia-gestion-privee": {
-    "f": "/assets/logos/dir/canopia-gestion-privee.webp",
+    "f": "/assets/logos/dir/canopia-gestion-privee-reprise-20260915.webp",
+    "nom": "Canopia Gestion Privee",
+    "w": 600,
+    "h": 224,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 63,
-    "nom": "Canopia Gestion Privee"
+    "xwide": false
   },
   "canopy-avocats": {
     "f": "/assets/logos/dir/canopy-avocats.webp",
@@ -1997,12 +1908,13 @@
     "nom": "CAP Credit"
   },
   "cap-finance-et-courtage": {
-    "f": "/assets/logos/dir/cap-finance-et-courtage.webp",
+    "f": "/assets/logos/dir/cap-finance-et-courtage-reprise-20260915.webp",
+    "nom": "CAP Finance ET Courtage",
+    "w": 320,
+    "h": 137,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 82,
-    "nom": "CAP Finance ET Courtage"
+    "xwide": false
   },
   "cap-or-numismatique": {
     "f": "/assets/logos/dir/cap-or-numismatique.webp",
@@ -2043,14 +1955,6 @@
     "w": 192,
     "h": 66,
     "nom": "Capital Croissance"
-  },
-  "capital-croissance-immobilier": {
-    "f": "/assets/logos/dir/capital-croissance-immobilier.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 66,
-    "nom": "Capital Croissance Immobilier"
   },
   "capital-export": {
     "f": "/assets/logos/dir/capital-export.webp",
@@ -2199,14 +2103,6 @@
     "w": 167,
     "h": 106,
     "nom": "CB Patrimoine Conseil"
-  },
-  "cci-finance": {
-    "f": "/assets/logos/dir/cci-finance.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "CCI Finance"
   },
   "ccr-invest": {
     "f": "/assets/logos/dir/ccr-invest-audit-20260913.webp",
@@ -2498,12 +2394,13 @@
     "xwide": false
   },
   "cks-courtage-immobilier": {
-    "f": "/assets/logos/dir/cks-courtage-immobilier.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/cks-courtage-immobilier-reprise-20260915.webp",
+    "nom": "CKS Courtage Immobilier",
+    "w": 240,
+    "h": 240,
+    "dark": true,
     "wide": false,
-    "w": 192,
-    "h": 92,
-    "nom": "CKS Courtage Immobilier"
+    "xwide": false
   },
   "cl-finances": {
     "f": "/assets/logos/dir/cl-finances.webp",
@@ -2593,14 +2490,6 @@
     "w": 192,
     "h": 80,
     "nom": "Coach Finance"
-  },
-  "cofisem": {
-    "f": "/assets/logos/dir/cofisem.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 83,
-    "nom": "Cofisem"
   },
   "cogerel": {
     "f": "/assets/logos/dir/cogerel.webp",
@@ -2748,22 +2637,6 @@
     "h": 81,
     "nom": "Courtage Credits Conseils"
   },
-  "courtage-finance-49": {
-    "f": "/assets/logos/dir/courtage-finance-49.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 48,
-    "nom": "Courtage Finance 49"
-  },
-  "courtage-finance-conseil": {
-    "f": "/assets/logos/dir/courtage-finance-conseil.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 48,
-    "nom": "Courtage Finance Conseil"
-  },
   "courteam-financement": {
     "f": "/assets/logos/dir/courteam-financement.webp",
     "dark": false,
@@ -2789,12 +2662,13 @@
     "nom": "Cover ONE"
   },
   "crea-patrimoine": {
-    "f": "/assets/logos/dir/crea-patrimoine.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/crea-patrimoine-reprise-20260915.webp",
+    "nom": "Crea Patrimoine",
+    "w": 600,
+    "h": 227,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 58,
-    "nom": "Crea Patrimoine"
+    "xwide": false
   },
   "credifi": {
     "f": "/assets/logos/dir/credifi.webp",
@@ -2944,14 +2818,6 @@
     "h": 50,
     "nom": "Crescent Capital"
   },
-  "cristal-groupe-international": {
-    "f": "/assets/logos/dir/cristal-groupe-international.webp",
-    "dark": false,
-    "wide": false,
-    "w": 114,
-    "h": 109,
-    "nom": "Cristal Groupe International"
-  },
   "cs-courtage-immo": {
     "f": "/assets/logos/dir/cs-courtage-immo.webp",
     "dark": false,
@@ -3018,14 +2884,6 @@
     "nom": "Darrois Villey",
     "src": "https://www.darrois.com/wp-content/uploads/2019/12/darrois-300x300.jpg",
     "rescue": true
-  },
-  "dauphine-asset-management": {
-    "f": "/assets/logos/dir/dauphine-asset-management.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Dauphine Asset Management"
   },
   "david-laget-courtage": {
     "f": "/assets/logos/dir/david-laget-courtage.webp",
@@ -3167,12 +3025,13 @@
     "nom": "DIE Swaene Finance"
   },
   "dima-conseil": {
-    "f": "/assets/logos/dir/dima-conseil.webp",
+    "f": "/assets/logos/dir/dima-conseil-reprise-20260915.webp",
+    "nom": "Dima Conseil",
+    "w": 600,
+    "h": 90,
     "dark": false,
-    "wide": false,
-    "w": 62,
-    "h": 31,
-    "nom": "Dima Conseil"
+    "wide": true,
+    "xwide": true
   },
   "dlcm-finances": {
     "f": "/assets/logos/dir/dlcm-finances.webp",
@@ -3254,14 +3113,6 @@
     "w": 192,
     "h": 53,
     "nom": "DTB Wealth Management"
-  },
-  "e-2c-f": {
-    "f": "/assets/logos/dir/e-2c-f.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 26,
-    "nom": "E.2C.F"
   },
   "e-monetique": {
     "f": "/assets/logos/dir/e-monetique.webp",
@@ -3416,14 +3267,6 @@
     "w": 192,
     "h": 131,
     "nom": "EM Courtage"
-  },
-  "emc2-conseil": {
-    "f": "/assets/logos/dir/emc2-conseil.webp",
-    "dark": false,
-    "wide": false,
-    "w": 181,
-    "h": 86,
-    "nom": "EMC2 Conseil"
   },
   "emd-conseils": {
     "f": "/assets/logos/dir/emd-conseils.webp",
@@ -3655,14 +3498,6 @@
     "h": 192,
     "nom": "Éthique et Patrimoine"
   },
-  "eti": {
-    "f": "/assets/logos/dir/eti.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 46,
-    "nom": "ETI"
-  },
   "eurazeo": {
     "f": "/assets/logos/dir/eurazeo.webp",
     "dark": false,
@@ -3687,14 +3522,6 @@
     "w": 97,
     "h": 97,
     "nom": "Euro Courtage"
-  },
-  "euro-pacific-finance": {
-    "f": "/assets/logos/dir/euro-pacific-finance.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 40,
-    "nom": "Euro Pacific Finance"
   },
   "eurocourtage-6": {
     "f": "/assets/logos/dir/eurocourtage-6.webp",
@@ -3770,14 +3597,6 @@
     "h": 109,
     "nom": "Expert ET Patrimoine"
   },
-  "experts-credits": {
-    "f": "/assets/logos/dir/experts-credits.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 75,
-    "nom": "Experts &amp; Credits"
-  },
   "expole-patrimoine": {
     "f": "/assets/logos/dir/expole-patrimoine.webp",
     "dark": false,
@@ -3811,14 +3630,6 @@
     "h": 61,
     "nom": "Fa7 Capital"
   },
-  "fair-e": {
-    "f": "/assets/logos/dir/fair-e.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 90,
-    "nom": "Fair-e"
-  },
   "familiance": {
     "f": "/assets/logos/dir/familiance.webp",
     "dark": true,
@@ -3828,12 +3639,13 @@
     "nom": "Familiance"
   },
   "family-and-office": {
-    "f": "/assets/logos/dir/family-and-office.webp",
+    "f": "/assets/logos/dir/family-and-office-reprise-20260915.webp",
+    "nom": "Family AND Office",
+    "w": 413,
+    "h": 165,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Family AND Office"
+    "xwide": false
   },
   "family-partners": {
     "f": "/assets/logos/dir/family-partners.webp",
@@ -3850,22 +3662,6 @@
     "w": 192,
     "h": 29,
     "nom": "FDJ United"
-  },
-  "ferless-conseil": {
-    "f": "/assets/logos/dir/ferless-conseil.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 39,
-    "nom": "Ferless Conseil"
-  },
-  "ferless-conseil-com": {
-    "f": "/assets/logos/dir/ferless-conseil-com.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 39,
-    "nom": "Ferless-conseil.com"
   },
   "fgref": {
     "f": "/assets/logos/dir/fgref.webp",
@@ -3974,12 +3770,13 @@
     "xwide": false
   },
   "finance-et-tradition-2": {
-    "f": "/assets/logos/dir/finance-et-tradition-2.webp",
+    "f": "/assets/logos/dir/finance-et-tradition-2-reprise-20260915.webp",
+    "nom": "Finance ET Tradition 2",
+    "w": 165,
+    "h": 86,
     "dark": false,
     "wide": true,
-    "w": 191,
-    "h": 40,
-    "nom": "Finance ET Tradition 2"
+    "xwide": false
   },
   "finance-invest": {
     "f": "/assets/logos/dir/finance-invest-audit-20260913.webp",
@@ -4195,14 +3992,6 @@
     "h": 57,
     "nom": "Firstminute Capital"
   },
-  "fiscae": {
-    "f": "/assets/logos/dir/fiscae.webp",
-    "dark": false,
-    "wide": false,
-    "w": 150,
-    "h": 150,
-    "nom": "Fiscae"
-  },
   "fj-labs": {
     "f": "/assets/logos/dir/fj-labs.webp",
     "dark": false,
@@ -4385,14 +4174,6 @@
     "h": 63,
     "nom": "GENEO Capital Entrepreneur"
   },
-  "gestion-finance-et-patrimoine": {
-    "f": "/assets/logos/dir/gestion-finance-et-patrimoine.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "Gestion Finance et Patrimoine"
-  },
   "giano-capital": {
     "f": "/assets/logos/dir/giano-capital.webp",
     "dark": false,
@@ -4417,14 +4198,6 @@
     "w": 192,
     "h": 60,
     "nom": "Gilbert Dupont"
-  },
-  "glassy": {
-    "f": "/assets/logos/dir/glassy.webp",
-    "dark": false,
-    "wide": false,
-    "w": 81,
-    "h": 79,
-    "nom": "Glassy"
   },
   "glb-conseil-et-finance": {
     "f": "/assets/logos/dir/glb-conseil-et-finance.webp",
@@ -4816,29 +4589,14 @@
     "h": 46,
     "nom": "Honoré Gestion Privée"
   },
-  "hool": {
-    "f": "/assets/logos/dir/hool.webp",
-    "dark": false,
-    "wide": false,
-    "w": 121,
-    "h": 82,
-    "nom": "Hool"
-  },
   "horizon-financement": {
-    "f": "/assets/logos/dir/horizon-financement.webp",
-    "dark": false,
-    "wide": false,
-    "w": 134,
-    "h": 150,
-    "nom": "Horizon Financement"
-  },
-  "howhen-group": {
-    "f": "/assets/logos/dir/howhen-group.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 158,
-    "nom": "Howhen Group"
+    "f": "/assets/logos/dir/horizon-financement-reprise-20260915.webp",
+    "nom": "Horizon Financement",
+    "w": 270,
+    "h": 75,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "hr-finance": {
     "f": "/assets/logos/dir/hr-finance.webp",
@@ -4905,22 +4663,6 @@
     "h": 38,
     "nom": "iCapital"
   },
-  "icc-saint-jean": {
-    "f": "/assets/logos/dir/icc-saint-jean.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 191,
-    "nom": "ICC Saint-Jean"
-  },
-  "icc-toulouse-nord": {
-    "f": "/assets/logos/dir/icc-toulouse-nord.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 153,
-    "nom": "ICC Toulouse Nord"
-  },
   "id-distribution": {
     "f": "/assets/logos/dir/id-distribution.webp",
     "dark": false,
@@ -4944,14 +4686,6 @@
     "w": 192,
     "h": 64,
     "nom": "Iddem Conseil"
-  },
-  "idea-patrimoine": {
-    "f": "/assets/logos/dir/idea-patrimoine.webp",
-    "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Idea Patrimoine"
   },
   "ideal-capital": {
     "f": "/assets/logos/dir/ideal-capital.webp",
@@ -5093,12 +4827,13 @@
     "nom": "ING"
   },
   "ingenierie-financiere": {
-    "f": "/assets/logos/dir/ingenierie-financiere.webp",
+    "f": "/assets/logos/dir/ingenierie-financiere-reprise-20260915.webp",
+    "nom": "Ingenierie Financiere",
+    "w": 150,
+    "h": 70,
     "dark": false,
     "wide": true,
-    "w": 150,
-    "h": 38,
-    "nom": "Ingenierie Financiere"
+    "xwide": false
   },
   "initiative-finance": {
     "f": "/assets/logos/dir/initiative-finance-audit-20260913.webp",
@@ -5144,12 +4879,13 @@
     "nom": "InnovaFonds"
   },
   "inovea-finance": {
-    "f": "/assets/logos/dir/inovea-finance.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/inovea-finance-reprise-20260915.webp",
+    "nom": "Inovea Finance",
+    "w": 525,
+    "h": 240,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 81,
-    "nom": "Inovea Finance"
+    "xwide": false
   },
   "institut-du-patrimoine-groupe-patrimmofi": {
     "f": "/assets/logos/dir/institut-du-patrimoine-groupe-patrimmofi.webp",
@@ -5209,12 +4945,13 @@
     "nom": "Investimium"
   },
   "ip-conseils": {
-    "f": "/assets/logos/dir/ip-conseils.webp",
+    "f": "/assets/logos/dir/ip-conseils-reprise-20260915.webp",
+    "nom": "IP Conseils",
+    "w": 388,
+    "h": 136,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 58,
-    "nom": "IP Conseils"
+    "xwide": false
   },
   "ipsum-conseils": {
     "f": "/assets/logos/dir/ipsum-conseils-audit-20260913.webp",
@@ -5343,12 +5080,13 @@
     "nom": "Jerikho IM"
   },
   "jiminy-conseil": {
-    "f": "/assets/logos/dir/jiminy-conseil.webp",
+    "f": "/assets/logos/dir/jiminy-conseil-reprise-20260915.webp",
+    "nom": "Jiminy Conseil",
+    "w": 200,
+    "h": 91,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 58,
-    "nom": "Jiminy Conseil"
+    "xwide": false
   },
   "jl-conseils": {
     "f": "/assets/logos/dir/jl-conseils.webp",
@@ -5423,12 +5161,13 @@
     "nom": "JPG Capital Conseil"
   },
   "jubile": {
-    "f": "/assets/logos/dir/jubile.webp",
+    "f": "/assets/logos/dir/jubile-reprise-20260915.webp",
+    "nom": "Jubile",
+    "w": 387,
+    "h": 69,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 87,
-    "nom": "Jubile"
+    "xwide": true
   },
   "jurexfi": {
     "f": "/assets/logos/dir/jurexfi.webp",
@@ -5469,14 +5208,6 @@
     "w": 192,
     "h": 85,
     "nom": "Kara Finances"
-  },
-  "kariti-finance": {
-    "f": "/assets/logos/dir/kariti-finance.webp",
-    "dark": false,
-    "wide": false,
-    "w": 99,
-    "h": 192,
-    "nom": "Kariti Finance"
   },
   "kasa": {
     "f": "/assets/logos/dir/kasa.webp",
@@ -5659,14 +5390,6 @@
     "wide": false,
     "xwide": false
   },
-  "la-fontaine-family-office": {
-    "f": "/assets/logos/dir/la-fontaine-family-office.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 114,
-    "nom": "La Fontaine Family Office"
-  },
   "la-maison-du-pret-immobilier": {
     "f": "/assets/logos/dir/la-maison-du-pret-immobilier-audit-20260913.webp",
     "nom": "LA Maison DU Pret Immobilier",
@@ -5817,14 +5540,6 @@
     "h": 53,
     "nom": "LE Courtier Pontissalien"
   },
-  "le-doss": {
-    "f": "/assets/logos/dir/le-doss.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "LE Doss"
-  },
   "leone-kapital": {
     "f": "/assets/logos/dir/leone-kapital.webp",
     "dark": false,
@@ -5898,12 +5613,13 @@
     "nom": "Lexington Partners"
   },
   "lfc-courtage": {
-    "f": "/assets/logos/dir/lfc-courtage.webp",
-    "dark": false,
-    "wide": false,
-    "w": 57,
-    "h": 63,
-    "nom": "LFC Courtage"
+    "f": "/assets/logos/dir/lfc-courtage-reprise-20260915.webp",
+    "nom": "LFC Courtage",
+    "w": 555,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   },
   "lfpi-gestion": {
     "f": "/assets/logos/dir/lfpi-gestion.webp",
@@ -6003,14 +5719,6 @@
     "w": 182,
     "h": 39,
     "nom": "LL Berg"
-  },
-  "ll-conseils-31": {
-    "f": "/assets/logos/dir/ll-conseils-31.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 49,
-    "nom": "LL Conseils 31"
   },
   "lm-courtage": {
     "f": "/assets/logos/dir/lm-courtage.webp",
@@ -6226,14 +5934,6 @@
     "h": 23,
     "nom": "Malakoff Humanis Innov'"
   },
-  "mama": {
-    "f": "/assets/logos/dir/mama.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 78,
-    "nom": "Mama"
-  },
   "mandiri": {
     "f": "/assets/logos/dir/mandiri.webp",
     "dark": false,
@@ -6434,14 +6134,6 @@
     "h": 53,
     "nom": "Meridiam"
   },
-  "mesa-verde": {
-    "f": "/assets/logos/dir/mesa-verde.webp",
-    "dark": false,
-    "wide": false,
-    "w": 129,
-    "h": 192,
-    "nom": "Mesa Verde"
-  },
   "meta-gestion-privee": {
     "f": "/assets/logos/dir/meta-gestion-privee.webp",
     "dark": false,
@@ -6614,14 +6306,6 @@
     "h": 51,
     "nom": "MON Courtier"
   },
-  "mon-courtier-pro-toulon": {
-    "f": "/assets/logos/dir/mon-courtier-pro-toulon.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 51,
-    "nom": "MON Courtier PRO Toulon"
-  },
   "mon-intermediaire-financier": {
     "f": "/assets/logos/dir/mon-intermediaire-financier.webp",
     "dark": false,
@@ -6653,14 +6337,6 @@
     "w": 118,
     "h": 192,
     "nom": "Monassier &amp; Associés"
-  },
-  "moncourtier-com": {
-    "f": "/assets/logos/dir/moncourtier-com.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 51,
-    "nom": "Moncourtier.Com"
   },
   "monext": {
     "f": "/assets/logos/dir/monext-audit-20260913.webp",
@@ -6761,12 +6437,13 @@
     "nom": "Morgan, Lewis &amp; Bockius UK LLP"
   },
   "motier-ventures": {
-    "f": "/assets/logos/dir/motier-ventures.webp",
+    "f": "/assets/logos/dir/motier-ventures-reprise-20260915.webp",
+    "nom": "Motier Ventures",
+    "w": 547,
+    "h": 162,
     "dark": false,
-    "wide": false,
-    "w": 145,
-    "h": 167,
-    "nom": "Motier Ventures"
+    "wide": true,
+    "xwide": false
   },
   "motion-equity-partners": {
     "f": "/assets/logos/dir/motion-equity-partners.webp",
@@ -6857,28 +6534,13 @@
     "nom": "Myrenego.Com"
   },
   "n3t": {
-    "f": "/assets/logos/dir/n3t.webp",
-    "dark": false,
-    "wide": false,
-    "w": 150,
-    "h": 75,
-    "nom": "N3T"
-  },
-  "na-courtage": {
-    "f": "/assets/logos/dir/na-courtage.webp",
+    "f": "/assets/logos/dir/n3t-reprise-20260915.webp",
+    "nom": "N3T",
+    "w": 599,
+    "h": 150,
     "dark": false,
     "wide": true,
-    "w": 115,
-    "h": 48,
-    "nom": "NA Courtage"
-  },
-  "national-prets-immobiliers": {
-    "f": "/assets/logos/dir/national-prets-immobiliers.webp",
-    "dark": true,
-    "wide": true,
-    "w": 142,
-    "h": 49,
-    "nom": "National Prets Immobiliers"
+    "xwide": false
   },
   "naxos-avocats": {
     "f": "/assets/logos/dir/naxos-avocats-audit-20260913.webp",
@@ -6898,12 +6560,13 @@
     "nom": "Neofi Patrimoine"
   },
   "neowise": {
-    "f": "/assets/logos/dir/neowise.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/neowise-reprise-20260915.webp",
+    "nom": "Neowise",
+    "w": 300,
+    "h": 169,
+    "dark": true,
     "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Neowise"
+    "xwide": false
   },
   "newalpha-asset-management": {
     "f": "/assets/logos/dir/newalpha-asset-management-audit-20260913.webp",
@@ -6915,12 +6578,13 @@
     "xwide": false
   },
   "nexa-avocats": {
-    "f": "/assets/logos/dir/nexa-avocats.webp",
+    "f": "/assets/logos/dir/nexa-avocats-reprise-20260915.webp",
+    "nom": "Nexa Avocats",
+    "w": 600,
+    "h": 151,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 42,
-    "nom": "Nexa Avocats"
+    "xwide": false
   },
   "nexo-capital": {
     "f": "/assets/logos/dir/nexo-capital-audit-20260913.webp",
@@ -6930,14 +6594,6 @@
     "dark": false,
     "wide": false,
     "xwide": false
-  },
-  "next-step-spa": {
-    "f": "/assets/logos/dir/next-step-spa.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 63,
-    "nom": "Next Step SPA"
   },
   "nextstage": {
     "f": "/assets/logos/dir/nextstage.webp",
@@ -6978,14 +6634,6 @@
     "w": 192,
     "h": 35,
     "nom": "NG Concept"
-  },
-  "ng-credit": {
-    "f": "/assets/logos/dir/ng-credit.webp",
-    "dark": false,
-    "wide": false,
-    "w": 32,
-    "h": 32,
-    "nom": "NG Credit"
   },
   "nixen": {
     "f": "/assets/logos/dir/nixen.webp",
@@ -7053,12 +6701,13 @@
     "nom": "Norton Rose Fulbright"
   },
   "notaires-office-bourg-en-bresse": {
-    "f": "/assets/logos/dir/notaires-office-bourg-en-bresse.webp",
+    "f": "/assets/logos/dir/notaires-office-bourg-en-bresse-reprise-20260915.webp",
+    "nom": "Notaires Office Bourg-en-Bresse",
+    "w": 600,
+    "h": 213,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 138,
-    "nom": "Notaires Office Bourg-en-Bresse"
+    "wide": true,
+    "xwide": false
   },
   "notrepartenaire": {
     "f": "/assets/logos/dir/notrepartenaire.webp",
@@ -7117,12 +6766,13 @@
     "nom": "Numa Conseil"
   },
   "numis-deutsche-numis": {
-    "f": "/assets/logos/dir/numis-deutsche-numis.webp",
+    "f": "/assets/logos/dir/numis-deutsche-numis-reprise-20260915.webp",
+    "nom": "Numis (Deutsche Numis)",
+    "w": 363,
+    "h": 51,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 51,
-    "nom": "Numis (Deutsche Numis)"
+    "xwide": true
   },
   "o-patrimoine": {
     "f": "/assets/logos/dir/o-patrimoine.webp",
@@ -7240,12 +6890,13 @@
     "nom": "Office Experts Patrimoine"
   },
   "office-patrimoine": {
-    "f": "/assets/logos/dir/office-patrimoine.webp",
+    "f": "/assets/logos/dir/office-patrimoine-reprise-20260915.webp",
+    "nom": "Office Patrimoine",
+    "w": 417,
+    "h": 240,
     "dark": false,
     "wide": false,
-    "w": 192,
-    "h": 89,
-    "nom": "Office Patrimoine"
+    "xwide": false
   },
   "officium": {
     "f": "/assets/logos/dir/officium.webp",
@@ -7443,22 +7094,6 @@
     "h": 58,
     "nom": "Ovas Patrimoine"
   },
-  "oximo": {
-    "f": "/assets/logos/dir/oximo.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 37,
-    "nom": "Oximo"
-  },
-  "p-g-a": {
-    "f": "/assets/logos/dir/p-g-a.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 173,
-    "nom": "P.G.A"
-  },
   "pai-partners": {
     "f": "/assets/logos/dir/pai-partners-audit-20260913.webp",
     "nom": "PAI Partners",
@@ -7649,14 +7284,6 @@
     "h": 147,
     "nom": "Pdgb"
   },
-  "pearl-advisory": {
-    "f": "/assets/logos/dir/pearl-advisory.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 45,
-    "nom": "Pearl Advisory"
-  },
   "pech-gestion-privee": {
     "f": "/assets/logos/dir/pech-gestion-privee.webp",
     "dark": false,
@@ -7762,12 +7389,13 @@
     "nom": "Phitrust Impact Investors"
   },
   "picard-credit-solutions": {
-    "f": "/assets/logos/dir/picard-credit-solutions.webp",
+    "f": "/assets/logos/dir/picard-credit-solutions-reprise-20260915.webp",
+    "nom": "Picard Credit Solutions",
+    "w": 600,
+    "h": 120,
     "dark": false,
-    "wide": false,
-    "w": 181,
-    "h": 192,
-    "nom": "Picard Credit Solutions"
+    "wide": true,
+    "xwide": false
   },
   "picardie-investissement-gestion": {
     "f": "/assets/logos/dir/picardie-investissement-gestion.webp",
@@ -7931,14 +7559,6 @@
     "h": 62,
     "nom": "Pret'Mium Financement"
   },
-  "pret-taux-caen": {
-    "f": "/assets/logos/dir/pret-taux-caen.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 64,
-    "nom": "Pret &amp; Taux Caen"
-  },
   "primaval-mediterranee": {
     "f": "/assets/logos/dir/primaval-mediterranee-audit-20260913.webp",
     "nom": "Primaval Méditerranée",
@@ -7988,14 +7608,6 @@
     "w": 192,
     "h": 53,
     "nom": "Process FI"
-  },
-  "profiscalis": {
-    "f": "/assets/logos/dir/profiscalis.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 115,
-    "nom": "Profiscalis"
   },
   "projefi": {
     "f": "/assets/logos/dir/projefi.webp",
@@ -8094,14 +7706,6 @@
     "h": 49,
     "nom": "Qualium Investissement"
   },
-  "quantx-finance": {
-    "f": "/assets/logos/dir/quantx-finance.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 31,
-    "nom": "Quantx Finance"
-  },
   "quatrimonia": {
     "f": "/assets/logos/dir/quatrimonia.webp",
     "dark": false,
@@ -8133,14 +7737,6 @@
     "w": 192,
     "h": 35,
     "nom": "Quintet Private Bank (LU)"
-  },
-  "quipu-digital": {
-    "f": "/assets/logos/dir/quipu-digital.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 50,
-    "nom": "Quipu Digital"
   },
   "r-l-conseil": {
     "f": "/assets/logos/dir/r-l-conseil.webp",
@@ -8191,22 +7787,6 @@
     "h": 55,
     "nom": "RD Consulting"
   },
-  "real-assets-investment-managers": {
-    "f": "/assets/logos/dir/real-assets-investment-managers.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 56,
-    "nom": "Real Assets Investment Managers"
-  },
-  "reb-im": {
-    "f": "/assets/logos/dir/reb-im.webp",
-    "dark": true,
-    "wide": true,
-    "w": 172,
-    "h": 62,
-    "nom": "Reb'Im"
-  },
   "red-river-west": {
     "f": "/assets/logos/dir/red-river-west.webp",
     "dark": false,
@@ -8256,14 +7836,6 @@
     "h": 98,
     "nom": "Retraite Patrimoine"
   },
-  "reversim": {
-    "f": "/assets/logos/dir/reversim.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 64,
-    "nom": "Reversim"
-  },
   "rgreen-invest": {
     "f": "/assets/logos/dir/rgreen-invest.webp",
     "dark": false,
@@ -8271,14 +7843,6 @@
     "w": 192,
     "h": 52,
     "nom": "Rgreen Invest"
-  },
-  "rhone-capital": {
-    "f": "/assets/logos/dir/rhone-capital.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 122,
-    "nom": "Rhône Capital"
   },
   "rochevelle-gestion-privee": {
     "f": "/assets/logos/dir/rochevelle-gestion-privee-audit-20260913.webp",
@@ -8322,14 +7886,6 @@
     "w": 192,
     "h": 134,
     "nom": "RS Gestion"
-  },
-  "s-a-consulting": {
-    "f": "/assets/logos/dir/s-a-consulting.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 54,
-    "nom": "S&amp;A Consulting"
   },
   "sagard-sas": {
     "f": "/assets/logos/dir/sagard-sas.webp",
@@ -8418,14 +7974,6 @@
     "w": 192,
     "h": 168,
     "nom": "SAS EF2I"
-  },
-  "sas-la-preteuse": {
-    "f": "/assets/logos/dir/sas-la-preteuse.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 106,
-    "nom": "SAS LA Preteuse"
   },
   "sav-factor": {
     "f": "/assets/logos/dir/sav-factor.webp",
@@ -8671,12 +8219,13 @@
     "nom": "Smalt Capital"
   },
   "smart-lenders-asset-management": {
-    "f": "/assets/logos/dir/smart-lenders-asset-management.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 43,
-    "nom": "Smart Lenders Asset Management"
+    "f": "/assets/logos/dir/smart-lenders-asset-management-reprise-20260915.webp",
+    "nom": "Smart Lenders Asset Management",
+    "w": 325,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
   },
   "socadif": {
     "f": "/assets/logos/dir/socadif.webp",
@@ -8685,30 +8234,6 @@
     "w": 192,
     "h": 32,
     "nom": "Socadif"
-  },
-  "societe-commerciale-financiere-pw": {
-    "f": "/assets/logos/dir/societe-commerciale-financiere-pw.webp",
-    "dark": false,
-    "wide": false,
-    "w": 114,
-    "h": 114,
-    "nom": "Societe Commerciale Financiere PW"
-  },
-  "societe-de-bureaux-de-change-de-la-defense": {
-    "f": "/assets/logos/dir/societe-de-bureaux-de-change-de-la-defense.webp",
-    "dark": false,
-    "wide": false,
-    "w": 114,
-    "h": 114,
-    "nom": "Societe DE Bureaux DE Change DE LA Defense"
-  },
-  "societe-financiere-remoise": {
-    "f": "/assets/logos/dir/societe-financiere-remoise.webp",
-    "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 186,
-    "nom": "Societe Financiere Remoise"
   },
   "societe-generale-cib": {
     "f": "/assets/logos/dir/societe-generale-cib.webp",
@@ -8809,14 +8334,6 @@
     "w": 192,
     "h": 62,
     "nom": "Solidus Invest"
-  },
-  "solpay": {
-    "f": "/assets/logos/dir/solpay.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 61,
-    "nom": "Solpay"
   },
   "solufin": {
     "f": "/assets/logos/dir/solufin.webp",
@@ -8949,12 +8466,13 @@
     "nom": "Storen Innovation"
   },
   "strat-fi": {
-    "f": "/assets/logos/dir/strat-fi.webp",
-    "dark": false,
+    "f": "/assets/logos/dir/strat-fi-reprise-20260915.webp",
+    "nom": "Strat & FI",
+    "w": 498,
+    "h": 108,
+    "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 29,
-    "nom": "Strat &amp; FI"
+    "xwide": false
   },
   "strateggyz": {
     "f": "/assets/logos/dir/strateggyz.webp",
@@ -9071,14 +8589,6 @@
     "h": 39,
     "nom": "TD Cowen"
   },
-  "tds-credit": {
-    "f": "/assets/logos/dir/tds-credit.webp",
-    "dark": false,
-    "wide": false,
-    "w": 189,
-    "h": 124,
-    "nom": "TDS Credit"
-  },
   "techlife-capital": {
     "f": "/assets/logos/dir/techlife-capital.webp",
     "dark": false,
@@ -9088,12 +8598,13 @@
     "nom": "TechLife Capital"
   },
   "technofounders": {
-    "f": "/assets/logos/dir/technofounders.webp",
+    "f": "/assets/logos/dir/technofounders-reprise-20260915.webp",
+    "nom": "Technofounders",
+    "w": 600,
+    "h": 90,
     "dark": false,
     "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "Technofounders"
+    "xwide": true
   },
   "tenet-conseil": {
     "f": "/assets/logos/dir/tenet-conseil.webp",
@@ -9171,12 +8682,13 @@
     "nom": "Timalets Partners"
   },
   "tipeee": {
-    "f": "/assets/logos/dir/tipeee.webp",
+    "f": "/assets/logos/dir/tipeee-reprise-20260915.webp",
+    "nom": "Tipeee",
+    "w": 600,
+    "h": 226,
     "dark": false,
-    "wide": false,
-    "w": 137,
-    "h": 107,
-    "nom": "Tipeee"
+    "wide": true,
+    "xwide": false
   },
   "tirard-naudin": {
     "f": "/assets/logos/dir/tirard-naudin.webp",
@@ -9202,14 +8714,6 @@
     "dark": true,
     "wide": true,
     "xwide": false
-  },
-  "trade-station-sg": {
-    "f": "/assets/logos/dir/trade-station-sg.webp",
-    "dark": false,
-    "wide": false,
-    "w": 180,
-    "h": 180,
-    "nom": "Trade Station (SG)"
   },
   "trinity-gestion-privee": {
     "f": "/assets/logos/dir/trinity-gestion-privee.webp",
@@ -9406,20 +8910,13 @@
     "nom": "Vauban Patrimoine"
   },
   "vault-group": {
-    "f": "/assets/logos/dir/vault-group.webp",
+    "f": "/assets/logos/dir/vault-group-reprise-20260915.webp",
+    "nom": "Vault Group",
+    "w": 292,
+    "h": 60,
     "dark": true,
     "wide": true,
-    "w": 192,
-    "h": 62,
-    "nom": "Vault Group"
-  },
-  "vdh-concept": {
-    "f": "/assets/logos/dir/vdh-concept.webp",
-    "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 117,
-    "nom": "VDH Concept"
+    "xwide": false
   },
   "veil-jourde": {
     "f": "/assets/logos/dir/veil-jourde.webp",
@@ -9521,14 +9018,6 @@
     "h": 51,
     "nom": "VR Finance"
   },
-  "vs-financements": {
-    "f": "/assets/logos/dir/vs-financements.webp",
-    "dark": false,
-    "wide": true,
-    "w": 192,
-    "h": 66,
-    "nom": "VS Financements"
-  },
   "vxl-notaires": {
     "f": "/assets/logos/dir/vxl-notaires.webp",
     "dark": false,
@@ -9571,12 +9060,13 @@
     "nom": "Weinberg Capital Partners"
   },
   "welys-family-office": {
-    "f": "/assets/logos/dir/welys-family-office.webp",
+    "f": "/assets/logos/dir/welys-family-office-reprise-20260915.webp",
+    "nom": "Welys Family Office",
+    "w": 256,
+    "h": 122,
     "dark": true,
-    "wide": false,
-    "w": 192,
-    "h": 106,
-    "nom": "Welys Family Office"
+    "wide": true,
+    "xwide": false
   },
   "wendel": {
     "f": "/assets/logos/dir/wendel.webp",
@@ -9585,14 +9075,6 @@
     "w": 96,
     "h": 75,
     "nom": "Wendel"
-  },
-  "white-star-capital-france-sas": {
-    "f": "/assets/logos/dir/white-star-capital-france-sas.webp",
-    "dark": true,
-    "wide": true,
-    "w": 192,
-    "h": 41,
-    "nom": "White Star Capital France SAS"
   },
   "widoowin": {
     "f": "/assets/logos/dir/widoowin-audit-20260913.webp",
@@ -9664,12 +9146,13 @@
     "nom": "Y.Not"
   },
   "yieldy": {
-    "f": "/assets/logos/dir/yieldy.webp",
+    "f": "/assets/logos/dir/yieldy-reprise-20260915.webp",
+    "nom": "Yieldy",
+    "w": 215,
+    "h": 91,
     "dark": false,
-    "wide": false,
-    "w": 192,
-    "h": 192,
-    "nom": "Yieldy"
+    "wide": true,
+    "xwide": false
   },
   "yooliz": {
     "f": "/assets/logos/dir/yooliz-audit-20260913.webp",
@@ -18931,5 +18414,4190 @@
     "w": 512,
     "h": 512,
     "nom": "BlueFish Patrimoine"
+  },
+  "goodwin": {
+    "f": "/assets/logos/dir/goodwin-reprise-20260915.webp",
+    "nom": "Goodwin",
+    "w": 352,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "goldman-sachs": {
+    "f": "/assets/logos/dir/goldman-sachs-reprise-20260915.webp",
+    "nom": "Goldman Sachs",
+    "w": 572,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "a-b-f-conseil": {
+    "f": "/assets/logos/dir/a-b-f-conseil-reprise-20260915.webp",
+    "nom": "A B F Conseil",
+    "w": 480,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "a-coeur-patrimoine": {
+    "f": "/assets/logos/dir/a-coeur-patrimoine-reprise-20260915.webp",
+    "nom": "A Coeur Patrimoine",
+    "w": 200,
+    "h": 200,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "a-d-patrimoine": {
+    "f": "/assets/logos/dir/a-d-patrimoine-reprise-20260915.webp",
+    "nom": "A.D.Patrimoine",
+    "w": 457,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "a2d-finances": {
+    "f": "/assets/logos/dir/a2d-finances-reprise-20260915.webp",
+    "nom": "A2D Finances",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "a2g-patrimoine": {
+    "f": "/assets/logos/dir/a2g-patrimoine-reprise-20260915.webp",
+    "nom": "A2G Patrimoine",
+    "w": 252,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ab3c-patrimoine": {
+    "f": "/assets/logos/dir/ab3c-patrimoine-reprise-20260915.webp",
+    "nom": "AB3C Patrimoine",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "com-corporate-finance": {
+    "f": "/assets/logos/dir/com-corporate-finance-reprise-20260915.webp",
+    "nom": "@Com.Corporate-Finance",
+    "w": 372,
+    "h": 181,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "actuel-finances": {
+    "f": "/assets/logos/dir/actuel-finances-reprise-20260915.webp",
+    "nom": "Actuel Finances",
+    "w": 340,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ad-maiora": {
+    "f": "/assets/logos/dir/ad-maiora-reprise-20260915.webp",
+    "nom": "Ad Maiora",
+    "w": 466,
+    "h": 147,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "aditum-conseil": {
+    "f": "/assets/logos/dir/aditum-conseil-reprise-20260915.webp",
+    "nom": "Aditum Conseil",
+    "w": 278,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "affilior-gestion-privee": {
+    "f": "/assets/logos/dir/affilior-gestion-privee-reprise-20260915.webp",
+    "nom": "Affilior Gestion Privée",
+    "w": 600,
+    "h": 161,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "agora-conseil": {
+    "f": "/assets/logos/dir/agora-conseil-reprise-20260915.webp",
+    "nom": "Agora Conseil",
+    "w": 600,
+    "h": 197,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "akor-immo": {
+    "f": "/assets/logos/dir/akor-immo-reprise-20260915.webp",
+    "nom": "Akor Immo",
+    "w": 243,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "allais-participations-conseils": {
+    "f": "/assets/logos/dir/allais-participations-conseils-reprise-20260915.webp",
+    "nom": "Allais Participations Conseils",
+    "w": 475,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "allure-finance": {
+    "f": "/assets/logos/dir/allure-finance-reprise-20260915.webp",
+    "nom": "Allure Finance",
+    "w": 271,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "alpagos-patrimoine": {
+    "f": "/assets/logos/dir/alpagos-patrimoine-reprise-20260915.webp",
+    "nom": "Alpagos Patrimoine",
+    "w": 340,
+    "h": 205,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "alpex-gestion-privee": {
+    "f": "/assets/logos/dir/alpex-gestion-privee-reprise-20260915.webp",
+    "nom": "Alpex Gestion Privée",
+    "w": 241,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "alpin-capital": {
+    "f": "/assets/logos/dir/alpin-capital-reprise-20260915.webp",
+    "nom": "Alpin Capital",
+    "w": 368,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "alternative-patrimoine": {
+    "f": "/assets/logos/dir/alternative-patrimoine-reprise-20260915.webp",
+    "nom": "Alternative Patrimoine",
+    "w": 560,
+    "h": 145,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "altheo-partners": {
+    "f": "/assets/logos/dir/altheo-partners-reprise-20260915.webp",
+    "nom": "Altheo Partners",
+    "w": 571,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "altiore-patrimoine": {
+    "f": "/assets/logos/dir/altiore-patrimoine-reprise-20260915.webp",
+    "nom": "Altiore Patrimoine",
+    "w": 395,
+    "h": 177,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "altus-conseil": {
+    "f": "/assets/logos/dir/altus-conseil-reprise-20260915.webp",
+    "nom": "Altus Conseil",
+    "w": 311,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ambitus-patrimoine": {
+    "f": "/assets/logos/dir/ambitus-patrimoine-reprise-20260915.webp",
+    "nom": "Ambitus Patrimoine",
+    "w": 600,
+    "h": 219,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ambre-patrimoine": {
+    "f": "/assets/logos/dir/ambre-patrimoine-reprise-20260915.webp",
+    "nom": "Ambre Patrimoine",
+    "w": 438,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "antium-france": {
+    "f": "/assets/logos/dir/antium-france-reprise-20260915.webp",
+    "nom": "Antium France",
+    "w": 300,
+    "h": 150,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "argam-conseils": {
+    "f": "/assets/logos/dir/argam-conseils-reprise-20260915.webp",
+    "nom": "Argam Conseils",
+    "w": 524,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "arum-gestion-privee": {
+    "f": "/assets/logos/dir/arum-gestion-privee-reprise-20260915.webp",
+    "nom": "ARUM Gestion Privée",
+    "w": 251,
+    "h": 73,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "aston-conseil": {
+    "f": "/assets/logos/dir/aston-conseil-reprise-20260915.webp",
+    "nom": "Aston Conseil",
+    "w": 600,
+    "h": 116,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "astoria-finance": {
+    "f": "/assets/logos/dir/astoria-finance-reprise-20260915.webp",
+    "nom": "Astoria Finance",
+    "w": 567,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "athena": {
+    "f": "/assets/logos/dir/athena-reprise-20260915.webp",
+    "nom": "Athena",
+    "w": 600,
+    "h": 166,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "attitude-patrimoine": {
+    "f": "/assets/logos/dir/attitude-patrimoine-reprise-20260915.webp",
+    "nom": "Attitude Patrimoine",
+    "w": 408,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "axeleo-capital": {
+    "f": "/assets/logos/dir/axeleo-capital-reprise-20260915.webp",
+    "nom": "Axeleo Capital",
+    "w": 600,
+    "h": 88,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "axelya-finances": {
+    "f": "/assets/logos/dir/axelya-finances-reprise-20260915.webp",
+    "nom": "Axelya Finances",
+    "w": 480,
+    "h": 120,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "b-durand-capital-partners": {
+    "f": "/assets/logos/dir/b-durand-capital-partners-reprise-20260915.webp",
+    "nom": "B. Durand Capital Partners",
+    "w": 313,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "barnes": {
+    "f": "/assets/logos/dir/barnes-reprise-20260915.webp",
+    "nom": "Barnes",
+    "w": 533,
+    "h": 144,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bc-finances": {
+    "f": "/assets/logos/dir/bc-finances-reprise-20260915.webp",
+    "nom": "BC Finances",
+    "w": 358,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "bd-finances-et-patrimoine": {
+    "f": "/assets/logos/dir/bd-finances-et-patrimoine-reprise-20260915.webp",
+    "nom": "BD Finances ET Patrimoine",
+    "w": 600,
+    "h": 138,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "belledonne-patrimoine-conseil": {
+    "f": "/assets/logos/dir/belledonne-patrimoine-conseil-reprise-20260915.webp",
+    "nom": "Belledonne Patrimoine Conseil",
+    "w": 487,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bfi-patrimoine": {
+    "f": "/assets/logos/dir/bfi-patrimoine-reprise-20260915.webp",
+    "nom": "BFI Patrimoine",
+    "w": 208,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "blackparrot-capital": {
+    "f": "/assets/logos/dir/blackparrot-capital-reprise-20260915.webp",
+    "nom": "Blackparrot Capital",
+    "w": 599,
+    "h": 148,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "c-e-p-consultant-en-patrimoine": {
+    "f": "/assets/logos/dir/c-e-p-consultant-en-patrimoine-reprise-20260915.webp",
+    "nom": "C.E.P. - Consultant EN Patrimoine",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "cbs-conseils": {
+    "f": "/assets/logos/dir/cbs-conseils-reprise-20260915.webp",
+    "nom": "CBS Conseils",
+    "w": 476,
+    "h": 84,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "cedric-navas-patrimoine": {
+    "f": "/assets/logos/dir/cedric-navas-patrimoine-reprise-20260915.webp",
+    "nom": "Cedric Navas Patrimoine",
+    "w": 450,
+    "h": 84,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "cegyd-conseil": {
+    "f": "/assets/logos/dir/cegyd-conseil-reprise-20260915.webp",
+    "nom": "CEGYD Conseil",
+    "w": 407,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "cfo-compagnie-financiere-de-l-opera": {
+    "f": "/assets/logos/dir/cfo-compagnie-financiere-de-l-opera-reprise-20260915.webp",
+    "nom": "CFO Compagnie Financière de l'Opéra",
+    "w": 447,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cgp-entrepreneurs": {
+    "f": "/assets/logos/dir/cgp-entrepreneurs-reprise-20260915.webp",
+    "nom": "CGP Entrepreneurs",
+    "w": 214,
+    "h": 133,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "chambre-de-commerce-et-d-industrie-franco-portugaise": {
+    "f": "/assets/logos/dir/chambre-de-commerce-et-d-industrie-franco-portugaise-reprise-20260915.webp",
+    "nom": "Chambre de Commerce et d'Industrie Franco-Portugaise",
+    "w": 600,
+    "h": 150,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "chambre-de-commerce-suisse-en-france": {
+    "f": "/assets/logos/dir/chambre-de-commerce-suisse-en-france-reprise-20260915.webp",
+    "nom": "Chambre de Commerce Suisse en France",
+    "w": 600,
+    "h": 198,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cheval-blanc-patrimoine": {
+    "f": "/assets/logos/dir/cheval-blanc-patrimoine-reprise-20260915.webp",
+    "nom": "Cheval Blanc Patrimoine",
+    "w": 579,
+    "h": 144,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cholet-dupont": {
+    "f": "/assets/logos/dir/cholet-dupont-reprise-20260915.webp",
+    "nom": "Cholet Dupont",
+    "w": 500,
+    "h": 60,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "cht-finances": {
+    "f": "/assets/logos/dir/cht-finances-reprise-20260915.webp",
+    "nom": "CHT Finances",
+    "w": 600,
+    "h": 228,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "clery-patrimoine": {
+    "f": "/assets/logos/dir/clery-patrimoine-reprise-20260915.webp",
+    "nom": "Clery Patrimoine",
+    "w": 600,
+    "h": 142,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "club-aktif": {
+    "f": "/assets/logos/dir/club-aktif-reprise-20260915.webp",
+    "nom": "Club Aktif+",
+    "w": 568,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "colbert-groupe": {
+    "f": "/assets/logos/dir/colbert-groupe-reprise-20260915.webp",
+    "nom": "Colbert groupe",
+    "w": 133,
+    "h": 129,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "colbert-patrimoine-finance": {
+    "f": "/assets/logos/dir/colbert-patrimoine-finance-reprise-20260915.webp",
+    "nom": "Colbert Patrimoine Finance",
+    "w": 600,
+    "h": 153,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "colbr": {
+    "f": "/assets/logos/dir/colbr-reprise-20260915.webp",
+    "nom": "Colbr",
+    "w": 600,
+    "h": 223,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "collaboration-capital": {
+    "f": "/assets/logos/dir/collaboration-capital-reprise-20260915.webp",
+    "nom": "Collaboration Capital",
+    "w": 231,
+    "h": 70,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "compagnie-financiere-de-l-opera": {
+    "f": "/assets/logos/dir/compagnie-financiere-de-l-opera-reprise-20260915.webp",
+    "nom": "Compagnie Financière de l'Opéra",
+    "w": 447,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "comptoir-financier-arin": {
+    "f": "/assets/logos/dir/comptoir-financier-arin-reprise-20260915.webp",
+    "nom": "Comptoir Financier Arin",
+    "w": 298,
+    "h": 166,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "conseillor-finance-patrimoine": {
+    "f": "/assets/logos/dir/conseillor-finance-patrimoine-reprise-20260915.webp",
+    "nom": "Conseillor Finance Patrimoine",
+    "w": 600,
+    "h": 56,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "conseils-mcc": {
+    "f": "/assets/logos/dir/conseils-mcc-reprise-20260915.webp",
+    "nom": "Conseils MCC",
+    "w": 600,
+    "h": 206,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "consilium-patrimoine": {
+    "f": "/assets/logos/dir/consilium-patrimoine-reprise-20260915.webp",
+    "nom": "Consilium Patrimoine",
+    "w": 336,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "corbin-finance": {
+    "f": "/assets/logos/dir/corbin-finance-reprise-20260915.webp",
+    "nom": "Corbin Finance",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "coventis-conseils": {
+    "f": "/assets/logos/dir/coventis-conseils-reprise-20260915.webp",
+    "nom": "Coventis Conseils",
+    "w": 416,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "come": {
+    "f": "/assets/logos/dir/come-reprise-20260915.webp",
+    "nom": "Côme",
+    "w": 555,
+    "h": 205,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "creatif-patrimoine": {
+    "f": "/assets/logos/dir/creatif-patrimoine-reprise-20260915.webp",
+    "nom": "Creatif Patrimoine",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "crystal": {
+    "f": "/assets/logos/dir/crystal-reprise-20260915.webp",
+    "nom": "Crystal",
+    "w": 600,
+    "h": 93,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "ctrl-a-finance": {
+    "f": "/assets/logos/dir/ctrl-a-finance-reprise-20260915.webp",
+    "nom": "CTRL_A Finance",
+    "w": 557,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cvl-finances": {
+    "f": "/assets/logos/dir/cvl-finances-reprise-20260915.webp",
+    "nom": "CVL Finances",
+    "w": 600,
+    "h": 154,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cyrus-conseil": {
+    "f": "/assets/logos/dir/cyrus-conseil-reprise-20260915.webp",
+    "nom": "Cyrus Conseil",
+    "w": 285,
+    "h": 139,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "d2c-finances": {
+    "f": "/assets/logos/dir/d2c-finances-reprise-20260915.webp",
+    "nom": "D2C Finances",
+    "w": 600,
+    "h": 148,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "daleth-finance": {
+    "f": "/assets/logos/dir/daleth-finance-reprise-20260915.webp",
+    "nom": "Daleth Finance",
+    "w": 339,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "db-conseil": {
+    "f": "/assets/logos/dir/db-conseil-reprise-20260915.webp",
+    "nom": "DB Conseil",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "de-jonghe-finance": {
+    "f": "/assets/logos/dir/de-jonghe-finance-reprise-20260915.webp",
+    "nom": "DE Jonghe Finance",
+    "w": 599,
+    "h": 138,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "demoulin-patrimoine": {
+    "f": "/assets/logos/dir/demoulin-patrimoine-reprise-20260915.webp",
+    "nom": "Demoulin Patrimoine",
+    "w": 209,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "dg-finances": {
+    "f": "/assets/logos/dir/dg-finances-reprise-20260915.webp",
+    "nom": "DG Finances",
+    "w": 496,
+    "h": 174,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "dlh-conseil": {
+    "f": "/assets/logos/dir/dlh-conseil-reprise-20260915.webp",
+    "nom": "DLH Conseil",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ds-pro-capital": {
+    "f": "/assets/logos/dir/ds-pro-capital-reprise-20260915.webp",
+    "nom": "DS PRO Capital",
+    "w": 436,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "eden-finances": {
+    "f": "/assets/logos/dir/eden-finances-reprise-20260915.webp",
+    "nom": "Eden Finances",
+    "w": 600,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "effi-patrimoine": {
+    "f": "/assets/logos/dir/effi-patrimoine-reprise-20260915.webp",
+    "nom": "Effi Patrimoine",
+    "w": 441,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "emd-patrimoine": {
+    "f": "/assets/logos/dir/emd-patrimoine-reprise-20260915.webp",
+    "nom": "EMD Patrimoine",
+    "w": 333,
+    "h": 170,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "engagement-patrimoine": {
+    "f": "/assets/logos/dir/engagement-patrimoine-reprise-20260915.webp",
+    "nom": "Engagement Patrimoine",
+    "w": 475,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "epie-patrimoine": {
+    "f": "/assets/logos/dir/epie-patrimoine-reprise-20260915.webp",
+    "nom": "Epie Patrimoine",
+    "w": 293,
+    "h": 51,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "epona-patrimoine-conseil": {
+    "f": "/assets/logos/dir/epona-patrimoine-conseil-reprise-20260915.webp",
+    "nom": "Epona Patrimoine Conseil",
+    "w": 500,
+    "h": 153,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "eternam": {
+    "f": "/assets/logos/dir/eternam-reprise-20260915.webp",
+    "nom": "Eternam",
+    "w": 546,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "ethik-conseil-patrimoine": {
+    "f": "/assets/logos/dir/ethik-conseil-patrimoine-reprise-20260915.webp",
+    "nom": "Ethik Conseil & Patrimoine",
+    "w": 212,
+    "h": 68,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "euclide-patrimoine": {
+    "f": "/assets/logos/dir/euclide-patrimoine-reprise-20260915.webp",
+    "nom": "Euclide Patrimoine",
+    "w": 600,
+    "h": 150,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "eurl-general-finances": {
+    "f": "/assets/logos/dir/eurl-general-finances-reprise-20260915.webp",
+    "nom": "Eurl General Finances",
+    "w": 600,
+    "h": 89,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "euro-patrimoine-investissement": {
+    "f": "/assets/logos/dir/euro-patrimoine-investissement-reprise-20260915.webp",
+    "nom": "Euro Patrimoine Investissement",
+    "w": 542,
+    "h": 123,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "eurogest-patrimoine-associes": {
+    "f": "/assets/logos/dir/eurogest-patrimoine-associes-reprise-20260915.webp",
+    "nom": "Eurogest Patrimoine Associes",
+    "w": 503,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "excellis-ingenierie-et-patrimoine": {
+    "f": "/assets/logos/dir/excellis-ingenierie-et-patrimoine-reprise-20260915.webp",
+    "nom": "Excellis Ingenierie ET Patrimoine",
+    "w": 465,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "expertise-patrimoniale": {
+    "f": "/assets/logos/dir/expertise-patrimoniale-reprise-20260915.webp",
+    "nom": "Expertise Patrimoniale",
+    "w": 304,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "experts-en-patrimoine": {
+    "f": "/assets/logos/dir/experts-en-patrimoine-reprise-20260915.webp",
+    "nom": "Experts en patrimoine",
+    "w": 316,
+    "h": 87,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "faa-conseil": {
+    "f": "/assets/logos/dir/faa-conseil-reprise-20260915.webp",
+    "nom": "FAA Conseil",
+    "w": 400,
+    "h": 105,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "famille-et-patrimoine": {
+    "f": "/assets/logos/dir/famille-et-patrimoine-reprise-20260915.webp",
+    "nom": "Famille ET Patrimoine",
+    "w": 402,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "fb-wealth-manager": {
+    "f": "/assets/logos/dir/fb-wealth-manager-reprise-20260915.webp",
+    "nom": "FB Wealth Manager",
+    "w": 385,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "fg-conseil": {
+    "f": "/assets/logos/dir/fg-conseil-reprise-20260915.webp",
+    "nom": "FG Conseil",
+    "w": 500,
+    "h": 135,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fidam-conseil": {
+    "f": "/assets/logos/dir/fidam-conseil-reprise-20260915.webp",
+    "nom": "Fidam Conseil",
+    "w": 192,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fidere-conseil": {
+    "f": "/assets/logos/dir/fidere-conseil-reprise-20260915.webp",
+    "nom": "Fidere Conseil",
+    "w": 359,
+    "h": 64,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "finance-mon-toit": {
+    "f": "/assets/logos/dir/finance-mon-toit-reprise-20260915.webp",
+    "nom": "Finance MON Toit",
+    "w": 528,
+    "h": 161,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "financiere-de-la-clarte": {
+    "f": "/assets/logos/dir/financiere-de-la-clarte-reprise-20260915.webp",
+    "nom": "Financière de La Clarté",
+    "w": 336,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "financiere-galilee": {
+    "f": "/assets/logos/dir/financiere-galilee-reprise-20260915.webp",
+    "nom": "Financière Galilée",
+    "w": 600,
+    "h": 183,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "finarena-gestion-privee": {
+    "f": "/assets/logos/dir/finarena-gestion-privee-reprise-20260915.webp",
+    "nom": "FINARENA Gestion Privée",
+    "w": 600,
+    "h": 194,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "finary": {
+    "f": "/assets/logos/dir/finary-reprise-20260915.webp",
+    "nom": "Finary",
+    "w": 235,
+    "h": 64,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fipad-conseil": {
+    "f": "/assets/logos/dir/fipad-conseil-reprise-20260915.webp",
+    "nom": "Fipad Conseil",
+    "w": 480,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "fipad-conseil-ccif-euthenia-l-interpro-finexys": {
+    "f": "/assets/logos/dir/fipad-conseil-ccif-euthenia-l-interpro-finexys-reprise-20260915.webp",
+    "nom": "FIPAD conseil-CCIF-EUTHENIA-L'InterPRO-FINEXYS",
+    "w": 480,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "g-f-roussillon-investissement": {
+    "f": "/assets/logos/dir/g-f-roussillon-investissement-reprise-20260915.webp",
+    "nom": "G.F. Roussillon Investissement",
+    "w": 205,
+    "h": 107,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "gauthier-schaller-conseil": {
+    "f": "/assets/logos/dir/gauthier-schaller-conseil-reprise-20260915.webp",
+    "nom": "Gauthier Schaller Conseil",
+    "w": 541,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "glr-consultants": {
+    "f": "/assets/logos/dir/glr-consultants-reprise-20260915.webp",
+    "nom": "GLR Consultants",
+    "w": 395,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "gregory-dutreil-conseil": {
+    "f": "/assets/logos/dir/gregory-dutreil-conseil-reprise-20260915.webp",
+    "nom": "Gregory Dutreil Conseil",
+    "w": 600,
+    "h": 139,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "grisbee": {
+    "f": "/assets/logos/dir/grisbee-reprise-20260915.webp",
+    "nom": "Grisbee",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "groupe-ciec": {
+    "f": "/assets/logos/dir/groupe-ciec-reprise-20260915.webp",
+    "nom": "Groupe Ciec",
+    "w": 600,
+    "h": 225,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "groupe-cyrus": {
+    "f": "/assets/logos/dir/groupe-cyrus-reprise-20260915.webp",
+    "nom": "groupe Cyrus",
+    "w": 283,
+    "h": 48,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "groupe-fcn-objectif-conseils": {
+    "f": "/assets/logos/dir/groupe-fcn-objectif-conseils-reprise-20260915.webp",
+    "nom": "Groupe FCN / Objectif Conseils",
+    "w": 350,
+    "h": 62,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "groupe-id": {
+    "f": "/assets/logos/dir/groupe-id-reprise-20260915.webp",
+    "nom": "Groupe ID",
+    "w": 106,
+    "h": 147,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "groupe-pea": {
+    "f": "/assets/logos/dir/groupe-pea-reprise-20260915.webp",
+    "nom": "Groupe PEA",
+    "w": 491,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "groupe-quinze-gestion-privee": {
+    "f": "/assets/logos/dir/groupe-quinze-gestion-privee-reprise-20260915.webp",
+    "nom": "Groupe Quinze - Gestion Privée",
+    "w": 600,
+    "h": 177,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "groupe-rayne": {
+    "f": "/assets/logos/dir/groupe-rayne-reprise-20260915.webp",
+    "nom": "Groupe Rayne",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "haussmann-patrimoine": {
+    "f": "/assets/logos/dir/haussmann-patrimoine-reprise-20260915.webp",
+    "nom": "Haussmann Patrimoine",
+    "w": 277,
+    "h": 192,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "henrion-immobilier": {
+    "f": "/assets/logos/dir/henrion-immobilier-reprise-20260915.webp",
+    "nom": "Henrion Immobilier",
+    "w": 215,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "hestia-finances-investissements": {
+    "f": "/assets/logos/dir/hestia-finances-investissements-reprise-20260915.webp",
+    "nom": "Hestia Finances Investissements",
+    "w": 334,
+    "h": 139,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "hods-associes": {
+    "f": "/assets/logos/dir/hods-associes-reprise-20260915.webp",
+    "nom": "HODS Associés",
+    "w": 339,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ica-finance": {
+    "f": "/assets/logos/dir/ica-finance-reprise-20260915.webp",
+    "nom": "ICA Finance",
+    "w": 300,
+    "h": 196,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "id-patrimoine-paca": {
+    "f": "/assets/logos/dir/id-patrimoine-paca-reprise-20260915.webp",
+    "nom": "ID Patrimoine Paca",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "imani-you": {
+    "f": "/assets/logos/dir/imani-you-reprise-20260915.webp",
+    "nom": "Imani & You",
+    "w": 600,
+    "h": 200,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "inkipit-finance": {
+    "f": "/assets/logos/dir/inkipit-finance-reprise-20260915.webp",
+    "nom": "Inkipit Finance",
+    "w": 300,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "isi-gestion-privee": {
+    "f": "/assets/logos/dir/isi-gestion-privee-reprise-20260915.webp",
+    "nom": "ISI Gestion Privee",
+    "w": 376,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "jcs-conseil": {
+    "f": "/assets/logos/dir/jcs-conseil-reprise-20260915.webp",
+    "nom": "JCS Conseil",
+    "w": 193,
+    "h": 118,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "jurisconsulte-patrimoine": {
+    "f": "/assets/logos/dir/jurisconsulte-patrimoine-reprise-20260915.webp",
+    "nom": "Jurisconsulte Patrimoine",
+    "w": 600,
+    "h": 228,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "k-patrimoine-et-finance": {
+    "f": "/assets/logos/dir/k-patrimoine-et-finance-reprise-20260915.webp",
+    "nom": "K Patrimoine ET Finance",
+    "w": 300,
+    "h": 187,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "kapigo-patrimoine": {
+    "f": "/assets/logos/dir/kapigo-patrimoine-reprise-20260915.webp",
+    "nom": "Kapigo Patrimoine",
+    "w": 329,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "kereis-expertises": {
+    "f": "/assets/logos/dir/kereis-expertises-reprise-20260915.webp",
+    "nom": "Kereis Expertises",
+    "w": 376,
+    "h": 181,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "kimpa-impact-investing": {
+    "f": "/assets/logos/dir/kimpa-impact-investing-reprise-20260915.webp",
+    "nom": "Kimpa - Impact Investing",
+    "w": 600,
+    "h": 111,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "la-financiere-azureenne": {
+    "f": "/assets/logos/dir/la-financiere-azureenne-reprise-20260915.webp",
+    "nom": "LA Financiere Azureenne",
+    "w": 600,
+    "h": 153,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "la-financiere-d-orion": {
+    "f": "/assets/logos/dir/la-financiere-d-orion-reprise-20260915.webp",
+    "nom": "La Financière d'Orion",
+    "w": 600,
+    "h": 189,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "la-financiere-des-alpes": {
+    "f": "/assets/logos/dir/la-financiere-des-alpes-reprise-20260915.webp",
+    "nom": "LA Financiere DES Alpes",
+    "w": 600,
+    "h": 153,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lam-conseils": {
+    "f": "/assets/logos/dir/lam-conseils-reprise-20260915.webp",
+    "nom": "LAM Conseils",
+    "w": 496,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "laplace": {
+    "f": "/assets/logos/dir/laplace-reprise-20260915.webp",
+    "nom": "Laplace",
+    "w": 566,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lc-patrimoine": {
+    "f": "/assets/logos/dir/lc-patrimoine-reprise-20260915.webp",
+    "nom": "Lc-Patrimoine",
+    "w": 500,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "lcp-partners": {
+    "f": "/assets/logos/dir/lcp-partners-reprise-20260915.webp",
+    "nom": "LCP Partners",
+    "w": 180,
+    "h": 180,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "le-bourbasquet-finance": {
+    "f": "/assets/logos/dir/le-bourbasquet-finance-reprise-20260915.webp",
+    "nom": "LE Bourbasquet Finance",
+    "w": 302,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lesueur-investissement": {
+    "f": "/assets/logos/dir/lesueur-investissement-reprise-20260915.webp",
+    "nom": "Lesueur Investissement",
+    "w": 219,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "letus-private-office": {
+    "f": "/assets/logos/dir/letus-private-office-reprise-20260915.webp",
+    "nom": "Letus Private Office",
+    "w": 600,
+    "h": 194,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lfl-patrimoine": {
+    "f": "/assets/logos/dir/lfl-patrimoine-reprise-20260915.webp",
+    "nom": "LFL Patrimoine",
+    "w": 459,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "linard-gestion-de-fortune": {
+    "f": "/assets/logos/dir/linard-gestion-de-fortune-reprise-20260915.webp",
+    "nom": "Linard Gestion de Fortune",
+    "w": 500,
+    "h": 194,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "lion-d-or-patrimoine-et-investissements": {
+    "f": "/assets/logos/dir/lion-d-or-patrimoine-et-investissements-reprise-20260915.webp",
+    "nom": "Lion D'OR Patrimoine ET Investissements",
+    "w": 393,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "lion-patrimoine": {
+    "f": "/assets/logos/dir/lion-patrimoine-reprise-20260915.webp",
+    "nom": "Lion Patrimoine",
+    "w": 219,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lm-finances": {
+    "f": "/assets/logos/dir/lm-finances-reprise-20260915.webp",
+    "nom": "LM Finances",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lombard-odier-group": {
+    "f": "/assets/logos/dir/lombard-odier-group-reprise-20260915.webp",
+    "nom": "Lombard Odier Group",
+    "w": 222,
+    "h": 107,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "louvre-banque-privee": {
+    "f": "/assets/logos/dir/louvre-banque-privee-reprise-20260915.webp",
+    "nom": "Louvre Banque Privée",
+    "w": 222,
+    "h": 113,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lp-finances": {
+    "f": "/assets/logos/dir/lp-finances-reprise-20260915.webp",
+    "nom": "LP Finances",
+    "w": 600,
+    "h": 203,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lsf-gestion-privee": {
+    "f": "/assets/logos/dir/lsf-gestion-privee-reprise-20260915.webp",
+    "nom": "LSF Gestion Privee",
+    "w": 488,
+    "h": 186,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "luxus-finances": {
+    "f": "/assets/logos/dir/luxus-finances-reprise-20260915.webp",
+    "nom": "Luxus Finances",
+    "w": 550,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lyssor": {
+    "f": "/assets/logos/dir/lyssor-reprise-20260915.webp",
+    "nom": "Lyssor",
+    "w": 600,
+    "h": 155,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "magellan-conseil": {
+    "f": "/assets/logos/dir/magellan-conseil-reprise-20260915.webp",
+    "nom": "Magellan Conseil",
+    "w": 223,
+    "h": 72,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "magnacarta-patrimoine": {
+    "f": "/assets/logos/dir/magnacarta-patrimoine-reprise-20260915.webp",
+    "nom": "Magnacarta Patrimoine",
+    "w": 600,
+    "h": 119,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "maison-des-patrimoines": {
+    "f": "/assets/logos/dir/maison-des-patrimoines-reprise-20260915.webp",
+    "nom": "Maison DES Patrimoines",
+    "w": 200,
+    "h": 93,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "massalia-finance": {
+    "f": "/assets/logos/dir/massalia-finance-reprise-20260915.webp",
+    "nom": "Massalia Finance",
+    "w": 600,
+    "h": 197,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "mazaline-finances": {
+    "f": "/assets/logos/dir/mazaline-finances-reprise-20260915.webp",
+    "nom": "Mazaline Finances",
+    "w": 600,
+    "h": 193,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mermoz-gestion-formation-conseil": {
+    "f": "/assets/logos/dir/mermoz-gestion-formation-conseil-reprise-20260915.webp",
+    "nom": "Mermoz Gestion Formation Conseil",
+    "w": 339,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "metagram": {
+    "f": "/assets/logos/dir/metagram-reprise-20260915.webp",
+    "nom": "Metagram",
+    "w": 477,
+    "h": 168,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "mga-gestion-de-patrimoine": {
+    "f": "/assets/logos/dir/mga-gestion-de-patrimoine-reprise-20260915.webp",
+    "nom": "MGA - Gestion de Patrimoine",
+    "w": 176,
+    "h": 57,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "mirari-wealth-management": {
+    "f": "/assets/logos/dir/mirari-wealth-management-reprise-20260915.webp",
+    "nom": "MIRARI Wealth Management",
+    "w": 460,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mister-finances-paca": {
+    "f": "/assets/logos/dir/mister-finances-paca-reprise-20260915.webp",
+    "nom": "Mister Finances Paca",
+    "w": 314,
+    "h": 196,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "mj-cie": {
+    "f": "/assets/logos/dir/mj-cie-reprise-20260915.webp",
+    "nom": "MJ & Cie",
+    "w": 600,
+    "h": 170,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mn-conseil": {
+    "f": "/assets/logos/dir/mn-conseil-reprise-20260915.webp",
+    "nom": "MN Conseil",
+    "w": 370,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "montaigne-conseil-patrimoine": {
+    "f": "/assets/logos/dir/montaigne-conseil-patrimoine-reprise-20260915.webp",
+    "nom": "Montaigne Conseil & Patrimoine",
+    "w": 225,
+    "h": 232,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "monty-finances": {
+    "f": "/assets/logos/dir/monty-finances-reprise-20260915.webp",
+    "nom": "Monty Finances",
+    "w": 599,
+    "h": 140,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mp-finance-conseil": {
+    "f": "/assets/logos/dir/mp-finance-conseil-reprise-20260915.webp",
+    "nom": "MP Finance Conseil",
+    "w": 600,
+    "h": 226,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "my-conseils": {
+    "f": "/assets/logos/dir/my-conseils-reprise-20260915.webp",
+    "nom": "MY Conseils",
+    "w": 599,
+    "h": 72,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "merimee-gestion-privee": {
+    "f": "/assets/logos/dir/merimee-gestion-privee-reprise-20260915.webp",
+    "nom": "Mérimée Gestion Privée",
+    "w": 600,
+    "h": 124,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "na-patrimoine-conseil": {
+    "f": "/assets/logos/dir/na-patrimoine-conseil-reprise-20260915.webp",
+    "nom": "NA Patrimoine Conseil",
+    "w": 347,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "nation-patrimoine-conseil": {
+    "f": "/assets/logos/dir/nation-patrimoine-conseil-reprise-20260915.webp",
+    "nom": "Nation Patrimoine Conseil",
+    "w": 600,
+    "h": 191,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "nespoulous-gestion-privee": {
+    "f": "/assets/logos/dir/nespoulous-gestion-privee-reprise-20260915.webp",
+    "nom": "Nespoulous Gestion Privée",
+    "w": 600,
+    "h": 123,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ng-finance": {
+    "f": "/assets/logos/dir/ng-finance-reprise-20260915.webp",
+    "nom": "NG Finance",
+    "w": 320,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "norma-conseils": {
+    "f": "/assets/logos/dir/norma-conseils-reprise-20260915.webp",
+    "nom": "Norma Conseils",
+    "w": 333,
+    "h": 166,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "normandie-finance": {
+    "f": "/assets/logos/dir/normandie-finance-reprise-20260915.webp",
+    "nom": "Normandie Finance",
+    "w": 600,
+    "h": 227,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "normandie-strategie-invest": {
+    "f": "/assets/logos/dir/normandie-strategie-invest-reprise-20260915.webp",
+    "nom": "Normandie Strategie Invest'",
+    "w": 265,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "novam": {
+    "f": "/assets/logos/dir/novam-reprise-20260915.webp",
+    "nom": "novAM",
+    "w": 320,
+    "h": 196,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "npi-conseils": {
+    "f": "/assets/logos/dir/npi-conseils-reprise-20260915.webp",
+    "nom": "NPI Conseils",
+    "w": 400,
+    "h": 103,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "octopus-immo": {
+    "f": "/assets/logos/dir/octopus-immo-reprise-20260915.webp",
+    "nom": "Octopus IMMO",
+    "w": 565,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "officina": {
+    "f": "/assets/logos/dir/officina-reprise-20260915.webp",
+    "nom": "Officina",
+    "w": 600,
+    "h": 191,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ofilae-paris": {
+    "f": "/assets/logos/dir/ofilae-paris-reprise-20260915.webp",
+    "nom": "Ofilae Paris",
+    "w": 347,
+    "h": 144,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "oillic-finances": {
+    "f": "/assets/logos/dir/oillic-finances-reprise-20260915.webp",
+    "nom": "Oillic Finances",
+    "w": 600,
+    "h": 138,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "olivier-rohee-finances": {
+    "f": "/assets/logos/dir/olivier-rohee-finances-reprise-20260915.webp",
+    "nom": "Olivier Rohee Finances",
+    "w": 250,
+    "h": 163,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "omega-patrimoine": {
+    "f": "/assets/logos/dir/omega-patrimoine-reprise-20260915.webp",
+    "nom": "Omega Patrimoine",
+    "w": 282,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "op-finances": {
+    "f": "/assets/logos/dir/op-finances-reprise-20260915.webp",
+    "nom": "OP Finances",
+    "w": 600,
+    "h": 224,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "optimal-patrimoine": {
+    "f": "/assets/logos/dir/optimal-patrimoine-reprise-20260915.webp",
+    "nom": "Optimal Patrimoine",
+    "w": 169,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "oria-conseils": {
+    "f": "/assets/logos/dir/oria-conseils-reprise-20260915.webp",
+    "nom": "Oria Conseils",
+    "w": 241,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ornay-finance": {
+    "f": "/assets/logos/dir/ornay-finance-reprise-20260915.webp",
+    "nom": "Ornay Finance",
+    "w": 300,
+    "h": 56,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "p-a-m-conseil": {
+    "f": "/assets/logos/dir/p-a-m-conseil-reprise-20260915.webp",
+    "nom": "P.A.M. Conseil",
+    "w": 589,
+    "h": 165,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "passion-finances": {
+    "f": "/assets/logos/dir/passion-finances-reprise-20260915.webp",
+    "nom": "Passion Finances",
+    "w": 292,
+    "h": 102,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "patrimocap": {
+    "f": "/assets/logos/dir/patrimocap-reprise-20260915.webp",
+    "nom": "Patrimocap",
+    "w": 600,
+    "h": 128,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "patrimoine-conseils": {
+    "f": "/assets/logos/dir/patrimoine-conseils-reprise-20260915.webp",
+    "nom": "Patrimoine Conseils",
+    "w": 230,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "patrimoine-consultant-colmar": {
+    "f": "/assets/logos/dir/patrimoine-consultant-colmar-reprise-20260915.webp",
+    "nom": "Patrimoine Consultant Colmar",
+    "w": 183,
+    "h": 183,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "patrimoine-et-gestion": {
+    "f": "/assets/logos/dir/patrimoine-et-gestion-reprise-20260915.webp",
+    "nom": "Patrimoine et Gestion",
+    "w": 425,
+    "h": 199,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "patrimoine-sa": {
+    "f": "/assets/logos/dir/patrimoine-sa-reprise-20260915.webp",
+    "nom": "Patrimoine SA",
+    "w": 452,
+    "h": 116,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "persephone-conseil-investissement": {
+    "f": "/assets/logos/dir/persephone-conseil-investissement-reprise-20260915.webp",
+    "nom": "Persephone Conseil Investissement",
+    "w": 600,
+    "h": 140,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "pierre-jacquin-patrimoine": {
+    "f": "/assets/logos/dir/pierre-jacquin-patrimoine-reprise-20260915.webp",
+    "nom": "Pierre Jacquin Patrimoine",
+    "w": 600,
+    "h": 52,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "pierre-placements": {
+    "f": "/assets/logos/dir/pierre-placements-reprise-20260915.webp",
+    "nom": "Pierre & Placements",
+    "w": 229,
+    "h": 73,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "platineos": {
+    "f": "/assets/logos/dir/platineos-reprise-20260915.webp",
+    "nom": "Platineos",
+    "w": 600,
+    "h": 231,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ploovers": {
+    "f": "/assets/logos/dir/ploovers-reprise-20260915.webp",
+    "nom": "Ploovers",
+    "w": 600,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "pluralle-groupe": {
+    "f": "/assets/logos/dir/pluralle-groupe-reprise-20260915.webp",
+    "nom": "Pluralle Groupe",
+    "w": 300,
+    "h": 99,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "pointet-gestion-de-patrimoine": {
+    "f": "/assets/logos/dir/pointet-gestion-de-patrimoine-reprise-20260915.webp",
+    "nom": "Pointet Gestion DE Patrimoine",
+    "w": 475,
+    "h": 214,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "prosper-conseil": {
+    "f": "/assets/logos/dir/prosper-conseil-reprise-20260915.webp",
+    "nom": "Prosper Conseil",
+    "w": 300,
+    "h": 48,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "quercus-patrimoine": {
+    "f": "/assets/logos/dir/quercus-patrimoine-reprise-20260915.webp",
+    "nom": "Quercus Patrimoine",
+    "w": 172,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "quercus-patrimoine-69": {
+    "f": "/assets/logos/dir/quercus-patrimoine-69-reprise-20260915.webp",
+    "nom": "Quercus Patrimoine 69",
+    "w": 172,
+    "h": 90,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ramify": {
+    "f": "/assets/logos/dir/ramify-reprise-20260915.webp",
+    "nom": "Ramify",
+    "w": 320,
+    "h": 93,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "rezult": {
+    "f": "/assets/logos/dir/rezult-reprise-20260915.webp",
+    "nom": "Rezult",
+    "w": 243,
+    "h": 61,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "rhetores-finance": {
+    "f": "/assets/logos/dir/rhetores-finance-reprise-20260915.webp",
+    "nom": "Rhetores Finance",
+    "w": 272,
+    "h": 116,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "rive-neuve-capital": {
+    "f": "/assets/logos/dir/rive-neuve-capital-reprise-20260915.webp",
+    "nom": "Rive Neuve Capital",
+    "w": 500,
+    "h": 78,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "rp-gestion-privee": {
+    "f": "/assets/logos/dir/rp-gestion-privee-reprise-20260915.webp",
+    "nom": "RP Gestion Privée",
+    "w": 159,
+    "h": 72,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sapians": {
+    "f": "/assets/logos/dir/sapians-reprise-20260915.webp",
+    "nom": "Sapians",
+    "w": 600,
+    "h": 199,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sarl-lb-patrimoine": {
+    "f": "/assets/logos/dir/sarl-lb-patrimoine-reprise-20260915.webp",
+    "nom": "Sarl LB Patrimoine",
+    "w": 599,
+    "h": 145,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sarl-lel-finances": {
+    "f": "/assets/logos/dir/sarl-lel-finances-reprise-20260915.webp",
+    "nom": "Sarl LEL Finances",
+    "w": 600,
+    "h": 170,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "sarl-soab-finance": {
+    "f": "/assets/logos/dir/sarl-soab-finance-reprise-20260915.webp",
+    "nom": "Sarl Soab Finance",
+    "w": 600,
+    "h": 159,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sas-metge-conseil": {
+    "f": "/assets/logos/dir/sas-metge-conseil-reprise-20260915.webp",
+    "nom": "SAS Metge Conseil",
+    "w": 600,
+    "h": 186,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sausset-les-pins-conseil": {
+    "f": "/assets/logos/dir/sausset-les-pins-conseil-reprise-20260915.webp",
+    "nom": "Sausset LES Pins Conseil",
+    "w": 78,
+    "h": 75,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "scp-patrimoine-conseil": {
+    "f": "/assets/logos/dir/scp-patrimoine-conseil-reprise-20260915.webp",
+    "nom": "SCP Patrimoine Conseil",
+    "w": 180,
+    "h": 125,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "serendip-patrimoine": {
+    "f": "/assets/logos/dir/serendip-patrimoine-reprise-20260915.webp",
+    "nom": "Serendip Patrimoine",
+    "w": 216,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "servant-gestion-privee": {
+    "f": "/assets/logos/dir/servant-gestion-privee-reprise-20260915.webp",
+    "nom": "Servant Gestion Privee",
+    "w": 475,
+    "h": 214,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "shiva-finance": {
+    "f": "/assets/logos/dir/shiva-finance-reprise-20260915.webp",
+    "nom": "Shiva Finance",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "societe-europeenne-de-gestion-financiere": {
+    "f": "/assets/logos/dir/societe-europeenne-de-gestion-financiere-reprise-20260915.webp",
+    "nom": "Societe Europeenne DE Gestion Financiere",
+    "w": 534,
+    "h": 180,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sofica-patrimoine": {
+    "f": "/assets/logos/dir/sofica-patrimoine-reprise-20260915.webp",
+    "nom": "Sofica Patrimoine",
+    "w": 514,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "statere-finance": {
+    "f": "/assets/logos/dir/statere-finance-reprise-20260915.webp",
+    "nom": "Statere Finance",
+    "w": 193,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "stellium-invest": {
+    "f": "/assets/logos/dir/stellium-invest-reprise-20260915.webp",
+    "nom": "Stellium Invest",
+    "w": 510,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "stievenart-capital-partners": {
+    "f": "/assets/logos/dir/stievenart-capital-partners-reprise-20260915.webp",
+    "nom": "Stievenart Capital Partners",
+    "w": 600,
+    "h": 230,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "selene-patrimoine": {
+    "f": "/assets/logos/dir/selene-patrimoine-reprise-20260915.webp",
+    "nom": "Sélène Patrimoine",
+    "w": 254,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "strategie-finance-patrimoine": {
+    "f": "/assets/logos/dir/strategie-finance-patrimoine-reprise-20260915.webp",
+    "nom": "Strategie Finance Patrimoine",
+    "w": 289,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "swiss-life-banque-privee": {
+    "f": "/assets/logos/dir/swiss-life-banque-privee-reprise-20260915.webp",
+    "nom": "Swiss Life Banque Privée",
+    "w": 600,
+    "h": 238,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sylk-conseils": {
+    "f": "/assets/logos/dir/sylk-conseils-reprise-20260915.webp",
+    "nom": "Sylk Conseils",
+    "w": 518,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "symphonium-conseil": {
+    "f": "/assets/logos/dir/symphonium-conseil-reprise-20260915.webp",
+    "nom": "Symphonium Conseil",
+    "w": 280,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "tanguy-finances": {
+    "f": "/assets/logos/dir/tanguy-finances-reprise-20260915.webp",
+    "nom": "Tanguy Finances",
+    "w": 594,
+    "h": 209,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "terrae-patrimoine": {
+    "f": "/assets/logos/dir/terrae-patrimoine-reprise-20260915.webp",
+    "nom": "Terrae Patrimoine",
+    "w": 288,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "tetraktys-conseil": {
+    "f": "/assets/logos/dir/tetraktys-conseil-reprise-20260915.webp",
+    "nom": "Tetraktys Conseil",
+    "w": 299,
+    "h": 64,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "theseis": {
+    "f": "/assets/logos/dir/theseis-reprise-20260915.webp",
+    "nom": "Theseis",
+    "w": 402,
+    "h": 146,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "treeefle-gestion-privee": {
+    "f": "/assets/logos/dir/treeefle-gestion-privee-reprise-20260915.webp",
+    "nom": "Treeefle Gestion Privée",
+    "w": 593,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "tsuru-patrimoine": {
+    "f": "/assets/logos/dir/tsuru-patrimoine-reprise-20260915.webp",
+    "nom": "Tsuru Patrimoine",
+    "w": 479,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "twenty-six-patrimoine": {
+    "f": "/assets/logos/dir/twenty-six-patrimoine-reprise-20260915.webp",
+    "nom": "Twenty-Six Patrimoine",
+    "w": 427,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "uff-banque-conseil-en-gestion-de-patrimoine": {
+    "f": "/assets/logos/dir/uff-banque-conseil-en-gestion-de-patrimoine-reprise-20260915.webp",
+    "nom": "UFF Banque Conseil en Gestion de Patrimoine",
+    "w": 242,
+    "h": 214,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "universite-jean-moulin-lyon-3": {
+    "f": "/assets/logos/dir/universite-jean-moulin-lyon-3-reprise-20260915.webp",
+    "nom": "Université Jean Moulin Lyon 3",
+    "w": 462,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "v-g-f-i-conseil": {
+    "f": "/assets/logos/dir/v-g-f-i-conseil-reprise-20260915.webp",
+    "nom": "V.G.F.I. Conseil",
+    "w": 301,
+    "h": 71,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "vakoa-gestion-privee": {
+    "f": "/assets/logos/dir/vakoa-gestion-privee-reprise-20260915.webp",
+    "nom": "Vakoa Gestion Privee",
+    "w": 600,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "dba": {
+    "f": "/assets/logos/dir/dba-reprise-20260915.webp",
+    "nom": "DBA",
+    "w": 120,
+    "h": 62,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "eurus": {
+    "f": "/assets/logos/dir/eurus-reprise-20260915.webp",
+    "nom": "Eurus",
+    "w": 236,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "france-defi": {
+    "f": "/assets/logos/dir/france-defi-reprise-20260915.webp",
+    "nom": "France Défi",
+    "w": 224,
+    "h": 224,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lba-walter-france": {
+    "f": "/assets/logos/dir/lba-walter-france-reprise-20260915.webp",
+    "nom": "LBA Walter France",
+    "w": 600,
+    "h": 200,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "alba-infra-partners": {
+    "f": "/assets/logos/dir/alba-infra-partners-reprise-20260915.webp",
+    "nom": "Alba Infra Partners",
+    "w": 176,
+    "h": 177,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "altur-gestion": {
+    "f": "/assets/logos/dir/altur-gestion-reprise-20260915.webp",
+    "nom": "Altur Gestion",
+    "w": 454,
+    "h": 102,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "arjun-infrastructure-europe-sas": {
+    "f": "/assets/logos/dir/arjun-infrastructure-europe-sas-reprise-20260915.webp",
+    "nom": "Arjun Infrastructure Europe SAS",
+    "w": 292,
+    "h": 79,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "oddo-bhf-asset-management-sas": {
+    "f": "/assets/logos/dir/oddo-bhf-asset-management-sas-reprise-20260915.webp",
+    "nom": "Oddo BHF Asset Management SAS",
+    "w": 92,
+    "h": 56,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "paluel-marmont-capital": {
+    "f": "/assets/logos/dir/paluel-marmont-capital-reprise-20260915.webp",
+    "nom": "Paluel-Marmont Capital",
+    "w": 204,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "2050-do": {
+    "f": "/assets/logos/dir/2050-do-reprise-20260915.webp",
+    "nom": "2050.DO",
+    "w": 134,
+    "h": 134,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "alma-mundi-ventures-sgeic-sa": {
+    "f": "/assets/logos/dir/alma-mundi-ventures-sgeic-sa-reprise-20260915.webp",
+    "nom": "Alma Mundi Ventures Sgeic Sa.",
+    "w": 531,
+    "h": 59,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "stags-participations": {
+    "f": "/assets/logos/dir/stags-participations-reprise-20260915.webp",
+    "nom": "Stags Participations",
+    "w": 130,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "the-carlyle-group": {
+    "f": "/assets/logos/dir/the-carlyle-group-reprise-20260915.webp",
+    "nom": "The Carlyle Group",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "windhurst-neopar": {
+    "f": "/assets/logos/dir/windhurst-neopar-reprise-20260915.webp",
+    "nom": "Windhurst / Neopar",
+    "w": 362,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "janngo-capital-partners-sas": {
+    "f": "/assets/logos/dir/janngo-capital-partners-sas-reprise-20260915.webp",
+    "nom": "Janngo Capital Partners SAS",
+    "w": 194,
+    "h": 94,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "localglobe": {
+    "f": "/assets/logos/dir/localglobe-reprise-20260915.webp",
+    "nom": "LocalGlobe",
+    "w": 104,
+    "h": 123,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ade-ci-family-office": {
+    "f": "/assets/logos/dir/ade-ci-family-office-reprise-20260915.webp",
+    "nom": "Ade-ci Family Office",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jetfly": {
+    "f": "/assets/logos/dir/jetfly-reprise-20260915.webp",
+    "nom": "Jetfly",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lunajets": {
+    "f": "/assets/logos/dir/lunajets-reprise-20260915.webp",
+    "nom": "LunaJets",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "slate-vc": {
+    "f": "/assets/logos/dir/slate-vc-reprise-20260915.webp",
+    "nom": "Slate VC",
+    "w": 600,
+    "h": 151,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "tomcat": {
+    "f": "/assets/logos/dir/tomcat-reprise-20260915.webp",
+    "nom": "Tomcat",
+    "w": 295,
+    "h": 89,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "united-founders": {
+    "f": "/assets/logos/dir/united-founders-reprise-20260915.webp",
+    "nom": "United Founders",
+    "w": 501,
+    "h": 213,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "yaday": {
+    "f": "/assets/logos/dir/yaday-reprise-20260915.webp",
+    "nom": "Yaday",
+    "w": 600,
+    "h": 194,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "1661-notaires": {
+    "f": "/assets/logos/dir/1661-notaires-reprise-20260915.webp",
+    "nom": "1661 Notaires",
+    "w": 106,
+    "h": 64,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "83-haussmann-notaires": {
+    "f": "/assets/logos/dir/83-haussmann-notaires-reprise-20260915.webp",
+    "nom": "83 Haussmann Notaires",
+    "w": 116,
+    "h": 39,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "even-fo": {
+    "f": "/assets/logos/dir/even-fo-reprise-20260915.webp",
+    "nom": "Even FO",
+    "w": 130,
+    "h": 80,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "fortier-notaire": {
+    "f": "/assets/logos/dir/fortier-notaire-reprise-20260915.webp",
+    "nom": "Fortier Notaire",
+    "w": 227,
+    "h": 214,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lux-heritage": {
+    "f": "/assets/logos/dir/lux-heritage-reprise-20260915.webp",
+    "nom": "Lux Heritage",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "pulse-family-office": {
+    "f": "/assets/logos/dir/pulse-family-office-reprise-20260915.webp",
+    "nom": "Pulse | Family Office",
+    "w": 264,
+    "h": 112,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "clifton-partners": {
+    "f": "/assets/logos/dir/clifton-partners-reprise-20260915.webp",
+    "nom": "Clifton Partners",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "etude-352": {
+    "f": "/assets/logos/dir/etude-352-reprise-20260915.webp",
+    "nom": "Étude 352",
+    "w": 86,
+    "h": 86,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lbmb-notaires": {
+    "f": "/assets/logos/dir/lbmb-notaires-reprise-20260915.webp",
+    "nom": "LBMB Notaires",
+    "w": 107,
+    "h": 36,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "morel-d-arleux-hurel-billecocq": {
+    "f": "/assets/logos/dir/morel-d-arleux-hurel-billecocq-reprise-20260915.webp",
+    "nom": "Morel d'Arleux Hurel & Billecocq",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "nenert-associes": {
+    "f": "/assets/logos/dir/nenert-associes-reprise-20260915.webp",
+    "nom": "Nenert & Associés",
+    "w": 306,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "notaires-quai-de-la-tournelle": {
+    "f": "/assets/logos/dir/notaires-quai-de-la-tournelle-reprise-20260915.webp",
+    "nom": "Notaires Quai de la Tournelle",
+    "w": 285,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "palais-royal-notaires": {
+    "f": "/assets/logos/dir/palais-royal-notaires-reprise-20260915.webp",
+    "nom": "Palais-Royal Notaires",
+    "w": 433,
+    "h": 117,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "strock-associes": {
+    "f": "/assets/logos/dir/strock-associes-reprise-20260915.webp",
+    "nom": "Strock & Associés",
+    "w": 500,
+    "h": 105,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "up-notaires": {
+    "f": "/assets/logos/dir/up-notaires-reprise-20260915.webp",
+    "nom": "Up'Notaires",
+    "w": 304,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "wargny-lelong-associes": {
+    "f": "/assets/logos/dir/wargny-lelong-associes-reprise-20260915.webp",
+    "nom": "Wargny Lelong & Associés",
+    "w": 166,
+    "h": 120,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "akilys-avocats": {
+    "f": "/assets/logos/dir/akilys-avocats-reprise-20260915.webp",
+    "nom": "Akilys Avocats",
+    "w": 478,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cms-francis-lefebvre-avocats": {
+    "f": "/assets/logos/dir/cms-francis-lefebvre-avocats-reprise-20260915.webp",
+    "nom": "CMS Francis Lefebvre Avocats",
+    "w": 600,
+    "h": 46,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "coteg-azam-associes": {
+    "f": "/assets/logos/dir/coteg-azam-associes-reprise-20260915.webp",
+    "nom": "Coteg & Azam Associés",
+    "w": 204,
+    "h": 80,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fidal": {
+    "f": "/assets/logos/dir/fidal-reprise-20260915.webp",
+    "nom": "Fidal",
+    "w": 496,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fiducial-legal-by-lamy": {
+    "f": "/assets/logos/dir/fiducial-legal-by-lamy-reprise-20260915.webp",
+    "nom": "Fiducial Legal by Lamy",
+    "w": 369,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "ginestie-paley-vincent": {
+    "f": "/assets/logos/dir/ginestie-paley-vincent-reprise-20260915.webp",
+    "nom": "Ginestié Paley-Vincent",
+    "w": 600,
+    "h": 161,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mazars-societe-d-avocats-lyon": {
+    "f": "/assets/logos/dir/mazars-societe-d-avocats-lyon-reprise-20260915.webp",
+    "nom": "Mazars Société d'Avocats Lyon",
+    "w": 432,
+    "h": 181,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "menu-semeria-broc-msb-avocats": {
+    "f": "/assets/logos/dir/menu-semeria-broc-msb-avocats-reprise-20260915.webp",
+    "nom": "Menu Semeria Broc - MSB Avocats",
+    "w": 600,
+    "h": 134,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "carnegie-investment-bank": {
+    "f": "/assets/logos/dir/carnegie-investment-bank-reprise-20260915.webp",
+    "nom": "Carnegie Investment Bank",
+    "w": 461,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "dnb-markets": {
+    "f": "/assets/logos/dir/dnb-markets-reprise-20260915.webp",
+    "nom": "DNB Markets",
+    "w": 461,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "racine-avocats": {
+    "f": "/assets/logos/dir/racine-avocats-reprise-20260915.webp",
+    "nom": "Racine Avocats",
+    "w": 139,
+    "h": 41,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sullivan-cromwell-llp": {
+    "f": "/assets/logos/dir/sullivan-cromwell-llp-reprise-20260915.webp",
+    "nom": "Sullivan & Cromwell LLP",
+    "w": 600,
+    "h": 36,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "taylor-wessing": {
+    "f": "/assets/logos/dir/taylor-wessing-reprise-20260915.webp",
+    "nom": "Taylor Wessing",
+    "w": 600,
+    "h": 91,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "1cjl": {
+    "f": "/assets/logos/dir/1cjl-reprise-20260915.webp",
+    "nom": "1CJL",
+    "w": 336,
+    "h": 170,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "1point6": {
+    "f": "/assets/logos/dir/1point6-reprise-20260915.webp",
+    "nom": "1Point6",
+    "w": 344,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "liberum-capital": {
+    "f": "/assets/logos/dir/liberum-capital-reprise-20260915.webp",
+    "nom": "Liberum Capital",
+    "w": 600,
+    "h": 45,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "34g": {
+    "f": "/assets/logos/dir/34g-reprise-20260915.webp",
+    "nom": "34G",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "a-p-s-immo": {
+    "f": "/assets/logos/dir/a-p-s-immo-reprise-20260915.webp",
+    "nom": "A.P.S. Immo",
+    "w": 359,
+    "h": 146,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "alterenv": {
+    "f": "/assets/logos/dir/alterenv-reprise-20260915.webp",
+    "nom": "Alterenv",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "alternative-forest": {
+    "f": "/assets/logos/dir/alternative-forest-reprise-20260915.webp",
+    "nom": "Alternative Forest",
+    "w": 223,
+    "h": 192,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "armavema-finance": {
+    "f": "/assets/logos/dir/armavema-finance-reprise-20260915.webp",
+    "nom": "Armavema Finance",
+    "w": 600,
+    "h": 227,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "axyne-finance": {
+    "f": "/assets/logos/dir/axyne-finance-reprise-20260915.webp",
+    "nom": "Axyne Finance",
+    "w": 600,
+    "h": 185,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bleu-chocolat-investments": {
+    "f": "/assets/logos/dir/bleu-chocolat-investments-reprise-20260915.webp",
+    "nom": "Bleu Chocolat Investments",
+    "w": 600,
+    "h": 85,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "collinet-doucelance-associes": {
+    "f": "/assets/logos/dir/collinet-doucelance-associes-reprise-20260915.webp",
+    "nom": "Collinet & Doucelance Associes",
+    "w": 600,
+    "h": 98,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "estelle-perignon-lacaze": {
+    "f": "/assets/logos/dir/estelle-perignon-lacaze-reprise-20260915.webp",
+    "nom": "Estelle Perignon (Lacaze)",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "experto": {
+    "f": "/assets/logos/dir/experto-reprise-20260915.webp",
+    "nom": "Experto",
+    "w": 600,
+    "h": 129,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lagfo": {
+    "f": "/assets/logos/dir/lagfo-reprise-20260915.webp",
+    "nom": "Lagfo",
+    "w": 600,
+    "h": 221,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "urban-investissement": {
+    "f": "/assets/logos/dir/urban-investissement-reprise-20260915.webp",
+    "nom": "Urban Investissement",
+    "w": 437,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "z-m-investissement": {
+    "f": "/assets/logos/dir/z-m-investissement-reprise-20260915.webp",
+    "nom": "Z & M Investissement",
+    "w": 542,
+    "h": 160,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "comptoir-du-private-equity": {
+    "f": "/assets/logos/dir/comptoir-du-private-equity-reprise-20260915.webp",
+    "nom": "Le Comptoir du Private Equity",
+    "w": 240,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "andreae-associates": {
+    "f": "/assets/logos/dir/andreae-associates-reprise-20260915.webp",
+    "nom": "Andreae Associates",
+    "w": 572,
+    "h": 153,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "aquila-avocats": {
+    "f": "/assets/logos/dir/aquila-avocats-reprise-20260915.webp",
+    "nom": "Aquila Avocats",
+    "w": 121,
+    "h": 120,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "bh-associes": {
+    "f": "/assets/logos/dir/bh-associes-reprise-20260915.webp",
+    "nom": "BH & Associés",
+    "w": 290,
+    "h": 78,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "c-level-partners": {
+    "f": "/assets/logos/dir/c-level-partners-reprise-20260915.webp",
+    "nom": "C-Level Partners",
+    "w": 200,
+    "h": 58,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cabinet-alexis-agoguet": {
+    "f": "/assets/logos/dir/cabinet-alexis-agoguet-reprise-20260915.webp",
+    "nom": "Cabinet Alexis Agoguet",
+    "w": 300,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cabinet-aupoix": {
+    "f": "/assets/logos/dir/cabinet-aupoix-reprise-20260915.webp",
+    "nom": "Cabinet Aupoix",
+    "w": 350,
+    "h": 162,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cohen-amir-aslani": {
+    "f": "/assets/logos/dir/cohen-amir-aslani-reprise-20260915.webp",
+    "nom": "Cohen Amir Aslani",
+    "w": 350,
+    "h": 34,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "harlay-avocats": {
+    "f": "/assets/logos/dir/harlay-avocats-reprise-20260915.webp",
+    "nom": "Harlay Avocats",
+    "w": 37,
+    "h": 37,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "harving-avocats": {
+    "f": "/assets/logos/dir/harving-avocats-reprise-20260915.webp",
+    "nom": "Harving Avocats",
+    "w": 255,
+    "h": 73,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "racine": {
+    "f": "/assets/logos/dir/racine-reprise-20260915.webp",
+    "nom": "Racine",
+    "w": 139,
+    "h": 41,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sevestre-associes": {
+    "f": "/assets/logos/dir/sevestre-associes-reprise-20260915.webp",
+    "nom": "Sevestre & Associés",
+    "w": 297,
+    "h": 83,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "weil-gotshal-manges-llp": {
+    "f": "/assets/logos/dir/weil-gotshal-manges-llp-reprise-20260915.webp",
+    "nom": "Weil, Gotshal & Manges LLP",
+    "w": 150,
+    "h": 50,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "2c": {
+    "f": "/assets/logos/dir/2c-reprise-20260915.webp",
+    "nom": "2C",
+    "w": 465,
+    "h": 87,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "a-d-e": {
+    "f": "/assets/logos/dir/a-d-e-reprise-20260915.webp",
+    "nom": "A D E",
+    "w": 421,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "afc": {
+    "f": "/assets/logos/dir/afc-reprise-20260915.webp",
+    "nom": "AFC",
+    "w": 310,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "agricourtage": {
+    "f": "/assets/logos/dir/agricourtage-reprise-20260915.webp",
+    "nom": "Agricourtage",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "allier-credit": {
+    "f": "/assets/logos/dir/allier-credit-reprise-20260915.webp",
+    "nom": "Allier Credit",
+    "w": 140,
+    "h": 79,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ananke-conseils": {
+    "f": "/assets/logos/dir/ananke-conseils-reprise-20260915.webp",
+    "nom": "Ananke Conseils",
+    "w": 244,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "apolline": {
+    "f": "/assets/logos/dir/apolline-reprise-20260915.webp",
+    "nom": "Apolline",
+    "w": 309,
+    "h": 197,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ass-caisse-reglem-pecuni-avocat-barreau": {
+    "f": "/assets/logos/dir/ass-caisse-reglem-pecuni-avocat-barreau-reprise-20260915.webp",
+    "nom": "ASS Caisse Reglem Pecuni Avocat Barreau",
+    "w": 161,
+    "h": 40,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "audit-invest": {
+    "f": "/assets/logos/dir/audit-invest-reprise-20260915.webp",
+    "nom": "Audit Invest",
+    "w": 499,
+    "h": 168,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "avantage-conseil-courtage-acc": {
+    "f": "/assets/logos/dir/avantage-conseil-courtage-acc-reprise-20260915.webp",
+    "nom": "Avantage Conseil Courtage - ACC",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "avenir-et-patrimoine-investissement": {
+    "f": "/assets/logos/dir/avenir-et-patrimoine-investissement-reprise-20260915.webp",
+    "nom": "Avenir ET Patrimoine Investissement",
+    "w": 138,
+    "h": 139,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "avenis-conseil": {
+    "f": "/assets/logos/dir/avenis-conseil-reprise-20260915.webp",
+    "nom": "Avenis Conseil",
+    "w": 222,
+    "h": 40,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "blevins-franks-wealth-management-limited": {
+    "f": "/assets/logos/dir/blevins-franks-wealth-management-limited-reprise-20260915.webp",
+    "nom": "Blevins Franks Wealth Management Limited",
+    "w": 600,
+    "h": 84,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "cabinet-dabadie": {
+    "f": "/assets/logos/dir/cabinet-dabadie-reprise-20260915.webp",
+    "nom": "Cabinet Dabadie",
+    "w": 210,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "caisse-auton-reglem-pecuniers-avocats": {
+    "f": "/assets/logos/dir/caisse-auton-reglem-pecuniers-avocats-reprise-20260915.webp",
+    "nom": "Caisse Auton Reglem Pecuniers Avocats",
+    "w": 161,
+    "h": 40,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cap-au-nord": {
+    "f": "/assets/logos/dir/cap-au-nord-reprise-20260915.webp",
+    "nom": "CAP AU Nord",
+    "w": 600,
+    "h": 182,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cb-patrinvest": {
+    "f": "/assets/logos/dir/cb-patrinvest-reprise-20260915.webp",
+    "nom": "CB Patrinvest",
+    "w": 482,
+    "h": 161,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cefin-capital-debt": {
+    "f": "/assets/logos/dir/cefin-capital-debt-reprise-20260915.webp",
+    "nom": "Cefin Capital & Debt",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "change-est-nord": {
+    "f": "/assets/logos/dir/change-est-nord-reprise-20260915.webp",
+    "nom": "Change EST Nord",
+    "w": 190,
+    "h": 33,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "chevalier-credit-assurance": {
+    "f": "/assets/logos/dir/chevalier-credit-assurance-reprise-20260915.webp",
+    "nom": "Chevalier Credit Assurance",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "chrome-advisor": {
+    "f": "/assets/logos/dir/chrome-advisor-reprise-20260915.webp",
+    "nom": "Chrome Advisor",
+    "w": 298,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "citywire": {
+    "f": "/assets/logos/dir/citywire-reprise-20260915.webp",
+    "nom": "Citywire",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "comptoir-de-la-bourse": {
+    "f": "/assets/logos/dir/comptoir-de-la-bourse-reprise-20260915.webp",
+    "nom": "Comptoir DE LA Bourse",
+    "w": 350,
+    "h": 45,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "comptoir-des-tuileries": {
+    "f": "/assets/logos/dir/comptoir-des-tuileries-reprise-20260915.webp",
+    "nom": "Comptoir DES Tuileries",
+    "w": 246,
+    "h": 143,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "corpas": {
+    "f": "/assets/logos/dir/corpas-reprise-20260915.webp",
+    "nom": "Corpas",
+    "w": 184,
+    "h": 74,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "courtimmo-prets": {
+    "f": "/assets/logos/dir/courtimmo-prets-reprise-20260915.webp",
+    "nom": "Courtimmo Prets",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "cpi-credimmo-prets-immobiliers": {
+    "f": "/assets/logos/dir/cpi-credimmo-prets-immobiliers-reprise-20260915.webp",
+    "nom": "CPI Credimmo Prets Immobiliers",
+    "w": 180,
+    "h": 124,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "credigo": {
+    "f": "/assets/logos/dir/credigo-reprise-20260915.webp",
+    "nom": "Credigo",
+    "w": 200,
+    "h": 57,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "credit-deux-l": {
+    "f": "/assets/logos/dir/credit-deux-l-reprise-20260915.webp",
+    "nom": "Credit Deux L",
+    "w": 155,
+    "h": 90,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "credyl": {
+    "f": "/assets/logos/dir/credyl-reprise-20260915.webp",
+    "nom": "Credyl",
+    "w": 238,
+    "h": 126,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "directcredit": {
+    "f": "/assets/logos/dir/directcredit-reprise-20260915.webp",
+    "nom": "Directcredit",
+    "w": 191,
+    "h": 70,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "elysee-consulting": {
+    "f": "/assets/logos/dir/elysee-consulting-reprise-20260915.webp",
+    "nom": "Elysée Consulting",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "epoch-capital-france": {
+    "f": "/assets/logos/dir/epoch-capital-france-reprise-20260915.webp",
+    "nom": "Epoch Capital France",
+    "w": 200,
+    "h": 29,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "expret": {
+    "f": "/assets/logos/dir/expret-reprise-20260915.webp",
+    "nom": "Expret",
+    "w": 428,
+    "h": 165,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "finagral": {
+    "f": "/assets/logos/dir/finagral-reprise-20260915.webp",
+    "nom": "Finagral",
+    "w": 194,
+    "h": 108,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "financiere-patrick-senior-fsp": {
+    "f": "/assets/logos/dir/financiere-patrick-senior-fsp-reprise-20260915.webp",
+    "nom": "Financiere Patrick Senior - FSP",
+    "w": 164,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "finindep": {
+    "f": "/assets/logos/dir/finindep-reprise-20260915.webp",
+    "nom": "Finindep",
+    "w": 174,
+    "h": 122,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "finomie": {
+    "f": "/assets/logos/dir/finomie-reprise-20260915.webp",
+    "nom": "Finomie",
+    "w": 182,
+    "h": 24,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "fl-conseil-patrimoine": {
+    "f": "/assets/logos/dir/fl-conseil-patrimoine-reprise-20260915.webp",
+    "nom": "FL Conseil & Patrimoine",
+    "w": 210,
+    "h": 76,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "fluv-assur": {
+    "f": "/assets/logos/dir/fluv-assur-reprise-20260915.webp",
+    "nom": "Fluv'Assur",
+    "w": 247,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "goldfinger": {
+    "f": "/assets/logos/dir/goldfinger-reprise-20260915.webp",
+    "nom": "Goldfinger",
+    "w": 125,
+    "h": 123,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "grisbee-gestion-privee": {
+    "f": "/assets/logos/dir/grisbee-gestion-privee-reprise-20260915.webp",
+    "nom": "Grisbee Gestion Privée",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "groupe-pelican": {
+    "f": "/assets/logos/dir/groupe-pelican-reprise-20260915.webp",
+    "nom": "Groupe Pelican",
+    "w": 454,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "hilbert-investment-solutions": {
+    "f": "/assets/logos/dir/hilbert-investment-solutions-reprise-20260915.webp",
+    "nom": "Hilbert Investment Solutions",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "isalys": {
+    "f": "/assets/logos/dir/isalys-reprise-20260915.webp",
+    "nom": "Isalys",
+    "w": 215,
+    "h": 128,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "janngo-capital-partners": {
+    "f": "/assets/logos/dir/janngo-capital-partners-reprise-20260915.webp",
+    "nom": "Janngo Capital Partners",
+    "w": 194,
+    "h": 94,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "janouki-courtage": {
+    "f": "/assets/logos/dir/janouki-courtage-reprise-20260915.webp",
+    "nom": "Janouki Courtage",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jc-courtage-et-immobilier": {
+    "f": "/assets/logos/dir/jc-courtage-et-immobilier-reprise-20260915.webp",
+    "nom": "JC Courtage ET Immobilier",
+    "w": 251,
+    "h": 149,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jeremie-blanc-optim-courtage-jeremie-blanc": {
+    "f": "/assets/logos/dir/jeremie-blanc-optim-courtage-jeremie-blanc-reprise-20260915.webp",
+    "nom": "Jeremie Blanc (Optim Courtage/Jeremie Blanc)",
+    "w": 255,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "jmcf": {
+    "f": "/assets/logos/dir/jmcf-reprise-20260915.webp",
+    "nom": "Jmcf",
+    "w": 600,
+    "h": 126,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "joh-berenberg-gossler-co": {
+    "f": "/assets/logos/dir/joh-berenberg-gossler-co-reprise-20260915.webp",
+    "nom": "JOH. Berenberg Gossler & CO",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "julien-pinson-immobilier-patrimoine": {
+    "f": "/assets/logos/dir/julien-pinson-immobilier-patrimoine-reprise-20260915.webp",
+    "nom": "Julien Pinson Immobilier & Patrimoine",
+    "w": 231,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jurifinance": {
+    "f": "/assets/logos/dir/jurifinance-reprise-20260915.webp",
+    "nom": "Jurifinance",
+    "w": 600,
+    "h": 84,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "k-financement": {
+    "f": "/assets/logos/dir/k-financement-reprise-20260915.webp",
+    "nom": "K Financement",
+    "w": 190,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "kalstone": {
+    "f": "/assets/logos/dir/kalstone-reprise-20260915.webp",
+    "nom": "Kalstone",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "keewe": {
+    "f": "/assets/logos/dir/keewe-reprise-20260915.webp",
+    "nom": "Keewe",
+    "w": 280,
+    "h": 47,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "kyruna": {
+    "f": "/assets/logos/dir/kyruna-reprise-20260915.webp",
+    "nom": "Kyruna",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "l-arche": {
+    "f": "/assets/logos/dir/l-arche-reprise-20260915.webp",
+    "nom": "L'Arche",
+    "w": 211,
+    "h": 38,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "la-curatelaire": {
+    "f": "/assets/logos/dir/la-curatelaire-reprise-20260915.webp",
+    "nom": "LA Curatelaire",
+    "w": 335,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "la-financiere-de-beaumont": {
+    "f": "/assets/logos/dir/la-financiere-de-beaumont-reprise-20260915.webp",
+    "nom": "LA Financiere DE Beaumont",
+    "w": 320,
+    "h": 62,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "la-palme-partners": {
+    "f": "/assets/logos/dir/la-palme-partners-reprise-20260915.webp",
+    "nom": "LA Palme Partners",
+    "w": 294,
+    "h": 77,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "lenbox": {
+    "f": "/assets/logos/dir/lenbox-reprise-20260915.webp",
+    "nom": "Lenbox",
+    "w": 244,
+    "h": 48,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "lepine-associes": {
+    "f": "/assets/logos/dir/lepine-associes-reprise-20260915.webp",
+    "nom": "Lepine & Associes",
+    "w": 333,
+    "h": 156,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "les-conciliateurs-de-la-lys": {
+    "f": "/assets/logos/dir/les-conciliateurs-de-la-lys-reprise-20260915.webp",
+    "nom": "LES Conciliateurs DE LA LYS",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "letailleur-conseils-patrimoine": {
+    "f": "/assets/logos/dir/letailleur-conseils-patrimoine-reprise-20260915.webp",
+    "nom": "Letailleur Conseils & Patrimoine",
+    "w": 175,
+    "h": 153,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lga-strategie-patrimoine": {
+    "f": "/assets/logos/dir/lga-strategie-patrimoine-reprise-20260915.webp",
+    "nom": "LGA Stratégie & Patrimoine",
+    "w": 300,
+    "h": 66,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lm-co-gestion-privee": {
+    "f": "/assets/logos/dir/lm-co-gestion-privee-reprise-20260915.webp",
+    "nom": "LM & Co Gestion Privée",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "lm4-conseil-patrimoine": {
+    "f": "/assets/logos/dir/lm4-conseil-patrimoine-reprise-20260915.webp",
+    "nom": "LM4 Conseil&Patrimoine",
+    "w": 192,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "majoral-courtage": {
+    "f": "/assets/logos/dir/majoral-courtage-reprise-20260915.webp",
+    "nom": "Majoral Courtage",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "makor-securities-paris": {
+    "f": "/assets/logos/dir/makor-securities-paris-reprise-20260915.webp",
+    "nom": "Makor Securities Paris",
+    "w": 470,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "maloja": {
+    "f": "/assets/logos/dir/maloja-reprise-20260915.webp",
+    "nom": "Maloja",
+    "w": 163,
+    "h": 62,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "master-finance": {
+    "f": "/assets/logos/dir/master-finance-reprise-20260915.webp",
+    "nom": "Master Finance",
+    "w": 370,
+    "h": 99,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "md-solutions-investissement": {
+    "f": "/assets/logos/dir/md-solutions-investissement-reprise-20260915.webp",
+    "nom": "MD Solutions Investissement",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "mfs-investment-management-company-lux": {
+    "f": "/assets/logos/dir/mfs-investment-management-company-lux-reprise-20260915.webp",
+    "nom": "MFS Investment Management Company (LUX)",
+    "w": 134,
+    "h": 57,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mosaic-investissements": {
+    "f": "/assets/logos/dir/mosaic-investissements-reprise-20260915.webp",
+    "nom": "Mosaic Investissements",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "mousquebieres": {
+    "f": "/assets/logos/dir/mousquebieres-reprise-20260915.webp",
+    "nom": "Mousquebieres",
+    "w": 207,
+    "h": 209,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "mph-conseil-patrimoine": {
+    "f": "/assets/logos/dir/mph-conseil-patrimoine-reprise-20260915.webp",
+    "nom": "MPH Conseil &Patrimoine",
+    "w": 350,
+    "h": 102,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mue-conseils-et-financements": {
+    "f": "/assets/logos/dir/mue-conseils-et-financements-reprise-20260915.webp",
+    "nom": "MUE Conseils ET Financements",
+    "w": 361,
+    "h": 111,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ndfi-regroupement": {
+    "f": "/assets/logos/dir/ndfi-regroupement-reprise-20260915.webp",
+    "nom": "Ndfi Regroupement",
+    "w": 168,
+    "h": 203,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "owners": {
+    "f": "/assets/logos/dir/owners-reprise-20260915.webp",
+    "nom": "Owners",
+    "w": 75,
+    "h": 75,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "parimo": {
+    "f": "/assets/logos/dir/parimo-reprise-20260915.webp",
+    "nom": "Parimo",
+    "w": 276,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "patrimmofi-gp1": {
+    "f": "/assets/logos/dir/patrimmofi-gp1-reprise-20260915.webp",
+    "nom": "Patrimmofi GP1",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "patrimoine-et-fiscalite": {
+    "f": "/assets/logos/dir/patrimoine-et-fiscalite-reprise-20260915.webp",
+    "nom": "Patrimoine ET Fiscalite",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "paytweak": {
+    "f": "/assets/logos/dir/paytweak-reprise-20260915.webp",
+    "nom": "Paytweak",
+    "w": 134,
+    "h": 26,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "peiny-rosset": {
+    "f": "/assets/logos/dir/peiny-rosset-reprise-20260915.webp",
+    "nom": "Peiny&Rosset",
+    "w": 600,
+    "h": 207,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "pm-investissements": {
+    "f": "/assets/logos/dir/pm-investissements-reprise-20260915.webp",
+    "nom": "PM Investissements",
+    "w": 461,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "proficap": {
+    "f": "/assets/logos/dir/proficap-reprise-20260915.webp",
+    "nom": "Proficap",
+    "w": 180,
+    "h": 49,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "quantic-capital-management": {
+    "f": "/assets/logos/dir/quantic-capital-management-reprise-20260915.webp",
+    "nom": "Quantic Capital Management",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "rhone-alpes-financement": {
+    "f": "/assets/logos/dir/rhone-alpes-financement-reprise-20260915.webp",
+    "nom": "Rhone Alpes Financement",
+    "w": 200,
+    "h": 70,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "rhone-investissements": {
+    "f": "/assets/logos/dir/rhone-investissements-reprise-20260915.webp",
+    "nom": "Rhone Investissements",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "sasu-myriam-mitoire": {
+    "f": "/assets/logos/dir/sasu-myriam-mitoire-reprise-20260915.webp",
+    "nom": "Sasu Myriam Mitoire",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "strateg-inov": {
+    "f": "/assets/logos/dir/strateg-inov-reprise-20260915.webp",
+    "nom": "Strateg'Inov",
+    "w": 226,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "tikker": {
+    "f": "/assets/logos/dir/tikker-reprise-20260915.webp",
+    "nom": "Tikker",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "tudigo": {
+    "f": "/assets/logos/dir/tudigo-reprise-20260915.webp",
+    "nom": "Tudigo",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "val-investissement": {
+    "f": "/assets/logos/dir/val-investissement-reprise-20260915.webp",
+    "nom": "VAL Investissement",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "city-star-industry-investment": {
+    "f": "/assets/logos/dir/city-star-industry-investment-reprise-20260915.webp",
+    "nom": "City Star Industry Investment",
+    "w": 181,
+    "h": 92,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "matignon-investissement-et-gestion": {
+    "f": "/assets/logos/dir/matignon-investissement-et-gestion-reprise-20260915.webp",
+    "nom": "Matignon Investissement et Gestion",
+    "w": 600,
+    "h": 84,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "schroders-capital": {
+    "f": "/assets/logos/dir/schroders-capital-reprise-20260915.webp",
+    "nom": "Schroders Capital",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "vistajet": {
+    "f": "/assets/logos/dir/vistajet-reprise-20260915.webp",
+    "nom": "VistaJet",
+    "w": 542,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "dvml-notaires": {
+    "f": "/assets/logos/dir/dvml-notaires-reprise-20260915.webp",
+    "nom": "DVML Notaires",
+    "w": 90,
+    "h": 87,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "aelis-gestion-privee": {
+    "f": "/assets/logos/dir/aelis-gestion-privee-reprise-20260915.webp",
+    "nom": "Aelis Gestion Privée",
+    "w": 263,
+    "h": 111,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ambriva-partners": {
+    "f": "/assets/logos/dir/ambriva-partners-reprise-20260915.webp",
+    "nom": "Ambriva Partners",
+    "w": 282,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "amdg-private-equity": {
+    "f": "/assets/logos/dir/amdg-private-equity-reprise-20260915.webp",
+    "nom": "AMDG Private Equity",
+    "w": 600,
+    "h": 204,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ap2i-gestion-privee": {
+    "f": "/assets/logos/dir/ap2i-gestion-privee-reprise-20260915.webp",
+    "nom": "AP2I Gestion Privee",
+    "w": 404,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "arkea-asset-management": {
+    "f": "/assets/logos/dir/arkea-asset-management-reprise-20260915.webp",
+    "nom": "Arkea Asset Management",
+    "w": 198,
+    "h": 40,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bridgepoint": {
+    "f": "/assets/logos/dir/bridgepoint-reprise-20260915.webp",
+    "nom": "Bridgepoint",
+    "w": 600,
+    "h": 77,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "cdg-partners": {
+    "f": "/assets/logos/dir/cdg-partners-reprise-20260915.webp",
+    "nom": "CDG Partners",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "centres-d-affaires-tamel": {
+    "f": "/assets/logos/dir/centres-d-affaires-tamel-reprise-20260915.webp",
+    "nom": "Centres D'Affaires Tamel",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "deferney": {
+    "f": "/assets/logos/dir/deferney-reprise-20260915.webp",
+    "nom": "Deferney",
+    "w": 600,
+    "h": 159,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "dwt-family-office": {
+    "f": "/assets/logos/dir/dwt-family-office-reprise-20260915.webp",
+    "nom": "DWT Family Office",
+    "w": 294,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "ep-invest": {
+    "f": "/assets/logos/dir/ep-invest-reprise-20260915.webp",
+    "nom": "EP Invest",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "experienced-capital": {
+    "f": "/assets/logos/dir/experienced-capital-reprise-20260915.webp",
+    "nom": "Experienced Capital",
+    "w": 523,
+    "h": 136,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fi-defi": {
+    "f": "/assets/logos/dir/fi-defi-reprise-20260915.webp",
+    "nom": "Fi-Defi",
+    "w": 450,
+    "h": 148,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "groupement-territorial-ess-centre-bretagne": {
+    "f": "/assets/logos/dir/groupement-territorial-ess-centre-bretagne-reprise-20260915.webp",
+    "nom": "Groupement Territorial ESS Centre Bretagne",
+    "w": 392,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "haenggi-associes": {
+    "f": "/assets/logos/dir/haenggi-associes-reprise-20260915.webp",
+    "nom": "Haenggi & Associés",
+    "w": 600,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "haenggi-et-associes": {
+    "f": "/assets/logos/dir/haenggi-et-associes-reprise-20260915.webp",
+    "nom": "Haenggi ET Associes",
+    "w": 600,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "ingesens-gestion-privee": {
+    "f": "/assets/logos/dir/ingesens-gestion-privee-reprise-20260915.webp",
+    "nom": "Ingesens Gestion Privee",
+    "w": 384,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "insead-business-angels": {
+    "f": "/assets/logos/dir/insead-business-angels-reprise-20260915.webp",
+    "nom": "INSEAD Business Angels",
+    "w": 262,
+    "h": 148,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jacquin-associes": {
+    "f": "/assets/logos/dir/jacquin-associes-reprise-20260915.webp",
+    "nom": "Jacquin & Associés",
+    "w": 233,
+    "h": 192,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "jeddak": {
+    "f": "/assets/logos/dir/jeddak-reprise-20260915.webp",
+    "nom": "Jeddak",
+    "w": 246,
+    "h": 176,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "julien-andres": {
+    "f": "/assets/logos/dir/julien-andres-reprise-20260915.webp",
+    "nom": "Julien Andres",
+    "w": 467,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "k-founders": {
+    "f": "/assets/logos/dir/k-founders-reprise-20260915.webp",
+    "nom": "K-Founders",
+    "w": 297,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "kaliz": {
+    "f": "/assets/logos/dir/kaliz-reprise-20260915.webp",
+    "nom": "Kaliz",
+    "w": 347,
+    "h": 101,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "ledolex": {
+    "f": "/assets/logos/dir/ledolex-reprise-20260915.webp",
+    "nom": "Ledolex",
+    "w": 150,
+    "h": 42,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "les-notaires-des-allees": {
+    "f": "/assets/logos/dir/les-notaires-des-allees-reprise-20260915.webp",
+    "nom": "Les Notaires des Allées",
+    "w": 150,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lov-group-invest": {
+    "f": "/assets/logos/dir/lov-group-invest-reprise-20260915.webp",
+    "nom": "LOV Group Invest",
+    "w": 428,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "m-f-tel": {
+    "f": "/assets/logos/dir/m-f-tel-reprise-20260915.webp",
+    "nom": "M.F. TEL",
+    "w": 160,
+    "h": 94,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "montea-sca": {
+    "f": "/assets/logos/dir/montea-sca-reprise-20260915.webp",
+    "nom": "Montea SCA",
+    "w": 460,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "nc-strategie-patrimoine": {
+    "f": "/assets/logos/dir/nc-strategie-patrimoine-reprise-20260915.webp",
+    "nom": "NC Strategie & Patrimoine",
+    "w": 600,
+    "h": 165,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "nfi-invest-gestion-privee": {
+    "f": "/assets/logos/dir/nfi-invest-gestion-privee-reprise-20260915.webp",
+    "nom": "NFI Invest & Gestion Privee",
+    "w": 206,
+    "h": 240,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "primas-finance": {
+    "f": "/assets/logos/dir/primas-finance-reprise-20260915.webp",
+    "nom": "Primas Finance",
+    "w": 600,
+    "h": 168,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "rabobank": {
+    "f": "/assets/logos/dir/rabobank-reprise-20260915.webp",
+    "nom": "Rabobank",
+    "w": 376,
+    "h": 71,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "rbf": {
+    "f": "/assets/logos/dir/rbf-reprise-20260915.webp",
+    "nom": "RBF",
+    "w": 177,
+    "h": 50,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "reference-patrimoine": {
+    "f": "/assets/logos/dir/reference-patrimoine-reprise-20260915.webp",
+    "nom": "Référence Patrimoine",
+    "w": 600,
+    "h": 103,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "select-placements": {
+    "f": "/assets/logos/dir/select-placements-reprise-20260915.webp",
+    "nom": "Select'Placements",
+    "w": 490,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "selection-finance-patrimoine": {
+    "f": "/assets/logos/dir/selection-finance-patrimoine-reprise-20260915.webp",
+    "nom": "Selection Finance Patrimoine",
+    "w": 600,
+    "h": 101,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "seml-oktave": {
+    "f": "/assets/logos/dir/seml-oktave-reprise-20260915.webp",
+    "nom": "Seml Oktave",
+    "w": 600,
+    "h": 235,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "uncredit-re": {
+    "f": "/assets/logos/dir/uncredit-re-reprise-20260915.webp",
+    "nom": "Uncredit.Re",
+    "w": 400,
+    "h": 79,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "union-generale-des-placements": {
+    "f": "/assets/logos/dir/union-generale-des-placements-reprise-20260915.webp",
+    "nom": "Union Generale DES Placements",
+    "w": 600,
+    "h": 172,
+    "dark": true,
+    "wide": true,
+    "xwide": false
   }
 }

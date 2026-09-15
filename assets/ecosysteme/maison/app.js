@@ -114,7 +114,7 @@ document.addEventListener('keydown', e => {
 });
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260915-bluefish');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260915-reprise-logos');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json(); categories = data.categories;
     const categoryNames = Object.fromEntries(categories.map(c => [c.id, c.name]));
