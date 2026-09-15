@@ -69,6 +69,7 @@ function render() {
       const img = document.createElement('img');
       img.src = h.logo.src || `assets/${h.slug}.webp`; img.alt = ''; img.loading = 'lazy'; img.decoding = 'async';
       if (h.logo.dark) mark.classList.add('logo-dark');
+      if (h.logo.wide) mark.classList.add('logo-wide');
       img.addEventListener('error', () => { mark.classList.add('logo-unavailable'); mark.replaceChildren(); }, { once: true });
       mark.append(img);
     } else { mark.classList.add('logo-unavailable'); }
@@ -113,7 +114,7 @@ document.addEventListener('keydown', e => {
 });
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260913-exillium');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260915-re-sources');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json(); categories = data.categories;
     const categoryNames = Object.fromEntries(categories.map(c => [c.id, c.name]));

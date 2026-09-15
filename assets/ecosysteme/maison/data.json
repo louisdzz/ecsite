@@ -37870,7 +37870,17 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/re-sources-capital.svg",
+        "dark": false,
+        "wide": true
+      },
+      "keywords": [
+        "Arthur Fournier Le Ray",
+        "Matthieu Billoir",
+        "Rennes",
+        "Lille"
+      ]
     },
     {
       "slug": "revaia",

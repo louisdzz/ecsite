@@ -18,3 +18,5 @@
 @media(max-width:560px){.house-mark{height:46px;width:120px}.house-mark img{max-height:40px}.house-top{min-height:46px;margin-bottom:18px}.house-mark.logo-dark{padding:7px 8px}.house-mark.logo-dark img{max-height:30px}.house a{min-height:197px}}
 
 .league-mobile{display:none}.static-directory section{margin:24px 0}.static-directory h3{font-family:var(--serif);font-size:24px}.static-directory ul{padding-left:20px;columns:2}.static-directory a{text-decoration:underline}.static-directory li{break-inside:avoid;margin:5px 0}@media(max-width:800px){.league-mobile{display:inline-block;font-size:11px;padding:12px 0}.static-directory ul{columns:1}}
+
+.house-mark.logo-wide{width:180px}

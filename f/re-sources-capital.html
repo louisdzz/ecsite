@@ -81,8 +81,22 @@ html{scroll-behavior:smooth}
 .toc a{font-size:12.5px;font-weight:600;color:var(--ink);text-decoration:none;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px}
 .toc a:hover{border-color:var(--accent);color:var(--accent)}
 @media(max-width:760px){.bigstat .n{font-size:46px}}
+
+.hero.wl{display:flex;flex-direction:column;gap:18px;align-items:flex-start}
+.hero.wl .hb{min-width:0;max-width:100%}
+.flogo{width:280px;max-width:100%;line-height:0}
+.flogo img{display:block;width:100%;height:auto}
+.pers{display:flex;gap:12px;align-items:flex-start;margin-top:18px}
+.pers>.ava{display:grid;place-items:center;flex:0 0 40px;height:40px;border-radius:50%;background:var(--paper);color:var(--muted);font-size:12px;font-weight:600}
+.pers>div:last-child{min-width:0}
+.pers b{display:block;line-height:1.4;overflow-wrap:anywhere}
+.pers span{display:block;margin:4px 0;color:var(--muted);font-size:12.5px;line-height:1.5}
+.pers a{font-size:12px}
+.team-source{margin-top:18px;font-size:11.5px;color:var(--faint)}
+.team-source a{color:var(--muted)}
+@media(max-width:420px){.top{gap:12px;flex-wrap:wrap}.top>div{gap:12px!important}.flogo{width:240px}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Re-Sources Capital", "url": "https://www.exit.club/f/re-sources-capital"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Re-Sources Capital", "url": "https://www.exit.club/f/re-sources-capital", "logo": "https://www.exit.club/assets/logos/dir/re-sources-capital.svg", "sameAs": ["https://www.re-sources-capital.fr/"]}</script>
 </head>
 <body>
 <div class="wrap">
@@ -97,10 +111,13 @@ html{scroll-behavior:smooth}
 
   <div class="crumb"><a href="/ecosysteme">L'Écosystème de l'Exit</a> · <a href="/ecosysteme#fonds-pe">Fonds de Private Equity &amp; LBO</a></div>
 
-  <section class="hero">
+  <section class="hero wl">
+    <div class="flogo xw"><img src="/assets/logos/dir/re-sources-capital.svg" alt="Logo Re-Sources Capital" width="1525" height="190" decoding="async"></div>
+    <div class="hb">
     <p class="over">Profil référencé · non revendiqué</p>
     <h1 class="disp">Re-Sources Capital</h1>
     <a class="tag" href="/ecosysteme#fonds-pe">Fonds de Private Equity &amp; LBO</a>
+    </div>
   </section>
 
   <nav class="toc">
@@ -111,9 +128,9 @@ html{scroll-behavior:smooth}
     <a href="#interview">L'interview sans filtre</a>
   </nav>
 
-  <div class="card"><div class="k">Repères</div><p>Fonds de Private Equity &amp; LBO : réinvestissement au capital de sociétés non cotées.</p><p style="margin-top:10px;font-size:13px"><a href="https://www.google.com/search?q=Re-Sources%20Capital" target="_blank" rel="noopener nofollow">Site officiel</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Re-Sources%20Capital" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
+  <div class="card"><div class="k">Repères</div><p>Fonds de Private Equity &amp; LBO : réinvestissement au capital de sociétés non cotées.</p><p style="margin-top:10px;font-size:13px"><a href="https://www.re-sources-capital.fr/" target="_blank" rel="noopener nofollow">Site officiel</a> · <a href="https://www.linkedin.com/search/results/companies/?keywords=Re-Sources%20Capital" target="_blank" rel="noopener nofollow">LinkedIn</a></p></div>
 
-  <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava">MB</div><div><b>Matthieu Billoir</b><span>Directeur Associé</span><a href="https://fr.linkedin.com/in/matthieubilloir" target="_blank" rel="noopener">LinkedIn</a></div></div><p style="margin-top:10px;font-size:11.5px;color:var(--faint)">Équipe identifiée par recherche Exit Club. <a href="mailto:louis@exit.club?subject=Profil%20·%20correction" style="color:var(--muted)">Une correction ? Écrivez-moi</a></p></div>
+  <div class="card"><div class="k">Équipe dirigeante</div><div class="pers"><div class="ava" aria-hidden="true">AF</div><div><b>Arthur Fournier Le Ray</b><span>Directeur associé Investissement · Rennes</span><a href="https://fr.linkedin.com/in/arthur-fournier-le-ray-2440b78b" target="_blank" rel="noopener">LinkedIn</a></div></div><div class="pers"><div class="ava" aria-hidden="true">MB</div><div><b>Matthieu Billoir</b><span>Directeur associé Investissement · Lille</span><a href="https://fr.linkedin.com/in/matthieubilloir" target="_blank" rel="noopener">LinkedIn</a></div></div><p class="team-source">Source : <a href="https://www.re-sources-capital.fr/qui-sommes-nous/" target="_blank" rel="noopener">équipe Re-Sources Capital</a> · mise à jour le 15 septembre 2026.</p></div>
 
   <section class="sect" id="etiquette">
     <div class="k">Bloc 1 · Rémunération et frais</div>
