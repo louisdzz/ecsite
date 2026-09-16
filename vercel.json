@@ -2,13 +2,23 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/ecosysteme",
+      "destination": "/annuaire",
+      "permanent": true
+    },
+    {
+      "source": "/ecosysteme.html",
+      "destination": "/annuaire",
+      "permanent": true
+    },
+    {
       "source": "/classement",
-      "destination": "/ecosysteme",
+      "destination": "/annuaire",
       "permanent": true
     },
     {
       "source": "/classement.html",
-      "destination": "/ecosysteme",
+      "destination": "/annuaire",
       "permanent": true
     },
     {

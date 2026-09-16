@@ -130,7 +130,7 @@ async function init() {
   } catch (error) {
     $('#results-count').textContent = 'Chargement indisponible';
     const p = el('p', '', 'L’annuaire n’a pas pu être chargé. ');
-    const a = el('a', 'text-link', 'Consulter l’annuaire public ↗'); a.href = 'https://www.exit.club/ecosysteme';
+    const a = el('a', 'text-link', 'Consulter l’annuaire public ↗'); a.href = 'https://www.exit.club/annuaire';
     p.append(a); results.replaceChildren(p); $('#load-more').hidden = true;
   }
 }
