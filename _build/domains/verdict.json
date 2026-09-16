@@ -632,9 +632,12 @@
     "why": "3/3 mots"
   },
   "white-case": {
-    "domain": "whiteamp.com",
+    "domain": "whitecase.com",
+    "url": "https://www.whitecase.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/3 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "vgg-associes": {
     "domain": "vgg.com",
@@ -661,8 +664,11 @@
   },
   "winston-strawn": {
     "domain": "winston.com",
+    "url": "https://www.winston.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/3 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "yards": {
     "domain": "yards.com",
@@ -843,9 +849,12 @@
     "why": "2/2 mots"
   },
   "houlihan-lokey": {
-    "domain": "houlihan.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "hl.com",
+    "url": "https://hl.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "jefferies": {
     "domain": "jefferies.com",
@@ -926,9 +935,12 @@
     "why": "3/3 mots"
   },
   "peel-hunt": {
-    "domain": "peel.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "peelhunt.com",
+    "url": "https://www.peelhunt.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "oppenheimer-europe": {
     "domain": "oppenheimer.com",
@@ -979,9 +991,12 @@
     "why": "mot unique + secteur:fonds"
   },
   "redburn-atlantic": {
-    "domain": "redburnatlantic.com",
+    "domain": "rothschildandco.com",
+    "url": "https://www.rothschildandco.com/en/global-advisory/global-markets-solutions/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "rothschild-co-martin-maurel": {
     "domain": "rothschild.com",
@@ -2836,9 +2851,12 @@
     "why": "0/3 mots"
   },
   "gb-finances": {
-    "domain": "gbfinances.com",
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-elne.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "mot unique + secteur:finance"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "french-riviera-mortgages": {
     "domain": "french-riviera-mortgages.com",
@@ -3083,9 +3101,12 @@
     "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "h2a-conseil": {
-    "domain": "h2aconseil.com",
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-castres.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "g-s-p": {
     "domain": "gsp.com",
@@ -3312,9 +3333,12 @@
     "why": "1/3 mots"
   },
   "hmsa": {
-    "domain": "hmsa.com",
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-maisons-alfort.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "mot unique + secteur:legal"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "hotel-notre-dame": {
     "domain": "hotel-notre-dame.fr",
@@ -3990,9 +4014,12 @@
     "url": "https://www.la-maison-du-pret-immobilier.com/"
   },
   "lamballais-finances": {
-    "domain": "lamballais.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/provence-alpes-cote-d-azur/bouches-du-rhone/salon-de-provence/courtier-en-credit-a-salon-de-provence-13-50",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "laurus-conseil": {
     "domain": "laurus-conseil.com",
@@ -4504,9 +4531,12 @@
     "why": "2/2 mots"
   },
   "maurienne-credits": {
-    "domain": "maurienne.fr",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-saint-jean-de-maurienne.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "mav-capital": {
     "domain": "mav.com",
@@ -6672,9 +6702,12 @@
     "why": "2/2 mots"
   },
   "sas-la-financiere-comtoise": {
-    "domain": "financiere.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-lons-le-saunier.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "stephane-delcourt": {
     "domain": "stephane.fr",
@@ -7130,9 +7163,12 @@
     "why": "2/2 mots"
   },
   "victoria-finances": {
-    "domain": "victoria.fr",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "pamiers.immofinances.net",
+    "url": "https://pamiers.immofinances.net/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "version-patrimoine": {
     "domain": "version-patrimoine.com",
@@ -7532,9 +7568,12 @@
     "why": "mot unique + secteur:courtier"
   },
   "bordeaux-credits": {
-    "domain": "bordeaux.fr",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-bordeaux-bassins-a-flot.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "bordeaux-sud": {
     "domain": null,
@@ -7564,9 +7603,12 @@
     "why": "2/2 mots"
   },
   "bordeaux-ouest-finances": {
-    "domain": "bordeaux.fr",
-    "ok": false,
-    "why": "1/3 mots"
+    "domain": "bordeaux-ouest.immofinances.net",
+    "url": "https://bordeaux-ouest.immofinances.net/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "b-sharpe": {
     "domain": "bsharpe.com",
@@ -8469,9 +8511,12 @@
     "why": "1/2 mots"
   },
   "courtage-invest-06": {
-    "domain": "courtage.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/provence-alpes-cote-d-azur/alpes-maritimes/nice/courtier-en-credit-a-nice-06-11",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "coventis-conseils": {
     "domain": "financement-camping.fr",
@@ -8561,9 +8606,12 @@
     "why": "Site identifié dans la livraison de logo contrôlée"
   },
   "courtage-finance-conseil": {
-    "domain": "courtagefinance.fr",
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/normandie/manche/yquelon/courtier-en-credit-a-granville-50-27",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "3/3 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "credissima": {
     "domain": "credissima.fr",
@@ -9523,8 +9571,11 @@
   },
   "flexam-invest-asset-management": {
     "domain": "flexaminvest.com",
+    "url": "https://www.flexaminvest.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "4/4 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "clubfunding-asset-management": {
     "domain": "clubfunding.fr",
@@ -9891,9 +9942,12 @@
     "why": "mot unique + secteur:private equity"
   },
   "blackstone-europe-llp": {
-    "domain": "blackstone.fr",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "blackstone.com",
+    "url": "https://www.blackstone.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "bnp-paribas-developpement": {
     "domain": "bnpparibasdeveloppement.com",
@@ -9951,9 +10005,12 @@
     "why": "4/4 mots"
   },
   "cedre-capital-sas": {
-    "domain": "cedre.com",
+    "domain": "cedre-pe.com",
+    "url": "https://www.cedre-pe.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "cervinvest-capital": {
     "domain": "cervinvest-capital.com",
@@ -10053,9 +10110,12 @@
     "why": "2/2 mots"
   },
   "entrepreneur-invest": {
-    "domain": "entrepreneur.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "domain": "entrepreneurinvest.com",
+    "url": "https://www.entrepreneurinvest.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "equistone-partners-france-sas": {
     "domain": "equistonepartners.com",
@@ -10632,9 +10692,12 @@
     "why": "2/2 mots"
   },
   "societe-generale-capital-partenaires-sas": {
-    "domain": "societegenerale.fr",
+    "domain": "capitalpartenaires.societegenerale.com",
+    "url": "https://capitalpartenaires.societegenerale.com/fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "3/4 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "socadif": {
     "domain": "socadif.fr",
@@ -10662,9 +10725,12 @@
     "why": "2/2 mots"
   },
   "sopromec-participations": {
-    "domain": "sopromec.com",
+    "domain": "gorge-entreprises.com",
+    "url": "https://www.gorge-entreprises.com/pole-capital-investissement/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "quadrille-capital": {
     "domain": "quadrillecapital.com",
@@ -10726,8 +10792,11 @@
   },
   "vermeer-capital": {
     "domain": "vermeercapital.fr",
+    "url": "https://www.vermeercapital.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "vega-investment-solutions": {
     "domain": "vega-investment.com",
@@ -10976,9 +11045,12 @@
     "why": "2/2 mots"
   },
   "fundora": {
-    "domain": "fundora.com",
+    "domain": "fundora.fr",
+    "url": "https://www.fundora.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "mot unique + secteur:fund"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "foreis": {
     "domain": "foreis.com",
@@ -11022,8 +11094,11 @@
   },
   "michelin-ventures": {
     "domain": "michelin.com",
-    "ok": false,
-    "why": "1/2 mots"
+    "url": "https://www.michelin.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "partech-partners": {
     "domain": "partechpartners.com",
@@ -11144,13 +11219,19 @@
   },
   "white-star-capital-france-sas": {
     "domain": "whitestarcapital.com",
+    "url": "https://whitestarcapital.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "3/3 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "xange": {
-    "domain": "xange.com",
-    "ok": false,
-    "why": "mot unique + secteur:aucun"
+    "domain": "xange.vc",
+    "url": "https://www.xange.vc/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "technofounders": {
     "domain": "technofounders.com",
@@ -11697,8 +11778,11 @@
   },
   "opera-notaires": {
     "domain": "opera-notaires.fr",
+    "url": "https://opera-notaires.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
     "ok": true,
-    "why": "2/2 mots"
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   },
   "industry-ventures": {
     "domain": "industryventures.com",
@@ -14225,5 +14309,637 @@
     "source": "Livraison de logo et identité contrôlées GHI",
     "ok": true,
     "why": "Site identifié dans la livraison de logo contrôlée"
+  },
+  "arkea-banque-entreprises-institutionnels": {
+    "domain": "site.arkea-banque-ei.com",
+    "url": "https://site.arkea-banque-ei.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "banco-santander": {
+    "domain": "santander.com",
+    "url": "https://www.santander.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "bnp-paribas-cib": {
+    "domain": "cib.bnpparibas",
+    "url": "https://cib.bnpparibas",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "clearwater-international": {
+    "domain": "clearwatercf.com",
+    "url": "https://www.clearwatercf.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "dc-advisory": {
+    "domain": "dcadvisory.com",
+    "url": "https://www.dcadvisory.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "edmond-de-rothschild-cf": {
+    "domain": "edmond-de-rothschild.com",
+    "url": "https://www.edmond-de-rothschild.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "hauck-aufhauser": {
+    "domain": "hauck-aufhaeuser.com",
+    "url": "https://www.hauck-aufhaeuser.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "callisto": {
+    "domain": "callisto-finance.com",
+    "url": "https://www.callisto-finance.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "financiere-de-courcelles": {
+    "domain": "financieredecourcelles.fr",
+    "url": "https://financieredecourcelles.fr",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "hottinguer-cf": {
+    "domain": "banque-hottinguer.com",
+    "url": "https://www.banque-hottinguer.com",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "cg-family-office": {
+    "domain": "groupe-cg-patrimoine.fr",
+    "url": "https://www.groupe-cg-patrimoine.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "neuflize-obc-family-office": {
+    "domain": "neuflizeobc.fr",
+    "url": "https://www.neuflizeobc.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "butler-capital-partners": {
+    "domain": "butlercapitalpartners.com",
+    "url": "http://www.butlercapitalpartners.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "credit-agricole-alpes-developpement": {
+    "domain": "ca-alpes-developpement.fr",
+    "url": "https://www.ca-alpes-developpement.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "macif-impact-ess": {
+    "domain": "macif.fr",
+    "url": "https://www.macif.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "wormser-freres-gestion": {
+    "domain": "banquewormser.com",
+    "url": "https://www.banquewormser.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "aglae-management-sas": {
+    "domain": "aglaeventures.com",
+    "url": "https://aglaeventures.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "engie-new-ventures": {
+    "domain": "engie.com",
+    "url": "https://www.engie.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "orange-digital-investment": {
+    "domain": "orange.com",
+    "url": "https://www.orange.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "orange-ventures-sas": {
+    "domain": "ventures.orange.com",
+    "url": "https://ventures.orange.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "charles-russell-speechlys": {
+    "domain": "charlesrussellspeechlys.com",
+    "url": "https://www.charlesrussellspeechlys.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "gomel-avocats": {
+    "domain": "gomel-avocats.com",
+    "url": "https://www.gomel-avocats.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "herbert-smith-freehills": {
+    "domain": "hsfkramer.com",
+    "url": "https://www.hsfkramer.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "guillaud-bataille-notaires": {
+    "domain": "sgb.notaires.fr",
+    "url": "https://www.sgb.notaires.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "office-notarial-des-allees": {
+    "domain": "officedesallees.notaires.fr",
+    "url": "https://officedesallees.notaires.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "flyvictor": {
+    "domain": "flyvictor.com",
+    "url": "https://www.flyvictor.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "avenir-pro-consultant": {
+    "domain": "credipro.com",
+    "url": "https://credipro.com/agences-credipro/clermont-ferrand-63/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "bonacoscia-conseils": {
+    "domain": "credipro.com",
+    "url": "https://credipro.com/agences-credipro/corse/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "lema-entreprises": {
+    "domain": "credipro.com",
+    "url": "https://credipro.com/agences-credipro/anglet-64/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "abr-finances": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-dinan.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "b-j-courtage": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-dieppe.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "bcc-rennes-centre": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-rennes-centre.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "conseil-creditassur-37": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-chambray-les-tours.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "crd-courtage": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-abbeville.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "credimmopale": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-boulogne-sur-mer.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "credit-sud-immobilier": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-saint-sebastien-sur-loire.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "eden-courtage": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-rueil-malmaison.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "financement-du-cambresis": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-cambrai.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "finimmo-finance-immobilier": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-macon.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "fp-finance": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-lambersart.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "freca": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-saint-brieuc.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "frelan": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-lannion.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "h2o-finances": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-nancy-est.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "hm-finances": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-saint-die-des-vosges.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "huguet-conseils-et-credits": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-blois.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "immo-broker": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-la-defense.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "le-meilleur-financement": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-les-clayes-sous-bois.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "mt-sartrouville": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-sartrouville.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "mtx-rouen": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-rouen.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "nord-m-finance": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-tourcoing.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "p-a-t-g-courtage": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-albi.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "ramonville-financement-immobilier": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-ramonville.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "rive-droite-credits": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-cenon.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "sarl-creditassur": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-poitiers-sud.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "sofisev": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-cholet.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "tov-finance-conseil": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-marseille-vieux-port.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "yo-fi": {
+    "domain": "meilleurtaux.com",
+    "url": "https://www.meilleurtaux.com/a-propos-de-meilleurtaux/toutes-nos-agences-en-france/courtier-issy-les-moulineaux.html",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "c2-invest-pro": {
+    "domain": "credipro.com",
+    "url": "https://credipro.com/agences-credipro/bordeaux-rive-gauche-33/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "confiance-finances": {
+    "domain": "vaires-sur-marne.immofinances.net",
+    "url": "https://vaires-sur-marne.immofinances.net/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "futurs-financements": {
+    "domain": "paris-17.immofinances.net",
+    "url": "https://paris-17.immofinances.net/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "b6-courtage": {
+    "domain": "immopret.fr",
+    "url": "https://www.immopret.fr/nos-agences/courtier-immobilier-fontainebleau/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "dr-finances-conseils": {
+    "domain": "immopret.fr",
+    "url": "https://www.immopret.fr/nos-agences/courtier-immobilier-gradignan/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "toulouse-courtiers": {
+    "domain": "immopret.fr",
+    "url": "https://www.immopret.fr/nos-agences/courtier-immobilier-toulouse-est/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "cecile-sarteur-giry-cecile-sarteur-finance-eirl": {
+    "domain": "inandfi-credits.fr",
+    "url": "https://www.inandfi-credits.fr/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "courtage-conseils-banque-assurances": {
+    "domain": "inandfi-credits.fr",
+    "url": "https://www.inandfi-credits.fr/courtier/mende",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "prelys-finances": {
+    "domain": "prelys-courtage.com",
+    "url": "https://www.prelys-courtage.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "vesta-conseil": {
+    "domain": "prelys-courtage.com",
+    "url": "https://www.prelys-courtage.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "kerjean-financement": {
+    "domain": "vanetys-brest.com",
+    "url": "https://www.vanetys-brest.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "ouest-financement-immobilier": {
+    "domain": "vanetys.com",
+    "url": "https://www.vanetys.com/",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "a-b-c-o-conseil": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/auvergne-rhone-alpes/savoie/chambery/courtier-en-credit-a-chambery-73-65",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "cap-est-financement": {
+    "domain": "vousfinancer.com",
+    "url": "https://www.vousfinancer.com/courtiers/guyane/cayenne/mentions-legales",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "cmc-charly-mariette-courtage": {
+    "domain": "vousfinancer.com",
+    "url": "https://www.vousfinancer.com/courtiers/vendee/les-sables-dolonne/mentions-legales",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "ftb-financement": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/hauts-de-france/nord/marcq-en-baroeul/courtier-en-credit-a-lille-59-5",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "isere-courtage": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/auvergne-rhone-alpes/isere/villette-d-anthon/courtier-en-credit-a-villette-danthon-38-31",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "lac-financement": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/auvergne-rhone-alpes/haute-savoie/thonon-les-bains/courtier-en-credit-a-thonon-les-bains-74-22",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "mt-courtiers": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/hauts-de-france/nord/maubeuge/courtier-en-credit-a-maubeuge-59-17",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "sarl-36-carnot-courtage": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/grand-est/aube/troyes/courtier-en-credit-a-troyes-10-47",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "votre-taux-negocie": {
+    "domain": "courtier.vousfinancer.com",
+    "url": "https://courtier.vousfinancer.com/bretagne/morbihan/lorient/courtier-en-credit-a-lorient-56-2",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
+  },
+  "yk-finance-786": {
+    "domain": "vousfinancer.com",
+    "url": "https://www.vousfinancer.com/courtiers/yvelines/conflans-sainte-honorine/mentions-legales",
+    "verificationDate": "2026-09-16",
+    "source": "Livraison de logo et preuve documentaire v3",
+    "ok": true,
+    "why": "Site ou page officielle identifié dans le dossier documentaire"
   }
 }

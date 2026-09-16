@@ -116,7 +116,11 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alantra-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "alantra-france-corporate-finance",
@@ -124,7 +128,12 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/alantra-france-corporate-finance-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Alantra"
     },
     {
       "slug": "allegra-finance",
@@ -165,7 +174,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/arkea-banque-entreprises-institutionnels-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "atout-capital",
@@ -196,7 +209,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/banco-santander-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "bank-of-america",
@@ -237,7 +254,12 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bnp-paribas-cib-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe BNP Paribas"
     },
     {
       "slug": "bryan-garnier-co",
@@ -310,7 +332,11 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/clearwater-international-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "clipperton",
@@ -342,7 +368,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-agricole-corporate-investment-bank-ca-cib-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "danske-bank",
@@ -362,7 +392,11 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dc-advisory-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": false
+      }
     },
     {
       "slug": "deutsche-bank",
@@ -393,7 +427,12 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/edmond-de-rothschild-cf-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Edmond de Rothschild"
     },
     {
       "slug": "euroland-corporate",
@@ -424,7 +463,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/evercore-gmbh-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "exane-bnp-paribas",
@@ -496,7 +539,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hauck-aufhauser-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "houlihan-lokey",
@@ -505,7 +552,11 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/houlihan-lokey-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "hsbc",
@@ -703,7 +754,11 @@
         "banques-affaires",
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/natixis-partners-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "nordea",
@@ -777,7 +832,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/peel-hunt-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "philippe-hottinguer-finance",
@@ -829,7 +888,11 @@
       "categories": [
         "banques-affaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/redburn-atlantic-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "rothschild-co",
@@ -1048,7 +1111,11 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/callisto-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "capitalmind",
@@ -1086,7 +1153,11 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/degroof-petercam-cf-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "financiere-de-courcelles",
@@ -1094,7 +1165,11 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/financiere-de-courcelles-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "goetzpartners",
@@ -1113,7 +1188,12 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hottinguer-cf-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Banque Hottinguer"
     },
     {
       "slug": "in-extenso-finance",
@@ -1143,7 +1223,11 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lazard-lazardnext-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "leonardo-co-mediobanca",
@@ -1230,7 +1314,12 @@
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/pricoa-cf-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe PGIM (Prudential Financial)"
     },
     {
       "slug": "qatalyst-partners",
@@ -1422,7 +1511,12 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cg-family-office-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Groupe CG Patrimoine"
     },
     {
       "slug": "citadelle-family-office",
@@ -1823,7 +1917,12 @@
       "categories": [
         "mfo"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/neuflize-obc-family-office-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Neuflize OBC (ABN AMRO)"
     },
     {
       "slug": "norman-k",
@@ -3015,7 +3114,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bdo-avocats-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "bensaid-avocats",
@@ -3251,7 +3354,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/charles-russell-speechlys-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "chatelain-cantoni-avocats",
@@ -3715,7 +3822,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/franklin-paris-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "freshfields",
@@ -3800,7 +3911,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gomel-avocats-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "goodwin",
@@ -3896,7 +4011,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/herbert-smith-freehills-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "hoche-avocats",
@@ -4943,7 +5062,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/white-case-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "white-case-llp",
@@ -4981,7 +5104,11 @@
       "categories": [
         "avocats"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/winston-strawn-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "woog-associes",
@@ -5206,7 +5333,12 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/crowe-avvens-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe réseau Crowe"
     },
     {
       "slug": "crowe-france",
@@ -5214,7 +5346,12 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/crowe-france-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe réseau Crowe"
     },
     {
       "slug": "crowe-haf",
@@ -5222,7 +5359,12 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/crowe-haf-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe réseau Crowe"
     },
     {
       "slug": "dba",
@@ -5428,7 +5570,11 @@
       "categories": [
         "experts-comptables"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hlb-france-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "hlp-audit",
@@ -5911,7 +6057,11 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/benoit-morel-notaire-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "bremens-notaires",
@@ -6138,7 +6288,11 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/guillaud-bataille-notaires-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "haussmann-notaires",
@@ -6437,7 +6591,11 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/office-notarial-des-allees-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "office-notarial-du-guesclin",
@@ -6475,7 +6633,11 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/opera-notaires-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "palais-royal-notaires",
@@ -6524,7 +6686,11 @@
       "categories": [
         "notaires"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/r-d-notaires-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "regnier-notaires",
@@ -7108,7 +7274,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/a-b-c-o-conseil-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "ab-courtage",
@@ -7217,7 +7388,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/abr-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "abscys",
@@ -10272,7 +10448,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/avenir-pro-consultant-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "avenis-conseil",
@@ -10500,7 +10681,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/b6-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immoprêt"
     },
     {
       "slug": "ba2c-consulting",
@@ -10711,7 +10897,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bcc-rennes-centre-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "bcf-business-centre-financement",
@@ -11085,7 +11276,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/b-j-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "bj-patrimoine-conseils",
@@ -11307,7 +11503,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bonacoscia-conseils-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "bonjour-patrimoine",
@@ -11334,7 +11535,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bordeaux-credits-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "bordeauxfi",
@@ -11350,7 +11556,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bordeaux-ouest-finances-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immofinances"
     },
     {
       "slug": "bordeaux-sud",
@@ -11583,7 +11794,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/business-courtage-conseil-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "business-relief",
@@ -11618,7 +11834,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/c2-invest-pro-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "c3j-finance",
@@ -12148,7 +12369,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cap-est-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "capfinance",
@@ -12730,7 +12956,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cecile-sarteur-giry-cecile-sarteur-finance-eirl-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau In&Fi Crédits"
     },
     {
       "slug": "ce-courtage-finances",
@@ -13923,7 +14154,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cmc-charly-mariette-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "cmj-finances",
@@ -14373,7 +14609,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/confiance-finances-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immofinances"
     },
     {
       "slug": "connectcredit",
@@ -14416,7 +14657,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/conseil-creditassur-37-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "conseil-en-gestion-de-patrimoine",
@@ -14734,7 +14980,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/courtage-conseils-banque-assurances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau In&Fi Crédits"
     },
     {
       "slug": "courtage-credits-conseils",
@@ -14769,7 +15020,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/courtage-finance-conseil-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "courtage-fin-pro",
@@ -14796,7 +15052,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/courtage-invest-06-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "courtage-setois",
@@ -15002,7 +15263,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/crd-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "creacard",
@@ -15100,7 +15366,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credimmopale-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "credipharm",
@@ -15402,7 +15673,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-sud-immobilier-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "creditsur",
@@ -15516,7 +15792,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cr-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CAFPI"
     },
     {
       "slug": "cristal-groupe-international",
@@ -16446,7 +16727,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/dr-finances-conseils-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immoprêt"
     },
     {
       "slug": "droles2dames",
@@ -16558,7 +16844,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/e-2c-f-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "eag-levallois",
@@ -16664,7 +16955,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/eden-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "eden-credit",
@@ -18643,7 +18939,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/financement-du-cambresis-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "financement-du-pevele",
@@ -19071,7 +19372,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/finimmo-finance-immobilier-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "finindep",
@@ -19491,7 +19797,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fp-finance-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "fpi",
@@ -19596,7 +19907,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/freca-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "frederic-andlauer-andlauer-conseil",
@@ -19647,7 +19963,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/frelan-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "french-riviera-mortgages",
@@ -19674,7 +19995,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ftb-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "ft-finances-et-patrimoine",
@@ -19752,7 +20078,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/futurs-financements-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immofinances"
     },
     {
       "slug": "fuzzed-realty",
@@ -19890,7 +20221,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/gb-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "gc-courtage",
@@ -20817,7 +21153,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/h2a-conseil-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "h2o-finances",
@@ -20825,7 +21166,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/h2o-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "h2o-group",
@@ -21249,7 +21595,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hm-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "hmsa",
@@ -21257,7 +21608,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/hmsa-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "hods-associes",
@@ -21500,7 +21856,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/huguet-conseils-et-credits-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "hyacinthe-conseil",
@@ -21790,7 +22151,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/immo-broker-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "immo-courtage",
@@ -22325,7 +22691,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/isere-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "isi-courtage",
@@ -23299,7 +23670,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kerjean-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vanetys"
     },
     {
       "slug": "kermony-capital",
@@ -23622,7 +23998,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lac-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "la-cle-finance",
@@ -23908,7 +24289,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lamballais-finances-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "lam-conseils",
@@ -24291,7 +24677,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/lema-entreprises-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "leman-finance-transaction",
@@ -24318,7 +24709,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/le-meilleur-financement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "le-meilleur-reste-avenir",
@@ -25733,7 +26129,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/maurienne-credits-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "mav-capital",
@@ -26706,7 +27107,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mon-courtier-pro-toulon-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau CrediPro"
     },
     {
       "slug": "monemprunt-com",
@@ -27164,7 +27570,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mt-courtiers-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "m-t-finances",
@@ -27191,7 +27602,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mt-sartrouville-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "mtx-coulommiers",
@@ -27226,7 +27642,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/mtx-rouen-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "mue-conseils-et-financements",
@@ -27851,7 +28272,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/nord-m-finance-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "norleathi",
@@ -28792,7 +29218,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ouest-financement-immobilier-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vanetys"
     },
     {
       "slug": "ouest-finance-patrimoine",
@@ -29134,7 +29565,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/p-a-t-g-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "path",
@@ -30163,7 +30599,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/prelys-finances-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Prelys Courtage"
     },
     {
       "slug": "premidirect",
@@ -30886,7 +31327,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/ramonville-financement-immobilier-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "ravinala",
@@ -31246,7 +31692,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/rive-droite-credits-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "rive-neuve-capital",
@@ -31656,7 +32107,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sarl-36-carnot-courtage-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "sarl-a-c-gestion-privee",
@@ -31745,7 +32201,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sarl-creditassur-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "sarl-creditwest",
@@ -32112,7 +32573,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sas-la-financiere-comtoise-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "sas-la-preteuse",
@@ -33238,7 +33704,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sofisev-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "sogefinances",
@@ -34498,7 +34969,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/toulouse-courtiers-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immoprêt"
     },
     {
       "slug": "toulouse-financement-immobilier",
@@ -34522,7 +34998,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/tov-finance-conseil-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "tractial",
@@ -35271,7 +35752,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vesta-conseil-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Prelys Courtage"
     },
     {
       "slug": "vf-conseil-patrimoine",
@@ -35352,7 +35838,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/victoria-finances-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Immofinances"
     },
     {
       "slug": "vie-et-partage",
@@ -35580,7 +36071,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/votre-taux-negocie-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "v-patrimoine",
@@ -35979,7 +36475,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/yk-finance-786-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Vousfinancer"
     },
     {
       "slug": "y-not",
@@ -36009,7 +36510,12 @@
       "categories": [
         "cgp"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/yo-fi-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Agence du réseau Meilleurtaux"
     },
     {
       "slug": "yooliz",
@@ -36115,7 +36621,12 @@
       "categories": [
         "assurance-vie-lux"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/la-mondiale-europartner-lu-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe AG2R La Mondiale"
     },
     {
       "slug": "byzantine",
@@ -36222,7 +36733,11 @@
       "categories": [
         "actifs-numeriques"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/qcp-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "123-investment-managers",
@@ -36590,7 +37105,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/amundi-private-equity-funds-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Amundi"
     },
     {
       "slug": "amundi-transition-energetique",
@@ -36598,7 +37118,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/amundi-transition-energetique-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Amundi"
     },
     {
       "slug": "anaxago-capital",
@@ -36953,7 +37478,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/bel-ventures-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Groupe Bel"
     },
     {
       "slug": "bex-capital",
@@ -37005,7 +37535,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/blackstone-europe-llp-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Blackstone"
     },
     {
       "slug": "bnp-paribas-asset-management",
@@ -37101,7 +37636,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/burelle-participations-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Burelle SA"
     },
     {
       "slug": "burgundy-private-equity",
@@ -37117,7 +37657,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/butler-capital-partners-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "byway-capital",
@@ -37221,7 +37765,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cd-r-llp-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "cedre-capital-sas",
@@ -37229,7 +37777,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/cedre-capital-sas-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "cerea-partners",
@@ -37366,7 +37918,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/credit-agricole-alpes-developpement-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Crédit Agricole"
     },
     {
       "slug": "credit-agricole-regions-investissement-carvest",
@@ -37561,7 +38118,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/entrepreneur-invest-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": false
+      }
     },
     {
       "slug": "eoden-ressources",
@@ -37740,7 +38301,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/five-arrows-managers-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Rothschild & Co"
     },
     {
       "slug": "flandrin-capital",
@@ -38210,7 +38776,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/jcdecaux-holding-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "jerikho-im",
@@ -38416,7 +38986,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/macif-impact-ess-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Macif"
     },
     {
       "slug": "macquarie-capital-france",
@@ -39107,7 +39682,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sapaudia-partners-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "schroders-capital",
@@ -39200,7 +39779,12 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/societe-generale-capital-partenaires-sas-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Société Générale"
     },
     {
       "slug": "sodero-gestion",
@@ -39274,7 +39858,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/sopromec-participations-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "sparring-capital",
@@ -39546,7 +40134,11 @@
       "categories": [
         "fonds-pe"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/vermeer-capital-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      }
     },
     {
       "slug": "verto",
@@ -39919,7 +40511,12 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/five-arrows-rothschild-co-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Rothschild & Co"
     },
     {
       "slug": "flexam-invest-asset-management",
@@ -39927,7 +40524,12 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/flexam-invest-asset-management-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Kartesia"
     },
     {
       "slug": "generis-capital-partners",
@@ -40031,7 +40633,11 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/kepler-cheuvreux-invest-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "kkr",
@@ -40283,7 +40889,12 @@
       "categories": [
         "fonds-dette"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/wormser-freres-gestion-suite-v3-20260916.webp",
+        "dark": true,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Banque Wormser Frères"
     },
     {
       "slug": "zencap-am",
@@ -40357,7 +40968,11 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aglae-management-sas-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "aliad-venture-capital",
@@ -40365,7 +40980,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/aliad-venture-capital-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Air Liquide"
     },
     {
       "slug": "alma-mundi-ventures-sgeic-sa",
@@ -40686,7 +41306,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/engie-new-ventures-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe ENGIE"
     },
     {
       "slug": "episode-1",
@@ -40882,7 +41507,11 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/fundora-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "future-positive-capital",
@@ -41093,7 +41722,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/maif-impact-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe MAIF"
     },
     {
       "slug": "malakoff-humanis-innov",
@@ -41112,7 +41746,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/michelin-ventures-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      },
+      "logoAttribution": "Entité du groupe Michelin"
     },
     {
       "slug": "miriad",
@@ -41227,7 +41866,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/orange-digital-investment-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Orange"
     },
     {
       "slug": "orange-ventures-sas",
@@ -41235,7 +41879,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/orange-ventures-sas-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Orange"
     },
     {
       "slug": "ovni-capital",
@@ -41385,7 +42034,12 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/seb-alliance-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      },
+      "logoAttribution": "Entité du groupe Groupe SEB"
     },
     {
       "slug": "seedcamp",
@@ -41602,7 +42256,11 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/white-star-capital-france-sas-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "wind-venture",
@@ -41618,7 +42276,11 @@
       "categories": [
         "fonds-vc"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/xange-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": false
+      }
     },
     {
       "slug": "xerys-invest",
@@ -41879,7 +42541,11 @@
       "categories": [
         "jets"
       ],
-      "logo": false
+      "logo": {
+        "src": "/assets/logos/dir/flyvictor-suite-v3-20260916.webp",
+        "dark": false,
+        "wide": true
+      }
     },
     {
       "slug": "globeair",

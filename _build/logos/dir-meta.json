@@ -22815,5 +22815,1283 @@
     "dark": true,
     "wide": true,
     "xwide": false
+  },
+  "alantra": {
+    "f": "/assets/logos/dir/alantra-suite-v3-20260916.webp",
+    "nom": "Alantra",
+    "w": 324,
+    "h": 54,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "alantra-france-corporate-finance": {
+    "f": "/assets/logos/dir/alantra-france-corporate-finance-suite-v3-20260916.webp",
+    "nom": "ALANTRA France Corporate Finance",
+    "w": 324,
+    "h": 54,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "arkea-banque-entreprises-institutionnels": {
+    "f": "/assets/logos/dir/arkea-banque-entreprises-institutionnels-suite-v3-20260916.webp",
+    "nom": "Arkea Banque Entreprises & Institutionnels",
+    "w": 400,
+    "h": 66,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "banco-santander": {
+    "f": "/assets/logos/dir/banco-santander-suite-v3-20260916.webp",
+    "nom": "Banco Santander",
+    "w": 413,
+    "h": 75,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "bnp-paribas-cib": {
+    "f": "/assets/logos/dir/bnp-paribas-cib-suite-v3-20260916.webp",
+    "nom": "BNP Paribas CIB",
+    "w": 491,
+    "h": 101,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "clearwater-international": {
+    "f": "/assets/logos/dir/clearwater-international-suite-v3-20260916.webp",
+    "nom": "Clearwater International",
+    "w": 584,
+    "h": 123,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "credit-agricole-corporate-investment-bank-ca-cib": {
+    "f": "/assets/logos/dir/credit-agricole-corporate-investment-bank-ca-cib-suite-v3-20260916.webp",
+    "nom": "Crédit Agricole Corporate & Investment Bank (CA-CIB)",
+    "w": 600,
+    "h": 72,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "dc-advisory": {
+    "f": "/assets/logos/dir/dc-advisory-suite-v3-20260916.webp",
+    "nom": "DC Advisory",
+    "w": 163,
+    "h": 203,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "edmond-de-rothschild-cf": {
+    "f": "/assets/logos/dir/edmond-de-rothschild-cf-suite-v3-20260916.webp",
+    "nom": "Edmond de Rothschild CF",
+    "w": 600,
+    "h": 166,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "evercore-gmbh": {
+    "f": "/assets/logos/dir/evercore-gmbh-suite-v3-20260916.webp",
+    "nom": "Evercore GmBH",
+    "w": 521,
+    "h": 82,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "hauck-aufhauser": {
+    "f": "/assets/logos/dir/hauck-aufhauser-suite-v3-20260916.webp",
+    "nom": "Hauck & Aufhäuser",
+    "w": 450,
+    "h": 235,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "houlihan-lokey": {
+    "f": "/assets/logos/dir/houlihan-lokey-suite-v3-20260916.webp",
+    "nom": "Houlihan Lokey",
+    "w": 600,
+    "h": 101,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "natixis-partners": {
+    "f": "/assets/logos/dir/natixis-partners-suite-v3-20260916.webp",
+    "nom": "Natixis Partners",
+    "w": 183,
+    "h": 49,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "peel-hunt": {
+    "f": "/assets/logos/dir/peel-hunt-suite-v3-20260916.webp",
+    "nom": "Peel Hunt",
+    "w": 506,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "redburn-atlantic": {
+    "f": "/assets/logos/dir/redburn-atlantic-suite-v3-20260916.webp",
+    "nom": "Redburn Atlantic",
+    "w": 600,
+    "h": 223,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "callisto": {
+    "f": "/assets/logos/dir/callisto-suite-v3-20260916.webp",
+    "nom": "Callisto",
+    "w": 189,
+    "h": 72,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "degroof-petercam-cf": {
+    "f": "/assets/logos/dir/degroof-petercam-cf-suite-v3-20260916.webp",
+    "nom": "Degroof Petercam CF",
+    "w": 586,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "financiere-de-courcelles": {
+    "f": "/assets/logos/dir/financiere-de-courcelles-suite-v3-20260916.webp",
+    "nom": "Financière de Courcelles",
+    "w": 600,
+    "h": 99,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "hottinguer-cf": {
+    "f": "/assets/logos/dir/hottinguer-cf-suite-v3-20260916.webp",
+    "nom": "Hottinguer CF",
+    "w": 600,
+    "h": 150,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lazard-lazardnext": {
+    "f": "/assets/logos/dir/lazard-lazardnext-suite-v3-20260916.webp",
+    "nom": "Lazard (LazardNext)",
+    "w": 600,
+    "h": 113,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "pricoa-cf": {
+    "f": "/assets/logos/dir/pricoa-cf-suite-v3-20260916.webp",
+    "nom": "Pricoa CF",
+    "w": 600,
+    "h": 210,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "cg-family-office": {
+    "f": "/assets/logos/dir/cg-family-office-suite-v3-20260916.webp",
+    "nom": "CG Family Office",
+    "w": 350,
+    "h": 100,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "neuflize-obc-family-office": {
+    "f": "/assets/logos/dir/neuflize-obc-family-office-suite-v3-20260916.webp",
+    "nom": "Neuflize OBC Family Office",
+    "w": 368,
+    "h": 85,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "amundi-private-equity-funds": {
+    "f": "/assets/logos/dir/amundi-private-equity-funds-suite-v3-20260916.webp",
+    "nom": "Amundi Private Equity Funds",
+    "w": 250,
+    "h": 111,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "amundi-transition-energetique": {
+    "f": "/assets/logos/dir/amundi-transition-energetique-suite-v3-20260916.webp",
+    "nom": "Amundi Transition Energetique",
+    "w": 250,
+    "h": 111,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bel-ventures": {
+    "f": "/assets/logos/dir/bel-ventures-suite-v3-20260916.webp",
+    "nom": "Bel Ventures",
+    "w": 133,
+    "h": 133,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "blackstone-europe-llp": {
+    "f": "/assets/logos/dir/blackstone-europe-llp-suite-v3-20260916.webp",
+    "nom": "Blackstone Europe LLP",
+    "w": 512,
+    "h": 200,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "burelle-participations": {
+    "f": "/assets/logos/dir/burelle-participations-suite-v3-20260916.webp",
+    "nom": "Burelle Participations",
+    "w": 95,
+    "h": 110,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "butler-capital-partners": {
+    "f": "/assets/logos/dir/butler-capital-partners-suite-v3-20260916.webp",
+    "nom": "Butler Capital Partners",
+    "w": 263,
+    "h": 33,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "cd-r-llp": {
+    "f": "/assets/logos/dir/cd-r-llp-suite-v3-20260916.webp",
+    "nom": "CD&R LLP",
+    "w": 579,
+    "h": 157,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cedre-capital-sas": {
+    "f": "/assets/logos/dir/cedre-capital-sas-suite-v3-20260916.webp",
+    "nom": "Cèdre Capital SAS",
+    "w": 284,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "credit-agricole-alpes-developpement": {
+    "f": "/assets/logos/dir/credit-agricole-alpes-developpement-suite-v3-20260916.webp",
+    "nom": "Crédit Agricole Alpes Développement",
+    "w": 315,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "entrepreneur-invest": {
+    "f": "/assets/logos/dir/entrepreneur-invest-suite-v3-20260916.webp",
+    "nom": "Entrepreneur Invest",
+    "w": 179,
+    "h": 233,
+    "dark": true,
+    "wide": false,
+    "xwide": false
+  },
+  "five-arrows-managers": {
+    "f": "/assets/logos/dir/five-arrows-managers-suite-v3-20260916.webp",
+    "nom": "Five Arrows Managers",
+    "w": 600,
+    "h": 99,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "jcdecaux-holding": {
+    "f": "/assets/logos/dir/jcdecaux-holding-suite-v3-20260916.webp",
+    "nom": "JCDecaux Holding",
+    "w": 421,
+    "h": 160,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "macif-impact-ess": {
+    "f": "/assets/logos/dir/macif-impact-ess-suite-v3-20260916.webp",
+    "nom": "Macif Impact ESS",
+    "w": 230,
+    "h": 228,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "sapaudia-partners": {
+    "f": "/assets/logos/dir/sapaudia-partners-suite-v3-20260916.webp",
+    "nom": "Sapaudia Partners",
+    "w": 600,
+    "h": 119,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "societe-generale-capital-partenaires-sas": {
+    "f": "/assets/logos/dir/societe-generale-capital-partenaires-sas-suite-v3-20260916.webp",
+    "nom": "Société Générale Capital Partenaires SAS",
+    "w": 600,
+    "h": 122,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sopromec-participations": {
+    "f": "/assets/logos/dir/sopromec-participations-suite-v3-20260916.webp",
+    "nom": "Sopromec Participations",
+    "w": 313,
+    "h": 33,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "vermeer-capital": {
+    "f": "/assets/logos/dir/vermeer-capital-suite-v3-20260916.webp",
+    "nom": "Vermeer Capital",
+    "w": 268,
+    "h": 104,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "five-arrows-rothschild-co": {
+    "f": "/assets/logos/dir/five-arrows-rothschild-co-suite-v3-20260916.webp",
+    "nom": "Five Arrows (Rothschild & Co)",
+    "w": 600,
+    "h": 99,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "flexam-invest-asset-management": {
+    "f": "/assets/logos/dir/flexam-invest-asset-management-suite-v3-20260916.webp",
+    "nom": "Flexam Invest Asset Management",
+    "w": 600,
+    "h": 206,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "kepler-cheuvreux-invest": {
+    "f": "/assets/logos/dir/kepler-cheuvreux-invest-suite-v3-20260916.webp",
+    "nom": "Kepler Cheuvreux Invest",
+    "w": 600,
+    "h": 145,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "wormser-freres-gestion": {
+    "f": "/assets/logos/dir/wormser-freres-gestion-suite-v3-20260916.webp",
+    "nom": "Wormser Frères Gestion",
+    "w": 600,
+    "h": 142,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "aglae-management-sas": {
+    "f": "/assets/logos/dir/aglae-management-sas-suite-v3-20260916.webp",
+    "nom": "Aglaé Management SAS",
+    "w": 599,
+    "h": 239,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "aliad-venture-capital": {
+    "f": "/assets/logos/dir/aliad-venture-capital-suite-v3-20260916.webp",
+    "nom": "Aliad Venture Capital",
+    "w": 491,
+    "h": 115,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "engie-new-ventures": {
+    "f": "/assets/logos/dir/engie-new-ventures-suite-v3-20260916.webp",
+    "nom": "ENGIE New Ventures",
+    "w": 599,
+    "h": 217,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "fundora": {
+    "f": "/assets/logos/dir/fundora-suite-v3-20260916.webp",
+    "nom": "Fundora",
+    "w": 328,
+    "h": 64,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "maif-impact": {
+    "f": "/assets/logos/dir/maif-impact-suite-v3-20260916.webp",
+    "nom": "MAIF Impact",
+    "w": 200,
+    "h": 200,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "michelin-ventures": {
+    "f": "/assets/logos/dir/michelin-ventures-suite-v3-20260916.webp",
+    "nom": "Michelin Ventures",
+    "w": 600,
+    "h": 109,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "orange-digital-investment": {
+    "f": "/assets/logos/dir/orange-digital-investment-suite-v3-20260916.webp",
+    "nom": "Orange Digital Investment",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "orange-ventures-sas": {
+    "f": "/assets/logos/dir/orange-ventures-sas-suite-v3-20260916.webp",
+    "nom": "Orange Ventures SAS",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "seb-alliance": {
+    "f": "/assets/logos/dir/seb-alliance-suite-v3-20260916.webp",
+    "nom": "Seb Alliance",
+    "w": 102,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "white-star-capital-france-sas": {
+    "f": "/assets/logos/dir/white-star-capital-france-sas-suite-v3-20260916.webp",
+    "nom": "White Star Capital France SAS",
+    "w": 600,
+    "h": 111,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "xange": {
+    "f": "/assets/logos/dir/xange-suite-v3-20260916.webp",
+    "nom": "XAnge",
+    "w": 427,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "bdo-avocats": {
+    "f": "/assets/logos/dir/bdo-avocats-suite-v3-20260916.webp",
+    "nom": "BDO Avocats",
+    "w": 284,
+    "h": 110,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "charles-russell-speechlys": {
+    "f": "/assets/logos/dir/charles-russell-speechlys-suite-v3-20260916.webp",
+    "nom": "Charles Russell Speechlys",
+    "w": 600,
+    "h": 110,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "franklin-paris": {
+    "f": "/assets/logos/dir/franklin-paris-suite-v3-20260916.webp",
+    "nom": "Franklin Paris",
+    "w": 370,
+    "h": 137,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "gomel-avocats": {
+    "f": "/assets/logos/dir/gomel-avocats-suite-v3-20260916.webp",
+    "nom": "Gomel Avocats",
+    "w": 600,
+    "h": 122,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "herbert-smith-freehills": {
+    "f": "/assets/logos/dir/herbert-smith-freehills-suite-v3-20260916.webp",
+    "nom": "Herbert Smith Freehills",
+    "w": 600,
+    "h": 177,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "white-case": {
+    "f": "/assets/logos/dir/white-case-suite-v3-20260916.webp",
+    "nom": "White & Case",
+    "w": 432,
+    "h": 33,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "winston-strawn": {
+    "f": "/assets/logos/dir/winston-strawn-suite-v3-20260916.webp",
+    "nom": "Winston & Strawn",
+    "w": 445,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "benoit-morel-notaire": {
+    "f": "/assets/logos/dir/benoit-morel-notaire-suite-v3-20260916.webp",
+    "nom": "Benoit Morel Notaire",
+    "w": 275,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "guillaud-bataille-notaires": {
+    "f": "/assets/logos/dir/guillaud-bataille-notaires-suite-v3-20260916.webp",
+    "nom": "Guillaud-Bataille Notaires",
+    "w": 240,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "office-notarial-des-allees": {
+    "f": "/assets/logos/dir/office-notarial-des-allees-suite-v3-20260916.webp",
+    "nom": "Office Notarial des Allées",
+    "w": 340,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "opera-notaires": {
+    "f": "/assets/logos/dir/opera-notaires-suite-v3-20260916.webp",
+    "nom": "Opéra Notaires",
+    "w": 398,
+    "h": 240,
+    "dark": false,
+    "wide": false,
+    "xwide": false
+  },
+  "r-d-notaires": {
+    "f": "/assets/logos/dir/r-d-notaires-suite-v3-20260916.webp",
+    "nom": "R&D Notaires",
+    "w": 568,
+    "h": 240,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "crowe-avvens": {
+    "f": "/assets/logos/dir/crowe-avvens-suite-v3-20260916.webp",
+    "nom": "Crowe Avvens",
+    "w": 350,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "crowe-france": {
+    "f": "/assets/logos/dir/crowe-france-suite-v3-20260916.webp",
+    "nom": "Crowe France",
+    "w": 350,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "crowe-haf": {
+    "f": "/assets/logos/dir/crowe-haf-suite-v3-20260916.webp",
+    "nom": "Crowe HAF",
+    "w": 350,
+    "h": 97,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "hlb-france": {
+    "f": "/assets/logos/dir/hlb-france-suite-v3-20260916.webp",
+    "nom": "HLB France",
+    "w": 169,
+    "h": 78,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "flyvictor": {
+    "f": "/assets/logos/dir/flyvictor-suite-v3-20260916.webp",
+    "nom": "Fly Victor",
+    "w": 452,
+    "h": 137,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "la-mondiale-europartner-lu": {
+    "f": "/assets/logos/dir/la-mondiale-europartner-lu-suite-v3-20260916.webp",
+    "nom": "La Mondiale Europartner (LU)",
+    "w": 600,
+    "h": 131,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "qcp": {
+    "f": "/assets/logos/dir/qcp-suite-v3-20260916.webp",
+    "nom": "QCP",
+    "w": 212,
+    "h": 66,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "cr-financement": {
+    "f": "/assets/logos/dir/cr-financement-suite-v3-20260916.webp",
+    "nom": "CR Financement",
+    "w": 600,
+    "h": 226,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "avenir-pro-consultant": {
+    "f": "/assets/logos/dir/avenir-pro-consultant-suite-v3-20260916.webp",
+    "nom": "Avenir PRO Consultant",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bonacoscia-conseils": {
+    "f": "/assets/logos/dir/bonacoscia-conseils-suite-v3-20260916.webp",
+    "nom": "Bonacoscia Conseils",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "business-courtage-conseil-finances": {
+    "f": "/assets/logos/dir/business-courtage-conseil-finances-suite-v3-20260916.webp",
+    "nom": "Business Courtage Conseil Finances",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "e-2c-f": {
+    "f": "/assets/logos/dir/e-2c-f-suite-v3-20260916.webp",
+    "nom": "E.2C.F",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lema-entreprises": {
+    "f": "/assets/logos/dir/lema-entreprises-suite-v3-20260916.webp",
+    "nom": "Lema Entreprises",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "abr-finances": {
+    "f": "/assets/logos/dir/abr-finances-suite-v3-20260916.webp",
+    "nom": "ABR Finances",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "b-j-courtage": {
+    "f": "/assets/logos/dir/b-j-courtage-suite-v3-20260916.webp",
+    "nom": "B&J Courtage",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "bcc-rennes-centre": {
+    "f": "/assets/logos/dir/bcc-rennes-centre-suite-v3-20260916.webp",
+    "nom": "BCC Rennes Centre",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "bordeaux-credits": {
+    "f": "/assets/logos/dir/bordeaux-credits-suite-v3-20260916.webp",
+    "nom": "Bordeaux Credits",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "conseil-creditassur-37": {
+    "f": "/assets/logos/dir/conseil-creditassur-37-suite-v3-20260916.webp",
+    "nom": "Conseil Creditassur 37",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "crd-courtage": {
+    "f": "/assets/logos/dir/crd-courtage-suite-v3-20260916.webp",
+    "nom": "CRD Courtage",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "credimmopale": {
+    "f": "/assets/logos/dir/credimmopale-suite-v3-20260916.webp",
+    "nom": "Credimmopale",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "credit-sud-immobilier": {
+    "f": "/assets/logos/dir/credit-sud-immobilier-suite-v3-20260916.webp",
+    "nom": "Credit SUD Immobilier",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "eden-courtage": {
+    "f": "/assets/logos/dir/eden-courtage-suite-v3-20260916.webp",
+    "nom": "Eden Courtage",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "financement-du-cambresis": {
+    "f": "/assets/logos/dir/financement-du-cambresis-suite-v3-20260916.webp",
+    "nom": "Financement DU Cambresis",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "finimmo-finance-immobilier": {
+    "f": "/assets/logos/dir/finimmo-finance-immobilier-suite-v3-20260916.webp",
+    "nom": "Finimmo Finance Immobilier",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "fp-finance": {
+    "f": "/assets/logos/dir/fp-finance-suite-v3-20260916.webp",
+    "nom": "FP Finance",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "freca": {
+    "f": "/assets/logos/dir/freca-suite-v3-20260916.webp",
+    "nom": "Freca",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "frelan": {
+    "f": "/assets/logos/dir/frelan-suite-v3-20260916.webp",
+    "nom": "Frelan",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "gb-finances": {
+    "f": "/assets/logos/dir/gb-finances-suite-v3-20260916.webp",
+    "nom": "GB Finances",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "h2a-conseil": {
+    "f": "/assets/logos/dir/h2a-conseil-suite-v3-20260916.webp",
+    "nom": "H2A Conseil",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "h2o-finances": {
+    "f": "/assets/logos/dir/h2o-finances-suite-v3-20260916.webp",
+    "nom": "H2O Finances",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "hm-finances": {
+    "f": "/assets/logos/dir/hm-finances-suite-v3-20260916.webp",
+    "nom": "HM Finances",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "hmsa": {
+    "f": "/assets/logos/dir/hmsa-suite-v3-20260916.webp",
+    "nom": "Hmsa",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "huguet-conseils-et-credits": {
+    "f": "/assets/logos/dir/huguet-conseils-et-credits-suite-v3-20260916.webp",
+    "nom": "Huguet Conseils ET Credits",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "immo-broker": {
+    "f": "/assets/logos/dir/immo-broker-suite-v3-20260916.webp",
+    "nom": "Immo Broker",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "le-meilleur-financement": {
+    "f": "/assets/logos/dir/le-meilleur-financement-suite-v3-20260916.webp",
+    "nom": "LE Meilleur Financement",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "maurienne-credits": {
+    "f": "/assets/logos/dir/maurienne-credits-suite-v3-20260916.webp",
+    "nom": "Maurienne Credits",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "mt-sartrouville": {
+    "f": "/assets/logos/dir/mt-sartrouville-suite-v3-20260916.webp",
+    "nom": "MT Sartrouville",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "mtx-rouen": {
+    "f": "/assets/logos/dir/mtx-rouen-suite-v3-20260916.webp",
+    "nom": "MTX Rouen",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "nord-m-finance": {
+    "f": "/assets/logos/dir/nord-m-finance-suite-v3-20260916.webp",
+    "nom": "Nord.M.Finance",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "p-a-t-g-courtage": {
+    "f": "/assets/logos/dir/p-a-t-g-courtage-suite-v3-20260916.webp",
+    "nom": "P.A.T.G. Courtage",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "ramonville-financement-immobilier": {
+    "f": "/assets/logos/dir/ramonville-financement-immobilier-suite-v3-20260916.webp",
+    "nom": "Ramonville Financement Immobilier",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "rive-droite-credits": {
+    "f": "/assets/logos/dir/rive-droite-credits-suite-v3-20260916.webp",
+    "nom": "Rive Droite Credits",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "sarl-creditassur": {
+    "f": "/assets/logos/dir/sarl-creditassur-suite-v3-20260916.webp",
+    "nom": "Sarl Creditassur",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "sas-la-financiere-comtoise": {
+    "f": "/assets/logos/dir/sas-la-financiere-comtoise-suite-v3-20260916.webp",
+    "nom": "SAS LA Financiere Comtoise",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "sofisev": {
+    "f": "/assets/logos/dir/sofisev-suite-v3-20260916.webp",
+    "nom": "Sofisev",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "tov-finance-conseil": {
+    "f": "/assets/logos/dir/tov-finance-conseil-suite-v3-20260916.webp",
+    "nom": "TOV Finance Conseil",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "yo-fi": {
+    "f": "/assets/logos/dir/yo-fi-suite-v3-20260916.webp",
+    "nom": "Yo-Fi",
+    "w": 600,
+    "h": 77,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "courtage-finance-conseil": {
+    "f": "/assets/logos/dir/courtage-finance-conseil-suite-v3-20260916.webp",
+    "nom": "Courtage Finance Conseil",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "c2-invest-pro": {
+    "f": "/assets/logos/dir/c2-invest-pro-suite-v3-20260916.webp",
+    "nom": "C2 Invest PRO",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mon-courtier-pro-toulon": {
+    "f": "/assets/logos/dir/mon-courtier-pro-toulon-suite-v3-20260916.webp",
+    "nom": "MON Courtier PRO Toulon",
+    "w": 600,
+    "h": 133,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "bordeaux-ouest-finances": {
+    "f": "/assets/logos/dir/bordeaux-ouest-finances-suite-v3-20260916.webp",
+    "nom": "Bordeaux Ouest Finances",
+    "w": 346,
+    "h": 34,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "confiance-finances": {
+    "f": "/assets/logos/dir/confiance-finances-suite-v3-20260916.webp",
+    "nom": "Confiance Finances",
+    "w": 346,
+    "h": 34,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "futurs-financements": {
+    "f": "/assets/logos/dir/futurs-financements-suite-v3-20260916.webp",
+    "nom": "Futurs Financements",
+    "w": 346,
+    "h": 34,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "victoria-finances": {
+    "f": "/assets/logos/dir/victoria-finances-suite-v3-20260916.webp",
+    "nom": "Victoria Finances",
+    "w": 346,
+    "h": 34,
+    "dark": true,
+    "wide": true,
+    "xwide": true
+  },
+  "b6-courtage": {
+    "f": "/assets/logos/dir/b6-courtage-suite-v3-20260916.webp",
+    "nom": "B6 Courtage",
+    "w": 328,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "dr-finances-conseils": {
+    "f": "/assets/logos/dir/dr-finances-conseils-suite-v3-20260916.webp",
+    "nom": "DR Finances Conseils",
+    "w": 328,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "toulouse-courtiers": {
+    "f": "/assets/logos/dir/toulouse-courtiers-suite-v3-20260916.webp",
+    "nom": "Toulouse Courtiers",
+    "w": 328,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cecile-sarteur-giry-cecile-sarteur-finance-eirl": {
+    "f": "/assets/logos/dir/cecile-sarteur-giry-cecile-sarteur-finance-eirl-suite-v3-20260916.webp",
+    "nom": "Cecile Sarteur (Giry) (Cecile Sarteur Finance Eirl)",
+    "w": 435,
+    "h": 203,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "courtage-conseils-banque-assurances": {
+    "f": "/assets/logos/dir/courtage-conseils-banque-assurances-suite-v3-20260916.webp",
+    "nom": "Courtage Conseils Banque-Assurances",
+    "w": 435,
+    "h": 203,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "prelys-finances": {
+    "f": "/assets/logos/dir/prelys-finances-suite-v3-20260916.webp",
+    "nom": "Prelys Finances",
+    "w": 442,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "vesta-conseil": {
+    "f": "/assets/logos/dir/vesta-conseil-suite-v3-20260916.webp",
+    "nom": "Vesta Conseil",
+    "w": 442,
+    "h": 240,
+    "dark": true,
+    "wide": true,
+    "xwide": false
+  },
+  "kerjean-financement": {
+    "f": "/assets/logos/dir/kerjean-financement-suite-v3-20260916.webp",
+    "nom": "Kerjean Financement",
+    "w": 471,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "ouest-financement-immobilier": {
+    "f": "/assets/logos/dir/ouest-financement-immobilier-suite-v3-20260916.webp",
+    "nom": "Ouest Financement Immobilier",
+    "w": 471,
+    "h": 75,
+    "dark": false,
+    "wide": true,
+    "xwide": true
+  },
+  "a-b-c-o-conseil": {
+    "f": "/assets/logos/dir/a-b-c-o-conseil-suite-v3-20260916.webp",
+    "nom": "A.B.C.O Conseil",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cap-est-financement": {
+    "f": "/assets/logos/dir/cap-est-financement-suite-v3-20260916.webp",
+    "nom": "CAP EST Financement",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "cmc-charly-mariette-courtage": {
+    "f": "/assets/logos/dir/cmc-charly-mariette-courtage-suite-v3-20260916.webp",
+    "nom": "CMC - Charly Mariette Courtage",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "courtage-invest-06": {
+    "f": "/assets/logos/dir/courtage-invest-06-suite-v3-20260916.webp",
+    "nom": "Courtage Invest 06",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "ftb-financement": {
+    "f": "/assets/logos/dir/ftb-financement-suite-v3-20260916.webp",
+    "nom": "FTB Financement",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "isere-courtage": {
+    "f": "/assets/logos/dir/isere-courtage-suite-v3-20260916.webp",
+    "nom": "Isere Courtage",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lac-financement": {
+    "f": "/assets/logos/dir/lac-financement-suite-v3-20260916.webp",
+    "nom": "LAC Financement",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "lamballais-finances": {
+    "f": "/assets/logos/dir/lamballais-finances-suite-v3-20260916.webp",
+    "nom": "Lamballais Finances",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "mt-courtiers": {
+    "f": "/assets/logos/dir/mt-courtiers-suite-v3-20260916.webp",
+    "nom": "MT Courtiers",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "sarl-36-carnot-courtage": {
+    "f": "/assets/logos/dir/sarl-36-carnot-courtage-suite-v3-20260916.webp",
+    "nom": "Sarl 36 Carnot Courtage",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "votre-taux-negocie": {
+    "f": "/assets/logos/dir/votre-taux-negocie-suite-v3-20260916.webp",
+    "nom": "Votre Taux Negocie",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
+  },
+  "yk-finance-786": {
+    "f": "/assets/logos/dir/yk-finance-786-suite-v3-20260916.webp",
+    "nom": "YK Finance 786",
+    "w": 241,
+    "h": 60,
+    "dark": false,
+    "wide": true,
+    "xwide": false
   }
 }

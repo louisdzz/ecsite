@@ -77,6 +77,7 @@ function render() {
     top.append(mark, arrow);
     a.append(top, el('h3', '', h.name), el('p', '', h.categories.map(c => labels[c] || c).join(' · ')));
     if (h.note) a.append(el('p', 'house-note', h.note));
+    if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
   });
   $('#results-title').textContent = active ? labels[active] : 'Toutes les maisons';
@@ -114,11 +115,11 @@ document.addEventListener('keydown', e => {
 });
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260915-fin-logos');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260916-suite-v3');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json(); categories = data.categories;
     const categoryNames = Object.fromEntries(categories.map(c => [c.id, c.name]));
-    houses = data.houses.sort((a,b) => a.name.localeCompare(b.name, 'fr', { sensitivity: 'base', ignorePunctuation: true })).map(h => ({ ...h, search: normalize(h.name + ' ' + h.categories.map(c => categoryNames[c] + ' ' + labels[c]).join(' ') + ' ' + (h.keywords || []).join(' ')) }));
+    houses = data.houses.sort((a,b) => a.name.localeCompare(b.name, 'fr', { sensitivity: 'base', ignorePunctuation: true })).map(h => ({ ...h, search: normalize(h.name + ' ' + h.categories.map(c => categoryNames[c] + ' ' + labels[c]).join(' ') + ' ' + (h.keywords || []).join(' ') + ' ' + (h.logoAttribution || '')) }));
     const params = new URLSearchParams(location.search);
     input.value = params.get('q') || '';
     const requested = params.get('metier') || location.hash.slice(1);
