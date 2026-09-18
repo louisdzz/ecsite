@@ -19074,5 +19074,15 @@
     "type": "groupe",
     "attribution": "Agence du réseau Vousfinancer",
     "affiliationSource": "https://www.vousfinancer.com/courtiers/yvelines/conflans-sainte-honorine/mentions-legales"
+  },
+  "inovexus": {
+    "page": "https://inovexus.com/our-platform/",
+    "logoSource": "https://inovexus.com/wp-content/uploads/2026/05/Inovexus.svg",
+    "dark": true,
+    "verificationDate": "2026-09-18",
+    "lot": "fiche-inovexus-20260918",
+    "validation": "Logo officiel de l’en-tête, identité et contraste contrôlés",
+    "originalSha256": "9489b6ba44755344ef400675191caf24765637ba2be3739cf5be5a2727618ca8",
+    "assetSha256": "9489b6ba44755344ef400675191caf24765637ba2be3739cf5be5a2727618ca8"
   }
 }
