@@ -84,6 +84,11 @@
       "id": "expatriation",
       "name": "Expatriation & installation à l’étranger",
       "description": "Préparation du départ, création de structures locales et accompagnement des entrepreneurs et de leur famille dans leur pays d’installation."
+    },
+    {
+      "id": "biographies",
+      "name": "Biographies & mémoire familiale",
+      "description": "Récits de vie, biographies privées et transmission des souvenirs familiaux."
     }
   ],
   "houses": [
@@ -42670,6 +42675,34 @@
         "amorçage",
         "mentorat",
         "communauté d’investisseurs"
+      ]
+    },
+    {
+      "slug": "nativ",
+      "name": "Nativ",
+      "categories": [
+        "biographies"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/nativ-20260921.jpeg",
+        "dark": false
+      },
+      "note": "Sacha El Baz · Biographies privées et familiales",
+      "keywords": [
+        "Sacha El Baz",
+        "Sacha Elbaz",
+        "Bio Nativ",
+        "Nativ Biographies",
+        "biographie",
+        "biographe",
+        "mémoire",
+        "transmission familiale",
+        "récit de vie",
+        "histoire de famille",
+        "livre",
+        "souvenirs",
+        "que faire de sa vie",
+        "après cession"
       ]
     }
   ]

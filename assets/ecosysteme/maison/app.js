@@ -13,7 +13,8 @@ const labels = {
   notaires: 'Notaires patrimoniaux', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
   'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', secondaire: 'Secondaire & pré-IPO', jets: 'Aviation d’affaires',
-  expatriation: 'Expatriation & installation à l’étranger'
+  expatriation: 'Expatriation & installation à l’étranger',
+  biographies: 'Biographies & mémoire familiale'
 };
 let houses = [], categories = [], active = '', limit = pageSize;
 
@@ -115,7 +116,7 @@ document.addEventListener('keydown', e => {
 });
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260919-controle');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260921-nativ');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json(); categories = data.categories;
     const categoryNames = Object.fromEntries(categories.map(c => [c.id, c.name]));
