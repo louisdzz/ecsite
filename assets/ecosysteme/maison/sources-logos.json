@@ -19094,5 +19094,25 @@
     "validation": "Logo officiel Nativ, contrôlé visuellement sur le Linktree relié au site officiel",
     "originalSha256": "a1e984c76e00a19a8f4cb1aed4ca43174e974a3d4912fdee4e02f9da6c7e29b8",
     "assetSha256": "a1e984c76e00a19a8f4cb1aed4ca43174e974a3d4912fdee4e02f9da6c7e29b8"
+  },
+  "clipway": {
+    "page": "https://www.clipway.com/",
+    "logoSource": "https://www.clipway.com/wp-content/themes/clipway-2023/images/logo.svg",
+    "dark": true,
+    "verificationDate": "2026-09-24",
+    "lot": "clipway-hexagone-20260924",
+    "validation": "Logo officiel extrait de l’en-tête ; Clipway : état blanc du sprite officiel, sans modification du dessin",
+    "originalSha256": "8609b91fca7edb126391cf855d36bd33f424fec8126ee6c52557e8faa901856c",
+    "assetSha256": "fddfdfcfe65acdc4fcb98aa6488af0e4170d1f484d21ceaa8af084fa2f8e5edf"
+  },
+  "hexagone-finance": {
+    "page": "https://www.groupe-hexagone.com/",
+    "logoSource": "https://www.groupe-hexagone.com/wp-content/uploads/2026/05/Logo-Hexagone.svg",
+    "dark": false,
+    "verificationDate": "2026-09-24",
+    "lot": "clipway-hexagone-20260924",
+    "validation": "Logo officiel extrait de l’en-tête ; Clipway : état blanc du sprite officiel, sans modification du dessin",
+    "originalSha256": "bcb5edeb5189911e6b577e1c0d8a49f92b36e15e91612be242bd311329e37a71",
+    "assetSha256": "bcb5edeb5189911e6b577e1c0d8a49f92b36e15e91612be242bd311329e37a71"
   }
 }

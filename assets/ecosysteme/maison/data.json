@@ -72,8 +72,8 @@
     },
     {
       "id": "secondaire",
-      "name": "Secondaire tech & pré-IPO",
-      "description": "Accès aux actions de sociétés tech non cotées late-stage, avant leur introduction en bourse."
+      "name": "Secondaire & pré-IPO",
+      "description": "Acquisition de parts de fonds non cotés et de participations existantes, dont les actions de sociétés avant leur introduction en bourse."
     },
     {
       "id": "jets",
@@ -89,6 +89,11 @@
       "id": "biographies",
       "name": "Biographies & mémoire familiale",
       "description": "Récits de vie, biographies privées et transmission des souvenirs familiaux."
+    },
+    {
+      "id": "intermediaires",
+      "name": "Intermédiaires & distribution de fonds",
+      "description": "Sélection de fonds et intermédiation entre sociétés de gestion et investisseurs. Clientèle et conditions d’accès propres à chaque maison."
     }
   ],
   "houses": [
@@ -42703,6 +42708,53 @@
         "souvenirs",
         "que faire de sa vie",
         "après cession"
+      ]
+    },
+    {
+      "slug": "clipway",
+      "name": "Clipway",
+      "categories": [
+        "fonds-pe",
+        "secondaire"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/clipway-20260924.svg",
+        "dark": true,
+        "wide": true
+      },
+      "note": "Secondaire de fonds · Buyout, growth et infrastructures",
+      "keywords": [
+        "Vincent Gombault",
+        "Ingmar Vallano",
+        "Benoît Verbrugghe",
+        "TESS",
+        "LP-led",
+        "secondary",
+        "secondaries",
+        "infrastructure",
+        "fonds de fonds"
+      ]
+    },
+    {
+      "slug": "hexagone-finance",
+      "name": "Hexagone Finance",
+      "categories": [
+        "intermediaires"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/hexagone-finance-20260924.svg",
+        "dark": false
+      },
+      "note": "Groupe Hexagone · Intermédiation pour investisseurs institutionnels",
+      "keywords": [
+        "Groupe Hexagone",
+        "Edouard Gaurier",
+        "Édouard Gaurier",
+        "Charles-Antoine Lamoureux",
+        "Isabelle Renault",
+        "fonds non cotés",
+        "distribution",
+        "produits structurés"
       ]
     }
   ]
