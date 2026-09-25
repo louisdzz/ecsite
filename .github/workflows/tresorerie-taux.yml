@@ -1,0 +1,68 @@
+name: Comparateur tresorerie, taux du jour
+
+# Chaque matin : facilite de depot BCE, EUR STR de la veille et rendement des
+# fonds Spiko (API publique) sont relus et ecrits dans tresorerie.json et dans
+# la copie embarquee de tresorerie.html. Un commit seulement si un chiffre a
+# bouge ; Vercel redeploie le site sur ce commit.
+# Le 1er du mois : une issue liste les produits releves a la main, avec leur
+# source, pour verification par un humain ou par l'agent de Louis.
+# Script : _build/tresorerie_maj.py. Aucun secret, seulement le GITHUB_TOKEN.
+
+on:
+  schedule:
+    - cron: '15 6 * * *'
+    - cron: '30 6 1 * *'
+  workflow_dispatch:
+    inputs:
+      issue:
+        description: "Ouvrir aussi l'issue mensuelle de verification"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: tresorerie-taux
+  cancel-in-progress: false
+
+jobs:
+  taux:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+      LANG: C.UTF-8
+      TZ: Europe/Paris
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Identite git
+        run: |
+          git config user.name "Louis Debouzy"
+          git config user.email "louis.debouzy@gmail.com"
+
+      - name: Taux du jour (BCE, EUR STR, Spiko)
+        run: python3 _build/tresorerie_maj.py
+
+      - name: Commit et push si un chiffre a bouge
+        run: |
+          if git diff --quiet -- tresorerie.json tresorerie.html; then
+            echo "aucun changement, pas de commit"
+            exit 0
+          fi
+          git add tresorerie.json tresorerie.html
+          git commit -q -m "Tresorerie: taux du jour (Spiko, BCE) au $(date +%d/%m/%Y)"
+          git push origin HEAD:main
+
+      - name: Issue mensuelle de verification des taux releves a la main
+        if: github.event.schedule == '30 6 1 * *' || github.event.inputs.issue == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create tresorerie --description "Comparateur tresorerie" --color "47621E" --force >/dev/null 2>&1 || true
+          python3 _build/tresorerie_maj.py --issue > /tmp/issue.md
+          gh issue create \
+            --title "Comparateur tresorerie : verifier les taux publies ($(date +'%B %Y'))" \
+            --body-file /tmp/issue.md \
+            --label tresorerie
