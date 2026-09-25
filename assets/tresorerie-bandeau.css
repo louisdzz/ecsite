@@ -1,0 +1,9 @@
+/* Bandeau d’accès au comparateur trésorerie sur l’Annuaire. Page : /tresorerie */
+.treso-bandeau{margin-top:34px}
+.treso-lien{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:26px;border:1px solid #cccfc1;background:var(--wash);padding:20px 26px;transition:background .15s}
+.treso-lien:hover{background:#e6e5d8}
+.treso-lien .eyebrow{white-space:nowrap}
+.treso-lien strong{font:400 17px/1.35 var(--serif);letter-spacing:-.2px}
+.treso-fleche{font-size:22px;color:#707b67}
+@media(max-width:800px){.treso-lien{grid-template-columns:minmax(0,1fr) auto;gap:10px 16px}.treso-lien .eyebrow{grid-column:1/-1}.treso-lien strong{font-size:15px}}
+@media(max-width:560px){.treso-bandeau{margin-top:22px}.treso-lien{padding:16px 18px}.treso-lien strong{font-size:14px}}
