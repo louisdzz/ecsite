@@ -633,9 +633,12 @@
       if (!nouveau || !Array.isArray(nouveau.produits) || !nouveau.produits.length) return;
       DONNEES = nouveau; reperes(); rendre();
     }
+    /* Dans l'ordre : le JSON du site d'abord, la route de l'app ensuite, pour que le taux lu en direct ait le dernier mot. */
     var url = '/tresorerie.json?v=' + Math.floor(Date.now() / 3600000);
-    fetch(url, { cache: 'no-cache' }).then(function(r){ return r.ok ? r.json() : null; }).then(fusionner).catch(function(){});
-    fetch('https://exit-club-app.vercel.app/api/tresorerie', { mode: 'cors' }).then(function(r){ return r.ok ? r.json() : null; }).then(fusionner).catch(function(){});
+    fetch(url, { cache: 'no-cache' })
+      .then(function(r){ return r.ok ? r.json() : null; }).then(fusionner).catch(function(){})
+      .then(function(){ return fetch('https://exit-club-app.vercel.app/api/tresorerie', { mode: 'cors' }); })
+      .then(function(r){ return r.ok ? r.json() : null; }).then(fusionner).catch(function(){});
   })();
   </script>
 </body>
