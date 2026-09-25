@@ -1,7 +1,7 @@
 {
  "version": 1,
  "mis_a_jour": "2026-09-25",
- "note": "Taux tels que publiés par chaque maison, relevés à la date indiquée. Aucune recommandation. Modifier ce fichier suffit à mettre la page /tresorerie à jour ; la route /api/tresorerie de l'app (à venir) prendra le relais pour les taux qui exposent une API publique.",
+ "note": "Taux tels que publiés par chaque maison, relevés à la date indiquée. Aucune recommandation. Ce fichier est la source de la page /tresorerie : la modifier suffit. Chaque matin, l'Action GitHub tresorerie-taux.yml (script _build/tresorerie_maj.py) relit la BCE, l'€STR et l'API publique Spiko ; le 1er du mois elle ouvre une issue listant les taux à vérifier à la main. La route /api/tresorerie de l'app sert les mêmes données avec le taux Spiko du moment.",
  "reperes": [
   {
    "libelle": "Facilité de dépôt BCE",
