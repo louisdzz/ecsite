@@ -6,7 +6,7 @@
   <meta name="description" content="Où placer sa trésorerie après une cession : comptes rémunérés, comptes à terme, fonds monétaires et actifs numériques. Les taux tels que publiés par neuf maisons de l’Annuaire de l’Exit, datés et sourcés.">
   <link rel="canonical" href="https://www.exit.club/tresorerie">
   <meta property="og:title" content="Où placer sa trésorerie — L’Annuaire de l’Exit">
-  <meta property="og:description" content="Neuf maisons, quatorze produits, les taux tels qu’ils sont publiés. Relevés le 25 septembre 2026, avec la source de chaque chiffre.">
+  <meta property="og:description" content="Neuf maisons, quatorze produits, les taux tels qu’ils sont publiés, avec la source officielle de chaque chiffre. Relevé coordonné par une IA, à vérifier à la source.">
   <meta property="og:image" content="https://www.exit.club/og-image.png">
   <meta property="og:url" content="https://www.exit.club/tresorerie">
   <title>Où placer sa trésorerie — Comparateur | L’Annuaire de l’Exit | exit.club</title>
@@ -37,9 +37,10 @@
     .puce i{font-style:normal;font-size:10px;color:#8a927f}
     .puce[aria-pressed=true] i{color:#c3cbba}
     .compte{font-size:12px;color:var(--muted);margin:14px 0 0}
+    .prudence{font-size:12.5px;line-height:1.6;color:var(--ink);margin:12px 0 0;padding:12px 16px;border-left:2px solid #b89d5a;background:var(--wash);max-width:78ch}
     table.treso{width:100%;border-collapse:collapse;margin-top:6px}
-    table.treso th.c-maison{width:18%}table.treso th.c-nature{width:14%}table.treso th.c-taux{width:13%}table.treso th.c-dispo{width:11%}table.treso th.c-ticket{width:10%}table.treso th.c-frais{width:8%}table.treso th.c-prot{width:17%}table.treso th.c-pm{width:4%}table.treso th.c-src{width:5%}
-    @media(max-width:1100px){table.treso th.c-maison{width:21%}table.treso th.c-nature{width:16%}table.treso th.c-taux{width:14%}table.treso th.c-dispo{width:12%}table.treso th.c-prot{width:25%}table.treso th.c-pm{width:5%}table.treso th.c-src{width:7%}}
+    table.treso th.c-maison{width:18%}table.treso th.c-nature{width:14%}table.treso th.c-taux{width:13%}table.treso th.c-dispo{width:11%}table.treso th.c-ticket{width:10%}table.treso th.c-frais{width:8%}table.treso th.c-prot{width:17%}table.treso th.c-pm{width:4%}table.treso th.c-src{width:8%}
+    @media(max-width:1100px){table.treso th.c-maison{width:21%}table.treso th.c-nature{width:16%}table.treso th.c-taux{width:14%}table.treso th.c-dispo{width:12%}table.treso th.c-prot{width:25%}table.treso th.c-pm{width:5%}table.treso th.c-src{width:9%}}
     table.treso th{position:sticky;top:0;background:var(--paper);z-index:2;text-align:left;font-size:10px;letter-spacing:.12em;text-transform:uppercase;font-weight:550;color:var(--muted);padding:16px 14px 12px 0;border-bottom:1px solid var(--ink);vertical-align:bottom}
     table.treso th.num{text-align:right;padding-right:14px}
     table.treso td{padding:22px 14px 22px 0;border-bottom:1px solid var(--line);vertical-align:top;font-size:12.5px;line-height:1.55}
@@ -64,7 +65,8 @@
     .protection.risque::before{background:#c0782f}
     .pm{white-space:nowrap}
     .pm.non{color:var(--muted)}
-    .src{white-space:nowrap;text-align:right}
+    .src{white-space:normal;text-align:right}
+    .src a{white-space:nowrap}
     .src a{text-decoration:underline;text-underline-offset:3px}
     .src small{display:block;color:var(--muted);font-size:10.5px;margin-top:6px}
     .vide{padding:50px 0;color:var(--muted);text-align:center;display:none}
@@ -154,6 +156,7 @@
         </div>
       </div>
       <p class="compte" id="compte"></p>
+      <p class="prudence">Relevé coordonné par une IA, sous la responsabilité de l’Exit Club. Chaque ligne renvoie à la page officielle de la maison : vérifiez le chiffre à la source avant toute décision, les taux bougent.</p>
 
       <table class="treso" id="table-treso">
         <thead>
@@ -166,7 +169,7 @@
             <th scope="col" class="masq c-frais">Frais</th>
             <th scope="col" class="c-prot">Protection du capital</th>
             <th scope="col" class="c-pm">Sociétés</th>
-            <th scope="col" class="num c-src">Source</th>
+            <th scope="col" class="num c-src">Source officielle</th>
           </tr>
         </thead>
         <tbody id="lignes"></tbody>
@@ -187,7 +190,7 @@
       <div class="lecture-col">
         <p><b>Brut ou net.</b> Les banques publient des taux bruts, avant fiscalité. Les fonds monétaires publient des taux nets de frais, avant fiscalité. Pour une société, les intérêts sont des produits financiers imposés à l’IS ; pour un particulier, le prélèvement forfaitaire de 30 % s’applique.</p>
         <p><b>Sociétés.</b> La colonne indique si une personne morale (holding, SAS, SCI) peut souscrire. Trade Republic et N26 s’adressent aux particuliers.</p>
-        <p><b>Ce que ce tableau n’est pas.</b> L’Annuaire référence, il ne recommande pas. Les taux sont ceux publiés par chaque maison à la date indiquée ; ils bougent avec les décisions de la BCE, dont la dernière hausse date du 16 septembre 2026. Une maison absente, un chiffre dépassé ? <a href="mailto:louis@exit.club?subject=Comparateur%20tr%C3%A9sorerie">Écrivez-nous</a>, la correction est faite sous 48 heures.</p>
+        <p><b>Ce que ce tableau n’est pas.</b> Le relevé est coordonné par une IA, sous la responsabilité de l’Exit Club ; seule la page officielle de chaque maison fait foi, elle est liée sur chaque ligne. L’Annuaire référence, il ne recommande pas. Les taux sont ceux publiés par chaque maison à la date indiquée ; ils bougent avec les décisions de la BCE, dont la dernière hausse date du 16 septembre 2026. Une maison absente, un chiffre dépassé ? <a href="mailto:louis@exit.club?subject=Comparateur%20tr%C3%A9sorerie">Écrivez-nous</a>, la correction est faite sous 48 heures.</p>
       </div>
     </section>
 
@@ -576,7 +579,7 @@
         '<td class="masq">' + esc(p.frais) + '</td>' +
         '<td><div class="protection ' + esc(p.protection_code) + '">' + esc(p.protection) + '</div></td>' +
         '<td class="pm ' + (p.personne_morale === 'oui' ? '' : 'non') + '">' + (p.personne_morale === 'oui' ? 'Oui' : 'Non, particuliers') + '</td>' +
-        '<td class="src"><a href="' + esc(p.source) + '" rel="noopener">Source <span aria-hidden="true">↗</span></a><small>vérifié le ' + esc(dateCourte(p.verifie)) + '</small></td>' +
+        '<td class="src"><a href="' + esc(p.source) + '" rel="noopener">Vérifier <span aria-hidden="true">↗</span></a><small>vérifié le ' + esc(dateCourte(p.verifie)) + '</small></td>' +
       '</tr>';
     }
 
@@ -591,7 +594,7 @@
           '<div><dt>Sociétés</dt><dd class="pm ' + (p.personne_morale === 'oui' ? '' : 'non') + '">' + (p.personne_morale === 'oui' ? 'Oui' : 'Non, particuliers') + '</dd></div>' +
           '<div style="grid-column:1/-1"><dt>Protection du capital</dt><dd class="large"><div class="protection ' + esc(p.protection_code) + '">' + esc(p.protection) + '</div></dd></div>' +
         '</dl>' +
-        '<p class="src"><a href="' + esc(p.source) + '" rel="noopener">Source <span aria-hidden="true">↗</span></a> · vérifié le ' + esc(dateCourte(p.verifie)) + '</p>' +
+        '<p class="src"><a href="' + esc(p.source) + '" rel="noopener">Vérifier <span aria-hidden="true">↗</span></a> · vérifié le ' + esc(dateCourte(p.verifie)) + '</p>' +
       '</article>';
     }
 
