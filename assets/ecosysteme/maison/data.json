@@ -94,6 +94,11 @@
       "id": "intermediaires",
       "name": "Intermédiaires & distribution de fonds",
       "description": "Sélection de fonds et intermédiation entre sociétés de gestion et investisseurs. Clientèle et conditions d’accès propres à chaque maison."
+    },
+    {
+      "id": "formations-transitions",
+      "name": "Formations & nouvelles perspectives",
+      "description": "Formations et expériences collectives pour explorer de nouveaux sujets et préparer ses prochains projets."
     }
   ],
   "houses": [
@@ -46702,6 +46707,28 @@
       "note": "Conseil en cession, acquisition et transmission d’entreprise",
       "keywords": [
         "VaLiEnte"
+      ]
+    },
+    {
+      "slug": "institut-des-futurs-souhaitables",
+      "name": "Institut des Futurs souhaitables",
+      "categories": [
+        "formations-transitions"
+      ],
+      "logo": {
+        "src": "/assets/logos/dir/institut-des-futurs-souhaitables-20260927.svg",
+        "dark": false
+      },
+      "note": "Prospective, LabSession et exploration de nouveaux projets",
+      "keywords": [
+        "IFs",
+        "formation",
+        "sens",
+        "prospective",
+        "LabSession",
+        "Mathieu Baudin",
+        "Jean-Luc Verreaux",
+        "biomimétisme"
       ]
     }
   ]
