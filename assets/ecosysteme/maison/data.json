@@ -8,7 +8,7 @@
     {
       "id": "boutiques-ma",
       "name": "Boutiques M&A",
-      "description": "Conseils indépendants en cession et acquisition."
+      "description": "Conseils en cession, acquisition et transmission d’entreprise, y compris les spécialistes des PME."
     },
     {
       "id": "mfo",
@@ -1101,11 +1101,16 @@
     },
     {
       "slug": "blue-partners",
-      "name": "Blue Partners",
+      "name": "Blue Partners Finance",
       "categories": [
         "boutiques-ma"
       ],
-      "logo": false
+      "logo": false,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BLUE PARTNERS FINANCE - Groupe BAKER TILLY",
+        "BLUE PARTNERS FINANCE"
+      ]
     },
     {
       "slug": "bryan-garnier",
@@ -5319,12 +5324,17 @@
       "slug": "cogep",
       "name": "COGEP",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/cogep-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "COGEP TRANSMISSION"
+      ]
     },
     {
       "slug": "conex-walter-france",
@@ -5391,12 +5401,17 @@
       "slug": "deloitte-france",
       "name": "Deloitte France",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/deloitte-france-20260913.webp",
         "dark": true
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DELOITTE CORPORATE FINANCE"
+      ]
     },
     {
       "slug": "endrix",
@@ -5457,12 +5472,17 @@
       "slug": "ey-france",
       "name": "EY France",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/ey-france-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ERNST & YOUNG CF"
+      ]
     },
     {
       "slug": "fideliance",
@@ -5512,12 +5532,17 @@
       "slug": "forvis-mazars-france",
       "name": "Forvis Mazars France",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/forvis-mazars-france-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MAZARS CORPORATE FINANCE"
+      ]
     },
     {
       "slug": "france-defi",
@@ -5634,12 +5659,17 @@
       "slug": "kpmg-france",
       "name": "KPMG France",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/kpmg-france-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "KPMG CORPORATE FINANCE"
+      ]
     },
     {
       "slug": "lba-walter-france",
@@ -5826,12 +5856,17 @@
       "slug": "tgs-france",
       "name": "TGS France",
       "categories": [
-        "experts-comptables"
+        "experts-comptables",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/tgs-france-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TGS FRANCE TRANSMISSION"
+      ]
     },
     {
       "slug": "tissendo",
@@ -10334,14 +10369,23 @@
     },
     {
       "slug": "auris",
-      "name": "Auris",
+      "name": "Auris Finance",
       "categories": [
-        "cgp"
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/auris-reprise-20260915.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AURIS",
+        "AURIS FINANCE",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
     },
     {
       "slug": "aussitauxpret",
@@ -14372,14 +14416,21 @@
     },
     {
       "slug": "com-corporate-finance",
-      "name": "@Com.Corporate-Finance",
+      "name": "ACOM Corporate Finance",
       "categories": [
-        "cgp"
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/com-corporate-finance-reprise-20260915.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACOM Corporate Finance",
+        "ACOM CORPORATE FINANCE",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
     },
     {
       "slug": "come",
@@ -15781,12 +15832,17 @@
       "slug": "crescendo-finance",
       "name": "Crescendo Finance",
       "categories": [
-        "cgp"
+        "cgp",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/crescendo-finance-20260912.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CRESCENDO FINANCE"
+      ]
     },
     {
       "slug": "c-r-finance",
@@ -25897,12 +25953,17 @@
       "slug": "mansartis-finance",
       "name": "Mansartis Finance",
       "categories": [
-        "cgp"
+        "cgp",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/mansartis-finance-20260912.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MANSARTIS"
+      ]
     },
     {
       "slug": "manuel-parent-courtage",
@@ -26747,14 +26808,24 @@
     },
     {
       "slug": "mgt-conseil",
-      "name": "MGT Conseil",
+      "name": "MGT Partners",
       "categories": [
-        "cgp"
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/mgt-conseil.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MGT PARTNERS",
+        "MGT",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
     },
     {
       "slug": "michel-fraisse-gestion-et-investissement",
@@ -28136,12 +28207,17 @@
       "slug": "nfinance-holdings-corp",
       "name": "Nfinance Holdings Corp",
       "categories": [
-        "cgp"
+        "cgp",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/nfinance-holdings-corp.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "NFINANCE"
+      ]
     },
     {
       "slug": "ng-concept",
@@ -29854,11 +29930,15 @@
     },
     {
       "slug": "pax",
-      "name": "PAX",
+      "name": "Pax Corporate Finance",
       "categories": [
-        "cgp"
+        "boutiques-ma"
       ],
-      "logo": false
+      "logo": false,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PAX CORPORATE FINANCE"
+      ]
     },
     {
       "slug": "paymed",
@@ -34113,12 +34193,17 @@
       "slug": "statere-finance",
       "name": "Statere Finance",
       "categories": [
-        "cgp"
+        "cgp",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/statere-finance-reprise-20260915.webp",
         "dark": true
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "STATERE FINANCE"
+      ]
     },
     {
       "slug": "stella-holding",
@@ -35068,12 +35153,16 @@
       "slug": "transaxiall",
       "name": "Transaxiall",
       "categories": [
-        "cgp"
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/transaxiall-20260912.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSAXIALL"
+      ]
     },
     {
       "slug": "treeefle-gestion-privee",
@@ -39007,12 +39096,17 @@
       "slug": "macquarie-capital-france",
       "name": "Macquarie Capital France",
       "categories": [
-        "fonds-pe"
+        "fonds-pe",
+        "boutiques-ma"
       ],
       "logo": {
         "src": "/assets/logos/dir/macquarie-capital-france.webp",
         "dark": true
-      }
+      },
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MACQUARIE CAPITAL"
+      ]
     },
     {
       "slug": "mandarine-gestion",
@@ -42755,6 +42849,3859 @@
         "fonds non cotés",
         "distribution",
         "produits structurés"
+      ]
+    },
+    {
+      "slug": "eurallia-finance",
+      "name": "Eurallia Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EURALLIA FINANCE",
+        "Eurallia Finance",
+        "EURALLIA FINANCE Mulhouse - ALYSIS",
+        "EURALLIA FINANCE Bordeaux",
+        "PME Business Consulting - EURALLIA FINANCE Lyon",
+        "EURALLIA FINANCE Rennes",
+        "EURALLIA FINANCE - JCG ENTREPRISES",
+        "EURALLIA FINANCE  Epinal - ACETRA",
+        "EURALLIA FINANCE Lille",
+        "EURALLIA FINANCE Nantes",
+        "EURALLIA FINANCE Nice Côte d'Azur",
+        "EURALLIA FINANCE Marseille Fabienne Hanras",
+        "EURALLIA FINANCE Lyon - PME Business Consulting",
+        "EURALLIA FINANCE Annecy",
+        "4C-CONSEIL",
+        "EURALLIA FINANCE PARIS",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "idea-partners",
+      "name": "Idea Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "IDEA PARTNERS",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "colibri-advisory",
+      "name": "Colibri Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "COLIBRI ADVISORY",
+        "Acquisition",
+        "Levée de fonds",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "seves",
+      "name": "SèveS",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SEVES",
+        "SèveS",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "neotransmission",
+      "name": "NéoTransmission",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "NEOTRANSMISSION",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "financiere-de-norway",
+      "name": "Financière de Norway",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCIÈRE DE NORWAY",
+        "FINANCIERE DE NORWAY",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "la-baume-finance",
+      "name": "La Baume Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LA BAUME FINANCE",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "societex",
+      "name": "Societex",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "PME, ETI et opérations de corporate finance",
+      "keywords": [
+        "SOCIETEX",
+        "SOCIETEX CORPORATE FINANCE",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "cap-cession",
+      "name": "Cap Cession",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Cap Cession",
+        "CAP CESSION",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds",
+        "Fusion - Acquisition",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "exakt-conseil-en-transaction",
+      "name": "EXAKT Conseil en Transaction",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Transmission d’entreprises et hôtellerie de plein air",
+      "keywords": [
+        "EXAKT",
+        "EXAKT Conseil en Transaction",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "tma-sarl",
+      "name": "TMA sarl",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TMA sarl",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "conseil-finance-et-transmission",
+      "name": "Conseil Finance Et Transmission",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CONSEIL FINANCE ET TRANSMISSION"
+      ]
+    },
+    {
+      "slug": "lag-participations",
+      "name": "Lag Participations",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LAG PARTICIPATIONS",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "approches-business-consulting",
+      "name": "Approches Business Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "APPROCHES BUSINESS CONSULTING",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "synercom-france",
+      "name": "Synercom France",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SYNERCOM FRANCE ILE DE FRANCE",
+        "SYNERCOM - CENTRE EST",
+        "SYNERCOM NORD-EST",
+        "SYNERCOM Nord-Est & Luxembourg (OPTIMEO)",
+        "SYNERCOM FRANCE Grand-Sud",
+        "SYNERCOM FRANCE OUEST",
+        "SYNERCOM - Centre Atlantique",
+        "SYNERCOM FRANCE - Région PACA",
+        "SYNERCOM France Rhône-Alpes / Auvergne",
+        "SYNERCOM",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "se13-advisors",
+      "name": "SE13 Advisors",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises technologiques",
+      "keywords": [
+        "SE13 ADVISORS",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "cabinet-montparnasse",
+      "name": "Cabinet Montparnasse",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Bâtiment et travaux publics",
+      "keywords": [
+        "CABINET MONTPARNASSE",
+        "Acquisition",
+        "Cession",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "quartz-partners",
+      "name": "Quartz Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "PME européennes",
+      "keywords": [
+        "QUARTZ PARTNERS",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "accend-capital-partners",
+      "name": "Accend Capital Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Dirigeants et actionnaires d’entreprises familiales",
+      "keywords": [
+        "ACCEND CAPITAL PARTNERS",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "descartes-conseil",
+      "name": "Descartes Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DESCARTES CONSEIL",
+        "Acquisition",
+        "Cession",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "mci-reunion",
+      "name": "MCI Réunion",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MCI REUNION",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "otago-consulting",
+      "name": "Otago Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Dirigeants-actionnaires de PME",
+      "keywords": [
+        "OTAGO CONSULTING",
+        "OTAGO Consulting",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "anquor-corporate-finance",
+      "name": "Anquor Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ANQUOR CORPORATE FINANCE",
+        "Acquisition",
+        "Fusion - Acquisition",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "finactis-noumea",
+      "name": "Finactis (Nouméa)",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINACTIS",
+        "Fusion - Acquisition",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "largilliere-finance",
+      "name": "Largillière Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Transactions small et mid-cap",
+      "keywords": [
+        "LARGILLIERE FINANCE",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "stevimmac",
+      "name": "Stevimmac",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "STEVIMMAC",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "fl-finance-et-developpement",
+      "name": "FL Finance & Développement",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FL FINANCE & DEVELOPPEMENT",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "albacer",
+      "name": "Albacer",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALBACER",
+        "Acquisition",
+        "Cession",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "intuitu-partners",
+      "name": "Intuitu Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "INTUITU PARTNERS",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "mba-capital",
+      "name": "MBA Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MBA Capital",
+        "MBA CAPITAL - MULHOUSE",
+        "MBA CAPITAL - STRASBOURG",
+        "MBA CAPITAL - BORDEAUX",
+        "MBA CAPITAL - CAEN",
+        "MBA CAPITAL - RENNES",
+        "MBA CAPITAL - LILLE",
+        "MBA CAPITAL NANTES",
+        "MBA CAPITAL - MARSEILLE",
+        "MBA CAPITAL - LYON",
+        "MBA CAPITAL",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "adumbra-finance",
+      "name": "Adumbra Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADUMBRA FINANCE",
+        "ADUMBRA Finance",
+        "Acquisition",
+        "Cession",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "fusax-partners",
+      "name": "Fusax Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FUSAX PARTNERS",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "expenciel",
+      "name": "Expenciel",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EXPENCIEL",
+        "Cession",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "nabla-advisory",
+      "name": "Nabla advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Construction, ingénierie, infrastructures et énergie",
+      "keywords": [
+        "Nabla advisory",
+        "Acquisition",
+        "Cession",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "crowe-rsa-corporate-finance",
+      "name": "Crowe RSA Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CROWE RSA CORPORATE FINANCE",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "ird-m-et-a",
+      "name": "IRD M&A",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "IRD M&A",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "3r",
+      "name": "3r",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "3R"
+      ]
+    },
+    {
+      "slug": "startim-pro",
+      "name": "Start’im Pro",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "START’IM PRO",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "arlie",
+      "name": "Arlie",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARLIE"
+      ]
+    },
+    {
+      "slug": "finec",
+      "name": "Finec",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINEC",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "polaris-corporate-finance",
+      "name": "Polaris Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "POLARIS CORPORATE FINANCE",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "eurocif",
+      "name": "Eurocif",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EUROCIF",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "vitanova-partners",
+      "name": "Vitanova Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VITANOVA PARTNERS",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "mindstream",
+      "name": "Mindstream",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MINDSTREAM",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "axe-avenir",
+      "name": "Axe Avenir",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Axe Avenir",
+        "AXE AVENIR",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "onsen-conseil-et-participation",
+      "name": "Onsen Conseil & Participation",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ONSEN CONSEIL & PARTICIPATION",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "epicairn",
+      "name": "Epicairn",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EPICAIRN"
+      ]
+    },
+    {
+      "slug": "eneriom-advisory",
+      "name": "Eneriom Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil financier et financement d’acquisitions",
+      "keywords": [
+        "ENERIOM",
+        "Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "trium-et-co",
+      "name": "Trium & Co",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRIUM & CO",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "priscus-finance",
+      "name": "Priscus Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Priscus Finance",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "adn-pme",
+      "name": "Adn PME",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADN PME",
+        "Cession",
+        "Levée de fonds",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "interclosing",
+      "name": "Interclosing",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "INTERCLOSING",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "dgr-sochg",
+      "name": "DGR Sochg",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "D.G.R SOCHG",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "wema-corporate-finance",
+      "name": "WeMa Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "WeMa Corporate Finance",
+        "ACQ'CESS CONSEILS",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "diligentia-finance",
+      "name": "Diligentia Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DILIGENTIA FINANCE",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "scalene-partners",
+      "name": "Scalene Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SCALENE PARTNERS",
+        "Scalene Partners"
+      ]
+    },
+    {
+      "slug": "groupe-cesacq",
+      "name": "Groupe Cesacq",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "GROUPE CESACQ",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "link-deal",
+      "name": "Link Deal",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LINK DEAL",
+        "Cession",
+        "Levée de fonds",
+        "Recherche de financements",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "sas-gbs",
+      "name": "SAS GBS",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SAS GBS",
+        "Cession",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "lpc-le-pavillon-conseils",
+      "name": "LPC, Le Pavillon Conseils",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SAS LPC",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "axiss-conseil",
+      "name": "Axiss Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Courtage en assurance et gestion de patrimoine",
+      "keywords": [
+        "AXISS CONSEIL",
+        "Acquisition",
+        "Cession"
+      ]
+    },
+    {
+      "slug": "copper-advisory",
+      "name": "Copper Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "COPPER ADVISORY",
+        "Copper Advisory"
+      ]
+    },
+    {
+      "slug": "zodiac-strategy",
+      "name": "Zodiac Strategy",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises du numérique",
+      "keywords": [
+        "ZODIAC STRATEGY",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "translink-france",
+      "name": "Translink France",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSLINK",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition"
+      ]
+    },
+    {
+      "slug": "forthea",
+      "name": "Forthea",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FORTHEA",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "phitem-developpement",
+      "name": "Phitem Développement",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PHITEM DEVELOPPEMENT",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "maralp-advisory",
+      "name": "Maralp Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Alpes-Maritimes et Monaco",
+      "keywords": [
+        "Maralp Advisory",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "dilcap",
+      "name": "Dilcap",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DILCAP",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "belenos-partners",
+      "name": "Belenos Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BELENOS PARTNERS",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "btp-transmission",
+      "name": "BTP Transmission",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Bâtiment et travaux publics",
+      "keywords": [
+        "BTP TRANSMISSION",
+        "BTP Transmission",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "mergence",
+      "name": "Mergence",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MERGENCE",
+        "Cession",
+        "Fusion - Acquisition",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "anaxia",
+      "name": "Anaxia",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "S.A.R.L. ANAXIA",
+        "Acquisition",
+        "Cession"
+      ]
+    },
+    {
+      "slug": "wifin",
+      "name": "Wifin",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "WIFIN",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "fwf-finance",
+      "name": "FWF Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FWF FINANCE",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "capital-maker",
+      "name": "Capital Maker",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CAPITAL MAKER",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "adviso-partners",
+      "name": "Adviso Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADVISO PARTNERS",
+        "Adviso Partners"
+      ]
+    },
+    {
+      "slug": "financiere-nortier",
+      "name": "Financière Nortier",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCIERE NORTIER",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "dirival",
+      "name": "Dirival",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DIRIVAL",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds",
+        "Recherche de financements"
+      ]
+    },
+    {
+      "slug": "strategeo",
+      "name": "Stratégéo",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Transport et logistique",
+      "keywords": [
+        "STRATEGEO",
+        "Acquisition",
+        "Cession",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "multeam",
+      "name": "Multeam",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MULTEAM",
+        "Acquisition",
+        "Cession",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "fininfra-invest",
+      "name": "Fininfra Invest",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FININFRA",
+        "Fusion - Acquisition",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "mirabaud-advisors",
+      "name": "Mirabaud Advisors",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MIRABAUD ADVISORS",
+        "Acquisition",
+        "Cession",
+        "Transmission"
+      ]
+    },
+    {
+      "slug": "fyd-invest",
+      "name": "FYD Invest",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FYD INVEST",
+        "Fusion - Acquisition",
+        "Levée de fonds"
+      ]
+    },
+    {
+      "slug": "e-ris",
+      "name": "e-RIS",
+      "categories": [
+        "banques-affaires"
+      ],
+      "logo": null,
+      "note": "Réseau de transmission d’entreprises du Crédit Agricole et de LCL",
+      "keywords": [
+        "e-RIS, LCL Direction Entreprise Est (Alsace)",
+        "e-RIS - Crédit agricole Aquitaine (Gironde, Landes, Lot et Garonne)",
+        "e-RIS - Crédit Agricole Charente-Périgord (Dordogne)",
+        "e-RIS - Crédit Agricole Pyrénées Gascogne (Pyrénées-Atlantique)",
+        "e-RIS, LCL Direction Entreprise Sud Ouest (Aquitaine)",
+        "e-RIS - Crédit Agricole Centre France (Allier, Cantal, Puy-de-Dôme)",
+        "e-RIS - Crédit Agricole Loire Haute-Loire (Haute-Loire)",
+        "e-RIS, LCL Direction Entreprise Auvergne Rhône Alpes (Auvergne)",
+        "e-RIS, LCL Direction Entreprise Nord Ouest (Basse-Normandie)",
+        "e-RIS - Crédit Agricole Normandie",
+        "e-RIS - Crédit Agricole Centre-Est (Saône et Loire)",
+        "e-RIS - Crédit Agricole Champagne-Bourgogne (Côte-d'or, Yonne)",
+        "e-RIS, LCL Direction Entreprise Est (Côte-d'Or, Nièvre, Yonne)",
+        "e-RIS, LCL Direction Entreprise Auvergne Rhône Alpes (Saône-et-Loire)",
+        "e-RIS - Crédit Agricole Ille et Vilaine",
+        "e-RIS, LCL Direction Entreprise Ouest (Bretagne)",
+        "e-RIS - Crédit Agricole Centre Loire (Nièvre)",
+        "e-RIS - Crédit  Agricole Centre Loire (Cher, Loiret)",
+        "e-RIS - Crédit Agricole Centre Ouest (Indre)",
+        "e-RIS - Crédit Agricole Centre Ouest (Haute-Vienne)",
+        "e-RIS - Crédit Agricole de la Touraine et du Poitou (Indre et Loire)",
+        "e-RIS - Crédit Agricole de la Touraine et du Poitou (Vienne)",
+        "e-RIS - Crédit Agricole Val de France (Eure-et-Loir, Loir-et-Cher)",
+        "e-RIS, LCL Direction Entreprise Ouest (Cher, Indre, Indre-et-Loire, Loir-et-Cher)",
+        "e-RIS, LCL Direction Entreprise Paris Grand Ouest (Eure-et-Loire, Loiret)",
+        "e-RIS - Crédit agricole Champagne-Bourgogne (Aube et Haute Marne)",
+        "e-RIS, LCL Direction Entreprise  Paris Grand Est (Ardennes, Marne)",
+        "e-RIS, LCL Direction Entreprise Est (Aube, Haute-Marne)",
+        "e-RIS - Crédit Agricole Nord-Est (Marne et Ardennes)",
+        "e-RIS - Crédit Agricole Franche-Comté",
+        "e-RIS, LCL Direction Entreprise Est (Franche-Comté)",
+        "e-RIS, LCL Direction Entreprise Nord Ouest (Haute-Normandie)",
+        "e-RIS, Crédit Agricole Normandie Seine",
+        "e-RIS - Crédit Agricole Sud Méditerranée (Pyrénnées Orientales)",
+        "e-RIS - Crédit Agricole du Languedoc",
+        "e-RIS, LCL Direction Entreprise Méditérranée (Languedoc-Roussillon)",
+        "e-RIS - Crédit Agricole Centre France (Corrèze, Creuse)",
+        "e-RIS, LCL Direction Entreprise Sud Ouest (Limousin)",
+        "e-RIS, LCL Direction Entreprise Est (Lorraine)",
+        "e-RIS - Crédit Agricole de Lorraine",
+        "e-RIS - Crédit Agricole Sud Méditerranée (Ariège)",
+        "e-RIS - Crédit Agricole Pyrénées Gascogne (Gers, Hautes-Pyrenées)",
+        "e-RIS - Crédit Agricole Toulouse 31 (Haute-Garonne)",
+        "e-RIS, LCL Direction Entreprise Sud Ouest (Midi-Pyrénées)",
+        "e-RIS - Crédit Agricole Nord de France",
+        "e-RIS, LCL Direction Entreprise Nord Ouest (Nord-Pas-de-Calais)",
+        "e-RIS - Crédit Agricole Anjou Maine (Maine et Loire, Mayenne, Sarthe)",
+        "e-RIS - Crédit Agricole Atlantique Vendée (Loire-Atlantique, Vendée)",
+        "e-RIS, LCL Direction Entreprise Ouest (Pays de la Loire)",
+        "e- RIS Crédit Agricole Nord Est (Aisne)",
+        "e-RIS, LCL Direction Entreprise Nord Ouest (Picardie)",
+        "e-RIS - Crédit Agricole Brie Picardie (Somme, Oise)",
+        "e-RIS - Crédit Agricole Charente-Périgord (Charente)",
+        "e-RIS - Crédit Agricole Charente-Maritime Deux-Sèvres (Charente-Maritime, Deux-Sevres)",
+        "e-RIS, LCL Direction Entreprise Ouest (Deux-Sèvres, Vienne)",
+        "e-RIS, LCL Direction Entreprise Sud Ouest (Charente, Charente-Maritime)",
+        "e-RIS, LCL Direction Entreprise Méditerranée (Provence-Alpes-Côte d'Azur, Corse)",
+        "e-RIS - Crédit Agricole Centre-Est (Ain, Ardeche, Drôme, Isère, Rhône)",
+        "e-RIS - Crédit Agricole Loire Haute-Loire (Loire)",
+        "e-RIS -  Crédit Agricole Des Savoie (Savoie, Haute Savoie)",
+        "e-RIS, LCL Direction Entreprise Auvergne Rhône Alpes (Rhône-Alpes)",
+        "e-RIS",
+        "E-RIS"
+      ]
+    },
+    {
+      "slug": "cairus",
+      "name": "Cairus",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CAIRUS"
+      ]
+    },
+    {
+      "slug": "elan",
+      "name": "Elan",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ELAN"
+      ]
+    },
+    {
+      "slug": "transversale-conseil",
+      "name": "Transversale Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSVERSALE CONSEIL"
+      ]
+    },
+    {
+      "slug": "michel-simond",
+      "name": "Michel Simond",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Cabinet d'Affaires MS Strasbourg",
+        "MICHEL SIMOND TOULOUSE",
+        "Cabinet d'Affaires MS Toulouse-Albi-Montauban",
+        "Cabinet d'Affaires MS Guadeloupe - Martinique - Guyane",
+        "Cabinet d'Affaires MS Toulon / St Raphaël"
+      ]
+    },
+    {
+      "slug": "jean-yves-lestrade-conseil",
+      "name": "Jean-yves Lestrade Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "JEAN-YVES LESTRADE CONSEIL"
+      ]
+    },
+    {
+      "slug": "cabinet-jc-conseils",
+      "name": "Cabinet JC Conseils",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Cession, acquisition et valorisation",
+      "keywords": [
+        "CABINET JC CONSEILS"
+      ]
+    },
+    {
+      "slug": "transition-partner",
+      "name": "TRANSITION Partner",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSITION Partner"
+      ]
+    },
+    {
+      "slug": "arceane",
+      "name": "Arcéane",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARCÉANE",
+        "ARCEANE"
+      ]
+    },
+    {
+      "slug": "eureka-consulting",
+      "name": "Eurêka Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises de transport",
+      "keywords": [
+        "EUREKA CONSULTING"
+      ]
+    },
+    {
+      "slug": "odelia-capital",
+      "name": "Odelia Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ODELIA CAPITAL"
+      ]
+    },
+    {
+      "slug": "banque-populaire-ingenierie-financiere",
+      "name": "Banque Populaire Ingénierie Financière",
+      "categories": [
+        "banques-affaires"
+      ],
+      "logo": null,
+      "note": "Conseil en fusions-acquisitions du réseau Banque Populaire",
+      "keywords": [
+        "Banque Populaire Ingénierie Financière - Aquitaine Centre Atlantique",
+        "Banque Populaire Ingénierie Financière - Bourgogne Franche-Comté",
+        "Banque Populaire Ingénierie Financière - Grand Ouest",
+        "Banque Populaire Ingénierie Financière -  Sud",
+        "Banque Populaire Ingénierie Financière - Alsace Lorraine Champagne",
+        "Banque Populaire Ingénierie Financière -  Occitane",
+        "BANQUE POPULAIRE DU NORD",
+        "Banque Populaire Ingénierie Financière -  Nord",
+        "BANQUE POPULAIRE GRAND OUEST OTOKTONE",
+        "Banque Populaire Ingénierie Financière -  Méditerranée",
+        "Banque Populaire Ingénierie Financière -  Auvergne Rhône Alpes",
+        "BANQUE POPULAIRE INGENIERIE FINANCIERE",
+        "OTOKTONE"
+      ]
+    },
+    {
+      "slug": "mutations-corporate-finance",
+      "name": "Mutations Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MUTATIONS CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "exco-finance-et-transactions",
+      "name": "EXCO Finance et Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EXCO Finance et Transactions Nouvelle Aquitaine",
+        "EXCO Finance et transactions Occitanie",
+        "EXCO Finance et Transactions Occitanie",
+        "EXCO Finance et Transactions SUD PACA",
+        "EXCO Finance et Transactions AURA BFC",
+        "EXCO Finance et Transactions Antilles Guyane"
+      ]
+    },
+    {
+      "slug": "evaliance-capital",
+      "name": "Evaliance Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EVALIANCE CAPITAL"
+      ]
+    },
+    {
+      "slug": "acticam",
+      "name": "Acticam",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACTICAM"
+      ]
+    },
+    {
+      "slug": "minot-et-associes",
+      "name": "Minot & Associés",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MINOT & ASSOCIÉS"
+      ]
+    },
+    {
+      "slug": "credit-agricole-de-champagne-bourgogne-banque-daffaires",
+      "name": "Crédit Agricole de Champagne-Bourgogne, Banque d’affaires",
+      "categories": [
+        "banques-affaires"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CREDIT AGRICOLE DE CHAMPAGNE-BOURGOGNE"
+      ]
+    },
+    {
+      "slug": "ifde",
+      "name": "IFDE",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "IFDE"
+      ]
+    },
+    {
+      "slug": "le-bureau-des-repreneurs",
+      "name": "Le Bureau Des Repreneurs",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LE BUREAU DES REPRENEURS"
+      ]
+    },
+    {
+      "slug": "visia-transactions",
+      "name": "Visia Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VISIA TRANSACTIONS"
+      ]
+    },
+    {
+      "slug": "symphonie-finance",
+      "name": "Symphonie Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SYMPHONIE FINANCE"
+      ]
+    },
+    {
+      "slug": "terres-d-experts",
+      "name": "Terres D'experts",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TERRES D'EXPERTS"
+      ]
+    },
+    {
+      "slug": "jtb-et-associes",
+      "name": "JTB & Associés",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "JTB & ASSOCIÉS",
+        "JTB CONSEIL"
+      ]
+    },
+    {
+      "slug": "finance-et-strategie",
+      "name": "Finance & Strategie",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCE & STRATEGIE"
+      ]
+    },
+    {
+      "slug": "cabinet-richemont",
+      "name": "Cabinet Richemont",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CABINET RICHEMONT"
+      ]
+    },
+    {
+      "slug": "vitaceae-transactions",
+      "name": "Vitaceae Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Domaines viticoles en Champagne et Bourgogne",
+      "keywords": [
+        "VITACEAE TRANSACTIONS - Champagne & Bourgogne"
+      ]
+    },
+    {
+      "slug": "credit-agricole-nord-est-banque-daffaires",
+      "name": "Crédit Agricole Nord Est, Banque d’affaires",
+      "categories": [
+        "banques-affaires"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CA NORD EST Banque d'Affaires"
+      ]
+    },
+    {
+      "slug": "mexense",
+      "name": "Mexense",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MEXENSE"
+      ]
+    },
+    {
+      "slug": "cause",
+      "name": "Cause",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Cession et acquisition de PME",
+      "keywords": [
+        "CAUSE"
+      ]
+    },
+    {
+      "slug": "cedexio",
+      "name": "Cedexio",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "TPE et PME du BTP et de l’industrie",
+      "keywords": [
+        "CEDEXIO"
+      ]
+    },
+    {
+      "slug": "semene-finance-et-transmission",
+      "name": "Semene Finance & Transmission",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SEMENE Finance & Transmission"
+      ]
+    },
+    {
+      "slug": "advisio-corporate-finance",
+      "name": "Advisio Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADVISIO CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "transactionis",
+      "name": "Transactionis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSACTIONIS"
+      ]
+    },
+    {
+      "slug": "arcalfia",
+      "name": "Arcalfia",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARCALFIA Grand Est",
+        "ARCALFIA"
+      ]
+    },
+    {
+      "slug": "aft",
+      "name": "Aft",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AFT"
+      ]
+    },
+    {
+      "slug": "care-capital",
+      "name": "Care Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Prestataires de santé à domicile",
+      "keywords": [
+        "CARE CAPITAL"
+      ]
+    },
+    {
+      "slug": "carcenac-conseil",
+      "name": "Carcenac Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "PME familiales et régionales",
+      "keywords": [
+        "CARCENAC CONSEIL"
+      ]
+    },
+    {
+      "slug": "alliances-et-affaires",
+      "name": "Alliances & Affaires",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALLIANCES & AFFAIRES"
+      ]
+    },
+    {
+      "slug": "septentrion-finance",
+      "name": "Septentrion Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SEPTENTRION FINANCE"
+      ]
+    },
+    {
+      "slug": "experts-et-co",
+      "name": "Experts & Co",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EXPERTS & CO"
+      ]
+    },
+    {
+      "slug": "sca-evaluation",
+      "name": "SCA Évaluation",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Évaluation et accompagnement à la transmission d’entreprise",
+      "keywords": [
+        "SCA ÉVALUATION"
+      ]
+    },
+    {
+      "slug": "access-finance-angers",
+      "name": "Access Finance (Angers)",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACCESS FINANCE"
+      ]
+    },
+    {
+      "slug": "ceder-pro",
+      "name": "Céder Pro",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CÉDER PRO"
+      ]
+    },
+    {
+      "slug": "cofingest",
+      "name": "Cofingest",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "COFINGEST"
+      ]
+    },
+    {
+      "slug": "hl-conseil",
+      "name": "HL Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "HL CONSEIL"
+      ]
+    },
+    {
+      "slug": "asartis",
+      "name": "Asartis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ASARTIS"
+      ]
+    },
+    {
+      "slug": "avec-vous",
+      "name": "Avec Vous",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AVEC-VOUS"
+      ]
+    },
+    {
+      "slug": "dulcimer-consulting",
+      "name": "Dulcimer Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DULCIMER CONSULTING"
+      ]
+    },
+    {
+      "slug": "objectif-entreprises-et-commerces",
+      "name": "Objectif Entreprises Et Commerces",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "OBJECTIF ENTREPRISES ET COMMERCES"
+      ]
+    },
+    {
+      "slug": "transversal",
+      "name": "Transversal",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSVERSAL"
+      ]
+    },
+    {
+      "slug": "winlink-capital",
+      "name": "Winlink Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "WINLINK CAPITAL"
+      ]
+    },
+    {
+      "slug": "resolvys",
+      "name": "Resolvys",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "RESOLVYS"
+      ]
+    },
+    {
+      "slug": "cabinet-3lm",
+      "name": "Cabinet 3LM",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CABINET 3LM"
+      ]
+    },
+    {
+      "slug": "btee-consulting",
+      "name": "BTEE Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BTEE CONSULTING",
+        "BTEE Consulting"
+      ]
+    },
+    {
+      "slug": "financiere-montant",
+      "name": "Financière Montant",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCIERE MONTANT"
+      ]
+    },
+    {
+      "slug": "business-consulting-group",
+      "name": "Business Consulting Group",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BUSINESS CONSULTING GROUP"
+      ]
+    },
+    {
+      "slug": "lm-alpes-consultants",
+      "name": "LM Alpes Consultants",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LM ALPES CONSULTANTS"
+      ]
+    },
+    {
+      "slug": "advance-corporate",
+      "name": "ADVANCE Corporate",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADVANCE Corporate"
+      ]
+    },
+    {
+      "slug": "vinci-conseils",
+      "name": "VINCI Conseils",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VINCI Conseils",
+        "VINCI CONSEILS"
+      ]
+    },
+    {
+      "slug": "mercure",
+      "name": "Mercure",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MERCURE"
+      ]
+    },
+    {
+      "slug": "mg-consulting",
+      "name": "MG Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MG CONSULTING"
+      ]
+    },
+    {
+      "slug": "ascote-et-associes",
+      "name": "ASCOTE & Associés",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ASCOTE & Associés",
+        "ASCOTE & ASSOCIES"
+      ]
+    },
+    {
+      "slug": "cabinet-hermes",
+      "name": "Cabinet Hermès",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CABINET HERMÈS Valence"
+      ]
+    },
+    {
+      "slug": "ad-res-conseil",
+      "name": "Ad Res Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AD RES CONSEIL"
+      ]
+    },
+    {
+      "slug": "pme-transactions",
+      "name": "PME Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PME TRANSACTIONS"
+      ]
+    },
+    {
+      "slug": "amkeo-corporate-finance",
+      "name": "Amkeo Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AMKEO CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "exocea",
+      "name": "Exocea",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EXOCEA"
+      ]
+    },
+    {
+      "slug": "arias-patrimoine",
+      "name": "ARIAS Patrimoine",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARIAS Patrimoine"
+      ]
+    },
+    {
+      "slug": "conserto",
+      "name": "Conserto",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CONSERTO"
+      ]
+    },
+    {
+      "slug": "mmjd-partners",
+      "name": "MMJD Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MMJD PARTNERS"
+      ]
+    },
+    {
+      "slug": "fidaquitaine",
+      "name": "Fidaquitaine",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FIDAQUITAINE"
+      ]
+    },
+    {
+      "slug": "finance-plus",
+      "name": "Finance Plus",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCE PLUS"
+      ]
+    },
+    {
+      "slug": "retout-et-associes",
+      "name": "Retout & Associés",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "RETOUT & ASSOCIÉS"
+      ]
+    },
+    {
+      "slug": "c-birds",
+      "name": "C Birds",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "C Birds"
+      ]
+    },
+    {
+      "slug": "acquitys",
+      "name": "Acquitys",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACQUITYS"
+      ]
+    },
+    {
+      "slug": "dble",
+      "name": "DBLE",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DBLE"
+      ]
+    },
+    {
+      "slug": "conseil-acheteur-manager",
+      "name": "Conseil Acheteur Manager",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CONSEIL ACHETEUR MANAGER"
+      ]
+    },
+    {
+      "slug": "discern-partners",
+      "name": "Discern Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DISCERN PARTNERS"
+      ]
+    },
+    {
+      "slug": "signadile",
+      "name": "Signadile",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil côté acquéreur",
+      "keywords": [
+        "SIGNADILE"
+      ]
+    },
+    {
+      "slug": "capessor",
+      "name": "Capessor",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Recherche de cibles et croissance externe",
+      "keywords": [
+        "CAPESSOR"
+      ]
+    },
+    {
+      "slug": "batt-advisors",
+      "name": "Batt Advisors",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BATT ADVISORS"
+      ]
+    },
+    {
+      "slug": "altios-corporate-finance",
+      "name": "Altios Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALTIOS CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "b-et-r-partner",
+      "name": "B&R Partner",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "B&R PARTNER"
+      ]
+    },
+    {
+      "slug": "valoxy",
+      "name": "Valoxy",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VALOXY"
+      ]
+    },
+    {
+      "slug": "dgcm",
+      "name": "DGCM",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DGCM"
+      ]
+    },
+    {
+      "slug": "p2c-partners",
+      "name": "P2C Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "P2C - PARTNERS",
+        "P2C PARTNERS"
+      ]
+    },
+    {
+      "slug": "finaiva",
+      "name": "Finaïva",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Financement et accompagnement à la transmission d’entreprise",
+      "keywords": [
+        "FINAÏVA"
+      ]
+    },
+    {
+      "slug": "i-deal-development",
+      "name": "I-Deal Development",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "I-DEAL DEVELOPMENT"
+      ]
+    },
+    {
+      "slug": "francession",
+      "name": "Francession",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Réseau de cabinets de conseil en transmission d’entreprises",
+      "keywords": [
+        "FRANCESSION"
+      ]
+    },
+    {
+      "slug": "linkers",
+      "name": "Linkers",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LINKERS - FUSIONS & ACQUISITIONS",
+        "LINKERS"
+      ]
+    },
+    {
+      "slug": "ama-partners",
+      "name": "AMA Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AMA PARTNERS"
+      ]
+    },
+    {
+      "slug": "capstone-finance",
+      "name": "Capstone Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CAPSTONE FINANCE"
+      ]
+    },
+    {
+      "slug": "viou-et-gouron",
+      "name": "Viou et Gouron",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VIOU ET GOURON"
+      ]
+    },
+    {
+      "slug": "closing",
+      "name": "Closing",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CLOSING"
+      ]
+    },
+    {
+      "slug": "pme-partner",
+      "name": "PME Partner",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PME PARTNER"
+      ]
+    },
+    {
+      "slug": "arc-capital",
+      "name": "Arc Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARC CAPITAL"
+      ]
+    },
+    {
+      "slug": "atlantic-finance",
+      "name": "Atlantic Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "ESN et éditeurs de logiciels",
+      "keywords": [
+        "ATLANTIC FINANCE"
+      ]
+    },
+    {
+      "slug": "integrity-advisory",
+      "name": "Integrity Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Ingénierie et BTP",
+      "keywords": [
+        "INTEGRITY ADVISORY"
+      ]
+    },
+    {
+      "slug": "credit-agricole-indosuez-corporate-advisory",
+      "name": "Crédit Agricole Indosuez Corporate Advisory",
+      "categories": [
+        "banques-affaires"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CREDIT AGRICOLE MIDCAP ADVISORS"
+      ]
+    },
+    {
+      "slug": "classe-affaires",
+      "name": "Classe Affaires",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CLASSE AFFAIRES"
+      ]
+    },
+    {
+      "slug": "twinl",
+      "name": "TwinL",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TWINL"
+      ]
+    },
+    {
+      "slug": "opportunit",
+      "name": "OpportunIT",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises informatiques",
+      "keywords": [
+        "OpportunIT",
+        "OPPORTUNIT"
+      ]
+    },
+    {
+      "slug": "quartile-partners",
+      "name": "Quartile Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Quartile Partners"
+      ]
+    },
+    {
+      "slug": "2a-capital",
+      "name": "2A Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "2A CAPITAL"
+      ]
+    },
+    {
+      "slug": "acom-conseil",
+      "name": "Acom Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Acquisition de PME industrielles",
+      "keywords": [
+        "ACOM CONSEIL"
+      ]
+    },
+    {
+      "slug": "acta-finance",
+      "name": "Acta Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACTA FINANCE"
+      ]
+    },
+    {
+      "slug": "actoria",
+      "name": "Actoria",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ACTORIA"
+      ]
+    },
+    {
+      "slug": "ader-finance",
+      "name": "Ader Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises technologiques",
+      "keywords": [
+        "ADER FINANCE"
+      ]
+    },
+    {
+      "slug": "adicial",
+      "name": "Adicial",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADICIAL"
+      ]
+    },
+    {
+      "slug": "adna-partners",
+      "name": "Adna Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ADNA PARTNERS"
+      ]
+    },
+    {
+      "slug": "aertus-finance",
+      "name": "Aertus Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AERTUS FINANCE"
+      ]
+    },
+    {
+      "slug": "akka-venture",
+      "name": "Akka Venture",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AKKA VENTURE"
+      ]
+    },
+    {
+      "slug": "alcyone-corporate-finance",
+      "name": "Alcyone Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALCYONE CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "alira-health",
+      "name": "Alira Health",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Santé et sciences de la vie",
+      "keywords": [
+        "ALIRA HEALTH"
+      ]
+    },
+    {
+      "slug": "altheo",
+      "name": "Althéo",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALTHÉO"
+      ]
+    },
+    {
+      "slug": "altrix-finance",
+      "name": "Altrix Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALTRIX FINANCE"
+      ]
+    },
+    {
+      "slug": "aristea",
+      "name": "Aristea",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARISTEA"
+      ]
+    },
+    {
+      "slug": "arkarys",
+      "name": "Arkarys",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ARKARYS"
+      ]
+    },
+    {
+      "slug": "atfis",
+      "name": "Atfis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ATFIS"
+      ]
+    },
+    {
+      "slug": "aurignac-finance",
+      "name": "Aurignac Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AURIGNAC FINANCE"
+      ]
+    },
+    {
+      "slug": "avolta",
+      "name": "Avolta",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "AVOLTA PARTNERS"
+      ]
+    },
+    {
+      "slug": "bati-defi",
+      "name": "Bati Défi",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Bâtiment et travaux publics",
+      "keywords": [
+        "BATI DEFI"
+      ]
+    },
+    {
+      "slug": "b-et-a-investment-bankers",
+      "name": "B&A Investment Bankers",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BENOIT & ASSOCIÉS"
+      ]
+    },
+    {
+      "slug": "bionest-partners-finance",
+      "name": "Bionest Partners Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Santé et innovation médicale",
+      "keywords": [
+        "BIONEST PARTNERS FINANCE"
+      ]
+    },
+    {
+      "slug": "blueprint-partners",
+      "name": "Blueprint Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises technologiques",
+      "keywords": [
+        "BLUEPRINT PARTNERS"
+      ]
+    },
+    {
+      "slug": "bucephale-finance",
+      "name": "Bucéphale Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BUCEPHALE FINANCE"
+      ]
+    },
+    {
+      "slug": "bycap-advisory",
+      "name": "BYCap Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "BYCap Advisory"
+      ]
+    },
+    {
+      "slug": "cadenac",
+      "name": "Cadénac",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CADENAC"
+      ]
+    },
+    {
+      "slug": "cairn-partners",
+      "name": "Cairn Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Opérations en situations complexes",
+      "keywords": [
+        "CAIRN PARTNERS"
+      ]
+    },
+    {
+      "slug": "canovia",
+      "name": "Canovia",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CANOVIA"
+      ]
+    },
+    {
+      "slug": "capival",
+      "name": "Capival",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CAPIVAL"
+      ]
+    },
+    {
+      "slug": "carlsquare",
+      "name": "Carlsquare",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "M&A, levées de capitaux et financement",
+      "keywords": [
+        "CARLSQUARE"
+      ]
+    },
+    {
+      "slug": "carmine-capital",
+      "name": "Carmine Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CARMINE CAPITAL"
+      ]
+    },
+    {
+      "slug": "case-cassiopea",
+      "name": "Case Cassiopea",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CASE CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "cfi-france",
+      "name": "CFI France",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CFI FRANCE - Athema"
+      ]
+    },
+    {
+      "slug": "chami-et-co",
+      "name": "Chami & Co",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CHAMI & CO"
+      ]
+    },
+    {
+      "slug": "chausson-partners",
+      "name": "Chausson Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CHAUSSON FINANCE"
+      ]
+    },
+    {
+      "slug": "cmw-corporate-finance",
+      "name": "CMW Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CMW INTERNATIONAL"
+      ]
+    },
+    {
+      "slug": "croissance-partenaires",
+      "name": "Croissance Partenaires",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CROISSANCE PARTENAIRES"
+      ]
+    },
+    {
+      "slug": "dda-et-company",
+      "name": "DDA & Company",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DDA & Company"
+      ]
+    },
+    {
+      "slug": "drake-star-partners",
+      "name": "Drake Star Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DRAKE STAR PARTNERS"
+      ]
+    },
+    {
+      "slug": "dsa-international",
+      "name": "DSA International",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "DSA INTERNATIONAL"
+      ]
+    },
+    {
+      "slug": "ecap-partner",
+      "name": "eCAP Partner",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ECAP PARTNER"
+      ]
+    },
+    {
+      "slug": "effective-capital",
+      "name": "Effective Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EFFECTIVE CAPITAL"
+      ]
+    },
+    {
+      "slug": "ekapartners",
+      "name": "Ekapartners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EKAPARTNERS"
+      ]
+    },
+    {
+      "slug": "emergeances",
+      "name": "Emergeances",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EMERGEANCES"
+      ]
+    },
+    {
+      "slug": "entreprise-et-decisions",
+      "name": "Entreprise & Décisions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "Entreprise & Décisions"
+      ]
+    },
+    {
+      "slug": "eponyme-partners",
+      "name": "Eponyme Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EPONYME PARTNERS"
+      ]
+    },
+    {
+      "slug": "equideals",
+      "name": "Equideals",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EQUIDEALS"
+      ]
+    },
+    {
+      "slug": "eurodeals",
+      "name": "Eurodeals",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EURODEALS"
+      ]
+    },
+    {
+      "slug": "euromerger",
+      "name": "Euromerger",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EUROMERGER"
+      ]
+    },
+    {
+      "slug": "eurvad-finance",
+      "name": "Eurvad Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "EURVAD FINANCE"
+      ]
+    },
+    {
+      "slug": "financiere-cincinnatus",
+      "name": "Financière Cincinnatus",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINANCIERE CINCINNATUS"
+      ]
+    },
+    {
+      "slug": "finergreen",
+      "name": "Finergreen",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "FINERGREEN"
+      ]
+    },
+    {
+      "slug": "gereje-corporate-finance",
+      "name": "GEREJE Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "GEREJE CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "gimar-et-cie",
+      "name": "Gimar & Cie",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "GIMAR & CIE"
+      ]
+    },
+    {
+      "slug": "good-founders",
+      "name": "Good Founders",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "GOOD FOUNDERS"
+      ]
+    },
+    {
+      "slug": "gp-bullhound",
+      "name": "GP Bullhound",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "GP BULLHOUND"
+      ]
+    },
+    {
+      "slug": "impulse-corporate-finance",
+      "name": "Impulse Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "IMPULSE CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "jsquare-conseil",
+      "name": "JSquare Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "JSQUARE CONSEIL"
+      ]
+    },
+    {
+      "slug": "kea",
+      "name": "Kéa",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en stratégie et accompagnement des opérations M&A",
+      "keywords": [
+        "KEA & PARTNERS"
+      ]
+    },
+    {
+      "slug": "flack-et-cie",
+      "name": "Flack & Cie",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LA COMPAGNIE FINANCIERE DU LION"
+      ]
+    },
+    {
+      "slug": "la-financiere-des-entrepreneurs",
+      "name": "La Financière des Entrepreneurs",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LA FINANCIERE DES ENTREPRENEURS"
+      ]
+    },
+    {
+      "slug": "linkapital",
+      "name": "Linkapital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LINKAPITAL"
+      ]
+    },
+    {
+      "slug": "logion-finance",
+      "name": "Logion Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LOGION FINANCE"
+      ]
+    },
+    {
+      "slug": "lv-finance-partners",
+      "name": "LV Finance Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "LV FINANCE PARTNERS"
+      ]
+    },
+    {
+      "slug": "messis-finance",
+      "name": "Messis Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Agroalimentaire et agro-industrie",
+      "keywords": [
+        "MESSIS FINANCE"
+      ]
+    },
+    {
+      "slug": "mje-finance",
+      "name": "MJE Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "MJE FINANCE"
+      ]
+    },
+    {
+      "slug": "mti-groupe",
+      "name": "MTI Groupe",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Entreprises agroalimentaires",
+      "keywords": [
+        "MTI GROUPE"
+      ]
+    },
+    {
+      "slug": "neumann",
+      "name": "Neumann",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "NEUMANN"
+      ]
+    },
+    {
+      "slug": "paris-business-consulting",
+      "name": "Paris Business Consulting",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PARIS BUSINESS CONSULTING"
+      ]
+    },
+    {
+      "slug": "positive-capital",
+      "name": "Positive Capital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "POSITIVE CAPITAL"
+      ]
+    },
+    {
+      "slug": "potomac-transactions",
+      "name": "Potomac Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "POTOMAC TRANSACTIONS"
+      ]
+    },
+    {
+      "slug": "pramex-international",
+      "name": "Pramex International",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "PRAMEX INTERNATIONAL"
+      ]
+    },
+    {
+      "slug": "quadrature",
+      "name": "Quadrature",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "QUADRATURE"
+      ]
+    },
+    {
+      "slug": "quatuor",
+      "name": "Quatuor",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "QUATUOR"
+      ]
+    },
+    {
+      "slug": "raphael-advisory",
+      "name": "Raphaël Advisory",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "RAPHAEL FINANCIAL ADVISORY"
+      ]
+    },
+    {
+      "slug": "rochefort-et-associes",
+      "name": "Rochefort & Associés",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ROCHEFORT & ASSOCIÉS"
+      ]
+    },
+    {
+      "slug": "ryder-et-davis",
+      "name": "Ryder & Davis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "RYDER & DAVIS"
+      ]
+    },
+    {
+      "slug": "saci-reberty",
+      "name": "Saci Reberty",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Industries graphiques",
+      "keywords": [
+        "SACI REBERTY"
+      ]
+    },
+    {
+      "slug": "schapira-group",
+      "name": "Schapira Group",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SCHAPIRA GROUP"
+      ]
+    },
+    {
+      "slug": "sevenstones",
+      "name": "Sevenstones",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SEVENSTONES"
+      ]
+    },
+    {
+      "slug": "transactions-et-compagnie",
+      "name": "Transactions & Compagnie",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSACTIONS & CIE"
+      ]
+    },
+    {
+      "slug": "transcapital",
+      "name": "Transcapital",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRANSCAPITAL"
+      ]
+    },
+    {
+      "slug": "triactis",
+      "name": "Triactis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRIACTIS",
+        "PYXIS CORPORATE"
+      ]
+    },
+    {
+      "slug": "trianon-corporate-finance",
+      "name": "Trianon Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRIANON CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "unikap",
+      "name": "Unikap",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "UNIKAP"
+      ]
+    },
+    {
+      "slug": "viti-transactions",
+      "name": "Viti Transactions",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Filières viticole et forestière",
+      "keywords": [
+        "VITI TRANSACTIONS"
+      ]
+    },
+    {
+      "slug": "whedge-corporate-finance",
+      "name": "Whedge Corporate Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "WHEDGE CORPORATE FINANCE"
+      ]
+    },
+    {
+      "slug": "wingate",
+      "name": "Wingate",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Hôtellerie",
+      "keywords": [
+        "WINGATE"
+      ]
+    },
+    {
+      "slug": "1583",
+      "name": "1583",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "1583"
+      ]
+    },
+    {
+      "slug": "alecia",
+      "name": "Alecia",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALECIA"
+      ]
+    },
+    {
+      "slug": "alfati",
+      "name": "Alfati",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "ALFATI"
+      ]
+    },
+    {
+      "slug": "cabinet-horus",
+      "name": "Cabinet Horus",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CABINET HORUS"
+      ]
+    },
+    {
+      "slug": "cdli-conseil",
+      "name": "CDLI Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "CDLI SAS"
+      ]
+    },
+    {
+      "slug": "horige-conseil",
+      "name": "HORIGE Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "HORIGE Conseil"
+      ]
+    },
+    {
+      "slug": "idea-conseil",
+      "name": "Idea Conseil",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "IDEA CONSEIL"
+      ]
+    },
+    {
+      "slug": "redhill-finance",
+      "name": "Redhill Finance",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "REDHILL FINANCE"
+      ]
+    },
+    {
+      "slug": "sccofi",
+      "name": "Sccofi",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SCCOFI"
+      ]
+    },
+    {
+      "slug": "smart-partners",
+      "name": "SMART Partners",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "SMART Partners"
+      ]
+    },
+    {
+      "slug": "trialis",
+      "name": "Trialis",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "TRIALIS"
+      ]
+    },
+    {
+      "slug": "valiente",
+      "name": "VaLiEnte",
+      "categories": [
+        "boutiques-ma"
+      ],
+      "logo": null,
+      "note": "Conseil en cession, acquisition et transmission d’entreprise",
+      "keywords": [
+        "VaLiEnte"
       ]
     }
   ]
