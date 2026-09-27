@@ -11,7 +11,7 @@
     const age = Date.now() - Date.parse(predictionBlock.dataset.observedAt);
     if (!Number.isFinite(age) || age < 0 || age > 86400000) {
       predictionBlock.querySelector('.prediction-stale').hidden = false;
-      predictionBlock.querySelector('#prediction-title').textContent = 'Les anticipations, dernier relevé.';
+      predictionBlock.querySelector('#prediction-title').textContent = 'Polymarket · archive';
     }
   }
   const key = 'exit-media-edition-reading-v1';
@@ -99,14 +99,53 @@
   });
   updateSaved();
   fetch('/assets/annuaire/reading.json').then(r => {if(!r.ok) throw new Error('reading');return r.json();}).then(rows => { stories = rows.filter(s => s.url.startsWith('/actualites/') || s.url.startsWith('https://x.com/')); const valid=new Set(stories.map(s=>s.id));saved=new Set([...saved].filter(id=>valid.has(id)));updateSaved(); }).catch(()=>{document.querySelector('#reading-empty').textContent='Les articles enregistrés ne peuvent pas être chargés. Réessayez en rechargeant la page.';});
-  document.querySelector('#load-markets').addEventListener('click', () => {
-    const box=document.querySelector('#tradingview'); box.hidden=false;
-    document.querySelector('#market-placeholder').hidden=true;
-    const s=document.createElement('script');
-    s.src='https://s3.tradingview.com/external-embedding/embed-widget-tickers.js';s.async=true;
-    s.textContent=JSON.stringify({symbols:[{proName:'COMEX:GC1!',title:'Or (futures)'},{proName:'ICEEUR:BRN1!',title:'Brent (futures)'},{proName:'NASDAQ:NDX',title:'Nasdaq 100'},{proName:'SP:SPX',title:'S&P 500'},{proName:'FX_IDC:EURUSD',title:'EUR / USD'}],isTransparent:true,colorTheme:'light',locale:'fr'});
-    s.onerror=()=>{document.querySelector('#market-status').textContent='Le module ne se charge pas. Consultez les cours directement sur TradingView.';};
-    document.querySelector('#market-status').textContent='Source : TradingView. Si un instrument est indisponible, consultez le site source.';
-    box.querySelector('.tradingview-widget-container').append(s);
-  },{once:true});
+  const quoteIds = {gold:'GC=F',oil:'BZ=F',nasdaq:'^NDX',sp500:'^GSPC',eurusd:'EURUSD=X'};
+  const quoteTime = new Intl.DateTimeFormat('fr-FR',{timeZone:'Europe/Paris',day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
+  function applyQuotes(payload) {
+    if (!Array.isArray(payload.quotes)) throw new Error('Invalid quotes');
+    let count = 0;
+    for (const q of payload.quotes) {
+      if (quoteIds[q.id] !== q.symbol || ![q.price,q.previousClose,q.changePercent].every(Number.isFinite) || q.price <= 0 || q.previousClose <= 0) continue;
+      const time = Date.parse(q.quotedAt);
+      if (!Number.isFinite(time) || time > Date.now()+300000 || Date.now()-time > 14*86400000) continue;
+      const delta = (q.price / q.previousClose - 1)*100;
+      if (Math.abs(delta-q.changePercent) > 0.01) continue;
+      const digits = q.id === 'eurusd' ? 4 : 2;
+      document.querySelectorAll('[data-market="'+q.id+'"]').forEach(card => {
+        if (time < Date.parse(card.dataset.quotedAt)) return;
+        card.dataset.quotedAt = q.quotedAt;
+        card.querySelector('.mq-price').textContent = q.price.toLocaleString('fr-FR',{minimumFractionDigits:digits,maximumFractionDigits:digits});
+        const change=card.querySelector('.mq-change');
+        change.textContent=(delta>=0?'+':'')+delta.toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' %';
+        change.classList.toggle('up',delta>=0); change.classList.toggle('down',delta<0);
+        const stamp=card.querySelector('.mq-time'); stamp.dateTime=q.quotedAt; stamp.textContent=quoteTime.format(new Date(time));
+      });
+      count++;
+    }
+    return count;
+  }
+  function flagOldQuotes() {
+    document.querySelectorAll('[data-market]').forEach(card => {
+      if(Date.now()-Date.parse(card.dataset.quotedAt)>4*86400000){
+        const stamp=card.querySelector('.mq-time');
+        if(!stamp.textContent.startsWith('Ancien')) stamp.textContent='Ancien relevé · '+stamp.textContent;
+      }
+    });
+  }
+  let refreshing=false;
+  async function refreshQuotes() {
+    if(document.hidden || refreshing) return;
+    refreshing=true;
+    const note=document.querySelector('#quotes-status');
+    try {
+      const response=await fetch('/api/marches',{signal:AbortSignal.timeout(10000)});
+      if(!response.ok) throw new Error('Quotes unavailable');
+      const count=applyQuotes(await response.json());
+      note.textContent=count===5?'':'Certains cours restent au dernier relevé indiqué.';
+    } catch (_) { note.textContent='Dernier relevé conservé. Horaires indiqués sur chaque cours.'; }
+    finally { refreshing=false;flagOldQuotes(); }
+  }
+  flagOldQuotes(); refreshQuotes();
+  setInterval(refreshQuotes,300000);
+  document.addEventListener('visibilitychange',()=>{if(!document.hidden) refreshQuotes();});
 })();
