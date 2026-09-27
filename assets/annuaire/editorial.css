@@ -1,0 +1,170 @@
+/* Habillage de l'annuaire. Le moteur, les données et les fiches restent indépendants. */
+body.annuaire-editorial {
+  --paper: #fafbf8;
+  --ink: #202321;
+  --muted: #646b64;
+  --line: #dedfd8;
+  --wash: #eef0e8;
+  --white: #fff;
+  --sans: Arial, Helvetica, sans-serif;
+  --serif: Arial, Helvetica, sans-serif;
+  font-family: var(--sans);
+}
+.annuaire-editorial .shell { max-width: 1600px; padding-left: 4%; padding-right: 4%; }
+.annuaire-editorial .header { height: 94px; border: 0; gap: 28px; }
+.annuaire-editorial .wordmark { font-family: var(--sans); font-size: 33px; font-weight: 800; letter-spacing: -2px; }
+.annuaire-editorial .wordmark span { color: inherit; }
+.annuaire-editorial .wordmark i { font-weight: 400; font-style: normal; }
+.annuaire-editorial .main-nav { font-size: 13px; gap: 28px; }
+.annuaire-editorial .main-nav .current { border-color: #34443a; }
+.annuaire-editorial .header-cta { background: var(--ink); color: #fff; padding: 13px 19px; border-radius: 7px; font-size: 13px; margin-left: 18px; }
+.annuaire-editorial .header-cta:hover { background: #34443a; text-decoration: none; }
+.annuaire-editorial .hero {
+  position: relative; isolation: isolate; overflow: hidden;
+  display: block; max-width: 1536px; margin: 0 2%; padding: 38px 4% 36px;
+  background: #253a30; color: #fafbf8; border-radius: 15px;
+}
+.annuaire-editorial .directory-illustration { position: absolute; z-index: -2; inset: 0 0 0 auto; width: 55%; height: 100%; object-fit: cover; object-position: center; }
+.annuaire-editorial .hero::after { content: ''; position: absolute; z-index: -1; inset: 0; background: linear-gradient(90deg, #253a30 0%, #253a30 44%, rgba(37,58,48,.9) 50%, rgba(37,58,48,.05) 71%); }
+.annuaire-editorial .hero-main, .annuaire-editorial .hero-aside { position: relative; max-width: 49%; }
+.annuaire-editorial .eyebrow { font-size: 10px; font-weight: 400; letter-spacing: .1em; }
+.annuaire-editorial .hero .eyebrow { color: #d9e1d7; }
+.annuaire-editorial .hero h1 { font-family: var(--sans); font-size: clamp(50px, 5.6vw, 80px); font-weight: 400; line-height: .99; letter-spacing: -.06em; margin-top: 19px; }
+.annuaire-editorial .hero h1 em { font-style: normal; font-weight: 400; color: #fafbf8; }
+.annuaire-editorial .hero-aside { padding-top: 22px; padding-bottom: 0; font-size: 15px; line-height: 1.55; }
+.annuaire-editorial .hero-aside .small-rule { display: none; }
+.annuaire-editorial .hero-aside p br { display: none; }
+.annuaire-editorial .hero-aside .muted { color: #d9e1d7; font-size: 13px; max-width: 40ch; margin-top: 7px; line-height: 1.55; }
+.annuaire-editorial .hero-aside .text-link { color: #fafbf8; margin-top: 13px; font-size: 12px; border-bottom: 1px solid #c5cfc1; padding-bottom: 3px; gap: 22px; }
+.annuaire-editorial .search-section { padding-top: 27px; }
+.annuaire-editorial .search-form { background: #fff; border: 1px solid #a7b1a4; border-radius: 9px; min-height: 66px; overflow: hidden; }
+.annuaire-editorial .search-form:focus-within { outline: 2px solid #34443a; outline-offset: 2px; }
+.annuaire-editorial .search-icon { stroke-width: 1.5; margin: 0 21px; }
+.annuaire-editorial input[type=search] { font-size: 17px; }
+.annuaire-editorial .search-submit { border-radius: 0; background: #253a30; color: #fff; padding: 0 26px; }
+.annuaire-editorial .search-submit:hover { background: #3f5645; }
+.annuaire-editorial .search-under { margin-top: 9px; font-size: 12px; }
+.annuaire-editorial .public-count { color: #535f53; }
+.annuaire-editorial .treso-bandeau { margin-top: 22px; }
+.annuaire-editorial .treso-lien { border: 0; border-radius: 9px; background: #e9ece3; padding: 18px 22px; gap: 24px; }
+.annuaire-editorial .treso-lien:hover { background: #e0e6d9; }
+.annuaire-editorial .treso-lien strong { font: 400 14px/1.5 var(--sans); letter-spacing: 0; }
+.annuaire-editorial .treso-lien .eyebrow { font-size: 9px; }
+.annuaire-editorial .directory { grid-template-columns: 232px minmax(0,1fr); gap: 38px; margin-top: 43px; margin-bottom: 70px; }
+.annuaire-editorial .category-top h2 { font-weight: 400; font-size: 11px; margin-bottom: 23px; letter-spacing: .04em; }
+.annuaire-editorial #category-list { gap: 3px; }
+.annuaire-editorial .category-button { min-height: 44px; padding: 10px 12px; border-radius: 7px; font-size: 13px; color: #515b52; gap: 12px; }
+.annuaire-editorial .category-button:first-child { border-bottom: 0; margin-bottom: 7px; }
+.annuaire-editorial .category-button:hover { background: #edf0e6; color: var(--ink); }
+.annuaire-editorial .category-button[aria-pressed=true] { background: #253a30; color: #fff; font-weight: 400; }
+.annuaire-editorial .category-button[aria-pressed=true] span:first-child { border: 0; }
+.annuaire-editorial .category-button span:last-child { font-size: 11px; color: inherit; }
+.annuaire-editorial .aside-reset { margin-left: 12px; margin-top: 19px; }
+.annuaire-editorial .results-heading h2 { font-family: var(--sans); font-size: 33px; font-weight: 400; letter-spacing: -1.2px; line-height: 1.1; }
+.annuaire-editorial .results-heading .eyebrow { letter-spacing: .07em; }
+.annuaire-editorial .results-heading>p { font-size: 12px; }
+.annuaire-editorial .results-meta { margin-top: 13px; min-height: 42px; border-bottom: 0; }
+.annuaire-editorial .results-grid { grid-template-columns: repeat(3,minmax(0,1fr)); gap: 14px; }
+.annuaire-editorial .house { border: 1px solid #dedfd8; border-radius: 10px; background: #fff; overflow: hidden; }
+.annuaire-editorial .house a { padding: 21px 19px 23px; min-height: 214px; transition: background-color .15s; }
+.annuaire-editorial .house a:hover { background: #f0f3eb; }
+.annuaire-editorial .house a:focus-visible { outline-offset: -4px; }
+.annuaire-editorial .house-top { margin-bottom: 22px; gap: 12px; }
+.annuaire-editorial .house-mark { max-width: calc(100% - 27px); }
+.annuaire-editorial .house-mark.logo-dark { background: #253a30; border-radius: 4px; }
+.annuaire-editorial .house-mark.logo-unavailable { background: #eef0e8; border: 0; border-radius: 4px; min-height: 52px; }
+.annuaire-editorial .house-nameplate { font-size: 11px; letter-spacing: .025em; }
+.annuaire-editorial .logo-name-long .house-nameplate { font-size: 10px; }
+.annuaire-editorial .house h3 { font: 400 22px/1.17 var(--sans); letter-spacing: -.55px; }
+.annuaire-editorial .house p { font-size: 12px; line-height: 1.55; margin-top: 11px; }
+.annuaire-editorial .house-arrow { color: #67725f; font-size: 20px; }
+.annuaire-editorial .pagination p { font-size: 12px; }
+.annuaire-editorial .outline-button { border: 1px solid #a7b1a4; border-radius: 7px; font-size: 13px; }
+.annuaire-editorial .approach { max-width: 1536px; margin: 0 2% 28px; padding: 48px 4%; background: #e9ece3; border: 0; border-radius: 12px; grid-template-columns: 1fr 1.5fr 1.5fr; gap: 40px; }
+.annuaire-editorial .approach h2 { font: 400 38px/1.08 var(--sans); letter-spacing: -1.5px; }
+.annuaire-editorial .approach-copy { font-size: 13px; }
+.annuaire-editorial .partner-band { max-width: 1536px; margin: 0 2%; border-radius: 12px; background: #253a30; color: #fff; }
+.annuaire-editorial .partner-inner { padding: 50px 4%; }
+.annuaire-editorial .partner-inner h2 { font: 400 42px/1.12 var(--sans); letter-spacing: -1.8px; }
+.annuaire-editorial .partner-inner p:last-child { font-size: 13px; color: #d5dfd0; }
+.annuaire-editorial .outline-button.light { background: #fafbf8; color: var(--ink); border-color: transparent; }
+.annuaire-editorial .outline-button.light:hover { background: #e6e9de; }
+.annuaire-editorial .footer { min-height: 126px; font-size: 12px; }
+.annuaire-editorial .footer .wordmark { font-size: 33px; }
+.annuaire-editorial a:focus-visible,.annuaire-editorial button:focus-visible { outline: 3px solid #a69658; }
+@media(min-width:1600px) {
+  .annuaire-editorial .hero,.annuaire-editorial .approach,.annuaire-editorial .partner-band { margin-left: auto; margin-right: auto; }
+}
+@media(max-width:1100px) {
+  .annuaire-editorial .header { gap: 22px; }
+  .annuaire-editorial .main-nav { gap: 20px; }
+  .annuaire-editorial .header-cta { margin-left: 0; font-size: 12px; }
+  .annuaire-editorial .directory { grid-template-columns: 215px minmax(0,1fr); gap: 25px; }
+  .annuaire-editorial .results-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .annuaire-editorial .hero-main,.annuaire-editorial .hero-aside { max-width: 53%; }
+  .annuaire-editorial .approach { grid-template-columns: 1fr 1.2fr 1.5fr; gap: 27px; }
+}
+@media(max-width:800px) {
+  .annuaire-editorial .header { height: 80px; }
+  .annuaire-editorial .main-nav { gap: 20px; }
+  .annuaire-editorial .hero { padding: 30px 4%; }
+  .annuaire-editorial .hero h1 { font-size: 55px; }
+  .annuaire-editorial .hero-aside { font-size: 14px; }
+  .annuaire-editorial .hero-aside .muted { font-size: 12px; }
+  .annuaire-editorial .directory { grid-template-columns: 1fr; gap: 25px; margin-top: 30px; }
+  .annuaire-editorial .category-top { border: 1px solid #c9d0c3; border-radius: 8px; padding: 0 15px; background: #eef0e8; }
+  .annuaire-editorial .category-top h2 { margin-bottom: 0; font-size: 11px; }
+  .annuaire-editorial #category-toggle { font-size: 12px; min-height: 52px; }
+  .annuaire-editorial #category-list.open { column-gap: 16px; padding: 12px 0; }
+  .annuaire-editorial .category-button:first-child { margin-bottom: 0; }
+  .annuaire-editorial .results-grid { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .annuaire-editorial .public-count { max-width: none; white-space: nowrap; }
+  .annuaire-editorial .search-under { font-size: 11px; }
+  .annuaire-editorial .approach { grid-template-columns: 1fr 1fr; }
+  .annuaire-editorial .partner-inner { gap: 24px; }
+}
+@media(max-width:560px) {
+  .annuaire-editorial .shell { padding-left: 6%; padding-right: 6%; }
+  .annuaire-editorial .header { height: auto; min-height: 76px; flex-wrap: nowrap; gap: 12px; }
+  .annuaire-editorial .wordmark { font-size: 29px; }
+  .annuaire-editorial .main-nav { margin-left: auto; flex: 0 1 auto; gap: 7px 15px; font-size: 11px; justify-content: flex-end; }
+  .annuaire-editorial .main-nav .current { padding: 3px 0; }
+  .annuaire-editorial .main-nav a { padding: 3px 0; }
+  .annuaire-editorial .hero { margin: 0 4%; padding: 30px 7% 26px; min-height: 0; }
+  .annuaire-editorial .directory-illustration { width: 100%; height: 165px; inset: auto 0 0; object-position: center 54%; }
+  .annuaire-editorial .hero::after { background: linear-gradient(180deg,#253a30 0%,#253a30 60%,rgba(37,58,48,.6) 72%,rgba(37,58,48,.05) 100%); }
+  .annuaire-editorial .hero-main,.annuaire-editorial .hero-aside { max-width: none; }
+  .annuaire-editorial .hero h1 { font-size: clamp(42px,12vw,62px); letter-spacing: -.055em; margin-top: 16px; }
+  .annuaire-editorial .hero-aside { padding-top: 18px; padding-bottom: 125px; font-size: 14px; }
+  .annuaire-editorial .hero-aside>.muted { display: block; font-size: 12px; max-width: 34ch; }
+  .annuaire-editorial .hero-aside .text-link { display: inline-flex; font-size: 12px; margin-top: 11px; }
+  .annuaire-editorial .search-section { padding-top: 20px; }
+  .annuaire-editorial .search-form { min-height: 60px; }
+  .annuaire-editorial .search-icon { margin: 0 14px; width: 20px; }
+  .annuaire-editorial input[type=search] { font-size: 16px; }
+  .annuaire-editorial .search-submit { padding: 0 18px; }
+  .annuaire-editorial .search-under { font-size: 11px; }
+  .annuaire-editorial .public-count { white-space: normal; }
+  .annuaire-editorial .treso-bandeau { margin-top: 17px; }
+  .annuaire-editorial .treso-lien { padding: 15px 17px; gap: 6px 10px; }
+  .annuaire-editorial .treso-lien strong { font-size: 13px; }
+  .annuaire-editorial .directory { margin-top: 23px; gap: 25px; margin-bottom: 40px; }
+  .annuaire-editorial .results-heading h2 { font-size: 29px; letter-spacing: -1px; }
+  .annuaire-editorial .results-heading>p { font-size: 11px; max-width: 88px; }
+  .annuaire-editorial .results-meta { flex-wrap: wrap; gap: 4px 9px; font-size: 11px; padding: 5px 0; }
+  .annuaire-editorial .results-meta button { min-height: 34px; margin-left: auto; }
+  .annuaire-editorial .results-grid { grid-template-columns: 1fr; gap: 12px; }
+  .annuaire-editorial .house a { min-height: 0; padding: 20px; }
+  .annuaire-editorial .house-top { margin-bottom: 16px; }
+  .annuaire-editorial .house h3 { font-size: 23px; }
+  .annuaire-editorial .house p { font-size: 13px; }
+  .annuaire-editorial .house-mark { width: 150px; }
+  .annuaire-editorial .house-mark.logo-name-long { width: 190px; }
+  .annuaire-editorial .approach { margin: 0 4% 20px; padding: 32px 7%; grid-template-columns: 1fr; gap: 22px; }
+  .annuaire-editorial .approach h2 { font-size: 34px; }
+  .annuaire-editorial .partner-band { margin: 0 4%; }
+  .annuaire-editorial .partner-inner { padding: 35px 8%; }
+  .annuaire-editorial .partner-inner h2 { font-size: 35px; letter-spacing: -1.4px; }
+  .annuaire-editorial .partner-inner .outline-button { font-size: 12px; padding: 14px 18px; }
+  .annuaire-editorial .footer { padding-top: 30px; padding-bottom: 30px; gap: 20px; }
+}
