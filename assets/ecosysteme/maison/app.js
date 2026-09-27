@@ -25,6 +25,12 @@ function el(tag, className, text) {
   if (text !== undefined) node.textContent = text;
   return node;
 }
+function showHouseName(mark, name) {
+  mark.classList.remove('logo-dark', 'logo-wide');
+  mark.classList.add('logo-unavailable');
+  mark.classList.toggle('logo-name-long', name.length > 24);
+  mark.replaceChildren(el('span', 'house-nameplate', name));
+}
 function closeCategories() {
   categoryList.classList.remove('open');
   toggle.setAttribute('aria-expanded', 'false');
@@ -72,9 +78,9 @@ function render() {
       img.src = h.logo.src || `assets/${h.slug}.webp`; img.alt = ''; img.loading = 'lazy'; img.decoding = 'async';
       if (h.logo.dark) mark.classList.add('logo-dark');
       if (h.logo.wide) mark.classList.add('logo-wide');
-      img.addEventListener('error', () => { mark.classList.add('logo-unavailable'); mark.replaceChildren(); }, { once: true });
+      img.addEventListener('error', () => showHouseName(mark, h.name), { once: true });
       mark.append(img);
-    } else { mark.classList.add('logo-unavailable'); }
+    } else { showHouseName(mark, h.name); }
     const arrow = el('span', 'house-arrow', '↗'); arrow.setAttribute('aria-hidden', 'true');
     top.append(mark, arrow);
     a.append(top, el('h3', '', h.name), el('p', '', h.categories.map(c => labels[c] || c).join(' · ')));
