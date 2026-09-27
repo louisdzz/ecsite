@@ -67,6 +67,7 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="grp"><label for="categorie">Catégorie</label>
       <select id="categorie" name="categorie" required>
         <option value="">Choisir…</option>
+        <option>Conseil M&amp;A</option>
         <option>Banque d'affaires</option>
         <option>Boutique M&amp;A</option>
         <option>Avocat d'affaires / fiscaliste</option>
@@ -119,7 +120,7 @@ button:disabled{opacity:.55;cursor:wait}
   var API = "https://exit-club-app.vercel.app/api/partenaire-lead";
   var q = new URLSearchParams(location.search);
   if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
-  var catMap = {"banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire tech & pré-IPO"};
+  var catMap = {"conseil-ma":"Conseil M&A","banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire tech & pré-IPO"};
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
 
   var f = document.getElementById("f"), msg = document.getElementById("msg"), go = document.getElementById("go");

@@ -72,6 +72,7 @@ button:disabled{opacity:.55;cursor:wait}
       <label for="categorie">Votre catégorie</label>
       <select id="categorie" name="categorie" required>
         <option value="">Choisir…</option>
+        <option>Conseil M&amp;A</option>
         <option>Banque d'affaires</option>
         <option>Boutique M&amp;A</option>
         <option>Avocat d'affaires / fiscaliste</option>
@@ -127,7 +128,7 @@ button:disabled{opacity:.55;cursor:wait}
   var q = new URLSearchParams(location.search);
   // Préremplissage depuis les profils et les CTA de catégorie
   if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
-  var catMap = {"formations-transitions":"Formations & nouvelles perspectives","banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire & pré-IPO","expatriation":"Expatriation & installation à l’étranger","experts-comptables":"Expert-comptable / auditeur","treso":"Trésorerie & monétaire","actifs-numeriques":"Actifs numériques","jets":"Aviation d’affaires","biographies":"Biographies & mémoire familiale","intermediaires":"Intermédiaires & distribution de fonds"};
+  var catMap = {"conseil-ma":"Conseil M&A","formations-transitions":"Formations & nouvelles perspectives","banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire & pré-IPO","expatriation":"Expatriation & installation à l’étranger","experts-comptables":"Expert-comptable / auditeur","treso":"Trésorerie & monétaire","actifs-numeriques":"Actifs numériques","jets":"Aviation d’affaires","biographies":"Biographies & mémoire familiale","intermediaires":"Intermédiaires & distribution de fonds"};
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
   var dem = q.get("demande");
   var radios = document.querySelectorAll('input[name=demande]');
