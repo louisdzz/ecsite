@@ -25,3 +25,6 @@
   .site-copyright{margin-left:7%;margin-right:7%}
   .manifesto-page{padding:40px 7% 60px}.manifesto-page p{font-size:16px}
 }
+
+/* Vector icons prevent mobile platforms from substituting emoji glyphs. */
+.ui-arrow{display:inline-block;width:1.15em;height:1.15em;flex-shrink:0;vertical-align:-.15em}
