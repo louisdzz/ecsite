@@ -58,6 +58,17 @@
     .taux-val{font:350 30px/1 var(--serif);letter-spacing:-.8px;display:block}
     .taux-det{display:block;font-size:11px;color:var(--muted);margin-top:8px;white-space:normal;max-width:24ch;margin-left:auto}
     .taux-date{display:block;font-size:10.5px;color:#8a7a45;margin-top:5px}
+    .avantage-membres{display:block;margin:12px 0 0 auto;padding:10px 12px;border:1px solid #b9bfae;background:var(--wash);color:var(--ink);font-size:11px;line-height:1.5;white-space:normal;text-align:left;max-width:220px}
+    .avantage-membres strong,.avantage-membres span,.avantage-membres small{display:block}
+    .avantage-membres strong{font-size:10px;font-weight:600}
+    .avantage-membres span{margin-top:3px;font-weight:550}
+    .avantage-membres small{font-size:10px;color:var(--muted);margin-top:4px}
+    .avantage-membres a{display:inline-block;margin-top:6px;text-decoration:underline;text-underline-offset:3px}
+    .offre-membres{max-width:780px;margin-top:28px;padding:20px 24px;border:1px solid #b9bfae;background:var(--wash);scroll-margin-top:24px}
+    .offre-membres h2{font-size:18px;line-height:1.4;font-weight:550;margin:0 0 10px}
+    .offre-membres p{font-size:13px;line-height:1.7;margin:8px 0 0}
+    .offre-membres .conditions{font-size:12px;color:var(--muted)}
+    .offre-membres a{text-decoration:underline;text-underline-offset:3px}
     .protection{display:flex;gap:9px;align-items:flex-start;max-width:34ch}
     .protection::before{content:"";flex:none;width:9px;height:9px;border-radius:50%;margin-top:6px;background:#8a927f}
     .protection.garanti::before{background:#3f7a55}
@@ -94,6 +105,7 @@
       .carte .taux{grid-column:2;text-align:right}
       .carte .taux-val{font-size:28px}
       .carte .taux-det{max-width:18ch}
+      .carte .avantage-membres{grid-column:1/-1;max-width:none;margin:0}
       .carte dl{grid-column:1/-1;margin:0;display:grid;grid-template-columns:1fr 1fr;gap:12px 18px;font-size:12px}
       .carte dt{font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:550;margin-bottom:4px}
       .carte dd{margin:0;line-height:1.55}
@@ -177,6 +189,12 @@
       <div class="cartes" id="cartes"></div>
       <p class="vide" id="vide">Aucun produit ne correspond à ces filtres.</p>
       <p class="legende"><span class="g">Dépôt bancaire garanti (100 000 € par déposant et par établissement)</span><span class="f">Fonds monétaire, non garanti, risque faible</span><span class="r">Actifs numériques, non garanti, risque de contrepartie</span></p>
+      <aside class="offre-membres" id="avantage-spiko" aria-labelledby="avantage-spiko-titre">
+        <h2 id="avantage-spiko-titre">Avantage Spiko pour les membres de l’Exit Club</h2>
+        <p>Les membres de l’Exit Club bénéficient d’un rendement bonifié de +5 bps pendant 12 mois sur leur compte Spiko. Cette offre est réservée aux nouvelles ouvertures de compte uniquement.</p>
+        <p class="conditions">Sans rétroactivité sur les comptes existants. 5 bps correspondent à 0,05 point de pourcentage. Cet avantage est distinct des taux publics affichés dans le comparateur et n’y est pas inclus ; le tri reste fondé sur les taux publics.</p>
+        <p class="conditions">Formulation de l’offre confirmée par Spiko le 28 septembre 2026. <a href="/f/spiko#avantage-membres">Consulter la fiche Spiko</a>.</p>
+      </aside>
     </section>
 
     <section class="shell lecture" id="lecture">
@@ -569,11 +587,17 @@
     function tauxDate(p){ return (p.taux_date && p.taux_date !== DONNEES.mis_a_jour) ? '<span class="taux-date">taux publié au ' + esc(dateFr(p.taux_date)) + '</span>' : ''; }
     function ticket(p){ return esc(p.ticket) + (p.plafond ? '<br><span style="color:var(--muted)">' + esc(p.plafond) + '</span>' : ''); }
 
+    /* L’avantage porte sur le compte : il reste indépendant des sources de taux et du tri. */
+    function avantageMembres(p){
+      if (p.slug !== 'spiko') return '';
+      return '<div class="avantage-membres"><strong>Avantage Exit Club</strong><span>+5 bps pendant 12 mois</span><small>Nouveaux comptes uniquement. Sans rétroactivité. Non inclus dans le taux publié.</small><a href="#avantage-spiko">Détail de l’offre</a></div>';
+    }
+
     function ligne(p){
       return '<tr>' +
         '<td><div class="maison"><span class="marque"><img src="' + esc(p.logo) + '" alt="" loading="lazy" decoding="async"></span><div><div class="maison-nom"><a href="/f/' + esc(p.slug) + '">' + esc(p.maison) + '</a></div><div class="maison-produit">' + esc(p.produit) + '</div></div></div></td>' +
         '<td><span class="' + natureClasse(p) + '">' + esc(p.nature) + '</span><span class="nature-det">' + esc(p.nature_detail) + '</span></td>' +
-        '<td class="taux"><span class="taux-val">' + esc(p.taux) + '</span><span class="taux-det">' + esc(p.taux_type) + '</span>' + tauxDate(p) + '</td>' +
+        '<td class="taux"><span class="taux-val">' + esc(p.taux) + '</span><span class="taux-det">' + esc(p.taux_type) + '</span>' + tauxDate(p) + avantageMembres(p) + '</td>' +
         '<td>' + esc(p.dispo) + '</td>' +
         '<td class="masq">' + ticket(p) + '</td>' +
         '<td class="masq">' + esc(p.frais) + '</td>' +
@@ -587,6 +611,7 @@
       return '<article class="carte">' +
         '<div class="maison"><span class="marque"><img src="' + esc(p.logo) + '" alt="" loading="lazy" decoding="async"></span><div><div class="maison-nom"><a href="/f/' + esc(p.slug) + '">' + esc(p.maison) + '</a></div><div class="maison-produit">' + esc(p.produit) + '</div><span class="' + natureClasse(p) + '" style="margin-top:8px">' + esc(p.nature) + '</span></div></div>' +
         '<div class="taux"><span class="taux-val">' + esc(p.taux) + '</span><span class="taux-det">' + esc(p.taux_type) + '</span>' + tauxDate(p) + '</div>' +
+        avantageMembres(p) +
         '<dl>' +
           '<div><dt>Disponibilité</dt><dd>' + esc(p.dispo) + '</dd></div>' +
           '<div><dt>Ticket et plafond</dt><dd>' + ticket(p) + '</dd></div>' +
