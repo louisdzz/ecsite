@@ -7,3 +7,6 @@
 .route-arrow{width:18px;height:18px;flex:none}
 
 .media-edition .search-section{display:block!important;margin-top:24px;margin-bottom:18px;padding-top:0;padding-bottom:0}.media-edition .search-form{background:#fff;border:1px solid #bac6b3}.media-edition .search-under{margin-bottom:0}.pm-price{font-size:12px!important;max-width:110px;white-space:normal!important}.pm-update{font-size:11px;color:#667363;margin:14px 0}.pm-rank{min-width:34px;font-size:10px!important}.pm-copy strong{font-size:13px!important}.ec-question-desk h3{max-width:320px}@media(max-width:600px){.media-edition .search-under{display:block}.media-edition .search-under p{font-size:11px}.pm-price{max-width:74px}.pm-copy small{display:none}.media-edition .search-section{margin-top:18px}.media-edition .search-submit{min-width:44px}}
+
+/* Two retained movement cards, balanced on desktop and stacked on mobile. */
+.people-grid{grid-template-columns:repeat(2,minmax(0,1fr))}@media(max-width:600px){.people-grid{grid-template-columns:1fr}}

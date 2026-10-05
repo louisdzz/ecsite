@@ -90,7 +90,7 @@ function render() {
     if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
   });
-  $('#results-title').textContent = active ? labels[active] : 'Toutes les maisons';
+  $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les maisons');
   $('#results-count').textContent = `${number.format(filtered.length)} maison${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}`;
   $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : 'Par ordre alphabétique';
   $('#reset-results').hidden = !active && !input.value.trim();
