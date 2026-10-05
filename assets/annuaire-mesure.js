@@ -1,4 +1,4 @@
-/* Mesure des consultations uniquement. Aucun événement commercial personnalisé. */
+/* Consultations publiques du média et de l’annuaire. Aucun événement commercial personnalisé. */
 (function () {
   'use strict';
   const key = 'exit-annuaire-mesure-desactivee';
@@ -6,6 +6,8 @@
   const isPrivacyPage = location.pathname.replace(/\.html$/, '') === privacyPath;
   const isDirectory = /^\/(annuaire|ecosysteme)(\.html)?\/?$/.test(location.pathname);
   const isProfile = /^\/f\/[a-z0-9-]+(?:\.html)?$/.test(location.pathname);
+  const isArticle = /^\/actualites(?:\/[a-z0-9-]+)?(?:\.html)?\/?$/.test(location.pathname);
+  const isPublicLanding = ['/', '/index', '/index.html', '/tresorerie', '/tresorerie.html'].includes(location.pathname);
   function optedOut() {
     try { return localStorage.getItem(key) === '1'; } catch (_) { return false; }
   }
@@ -33,7 +35,7 @@
     render();
     return;
   }
-  if (!isDirectory && !isProfile) return;
+  if (!isDirectory && !isProfile && !isArticle && !isPublicLanding) return;
   if (!document.querySelector('[data-annuaire-privacy]')) {
     const footer = document.createElement('div');
     footer.setAttribute('data-annuaire-privacy', '');
@@ -57,8 +59,9 @@
       const url = new URL(event.url, location.origin);
       if (!['www.exit.club', 'exit.club'].includes(url.hostname)) return null;
       let path = url.pathname.replace(/\.html$/, '').replace(/\/$/, '');
+      if (path === '' || path === '/index') path = '/';
       if (path === '/ecosysteme') path = '/annuaire';
-      if (path !== '/annuaire' && !/^\/f\/[a-z0-9-]+$/.test(path)) return null;
+      if (!['/', '/annuaire', '/actualites', '/tresorerie'].includes(path) && !/^\/(f|actualites)\/[a-z0-9-]+$/.test(path)) return null;
       if (recordedPath === path) return null;
       recordedPath = path;
       // Les mots saisis, paramètres d’URL et fragments ne sont jamais transmis.

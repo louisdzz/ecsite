@@ -66,3 +66,13 @@
     });
   }
 })();
+
+// Les articles actuels et futurs utilisent la même mesure publique, avec refus du suivi.
+(() => {
+  if (!document.querySelector('script[src^="/assets/annuaire-mesure.js"]')) {
+    const script = document.createElement('script');
+    script.src = '/assets/annuaire-mesure.js?v=20261005';
+    script.defer = true;
+    document.head.appendChild(script);
+  }
+})();
