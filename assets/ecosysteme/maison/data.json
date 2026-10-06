@@ -46730,7 +46730,30 @@
         "Jean-Luc Verreaux",
         "biomimétisme"
       ]
+    },
+    {
+      "slug": "ibc-aviation",
+      "name": "IBC Aviation",
+      "categories": [
+        "jets"
+      ],
+      "logo": null,
+      "keywords": [
+        "courtier",
+        "affrètement",
+        "aviation privée",
+        "acquisition"
+      ]
     }
   ],
-  "categoryGroups": [{"id": "conseil-ma", "name": "Conseil M&A", "categoryIds": ["boutiques-ma", "banques-affaires"]}]
+  "categoryGroups": [
+    {
+      "id": "conseil-ma",
+      "name": "Conseil M&A",
+      "categoryIds": [
+        "boutiques-ma",
+        "banques-affaires"
+      ]
+    }
+  ]
 }
