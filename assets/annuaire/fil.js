@@ -5,7 +5,7 @@
   const grid = feed.querySelector('.exit-feed-grid');
   const status = feed.querySelector('.exit-feed-status');
   const buttons = [...feed.querySelectorAll('[data-feed-filter]')];
-  let filter = 'all';
+  let filter = 'cession';
   const cession = new Set(['conseil-ma','avocats','notaires','experts-comptables']);
   const vivre = new Set(['jets','expatriation','biographies','formations-transitions','lifestyle','art-de-vivre','hotels','restaurants','vins','philanthropie']);
   // A topic featured in movements or decryptages must not appear again in the news feed.
@@ -95,9 +95,9 @@
     if (rendered.length) peopleGrid.replaceChildren(...rendered);
   }
   function render() {
-    const cards = [...grid.querySelectorAll('[data-news]')];
+    const cards = [...grid.querySelectorAll('[data-news]')].sort((a,b) => Date.parse(b.querySelector('time')?.dateTime||'')-Date.parse(a.querySelector('time')?.dateTime||''));
     let total = 0;
-    const limit = filter === 'all' ? 5 : 6;
+    const limit = 5;
     for (const card of cards) {
       const theme = card.dataset.theme;
       const kind = card.dataset.kind;
