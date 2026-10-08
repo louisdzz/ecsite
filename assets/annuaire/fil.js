@@ -11,11 +11,11 @@
   // A topic featured in movements or decryptages must not appear again in the news feed.
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
   const compactStories = {
-    'boots-wittington-20261008': {title:'Wittington → Boots', detail:'Accord de rachat', initials:'B'},
-    'spikedade-constellation-20261008': {title:'Constellation Brands → SpikedAde', detail:'75 M$ à la réalisation + complément conditionnel', initials:'S'},
-    'infinite-services-adastra-20261008': {title:'Adastra → Infinite Services', detail:'Acquisition · Pologne', initials:'IS'},
-    'peakside-dws-20261006': {title:'DWS → Peakside Capital Advisors', detail:'Accord de rachat', initials:'P'},
-    'sofie-ge-healthcare-20261006': {title:'GE HealthCare → SOFIE', detail:'Accord de rachat · 945 M$', initials:'S'}
+    'boots-wittington-20261008': {sector:'Pharmacies et beauté', title:'Wittington  /  Boots', detail:'Accord de rachat', initials:'B'},
+    'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', title:'Constellation Brands  /  SpikedAde', detail:'75 M$ à la réalisation + complément conditionnel', initials:'S'},
+    'infinite-services-adastra-20261008': {sector:'Données et intelligence artificielle', title:'Adastra  /  Infinite Services', detail:'Acquisition · Pologne', initials:'IS'},
+    'peakside-dws-20261006': {sector:'Gestion immobilière', title:'DWS  /  Peakside Capital Advisors', detail:'Accord de rachat', initials:'P'},
+    'sofie-ge-healthcare-20261006': {sector:'Radiopharmacie', title:'GE HealthCare  /  SOFIE', detail:'Accord de rachat · 945 M$', initials:'S'}
   };
   function compactCard(card, story) {
     const link = card.querySelector('h2 a');
@@ -32,6 +32,8 @@
     else { mark.textContent = record?.initials || houseName.split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase(); }
     card.prepend(mark);
     if (record) {
+      const sector = document.createElement('span'); sector.className = 'exit-sector'; sector.textContent = record.sector;
+      card.querySelector('.news-summary')?.before(sector);
       link.textContent = record.title;
       link.setAttribute('aria-label', originalTitle);
       const detail = card.querySelector('.news-summary');
@@ -90,7 +92,7 @@
     const card = element('article', 'person-card');
     card.dataset.homeStory = id;
     const top = element('div', 'person-top');
-    const mark = element('span', 'person-monogram', '↗');
+    const mark = element('span', 'person-monogram', '•');
     mark.setAttribute('aria-hidden', 'true');
     const meta = element('span', 'person-type', source.dataset.kind);
     const time = source.querySelector('time[datetime]');
@@ -102,7 +104,7 @@
     const route = element('p', 'person-route', house?.querySelector('span')?.childNodes[0]?.textContent.trim() || '');
     const summary = element('p', '', source.querySelector('.news-summary')?.textContent.trim());
     const foot = element('div', 'person-foot');
-    const read = element('a', '', 'Lire avec les sources ↗'); read.href = href; foot.append(read);
+    const read = element('a', '', 'Lire avec les sources'); read.href = href; foot.append(read);
     const houseHref = publicPath(source.querySelector('.news-house a[href]')?.getAttribute('href'), '/f/');
     if (houseHref) { const houseLink = element('a', '', 'La maison'); houseLink.href = houseHref; foot.append(houseLink); }
     card.append(top, heading, route, summary, foot);
