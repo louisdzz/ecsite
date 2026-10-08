@@ -65,6 +65,7 @@
     });
     document.querySelector('#ec-status').textContent = visible + ' lecture' + (visible === 1 ? '' : 's') + ' affichée' + (visible === 1 ? '' : 's') + '.';
   }));
+  if (!document.querySelector('[data-market]')) return;
   const quoteIds = {gold:'GC=F',oil:'BZ=F',nasdaq:'^NDX',sp500:'^GSPC',eurusd:'EURUSD=X'};
   const quoteTime = new Intl.DateTimeFormat('fr-FR',{timeZone:'Europe/Paris',day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'});
   function applyQuotes(payload) {

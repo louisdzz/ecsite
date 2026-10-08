@@ -10,6 +10,34 @@
   const vivre = new Set(['jets','expatriation','biographies','formations-transitions','lifestyle','art-de-vivre','hotels','restaurants','vins','philanthropie']);
   // A topic featured in movements or decryptages must not appear again in the news feed.
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
+  const compactStories = {
+    'boots-wittington-20261008': {title:'Wittington → Boots', detail:'Accord de rachat', initials:'B'},
+    'spikedade-constellation-20261008': {title:'Constellation Brands → SpikedAde', detail:'75 M$ à la réalisation + complément conditionnel', initials:'S'},
+    'infinite-services-adastra-20261008': {title:'Adastra → Infinite Services', detail:'Acquisition · Pologne', initials:'IS'},
+    'peakside-dws-20261006': {title:'DWS → Peakside Capital Advisors', detail:'Accord de rachat', initials:'P'},
+    'sofie-ge-healthcare-20261006': {title:'GE HealthCare → SOFIE', detail:'Accord de rachat · 945 M$', initials:'S'}
+  };
+  function compactCard(card, story) {
+    const link = card.querySelector('h2 a');
+    if (!link || card.querySelector('.exit-avatar')) return;
+    const record = compactStories[story];
+    const originalTitle = link.textContent.trim();
+    const house = card.querySelector('.news-house');
+    const houseName = house?.querySelector('span:not(.news-logo)')?.childNodes[0]?.textContent.trim() || originalTitle;
+    const mark = document.createElement('a');
+    mark.className = 'exit-avatar'; mark.href = link.getAttribute('href');
+    mark.setAttribute('aria-label', 'Lire : ' + originalTitle);
+    const logo = card.querySelector('.news-house img');
+    if (logo) { const img = logo.cloneNode(true); img.alt = ''; mark.append(img); }
+    else { mark.textContent = record?.initials || houseName.split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase(); }
+    card.prepend(mark);
+    if (record) {
+      link.textContent = record.title;
+      link.setAttribute('aria-label', originalTitle);
+      const detail = card.querySelector('.news-summary');
+      if (detail) detail.textContent = record.detail;
+    }
+  }
   function prepareCards(cards) {
     const seen = new Set([...document.querySelectorAll('[data-home-story]')]
       .flatMap(card => card.dataset.homeStory.split(/\s+/)));
@@ -27,6 +55,7 @@
         summary.textContent = [...segmenter.segment(summary.textContent.trim())]
           .slice(0, 2).map(part => part.segment).join('').trim();
       }
+      compactCard(card, story);
       return true;
     });
   }
