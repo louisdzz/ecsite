@@ -59,3 +59,20 @@
 @media(max-width:600px){.media-edition .header{gap:12px;padding-top:12px;padding-bottom:12px}.media-edition .header .wordmark{font-size:24px}.media-edition .header .main-nav{gap:12px}.media-edition .header .main-nav a{font-size:11px}.media-edition .header .search-form{width:100%;height:36px}.media-edition .header .search-form input{height:34px}.media-edition .exit-feed{padding-top:14px}.media-edition .exit-feed-heading h1{font-size:21px}#polymarket .pm-item{flex-basis:210px;min-width:210px}}
 
 @media(max-width:600px){.media-edition .exit-feed-heading{margin-bottom:14px;gap:6px}.media-edition .exit-feed-heading h1{margin:0}.media-edition .exit-feed-heading>a{margin:0}.media-edition .exit-feed-grid{margin-top:0}}
+
+.topics-panel{padding-top:24px;padding-bottom:40px;scroll-margin-top:90px}
+.topics-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:24px}
+.topics-heading h1{font-size:26px;font-weight:500;letter-spacing:-.035em;margin:0}
+.topics-heading>span{font-size:11px;color:#71806d}
+.topics-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+.topic-card{border:1px solid #d8ddd1;padding:32px;background:#edf0e5;min-width:0}
+.topic-card:nth-child(2){background:#f4f2e9}
+.topic-kicker{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#64755d}
+.topic-card h2{font:500 clamp(30px,3vw,46px)/1.08 Georgia,serif;letter-spacing:-.035em;margin:20px 0 16px}
+.topic-card>p{font-size:14px;color:#5d7158;margin:0 0 26px;line-height:1.5}
+.topic-main-link{display:flex;justify-content:space-between;align-items:center;gap:14px;font-size:15px;font-weight:600;text-decoration:none;padding:15px 0;border-top:1px solid #ccd5c1;border-bottom:1px solid #ccd5c1}
+.topic-main-link svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.4;flex-shrink:0}
+.topic-resources{display:flex;flex-direction:column;gap:13px;margin-top:22px}
+.topic-resources a{font-size:12px;text-decoration:none}.topic-resources a:hover{text-decoration:underline}
+.topic-resources>span{font-size:11px;color:#73816f;line-height:1.45}
+@media(max-width:600px){.topics-heading{display:block;margin-bottom:18px}.topics-heading h1{font-size:23px;margin-bottom:7px}.topics-grid{grid-template-columns:1fr;gap:14px}.topic-card{padding:24px}.topic-card h2{font-size:35px}.media-edition .header .main-nav{gap:10px}}
