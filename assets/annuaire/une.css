@@ -96,3 +96,16 @@
 .media-edition .exit-feed .news-card .news-summary,.media-edition .exit-feed .news-card:first-child .news-summary{grid-row:3}
 .media-edition .exit-feed .news-card .news-meta{grid-row:1/4}
 @media(max-width:600px){.media-edition .exit-feed .news-card,.media-edition .exit-feed .news-card:first-child{grid-template-rows:auto auto auto auto;min-height:95px}.media-edition .exit-feed .exit-avatar{grid-row:1/5}.media-edition .exit-feed .exit-sector{font-size:10px}.media-edition .exit-feed .news-card .news-meta{grid-row:4}}
+
+/* Preview: visual, compact transactions in two columns. */
+.media-edition .exit-feed-grid{grid-template-columns:repeat(2,minmax(0,1fr));column-gap:30px;border:0}
+.media-edition .exit-feed .news-card,.media-edition .exit-feed .news-card:first-child{grid-template-columns:76px minmax(0,1fr);grid-template-rows:auto auto auto auto;column-gap:16px;row-gap:3px;padding:17px 0;min-height:121px;align-content:center}
+.media-edition .exit-feed .exit-avatar{grid-column:1;grid-row:1/5;width:76px;height:76px;border-radius:6px;border:0;background:#edf0e8;font-size:20px;align-self:center}
+.media-edition .exit-feed .exit-thumb img{width:100%;height:100%;padding:0;object-fit:cover;background:transparent}
+.media-edition .exit-feed .exit-thumb.logo img{object-fit:contain;padding:10px;background:white}
+.media-edition .exit-feed .exit-thumb.produit img{object-fit:contain;background:#ccebef}
+.media-edition .exit-feed .news-card h2,.media-edition .exit-feed .news-card:first-child h2{font-size:16px;line-height:1.3;margin:0;grid-row:1}
+.media-edition .exit-feed .exit-sector{grid-row:2;font-size:11px}
+.media-edition .exit-feed .news-card .news-summary,.media-edition .exit-feed .news-card:first-child .news-summary{grid-row:3;font-size:11px;-webkit-line-clamp:2}
+.media-edition .exit-feed .news-card .news-meta{grid-column:2;grid-row:4;text-align:left;font-size:9px;margin:3px 0 0}
+@media(max-width:700px){.media-edition .exit-feed-grid{grid-template-columns:1fr}.media-edition .exit-feed .news-card,.media-edition .exit-feed .news-card:first-child{grid-template-columns:64px minmax(0,1fr);column-gap:12px;padding:14px 0;min-height:107px}.media-edition .exit-feed .exit-avatar{width:64px;height:64px}.media-edition .exit-feed .news-card h2,.media-edition .exit-feed .news-card:first-child h2{font-size:14px}}

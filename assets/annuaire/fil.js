@@ -11,11 +11,11 @@
   // A topic featured in movements or decryptages must not appear again in the news feed.
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
   const compactStories = {
-    'boots-wittington-20261008': {sector:'Pharmacies et beauté', title:'Wittington  /  Boots', detail:'Accord de rachat', initials:'B'},
-    'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', title:'Constellation Brands  /  SpikedAde', detail:'75 M$ à la réalisation + complément conditionnel', initials:'S'},
-    'infinite-services-adastra-20261008': {sector:'Données et intelligence artificielle', title:'Adastra  /  Infinite Services', detail:'Acquisition · Pologne', initials:'IS'},
-    'peakside-dws-20261006': {sector:'Gestion immobilière', title:'DWS  /  Peakside Capital Advisors', detail:'Accord de rachat', initials:'P'},
-    'sofie-ge-healthcare-20261006': {sector:'Radiopharmacie', title:'GE HealthCare  /  SOFIE', detail:'Accord de rachat · 945 M$', initials:'S'}
+    'boots-wittington-20261008': {sector:'Pharmacies et beauté', image:'/assets/annuaire/cessions-images/boots.png', imageKind:'logo', title:'Wittington signe le rachat de Boots', detail:'Accord de rachat', initials:'B'},
+    'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', image:'/assets/annuaire/cessions-images/spikedade.png', imageKind:'produit', title:'Constellation Brands rachète SpikedAde', detail:'75 M$ à la réalisation + complément conditionnel', initials:'S'},
+    'infinite-services-adastra-20261008': {sector:'Données et intelligence artificielle', image:'/assets/annuaire/cessions-images/adastra.svg', imageKind:'logo', title:'Adastra rachète Infinite Services', detail:'Acquisition · Pologne', initials:'IS'},
+    'peakside-dws-20261006': {sector:'Gestion immobilière', image:'/assets/annuaire/cessions-images/peakside.png', imageKind:'logo', title:'DWS signe le rachat de Peakside', detail:'Accord de rachat', initials:'P'},
+    'sofie-ge-healthcare-20261006': {sector:'Radiopharmacie', image:'/assets/annuaire/cessions-images/sofie.jpg', imageKind:'photo', title:'GE HealthCare signe le rachat de SOFIE', detail:'Accord de rachat · 945 M$', initials:'S'}
   };
   function compactCard(card, story) {
     const link = card.querySelector('h2 a');
@@ -28,7 +28,8 @@
     mark.className = 'exit-avatar'; mark.href = link.getAttribute('href');
     mark.setAttribute('aria-label', 'Lire : ' + originalTitle);
     const logo = card.querySelector('.news-house img');
-    if (logo) { const img = logo.cloneNode(true); img.alt = ''; mark.append(img); }
+    if (record?.image) { const img = document.createElement('img'); img.src = record.image; img.alt = ''; img.width = 76; img.height = 76; img.loading = 'lazy'; mark.classList.add('exit-thumb', record.imageKind); mark.append(img); }
+    else if (logo) { const img = logo.cloneNode(true); img.alt = ''; mark.append(img); }
     else { mark.textContent = record?.initials || houseName.split(/\s+/).slice(0,2).map(x=>x[0]).join('').toUpperCase(); }
     card.prepend(mark);
     if (record) {
