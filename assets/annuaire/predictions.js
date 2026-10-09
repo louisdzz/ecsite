@@ -9,6 +9,7 @@
     for(const item of data.items){
       if(!allowed.has(item.slug)||!Number.isFinite(item.probability)||item.probability<0||item.probability>100)continue;
       const card=[...block.querySelectorAll('.pm-item')].find(a=>new URL(a.href).pathname.endsWith('/'+item.slug));if(!card)continue;
+      card.querySelector('.pm-price').dataset.probability='true';
       card.querySelector('.pm-price').textContent=item.probability.toLocaleString('fr-FR',{maximumFractionDigits:1})+' %';
       if(item.slug==='next-french-presidential-election' && typeof item.outcome==='string') card.querySelector('.pm-copy small').textContent=item.outcome+' · favori du marché';
       count++;

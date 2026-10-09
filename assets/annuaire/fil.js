@@ -11,7 +11,8 @@
   // A topic featured in movements or decryptages must not appear again in the news feed.
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
   const compactStories = {
-    'boots-wittington-20261008': {sector:'Pharmacies et beauté', image:'/assets/annuaire/cessions-images/boots.png', imageKind:'logo', title:"Boots : un accord à 8,9 Md$, dette comprise", detail:"Wittington signe le rachat", initials:'B'},
+    'techniques-service-alkior-20261009': {sector:'Services aux chantiers', title:'Alkior rachète Techniques Service', detail:'Rabattement de nappes et pompage · Prix non communiqué', initials:'TS'},
+    'boots-wittington-20261008': {sector:'Pharmacies et beauté', image:'/assets/annuaire/cessions-images/boots-store.jpg', imageKind:'photo', title:"Boots : un accord à 8,9 Md$, dette comprise", detail:"Wittington signe le rachat", initials:'B'},
     'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', image:'/assets/annuaire/cessions-images/spikedade.png', imageKind:'produit', title:"SpikedAde : 75 M$ versés, jusqu’à 278 M$ de plus", detail:"Complément conditionnel sur cinq ans", initials:'S'},
     'infinite-services-adastra-20261008': {sector:'Données et intelligence artificielle', image:'/assets/annuaire/cessions-images/adastra.svg', imageKind:'logo', title:"Adastra rachète Infinite Services, spécialiste polonais de la data", detail:"Prix non communiqué", initials:'IS'},
     'peakside-dws-20261006': {sector:'Gestion immobilière', image:'/assets/annuaire/cessions-images/peakside.png', imageKind:'logo', title:"DWS signe pour Peakside et ses 1,7 Md€ d’actifs", detail:"Encours gérés · Prix de vente non communiqué", initials:'P'},
@@ -131,17 +132,21 @@
   }
   function render() {
     const cards = [...grid.querySelectorAll('[data-news]')].sort((a,b) => Date.parse(b.querySelector('time')?.dateTime||'')-Date.parse(a.querySelector('time')?.dateTime||''));
+    grid.append(...cards);
     let total = 0;
-    const limit = 5;
+    grid.querySelectorAll('.lead-story').forEach(card=>card.classList.remove('lead-story'));
+    let lead = null;
+    const limit = 4;
     for (const card of cards) {
       const theme = card.dataset.theme;
       const kind = card.dataset.kind;
       const movement = ['Nomination','Recrutement','Création','Ouverture','Mouvement'].includes(kind);
-      const category = cession.has(theme) || kind === 'Opération' ? 'cession' : vivre.has(theme) ? 'vivre' : 'investir';
+      const category = theme !== 'fonds' && (cession.has(theme) || ['cession','cessions'].includes(theme) || kind === 'Opération') ? 'cession' : vivre.has(theme) ? 'vivre' : 'investir';
       const match = filter === 'all' || (filter === 'mouvements' ? movement : category === filter);
       card.hidden = !match || total >= limit;
-      if (match) total++;
+      if (match) { if (!lead && !card.hidden) lead = card; total++; }
     }
+    if (lead) lead.classList.add('lead-story');
     feed.querySelector('.exit-feed-empty').hidden = total !== 0;
     status.textContent = total ? `${Math.min(total,limit)} actualité${Math.min(total,limit) > 1 ? 's' : ''} affichée${Math.min(total,limit) > 1 ? 's' : ''}.` : '';
     buttons.forEach(b => b.setAttribute('aria-pressed',String(b.dataset.feedFilter === filter)));
