@@ -3,14 +3,11 @@
   const panels = [...document.querySelectorAll('[data-panel]')];
   const nav = [...document.querySelectorAll('[data-view]')];
   const ids = new Set(panels.map(p => p.dataset.panel));
-  const journalAnchors = new Set(['polymarket', 'regards', 'fil-actualites', 'personnes']);
+  const journalAnchors = new Set(['polymarket', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels']);
   const status = document.querySelector('#media-status');
-  const yieldBlock = document.querySelector('[data-yield-observed-at]');
-  if (yieldBlock) {
-    const age = Date.now() - Date.parse(yieldBlock.dataset.yieldObservedAt);
-    if (!Number.isFinite(age) || age < 0 || age > 86400000) yieldBlock.querySelector('.yield-stale').hidden = false;
-  }
   function show(view, focus = false) {
+    const entry = document.querySelector('.directory-entry');
+    if(entry){ if(view==='annuaire') document.querySelector('#annuaire').prepend(entry); else document.querySelector('#polymarket').after(entry); }
     if (!ids.has(view)) view = 'journal';
     panels.forEach(p => p.hidden = p.dataset.panel !== view);
     document.querySelectorAll('[data-directory-part]').forEach(p => p.hidden = view !== 'annuaire');

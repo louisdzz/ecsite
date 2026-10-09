@@ -47,7 +47,7 @@ function updateURL() {
 }
 function renderCategories() {
   categoryList.replaceChildren();
-  const choices = [{ id: '', name: 'Toutes les maisons' }, ...categories];
+  const choices = [{ id: '', name: 'Toutes les sociétés' }, ...categories];
   choices.forEach((category) => {
     const button = el('button', 'category-button');
     button.type = 'button';
@@ -90,11 +90,11 @@ function render() {
     if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
   });
-  $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les maisons');
-  $('#results-count').textContent = `${number.format(filtered.length)} maison${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}`;
+  $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les sociétés');
+  $('#results-count').textContent = `${number.format(filtered.length)} société${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}`;
   $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : 'Par ordre alphabétique';
   $('#reset-results').hidden = !active && !input.value.trim();
-  $('#shown-count').textContent = filtered.length ? `${number.format(visible.length)} sur ${number.format(filtered.length)} maisons` : '';
+  $('#shown-count').textContent = filtered.length ? `${number.format(visible.length)} sur ${number.format(filtered.length)} sociétés` : '';
   $('#load-more').hidden = limit >= filtered.length;
   $('#empty-state').hidden = filtered.length !== 0;
   categoryList.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.category === active)));
@@ -149,7 +149,7 @@ function renderMaFilters() {
     });
     controls.append(button);
   });
-  box.append(controls, el('p', 'ma-help', 'Certaines maisons figurent dans les deux catégories. Chaque maison apparaît une seule fois dans « Tous ».'));
+  box.append(controls, el('p', 'ma-help', 'Certaines sociétés figurent dans les deux catégories. Chaque société apparaît une seule fois dans « Tous ».'));
 }
 async function init() {
   try {
@@ -165,7 +165,8 @@ async function init() {
     const requested = params.get('metier') || location.hash.slice(1);
     selectCategory(requested, params.get('type'));
     if (['ligues','ligue-cgp','actualites','argent','vie'].includes(location.hash.slice(1))) { location.replace('/ecosysteme-ligues' + location.hash); return; }
-    $('#total-count').textContent = number.format(houses.length);
+    const totalCount = $('#total-count');
+    if (totalCount) totalCount.textContent = number.format(houses.length);
     renderCategories(); render();
   } catch (error) {
     $('#results-count').textContent = 'Chargement indisponible';

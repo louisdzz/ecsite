@@ -64,6 +64,7 @@
   }
   const peopleGrid = document.querySelector('#personnes .people-grid');
   const movementKinds = new Set(['Nomination', 'Recrutement', 'Mouvement', 'Promotion', 'Départ', "Création de cabinet", "Mouvement d’équipe"]);
+  const sourceMovements = peopleGrid ? [...peopleGrid.querySelectorAll('[data-source-movement]')].map(card => card.cloneNode(true)) : [];
   const knownMovements = new Map(peopleGrid ? [...peopleGrid.querySelectorAll('[data-home-story]')]
     .map(card => [card.dataset.homeStory, card.cloneNode(true)]) : []);
   function storyId(card) {
@@ -122,7 +123,9 @@
       seen.add(id); return true;
     }).sort((a, b) => Date.parse(b.querySelector('time').getAttribute('datetime')) -
       Date.parse(a.querySelector('time').getAttribute('datetime')));
-    const rendered = records.slice(0, 6).map(movementCard).filter(Boolean);
+    const combined = [...records.map(movementCard).filter(Boolean), ...sourceMovements];
+    const ids = new Set();
+    const rendered = combined.sort((a,b) => Date.parse(b.querySelector('time').dateTime)-Date.parse(a.querySelector('time').dateTime)).filter(card => {const id=card.dataset.homeStory;if(ids.has(id))return false;ids.add(id);return true;}).slice(0,6);
     // If the public feed has no eligible story or cannot be read, retain the existing edition.
     if (rendered.length) peopleGrid.replaceChildren(...rendered);
   }
@@ -155,6 +158,10 @@
     const cards = [...doc.querySelectorAll('article.news-card[data-news]')];
     if (!cards.length) return;
     renderMovements(cards);
+    const providerGrid = document.querySelector('.provider-news-grid');
+    const providerKinds = new Set(['Offre','Service','Fonds','Partenariat','Produit','Destination','Ouverture']);
+    const announcements = cards.filter(card => providerKinds.has(card.dataset.kind)).slice(0,3);
+    if(providerGrid && announcements.length) providerGrid.replaceChildren(...announcements.map(card=>{const node=document.importNode(card,true);node.removeAttribute('data-news');node.dataset.homeStory=storyId(card);return node;}));
     grid.replaceChildren(...prepareCards(cards).map(card => document.importNode(card,true)));
     render();
   }).catch(() => {});
