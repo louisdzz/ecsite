@@ -12,7 +12,7 @@
   {
    "libelle": "€STR",
    "valeur": "2,44 %",
-   "detail": "taux au jour le jour, 6 octobre 2026",
+   "detail": "taux au jour le jour, 8 octobre 2026",
    "source": "https://data-api.ecb.europa.eu/service/data/EST/B.EU000A2X2A25.WT?lastNObservations=1"
   }
  ],
@@ -289,10 +289,10 @@
    "produit": "Spiko T-Bills EUR",
    "nature": "Fonds monétaire",
    "nature_detail": "Fonds monétaire d'État agréé AMF, investi en bons du Trésor de la zone euro (ISIN FR001400ODL1)",
-   "taux": "2,22 %",
-   "taux_num": 2.22,
+   "taux": "2,24 %",
+   "taux_num": 2.24,
    "taux_type": "net de frais, annualisé sur 30 jours (API publique Spiko)",
-   "taux_date": "2026-10-07",
+   "taux_date": "2026-10-08",
    "dispo": "Retrait quotidien, sans préavis ni pénalité",
    "dispo_code": "libre",
    "ticket": "Dès 1 €",
@@ -302,7 +302,7 @@
    "protection_code": "fonds",
    "personne_morale": "oui",
    "source": "https://data.spiko.io/eutbl",
-   "verifie": "2026-10-07",
+   "verifie": "2026-10-08",
    "api": "https://public-api.spiko.io/v0/share-classes/EUTBL/yield"
   },
   {
@@ -328,5 +328,5 @@
    "verifie": "2026-09-25"
   }
  ],
- "auto_le": "2026-10-08T13:21:56Z"
+ "auto_le": "2026-10-09T13:10:25Z"
 }
