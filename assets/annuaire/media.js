@@ -3,7 +3,7 @@
   const panels = [...document.querySelectorAll('[data-panel]')];
   const nav = [...document.querySelectorAll('[data-view]')];
   const ids = new Set(panels.map(p => p.dataset.panel));
-  const journalAnchors = new Set(['polymarket', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels']);
+  const journalAnchors = new Set(['polymarket', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels', 'cash-out']);
   const status = document.querySelector('#media-status');
   function show(view, focus = false) {
     const entry = document.querySelector('.directory-entry');
