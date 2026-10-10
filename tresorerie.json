@@ -269,7 +269,7 @@
    "taux": "2,84 %",
    "taux_num": 2.84,
    "taux_type": "net de frais, annualisé sur 30 jours (API publique Spiko)",
-   "taux_date": "2026-10-09",
+   "taux_date": "2026-10-10",
    "dispo": "Retrait quotidien, sans préavis ni pénalité",
    "dispo_code": "libre",
    "ticket": "Dès 1 €",
@@ -279,7 +279,7 @@
    "protection_code": "fonds",
    "personne_morale": "oui",
    "source": "https://data.spiko.io/safo-eur",
-   "verifie": "2026-10-09",
+   "verifie": "2026-10-10",
    "api": "https://public-api.spiko.io/v0/share-classes/eurSAFO/yield"
   },
   {
@@ -289,10 +289,10 @@
    "produit": "Spiko T-Bills EUR",
    "nature": "Fonds monétaire",
    "nature_detail": "Fonds monétaire d'État agréé AMF, investi en bons du Trésor de la zone euro (ISIN FR001400ODL1)",
-   "taux": "2,24 %",
-   "taux_num": 2.24,
+   "taux": "2,29 %",
+   "taux_num": 2.29,
    "taux_type": "net de frais, annualisé sur 30 jours (API publique Spiko)",
-   "taux_date": "2026-10-08",
+   "taux_date": "2026-10-09",
    "dispo": "Retrait quotidien, sans préavis ni pénalité",
    "dispo_code": "libre",
    "ticket": "Dès 1 €",
@@ -302,7 +302,7 @@
    "protection_code": "fonds",
    "personne_morale": "oui",
    "source": "https://data.spiko.io/eutbl",
-   "verifie": "2026-10-08",
+   "verifie": "2026-10-09",
    "api": "https://public-api.spiko.io/v0/share-classes/EUTBL/yield"
   },
   {
@@ -328,5 +328,5 @@
    "verifie": "2026-09-25"
   }
  ],
- "auto_le": "2026-10-09T13:10:25Z"
+ "auto_le": "2026-10-10T12:25:19Z"
 }
