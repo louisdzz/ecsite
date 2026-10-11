@@ -1,0 +1,21 @@
+@import url('fonts.css');
+body.annuaire-editorial{--paper:#faf8f1;--ink:#1c3029;--muted:#657068;--line:#d9ddd1;--green:#17382f;background:#faf8f1;color:#1c3029;font-family:Inter,Arial,sans-serif}
+body.annuaire-editorial .header{border-color:#d9ddd1;background:#faf8f1}
+body.annuaire-editorial .wordmark{font-family:Arial,Helvetica,sans-serif}
+body.annuaire-editorial h1,body.annuaire-editorial .hero h2,body.annuaire-editorial .approach h2,body.annuaire-editorial .partner-band h2{font-family:'PT Serif',Georgia,serif;font-weight:400;letter-spacing:-.035em}
+body.annuaire-editorial .hero{background:#eeeee2;border-color:#d9ddd1;border-radius:18px}
+body.annuaire-editorial .hero h1{font-size:clamp(38px,4vw,56px);line-height:1.15}
+body.annuaire-editorial .main-nav a{border-radius:999px}
+body.annuaire-editorial .house{border-radius:16px;background:#fffdf8;border-color:#dfe2d6;box-shadow:none}
+body.annuaire-editorial .house:hover{border-color:#6f8979;box-shadow:0 8px 25px #1c302909}
+body.annuaire-editorial .outline-button{border-radius:999px}
+body.annuaire-editorial .partner-band{background:#17382f}
+body.annuaire-editorial .search-box{border-radius:999px;background:#fffdf8}
+body.annuaire-editorial .approach{border-color:#d9ddd1}
+body.annuaire-editorial .directory-entry h2{font:400 42px/1.2 'PT Serif',Georgia,serif;letter-spacing:-.035em;margin-bottom:25px}
+body.annuaire-editorial .directory-entry .search-form{border-radius:999px;padding:6px;background:#fffdf8}
+body.annuaire-editorial .search-form button{border-radius:999px;background-color:#17382f;min-height:48px}
+body.annuaire-editorial #results-title{font:400 35px/1.2 'PT Serif',Georgia,serif;letter-spacing:-.035em}
+@media(max-width:680px){body.annuaire-editorial .hero h1{font-size:37px}}
+@media(max-width:680px){body.annuaire-editorial .directory-entry h2{font-size:31px}body.annuaire-editorial .directory-entry .search-form{border-radius:20px}}
+@media(max-width:680px){body.annuaire-editorial .search-form .search-submit{display:inline-flex;align-items:center;justify-content:center}body.annuaire-editorial .search-form .search-submit::after{content:"";display:block;width:20px;height:20px;background:center/20px 20px no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M12 5l7 7-7 7'/%3E%3C/svg%3E")}}
