@@ -6,14 +6,22 @@
   const journalAnchors = new Set(['polymarket', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels', 'cash-out']);
   const status = document.querySelector('#media-status');
   function show(view, focus = false) {
-    const entry = document.querySelector('.directory-entry');
-    if(entry){ if(view==='annuaire') document.querySelector('#annuaire').prepend(entry); else document.querySelector('#polymarket').after(entry); }
     if (!ids.has(view)) view = 'journal';
+    const entry = document.querySelector('.directory-entry');
+    const searchHome = document.querySelector('.directory-search-home');
+    if (entry) {
+      if (view === 'annuaire') document.querySelector('#annuaire').prepend(entry);
+      else if (searchHome) searchHome.append(entry);
+      else document.querySelector('#polymarket').after(entry);
+    }
+    document.body.dataset.mediaView = view;
+    const masthead = document.querySelector('.mercury-masthead');
+    if (masthead) masthead.hidden = view !== 'journal';
     panels.forEach(p => p.hidden = p.dataset.panel !== view);
     document.querySelectorAll('[data-directory-part]').forEach(p => p.hidden = view !== 'annuaire');
     nav.forEach(a => { if (a.dataset.view === view) a.setAttribute('aria-current','page'); else a.removeAttribute('aria-current'); });
     if (focus) {
-      const dest = view === 'annuaire' ? document.querySelector('.search-section') : document.getElementById(view);
+      const dest = view === 'annuaire' ? document.querySelector('.directory-entry') : document.querySelector('.mercury-masthead') || document.getElementById(view);
       dest?.scrollIntoView({block:'start',behavior:'auto'});
     }
   }

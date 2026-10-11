@@ -1,0 +1,115 @@
+/* Mercury directory: presentation only; filters and data keep their existing engine. */
+body.annuaire-editorial{--paper:#faf8f1;--ink:#1c3029;--muted:#657068;--line:#dadfd3;--sans:Inter,Arial,sans-serif;--serif:'PT Serif',Georgia,serif;background:var(--paper);font-family:var(--sans)}
+body.annuaire-editorial .shell{max-width:1440px;padding-left:5%;padding-right:5%}
+body.annuaire-editorial .header{height:92px;min-height:92px;padding-top:20px;padding-bottom:20px;flex-wrap:nowrap;gap:28px;background:var(--paper);border-bottom:1px solid var(--line)}
+body.annuaire-editorial .header .main-nav{gap:12px}
+body.annuaire-editorial .header .main-nav a{font-size:13px;padding:11px 18px;border:1px solid transparent;border-radius:999px;white-space:nowrap}
+body.annuaire-editorial .main-nav a[aria-current=page]{background:#e8ece1;border-color:#d6ddce;color:var(--ink)}
+body.annuaire-editorial[data-media-view=journal] .header{position:absolute;top:0;left:0;right:0;z-index:4;max-width:none;color:#fff;background:transparent;border-bottom:1px solid #ffffff26}
+body.annuaire-editorial[data-media-view=journal] .main-nav a[aria-current=page]{color:#fff;background:#ffffff15;border-color:#ffffff55;backdrop-filter:blur(10px)}
+.mercury-masthead{position:relative;isolation:isolate;overflow:hidden;background:#18382f;color:#fff;min-height:490px;padding:146px 5% 52px;text-align:center}
+.mercury-masthead::before{content:'';position:absolute;inset:0;z-index:-2;background:url('/assets/mercury/hero-coast.jpg') center 43%/cover}
+.mercury-masthead::after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#0c242964,#16332f9e 55%,#112f27c4)}
+.mercury-masthead-inner{max-width:980px;margin:0 auto}
+.mercury-kicker{font:400 10px/1.5 var(--sans);letter-spacing:.13em;text-transform:uppercase;margin:0 0 19px;color:#eff4ed}
+body.annuaire-editorial .mercury-masthead h1{font:500 clamp(43px,5vw,76px)/1.07 var(--sans);letter-spacing:-.055em;color:#fff;margin:0 0 18px}
+.mercury-intro{font-size:17px;line-height:1.6;color:#e6ede6;margin:0 0 27px}
+body.annuaire-editorial .directory-search-home .directory-entry{padding:0;margin:0 auto;border:0;max-width:760px}
+body.annuaire-editorial .directory-search-home .directory-entry h2{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+body.annuaire-editorial .directory-entry .search-form{height:72px;min-height:72px;padding:7px 8px 7px 12px;gap:0;border-radius:999px;border:1px solid #dce2d3;background:#fffdf9;box-shadow:0 8px 26px #10251b0a}
+body.annuaire-editorial .directory-entry .search-icon{margin:0 16px 0 9px;width:21px;min-width:21px;color:#405646}
+body.annuaire-editorial .directory-entry input{font:400 14px/1.4 var(--sans);color:var(--ink);height:56px}
+body.annuaire-editorial .search-form .search-submit{min-height:54px;height:54px;display:inline-flex;align-items:center;justify-content:center;gap:15px;padding:0 24px;background:#183b30;border:0;color:white;font:500 12px var(--sans);border-radius:999px}
+body.annuaire-editorial .search-submit::after{content:'';display:block;width:18px;height:18px;flex:none;background:center/18px 18px no-repeat url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='1.6' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12h14M12 5l7 7-7 7'/%3E%3C/svg%3E")}
+body.annuaire-editorial .search-suggestions{gap:7px;margin-top:15px}
+.directory-search-home .search-suggestions{justify-content:center}
+body.annuaire-editorial .directory-search-home .search-suggestions a{background:#ffffff12;color:#fff;border-color:#ffffff40;font-size:11px;padding:8px 13px;backdrop-filter:blur(8px)}
+body.annuaire-editorial .directory-search-home .search-suggestions a:hover{background:#ffffff26}
+body.annuaire-editorial .search-form:focus-within{outline:3px solid #a4b78e;outline-offset:4px}
+body.annuaire-editorial #journal{padding-top:47px;padding-bottom:40px}
+body.annuaire-editorial .exit-feed{padding:0 0 34px;margin:0;border:0}
+body.annuaire-editorial .exit-feed-heading,body.annuaire-editorial .desk-heading{margin:0 0 26px;align-items:center}
+body.annuaire-editorial #exit-feed-title,body.annuaire-editorial .desk-heading>h2,body.annuaire-editorial .yield-heading h2,body.annuaire-editorial .topics-heading h2,body.annuaire-editorial .ec-heading h2{font:400 33px/1.2 var(--serif);letter-spacing:-.035em;margin:0;color:var(--ink)}
+body.annuaire-editorial .exit-feed-heading>a,body.annuaire-editorial .desk-heading>a{font:400 12px var(--sans);margin:0;border-bottom:1px solid #a6b2a0;padding-bottom:5px}
+body.annuaire-editorial .exit-feed-grid{gap:0 36px;grid-template-columns:minmax(0,1.08fr) minmax(0,1fr)}
+body.annuaire-editorial .exit-feed .news-card.lead-story{border-radius:18px;background:#17382f;color:#fff;padding:28px;min-height:385px;height:100%;justify-content:flex-end;align-items:stretch}
+body.annuaire-editorial .exit-feed .news-card.lead-story h2,body.annuaire-editorial .exit-feed .news-card.lead-story h2 a{font:500 29px/1.18 var(--sans);letter-spacing:-.04em;color:#fff;margin:0 0 16px}
+body.annuaire-editorial .exit-feed .lead-story .exit-avatar{height:150px;margin:0 0 23px;border-radius:10px;overflow:hidden}
+body.annuaire-editorial .exit-feed .lead-story .exit-avatar:not(:has(img)){display:grid;place-items:center;width:56px;height:56px;margin:0 0 auto;background:#ffffff14;border:1px solid #ffffff36;color:#fff;font:400 25px var(--serif);border-radius:12px;align-self:flex-start}
+body.annuaire-editorial .exit-feed .lead-story .news-summary{font:400 12px/1.65 var(--sans);color:#d3dfd2;margin:0 0 18px;max-width:55ch}
+body.annuaire-editorial .exit-feed .lead-story .exit-sector,body.annuaire-editorial .exit-feed .lead-story .news-meta{color:#c1d1bc;font:400 10px/1.6 var(--sans)}
+body.annuaire-editorial .exit-feed .news-card:not(.lead-story){padding:20px 0;min-height:128px;grid-template-columns:80px minmax(0,1fr);gap:5px 17px;border-color:var(--line);align-content:center}
+body.annuaire-editorial .exit-feed .news-card:not(.lead-story):first-child{padding-top:0}
+body.annuaire-editorial .exit-feed .news-card:not(.lead-story) h2{font:500 18px/1.3 var(--sans);letter-spacing:-.025em;margin:0}
+body.annuaire-editorial .exit-feed .news-card:not(.lead-story) .exit-avatar{display:grid;place-items:center;border-radius:13px;background:#e8ece2;font:400 22px var(--serif)}
+body.annuaire-editorial .exit-feed .news-card:not(.lead-story) .news-summary{font:400 11px/1.5 var(--sans);color:var(--muted)}
+body.annuaire-editorial #polymarket{padding:23px 25px;margin:0 0 52px;border:1px solid #dce2d3;border-radius:17px;background:#eff1e6}
+body.annuaire-editorial #polymarket .pm-heading h2{font:500 14px/1.4 var(--sans);margin-bottom:19px}
+body.annuaire-editorial #polymarket .pm-copy strong{font:500 12px/1.45 var(--sans)}
+body.annuaire-editorial #polymarket .pm-avatar{width:44px;height:44px;border:0}
+body.annuaire-editorial #polymarket .pm-item{grid-template-columns:44px minmax(0,1fr) auto;gap:11px}
+body.annuaire-editorial #polymarket .pm-item+.pm-item{border-left:1px solid #d2dbc9;padding-left:22px}
+body.annuaire-editorial #polymarket .pm-price[data-probability]{font:500 22px/1.2 var(--sans);letter-spacing:-.04em}
+body.annuaire-editorial .founder-exits{padding:0 0 48px;margin:0 0 48px;border-bottom:1px solid var(--line)}
+body.annuaire-editorial .founder-grid{gap:22px}
+body.annuaire-editorial .founder-card{background:#fffdf8;border-radius:17px;border-color:var(--line)}
+body.annuaire-editorial .founder-card summary{padding:24px;gap:18px;min-height:150px}
+body.annuaire-editorial .founder-copy>strong{font:500 16px var(--sans)}
+body.annuaire-editorial .founder-value strong{font:500 16px/1.4 var(--sans);letter-spacing:-.025em}
+body.annuaire-editorial .provider-news{margin:0 0 48px}
+body.annuaire-editorial #personnes{padding:0 0 24px}
+body.annuaire-editorial #personnes .people-grid{gap:18px;padding:8px 0 16px}
+body.annuaire-editorial #personnes .person-card{flex-basis:226px;min-width:226px;border-right:1px solid var(--line);padding-right:15px}
+body.annuaire-editorial #personnes .person-card h3{font:500 13px/1.4 var(--sans)}
+body.annuaire-editorial #personnes .person-route{font-size:11px!important;white-space:normal;line-height:1.4}
+body.annuaire-editorial #personnes .person-monogram{border:0}
+body.annuaire-editorial #personnes .person-monogram img{filter:none}
+body.annuaire-editorial .provider-news .provider-news-grid{gap:15px}
+body.annuaire-editorial .provider-news .provider-news-grid .news-card{padding:26px;border:1px solid var(--line);border-radius:15px;background:#fffdf8;grid-template-columns:1fr 1.2fr;column-gap:42px}
+body.annuaire-editorial .provider-news .news-card h2{font:500 21px/1.3 var(--sans);letter-spacing:-.035em}
+body.annuaire-editorial .provider-news .news-summary{font:400 13px/1.7 var(--sans);color:var(--muted)}
+body.annuaire-editorial .provider-news .news-meta{display:flex;align-items:center;gap:12px;font:400 10px/1.5 var(--sans);color:var(--muted)}
+body.annuaire-editorial .provider-news .news-card-foot{display:flex;justify-content:space-between;align-items:center;gap:20px;padding-top:17px;margin-top:10px;border-top:1px solid var(--line);font:400 11px var(--sans)}
+body.annuaire-editorial .provider-news .news-house{display:flex;align-items:center;gap:12px}
+body.annuaire-editorial .provider-news .news-logo{display:flex;align-items:center;width:68px;height:30px}
+body.annuaire-editorial .provider-news .news-logo img{display:block;max-width:68px;max-height:30px;object-fit:contain}
+body.annuaire-editorial .yield-ribbon{padding-top:0;padding-bottom:43px;margin-bottom:0;border:0}
+body.annuaire-editorial .yield-card{background:#f0f2e8;border:1px solid #dce2d3;border-radius:15px;overflow:hidden}
+body.annuaire-editorial .yield-card summary{padding:23px}
+body.annuaire-editorial .hot-topics{margin:10px 0 45px}
+body.annuaire-editorial .hot-topics .topics-heading{margin-bottom:23px}
+body.annuaire-editorial .hot-topics .topic-card{border-radius:17px;padding:28px;background:#edf0e4;border:1px solid #dce2d3}
+body.annuaire-editorial .hot-topics .topic-card:nth-child(2){background:#f2ede1;border-color:#e3ddcf}
+body.annuaire-editorial .hot-topics .topic-card h2{font:500 27px/1.2 var(--sans);letter-spacing:-.035em;margin:0 0 15px}
+body.annuaire-editorial .editorial-dispatch{padding-top:12px}
+body.annuaire-editorial .ec-card{border-radius:18px;border-color:#d7dece}
+body.annuaire-editorial .ec-card h3{font:400 31px/1.18 var(--serif);letter-spacing:-.03em}
+body.annuaire-editorial .ec-question-desk{border-radius:18px;padding:32px;background:#edf0e4}
+body.annuaire-editorial .ec-question-desk h3{font:400 29px/1.15 var(--serif);letter-spacing:-.035em}
+body.annuaire-editorial .treso-bandeau{margin:20px auto 0}
+body.annuaire-editorial .directory{gap:28px 38px;margin:32px auto 75px}
+body.annuaire-editorial #annuaire>.directory-entry{padding:0 0 28px;margin:0 0 0;border-top:0;border-bottom:1px solid var(--line)}
+body.annuaire-editorial #annuaire>.directory-entry h2{font:500 43px/1.2 var(--sans);letter-spacing:-.045em;margin-bottom:23px}
+body.annuaire-editorial #annuaire>.directory-entry .search-form{max-width:850px}
+body.annuaire-editorial .category-top h2{font:500 10px/1.5 var(--sans);letter-spacing:.08em;color:var(--muted)}
+body.annuaire-editorial .category-button{border-radius:10px;font:400 12px/1.5 var(--sans);padding:12px;min-height:45px}
+body.annuaire-editorial #results-title{font:400 33px/1.2 var(--serif);letter-spacing:-.035em}
+body.annuaire-editorial .results-grid{gap:18px}
+body.annuaire-editorial .house{border-radius:17px;background:#fffdf8;box-shadow:0 3px 16px #18392d03}
+body.annuaire-editorial .house a{padding:25px 22px;min-height:228px}
+body.annuaire-editorial .house-top{margin-bottom:27px}
+body.annuaire-editorial .house-mark.logo-unavailable{background:#eff1e8;border-radius:8px}
+body.annuaire-editorial .house h3{font:500 20px/1.25 var(--sans);letter-spacing:-.035em}
+body.annuaire-editorial .approach{max-width:1296px;margin:0 auto;padding:50px 5%;border-top:1px solid var(--line);background:transparent;border-radius:0;gap:40px}
+body.annuaire-editorial .approach h2{font:400 34px/1.15 var(--serif);letter-spacing:-.035em}
+body.annuaire-editorial .partner-band{max-width:none;margin:0;border-radius:0;background:linear-gradient(90deg,#16382fee,#16382fbc),url('/assets/mercury/hero-coast.jpg') center 68%/cover}
+body.annuaire-editorial .partner-inner{max-width:1440px;padding:65px 5%;gap:40px}
+body.annuaire-editorial .partner-inner h2{font:400 44px/1.12 var(--serif);letter-spacing:-.035em;margin-bottom:16px}
+body.annuaire-editorial .outline-button{border-radius:999px;font-size:12px;padding:15px 23px}
+body.annuaire-editorial .footer{min-height:120px}
+@media(min-width:1800px){body.annuaire-editorial .header{padding-left:max(5%,calc((100vw - 1296px)/2));padding-right:max(5%,calc((100vw - 1296px)/2))}}
+@media(max-width:1050px){body.annuaire-editorial .exit-feed .news-card.lead-story h2{font-size:26px}body.annuaire-editorial #polymarket .pm-list{gap:18px}body.annuaire-editorial #polymarket .pm-item{grid-template-columns:40px minmax(0,1fr)}body.annuaire-editorial #polymarket .pm-price{grid-column:2;grid-row:2}body.annuaire-editorial #polymarket .pm-avatar{width:40px;height:40px;grid-row:1/3}body.annuaire-editorial .founder-card summary{grid-template-columns:60px minmax(0,1fr);gap:14px}body.annuaire-editorial .founder-value{grid-column:2;text-align:left}body.annuaire-editorial .founder-avatar{width:60px;height:60px}}
+@media(max-width:800px){body.annuaire-editorial .header{height:82px;min-height:82px;padding-top:15px;padding-bottom:15px}body.annuaire-editorial .header .main-nav{gap:5px}body.annuaire-editorial .header .main-nav a{padding:10px 13px;font-size:12px}.mercury-masthead{padding-top:132px;min-height:460px}.mercury-intro{font-size:15px}body.annuaire-editorial .exit-feed-grid{gap:0 24px}body.annuaire-editorial .exit-feed .news-card.lead-story{padding:24px}body.annuaire-editorial .exit-feed .news-card:not(.lead-story){grid-template-columns:60px minmax(0,1fr);gap:4px 13px}body.annuaire-editorial .exit-feed .news-card:not(.lead-story) .exit-avatar{width:60px;height:60px}body.annuaire-editorial .exit-feed .news-card:not(.lead-story) h2{font-size:15px}body.annuaire-editorial #annuaire>.directory-entry h2{font-size:36px}body.annuaire-editorial .category-top{background:#edf0e4;border-radius:12px}body.annuaire-editorial .results-grid{gap:14px}}
+@media(max-width:700px){body.annuaire-editorial .shell{padding-left:6%;padding-right:6%}body.annuaire-editorial .header{height:78px;min-height:78px;gap:14px}body.annuaire-editorial .header .wordmark{font-size:28px}body.annuaire-editorial .header .main-nav{gap:0}body.annuaire-editorial .header .main-nav a{font-size:11px;padding:9px 10px}.mercury-masthead{padding:122px 6% 39px;min-height:455px}.mercury-kicker{font-size:9px;letter-spacing:.075em;margin-bottom:21px}body.annuaire-editorial .mercury-masthead h1{font-size:45px;max-width:340px;margin:0 auto 18px;line-height:1.04}.mercury-intro{margin-bottom:27px}body.annuaire-editorial .directory-entry .search-form{min-height:64px;height:64px;padding:5px 6px 5px 7px}body.annuaire-editorial .directory-entry input{font-size:12px;height:50px}body.annuaire-editorial .directory-entry .search-icon{width:17px;min-width:17px;margin:0 9px 0 4px}body.annuaire-editorial .search-form .search-submit{min-width:50px;width:50px;min-height:50px;height:50px;padding:0}body.annuaire-editorial .search-submit span{display:none}body.annuaire-editorial .directory-search-home .search-suggestions{gap:7px}body.annuaire-editorial .directory-search-home .search-suggestions a{font-size:10px;padding:7px 10px}body.annuaire-editorial #journal{padding-top:31px}body.annuaire-editorial #exit-feed-title,body.annuaire-editorial .desk-heading>h2,body.annuaire-editorial .yield-heading h2,body.annuaire-editorial .topics-heading h2,body.annuaire-editorial .ec-heading h2{font-size:27px}body.annuaire-editorial .exit-feed-heading{display:flex;gap:15px;margin-bottom:20px}body.annuaire-editorial .exit-feed-heading>a,body.annuaire-editorial .desk-heading>a{font-size:10px}body.annuaire-editorial .exit-feed-grid{grid-template-columns:1fr}body.annuaire-editorial .exit-feed .news-card.lead-story{grid-row:auto;grid-column:1;min-height:330px;padding:24px;margin-bottom:8px}body.annuaire-editorial .exit-feed .news-card.lead-story h2{font-size:26px;margin:19px 0 13px}body.annuaire-editorial .exit-feed .lead-story .exit-avatar:not(:has(img)){width:43px;height:43px;font-size:20px}body.annuaire-editorial .exit-feed .news-card:not(.lead-story){grid-column:1;min-height:115px;grid-template-columns:66px minmax(0,1fr);gap:4px 14px;padding:17px 0}body.annuaire-editorial .exit-feed .news-card:not(.lead-story) .exit-avatar{width:66px;height:66px}body.annuaire-editorial .exit-feed .news-card:not(.lead-story) h2{font-size:15px;line-height:1.35}body.annuaire-editorial #polymarket{padding:21px;margin-bottom:36px}body.annuaire-editorial #polymarket .pm-list{grid-template-columns:1fr;gap:16px}body.annuaire-editorial #polymarket .pm-item{grid-template-columns:40px minmax(0,1fr) auto}body.annuaire-editorial #polymarket .pm-item+.pm-item{border-left:0;border-top:1px solid #d2dbc9;padding:16px 0 0}body.annuaire-editorial #polymarket .pm-avatar{grid-row:1}body.annuaire-editorial #polymarket .pm-price{grid-column:3;grid-row:1}body.annuaire-editorial #polymarket .pm-price[data-probability]{font-size:20px}body.annuaire-editorial .founder-exits{padding-bottom:35px;margin-bottom:35px}body.annuaire-editorial .founder-grid{grid-template-columns:1fr;gap:14px}body.annuaire-editorial .founder-card summary{padding:20px;min-height:130px}body.annuaire-editorial .founder-value{grid-column:2;grid-row:auto;text-align:left}body.annuaire-editorial .founder-subtitle{font-size:11px}body.annuaire-editorial .desk-heading{margin-bottom:20px;gap:15px}body.annuaire-editorial .provider-news .desk-heading{align-items:baseline}body.annuaire-editorial .provider-news .desk-heading h2{max-width:240px}body.annuaire-editorial .provider-news .provider-news-grid .news-card{display:block;padding:22px}body.annuaire-editorial .provider-news .news-card h2{font-size:21px}body.annuaire-editorial .yield-card summary{padding:20px}body.annuaire-editorial .hot-topics .topic-card{padding:24px}body.annuaire-editorial .hot-topics .topic-card h2{font-size:25px}body.annuaire-editorial .ec-card h3{font-size:28px}body.annuaire-editorial .ec-question-desk{padding:24px}body.annuaire-editorial #annuaire>.directory-entry h2{font-size:31px}body.annuaire-editorial .house a{padding:22px;min-height:220px}body.annuaire-editorial .approach{padding:38px 6%;gap:25px}body.annuaire-editorial .partner-inner{padding:48px 6%;display:block}body.annuaire-editorial .partner-inner h2{font-size:36px}body.annuaire-editorial .partner-inner .outline-button{margin-top:25px}body.annuaire-editorial .footer{padding-top:35px;padding-bottom:35px}}
+@media(max-width:380px){body.annuaire-editorial .header .wordmark{font-size:25px}body.annuaire-editorial .header .main-nav a{padding:8px;font-size:10px}body.annuaire-editorial .mercury-masthead h1{font-size:41px}body.annuaire-editorial .exit-feed-heading{align-items:start}body.annuaire-editorial #exit-feed-title{font-size:25px}body.annuaire-editorial .exit-feed-heading>a{max-width:85px;white-space:normal;text-align:right}}
+@media(prefers-reduced-motion:reduce){.annuaire-editorial *{scroll-behavior:auto!important;transition:none!important}}
