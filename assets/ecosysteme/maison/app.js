@@ -12,13 +12,13 @@ const labels = {
   'banques-privees': 'Banques privées', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires patrimoniaux', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
-  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', secondaire: 'Secondaire & pré-IPO', jets: 'Aviation d’affaires',
+  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', jets: 'Aviation d’affaires',
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
   intermediaires: 'Intermédiaires & distribution de fonds'
 };
-let houses = [], categories = [], active = '', maType = '', limit = pageSize;
+let houses = [], categories = [], active = '', maType = '', secondaryRole = '', limit = pageSize;
 
 function el(tag, className, text) {
   const node = document.createElement(tag);
@@ -41,6 +41,7 @@ function updateURL() {
   const params = new URLSearchParams();
   if (input.value.trim()) params.set('q', input.value.trim());
   if (active) params.set('metier', active);
+  if (active === 'secondaire' && secondaryRole) params.set('role', secondaryRole);
   if (active === 'conseil-ma' && maType) params.set('type', maType);
   const query = params.toString();
   history.replaceState(null, '', location.pathname + (query ? '?' + query : '') + location.hash);
@@ -56,7 +57,7 @@ function renderCategories() {
     const count = category.id ? houses.filter(h => h.categories.includes(category.id)).length : houses.length;
     button.append(el('span', '', labels[category.id] || category.name), el('span', '', number.format(count)));
     button.addEventListener('click', () => {
-      active = category.id; maType = ''; limit = pageSize; closeCategories(); render();
+      active = category.id; maType = ''; secondaryRole = ''; limit = pageSize; closeCategories(); render();
       if (matchMedia('(max-width:800px)').matches) $('#results-title').focus({ preventScroll: true });
     });
     categoryList.append(button);
@@ -64,7 +65,7 @@ function renderCategories() {
 }
 function render() {
   const words = normalize(input.value).split(' ').filter(Boolean);
-  const filtered = houses.filter(h => (!active || h.categories.includes(active)) && (active !== 'conseil-ma' || !maType || h.maTypes.includes(maType)) && words.every(w => h.search.includes(w)));
+  const filtered = houses.filter(h => (!active || h.categories.includes(active)) && (active !== 'conseil-ma' || !maType || h.maTypes.includes(maType)) && (active !== 'secondaire' || !secondaryRole || h.secondaryRole === secondaryRole) && words.every(w => h.search.includes(w)));
   const previousSize = results.children.length;
   const visible = filtered.slice(0, limit);
   results.replaceChildren();
@@ -103,7 +104,7 @@ function render() {
   return { previousSize, visible };
 }
 function reset(event) {
-  event.preventDefault(); input.value = ''; active = ''; maType = ''; limit = pageSize; closeCategories(); render(); input.focus({ preventScroll: true });
+  event.preventDefault(); input.value = ''; active = ''; maType = ''; secondaryRole = ''; limit = pageSize; closeCategories(); render(); input.focus({ preventScroll: true });
 }
 document.querySelectorAll('.reset-all').forEach(b => b.addEventListener('click', reset));
 input.addEventListener('input', () => { limit = pageSize; render(); });
@@ -111,7 +112,7 @@ $('.search-form').addEventListener('submit', e => {
   e.preventDefault(); limit = pageSize; render(); $('#results-title').focus({ preventScroll: true }); $('#annuaire').scrollIntoView({ block: 'start' });
 });
 document.querySelectorAll('.example').forEach(b => b.addEventListener('click', () => {
-  input.value = b.dataset.query; active = ''; maType = ''; limit = pageSize; closeCategories(); render(); $('#results-title').focus({ preventScroll: true }); $('#annuaire').scrollIntoView({ block: 'start' });
+  input.value = b.dataset.query; active = ''; maType = ''; secondaryRole = ''; limit = pageSize; closeCategories(); render(); $('#results-title').focus({ preventScroll: true }); $('#annuaire').scrollIntoView({ block: 'start' });
 }));
 $('#load-more').addEventListener('click', () => {
   const old = results.children.length; limit += pageSize; render(); results.children[old]?.querySelector('a').focus({ preventScroll: true });
@@ -131,9 +132,24 @@ function selectCategory(key, type = '') {
 }
 function renderMaFilters() {
   const box = $('#ma-filters');
-  box.hidden = active !== 'conseil-ma';
+  box.hidden = !['conseil-ma', 'secondaire'].includes(active);
   box.replaceChildren();
   if (box.hidden) return;
+  if (active === 'secondaire') {
+    const controls = el('div', 'ma-types');
+    controls.setAttribute('role', 'group'); controls.setAttribute('aria-label', 'Rôle sur le marché secondaire');
+    [['', 'Tous'], ['acces', 'Accès et structuration'], ['investisseurs', 'Fonds et investisseurs'], ['plateformes', 'Revente et données']].forEach(([key, label]) => {
+      const count = houses.filter(h => h.categories.includes('secondaire') && (!key || h.secondaryRole === key)).length;
+      const button = el('button', 'ma-type', `${label} · ${number.format(count)}`);
+      button.type = 'button'; button.setAttribute('aria-pressed', String(secondaryRole === key));
+      button.addEventListener('click', () => { secondaryRole = key; limit = pageSize; render(); });
+      controls.append(button);
+    });
+    const link = el('a', '', 'Secondaire de fonds et private equity');
+    link.href = '/annuaire?metier=secondaire-fonds#annuaire';
+    box.append(controls, link, el('p', 'ma-help', 'Late stage ne signifie pas IPO programmée. Les conditions d’accès et de revente dépendent de chaque offre.'));
+    return;
+  }
   const group = houses.filter(h => h.categories.includes('conseil-ma'));
   const choices = [['', 'Tous'], ['boutiques', 'Boutiques'], ['banques', 'Banques d’affaires']];
   const controls = el('div', 'ma-types');
@@ -153,7 +169,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20260927-conseil-ma');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261012-secondaire');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
@@ -162,6 +178,7 @@ async function init() {
     houses = data.houses.sort((a,b) => a.name.localeCompare(b.name, 'fr', { sensitivity: 'base', ignorePunctuation: true })).map(h => ({ ...h, maTypes: [h.categories.includes('boutiques-ma') ? 'boutiques' : '', h.categories.includes('banques-affaires') ? 'banques' : ''].filter(Boolean), categories: [...h.categories.filter(c => !group.categoryIds.includes(c)), ...(h.categories.some(c => group.categoryIds.includes(c)) ? ['conseil-ma'] : [])], search: normalize(h.name + ' ' + h.categories.map(c => categoryNames[c] + ' ' + labels[c]).join(' ') + ' ' + (h.keywords || []).join(' ') + ' ' + (h.logoAttribution || '')) }));
     const params = new URLSearchParams(location.search);
     input.value = params.get('q') || '';
+    secondaryRole = ['acces', 'investisseurs', 'plateformes'].includes(params.get('role')) ? params.get('role') : '';
     const requested = params.get('metier') || location.hash.slice(1);
     selectCategory(requested, params.get('type'));
     if (['ligues','ligue-cgp','actualites','argent','vie'].includes(location.hash.slice(1))) { location.replace('/ecosysteme-ligues' + location.hash); return; }
@@ -181,6 +198,7 @@ window.addEventListener('hashchange', () => { const key = location.hash.slice(1)
 
 window.addEventListener('popstate', () => {
   const params = new URLSearchParams(location.search);
+  secondaryRole = ['acces', 'investisseurs', 'plateformes'].includes(params.get('role')) ? params.get('role') : '';
   input.value = params.get('q') || '';
   selectCategory(params.get('metier') || location.hash.slice(1), params.get('type'));
   limit = pageSize; render();

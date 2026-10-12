@@ -73,7 +73,12 @@
     {
       "id": "secondaire",
       "name": "Secondaire & pré-IPO",
-      "description": "Acquisition de parts de fonds non cotés et de participations existantes, dont les actions de sociétés avant leur introduction en bourse."
+      "description": "Actions de sociétés tech non cotées, growth et late stage : accès aux opérations, fonds et investisseurs, plateformes de revente et données."
+    },
+    {
+      "id": "secondaire-fonds",
+      "name": "Secondaire de fonds & private equity",
+      "description": "Parts de fonds, portefeuilles de private equity, fonds de continuation et conseil en transactions secondaires."
     },
     {
       "id": "jets",
@@ -41437,13 +41442,13 @@
       "slug": "eqnx",
       "name": "EQNX",
       "categories": [
-        "fonds-vc",
-        "secondaire"
+        "fonds-vc"
       ],
       "logo": {
         "src": "/assets/logos/dir/eqnx-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Venture capital · Early growth"
     },
     {
       "slug": "erganeo-sas",
@@ -42422,7 +42427,9 @@
       "logo": {
         "src": "/assets/logos/dir/caplight.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "Données de prix et infrastructure de marché"
     },
     {
       "slug": "clifton-partners",
@@ -42433,29 +42440,33 @@
       "logo": {
         "src": "/assets/logos/dir/clifton-partners-reprise-20260915.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Investissement pour compte propre · Late stage / pré-IPO"
     },
     {
       "slug": "coller-capital-ltd",
       "name": "Coller Capital LTD",
       "categories": [
-        "secondaire"
+        "secondaire-fonds"
       ],
       "logo": {
         "src": "/assets/logos/dir/coller-capital-ltd-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Secondaire de private equity et de crédit"
     },
     {
       "slug": "delta-alternative-management",
       "name": "Delta Alternative Management",
       "categories": [
-        "secondaire"
+        "fonds-dette"
       ],
       "logo": {
         "src": "/assets/logos/dir/delta-alternative-management-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Dette privée · Financement bridge et situations spéciales"
     },
     {
       "slug": "equityzen",
@@ -42466,7 +42477,9 @@
       "logo": {
         "src": "/assets/logos/dir/equityzen-audit-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "Plateforme d’accès aux titres privés late stage"
     },
     {
       "slug": "forge-global",
@@ -42477,7 +42490,9 @@
       "logo": {
         "src": "/assets/logos/dir/forge-global-audit-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "Courtage et marché secondaire de titres privés"
     },
     {
       "slug": "giano-capital",
@@ -42488,7 +42503,9 @@
       "logo": {
         "src": "/assets/logos/dir/giano-capital.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Fonds de secondaire direct · Tech late stage"
     },
     {
       "slug": "g-squared",
@@ -42499,7 +42516,9 @@
       "logo": {
         "src": "/assets/logos/dir/g-squared-20260913.webp",
         "dark": true
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Growth et secondaire direct tech"
     },
     {
       "slug": "hiive",
@@ -42510,7 +42529,9 @@
       "logo": {
         "src": "/assets/logos/dir/hiive-audit-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "Marché secondaire de titres privés growth / late stage"
     },
     {
       "slug": "industry-ventures",
@@ -42521,7 +42542,9 @@
       "logo": {
         "src": "/assets/logos/dir/industry-ventures-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Secondaire venture · Actions et parts de fonds"
     },
     {
       "slug": "isomer-capital",
@@ -42532,7 +42555,9 @@
       "logo": {
         "src": "/assets/logos/dir/isomer-capital.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Secondaire venture · Actions et parts de fonds"
     },
     {
       "slug": "maresquier-partners",
@@ -42543,7 +42568,9 @@
       "logo": {
         "src": "/assets/logos/dir/maresquier-partners.webp",
         "dark": true
-      }
+      },
+      "secondaryRole": "acces",
+      "note": "Secondaire direct tech · Structuration via véhicules"
     },
     {
       "slug": "mvp-manhattan-venture-partners",
@@ -42554,7 +42581,9 @@
       "logo": {
         "src": "/assets/logos/dir/mvp-manhattan-venture-partners-20260913.webp",
         "dark": true
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Mid/late stage tech · Fonds, co-investissements et courtage"
     },
     {
       "slug": "nasdaq-private-market",
@@ -42565,40 +42594,45 @@
       "logo": {
         "src": "/assets/logos/dir/nasdaq-private-market-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "Marché pré-IPO · Programmes de liquidité et données"
     },
     {
       "slug": "rockby",
       "name": "Rockby",
       "categories": [
-        "secondaire"
+        "secondaire-fonds"
       ],
       "logo": {
         "src": "/assets/logos/dir/rockby.webp",
         "dark": true
-      }
+      },
+      "note": "Secondaire de portefeuilles · Sociétés tech en croissance"
     },
     {
       "slug": "setter-capital",
       "name": "Setter Capital",
       "categories": [
-        "secondaire"
+        "secondaire-fonds"
       ],
       "logo": {
         "src": "/assets/logos/dir/setter-capital.webp",
         "dark": false
-      }
+      },
+      "note": "Conseil en transactions secondaires · Fonds et participations directes"
     },
     {
       "slug": "solvo-capital",
       "name": "Solvo Capital",
       "categories": [
-        "secondaire"
+        "secondaire-fonds"
       ],
       "logo": {
         "src": "/assets/logos/dir/solvo-capital-20260913.webp",
         "dark": false
-      }
+      },
+      "note": "Secondaire PE · Fonds de continuation et opérations GP-led"
     },
     {
       "slug": "tempocap",
@@ -42609,7 +42643,9 @@
       "logo": {
         "src": "/assets/logos/dir/tempocap-20260913.webp",
         "dark": false
-      }
+      },
+      "secondaryRole": "investisseurs",
+      "note": "Growth · Secondaire d’actions et de portefeuilles tech"
     },
     {
       "slug": "zanbato",
@@ -42620,7 +42656,9 @@
       "logo": {
         "src": "/assets/logos/dir/zanbato-20260913.webp",
         "dark": true
-      }
+      },
+      "secondaryRole": "plateformes",
+      "note": "ZX · Infrastructure de transactions et données pour banques et courtiers"
     },
     {
       "slug": "astonjet",
@@ -42814,7 +42852,7 @@
       "name": "Clipway",
       "categories": [
         "fonds-pe",
-        "secondaire"
+        "secondaire-fonds"
       ],
       "logo": {
         "src": "/assets/logos/dir/clipway-20260924.svg",
@@ -46760,7 +46798,9 @@
         "Jules Ferrer",
         "Jules Reny",
         "Vincent Lerat"
-      ]
+      ],
+      "secondaryRole": "acces",
+      "note": "Secondaire direct tech · Structuration via véhicules"
     }
   ],
   "categoryGroups": [
