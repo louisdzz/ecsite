@@ -46801,6 +46801,38 @@
       ],
       "secondaryRole": "acces",
       "note": "Secondaire direct tech · Structuration via véhicules"
+    },
+    {
+      "slug": "ltv-long-term-value-partners",
+      "name": "LTV (Long Term Value Partners)",
+      "categories": [
+        "secondaire"
+      ],
+      "logo": false,
+      "secondaryRole": "acces",
+      "note": "Accès aux sociétés tech non cotées · Secondaire OTC via véhicules",
+      "keywords": [
+        "LTV (Long Term Value Partners)",
+        "pré-IPO",
+        "secondaire",
+        "late stage"
+      ]
+    },
+    {
+      "slug": "upscalers",
+      "name": "Upscalers",
+      "categories": [
+        "secondaire"
+      ],
+      "logo": false,
+      "secondaryRole": "acces",
+      "note": "Communauté de co-investissement · Growth, pré-IPO et secondaire",
+      "keywords": [
+        "Upscalers",
+        "pré-IPO",
+        "secondaire",
+        "late stage"
+      ]
     }
   ],
   "categoryGroups": [
