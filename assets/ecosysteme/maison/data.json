@@ -104,6 +104,16 @@
       "id": "formations-transitions",
       "name": "Formations & nouvelles perspectives",
       "description": "Formations et expériences collectives pour explorer de nouveaux sujets et préparer ses prochains projets."
+    },
+    {
+      "id": "hotels",
+      "name": "Hôtels",
+      "description": "Hôtels, destinations et séjours : services, accès, tarifs et expériences."
+    },
+    {
+      "id": "montres",
+      "name": "Montres",
+      "description": "Marques horlogères : collections, prix, garanties et entretien."
     }
   ],
   "houses": [
@@ -46832,6 +46842,61 @@
         "pré-IPO",
         "secondaire",
         "late stage"
+      ]
+    },
+    {
+      "slug": "saint-james-paris",
+      "name": "Saint James Paris",
+      "categories": [
+        "hotels"
+      ],
+      "logo": false,
+      "keywords": [
+        "Saint James Paris"
+      ]
+    },
+    {
+      "slug": "belles-rives",
+      "name": "Belles Rives",
+      "categories": [
+        "hotels"
+      ],
+      "logo": false,
+      "keywords": [
+        "Belles Rives"
+      ]
+    },
+    {
+      "slug": "maisons-pariente",
+      "name": "Maisons Pariente",
+      "categories": [
+        "hotels"
+      ],
+      "logo": false,
+      "keywords": [
+        "Maisons Pariente"
+      ]
+    },
+    {
+      "slug": "michel-reybier-hospitality",
+      "name": "Michel Reybier Hospitality",
+      "categories": [
+        "hotels"
+      ],
+      "logo": false,
+      "keywords": [
+        "Michel Reybier Hospitality"
+      ]
+    },
+    {
+      "slug": "beaubleu",
+      "name": "Beaubleu",
+      "categories": [
+        "montres"
+      ],
+      "logo": false,
+      "keywords": [
+        "Beaubleu"
       ]
     }
   ],

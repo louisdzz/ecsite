@@ -16,7 +16,8 @@ const labels = {
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
-  intermediaires: 'Intermédiaires & distribution de fonds'
+  intermediaires: 'Intermédiaires & distribution de fonds',
+  hotels: 'Hôtels', montres: 'Montres'
 };
 let houses = [], categories = [], active = '', maType = '', secondaryRole = '', limit = pageSize;
 
