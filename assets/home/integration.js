@@ -29,12 +29,14 @@
   preserveValuesLink();
   window.addEventListener('hashchange', preserveValuesLink);
 
-  // Conserver le suivi de parrainage existant, sans envoyer de visites de prévisualisation.
-  if (['exit.club', 'www.exit.club'].includes(location.hostname)) {
-    const tracking = document.createElement('script');
-    tracking.async = true;
-    tracking.src = 'https://cdn.promotekit.com/pk.js';
-    tracking.dataset.promotekit = '28e58480-1d14-41dc-abdb-d778a9db9cff';
+  // Le parrainage reste disponible uniquement après un accord spécifique.
+  function loadReferralTracking() {
+    if(!['exit.club','www.exit.club'].includes(location.hostname) || !window.exitSite || !window.exitSite.allowsAffiliation() || document.querySelector('script[data-promotekit]'))return;
+    const tracking=document.createElement('script');
+    tracking.async=true;tracking.src='https://cdn.promotekit.com/pk.js';
+    tracking.dataset.promotekit='28e58480-1d14-41dc-abdb-d778a9db9cff';
     document.head.appendChild(tracking);
   }
+  document.addEventListener('exit:consent',loadReferralTracking);
+  loadReferralTracking();
 })();

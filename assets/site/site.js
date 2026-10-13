@@ -2,32 +2,43 @@
 (function () {
   'use strict';
   if (window.exitSite) return;
-  var consentKey = 'exit-consent-v1';
+  var consentKey = 'exit-consent-v2';
   var optOutKey = 'exit-annuaire-mesure-desactivee';
   var lifetime = 180 * 86400000;
   var memory = null;
   function blocked() { return navigator.doNotTrack === '1' || navigator.globalPrivacyControl === true; }
   function read() {
     try {
-      var value = memory || JSON.parse(localStorage.getItem(consentKey) || 'null');
-      return value && value.version === 1 && typeof value.analytics === 'boolean' && value.at > Date.now() - lifetime && value.at <= Date.now() ? value : null;
-    } catch (_) { return memory; }
+      var match=document.cookie.split('; ').find(function(c){return c.startsWith(consentKey+'=');});
+      var value = match ? JSON.parse(decodeURIComponent(match.slice(consentKey.length+1))) : memory || JSON.parse(localStorage.getItem(consentKey) || localStorage.getItem('exit-consent-v1') || 'null');
+      if(value && value.version===1)value={version:2,analytics:value.analytics,affiliation:false,at:value.at};
+      return value && value.version === 2 && typeof value.analytics === 'boolean' && value.at > Date.now() - lifetime && value.at <= Date.now() ? value : null;
+    } catch (_) { return null; }
   }
   function allows() { var value = read(); return !!value && value.analytics && !blocked(); }
-  function choose(analytics) {
-    memory = { version: 1, analytics: !!analytics && !blocked(), at: Date.now() };
+  function allowsAffiliation() { var value=read();return !!value && value.affiliation===true && !blocked(); }
+  function clearReferral() { ['', '; Domain=exit.club','; Domain=.exit.club'].forEach(function(domain){document.cookie='promotekit_referral=; Max-Age=0; Path=/; SameSite=Lax'+domain;}); }
+  function choose(analytics, affiliation) {
+    var reload=(!affiliation || blocked()) && !!document.querySelector('script[data-promotekit]');
+    memory = { version: 2, analytics: !!analytics && !blocked(), affiliation: !!affiliation && !blocked(), at: Date.now() };
     try { localStorage.setItem(consentKey, JSON.stringify(memory)); } catch (_) { /* Choix valable pour la page courante. */ }
+    var domain=['www.exit.club','exit.club','app.exit.club'].includes(location.hostname)?'; Domain=exit.club':'';
+    document.cookie=consentKey+'='+encodeURIComponent(JSON.stringify(memory))+'; Max-Age=15552000; Path=/; SameSite=Lax'+(location.protocol==='https:'?'; Secure':'')+domain;
+    if(!memory.affiliation)clearReferral();
     banner.hidden = true;
-    document.dispatchEvent(new CustomEvent('exit:consent', { detail: { analytics: allows() } }));
+    document.dispatchEvent(new CustomEvent('exit:consent', { detail: { analytics: allows(), affiliation: allowsAffiliation() } }));
+    if(reload)location.reload();
   }
-  window.exitSite = { allowsAnalytics: allows, openPreferences: function () { banner.hidden = false; banner.querySelector('button').focus(); } };
+  window.exitSite = { allowsAnalytics: allows, allowsAffiliation:allowsAffiliation, openPreferences: function () { var c=read();banner.querySelector('[data-purpose=analytics]').checked=!!c&&c.analytics;banner.querySelector('[data-purpose=affiliation]').checked=!!c&&c.affiliation===true;banner.hidden = false; banner.querySelector('button').focus(); } };
   var banner = document.createElement('section');
   banner.className = 'ec-consent'; banner.hidden = true;
   banner.setAttribute('aria-label', 'Préférences de confidentialité');
-  banner.innerHTML = '<div><strong>Votre confidentialité</strong><p>Avec votre accord, nous mesurons la fréquentation du site avec Vercel Analytics, sans cookie publicitaire. Vous pouvez refuser et continuer à consulter le site.</p><a href="/confidentialite">Politique de confidentialité</a></div><div class="ec-consent-actions"><button type="button" data-choice="no">Refuser</button><button type="button" data-choice="yes">Accepter la mesure d’audience</button></div>';
+  banner.innerHTML = '<div><strong>Votre confidentialité</strong><p>Deux services facultatifs : la mesure d’audience avec Vercel et le suivi des parrainages avec PromoteKit. Vous pouvez refuser ou choisir les services autorisés.</p><a href="/confidentialite">Politique de confidentialité</a><details class="ec-consent-options"><summary>Personnaliser</summary><label><input type="checkbox" data-purpose="analytics"> Mesure d’audience (Vercel)</label><label><input type="checkbox" data-purpose="affiliation"> Suivi des parrainages (PromoteKit)</label><button type="button" data-choice="save">Enregistrer mes choix</button></details></div><div class="ec-consent-actions"><button type="button" data-choice="no">Tout refuser</button><button type="button" data-choice="yes">Tout accepter</button></div>';
   document.body.appendChild(banner);
-  banner.querySelector('[data-choice=no]').addEventListener('click', function () { choose(false); });
-  banner.querySelector('[data-choice=yes]').addEventListener('click', function () { choose(true); });
+  banner.querySelector('[data-choice=no]').addEventListener('click', function () { choose(false,false); });
+  banner.querySelector('[data-choice=yes]').addEventListener('click', function () { choose(true,true); });
+  banner.querySelector('[data-choice=save]').addEventListener('click',function(){choose(banner.querySelector('[data-purpose=analytics]').checked,banner.querySelector('[data-purpose=affiliation]').checked);});
+  var existing=read();if(existing){banner.querySelector('[data-purpose=analytics]').checked=existing.analytics;banner.querySelector('[data-purpose=affiliation]').checked=existing.affiliation===true;}
   document.querySelectorAll('[data-cookie-preferences]').forEach(function (button) {
     button.addEventListener('click', window.exitSite.openPreferences);
   });
@@ -35,10 +46,13 @@
     if (!read() && localStorage.getItem(optOutKey) === '1') choose(false);
   } catch (_) { /* Pas de stockage accessible. */ }
   if (blocked() && !read()) choose(false);
+  if(!allowsAffiliation())clearReferral();
   banner.hidden = !!read();
+  window.addEventListener('focus',function(){if(!allowsAffiliation()){clearReferral();if(document.querySelector('script[data-promotekit]'))location.reload();}});
   window.addEventListener('storage', function (e) {
     if (e.key !== consentKey) return;
     memory = null; banner.hidden = !!read();
+    if(!allowsAffiliation()){clearReferral();if(document.querySelector('script[data-promotekit]'))location.reload();}
     document.dispatchEvent(new CustomEvent('exit:consent', { detail: { analytics: allows() } }));
   });
   document.addEventListener('error', function (e) { var img=e.target; if(img && img.tagName==='IMG' && /\/assets\/logos\//.test(img.src)) { img.src='/assets/site/logo-placeholder.svg'; } }, true);

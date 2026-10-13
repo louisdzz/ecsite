@@ -10,3 +10,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*:before,*:after{animation:none!important;transition:none!important}}
 
 body:not(.profile-page):not(.annuaire-editorial){--faint:#4b5b4e;--muted:#4b5b4e}
+
+.ec-consent-options{margin-top:12px}.ec-consent-options summary{cursor:pointer;text-decoration:underline}.ec-consent-options label{display:block;padding:8px 0}.ec-consent-options input{width:18px;height:18px;vertical-align:middle;margin-right:6px}
