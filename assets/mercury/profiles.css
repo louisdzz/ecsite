@@ -2,14 +2,14 @@
 
 /* Mercury: shared presentation for company profiles. Content remains in place. */
 body.profile-page {
-  --paper:#faf8f1; --ink:#1c3029; --accent:#244d3b; --muted:#667269;
-  --faint:#717b71; --line:#d9ddd1; --card:#fffdf8; --green:#17382f;
+  --paper:#faf8f1; --ink:#1c3029; --accent:#244d3b; --muted:#4b5b4e;
+  --faint:#4b5b4e; --line:#d9ddd1; --card:#fffdf8; --green:#17382f;
   background:var(--paper)!important; color:var(--ink)!important;
   font-family:Inter,Arial,sans-serif!important; -webkit-font-smoothing:antialiased;
 }
 body.profile-page .wrap {max-width:1280px!important;padding:0 48px!important}
 body.profile-page a {text-underline-offset:4px}
-body.profile-page :is(a,button,summary):focus-visible {outline:3px solid #b78a44!important;outline-offset:5px}
+body.profile-page :is(a,button,summary):focus-visible {outline:3px solid #89611e!important;outline-offset:5px}
 body.profile-page .top {min-height:94px;padding:24px 0!important;border-bottom:1px solid var(--line)!important;align-items:center!important}
 body.profile-page .top :is(.mark,.brand) {font-family:Arial,Helvetica,sans-serif!important;font-size:31px!important;font-weight:700;letter-spacing:-1.8px;text-decoration:none}
 body.profile-page .top .mark i {font-weight:700}
@@ -22,7 +22,7 @@ body.profile-page .hero-profile {
   grid-template-columns:minmax(0,1.7fr) minmax(200px,.8fr)!important;
   gap:56px!important;align-items:center!important;padding:52px!important;margin:0 0 27px!important;
   min-height:345px;border-radius:24px;color:#fff;
-  background:linear-gradient(100deg,rgba(15,40,32,.95),rgba(17,44,35,.80)),url('/assets/mercury/hero-coast.jpg') center 58%/cover;
+  background:linear-gradient(100deg,rgba(15,40,32,.95),rgba(17,44,35,.80)),url('/assets/mercury/hero-coast.webp') center 58%/cover;
 }
 body.profile-page .hero-profile .hero {color:#fff!important;background:transparent!important;border:0!important}
 body.profile-page .hero-profile h1,body.profile-page .hero h1 {
@@ -187,3 +187,7 @@ body.profile-page.mercury-legacy h2 {font-family:'PT Serif',Georgia,serif;font-w
 /* Keep the reference status legible over the landscape, including older inline themes. */
 body.profile-page .hero-profile .hero p.over {color:#c2d2c5!important;font-size:10px!important;letter-spacing:.12em!important}
 @media(max-width:650px){body.profile-page .hero-profile .hero p.over{font-size:9px!important}}
+
+:focus-visible{outline:3px solid #89611e;outline-offset:4px}body{overflow-wrap:anywhere}button,input,select,textarea{max-width:100%}
+
+@media(max-width:760px){body.profile-page .hero-profile{background-image:linear-gradient(100deg,rgba(15,40,32,.95),rgba(17,44,35,.80)),url('/assets/mercury/hero-coast-640.webp')}}

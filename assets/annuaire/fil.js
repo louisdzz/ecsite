@@ -12,11 +12,11 @@
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
   const compactStories = {
     'techniques-service-alkior-20261009': {sector:'Services aux chantiers', title:'Alkior rachète Techniques Service', detail:'Rabattement de nappes et pompage · Prix non communiqué', initials:'TS'},
-    'boots-wittington-20261008': {sector:'Pharmacies et beauté', image:'/assets/annuaire/cessions-images/boots-store.jpg', imageKind:'photo', title:"Boots : un accord à 8,9 Md$, dette comprise", detail:"Wittington signe le rachat", initials:'B'},
-    'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', image:'/assets/annuaire/cessions-images/spikedade.png', imageKind:'produit', title:"SpikedAde : 75 M$ versés, jusqu’à 278 M$ de plus", detail:"Complément conditionnel sur cinq ans", initials:'S'},
+    'boots-wittington-20261008': {sector:'Pharmacies et beauté', image:'/assets/annuaire/cessions-images/boots-store.webp', imageKind:'photo', title:"Boots : un accord à 8,9 Md$, dette comprise", detail:"Wittington signe le rachat", initials:'B'},
+    'spikedade-constellation-20261008': {sector:'Boissons alcoolisées', image:'/assets/annuaire/cessions-images/spikedade.webp', imageKind:'produit', title:"SpikedAde : 75 M$ versés, jusqu’à 278 M$ de plus", detail:"Complément conditionnel sur cinq ans", initials:'S'},
     'infinite-services-adastra-20261008': {sector:'Données et intelligence artificielle', image:'/assets/annuaire/cessions-images/adastra.svg', imageKind:'logo', title:"Adastra rachète Infinite Services, spécialiste polonais de la data", detail:"Prix non communiqué", initials:'IS'},
     'peakside-dws-20261006': {sector:'Gestion immobilière', image:'/assets/annuaire/cessions-images/peakside.png', imageKind:'logo', title:"DWS signe pour Peakside et ses 1,7 Md€ d’actifs", detail:"Encours gérés · Prix de vente non communiqué", initials:'P'},
-    'sofie-ge-healthcare-20261006': {sector:'Radiopharmacie', image:'/assets/annuaire/cessions-images/sofie.jpg', imageKind:'photo', title:"945 M$ : GE HealthCare mise sur SOFIE", detail:"Accord de rachat · Réalisation attendue en 2027", initials:'S'}
+    'sofie-ge-healthcare-20261006': {sector:'Radiopharmacie', image:'/assets/annuaire/cessions-images/sofie.webp', imageKind:'photo', title:"945 M$ : GE HealthCare mise sur SOFIE", detail:"Accord de rachat · Réalisation attendue en 2027", initials:'S'}
   };
   function compactCard(card, story) {
     const link = card.querySelector('h2 a');

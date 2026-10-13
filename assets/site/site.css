@@ -1,0 +1,12 @@
+/* Éléments partagés de confidentialité et d’accessibilité. */
+.ec-legal-nav{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:12px 24px;padding:24px 16px;background:#faf8f1;color:#34453c;font:13px/1.6 Inter,Arial,sans-serif;border-top:1px solid #d9ddd1}
+.ec-legal-nav a{text-decoration:underline;text-underline-offset:3px}.ec-legal-nav button{padding:8px 12px;border:1px solid #657068;border-radius:7px;background:transparent;color:inherit;font:inherit;cursor:pointer}
+.ec-consent{position:fixed;z-index:1000;left:20px;right:20px;bottom:20px;margin:auto;max-width:1100px;display:flex;gap:28px;align-items:center;padding:24px;background:#faf8f1;color:#1c3029;border:1px solid #657068;border-radius:14px;box-shadow:0 8px 45px #0003;font:14px/1.6 Inter,Arial,sans-serif}
+.ec-consent[hidden]{display:none}.ec-consent strong{font-size:17px}.ec-consent p{margin:6px 0 10px;max-width:650px}.ec-consent a{color:inherit;text-decoration:underline}.ec-consent-actions{display:flex;gap:10px;flex-shrink:0;flex-wrap:wrap}.ec-consent button{border:1px solid #17382f;border-radius:7px;color:#fff;background:#17382f;padding:12px 16px;font:inherit;cursor:pointer;min-height:44px}
+.ec-form-privacy{font:13px/1.6 Inter,Arial,sans-serif;color:#425349;margin:18px 0}.ec-form-privacy a{text-decoration:underline}.ec-form-status{color:#872b22;font:15px/1.5 Inter,Arial,sans-serif}.ec-form-status[hidden]{display:none}
+.ec-skip{position:fixed;top:12px;left:12px;z-index:2000;transform:translateY(-200%);padding:12px 20px;background:#fff;color:#17382f;border:2px solid #17382f;border-radius:7px}.ec-skip:focus{transform:none}
+.ec-consent :focus-visible,.ec-legal-nav :focus-visible{outline:3px solid #936619;outline-offset:4px}
+@media(max-width:760px){.ec-consent{left:10px;right:10px;bottom:10px;display:block;max-height:80svh;overflow:auto;padding:18px}.ec-consent-actions{margin-top:14px}.ec-consent-actions button{flex:1}.ec-legal-nav{gap:8px 16px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto!important}*,*:before,*:after{animation:none!important;transition:none!important}}
+
+body:not(.profile-page):not(.annuaire-editorial){--faint:#4b5b4e;--muted:#4b5b4e}

@@ -8,8 +8,8 @@
 <meta name="robots" content="noindex, nofollow">
 <link rel="canonical" href="https://www.exit.club/partenaire">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;1,9..144,300;1,9..144,400&family=Inter:wght@400;500;600&display=swap');
-:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#6F7854;--faint:#98A07E;--line:#DDD6BC;--card:#FCFAF0}
+
+:root{--paper:#F7F3E4;--ink:#2A351A;--accent:#47621E;--muted:#4b5b4e;--faint:#4b5b4e;--line:#DDD6BC;--card:#FCFAF0}
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--paper);color:var(--ink);font-family:'Inter',Arial,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
 .disp{font-family:'Fraunces',Georgia,serif;font-variation-settings:"opsz" 144;font-weight:300;letter-spacing:-.01em}
@@ -45,7 +45,7 @@ button:disabled{opacity:.55;cursor:wait}
 @media(max-width:760px){.wrap{padding:0 22px}h1.disp{font-size:32px}}
 </style>
 <link rel="stylesheet" href="/assets/annuaire-navigation.css?v=20260915">
-</head>
+<link rel="stylesheet" href="/assets/site/site.css?v=20261013"><script defer src="/assets/site/site.js?v=20261013"></script><link rel="icon" href="/favicon.ico"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><meta property="og:image" content="https://www.exit.club/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Exit Club et L’Annuaire de l’Exit"><meta name="twitter:card" content="summary_large_image"><meta property="og:title" content="Portail partenaire · L’Annuaire de l’Exit | exit.club"><meta property="og:url" content="https://www.exit.club/partenaire"></head>
 <body>
 <div class="wrap">
 
@@ -84,7 +84,7 @@ button:disabled{opacity:.55;cursor:wait}
       </select>
     </div>
     <div class="grp"><label for="site_officiel">Site officiel <span class="opt">(URL)</span></label><input type="url" id="site_officiel" name="site_officiel" placeholder="https://…"></div>
-    <div class="grp"><label for="logo">Logo <span class="opt">(fichier image : PNG, SVG, JPG)</span></label><input type="file" id="logo" name="logo" accept="image/*"></div>
+    <div class="grp"><label for="logo">Logo <span class="opt">(fichier image : PNG, JPG, WebP, AVIF)</span></label><input type="file" id="logo" name="logo" accept="image/png,image/jpeg,image/webp,image/avif"></div>
     <div class="grp"><label for="agrements">Agréments <span class="opt">(optionnel)</span></label><input type="text" id="agrements" name="agrements" placeholder="CIF, ORIAS, n° d'enregistrement…"></div>
 
     <div class="sec">Votre interlocuteur</div>
@@ -96,8 +96,8 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="sec">Le contenu du profil</div>
     <div class="grp"><label for="presentation">Présentation &amp; expertise post-exit</label><textarea id="presentation" name="presentation" placeholder="Qui vous êtes, ce que vous faites pour les fondateurs après leur cession, ce qui vous distingue."></textarea></div>
     <div class="grp"><label for="equipe">Équipe <span class="opt">(un par ligne : Prénom Nom — rôle)</span></label><textarea id="equipe" name="equipe" placeholder="Pierre Marin — Co-fondateur & CEO&#10;…"></textarea></div>
-    <div class="grp"><label for="photos">Photos de l'équipe <span class="opt">(optionnel, plusieurs fichiers)</span></label><input type="file" id="photos" name="photos" accept="image/*" multiple><span class="hint">Un portrait par personne, nommé au nom du dirigeant si possible. En les déposant, vous nous autorisez à les afficher sur votre profil.</span></div>
-    <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(fichier : PDF, PPT, image)</span></label><input type="file" id="deck" name="deck" accept=".pdf,.ppt,.pptx,.key,application/pdf,image/*"><span class="hint">Le fichier arrive directement dans notre base. Document très confidentiel ? Vous pouvez aussi l'envoyer à louis@exit.club.</span></div>
+    <div class="grp"><label for="photos">Photos de l'équipe <span class="opt">(optionnel, plusieurs fichiers)</span></label><input type="file" id="photos" name="photos" accept="image/png,image/jpeg,image/webp,image/avif" multiple><span class="hint">Un portrait par personne, nommé au nom du dirigeant si possible. En les déposant, vous nous autorisez à les afficher sur votre profil.</span></div>
+    <div class="grp"><label for="deck">One-pager / deck du dernier fonds ou de l'offre <span class="opt">(fichier : PDF, PPT, image)</span></label><input type="file" id="deck" name="deck" accept="application/pdf,image/png,image/jpeg,image/webp,image/avif"><span class="hint">Le fichier arrive directement dans notre base. Document très confidentiel ? Vous pouvez aussi l'envoyer à louis@exit.club.</span></div>
     <div class="grp"><label for="opportunite">Opportunité du moment</label><textarea id="opportunite" name="opportunite" placeholder="Le fonds en cours de levée, l'offre à mettre en avant ce trimestre."></textarea></div>
     <div class="grp"><label for="actualite">Actualité récente <span class="opt">(optionnel)</span></label><textarea id="actualite" name="actualite" placeholder="Nomination, opération, distinction…"></textarea></div>
     <div class="grp"><label for="rdv">Lien de prise de rendez-vous <span class="opt">(Calendly, cal.com…)</span></label><input type="url" id="rdv" name="rdv" placeholder="https://…"></div>
@@ -107,7 +107,7 @@ button:disabled{opacity:.55;cursor:wait}
     <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
     <div class="msg" id="msg"></div>
     <button type="submit" id="go">Envoyer</button>
-  </form>
+  <p class="ec-form-privacy">Fichiers : PNG, JPG, WebP, AVIF et PDF pour les documents, 3 Mo au total.</p></form>
 
   <div class="foot">
     <div>Exit Club · L’Annuaire de l’Exit</div>
@@ -165,5 +165,5 @@ button:disabled{opacity:.55;cursor:wait}
   });
 })();
 </script>
-</body>
+<nav class="ec-legal-nav" aria-label="Informations légales"><a href="/confidentialite">Confidentialité</a><a href="/cgu">CGU et mentions légales</a><button type="button" data-cookie-preferences>Préférences cookies</button></nav></body>
 </html>

@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
+Disallow: /api/
+Disallow: /_build/
+Disallow: /sheet
+Disallow: /merci-fiche-verifiee
+Disallow: /repondre
+Disallow: /sondage-debrief-restart
 
 Sitemap: https://www.exit.club/sitemap.xml

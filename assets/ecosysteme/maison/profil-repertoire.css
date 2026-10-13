@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300&family=Inter:wght@400;500;600&display=swap');
+
 :root{--paper:#F7F3E4;--card:#FCFAF0;--ink:#2A351A;--accent:#47621E;--muted:#626C49;--line:#DDD6BC}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.65 Inter,Arial,sans-serif;-webkit-font-smoothing:antialiased}
 a{color:var(--accent);text-underline-offset:4px}a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
