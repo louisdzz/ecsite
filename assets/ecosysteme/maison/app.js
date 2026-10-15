@@ -17,7 +17,7 @@ const labels = {
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
   intermediaires: 'Intermédiaires & distribution de fonds',
-  hotels: 'Hôtels', montres: 'Montres', voyages: 'Voyages sur mesure'
+  hotels: 'Hôtels', montres: 'Montres', voyages: 'Voyages sur mesure', yachting: 'Yachting'
 };
 let houses = [], categories = [], active = '', maType = '', secondaryRole = '', limit = pageSize;
 
@@ -170,7 +170,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261015-onefinestay-1');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261015-burgess-1');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
