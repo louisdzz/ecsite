@@ -170,7 +170,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261015-hotels-17h');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261016-sibuet-11h');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
