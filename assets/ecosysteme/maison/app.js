@@ -170,7 +170,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261018-deal-finance');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261018-wheels-up');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
