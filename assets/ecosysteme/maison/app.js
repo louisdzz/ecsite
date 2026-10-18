@@ -16,6 +16,7 @@ const labels = {
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
+  'conseil-rh': 'Conseil RH et intégration',
   intermediaires: 'Intermédiaires & distribution de fonds',
   hotels: 'Hôtels', montres: 'Montres', voyages: 'Voyages sur mesure', yachting: 'Yachting'
 };
@@ -170,7 +171,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261018-operating-partners-academy');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261018-erhr-global');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
