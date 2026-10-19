@@ -1,0 +1,184 @@
+{
+  "banques-affaires": {
+    "label": "Banques d’affaires (M&A)",
+    "headline": "Préparer une cession ou une acquisition.",
+    "context": "Le conseil en M&A accompagne les opérations de vente, d’acquisition et de financement d’une entreprise. Le périmètre dépend du mandat confié.",
+    "flow": ["Votre entreprise", "Conseil en M&A", "Opération envisagée"],
+    "questions": ["Quelles opérations comparables avez-vous accompagnées ?", "Qui suivra concrètement mon dossier ?", "Quels honoraires et quelle exclusivité prévoit le mandat ?"]
+  },
+  "boutiques-ma": {
+    "label": "Boutiques M&A",
+    "headline": "Trouver un conseil pour vendre votre entreprise.",
+    "context": "Les boutiques M&A conseillent les dirigeants dans la préparation et la conduite d’une cession, d’une acquisition ou d’une transmission.",
+    "flow": ["Projet de cession", "Conseil et préparation", "Recherche de repreneurs"],
+    "questions": ["Connaissez-vous les acquéreurs de mon secteur ?", "Quelles opérations avez-vous menées sur des entreprises de ma taille ?", "Comment sont calculés les honoraires ?"]
+  },
+  "mfo": {
+    "label": "Multi-Family Offices",
+    "headline": "Coordonner les sujets de votre patrimoine familial.",
+    "context": "Le métier de family office consiste à organiser le suivi du patrimoine et à coordonner les intervenants. Les services et les modes de rémunération varient selon la maison.",
+    "flow": ["Patrimoine familial", "Coordination des conseils", "Suivi consolidé"],
+    "questions": ["Quels sujets prenez-vous en charge directement ?", "Comment êtes-vous rémunérés par vos clients et les prestataires ?", "Quel suivi permet de voir l’ensemble du patrimoine ?"]
+  },
+  "banques-privees": {
+    "label": "Banques privées",
+    "headline": "Organiser vos placements et vos besoins bancaires.",
+    "context": "La banque privée associe des services bancaires, des placements et un accompagnement patrimonial. L’accès, l’offre et les frais dépendent de l’établissement.",
+    "flow": ["Votre patrimoine", "Services et placements", "Relation bancaire"],
+    "questions": ["Quel patrimoine minimum et quels services sont inclus ?", "Quels sont les frais totaux, produits compris ?", "Qui sera mon interlocuteur au quotidien ?"]
+  },
+  "avocats": {
+    "label": "Avocats d’affaires et fiscalistes",
+    "headline": "Préparer les aspects juridiques et fiscaux de votre opération.",
+    "context": "Le conseil juridique et fiscal intervient sur les actes, les structures et les conséquences d’une cession ou d’un réinvestissement. Les spécialités diffèrent selon les équipes.",
+    "flow": ["Votre situation", "Analyse juridique et fiscale", "Actes et mise en œuvre"],
+    "questions": ["Qui maîtrise précisément le sujet de mon opération ?", "Quels actes et quelles vérifications sont compris dans la mission ?", "Quels honoraires et quel calendrier proposez-vous ?"]
+  },
+  "experts-comptables": {
+    "label": "Experts-comptables et auditeurs",
+    "headline": "Comprendre les chiffres avant de décider.",
+    "context": "L’expertise comptable et l’audit portent sur les comptes et l’information financière. Selon la mission, ils peuvent inclure l’évaluation ou la préparation d’une cession.",
+    "flow": ["Comptes et documents", "Analyse financière", "Constats et restitution"],
+    "questions": ["Quels travaux sont inclus dans votre mission ?", "Quelle expérience avez-vous des opérations comparables ?", "Quels livrables recevrai-je et dans quel délai ?"]
+  },
+  "notaires": {
+    "label": "Notaires patrimoniaux",
+    "headline": "Préparer une donation, une succession ou un projet immobilier.",
+    "context": "Le notaire conseille et établit les actes liés à la transmission et à l’immobilier. Le travail patrimonial se construit à partir de la situation familiale et des biens concernés.",
+    "flow": ["Famille et patrimoine", "Conseil et préparation", "Actes authentiques"],
+    "questions": ["Quels effets l’acte aura-t-il pour chaque membre de la famille ?", "Comment coordonnez-vous le dossier avec mes autres conseils ?", "Quels droits, frais et honoraires faut-il prévoir ?"]
+  },
+  "cgp": {
+    "label": "Conseillers en gestion de patrimoine",
+    "headline": "Choisir comment organiser et placer votre patrimoine.",
+    "context": "Le conseil en gestion de patrimoine part de la situation et des objectifs du client pour proposer une organisation et des placements. Le statut, les produits et la rémunération sont à comparer.",
+    "flow": ["Situation et objectifs", "Conseil patrimonial", "Placements et suivi"],
+    "questions": ["Quels statuts et habilitations couvrent votre intervention ?", "Comment êtes-vous rémunéré sur les solutions proposées ?", "Quels risques, frais et contraintes de sortie faut-il prévoir ?"]
+  },
+  "assurance-vie-lux": {
+    "label": "Assurance-vie luxembourgeoise",
+    "headline": "Comparer les contrats d’assurance-vie luxembourgeois.",
+    "context": "L’assurance-vie luxembourgeoise est une enveloppe d’investissement régie par un contrat. Les supports, les intervenants et les conditions d’accès dépendent de chaque offre.",
+    "flow": ["Contrat d’assurance-vie", "Supports d’investissement", "Gestion et rachats"],
+    "questions": ["Quel montant minimum et quels supports sont accessibles ?", "Quels frais cumulent le contrat et les placements ?", "Qui intervient et comment demander un rachat ?"]
+  },
+  "treso": {
+    "label": "Trésorerie et monétaire",
+    "headline": "Comparer les solutions pour votre trésorerie.",
+    "context": "Cette catégorie réunit des solutions de trésorerie de natures différentes. Disponibilité, rendement, frais, protection des avoirs et risque de perte sont à examiner pour chacune.",
+    "flow": ["Trésorerie disponible", "Solution de placement", "Conditions de retrait"],
+    "questions": ["Que devient concrètement l’argent versé ?", "Quel rendement reste après les frais ?", "Sous quel délai puis-je récupérer les fonds, et avec quels risques ?"]
+  },
+  "actifs-numeriques": {
+    "label": "Actifs numériques",
+    "headline": "Comprendre une offre sur les actifs numériques.",
+    "context": "Les prestataires de cette catégorie interviennent sur les crypto-actifs et les produits associés. Exécution, conservation et exposition au risque dépendent de la solution et du prestataire.",
+    "flow": ["Actifs numériques", "Exécution ou structuration", "Exposition et suivi"],
+    "questions": ["À quels actifs et quels risques suis-je exposé ?", "Qui conserve les avoirs et dans quel cadre réglementaire ?", "Quels sont les frais et les conditions de sortie ?"]
+  },
+  "fonds-pe": {
+    "label": "Fonds de Private Equity et LBO",
+    "headline": "Investir au capital d’entreprises non cotées.",
+    "context": "Le private equity finance des entreprises non cotées à différents stades de développement ou de transmission. La stratégie, la durée et les conditions d’accès varient selon le fonds.",
+    "flow": ["Votre souscription", "Fonds d’investissement", "Entreprises non cotées"],
+    "questions": ["Quelles entreprises et quelles opérations le fonds cible-t-il ?", "Quelle durée, quels appels de fonds et quelles possibilités de sortie ?", "Quels frais et quelle méthode de valorisation appliquez-vous ?"]
+  },
+  "fonds-dette": {
+    "label": "Fonds de dette",
+    "headline": "Financer des emprunteurs via un fonds.",
+    "context": "Les fonds de dette investissent dans des financements ou des titres de créance. Le rendement dépend notamment des emprunteurs, du rang de la dette et des pertes éventuelles.",
+    "flow": ["Votre souscription", "Fonds de dette", "Financement d’emprunteurs"],
+    "questions": ["Qui emprunte et quel est le rang de la dette ?", "Quels risques de défaut et quelles protections faut-il examiner ?", "Quels frais, quelle durée et quelles distributions sont prévus ?"]
+  },
+  "fonds-vc": {
+    "label": "Fonds de Venture Capital",
+    "headline": "Investir dans de jeunes entreprises via un fonds.",
+    "context": "Le capital-risque finance des entreprises à fort potentiel de développement. Les stratégies se distinguent notamment par le stade, le secteur et la zone géographique visés.",
+    "flow": ["Votre souscription", "Fonds de capital-risque", "Jeunes entreprises"],
+    "questions": ["À quel stade et dans quels secteurs le fonds investit-il ?", "Quelle part du capital est réservée aux investissements suivants ?", "Quels frais, quelle durée et quels risques de perte faut-il prévoir ?"]
+  },
+  "secondaire": {
+    "label": "Secondaire et pré-IPO",
+    "headline": "Accéder à des actions de sociétés non cotées.",
+    "context": "Le marché secondaire permet d’acheter ou de vendre des titres déjà émis. L’accès, les droits attachés aux titres et la possibilité de revendre doivent être examinés opération par opération.",
+    "flow": ["Titres non cotés", "Transaction secondaire", "Détention des titres"],
+    "questions": ["Quels titres ou quel véhicule détiendrai-je exactement ?", "Comment le prix et les frais sont-ils déterminés ?", "Quelles restrictions encadrent l’achat et la revente ?"]
+  },
+  "secondaire-fonds": {
+    "label": "Secondaire de fonds et private equity",
+    "headline": "Acheter ou céder des participations dans des fonds.",
+    "context": "Le secondaire de fonds porte sur des parts ou des portefeuilles existants de private equity. Les acteurs peuvent investir, organiser les transactions ou conseiller les parties.",
+    "flow": ["Parts ou portefeuille", "Transaction secondaire", "Nouveau détenteur"],
+    "questions": ["Intervenez-vous comme investisseur, intermédiaire ou conseil ?", "Quels actifs, engagements et frais reprend l’acheteur ?", "Comment le prix et les autorisations de transfert sont-ils établis ?"]
+  },
+  "jets": {
+    "label": "Aviation d’affaires",
+    "headline": "Choisir comment organiser vos vols privés.",
+    "context": "L’aviation d’affaires propose notamment l’affrètement, les cartes d’heures et la propriété fractionnée. Les engagements, la disponibilité et le coût total diffèrent selon la formule.",
+    "flow": ["Trajets et fréquence", "Formule et appareil", "Organisation du vol"],
+    "questions": ["Quelle formule correspond à mes trajets et à ma fréquence ?", "Que comprend le prix total du vol ?", "Qui opère l’appareil et quelles sont les conditions d’annulation ?"]
+  },
+  "expatriation": {
+    "label": "Expatriation et installation à l’étranger",
+    "headline": "Préparer votre départ et votre installation.",
+    "context": "L’accompagnement à l’expatriation couvre, selon les prestataires, les démarches, les structures locales et l’installation de la famille. Les sujets juridiques et fiscaux nécessitent des compétences adaptées à chaque pays.",
+    "flow": ["Projet de départ", "Démarches et coordination", "Installation sur place"],
+    "questions": ["Que prenez-vous en charge avant et après le départ ?", "Quels conseils interviennent sur les sujets juridiques et fiscaux ?", "Quels coûts, quels délais et quels relais locaux faut-il prévoir ?"]
+  },
+  "biographies": {
+    "label": "Biographies et mémoire familiale",
+    "headline": "Transmettre une histoire et des souvenirs familiaux.",
+    "context": "Les services de biographie recueillent des récits, des documents et des témoignages pour créer un ouvrage ou une archive. Le format et le processus éditorial dépendent du projet.",
+    "flow": ["Souvenirs et documents", "Entretiens et écriture", "Récit à transmettre"],
+    "questions": ["Qui mène les entretiens et écrit le récit ?", "Comment se passent la relecture et la validation ?", "Quels droits et quelle confidentialité couvrent les contenus ?"]
+  },
+  "intermediaires": {
+    "label": "Intermédiaires et distribution de fonds",
+    "headline": "Identifier les fonds accessibles à votre situation.",
+    "context": "L’intermédiation et la distribution de fonds mettent en relation les investisseurs et les sociétés de gestion. La sélection proposée, les conditions d’accès et la rémunération diffèrent selon l’acteur.",
+    "flow": ["Votre profil", "Sélection et accès", "Souscription au fonds"],
+    "questions": ["Comment sélectionnez-vous les fonds présentés ?", "Qui vous rémunère et quels frais paie l’investisseur ?", "Quel est votre rôle après la souscription ?"]
+  },
+  "formations-transitions": {
+    "label": "Formations et nouvelles perspectives",
+    "headline": "Explorer un sujet ou préparer votre prochain projet.",
+    "context": "Les formations et les expériences collectives permettent d’acquérir des connaissances et d’explorer de nouvelles activités. Le niveau attendu, les intervenants et le contenu varient selon le programme.",
+    "flow": ["Sujet ou projet", "Programme et échanges", "Mise en pratique"],
+    "questions": ["À qui s’adresse le programme et quels sont les prérequis ?", "Qui intervient et quelle place prend la pratique ?", "Quel temps, quel coût et quels résultats concrets sont prévus ?"]
+  },
+  "hotels": {
+    "label": "Hôtels",
+    "headline": "Choisir un lieu pour votre prochain séjour.",
+    "context": "L’offre hôtelière se compare selon le lieu, les chambres et les services. Les tarifs et les prestations incluses dépendent de l’établissement, de la période et de la réservation.",
+    "flow": ["Destination et dates", "Chambre et services", "Séjour sur place"],
+    "questions": ["Quels services sont compris dans le tarif ?", "Quelle chambre correspond au séjour envisagé ?", "Quelles conditions encadrent la modification et l’annulation ?"]
+  },
+  "montres": {
+    "label": "Montres",
+    "headline": "Comprendre une montre avant de la choisir.",
+    "context": "Les maisons horlogères se distinguent par leurs collections, leurs mouvements et leur fabrication. Disponibilité, garantie et entretien sont à examiner pour chaque modèle.",
+    "flow": ["Modèle et mouvement", "Achat et garantie", "Entretien de la montre"],
+    "questions": ["Quel mouvement équipe ce modèle et où est-il fabriqué ?", "Quel est le prix et quel délai faut-il prévoir ?", "Que couvrent la garantie et le service après-vente ?"]
+  },
+  "voyages": {
+    "label": "Voyages sur mesure",
+    "headline": "Préparer un séjour selon vos envies.",
+    "context": "Les services de voyage sur mesure organisent des séjours, des locations ou des prestations à la demande. Le périmètre et la présence sur place dépendent de l’offre retenue.",
+    "flow": ["Envies et dates", "Séjour et prestations", "Assistance sur place"],
+    "questions": ["Quelles prestations sont incluses et qui les réalise ?", "Comment sont vérifiés les lieux et les hébergements proposés ?", "Quels sont les frais et les conditions d’annulation ?"]
+  },
+  "yachting": {
+    "label": "Yachting",
+    "headline": "Préparer une location ou un achat de yacht.",
+    "context": "Les services de yachting couvrent notamment le courtage, la location et la gestion de yachts. Les coûts et les responsabilités diffèrent entre affrètement et propriété.",
+    "flow": ["Projet et navigation", "Choix du yacht", "Contrat et organisation"],
+    "questions": ["Intervenez-vous pour une location, un achat ou la gestion ?", "Quels coûts faut-il ajouter au prix annoncé ?", "Qui prend en charge l’équipage, l’entretien et les assurances ?"]
+  },
+  "conseil-rh": {
+    "label": "Conseil RH et intégration",
+    "headline": "Préparer le travail des équipes après une acquisition.",
+    "context": "Le conseil RH en intégration accompagne l’organisation, les fonctions RH et les équipes après une opération. Le périmètre dépend du diagnostic et de la mission confiée.",
+    "flow": ["Équipes et organisation", "Plan d’intégration", "Déploiement et suivi"],
+    "questions": ["Quels sujets RH et quelles équipes couvrez-vous ?", "Qui pilote la mise en œuvre avec les responsables internes ?", "Quels livrables, quels délais et quel suivi proposez-vous ?"]
+  }
+}

@@ -6,7 +6,7 @@ Original text, anchors, outgoing links, metadata and analytics are retained.
 from pathlib import Path
 from bs4 import BeautifulSoup
 from collections import Counter
-import json,sys,re
+import json,sys,re,subprocess
 ROOT=Path(__file__).resolve().parents[1]
 DATA=json.loads((ROOT/'assets/ecosysteme/maison/data.json').read_text())
 HOUSES={h['slug']:h for h in DATA['houses']}
@@ -31,7 +31,7 @@ def normalize(slug):
  if not path.exists(): return {'slug':slug,'status':'missing'}
  original=path.read_text();s=BeautifulSoup(original,'html.parser')
  if s.body is None or s.find('h1') is None: return {'slug':slug,'status':'not-profile'}
- if s.body.get('data-profile-layout')=='20261006' or slug=='ibc-aviation': return {'slug':slug,'status':'already-common'}
+ if s.body.get('data-profile-layout')=='20261006' or s.body.get('data-profile-design')=='visual-20261019' or slug=='ibc-aviation': return {'slug':slug,'status':'already-common'}
  before=texts(s);links=Counter(a.get('href') for a in s.select('a[href]'));ids=Counter(x['id'] for x in s.select('[id]'))
  wrap=s.select_one('.wrap');hero=s.select_one('.hero');
  if wrap is None or hero is None: return {'slug':slug,'status':'unsupported'}
@@ -125,3 +125,8 @@ if __name__=='__main__':
  results=[]
  for slug in slugs: results.append(normalize(slug))
  print(json.dumps(results,ensure_ascii=False,indent=2))
+ # New and regenerated profiles inherit the visual presentation approved by Louis.
+ visual_builder=ROOT/'_build/build_visual_profiles.py'
+ if visual_builder.exists():
+  targets=['--all'] if '--all' in sys.argv else slugs
+  if targets: subprocess.run([sys.executable,str(visual_builder),*targets],check=True)
