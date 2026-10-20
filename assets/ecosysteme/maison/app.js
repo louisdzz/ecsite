@@ -103,6 +103,7 @@ function render() {
   categoryList.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.category === active)));
   renderMaFilters();
   updateURL();
+  document.dispatchEvent(new CustomEvent('annuaire:results', { detail: { category: active, query: input.value.trim(), slugs: filtered.map(h => h.slug) } }));
   return { previousSize, visible };
 }
 function reset(event) {

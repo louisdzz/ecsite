@@ -1,4 +1,4 @@
-/* Fiches visuelles. Prototype Spiko, aucun effet sur les autres fiches. */
+/* Fiches visuelles communes, contenu propre à chaque maison conservé. */
 .profile-visual-v2{--pv-purple:#6650a4;--pv-soft:#eae7f4;--pv-paper:#faf8f1;--pv-ink:#1c3029;--pv-muted:#546457;--pv-line:#d9ddd1}
 .profile-visual-v2 .wrap{max-width:1280px!important}
 .pv-main{display:block}
@@ -24,6 +24,9 @@
 .pv-primary{display:inline-flex;align-items:center;justify-content:center;gap:24px;background:var(--pv-ink);color:var(--pv-paper);padding:14px 21px;border:1px solid var(--pv-ink);border-radius:7px;font-size:13px;font-weight:500;min-height:48px;transition:background .15s,transform .15s}
 .pv-primary:hover{background:#31523d;transform:translateY(-1px)}
 .pv-secondary{display:inline-flex;align-items:center;gap:9px;font-size:12px;color:var(--pv-ink);border-bottom:1px solid #9aa58f;padding:9px 0 5px}
+.pv-actions .pv-comparison-cta,.pv-actions .pv-secondary[href*="/annuaire?metier="]{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:48px;max-width:100%;padding:13px 17px;border:1px solid #8e9f88;border-radius:7px;background:#edf0e6;color:#203c2e;font-size:12px;font-weight:500;line-height:1.5;text-align:center;transition:background .15s,border-color .15s}
+.pv-actions .pv-comparison-cta:hover,.pv-actions .pv-secondary[href*="/annuaire?metier="]:hover{background:#e1e8d8;border-color:#526c49}
+.pv-actions .pv-comparison-cta:focus-visible,.pv-actions .pv-secondary[href*="/annuaire?metier="]:focus-visible{outline:3px solid #6650a4;outline-offset:4px}
 .pv-audience{font-size:11px;color:var(--pv-muted);margin-top:18px!important}
 .pv-compact-facts{display:none}
 .pv-diagram{position:relative;isolation:isolate;min-height:356px;border:1px solid #deded1;border-radius:18px;background:#edf0e6;display:flex;align-items:center;justify-content:center;overflow:hidden;padding:27px 30px}

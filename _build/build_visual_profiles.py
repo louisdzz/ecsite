@@ -19,8 +19,8 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / '_build/visual_profiles'
 VERSION = 'visual-20261019'
-CSS = '/assets/maison/fiche-visuelle.css?v=20261019'
-JS = '/assets/maison/fiche-visuelle.js?v=20261019'
+CSS = '/assets/maison/fiche-visuelle.css?v=20261020-comparison'
+JS = '/assets/maison/fiche-visuelle.js?v=20261020-comparison'
 CATEGORIES = json.loads((CONFIG/'categories.json').read_text())
 DATA = json.loads((ROOT/'assets/ecosysteme/maison/data.json').read_text())
 HOUSES = {h['slug']:h for h in DATA['houses']}
@@ -133,7 +133,7 @@ def render_summary(profile, soup):
     if not rows:
         missing_label = 'Repères complémentaires' if house_specific else 'Spécialités et différences'
         rows = f'<div><dt>Métier référencé</dt><dd>{esc(cat["label"])}</dd></div><div><dt>{missing_label}</dt><dd>Non renseignés dans cette fiche.</dd></div><div><dt>Frais et accès</dt><dd>À préciser avec la maison.</dd></div>'
-    category_link = f'/annuaire?metier={code}'
+    category_link = f'/annuaire?metier={code}#annuaire'
     other_cats = [CATEGORIES[c]['label'] for c in HOUSES.get(profile['slug'],{}).get('categories',[]) if c in CATEGORIES and c!=code]
     extra_cats = ('<p class="pv-other-cats">Également référencé : '+esc(' · '.join(other_cats))+'</p>') if other_cats else ''
     lead_note = '' if house_specific else '<p class="pv-completion-note">Fiche documentaire : les particularités de cette maison ne sont pas encore renseignées.</p>'
@@ -146,7 +146,7 @@ def render_summary(profile, soup):
     root_tag = 'section' if soup.find('main') else 'main'
     return f'''<{root_tag} class="pv-main pv-house-summary" id="fiche-visuelle" data-category="{esc(code)}">
 <header class="pv-identity"><div class="pv-brand">{logo_markup(profile,soup)}<div><h1>{esc(name)}</h1><a class="pv-category" href="{category_link}">{esc(cat['label'])}</a></div></div><p class="pv-status">{esc(status)}</p></header>
-<section class="pv-hero" id="pv-offre" aria-labelledby="pv-offre-titre"><div class="pv-hero-copy"><p class="pv-eyebrow">{esc('La maison' if house_specific else 'Le métier')}</p><h2 id="pv-offre-titre">{esc(headline)}</h2>{mobile}<p class="pv-lead">{esc(below)}</p>{extra_cats}<div class="pv-actions">{primary}<a class="pv-secondary" href="{category_link}">Comparer les acteurs {ARROW}</a></div>{lead_note}</div>
+<section class="pv-hero" id="pv-offre" aria-labelledby="pv-offre-titre"><div class="pv-hero-copy"><p class="pv-eyebrow">{esc('La maison' if house_specific else 'Le métier')}</p><h2 id="pv-offre-titre">{esc(headline)}</h2>{mobile}<p class="pv-lead">{esc(below)}</p>{extra_cats}<div class="pv-actions">{primary}<a class="pv-secondary pv-comparison-cta" href="{category_link}">Comparer avec les autres acteurs {ARROW}</a></div>{lead_note}</div>
 <figure class="pv-diagram pv-profession-diagram" aria-labelledby="pv-diagram-title"><div class="pv-flow"><div class="pv-from">{esc(cat['flow'][0])}</div><div class="pv-connector" aria-hidden="true"></div><div class="pv-investment"><div class="pv-investment-head">{logo_markup(profile,soup,True)}<span class="pv-product-label">{esc('Repères du métier')}</span></div><h3 class="pv-map-role" id="pv-diagram-title">{esc(cat['flow'][1])}</h3><div class="pv-map-output">{ARROW}<span>{esc(cat['flow'][2])}</span></div></div></div><figcaption class="pv-diagram-caption">Repères du métier. Périmètre propre à {esc(name)} à confirmer.</figcaption></figure></section>
 {visible_risk}{desktop}<nav class="pv-tabs" aria-label="Sections de la fiche"><a href="#pv-offre">L’offre</a><a href="#reperes-maison">Les repères</a><a href="#questions-avant-contact">À comparer</a><a href="#dossier-complet">La fiche complète</a></nav>
 <div class="pv-information"><section id="reperes-maison" aria-labelledby="pv-reperes-title"><h2 class="pv-section-title" id="pv-reperes-title">{'Les repères de la maison.' if facts else 'Ce qui est renseigné.'}</h2><p class="pv-section-description">{'Informations reprises de la fiche existante. Sources et dates dans le dossier complet.' if facts else 'Le référencement identifie un acteur. Il ne préjuge pas de ses conditions ni de son approche.'}</p><dl class="pv-condition-list">{rows}</dl><p class="pv-source-note">{esc(cat['context'])}</p></section>
@@ -201,6 +201,11 @@ def transform(path, write=True, source_path=None):
         script = new.new_tag('script',src=JS)
         script['defer'] = ''
         new.head.append(script)
+    # The approved Spiko page also uses these shared assets.
+    for link in new.select('link[href^="/assets/maison/fiche-visuelle.css"]'):
+        link['href'] = CSS
+    for script in new.select('script[src^="/assets/maison/fiche-visuelle.js"]'):
+        script['src'] = JS
     # Invariants apply to every real company, including historical variants.
     after_texts = visible_texts(new)
     lost_texts = before_texts-after_texts
