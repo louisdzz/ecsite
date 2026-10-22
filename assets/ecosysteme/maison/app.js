@@ -102,6 +102,8 @@ function render() {
   $('#empty-state').hidden = filtered.length !== 0;
   categoryList.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.category === active)));
   renderMaFilters();
+  const hotelEditorial = $('#hotels-editorial');
+  if (hotelEditorial) hotelEditorial.hidden = active !== 'hotels';
   updateURL();
   document.dispatchEvent(new CustomEvent('annuaire:results', { detail: { category: active, query: input.value.trim(), slugs: filtered.map(h => h.slug) } }));
   return { previousSize, visible };
