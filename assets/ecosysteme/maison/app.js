@@ -172,7 +172,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261019-ogama');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261022-orso');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
