@@ -45,6 +45,8 @@ function closeCategories() {
 }
 function updateURL() {
   const params = new URLSearchParams();
+  const personId = new URLSearchParams(location.search).get('person');
+  if (personId && publicProfiles.some(p => p.id === personId)) params.set('person', personId);
   if (input.value.trim()) params.set('q', input.value.trim());
   if (active) params.set('metier', active);
   if (active === 'secondaire' && secondaryRole) params.set('role', secondaryRole);
