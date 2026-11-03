@@ -24,6 +24,20 @@
 
 <script defer src="/assets/annuaire/classements.js?v=20261103-ati"></script>
 <link rel="stylesheet" href="/assets/annuaire/profils.css?v=20261103-profils"><script defer src="/assets/annuaire/profils.js?v=20261103-ati"></script>
+<style>
+.patrimoine-preview { padding-block: clamp(2rem, 5vw, 4rem); }
+.patrimoine-preview .patrimoine-eyebrow { color: #53695f; font-size: .78rem; letter-spacing: .13em; text-transform: uppercase; }
+.patrimoine-preview h2 { margin: .4rem 0 .6rem; font-size: clamp(1.6rem, 4vw, 2.5rem); line-height: 1.15; }
+.patrimoine-preview-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: .85rem; margin-block: 1.25rem; }
+.patrimoine-preview-card { display: grid; align-content: start; gap: .25rem; padding: clamp(.85rem, 2.5vw, 1.4rem); border: 1px solid #cbd7ce; border-radius: 1rem; background: #edf3ee; color: #17392e; }
+.patrimoine-preview-card h3 { margin: 0; font-size: 1rem; }
+.patrimoine-preview-card strong { font-size: clamp(1.5rem, 4vw, 2.55rem); line-height: 1.15; font-variant-numeric: tabular-nums; }
+.patrimoine-preview-card small { color: #4e6158; }
+.patrimoine-preview .patrimoine-cta { display: inline-block; padding: .65rem 1rem; border-radius: 2rem; background: #17392e; color: #fff; text-decoration: none; }
+@media (max-width: 550px) {
+  .patrimoine-preview-grid { grid-template-columns: 1fr; }
+}
+</style>
 </head>
 <body class="annuaire-editorial media-edition" data-media-view="journal"><a class="ec-skip" href="#ec-main">Aller au contenu</a>
 <a class="skip" href="#recherche">Aller à la recherche</a>
@@ -44,6 +58,29 @@
 <button aria-label="Rechercher" class="search-submit" type="submit"><span>Rechercher</span><span aria-hidden="true"></span></button>
 </form><div aria-label="Suggestions de recherche" class="search-suggestions"><a href="?metier=conseil-ma#annuaire">Conseil M&amp;A</a><a href="?metier=banques-privees#annuaire">Banques privées</a><a href="?metier=treso#annuaire">Trésorerie</a><a href="?metier=secondaire#annuaire">Secondaire &amp; pré-IPO</a><a href="?metier=jets#annuaire">Jets privés</a></div></section></div>
   </div>
+</section>
+<section class="shell patrimoine-preview" aria-labelledby="patrimoine-preview-title" id="comparatif-patrimoine">
+  <div class="patrimoine-eyebrow">Gestion de patrimoine · Après la cession</div>
+  <h2 id="patrimoine-preview-title">À partir de combien peut-on être accompagné ?</h2>
+  <p>Trois offres pour comparer l’accès au conseil, le suivi et les frais.</p>
+  <div class="patrimoine-preview-grid">
+    <article class="patrimoine-preview-card">
+      <h3>Ramify Black</h3>
+      <strong>100 000 €</strong>
+      <small>Seuil d’actifs annoncé pour Black</small>
+    </article>
+    <article class="patrimoine-preview-card">
+      <h3>RockFi</h3>
+      <strong>250 000 €</strong>
+      <small>Seuil d’actifs financiers annoncé</small>
+    </article>
+    <article class="patrimoine-preview-card">
+      <h3>Finary One</h3>
+      <strong>500 000 €</strong>
+      <small>Actifs investissables selon une publication récente de Finary. Seuil à confirmer.</small>
+    </article>
+  </div>
+  <a class="patrimoine-cta" href="/comparatif-patrimoine">Voir le comparatif complet →</a>
 </section>
 <section class="shell" id="classements" aria-labelledby="classements-title"></section>
 <section aria-labelledby="exit-feed-title" class="shell media-panel" data-panel="journal" id="journal">
@@ -83,7 +120,6 @@
 <div class="topics-heading"><h2 id="topics-title">Sujets chauds</h2></div>
 <div class="topics-grid">
 <article class="topic-card" id="sujet-secondaire"><div aria-hidden="true" class="topic-visual private-markets"><strong>PRÉ-IPO</strong><span>Accès, coûts et liquidité</span></div><div class="topic-kicker">Marchés privés</div><h2>Secondaire et pré-IPO</h2><p>Frais, spreads, véhicules et possibilités de revente.</p><a class="topic-main-link" href="https://www.exit.club/comparateur-secondaire">Le comparateur <svg aria-hidden="true" viewbox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"></path></svg></a><div class="topic-resources"><a href="?metier=secondaire#annuaire">Les acteurs du secondaire</a><span>Conditions documentées et informations encore à obtenir.</span></div></article>
-<article class="topic-card" id="sujet-patrimoine"><div aria-hidden="true" class="topic-visual tax"><strong>PATRIMOINE</strong><span>Après la cession</span></div><div class="topic-kicker">Gestion de patrimoine</div><h2>Comparer les offres patrimoniales</h2><p>Ramify, RockFi et Finary One. Comparez les seuils d’accès, le suivi et les frais.</p><a href="/comparatif-patrimoine">Voir le comparatif</a></article>
 <article class="topic-card" id="sujet-apport-cession"><div aria-hidden="true" class="topic-visual tax"><strong>150-0 B ter</strong><span>Réinvestir après la cession.</span></div><div class="topic-kicker">Fiscalité</div><h2>Apport-cession</h2><p>Réinvestissement, transmission et évolution des règles.</p><a class="topic-main-link" href="/actualites/apport-cession-amendement-suppression-article-5.html">L’amendement sur l’article 5 <svg aria-hidden="true" viewbox="0 0 24 24"><path d="M5 12h14m-5-5 5 5-5 5"></path></svg></a><div class="topic-resources"><a href="/actualites/apport-cession-budget-2027-operations-engagees.html">La tribune sur les opérations déjà engagées</a><a href="?metier=avocats#annuaire">Les avocats fiscalistes</a><a href="?metier=notaires#annuaire">Les notaires</a></div></article>
 </div></section>
 <section aria-labelledby="regards-title" class="editorial-dispatch" id="regards">
