@@ -585,7 +585,7 @@
     }
 
     function natureClasse(p){ return p.nature === 'Actifs numériques' || p.nature === 'Crédit numérique' ? 'nature num' : 'nature'; }
-    function tauxDate(p){ return (p.taux_date && p.taux_date !== DONNEES.mis_a_jour) ? '<span class="taux-date">taux publié au ' + esc(dateFr(p.taux_date)) + '</span>' : ''; }
+    function tauxDate(p){ return p.taux_date ? '<span class="taux-date">taux publié au ' + esc(dateFr(p.taux_date)) + '</span>' : ''; }
     function ticket(p){ return esc(p.ticket) + (p.plafond ? '<br><span style="color:var(--muted)">' + esc(p.plafond) + '</span>' : ''); }
 
     /* L’avantage porte sur le compte : il reste indépendant des sources de taux et du tri. */

@@ -6,7 +6,8 @@
   const status = feed.querySelector('.exit-feed-status');
   const buttons = [...feed.querySelectorAll('[data-feed-filter]')];
   let filter = 'cession';
-  const cession = new Set(['conseil-ma','avocats','notaires','experts-comptables']);
+  const cession = new Set(['cession','cessions','conseil-ma','avocats','notaires','experts-comptables']);
+  const providerKinds = new Set(['Offre','Service','Fonds','Partenariat','Produit','Destination','Ouverture','Implantation','Publication','Rencontre']);
   const vivre = new Set(['jets','expatriation','biographies','formations-transitions','lifestyle','art-de-vivre','hotels','restaurants','vins','philanthropie']);
   // A topic featured in movements or decryptages must not appear again in the news feed.
   // Explicit story IDs handle alternate article URLs without matching unrelated stories by house.
@@ -75,6 +76,7 @@
   }
   function publicPath(href, prefix) {
     try {
+      if (!href) return null;
       const url = new URL(href, location.origin);
       return url.origin === location.origin && url.pathname.startsWith(prefix) ? url.pathname : null;
     } catch (_) { return null; }
@@ -141,7 +143,7 @@
       const theme = card.dataset.theme;
       const kind = card.dataset.kind;
       const movement = ['Nomination','Recrutement','Création','Ouverture','Mouvement'].includes(kind);
-      const category = theme !== 'fonds' && (cession.has(theme) || ['cession','cessions'].includes(theme) || kind === 'Opération') ? 'cession' : vivre.has(theme) ? 'vivre' : 'investir';
+      const category = cession.has(theme) && ['Opération','Cash-out vérifié'].includes(kind) ? 'cession' : vivre.has(theme) ? 'vivre' : 'investir';
       const match = filter === 'all' || (filter === 'mouvements' ? movement : category === filter);
       card.hidden = !match || total >= limit;
       if (match) { if (!lead && !card.hidden) lead = card; total++; }
@@ -160,13 +162,45 @@
     return response.text();
   }).then(html => {
     const doc = new DOMParser().parseFromString(html,'text/html');
-    const cards = [...doc.querySelectorAll('article.news-card[data-news]')];
+    const seen = new Set();
+    const storyDate = card => Date.parse(card.querySelector('time[datetime]')?.dateTime || '');
+    const cards = [...doc.querySelectorAll('article.news-card[data-news]')]
+      .sort((a, b) => storyDate(b) - storyDate(a))
+      .filter(card => {
+        const date = storyDate(card);
+        const href = publicPath(card.querySelector('h2 a')?.getAttribute('href'), '/actualites/');
+        const id = href && storyId(card);
+        if (!id || seen.has(id) || !Number.isFinite(date) || date > Date.now()) return false;
+        seen.add(id);
+        return true;
+      });
     if (!cards.length) return;
     renderMovements(cards);
+
+    // This editorial type is set only after verification of founder liquidity.
+    const cashOutGrid = document.querySelector('#cash-out .founder-grid');
+    const cashOuts = cards.filter(card => card.dataset.kind === 'Cash-out vérifié').slice(0, 2);
+    if (cashOutGrid) {
+      cashOutGrid.replaceChildren(...cashOuts.map(card => {
+        const node = document.importNode(card, true);
+        node.dataset.homeStory = storyId(card);
+        return node;
+      }));
+      const empty = document.querySelector('#cash-out .founder-empty');
+      empty.textContent = 'Aucun cash-out de fondateur confirmé dans la veille publiée.';
+      empty.hidden = cashOuts.length > 0;
+    }
+
     const providerGrid = document.querySelector('.provider-news-grid');
-    const providerKinds = new Set(['Offre','Service','Fonds','Partenariat','Produit','Destination','Ouverture']);
-    const announcements = cards.filter(card => providerKinds.has(card.dataset.kind)).slice(0,3);
-    if(providerGrid && announcements.length) providerGrid.replaceChildren(...announcements.map(card=>{const node=document.importNode(card,true);node.removeAttribute('data-news');node.dataset.homeStory=storyId(card);return node;}));
+    const announcements = cards.filter(card => providerKinds.has(card.dataset.kind)).slice(0, 3);
+    if (providerGrid && announcements.length) {
+      providerGrid.replaceChildren(...announcements.map(card => {
+        const node = document.importNode(card, true);
+        node.removeAttribute('data-news');
+        node.dataset.homeStory = storyId(card);
+        return node;
+      }));
+    }
     grid.replaceChildren(...prepareCards(cards).map(card => document.importNode(card,true)));
     render();
   }).catch(() => {});

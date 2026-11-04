@@ -15,7 +15,9 @@
     figure.replaceChildren(document.createTextNode(percent(value)));
     const suffix=document.createElement('span');suffix.textContent=' %';figure.append(suffix);
     card.dataset.yieldDate=date;
-    card.querySelector('.yield-date').textContent='Relevé le '+dateFormat.format(t);
+    const dateLabel=card.querySelector('.yield-date');
+    dateLabel.dateTime=date;
+    dateLabel.textContent='Relevé le '+dateFormat.format(t);
     warn();
   }
   async function refresh() {
