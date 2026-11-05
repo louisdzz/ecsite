@@ -27,6 +27,9 @@ HOUSES = {h['slug']:h for h in DATA['houses']}
 spec = importlib.util.spec_from_file_location('visual_content', CONFIG/'content.py')
 content = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(content)
+premium_spec = importlib.util.spec_from_file_location('profile_premium', ROOT/'_build/profile_premium.py')
+premium = importlib.util.module_from_spec(premium_spec)
+premium_spec.loader.exec_module(premium)
 ARROW = '<svg class="pv-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>'
 EXTERNAL = '<svg class="pv-arrow" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 18 18 6M6 6h12v12"/></svg>'
 
@@ -161,6 +164,8 @@ def transform(path, write=True, source_path=None):
     if old.body is None or old.find('h1') is None:
         return {'slug':path.stem,'status':'excluded'}
     if old.body.get('data-profile-design') == VERSION:
+        if premium.apply_premium(old, path.stem) and write:
+            path.write_text(str(old))
         return {'slug':path.stem,'status':'already-visual'}
     profile = content.extract_profile(source_path)
     if not profile:
@@ -231,6 +236,7 @@ def transform(path, write=True, source_path=None):
             raise ValueError(f'Élément obligatoire perdu sur {path.stem}: {selector}')
     if len(new.find_all('main')) > max(1,len(old.find_all('main'))):
         raise ValueError(f'Repères main ajoutés en double sur {path.stem}')
+    premium.apply_premium(new, path.stem)
     if write:
         path.write_text(str(new))
     return {'slug':path.stem,'status':'updated' if write else 'checked',
