@@ -1,6 +1,7 @@
 /* Public fiche context only. No respondent identity, email or CRM data in URLs. */
 (function () {
   'use strict';
+  if (window.ExitProfileForm) return;
   const trades = {'conseil-ma':'M&A','banques-affaires':'M&A','boutiques-ma':'M&A',avocats:'Autre',cgp:'Banque privée, CGP et MFO',mfo:'Banque privée, CGP et MFO','banques-privees':'Banque privée, CGP et MFO','fonds-dette':'Dette et financement',secondaire:'Secondaire sur sociétés','secondaire-fonds':'Secondaire sur fonds','fonds-pe':'Private equity et venture capital','fonds-vc':'Private equity et venture capital','immobilier-patrimonial':'Immobilier et infrastructures',jets:'Aviation d’affaires'};
   const professions = {banker:'M&A',lawyer:'Avocats M&A',tax:'Fiscalité de la cession',debt:'Dette et financement',wealth:'Banque privée, CGP et MFO'};
   const fields = ['company','site','trade','services','clients','situation','geography','approach','reference','profile','person','conditions'];
@@ -19,13 +20,16 @@
   window.ExitProfileForm = {urlFor};
   function houseContext() {
     const profile = document.querySelector('.pv-main[data-category]');
-    if (!profile || !document.body.classList.contains('profile-page')) return null;
-    const name = profile.querySelector('h1')?.textContent;
+    const main = document.querySelector('main');
+    if (!main) return null;
+    const name = (profile || main).querySelector('h1')?.textContent;
     if (!name) return null;
     const canonical = document.querySelector('link[rel="canonical"]')?.href;
-    const source = Array.from(document.querySelectorAll('a[href]')).find(a => /site officiel/i.test(a.textContent) && /^https?:/.test(a.getAttribute('href')));
-    const c = {company:name,category:profile.dataset.category,profile:canonical,site:source?.href};
-    const lead = profile.querySelector('.pv-hero h2')?.textContent || profile.querySelector('.pv-lead')?.textContent || '';
+    const source = Array.from(document.querySelectorAll('a[href]')).find(a => /site officiel|site de la maison/i.test(a.textContent) && /^https?:/.test(a.getAttribute('href')));
+    if (!canonical || !/^\/f\//.test(new URL(canonical).pathname)) return null;
+    const category = profile?.dataset.category || document.querySelector('script[data-profile-category]')?.dataset.profileCategory;
+    const c = {company:name,category,profile:canonical,site:source?.href};
+    const lead = profile?.querySelector('.pv-hero h2')?.textContent || main.querySelector('.lead')?.textContent || profile?.querySelector('.pv-lead')?.textContent || '';
     if (!/non renseign|à compléter|repères du métier/i.test(lead)) c.services=lead;
     if (canonical && new URL(canonical).pathname === '/f/ibc-aviation') Object.assign(c,{
       site:'https://www.ibc-aviation.com/',
@@ -38,11 +42,14 @@
   }
   const context=houseContext();
   if (!context) return;
-  const actions=document.querySelector('.pv-main .pv-actions');
-  if (!actions) return;
-  let link=actions.querySelector('[data-complete-profile]');
+  const main=document.querySelector('main');
+  let actions=document.querySelector('.pv-main .pv-actions');
+  if (!actions) {actions=document.createElement('p');actions.className='profile-complete-actions';(main.querySelector('.lead') || main.querySelector('h1')).after(actions);}
+  let link=main.querySelector('[data-complete-profile]') || Array.from(main.querySelectorAll('a[href]')).find(a=>a.href.startsWith('https://tally.so/') && /compléter mon profil/i.test(a.textContent));
   if (!link) {link=document.createElement('a');link.className='pv-secondary';link.dataset.completeProfile='';actions.append(link);}
+  if (actions.classList.contains('profile-complete-actions')) link.style.cssText='display:inline-block;padding:12px 20px;border:1px solid #bbc9b8;border-radius:28px;color:#193c32;text-decoration:none';
   link.textContent='Compléter mon profil ↗';
   link.href=urlFor(context,location.hostname==='127.0.0.1'||location.hostname==='localhost');
   link.target='_blank';link.rel='noopener';
+  if (actions.classList.contains('profile-complete-actions') && link.parentElement !== actions) actions.remove();
 })();
