@@ -66,4 +66,4 @@
 })();
 
 /* One shared contribution entry point for company fiches. */
-(() => { const script=document.createElement("script"); script.src="/assets/annuaire/completer-profil.js?v=20261106-buttons"; document.head.append(script); })();
+(() => { const script=document.createElement("script"); script.src="/assets/annuaire/completer-profil.js?v=20261106-clients"; document.head.append(script); })();
