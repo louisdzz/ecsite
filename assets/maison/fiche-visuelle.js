@@ -64,3 +64,6 @@
     } catch { /* Laisser les autres liens et les ancres historiques inchangés. */ }
   }
 })();
+
+/* One shared contribution entry point for company fiches. */
+(() => { const script=document.createElement("script"); script.src="/assets/annuaire/completer-profil.js?v=20261106"; document.head.append(script); })();
