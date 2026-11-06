@@ -1,0 +1,16 @@
+#aviation-intro[hidden]{display:none}
+.aviation-intro{margin:8px 0 36px;color:#193c32}
+.aviation-eyebrow{font-size:11px;letter-spacing:.13em;color:#68796f;margin:0 0 12px}
+.aviation-intro h3{font-family:Georgia,serif;font-weight:400;font-size:clamp(25px,2.6vw,36px);line-height:1.2;max-width:760px;margin:0 0 24px}
+.aviation-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.aviation-card{position:relative;border:1px solid #d8dfd0;border-radius:20px;background:#fffdf6;padding:28px;overflow:hidden}
+.aviation-card:nth-child(2){background:#eef1e7}
+.aviation-step{position:absolute;right:24px;top:18px;font-family:Georgia,serif;font-size:52px;color:#d0d9ca;line-height:1}
+.aviation-role{position:relative;font-size:10px;letter-spacing:.1em;margin:0 44px 14px 0;color:#65776c}
+.aviation-card h4{font-size:27px;font-weight:500;line-height:1.2;margin:0 0 16px}
+.aviation-card p:not(.aviation-role){font-size:15px;line-height:1.6;margin:0 0 16px;max-width:100%}
+.aviation-card .aviation-check{color:#63736a;border-top:1px solid #dce2d5;padding-top:16px}
+.aviation-card a{display:block;width:fit-content;font-size:14px;text-underline-offset:4px;color:#193c32;margin-top:12px}
+.aviation-access{display:flex;align-items:center;flex-wrap:wrap;gap:12px 20px;margin-top:20px;padding:0 4px}
+.aviation-access p{font-size:14px;margin:0}.aviation-access>div{display:flex;flex-wrap:wrap;gap:8px}.aviation-access span{font-size:12px;border:1px solid #d8dfd0;border-radius:30px;padding:7px 12px}.aviation-access small{flex-basis:100%;font-size:12px;color:#69776d}
+@media(max-width:650px){.aviation-cards{grid-template-columns:1fr}.aviation-card{padding:24px}.aviation-intro h3{font-size:28px}.aviation-access{align-items:flex-start}}
