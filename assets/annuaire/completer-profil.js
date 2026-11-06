@@ -3,7 +3,7 @@
   'use strict';
   if (window.ExitProfileForm) return;
   const trades = {'conseil-ma':'M&A','banques-affaires':'M&A','boutiques-ma':'M&A',avocats:'Autre',cgp:'Banque privée, CGP et MFO',mfo:'Banque privée, CGP et MFO','banques-privees':'Banque privée, CGP et MFO','fonds-dette':'Dette et financement',secondaire:'Secondaire sur sociétés','secondaire-fonds':'Secondaire sur fonds','fonds-pe':'Private equity et venture capital','fonds-vc':'Private equity et venture capital','immobilier-patrimonial':'Immobilier et infrastructures',jets:'Aviation d’affaires'};
-  const professions = {banker:'M&A',lawyer:'Avocats M&A',tax:'Fiscalité de la cession',debt:'Dette et financement',wealth:'Banque privée, CGP et MFO'};
+  const professions = {bankers:'M&A',banker:'M&A',lawyers:'Avocats M&A',lawyer:'Avocats M&A',tax:'Fiscalité de la cession',debt:'Dette et financement',wealth:'Banque privée, CGP et MFO'};
   const fields = ['company','site','trade','services','clients','situation','geography','approach','reference','profile','person','conditions'];
   const clean = value => String(value || '').replace(/\s+/g,' ').trim().slice(0,800);
   function urlFor(context, preview) {
