@@ -8,8 +8,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = json.loads((ROOT / '_build/premium-profils.json').read_text())
-CSS = '/assets/maison/premium.css?v=20261105-prisme'
-JS = '/assets/maison/premium.js?v=20261105-prisme'
+CSS = '/assets/maison/profil-verifie.css?v=20261111'
+JS = '/assets/maison/profil-verifie.js?v=20261111'
 
 
 def apply_premium(soup, slug):
@@ -18,20 +18,20 @@ def apply_premium(soup, slug):
     identity = soup.select_one('.pv-identity')
     if not identity:
         raise ValueError(f'En-tête de fiche absent : {slug}')
-    if identity.select_one('.ec-premium-status'):
+    if identity.select_one('.ec-verifie-status'):
         return False
     status = identity.select_one('.pv-status')
-    wrapper = soup.new_tag('div', attrs={'class': 'ec-premium-status'})
+    wrapper = soup.new_tag('div', attrs={'class': 'ec-verifie-status'})
     button = soup.new_tag('button', attrs={
-        'class': 'ec-premium-badge', 'type': 'button',
-        'aria-describedby': f'premium-info-{slug}', 'aria-expanded': 'false',
+        'class': 'ec-verifie-badge', 'type': 'button',
+        'aria-describedby': f'verifie-info-{slug}', 'aria-expanded': 'false',
     })
     button.string = CONFIG['label']
-    icon = soup.new_tag('span', attrs={'class': 'ec-premium-info', 'aria-hidden': 'true'})
+    icon = soup.new_tag('span', attrs={'class': 'ec-verifie-info', 'aria-hidden': 'true'})
     icon.string = 'i'
     button.append(icon)
     tooltip = soup.new_tag('span', attrs={
-        'class': 'ec-premium-tooltip', 'role': 'tooltip', 'id': f'premium-info-{slug}',
+        'class': 'ec-verifie-tooltip', 'role': 'tooltip', 'id': f'verifie-info-{slug}',
     })
     tooltip.string = CONFIG['explanation']
     wrapper.append(button)
@@ -49,10 +49,10 @@ def apply_premium(soup, slug):
         value = str(text)
         updated = value.replace(
             'Profil vérifié : contenu fourni et validé par la firme.',
-            'Profil Premium : présentation enrichie dans le cadre d’un abonnement payant.'
+            'Profil vérifié : profil détaillé dans le cadre d’une offre payante.'
         ).replace(
             "La vérification est un engagement commercial qui n'influence ni la présence dans l'annuaire, ni l'ordre d'affichage, ni les Ligues.",
-            "Cet abonnement n’influence ni la présence dans l’annuaire, ni l’ordre d’affichage, ni les classements."
+            "Sans effet sur le classement : cette offre ne modifie ni la présence dans l’annuaire, ni l’ordre d’affichage, ni un rang."
         )
         if updated != value:
             text.replace_with(updated)

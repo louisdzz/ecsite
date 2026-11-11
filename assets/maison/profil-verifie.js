@@ -1,8 +1,8 @@
 /* Une offre commerciale, sans certification de fiabilité ni effet sur le rang. */
 (() => {
-  const badges = [...document.querySelectorAll('.ec-premium-status')];
+  const badges = [...document.querySelectorAll('.ec-verifie-status')];
   const positionTooltip = wrapper => {
-    const tooltip = wrapper.querySelector('.ec-premium-tooltip');
+    const tooltip = wrapper.querySelector('.ec-verifie-tooltip');
     const bounds = wrapper.getBoundingClientRect();
     const width = tooltip.getBoundingClientRect().width;
     const left = Math.max(16, Math.min(bounds.right - width, innerWidth - width - 16));
