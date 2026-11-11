@@ -1,5 +1,5 @@
 {
- "nom_usuel": "SLLFINANCE",
+ "nom_usuel": "SLLfinance",
  "categorie": "mfo",
  "crm": "404523c4e81c8119aea5ef3f53e12050",
  "slug_existant": null,
@@ -66,5 +66,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://sllfinance.fr/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://sllfinance.fr/",
+  "consulte_le": "2026-11-11"
  }
 }

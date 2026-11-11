@@ -1,5 +1,5 @@
 {
- "nom_usuel": "MJ & Cie",
+ "nom_usuel": "MJ&Cie",
  "categorie": "mfo",
  "crm": "394523c4e81c81289878c24863f1de0c",
  "slug_existant": "mj-cie",
@@ -74,5 +74,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://mj-et-cie.com/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://mj-et-cie.com/",
+  "consulte_le": "2026-11-11"
  }
 }

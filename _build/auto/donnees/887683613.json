@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Pulse Family Office",
+ "nom_usuel": "Pulse",
  "categorie": "mfo",
  "crm": "39e523c4e81c812994fce9a1f0bff759",
  "slug_existant": "pulse-family-office",
@@ -74,5 +74,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://www.pulse-fo.com/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.pulse-fo.com/",
+  "consulte_le": "2026-11-11"
  }
 }

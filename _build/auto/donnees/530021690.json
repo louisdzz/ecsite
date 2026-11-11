@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Magdae",
+ "nom_usuel": "MAGDAE",
  "categorie": "cgp",
  "crm": "396523c4e81c813cb001cab0befadfe8",
  "slug_existant": "magdae",
@@ -66,5 +66,10 @@
   "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://www.magdae.com"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.magdae.com",
+  "consulte_le": "2026-11-11"
  }
 }

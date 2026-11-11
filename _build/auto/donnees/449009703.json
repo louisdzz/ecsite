@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Montaigne Conseil & Patrimoine",
+ "nom_usuel": "Montaigne Patrimoine",
  "categorie": "cgp",
  "crm": "3fa523c4e81c81d891d2d66f474ab2f3",
  "slug_existant": "montaigne-conseil-patrimoine",
@@ -72,5 +72,10 @@
   "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://montaignepatrimoine.fr/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://montaignepatrimoine.fr/",
+  "consulte_le": "2026-11-11"
  }
 }

@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Even FO",
+ "nom_usuel": "EVEN FO",
  "categorie": "mfo",
  "crm": "396523c4e81c814c9ba8fd716cd94677",
  "slug_existant": "even-fo",
@@ -66,5 +66,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://even-fo.com/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://even-fo.com/",
+  "consulte_le": "2026-11-11"
  }
 }

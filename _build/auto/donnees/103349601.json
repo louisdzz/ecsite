@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Finas Patrimoine",
+ "nom_usuel": "FINAS PATRIMOINE",
  "categorie": "cgp",
  "crm": "404523c4e81c8135ae8bdaece6742f11",
  "slug_existant": null,
@@ -66,5 +66,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/103349601"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/103349601",
+  "consulte_le": "2026-11-11"
  }
 }

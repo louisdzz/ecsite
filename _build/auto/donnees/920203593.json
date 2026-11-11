@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Boetie Capital Invest",
+ "nom_usuel": "Boétie Capital Invest",
  "categorie": "mfo",
  "crm": "39e523c4e81c81c89ab5c7a9ed1f6404",
  "slug_existant": "boetie-capital-invest",
@@ -71,5 +71,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://www.boetiecapitalinvest.com"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.boetiecapitalinvest.com",
+  "consulte_le": "2026-11-11"
  }
 }

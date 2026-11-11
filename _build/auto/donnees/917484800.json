@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Assurance Investissement et Patrimoine",
+ "nom_usuel": "ASSURANCE INVESTISSEMENT ET PATRIMOINE",
  "categorie": "cgp",
  "crm": null,
  "slug_existant": null,
@@ -72,5 +72,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/917484800"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/917484800",
+  "consulte_le": "2026-11-11"
  }
 }

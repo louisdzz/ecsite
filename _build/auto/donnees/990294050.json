@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Dorion Conseil et Patrimoine",
+ "nom_usuel": "DORION CONSEIL ET PATRIMOINE",
  "categorie": "cgp",
  "crm": null,
  "slug_existant": null,
@@ -60,5 +60,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/990294050"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990294050",
+  "consulte_le": "2026-11-11"
  }
 }

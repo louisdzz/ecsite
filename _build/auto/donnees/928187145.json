@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Famille Office",
+ "nom_usuel": "Famille OFFICE",
  "categorie": "mfo",
  "crm": "404523c4e81c811d97c1e0b3f960e1cb",
  "slug_existant": null,
@@ -80,5 +80,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://familleoffice.fr/"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://familleoffice.fr/",
+  "consulte_le": "2026-11-11"
  }
 }

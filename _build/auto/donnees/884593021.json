@@ -1,5 +1,5 @@
 {
- "nom_usuel": "1909 Gestion Privee",
+ "nom_usuel": "1909 GESTION PRIVEE",
  "categorie": "cgp",
  "crm": "407523c4e81c818f9760e968e1101df5",
  "slug_existant": null,
@@ -66,5 +66,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/884593021"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884593021",
+  "consulte_le": "2026-11-11"
  }
 }

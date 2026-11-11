@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Beelong Family Office",
+ "nom_usuel": "Beelong",
  "categorie": "mfo",
  "crm": "396523c4e81c812a933ede5b842b3229",
  "slug_existant": "beelong-family-office",
@@ -78,5 +78,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://beelongfamily.com"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://beelongfamily.com",
+  "consulte_le": "2026-11-11"
  }
 }

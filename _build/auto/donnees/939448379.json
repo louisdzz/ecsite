@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Amarille",
+ "nom_usuel": "AMARILLE",
  "categorie": "mfo",
  "crm": "405523c4e81c813e856ff293e54ab730",
  "slug_existant": null,
@@ -54,5 +54,10 @@
  "orias_site": {},
  "site": null,
  "site_pages": [],
- "linkedin": null
+ "linkedin": null,
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939448379",
+  "consulte_le": "2026-11-11"
+ }
 }

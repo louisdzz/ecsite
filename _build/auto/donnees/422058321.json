@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Groupe Ciec",
+ "nom_usuel": "Groupe CIEC",
  "categorie": "cgp",
  "crm": "396523c4e81c81b0adc3db88506aaf2f",
  "slug_existant": "groupe-ciec",
@@ -64,5 +64,10 @@
   "https://ciec.group/mentions-legales/",
   "https://ciec.group/mentions-legales/"
  ],
- "linkedin": null
+ "linkedin": null,
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://ciec.group/",
+  "consulte_le": "2026-11-11"
+ }
 }

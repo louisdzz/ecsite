@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Letus Private Office",
+ "nom_usuel": "CORIENT PRIVATE OFFICE",
  "categorie": "cgp",
  "crm": "396523c4e81c819fbefedfb957d17de6",
  "slug_existant": "letus-private-office",
@@ -70,18 +70,24 @@
   "etat": "Inscrit"
  },
  "orias_site": {},
- "site": "https://www.letusprivateoffice.com/",
+ "site": null,
  "site_pages": [
   "https://corient.com/us/en",
   "https://corient.com/us/en/legal"
  ],
- "linkedin": {
-  "url": "http://linkedin.com/company/CorientPrivateWealth",
-  "source": "https://corient.com/us/en"
- },
+ "linkedin": null,
  "raison": {
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/822711131"
+ },
+ "site_retire": {
+  "url": "https://www.letusprivateoffice.com/",
+  "motif": "redirige vers corient.com/us le 2026-11-11, identité non vérifiable"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822711131",
+  "consulte_le": "2026-11-11"
  }
 }

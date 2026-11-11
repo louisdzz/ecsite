@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Cabinet Parisot",
+ "nom_usuel": "CABINET PARISOT",
  "categorie": "cgp",
  "crm": "404523c4e81c81e68483e48038e18297",
  "slug_existant": null,
@@ -66,5 +66,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/888367018"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888367018",
+  "consulte_le": "2026-11-11"
  }
 }

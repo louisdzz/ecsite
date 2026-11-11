@@ -285,12 +285,14 @@ def main():
     manifeste = {"maisons": [], "personnes": [], "refus": [], "retraits": []}
 
     # Maisons retenues : actives, slug unique, fiche existante remplaçable.
+    # Le slug d'une fiche déjà publiée ne change jamais, même si le nom affiché est corrigé.
+    slug_fixe = {x["siren"]: x["slug"] for x in ancien.get("maisons", [])}
     slugs, retenus = {}, []
     for r in recs:
         if not r["actif"]:
             manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "entité cessée au registre"})
             continue
-        slug = r.get("slug_existant") or slugify(r["nom_usuel"])
+        slug = r.get("slug_existant") or slug_fixe.get(r["siren"]) or slugify(r["nom_usuel"])
         if slug in slugs:
             manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "slug en doublon avec " + slugs[slug]})
             continue
@@ -303,7 +305,7 @@ def main():
                     manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "fiche existante revendiquée, vérifiée ou liée à une offre au CRM : non remplacée"})
                     continue
                 if not r.get("slug_existant"):
-                    manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "slug déjà pris par une autre fiche, rapprochement non établi"})
+                    manifeste["refus"].append({"maison": r["nom_usuel"], "siren": r["siren"], "motif": "slug déjà pris par une autre fiche, rapprochement non établi"})
                     continue
                 hist = os.path.join(AUTO, "historique", "f", slug + ".html")
                 os.makedirs(os.path.dirname(hist), exist_ok=True)

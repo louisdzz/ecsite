@@ -16,7 +16,13 @@ for x in add:
     # L'ordre existant du répertoire est conservé : insertion avant la première maison de slug supérieur.
     i = next((k for k, h in enumerate(d["houses"]) if h["slug"] > x["slug"]), len(d["houses"]))
     d["houses"].insert(i, {"slug": x["slug"], "name": x["nom"], "categories": [x["categorie"]], "logo": False})
-if add:
+# Nom affiché corrigé (site officiel vérifié, sinon dénomination exacte du registre) : répercuté au répertoire.
+par_slug = {h["slug"]: h for h in d["houses"]}
+ren = 0
+for x in m["maisons"]:
+    if par_slug[x["slug"]]["name"] != x["nom"]:
+        par_slug[x["slug"]]["name"] = x["nom"]; ren += 1
+if add or ren:
     compact = ": " not in raw[:200]
     open(pd, "w", encoding="utf-8").write(json.dumps(d, ensure_ascii=False, separators=(",", ":")) if compact else json.dumps(d, ensure_ascii=False))
 
@@ -25,8 +31,10 @@ pa = os.path.join(ROOT, "annuaire.html")
 h = open(pa, encoding="utf-8").read()
 n_static = 0
 for x in m["maisons"]:
-    if 'href="/f/%s"' % x["slug"] in h:
+    li_ok = '<li><a href="/f/%s">%s</a></li>' % (x["slug"], html.escape(x["nom"], quote=False))
+    if li_ok in h:
         continue
+    h = re.sub(r'<li><a href="/f/%s">.*?</a></li>' % re.escape(x["slug"]), "", h)
     sec = re.search(r'(<section id="%s">.*?<ul>)(.*?)(</ul>)' % re.escape(x["categorie"]), h, re.S)
     items = re.findall(r'<li><a href="/f/[^"]+">.*?</a></li>', sec.group(2))
     items.append('<li><a href="/f/%s">%s</a></li>' % (x["slug"], html.escape(x["nom"], quote=False)))
@@ -56,4 +64,4 @@ for u in re.findall(r"<ns0:loc>(https://www\.exit\.club/(?:f|p)/[^<]+)</ns0:loc>
         s = s.replace("<ns0:url><ns0:loc>%s</ns0:loc></ns0:url>" % u, "")
         n_out += 1
 open(ps, "w", encoding="utf-8").write(s)
-print("répertoire +%d · liste statique +%d · sitemap +%d -%d" % (len(add), n_static, n_map, n_out))
+print("renommées %d ·" % ren, "répertoire +%d · liste statique +%d · sitemap +%d -%d" % (len(add), n_static, n_map, n_out))

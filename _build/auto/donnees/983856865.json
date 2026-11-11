@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Kensho Capital",
+ "nom_usuel": "KENSHO CAPITAL",
  "categorie": "cgp",
  "crm": "407523c4e81c813eb58dc0e539dfb40c",
  "slug_existant": null,
@@ -54,5 +54,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/983856865"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983856865",
+  "consulte_le": "2026-11-11"
  }
 }

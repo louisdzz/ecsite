@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Bee Family Office",
+ "nom_usuel": "BEE FAMILY OFFICE",
  "categorie": "mfo",
  "crm": "39e523c4e81c81bfa31aed74c29be69d",
  "slug_existant": "bee-family-office",
@@ -49,5 +49,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://www.bee-family-office.com"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.bee-family-office.com",
+  "consulte_le": "2026-11-11"
  }
 }

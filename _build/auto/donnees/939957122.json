@@ -59,5 +59,10 @@
   "texte": "Dénomination ou enseigne déclarée au registre : « AMM FO ».",
   "label": "Annuaire des entreprises (registre)",
   "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939957122"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939957122",
+  "consulte_le": "2026-11-11"
  }
 }

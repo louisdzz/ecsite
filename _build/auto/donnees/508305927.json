@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Sagis AM",
+ "nom_usuel": "SAGIS AM",
  "categorie": "mfo",
  "crm": "39e523c4e81c817b84f3cd5345f605c3",
  "slug_existant": "sagis-am",
@@ -75,5 +75,10 @@
   "texte": "La maison emploie le terme « family office » sur son site officiel.",
   "label": "site officiel de la maison",
   "url": "https://sagis-am.com"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://sagis-am.com",
+  "consulte_le": "2026-11-11"
  }
 }

@@ -1,5 +1,5 @@
 {
- "nom_usuel": "Rebound Invest",
+ "nom_usuel": "REBOUND INVEST",
  "categorie": "cgp",
  "crm": null,
  "slug_existant": null,
@@ -54,5 +54,10 @@
   "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
   "label": "Registre ORIAS",
   "url": "https://www.orias.fr/home/showIntermediaire/891587800"
+ },
+ "nom_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/891587800",
+  "consulte_le": "2026-11-11"
  }
 }

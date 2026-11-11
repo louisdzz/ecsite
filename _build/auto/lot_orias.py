@@ -2,7 +2,8 @@
 """Lot CIF : sociétés actives du registre (NAF donné, département donné) inscrites CIF à l'ORIAS et absentes du site.
 Dédoublonnage strict : SIREN déjà connus (cgp-geo.json, donnees/), dénomination ou enseigne déjà au répertoire.
 Entrepreneurs individuels et entités non diffusibles exclus. Aucune donnée de site : seuls registre et ORIAS.
-Usage : python3 lot_orias.py <naf> <departement> <nombre> <sortie_dir> [page_debut]
+Usage : python3 lot_orias.py <naf> <departement> <nombre> <sortie_dir> [page_debut] [page_fin]
+Le nom affiché est la dénomination exacte du registre, sans transformation de casse ni d'accents (consigne du 11 novembre 2026).
 """
 import json, os, sys, time, re, glob
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -10,6 +11,7 @@ from collecte import get, orias, norm, NJ, TODAY
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 naf, dep, want, out = sys.argv[1], sys.argv[2], int(sys.argv[3]), sys.argv[4]
 page = int(sys.argv[5]) if len(sys.argv) > 5 else 1
+page_fin = int(sys.argv[6]) if len(sys.argv) > 6 else 10**6
 os.makedirs(out, exist_ok=True)
 geo = json.load(open(os.path.join(ROOT, "_build/cgp-geo.json"), encoding="utf-8"))
 connus = {v.get("siren") for v in geo.values() if v.get("siren")} | {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(ROOT, "_build/auto/donnees/[0-9]*.json"))}
@@ -19,32 +21,27 @@ GEN = {"sas", "sarl", "sasu", "eurl", "sa", "groupe", "group", "holding", "et", 
 def cle(s):
     return " ".join(w for w in norm(s).split() if w not in GEN)
 noms_cle = {cle(h["name"]) for h in houses}
-PART = {"de", "du", "des", "le", "la", "et", "d", "l", "en"}
-def casse(s):
-    out_ = []
-    for i, w in enumerate(re.split(r"(\s+|-|')", s.strip())):
-        lw = w.lower()
-        if not w.strip() or w in "-'":
-            out_.append(w)
-        elif "." in w or (len(w) <= 3 and not re.search(r"[aeiouyAEIOUY]", w)) or re.search(r"\d", w):
-            out_.append(w.upper())
-        elif lw in PART and i:
-            out_.append(lw)
-        else:
-            out_.append(lw[:1].upper() + lw[1:])
-    return "".join(out_)
 def api(url):
-    for _ in range(5):
+    for k in range(6):
         u, t = get(url)
         if u:
             try:
                 return json.loads(t)
             except Exception:
                 pass
-        time.sleep(2)
+        # Erreur 429 : on ralentit nettement avant de réessayer.
+        time.sleep(30 * (k + 1) if "429" in t else 2 * (k + 1))
+    return None
+def orias_sur(s):
+    for k in range(4):
+        o = orias(s)
+        if o:
+            return o
+        time.sleep(20 * (k + 1))
     return None
 kept, vus, rej = 0, 0, []
-while kept < want:
+erreurs = []
+while kept < want and page <= page_fin:
     r = api("https://recherche-entreprises.api.gouv.fr/search?activite_principale=%s&etat_administratif=A&departement=%s&per_page=25&page=%d" % (naf, dep, page))
     if not r or not r.get("results"):
         break
@@ -59,9 +56,12 @@ while kept < want:
         if not den or any(cle(x) in noms_cle or norm(x) in noms for x in (den, ens) if x) or not cle(den):
             rej.append({"siren": s, "nom": den, "motif": "dénomination ou enseigne déjà au répertoire : doublon possible"})
             continue
-        o = orias(s)
+        o = orias_sur(s)
         time.sleep(0.3)
-        if not o or not o.get("inscrit") or not any(k["code"] == "CIF" and k["etat"] == "Inscrit" for k in o["categories"]):
+        if o is None:
+            erreurs.append(s)
+            continue
+        if not o.get("inscrit") or not any(k["code"] == "CIF" and k["etat"] == "Inscrit" for k in o["categories"]):
             continue
         dirs = []
         for d in a.get("dirigeants") or []:
@@ -73,7 +73,7 @@ while kept < want:
             else:
                 dirs.append({"type": "pm", "denomination": d.get("denomination"), "siren": d.get("siren"), "qualite": q})
         reg = "https://annuaire-entreprises.data.gouv.fr/entreprise/%s" % s
-        rec = {"nom_usuel": casse(den), "categorie": "cgp", "crm": None, "slug_existant": None, "consulte_le": TODAY, "sources": {}, "origine": "lot ORIAS CIF %s dép. %s" % (naf, dep),
+        rec = {"nom_usuel": den, "categorie": "cgp", "crm": None, "slug_existant": None, "consulte_le": TODAY, "sources": {}, "origine": "lot ORIAS CIF %s dép. %s" % (naf, dep),
                "siren_source": {"type": "registre", "url": reg}, "siren": s, "denomination": den, "nom_complet": a.get("nom_complet"), "sigle": a.get("sigle"), "enseigne": ens,
                "forme": NJ.get(a.get("nature_juridique")), "forme_code": a.get("nature_juridique"), "creation": a.get("date_creation"), "ville": sg.get("libelle_commune"), "actif": True,
                "naf": a.get("activite_principale"), "opposition_prospection": bool(a.get("opposition_diffusion_commerciale")), "registre_url": reg, "maj_rne": a.get("date_mise_a_jour_rne"),
@@ -85,5 +85,6 @@ while kept < want:
         if kept >= want:
             break
     page += 1
+json.dump(erreurs, open(os.path.join(out, "_erreurs_orias.json"), "w"))
 json.dump(rej, open(os.path.join(out, "_doublons_possibles.json"), "w"), ensure_ascii=False, indent=1)
-print("FIN page suivante", page, "vus", vus, "retenus", kept, "doublons possibles", len(rej))
+print("FIN page suivante", page, "vus", vus, "retenus", kept, "doublons possibles", len(rej), "erreurs ORIAS", len(erreurs))
