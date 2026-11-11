@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "FG CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "fg-conseil",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 4 (NAF 66.19B, départements 33, 31, 44, 59, 67, 06))",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://fg-conseil.fr/mentions-legales/"
+ },
+ "siren": "841665219",
+ "denomination": "FG CONSEIL",
+ "nom_complet": "FG CONSEIL (FG CONSEIL)",
+ "sigle": null,
+ "enseigne": "FG CONSEIL",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-08-08",
+ "ville": "CAGNES-SUR-MER",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841665219",
+ "maj_rne": "2026-09-25T21:16:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AXEL JULIEN",
+   "nom": "ANDRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/841665219",
+  "numero": "18005583",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "31/08/2018"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "28/01/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/11/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://fg-conseil.fr/",
+ "site_pages": [
+  "https://fg-conseil.fr/",
+  "https://fg-conseil.fr/mentions-legales/",
+  "https://fg-conseil.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/fgconseil/about",
+  "source": "https://fg-conseil.fr/"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/841665219"
+ }
+}

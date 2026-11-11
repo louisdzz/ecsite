@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "D.L.C.P.",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802351734"
+ },
+ "siren": "802351734",
+ "denomination": "D.L.C.P.",
+ "nom_complet": "D.L.C.P. (D.L.C.P.)",
+ "sigle": null,
+ "enseigne": "D.L.C.P.",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2014-05-07",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802351734",
+ "maj_rne": "2026-11-05T13:58:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI PIERRE PAUL",
+   "nom": "DUBOIS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YOHAN PIERRICK",
+   "nom": "HELDERWERDT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AYMERIC OSCAR",
+   "nom": "LEGROS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/802351734",
+  "numero": "14004690",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "28/01/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/09/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/802351734"
+ }
+}

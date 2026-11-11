@@ -13,6 +13,8 @@ lot, dossiers = sys.argv[1], sys.argv[2:]
 houses = json.load(open(os.path.join(ROOT, "assets/ecosysteme/maison/data.json"), encoding="utf-8"))["houses"]
 pris = {h["slug"] for h in houses} | {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(ROOT, "f", "*.html"))}
 new = [json.load(open(f, encoding="utf-8")) for d in dossiers for f in sorted(glob.glob(os.path.join(d, "[0-9]*.json")))]
+# Une société ayant des établissements dans plusieurs départements sort dans plusieurs plages : un seul enregistrement par SIREN.
+new = list({r["siren"]: r for r in new}.values())
 vus = collections.defaultdict(list)
 for r in new:
     vus[slugify(r["nom_usuel"])].append(r)
