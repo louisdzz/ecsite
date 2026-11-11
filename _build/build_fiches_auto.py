@@ -326,7 +326,13 @@ def main():
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue
-            prenom = re.split(r"[ ,]+", p["prenoms"].strip())[0]
+            toks = re.split(r"[ ,]+", p["prenoms"].strip())
+            prenom = toks[0]
+            # Prénom composé saisi avec une espace au registre (« JEAN- LOUIS ») : les deux parties sont réunies sur la fiche maison,
+            # et aucune fiche personne n'est créée, le nom exact n'étant pas établi.
+            coupe = prenom.endswith("-") and len(toks) > 1
+            if coupe:
+                prenom = prenom + toks[1]
             cle = (r["siren"], norm(p["prenoms"]) + "|" + norm(p["nom"]))
             fonction = qualite(p["qualite"])
             m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", p["nom"])
@@ -338,9 +344,11 @@ def main():
             else:
                 brut = nom_propre(prenom + " " + p["nom"])
                 nom = usuels.get(norm(brut), brut)
-            incertain = bool(m) and len(ok) != 1
+            incertain = (bool(m) and len(ok) != 1) or coupe
             x = {"cle": cle, "siren": r["siren"], "nom": nom, "fonction": fonction, "slug": slugify(nom) if fonction_retenue(p["qualite"]) and not incertain else None}
-            if incertain and fonction_retenue(p["qualite"]):
+            if coupe and fonction_retenue(p["qualite"]):
+                manifeste["refus"].append({"personne": nom, "motif": "prénom composé mal saisi au registre : listée sur la fiche maison, pas de fiche personne"})
+            elif incertain and fonction_retenue(p["qualite"]):
                 manifeste["refus"].append({"personne": nom, "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"})
             personnes.append(x)
             if x["slug"]:

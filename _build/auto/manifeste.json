@@ -17376,14 +17376,6 @@
    "chemin": "p/laurence-manesse.html"
   },
   {
-   "slug": "jean-clair",
-   "nom": "Jean- Clair",
-   "fonction": "Gérant",
-   "maison": "cap-sud-conseil",
-   "siren": "827778069",
-   "chemin": "p/jean-clair.html"
-  },
-  {
    "slug": "yuna-marquis",
    "nom": "Yuna Marquis",
    "fonction": "Gérant",
@@ -22634,6 +22626,10 @@
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Jean-Louis Clair",
+   "motif": "prénom composé mal saisi au registre : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Severine Flottes de Pouzols",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
@@ -23142,5 +23138,10 @@
    "motif": "homonymie ou mandats multiples non résolus"
   }
  ],
- "retraits": []
+ "retraits": [
+  {
+   "personne": "jean-clair",
+   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
+  }
+ ]
 }
