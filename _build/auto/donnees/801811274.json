@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "Stamina Partners",
+ "categorie": "cgp",
+ "crm": "404523c4e81c814abd76e4a61ca2bc3a",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/801811274"
+ },
+ "siren": "801811274",
+ "denomination": "STAMINA PARTNERS",
+ "nom_complet": "STAMINA PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-04-15",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/801811274",
+ "maj_rne": "2026-07-22T01:33:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BEATRICE EUGENIE ALICE",
+   "nom": "VIVIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/801811274",
+  "numero": "26010089",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/801811274"
+ }
+}
