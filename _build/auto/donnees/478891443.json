@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "RIVE GAUCHE FINANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478891443"
+ },
+ "siren": "478891443",
+ "denomination": "RIVE GAUCHE FINANCE",
+ "nom_complet": "RIVE GAUCHE FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-10-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478891443",
+ "maj_rne": "2026-09-28T21:37:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "AUPETIT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID KARL",
+   "nom": "NERAUX",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE",
+   "nom": "PELTIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/478891443",
+  "numero": "07030200",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/01/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/04/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/04/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/478891443"
+ }
+}

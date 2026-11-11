@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "SELEXIUM EPARGNE ET PREVOYANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822817797"
+ },
+ "siren": "822817797",
+ "denomination": "SELEXIUM EPARGNE ET PREVOYANCE",
+ "nom_complet": "SELEXIUM EPARGNE ET PREVOYANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2016-08-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822817797",
+ "maj_rne": "2026-09-25T11:46:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICE",
+   "nom": "AMANS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "CORBA",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "DEBAIR",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/822817797",
+  "numero": "17000647",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/05/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "15/05/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/04/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/822817797"
+ }
+}

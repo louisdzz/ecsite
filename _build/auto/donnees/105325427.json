@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ORIVA WEALTH MANAGEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/105325427"
+ },
+ "siren": "105325427",
+ "denomination": "ORIVA WEALTH MANAGEMENT",
+ "nom_complet": "ORIVA WEALTH MANAGEMENT (OWM)",
+ "sigle": "OWM",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-05-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/105325427",
+ "maj_rne": "2026-10-19T11:38:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BAYA",
+   "nom": "BALLO",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/105325427",
+  "numero": "26010305",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/105325427"
+ }
+}

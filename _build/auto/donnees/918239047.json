@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "JOLKA INVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/918239047"
+ },
+ "siren": "918239047",
+ "denomination": "JOLKA INVEST",
+ "nom_complet": "JOLKA INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-07-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/918239047",
+ "maj_rne": "2026-09-26T22:18:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JONATHAN",
+   "nom": "KIEFFER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/918239047",
+  "numero": "22005903",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "13/12/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/10/2022"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "13/12/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/10/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/918239047"
+ }
+}

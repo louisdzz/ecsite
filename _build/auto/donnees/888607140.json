@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "INAM",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888607140"
+ },
+ "siren": "888607140",
+ "denomination": "INAM",
+ "nom_complet": "INAM (INAM)",
+ "sigle": null,
+ "enseigne": "INAM",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-09-01",
+ "ville": "PANTIN",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888607140",
+ "maj_rne": "2026-09-26T08:12:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "SERVIUS-PIERRE-CHARLES",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/888607140",
+  "numero": "20007364",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "15/10/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/888607140"
+ }
+}

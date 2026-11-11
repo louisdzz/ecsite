@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "NOS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/949099493"
+ },
+ "siren": "949099493",
+ "denomination": "NOS",
+ "nom_complet": "NOS (NOS)",
+ "sigle": null,
+ "enseigne": "NOS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-02-17",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/949099493",
+ "maj_rne": "2026-09-27T10:55:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD MARCEL JACQUES",
+   "nom": "AIMARD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "SIBAUD",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/949099493",
+  "numero": "23006368",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/07/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/949099493"
+ }
+}

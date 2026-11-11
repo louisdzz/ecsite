@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LYAUTEY PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890749427"
+ },
+ "siren": "890749427",
+ "denomination": "LYAUTEY PATRIMOINE",
+ "nom_complet": "LYAUTEY PATRIMOINE (LYAUTEY PATRIMOINE GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "LYAUTEY PATRIMOINE GESTION PRIVEE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-10-29",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890749427",
+ "maj_rne": "2026-09-26T09:26:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "CARCENAC (LYAUTEY)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/890749427",
+  "numero": "20009390",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/890749427"
+ }
+}

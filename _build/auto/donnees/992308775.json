@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ALTHERA CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992308775"
+ },
+ "siren": "992308775",
+ "denomination": "ALTHERA CONSEIL",
+ "nom_complet": "ALTHERA CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-08-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992308775",
+ "maj_rne": "2026-09-28T05:14:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "TANGUY",
+   "nom": "BARBOSA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MÉGANE",
+   "nom": "DEVAUX",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/992308775",
+  "numero": "26008464",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/992308775"
+ }
+}

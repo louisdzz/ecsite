@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "NET FINANCE CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488557067"
+ },
+ "siren": "488557067",
+ "denomination": "NET FINANCE CONSEIL",
+ "nom_complet": "NET FINANCE CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-02-01",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488557067",
+ "maj_rne": "2026-11-10T11:36:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JÉRÉMY AURÉLIEN",
+   "nom": "ARAS",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE",
+   "nom": "PELTIER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN WILLIAM JEAN",
+   "nom": "SURVILLE",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/488557067",
+  "numero": "07005490",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "10/01/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/04/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/488557067"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "AZALEE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790419949"
+ },
+ "siren": "790419949",
+ "denomination": "AZALEE PATRIMOINE",
+ "nom_complet": "AZALEE PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790419949",
+ "maj_rne": "2026-10-19T10:44:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SHIRLEY",
+   "nom": "BRUNA (FERMON)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MOHAMED",
+   "nom": "MOSBAHI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "SERRE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/790419949",
+  "numero": "13001775",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/03/2013"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/03/2013"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/790419949"
+ }
+}

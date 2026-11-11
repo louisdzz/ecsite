@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ENERGY ACCESS VENTURES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808265987"
+ },
+ "siren": "808265987",
+ "denomination": "ENERGY ACCESS VENTURES",
+ "nom_complet": "ENERGY ACCESS VENTURES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-11-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808265987",
+ "maj_rne": "2026-09-25T03:56:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "BALLY",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VLADIMIR",
+   "nom": "DUGIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "ASTER CAPITAL PARTNERS SAS",
+   "siren": "414286567",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/808265987",
+  "numero": "15000326",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/03/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/808265987"
+ }
+}

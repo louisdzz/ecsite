@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "HEX CAP FRANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892083031"
+ },
+ "siren": "892083031",
+ "denomination": "HEX CAP FRANCE",
+ "nom_complet": "HEX CAP FRANCE (HEX CAP FRANCE)",
+ "sigle": null,
+ "enseigne": "HEX CAP FRANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-12-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892083031",
+ "maj_rne": "2026-09-26T09:52:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE CARLO VITO LOUIS",
+   "nom": "BAGNI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID GABRIEL",
+   "nom": "PALACCI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/892083031",
+  "numero": "21007618",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/09/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/892083031"
+ }
+}

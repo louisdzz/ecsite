@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "AUXO FINANCES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897727061"
+ },
+ "siren": "897727061",
+ "denomination": "AUXO FINANCES",
+ "nom_complet": "AUXO FINANCES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-03-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897727061",
+ "maj_rne": "2026-09-26T12:05:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC FREDERIC",
+   "nom": "BLAYO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD PIERRE RENÉ ARNAUD PIERRE RENE",
+   "nom": "CHIOT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "COSTE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "VINNER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/897727061",
+  "numero": "21007226",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/09/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/02/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/897727061"
+ }
+}

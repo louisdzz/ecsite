@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "CELEN CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/945281186"
+ },
+ "siren": "945281186",
+ "denomination": "CELEN CONSEIL",
+ "nom_complet": "CELEN CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-05-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/945281186",
+ "maj_rne": "2026-09-28T02:41:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GAUVAIN PIERRE FRÉDÉRIC",
+   "nom": "BRUYERE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUCAS",
+   "nom": "CHOPIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ETIENNE",
+   "nom": "HARDY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE-CÉCILE AGATHE",
+   "nom": "PICARD",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/945281186",
+  "numero": "25005858",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/945281186"
+ }
+}

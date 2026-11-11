@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "KEVANO PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/919352815"
+ },
+ "siren": "919352815",
+ "denomination": "KEVANO PATRIMOINE",
+ "nom_complet": "KEVANO PATRIMOINE (ACTIO PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ACTIO PATRIMOINE",
+ "forme": "Société en nom collectif",
+ "forme_code": "5202",
+ "creation": "2022-07-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/919352815",
+ "maj_rne": "2026-09-26T22:47:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "CARLUCCI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "PAC SERVICES",
+   "siren": "491122792",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "KEVANO STRATEGIE ET CONSULTING",
+   "siren": "803573674",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/919352815",
+  "numero": "22007422",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "31/05/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "31/05/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/919352815"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "A.M. PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417968740"
+ },
+ "siren": "417968740",
+ "denomination": "A.M. PATRIMOINE",
+ "nom_complet": "A.M. PATRIMOINE (AM PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "AM PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1998-01-02",
+ "ville": "ANTONY",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417968740",
+ "maj_rne": "2026-09-28T19:28:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "LAVENANT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/417968740",
+  "numero": "07003126",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/02/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/05/2010"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/09/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/417968740"
+ }
+}

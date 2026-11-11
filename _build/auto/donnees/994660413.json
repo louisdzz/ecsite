@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "MAISON QUATUOR",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/994660413"
+ },
+ "siren": "994660413",
+ "denomination": "MAISON QUATUOR",
+ "nom_complet": "MAISON QUATUOR",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-10-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/994660413",
+ "maj_rne": "2026-08-18T17:38:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "ANDRAUD",
+   "qualite": "Directeur Général, Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DALIGAUX",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "LIMAS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "SAKOUN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/994660413",
+  "numero": "26001758",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/02/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/02/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/994660413"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "YVES GICQUEL CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530667096"
+ },
+ "siren": "530667096",
+ "denomination": "YVES GICQUEL CONSEILS",
+ "nom_complet": "YVES GICQUEL CONSEILS (INTERDOM PLACE MADELEINE)",
+ "sigle": null,
+ "enseigne": "INTERDOM PLACE MADELEINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-02-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530667096",
+ "maj_rne": "2026-09-24T12:10:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YVES MARCEL MARIE",
+   "nom": "GICQUEL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/530667096",
+  "numero": "14004149",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "10/10/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/01/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/07/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/530667096"
+ }
+}

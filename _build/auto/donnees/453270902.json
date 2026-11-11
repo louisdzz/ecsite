@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "INOVIA FINANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453270902"
+ },
+ "siren": "453270902",
+ "denomination": "INOVIA FINANCE",
+ "nom_complet": "INOVIA FINANCE (ESPERT CONSEIL)",
+ "sigle": null,
+ "enseigne": "ESPERT CONSEIL",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-04-26",
+ "ville": "SERRIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/453270902",
+ "maj_rne": "2026-09-23T17:30:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN",
+   "nom": "BRESCH",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ADRIANA",
+   "nom": "VASU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/453270902",
+  "numero": "07005104",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/04/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/453270902"
+ }
+}

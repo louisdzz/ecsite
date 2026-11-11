@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ALETHEON INVESTMENTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104453782"
+ },
+ "siren": "104453782",
+ "denomination": "ALETHEON INVESTMENTS",
+ "nom_complet": "ALETHEON INVESTMENTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-04-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104453782",
+ "maj_rne": "2026-10-16T11:38:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OMRI ALBERT ALLOUCHE",
+   "nom": "BENAYOUN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDRE MARIE JEAN",
+   "nom": "FRANCOIS-PONCET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDREW THOMSON",
+   "nom": "WHITING",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/104453782",
+  "numero": "26008455",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/104453782"
+ }
+}

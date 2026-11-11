@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "AKNINVEST ASSET MANAGEMENT CONSULTING GROUP",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/788592947"
+ },
+ "siren": "788592947",
+ "denomination": "AKNINVEST ASSET MANAGEMENT CONSULTING GROUP",
+ "nom_complet": "AKNINVEST ASSET MANAGEMENT CONSULTING GROUP (AKNINVEST ASSET MANAGEMENT CONSULTING GROUP) (2A.M.C.G.)",
+ "sigle": "2A.M.C.G.",
+ "enseigne": "AKNINVEST ASSET MANAGEMENT CONSULTING GROUP",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-09-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/788592947",
+ "maj_rne": "2026-09-24T19:56:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "AKNIN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/788592947",
+  "numero": "14000937",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "31/01/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/788592947"
+ }
+}

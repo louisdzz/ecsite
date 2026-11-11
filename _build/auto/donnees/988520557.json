@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ELEVIA MANAGEMENT SAS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988520557"
+ },
+ "siren": "988520557",
+ "denomination": "ELEVIA MANAGEMENT SAS",
+ "nom_complet": "ELEVIA MANAGEMENT SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-06-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988520557",
+ "maj_rne": "2026-10-26T18:36:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOUIS BERTRAND MARIE HENRI",
+   "nom": "BIZOUARD DE MONTILLE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÉMIE HUGUES",
+   "nom": "LE FEBVRE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN JEAN",
+   "nom": "SOUCHOIS",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/988520557",
+  "numero": "25007422",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/09/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/988520557"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "TEFAK & ASSOCIES GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/919768267"
+ },
+ "siren": "919768267",
+ "denomination": "TEFAK & ASSOCIES GESTION PRIVEE",
+ "nom_complet": "TEFAK & ASSOCIES GESTION PRIVEE (T&A GESTION PRIVEE) (T&A GP)",
+ "sigle": "T&A GP",
+ "enseigne": "T&A GESTION PRIVEE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-10-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/919768267",
+ "maj_rne": "2026-09-26T22:57:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MANUEL JULIEN MARIE",
+   "nom": "TEFAK ESSONO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/919768267",
+  "numero": "23005049",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/919768267"
+ }
+}
