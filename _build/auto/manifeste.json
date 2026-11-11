@@ -3,532 +3,704 @@
   {
    "slug": "laplace",
    "nom": "Laplace",
+   "categorie": "cgp",
    "siren": "384956884",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/laplace.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/laplace.html",
    "crm": "39e523c4e81c81f89a04f00184976d68",
    "orias": "07008017",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "gsd-gestion",
    "nom": "GSD Gestion",
+   "categorie": "cgp",
    "siren": "388450132",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/gsd-gestion.html",
    "crm": "406523c4e81c81929919d46df3480665",
    "orias": "17004625",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "bee-family-office",
    "nom": "Bee Family Office",
+   "categorie": "mfo",
    "siren": "419218391",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/bee-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/bee-family-office.html",
    "crm": "39e523c4e81c81bfa31aed74c29be69d",
    "orias": null,
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "groupe-ciec",
+   "nom": "Groupe Ciec",
+   "categorie": "cgp",
+   "siren": "422058321",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/groupe-ciec.html",
+   "crm": "396523c4e81c81b0adc3db88506aaf2f",
+   "orias": "07027961",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "mj-cie",
    "nom": "MJ & Cie",
+   "categorie": "mfo",
    "siren": "439375536",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/mj-cie.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/mj-cie.html",
    "crm": "394523c4e81c81289878c24863f1de0c",
    "orias": "07004635",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "intuitae-family-office",
    "nom": "Intuitae",
+   "categorie": "mfo",
    "siren": "440218709",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/intuitae-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/intuitae-family-office.html",
    "crm": "396523c4e81c8139830fc97cdddb8e02",
    "orias": "13000316",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "arthus-conseil",
    "nom": "Arthus Conseil",
+   "categorie": "cgp",
    "siren": "447822693",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/arthus-conseil.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/arthus-conseil.html",
    "crm": "396523c4e81c81acaf55c308f60f805c",
    "orias": "07003020",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "montaigne-conseil-patrimoine",
    "nom": "Montaigne Conseil & Patrimoine",
+   "categorie": "cgp",
    "siren": "449009703",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/montaigne-conseil-patrimoine.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/montaigne-conseil-patrimoine.html",
    "crm": "3fa523c4e81c81d891d2d66f474ab2f3",
    "orias": "13000352",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "sumatra",
    "nom": "Sumatra",
+   "categorie": "cgp",
    "siren": "452394000",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/sumatra.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/sumatra.html",
    "crm": "396523c4e81c8134818cf1bab4d91415",
    "orias": "07005012",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "equance",
    "nom": "Equance",
+   "categorie": "cgp",
    "siren": "481936425",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/equance.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/equance.html",
    "crm": "396523c4e81c81b1ac94eb0cff909fbb",
    "orias": "07004820",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "xelis-family-office",
    "nom": "Xelis Family Office",
+   "categorie": "mfo",
    "siren": "482742418",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/xelis-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/xelis-family-office.html",
    "crm": "396523c4e81c815dbca9dc245879992d",
    "orias": "14001357",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "carat-capital",
    "nom": "Carat Capital",
+   "categorie": "cgp",
    "siren": "492563523",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/carat-capital.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/carat-capital.html",
    "crm": "396523c4e81c813faa0efbe0961a7ceb",
    "orias": "07026597",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "perennity",
    "nom": "Perennity",
+   "categorie": "cgp",
    "siren": "494604309",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/perennity.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/perennity.html",
    "crm": "396523c4e81c8110891fc079df036d9b",
    "orias": "08045322",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "doxans",
    "nom": "Doxans",
+   "categorie": "cgp",
    "siren": "503263584",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/doxans.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/doxans.html",
    "crm": "396523c4e81c81669a5fef0251b9294d",
    "orias": "17005043",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "sagis-am",
    "nom": "Sagis AM",
+   "categorie": "mfo",
    "siren": "508305927",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/sagis-am.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/sagis-am.html",
    "crm": "39e523c4e81c817b84f3cd5345f605c3",
    "orias": "13007902",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "allure-finance",
    "nom": "Allure Finance",
+   "categorie": "cgp",
    "siren": "521019521",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/allure-finance.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/allure-finance.html",
    "crm": "396523c4e81c81e495efdd3b36d7ef18",
    "orias": "10054606",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "rhetores-finance",
    "nom": "Rhetores Finance",
+   "categorie": "cgp",
    "siren": "529612889",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/rhetores-finance.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/rhetores-finance.html",
    "crm": "396523c4e81c8103a7f3d2a53f372696",
    "orias": "11060087",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "magdae",
    "nom": "Magdae",
+   "categorie": "cgp",
    "siren": "530021690",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/magdae.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/magdae.html",
    "crm": "396523c4e81c813cb001cab0befadfe8",
    "orias": null,
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "financiere-diocles",
    "nom": "Financière Dioclès",
+   "categorie": "mfo",
    "siren": "532512340",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/financiere-diocles.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/financiere-diocles.html",
    "crm": "39e523c4e81c81709baaea1979a22a04",
    "orias": "11062832",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "levy-capital",
    "nom": "Levy Capital",
+   "categorie": "mfo",
    "siren": "538046970",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/levy-capital.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/levy-capital.html",
    "crm": "39e523c4e81c8140b61ce80d9ba2052e",
    "orias": "13000857",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "eternam",
    "nom": "Eternam",
+   "categorie": "cgp",
    "siren": "538184128",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/eternam.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/eternam.html",
    "crm": "396523c4e81c812b9c99e29ac214e29e",
    "orias": null,
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "valoria-capital",
    "nom": "Valoria Capital",
+   "categorie": "cgp",
    "siren": "752220251",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/valoria-capital.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/valoria-capital.html",
    "crm": "396523c4e81c81068097e79f9693a30e",
    "orias": "12067299",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "ruven-office",
    "nom": "Ruven Office",
+   "categorie": "mfo",
    "siren": "792052268",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/ruven-office.html",
    "crm": "404523c4e81c8155bb51ccf3aa9761bf",
    "orias": "18000007",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "foeb-solutions",
    "nom": "FOEB Solutions",
+   "categorie": "mfo",
    "siren": "795008648",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/foeb-solutions.html",
    "crm": "406523c4e81c816197f2e34d82d1588b",
    "orias": "13008978",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "platineos",
    "nom": "Platineos",
+   "categorie": "cgp",
    "siren": "797682036",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/platineos.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/platineos.html",
    "crm": "396523c4e81c819296d1ff1c84c762c2",
    "orias": "13009829",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "cheval-blanc-patrimoine",
    "nom": "Cheval Blanc Patrimoine",
+   "categorie": "cgp",
    "siren": "803935840",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/cheval-blanc-patrimoine.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/cheval-blanc-patrimoine.html",
    "crm": "396523c4e81c81ca89c5c5d88f33363b",
    "orias": "14005259",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "altheo-partners",
    "nom": "Altheo Partners",
+   "categorie": "cgp",
    "siren": "810662841",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/altheo-partners.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/altheo-partners.html",
    "crm": "396523c4e81c81c18707cb1d7a922ccf",
    "orias": "15003625",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "even-fo",
    "nom": "Even FO",
+   "categorie": "mfo",
    "siren": "811222595",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/even-fo.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/even-fo.html",
    "crm": "396523c4e81c814c9ba8fd716cd94677",
    "orias": "16001989",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "come-maison-financiere",
+   "nom": "Côme Maison Financière",
+   "categorie": "mfo",
+   "siren": "821960739",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/come-maison-financiere.html",
+   "crm": "39e523c4e81c81899b49cce0e9665160",
+   "orias": "16004946",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "scala-patrimoine",
    "nom": "Scala Patrimoine",
+   "categorie": "cgp",
    "siren": "822422291",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/scala-patrimoine.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/scala-patrimoine.html",
    "crm": "396523c4e81c81b6b7c1f6dfc0d75235",
    "orias": "16005890",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "letus-private-office",
    "nom": "Letus Private Office",
+   "categorie": "cgp",
    "siren": "822711131",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/letus-private-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/letus-private-office.html",
    "crm": "396523c4e81c819fbefedfb957d17de6",
    "orias": "16006878",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "marquis-family-office",
    "nom": "Marquis Family Office",
+   "categorie": "mfo",
    "siren": "828025874",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/marquis-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/marquis-family-office.html",
    "crm": "39e523c4e81c8115a382c88c03816eee",
    "orias": "17002406",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "sllfinance",
    "nom": "SLLFINANCE",
+   "categorie": "mfo",
    "siren": "833233117",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/sllfinance.html",
    "crm": "404523c4e81c8119aea5ef3f53e12050",
    "orias": "17006965",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "mirari-wealth-management",
    "nom": "MIRARI Wealth Management",
+   "categorie": "cgp",
    "siren": "878960632",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/mirari-wealth-management.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/mirari-wealth-management.html",
    "crm": "396523c4e81c81c2bdb4cc4b2a153d55",
    "orias": "20000409",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "noun-partners",
    "nom": "Noun Partners",
+   "categorie": "cgp",
    "siren": "881558027",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/noun-partners.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/noun-partners.html",
    "crm": "396523c4e81c8119ac74ddb7b85d5469",
    "orias": "20002359",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "pulse-family-office",
    "nom": "Pulse Family Office",
+   "categorie": "mfo",
    "siren": "887683613",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/pulse-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/pulse-family-office.html",
    "crm": "39e523c4e81c812994fce9a1f0bff759",
    "orias": "20007324",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "leone-kapital",
    "nom": "Leone Kapital",
+   "categorie": "cgp",
    "siren": "892088204",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/leone-kapital.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/leone-kapital.html",
    "crm": "396523c4e81c816eabd1edcff493c219",
    "orias": "21000835",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "beelong-family-office",
    "nom": "Beelong Family Office",
+   "categorie": "mfo",
    "siren": "895114684",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/beelong-family-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/beelong-family-office.html",
    "crm": "396523c4e81c812a933ede5b842b3229",
    "orias": "21003326",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "synapsis-patrimoine",
    "nom": "Synapsis Patrimoine",
+   "categorie": "cgp",
    "siren": "908311830",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/synapsis-patrimoine.html",
    "crm": "405523c4e81c818fa3bbce63599467fc",
    "orias": "22001548",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "financiere-de-la-clarte",
    "nom": "Financière de La Clarté",
+   "categorie": "cgp",
    "siren": "913784682",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/financiere-de-la-clarte.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/financiere-de-la-clarte.html",
    "crm": "396523c4e81c81f5af3cc7e0dc5dffb5",
    "orias": "22005004",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "matrimoine-invest",
    "nom": "Matrimoine Invest",
+   "categorie": "cgp",
    "siren": "918738550",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/matrimoine-invest.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/matrimoine-invest.html",
    "crm": "39f523c4e81c8190bee7cfbfbe88e7e3",
    "orias": "22007393",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "sapians",
    "nom": "Sapians",
+   "categorie": "cgp",
    "siren": "919330969",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/sapians.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/sapians.html",
    "crm": "396523c4e81c8101aaf5d7c1166f703f",
    "orias": "23003561",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "boetie-capital-invest",
    "nom": "Boetie Capital Invest",
+   "categorie": "mfo",
    "siren": "920203593",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/boetie-capital-invest.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/boetie-capital-invest.html",
    "crm": "39e523c4e81c81c89ab5c7a9ed1f6404",
    "orias": "23001410",
-   "opposition_prospection": false
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "famille-office",
    "nom": "Famille Office",
+   "categorie": "mfo",
    "siren": "928187145",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/famille-office.html",
    "crm": "404523c4e81c811d97c1e0b3f960e1cb",
    "orias": "24004338",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "fleur-family-office",
    "nom": "Fleur Family Office",
+   "categorie": "mfo",
    "siren": "928976737",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/fleur-family-office.html",
    "crm": "407523c4e81c81b69fd0dbd524442237",
    "orias": "24004539",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "orkestra-partners",
    "nom": "Orkestra Partners",
+   "categorie": "mfo",
    "siren": "929448363",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/orkestra-partners.html",
    "crm": "404523c4e81c813abd2ccdd34a49b152",
    "orias": "24005452",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "stievenart-capital-partners",
    "nom": "Stievenart Capital Partners",
+   "categorie": "cgp",
    "siren": "933057150",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/stievenart-capital-partners.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/stievenart-capital-partners.html",
    "crm": "396523c4e81c8159aa00eb289cc6ea9b",
    "orias": "25000718",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "elios-patrimoine",
    "nom": "Elios Patrimoine",
+   "categorie": "mfo",
    "siren": "933898298",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/elios-patrimoine.html",
    "crm": "404523c4e81c8192b31cf80724e4e7ac",
    "orias": "24008213",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "orion-mfo",
    "nom": "Orion MFO",
+   "categorie": "mfo",
    "siren": "934317140",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/orion-mfo.html",
    "crm": "406523c4e81c81649b34d481ee132c74",
    "orias": "26004327",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "amarille",
    "nom": "Amarille",
+   "categorie": "mfo",
    "siren": "939448379",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/amarille.html",
    "crm": "405523c4e81c813e856ff293e54ab730",
    "orias": "25002290",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "amm-fo",
    "nom": "AMM FO",
+   "categorie": "mfo",
    "siren": "939957122",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/amm-fo.html",
    "crm": "407523c4e81c81ff9fd0ddffc7213479",
    "orias": "25002114",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "ourfamiliesup",
    "nom": "OurFamiliesUp",
+   "categorie": "mfo",
    "siren": "942660689",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/ourfamiliesup.html",
    "crm": "405523c4e81c8192a83ec762850bb512",
    "orias": "26009216",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "lynq-private-office",
    "nom": "LYNQ Private Office",
+   "categorie": "mfo",
    "siren": "983107731",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/lynq-private-office.html",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/lynq-private-office.html",
    "crm": "39e523c4e81c818d8886e03090a19219",
    "orias": "25001048",
-   "opposition_prospection": true
-  },
-  {
-   "slug": "myway-family-office",
-   "nom": "MyWay Family Office",
-   "siren": "985381250",
-   "apercu": true,
-   "chemin": "annuaire-apercu/f/myway-family-office.html",
-   "crm": "396523c4e81c815c8998ca901508d3ae",
-   "orias": "24003039",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   },
   {
    "slug": "inhestia",
    "nom": "Inhestia",
+   "categorie": "mfo",
    "siren": "989246509",
    "apercu": false,
+   "remplace": false,
    "chemin": "f/inhestia.html",
    "crm": "405523c4e81c81d6b003e4bbcdb03327",
    "orias": "25009190",
-   "opposition_prospection": true
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
   }
  ],
  "personnes": [
@@ -557,28 +729,28 @@
    "chemin": "p/jean-maximilien-vancayezeele.html"
   },
   {
-   "slug": "fabienne-gautier",
-   "nom": "Fabienne Gautier",
-   "fonction": "Administrateur",
-   "maison": "gsd-gestion",
-   "siren": "388450132",
-   "chemin": "p/fabienne-gautier.html"
+   "slug": "thomas-camart",
+   "nom": "Thomas Camart",
+   "fonction": "Gérant",
+   "maison": "groupe-ciec",
+   "siren": "422058321",
+   "chemin": "p/thomas-camart.html"
   },
   {
-   "slug": "jacques-gautier",
-   "nom": "Jacques Gautier",
-   "fonction": "Administrateur",
-   "maison": "gsd-gestion",
-   "siren": "388450132",
-   "chemin": "p/jacques-gautier.html"
+   "slug": "maurice-julliard",
+   "nom": "Maurice Julliard",
+   "fonction": "Gérant",
+   "maison": "groupe-ciec",
+   "siren": "422058321",
+   "chemin": "p/maurice-julliard.html"
   },
   {
-   "slug": "thierry-gautier",
-   "nom": "Thierry Gautier",
-   "fonction": "Mandataire, qualité non précisée au registre",
-   "maison": "gsd-gestion",
-   "siren": "388450132",
-   "chemin": "p/thierry-gautier.html"
+   "slug": "alain-kilimli",
+   "nom": "Alain Kilimli",
+   "fonction": "Gérant",
+   "maison": "groupe-ciec",
+   "siren": "422058321",
+   "chemin": "p/alain-kilimli.html"
   },
   {
    "slug": "francois-mollat-du-jourdin",
@@ -619,6 +791,14 @@
    "maison": "montaigne-conseil-patrimoine",
    "siren": "449009703",
    "chemin": "p/louis-de-froissard.html"
+  },
+  {
+   "slug": "florence-estienne",
+   "nom": "Florence Estienne",
+   "fonction": "Gérant",
+   "maison": "sumatra",
+   "siren": "452394000",
+   "chemin": "p/florence-estienne.html"
   },
   {
    "slug": "darioush-mery",
@@ -829,6 +1009,14 @@
    "chemin": "p/emrah-yucel.html"
   },
   {
+   "slug": "julien-magitteri",
+   "nom": "Julien Magitteri",
+   "fonction": "Président de SAS",
+   "maison": "come-maison-financiere",
+   "siren": "821960739",
+   "chemin": "p/julien-magitteri.html"
+  },
+  {
    "slug": "guillaume-lucchini",
    "nom": "Guillaume Lucchini",
    "fonction": "Président de SAS",
@@ -981,14 +1169,6 @@
    "chemin": "p/ronan-quere.html"
   },
   {
-   "slug": "remi-douchet",
-   "nom": "Remi Douchet",
-   "fonction": "Membre du conseil de surveillance",
-   "maison": "sapians",
-   "siren": "919330969",
-   "chemin": "p/remi-douchet.html"
-  },
-  {
    "slug": "souleymane-galadima",
    "nom": "Souleymane Galadima",
    "fonction": "Directeur Général",
@@ -1003,38 +1183,6 @@
    "maison": "sapians",
    "siren": "919330969",
    "chemin": "p/pierre-marie-loncle-de-forville.html"
-  },
-  {
-   "slug": "marc-francois-minelli",
-   "nom": "Marc-François Minelli",
-   "fonction": "Membre du conseil de surveillance",
-   "maison": "sapians",
-   "siren": "919330969",
-   "chemin": "p/marc-francois-minelli.html"
-  },
-  {
-   "slug": "jean-baptiste-pracca",
-   "nom": "Jean-Baptiste Pracca",
-   "fonction": "Membre du conseil de surveillance",
-   "maison": "sapians",
-   "siren": "919330969",
-   "chemin": "p/jean-baptiste-pracca.html"
-  },
-  {
-   "slug": "baptiste-saint-martin",
-   "nom": "Baptiste Saint-Martin",
-   "fonction": "Président du conseil de surveillance",
-   "maison": "sapians",
-   "siren": "919330969",
-   "chemin": "p/baptiste-saint-martin.html"
-  },
-  {
-   "slug": "christine-vu",
-   "nom": "Christine Vu",
-   "fonction": "Membre du conseil de surveillance",
-   "maison": "sapians",
-   "siren": "919330969",
-   "chemin": "p/christine-vu.html"
   },
   {
    "slug": "theo-soussan",
@@ -1133,62 +1281,38 @@
    "chemin": "p/yacine-kadri.html"
   },
   {
-   "slug": "olivier-bontoux",
-   "nom": "Olivier Bontoux",
-   "fonction": "Gérant",
-   "maison": "myway-family-office",
-   "siren": "985381250",
-   "chemin": "p/olivier-bontoux.html"
-  },
-  {
-   "slug": "yann-durand",
-   "nom": "Yann Durand",
-   "fonction": "Gérant",
-   "maison": "myway-family-office",
-   "siren": "985381250",
-   "chemin": "p/yann-durand.html"
-  },
-  {
-   "slug": "raphael-kessous",
-   "nom": "Raphaël Kessous",
-   "fonction": "Gérant",
-   "maison": "myway-family-office",
-   "siren": "985381250",
-   "chemin": "p/raphael-kessous.html"
-  },
-  {
    "slug": "benoit-cointe",
    "nom": "Benoît Cointe",
    "fonction": "Président de SAS",
    "maison": "inhestia",
    "siren": "989246509",
    "chemin": "p/benoit-cointe.html"
+  },
+  {
+   "slug": "delphine-morin",
+   "nom": "Delphine Morin",
+   "fonction": "Directeur Général",
+   "maison": "inhestia",
+   "siren": "989246509",
+   "chemin": "p/delphine-morin.html"
+  },
+  {
+   "slug": "julie-treille",
+   "nom": "Julie Treille",
+   "fonction": "Directeur Général",
+   "maison": "inhestia",
+   "siren": "989246509",
+   "chemin": "p/julie-treille.html"
   }
  ],
  "refus": [
   {
-   "personne": "Nadine Gautier (Pommier Jacquot)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
+   "maison": "MyWay Family Office",
+   "motif": "fiche existante revendiquée, vérifiée ou liée à une offre au CRM : non remplacée"
   },
   {
-   "personne": "Florence Estienne (Loze)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
-  },
-  {
-   "personne": "Salome Sfedj (Dahan)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
-  },
-  {
-   "personne": "Ariane Darmon (Solal)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
-  },
-  {
-   "personne": "Delphine Mounier (Morin)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
-  },
-  {
-   "personne": "Julie Cointe (Treille)",
-   "motif": "deux noms au registre, nom professionnel non corroboré"
+   "personne": "Salome Sfedj",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
    "personne": "Didier Bujon",
@@ -1198,5 +1322,6 @@
    "personne": "Joachim Savigny",
    "motif": "personne déjà présente dans les profils publiés : pas de doublon"
   }
- ]
+ ],
+ "retraits": []
 }

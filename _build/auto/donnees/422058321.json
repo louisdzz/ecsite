@@ -1,0 +1,68 @@
+{
+ "nom_usuel": "Groupe Ciec",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81b0adc3db88506aaf2f",
+ "slug_existant": "groupe-ciec",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://ciec.group/mentions-legales/"
+ },
+ "siren": "422058321",
+ "denomination": "GROUPE C.I.E.C.",
+ "nom_complet": "GROUPE C.I.E.C. (CENTRE D'INFORMATION DE L'EPARGNE ET DE LA CAPITALISATION)",
+ "sigle": null,
+ "enseigne": "CENTRE D'INFORMATION DE L'EPARGNE ET DE LA CAPITALISATION",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1999-01-15",
+ "ville": "LEVALLOIS-PERRET",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/422058321",
+ "maj_rne": "2026-09-23T05:57:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "CAMART",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAURICE PIERRE",
+   "nom": "JULLIARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "KILIMLI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/422058321",
+  "numero": "07027961",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "25/07/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://ciec.group/",
+ "site_pages": [
+  "https://ciec.group/",
+  "https://ciec.group/mentions-legales/",
+  "https://ciec.group/mentions-legales/"
+ ],
+ "linkedin": null
+}

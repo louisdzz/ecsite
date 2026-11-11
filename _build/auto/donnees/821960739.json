@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "Côme Maison Financière",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c81899b49cce0e9665160",
+ "slug_existant": "come-maison-financiere",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://comemaisonfinanciere.com/mentions-legales/"
+ },
+ "siren": "821960739",
+ "denomination": "COME, LE FAMILY OFFICE",
+ "nom_complet": "COME, LE FAMILY OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-08-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/821960739",
+ "maj_rne": "2026-10-07T11:48:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "MAGITTERI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/821960739",
+  "numero": "16004946",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "23/09/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/09/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/12/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "16004946": "https://comemaisonfinanciere.com/mentions-legales/"
+ },
+ "site": "https://comemaisonfinanciere.com",
+ "site_pages": [
+  "https://comemaisonfinanciere.com",
+  "https://comemaisonfinanciere.com/2025/09/03/come-ensemble-un-fonds-de-dotation-au-service-de-legalite-des-chances/",
+  "https://comemaisonfinanciere.com/mentions-legales/",
+  "https://comemaisonfinanciere.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/comefinance",
+  "source": "https://comemaisonfinanciere.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://comemaisonfinanciere.com"
+ }
+}

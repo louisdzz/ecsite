@@ -7,10 +7,14 @@ registre ORIAS, site officiel de la maison). Chaque champ affiché porte sa sour
 et sa date de consultation. Un champ sans source reste « Non renseigné ».
 
 Sorties :
-  f/<slug>.html                    maison sans fiche existante
-  annuaire-apercu/f/<slug>.html    aperçu (noindex) pour une maison déjà dotée d'une
-                                   fiche : la fiche existante n'est jamais écrasée
-  p/<slug>.html                    personne dont le rôle est prouvé par le registre
+  f/<slug>.html                    maison sans fiche, ou remplacement d'une fiche existante
+                                   non revendiquée (décision de Louis du 11 novembre 2026).
+                                   L'ancienne version est archivée sous
+                                   _build/auto/historique/f/ avant remplacement. Une fiche
+                                   revendiquée, vérifiée ou liée à une offre au CRM
+                                   (PROTEGES) n'est jamais remplacée.
+  p/<slug>.html                    président, gérant, directeur général ou directeur général
+                                   délégué au registre ; aucun autre mandataire
   _build/auto/manifeste.json       inventaire de ce qui a été généré et des refus
 
 Règles : aucune note, aucun rang, aucune donnée privée du CRM, aucune date de
@@ -33,6 +37,14 @@ CATS = {
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
 PARTICULES = {"de", "du", "des", "le", "la", "d", "van", "von", "den", "der"}
+# Fiches existantes jamais remplacées : offre ou échange Annuaire au CRM (contrôle du 11 novembre 2026).
+PROTEGES = {"myway-family-office", "norman-k"}
+FONCTION_OK = re.compile(r"^(pr[ée]sident(?! du conseil de surveillance)|g[ée]rant|co-?g[ée]rant|directeur g[ée]n[ée]ral)", re.I)
+
+
+def fonction_retenue(q):
+    """Fiche personne seulement pour président, gérant, directeur général (délégué)."""
+    return bool(FONCTION_OK.match((q or "").strip()))
 
 
 def e(s):
@@ -63,10 +75,9 @@ def nom_propre(s):
 
 
 def nom_registre(prenom, nom):
-    m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", nom or "")
-    if m:
-        return "%s %s (%s)" % (nom_propre(prenom), nom_propre(m.group(1)), nom_propre(m.group(2)))
-    return nom_propre((prenom or "") + " " + (nom or ""))
+    # Le nom d'état civil que le registre donne entre parenthèses n'est jamais affiché.
+    nom = re.sub(r"\s*\(.*?\)\s*", " ", nom or "").strip()
+    return nom_propre((prenom or "") + " " + nom)
 
 
 def qualite(q):
@@ -157,8 +168,9 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
             champ("ORIAS", "N° %s%s" % (e(o["numero"]), " · " + e(o["etat"].lower()) if o.get("etat") else ""), src("Registre ORIAS", o["url"], d)),
             ('<ul class="fa-people">%s</ul>%s' % (cats, src("Registre ORIAS", o["url"], d))) if cats else "")
     elif r.get("orias_site"):
-        num, pu = next(iter(r["orias_site"].items()))
-        regl = '<dl class="pv-condition-list">%s</dl><p class="fa-vide">Inscription déclarée par la maison, non retrouvée sous ce SIREN au registre ORIAS lors de la consultation. <a href="https://www.orias.fr/" rel="noopener nofollow" target="_blank">Vérifier sur orias.fr</a></p>' % champ("ORIAS", "N° %s (déclaré par la maison)" % e(num), src("site officiel de la maison", pu, d))
+        # Un numéro publié sur le site peut appartenir à une autre entité (filiale, partenaire) : il n'est pas attribué à ce SIREN.
+        pu = next(iter(r["orias_site"].values()))
+        regl = '<p class="fa-vide">Aucune inscription retrouvée sous ce SIREN au <a href="%s" rel="noopener nofollow" target="_blank">registre ORIAS</a> le %s. Le site de la maison mentionne des inscriptions ORIAS, qui peuvent être portées par d’autres entités.%s</p>' % (e(o.get("url") or "https://www.orias.fr/"), fr_date(d), src("site officiel de la maison", pu, d))
     else:
         regl = '<p class="fa-vide">Aucune inscription retrouvée sous ce SIREN au <a href="%s" rel="noopener nofollow" target="_blank">registre ORIAS</a> le %s. Agrément AMF, barreau ou chambre : non renseigné.</p>' % (e(o.get("url") or "https://www.orias.fr/"), fr_date(d))
 
@@ -182,10 +194,19 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     desc = "%s : fiche générée à partir de sources publiques (registre, ORIAS, site officiel). Rubrique %s de L’Annuaire de l’Exit." % (nom, c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
     av = '<p class="fa-apercu">Aperçu interne · cette maison a déjà une fiche publiée (<a href="/f/%s">/f/%s</a>), qui n’est pas modifiée.</p>' % (slug, slug) if apercu else ""
+    lg = r.get("_logo")
+    if isinstance(lg, dict) and lg.get("src") and os.path.exists(os.path.join(ROOT, lg["src"].lstrip("/"))):
+        logo = '<div class="pv-brand-logo%s"><img alt="" decoding="async" src="%s"/></div>' % (" is-dark" if lg.get("dark") else "", e(lg["src"]))
+    else:
+        logo = '<div aria-hidden="true" class="pv-brand-logo pv-brand-initials">%s</div>' % e(initiales(nom))
+    if r.get("_actus"):
+        activite = '<ul class="fa-people">%s</ul><small class="fa-src">Source : articles de L’Annuaire de l’Exit, chacun avec ses sources</small>' % "".join('<li><b><a href="%s">%s</a></b><span>%s</span></li>' % (e(a["url"]), e(a["titre"]), fr_date(a["date"])) for a in r["_actus"][:8])
+    else:
+        activite = '<p class="fa-vide">Aucune opération ni actualité publique datée n’est rattachée à cette maison dans l’Annuaire à ce jour. Une information absente n’est pas une absence d’activité.</p>'
     liste = "".join('<li><b><a href="/p/%s">%s</a></b><span>%s</span></li>' % (x["slug"], e(x["nom"]), e(x["fonction"])) for x in personnes if x["siren"] == r["siren"] and x.get("slug"))
     body = """<div class="crumb"><a href="/annuaire">L’Annuaire de l’Exit</a> · <a href="/annuaire#{cat}">{label}</a></div>
 <main class="pv-main pv-house-summary fa-main" data-category="{cat}" data-fiche-auto="maison" id="fiche-visuelle">{av}
-<header class="pv-identity"><div class="pv-brand"><div aria-hidden="true" class="pv-brand-logo pv-brand-initials">{ini}</div><div><h1>{nom}</h1><a class="pv-category" href="/annuaire?metier={cat}">{label}</a></div></div></header>
+<header class="pv-identity"><div class="pv-brand">{logo}<div><h1>{nom}</h1><a class="pv-category" href="/annuaire?metier={cat}">{label}</a></div></div></header>
 <p class="fa-bandeau">Fiche générée à partir de sources publiques · non relue par la maison · consultée le {date}</p>
 <div class="pv-information"><div>
 <section aria-labelledby="fa-identite" id="identite"><h2 class="pv-section-title" id="fa-identite">Identité.</h2><dl class="pv-condition-list">{ident}</dl></section>
@@ -193,13 +214,13 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 <section aria-labelledby="fa-statuts" id="statuts"><h2 class="pv-section-title" id="fa-statuts">Statuts réglementaires.</h2>{regl}</section>
 <section aria-labelledby="fa-rubrique" id="rubrique"><h2 class="pv-section-title" id="fa-rubrique">Rubrique et raison du classement.</h2><dl class="pv-condition-list">{rub}{rai}</dl><p class="pv-source-note">{metier} Le référencement identifie un acteur. Il ne vaut ni note ni recommandation, et aucun paiement ne modifie un rang.</p></section>
 <section aria-labelledby="fa-liens" id="liens"><h2 class="pv-section-title" id="fa-liens">Site officiel et LinkedIn.</h2><dl class="pv-condition-list">{liens}</dl></section>
-<section aria-labelledby="fa-activite" id="activite"><h2 class="pv-section-title" id="fa-activite">Activité documentée.</h2><p class="fa-vide">Aucune opération ni actualité publique datée n’est rattachée à cette maison dans l’Annuaire à ce jour. Une information absente n’est pas une absence d’activité.</p></section>
+<section aria-labelledby="fa-activite" id="activite"><h2 class="pv-section-title" id="fa-activite">Activité documentée.</h2>{activite}</section>
 {pers}</div>
 <div><aside aria-labelledby="pv-compare-title" class="pv-compare" id="questions-avant-contact"><p class="pv-compare-label">Avant de prendre contact</p><h2 id="pv-compare-title">Trois questions utiles.</h2><ol>{q}</ol><a class="pv-secondary" href="/annuaire?metier={cat}">Voir les autres acteurs</a></aside>
 <aside aria-labelledby="fa-nr" class="pv-compare fa-nonrenseigne" id="non-renseigne"><p class="pv-compare-label">Non renseigné</p><h2 id="fa-nr">Ce que cette fiche ne dit pas.</h2><ul><li>Spécialités</li><li>Clientèle</li><li>Ticket d’entrée</li><li>Frais</li><li>Équipe</li><li>Entretien</li></ul><p class="fa-cta-q">Vous représentez cette maison ?</p><div class="fa-ctas"><a class="pv-primary" href="{corr}">Corriger gratuitement</a><a class="pv-secondary" href="{verif}">Obtenir la fiche vérifiée</a></div></aside></div></div>
 <div class="pv-bottom"><a href="/annuaire?metier={cat}">Retour à la catégorie</a><p>Le référencement ne vaut pas recommandation de l’Exit Club.</p></div>
 </main>
-""".format(cat=r["categorie"], label=e(c["label"]), av=av, ini=e(initiales(nom)), nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
+""".format(cat=r["categorie"], label=e(c["label"]), av=av, logo=logo, activite=activite, nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
            rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens),
            pers=('<section aria-labelledby="fa-personnes" id="personnes"><h2 class="pv-section-title" id="fa-personnes">Personnes de la maison.</h2><ul class="fa-people">%s</ul></section>' % liste) if liste else "",
            q="".join("<li>%s</li>" % e(x) for x in c["questions"]), corr=corr, verif=verif)
@@ -232,21 +253,74 @@ def fiche_personne(p, r, slug_maison, base_style):
     return h + body + PIED
 
 
+def actualites_par_maison():
+    """Articles déjà publiés sur le site qui citent une maison (lien /f/<slug>)."""
+    out = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "actualites", "*.html"))):
+        h = open(f, encoding="utf-8").read()
+        t = re.search(r'<meta property="og:title" content="([^"]*)"', h)
+        dt = re.search(r'<time datetime="(\d{4}-\d{2}-\d{2})"', h)
+        if not t or not dt:
+            continue
+        for sl in set(re.findall(r'href="/f/([a-z0-9-]+)"', h)):
+            out.setdefault(sl, []).append({"date": dt.group(1), "titre": html.unescape(t.group(1)), "url": "/actualites/" + os.path.basename(f)[:-5]})
+    for v in out.values():
+        v.sort(key=lambda x: x["date"], reverse=True)
+    return out
+
+
+def est_auto(h):
+    return 'data-fiche-auto="maison"' in h
+
+
 def main():
     base_style = re.search(r"<style>(.*?)</style>", open(os.path.join(ROOT, "f", "norman-k.html"), encoding="utf-8").read(), re.S).group(1)
-    existants = {os.path.basename(x)[:-5] for x in glob.glob(os.path.join(ROOT, "f", "*.html"))}
     profils_js = open(os.path.join(ROOT, "assets", "annuaire", "profils.js"), encoding="utf-8").read()
     usuels = json.load(open(os.path.join(AUTO, "noms_usuels.json"), encoding="utf-8")) if os.path.exists(os.path.join(AUTO, "noms_usuels.json")) else []
     usuels = {norm(x): x for x in usuels}
     recs = [json.load(open(x, encoding="utf-8")) for x in sorted(glob.glob(os.path.join(AUTO, "donnees", "[0-9]*.json")))]
-    manifeste = {"maisons": [], "personnes": [], "refus": []}
-    deja_auto = {m["slug"] for m in (json.load(open(os.path.join(AUTO, "manifeste.json"))).get("maisons", []) if os.path.exists(os.path.join(AUTO, "manifeste.json")) else []) if not m["apercu"]}
+    houses = {h["slug"]: h for h in json.load(open(os.path.join(ROOT, "assets", "ecosysteme", "maison", "data.json"), encoding="utf-8"))["houses"]}
+    actus = actualites_par_maison()
+    ancien = json.load(open(os.path.join(AUTO, "manifeste.json"), encoding="utf-8")) if os.path.exists(os.path.join(AUTO, "manifeste.json")) else {"maisons": [], "personnes": []}
+    manifeste = {"maisons": [], "personnes": [], "refus": [], "retraits": []}
 
-    # Personnes : dirigeants personnes physiques du registre. Homonymie entre maisons : pas de fiche.
-    personnes, vus = [], {}
+    # Maisons retenues : actives, slug unique, fiche existante remplaçable.
+    slugs, retenus = {}, []
     for r in recs:
         if not r["actif"]:
+            manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "entité cessée au registre"})
             continue
+        slug = r.get("slug_existant") or slugify(r["nom_usuel"])
+        if slug in slugs:
+            manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "slug en doublon avec " + slugs[slug]})
+            continue
+        dest = os.path.join(ROOT, "f", slug + ".html")
+        remplace = False
+        if os.path.exists(dest):
+            old = open(dest, encoding="utf-8").read()
+            if not est_auto(old):
+                if slug in PROTEGES or "non revendiqué" not in old:
+                    manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "fiche existante revendiquée, vérifiée ou liée à une offre au CRM : non remplacée"})
+                    continue
+                if not r.get("slug_existant"):
+                    manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "slug déjà pris par une autre fiche, rapprochement non établi"})
+                    continue
+                hist = os.path.join(AUTO, "historique", "f", slug + ".html")
+                os.makedirs(os.path.dirname(hist), exist_ok=True)
+                if not os.path.exists(hist):
+                    open(hist, "w", encoding="utf-8").write(old)
+                remplace = True
+            else:
+                remplace = os.path.exists(os.path.join(AUTO, "historique", "f", slug + ".html"))
+        slugs[slug] = r["nom_usuel"]
+        r["_slug"], r["_remplace"] = slug, remplace
+        r["_logo"] = (houses.get(slug) or {}).get("logo") or None
+        r["_actus"] = actus.get(slug, [])
+        retenus.append(r)
+
+    # Personnes : président, gérant, directeur général (délégué) du registre. Homonymie entre maisons : pas de fiche.
+    personnes, vus = [], {}
+    for r in retenus:
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue
@@ -255,20 +329,20 @@ def main():
             fonction = qualite(p["qualite"])
             m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", p["nom"])
             if m:
-                # Le registre donne deux noms (naissance et usage). Le nom professionnel n'est retenu
-                # que s'il est corroboré par une source professionnelle publique ; sinon pas de fiche.
+                # Deux noms au registre : le nom professionnel corroboré par une source publique est retenu,
+                # sinon le nom hors parenthèse. Le nom entre parenthèses n'est jamais affiché.
                 ok = [usuels[norm(prenom + " " + part)] for part in m.groups() if norm(prenom + " " + part) in usuels]
-                if len(ok) != 1:
-                    personnes.append({"cle": cle, "siren": r["siren"], "nom": nom_registre(prenom, p["nom"]), "fonction": fonction, "slug": None})
-                    manifeste["refus"].append({"personne": nom_registre(prenom, p["nom"]), "motif": "deux noms au registre, nom professionnel non corroboré"})
-                    continue
-                nom = ok[0]
+                nom = ok[0] if len(ok) == 1 else nom_propre(prenom + " " + m.group(1))
             else:
                 brut = nom_propre(prenom + " " + p["nom"])
                 nom = usuels.get(norm(brut), brut)
-            x = {"cle": cle, "siren": r["siren"], "nom": nom, "fonction": fonction, "slug": slugify(nom)}
+            incertain = bool(m) and len(ok) != 1
+            x = {"cle": cle, "siren": r["siren"], "nom": nom, "fonction": fonction, "slug": slugify(nom) if fonction_retenue(p["qualite"]) and not incertain else None}
+            if incertain and fonction_retenue(p["qualite"]):
+                manifeste["refus"].append({"personne": nom, "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"})
             personnes.append(x)
-            vus.setdefault(x["slug"], []).append(x)
+            if x["slug"]:
+                vus.setdefault(x["slug"], []).append(x)
     for s, lst in vus.items():
         refus = None
         if len({x["siren"] for x in lst}) > 1 or len(lst) > 1:
@@ -281,32 +355,30 @@ def main():
             manifeste["refus"].append({"personne": lst[0]["nom"], "motif": refus})
 
     os.makedirs(os.path.join(ROOT, "p"), exist_ok=True)
-    os.makedirs(os.path.join(ROOT, "annuaire-apercu", "f"), exist_ok=True)
-    slugs = {}
-    for r in recs:
-        if not r["actif"]:
-            manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "entité cessée au registre"})
-            continue
-        slug = r.get("slug_existant") or slugify(r["nom_usuel"])
-        if slug in slugs:
-            manifeste["refus"].append({"maison": r["nom_usuel"], "motif": "slug en doublon avec " + slugs[slug]})
-            continue
-        slugs[slug] = r["nom_usuel"]
-        apercu = bool(r.get("slug_existant")) or (slug in existants and slug not in deja_auto)
-        r["_slug"], r["_apercu"] = slug, apercu
-    for r in recs:
-        if "_slug" not in r:
-            continue
-        slug, apercu = r["_slug"], r["_apercu"]
-        dest = os.path.join(ROOT, "annuaire-apercu", "f", slug + ".html") if apercu else os.path.join(ROOT, "f", slug + ".html")
-        open(dest, "w", encoding="utf-8").write(fiche_maison(r, slug, apercu, personnes, base_style))
-        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "siren": r["siren"], "apercu": apercu, "chemin": os.path.relpath(dest, ROOT), "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "opposition_prospection": r.get("opposition_prospection")})
+    for r in retenus:
+        slug = r["_slug"]
+        dest = os.path.join(ROOT, "f", slug + ".html")
+        open(dest, "w", encoding="utf-8").write(fiche_maison(r, slug, False, personnes, base_style))
+        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
         for p in personnes:
             if p["siren"] == r["siren"] and p.get("slug"):
                 open(os.path.join(ROOT, "p", p["slug"] + ".html"), "w", encoding="utf-8").write(fiche_personne(p, r, slug, base_style))
                 manifeste["personnes"].append({"slug": p["slug"], "nom": p["nom"], "fonction": p["fonction"], "maison": slug, "siren": r["siren"], "chemin": "p/%s.html" % p["slug"]})
+
+    # Fiches personnes qui ne sont plus produites (autres mandataires, retraits) : supprimées. Aperçus : supprimés.
+    garde = {p["slug"] for p in manifeste["personnes"]}
+    for f in glob.glob(os.path.join(ROOT, "p", "*.html")):
+        sl = os.path.basename(f)[:-5]
+        if sl not in garde and 'data-fiche-auto="personne"' in open(f, encoding="utf-8").read():
+            os.remove(f)
+            manifeste["retraits"].append({"personne": sl, "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"})
+    for f in glob.glob(os.path.join(ROOT, "annuaire-apercu", "f", "*.html")):
+        os.remove(f)
+    for d in (os.path.join(ROOT, "annuaire-apercu", "f"), os.path.join(ROOT, "annuaire-apercu")):
+        if os.path.isdir(d) and not os.listdir(d):
+            os.rmdir(d)
     json.dump(manifeste, open(os.path.join(AUTO, "manifeste.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print("maisons", len(manifeste["maisons"]), "dont aperçus", sum(m["apercu"] for m in manifeste["maisons"]), "· personnes", len(manifeste["personnes"]), "· refus", len(manifeste["refus"]))
+    print("maisons", len(manifeste["maisons"]), "dont remplacements", sum(m["remplace"] for m in manifeste["maisons"]), "· personnes", len(manifeste["personnes"]), "· refus", len(manifeste["refus"]), "· retraits", len(manifeste["retraits"]))
 
 
 if __name__ == "__main__":
