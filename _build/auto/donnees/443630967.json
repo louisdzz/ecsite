@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "VECTIUM",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 06",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/443630967"
+ },
+ "siren": "443630967",
+ "denomination": "VECTIUM",
+ "nom_complet": "VECTIUM (VECTIUM - OPTIFIN CONSEIL)",
+ "sigle": null,
+ "enseigne": "VECTIUM - OPTIFIN CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2002-10-01",
+ "ville": "SALON-DE-PROVENCE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/443630967",
+ "maj_rne": "2026-09-23T13:33:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL CHARLES",
+   "nom": "DAUMARIE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/443630967",
+  "numero": "07003893",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/07/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/443630967"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "FEDERIAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477602940"
+ },
+ "siren": "477602940",
+ "denomination": "FEDERIAL",
+ "nom_complet": "FEDERIAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-06-11",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477602940",
+ "maj_rne": "2026-09-23T18:02:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GERAUD",
+   "nom": "ASSIER DE POMPIGNAN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL PHILIPPE MARIE",
+   "nom": "MAGNAN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/477602940",
+  "numero": "13000400",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/04/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/477602940"
+ }
+}

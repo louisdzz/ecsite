@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "AGENCE MICKAEL BUFFAZ",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/799022702"
+ },
+ "siren": "799022702",
+ "denomination": "AGENCE MICKAEL BUFFAZ",
+ "nom_complet": "AGENCE MICKAEL BUFFAZ (AMB) (AMB)",
+ "sigle": "AMB",
+ "enseigne": "AMB",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-01-02",
+ "ville": "VENISSIEUX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/799022702",
+ "maj_rne": "2026-09-25T00:16:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICKAEL JOSE LOUIS",
+   "nom": "BUFFAZ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC HENRI",
+   "nom": "PACHECO",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/799022702",
+  "numero": "19000944",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/02/2019"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "15/02/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/10/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/799022702"
+ }
+}

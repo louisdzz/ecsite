@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "ISSA PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798235859"
+ },
+ "siren": "798235859",
+ "denomination": "ISSA PATRIMOINE",
+ "nom_complet": "ISSA PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-10-25",
+ "ville": "COLOMIERS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798235859",
+ "maj_rne": "2026-09-24T23:50:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "JULIEN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIK",
+   "nom": "LACAZE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "SKRELA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/798235859",
+  "numero": "14002318",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "17/05/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "11/04/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/03/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/798235859"
+ }
+}

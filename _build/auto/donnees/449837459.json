@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "TREEEFLE INVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 59",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449837459"
+ },
+ "siren": "449837459",
+ "denomination": "TREEEFLE INVEST",
+ "nom_complet": "TREEEFLE INVEST (TREEEFLE INVEST)",
+ "sigle": null,
+ "enseigne": "TREEEFLE INVEST",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2003-09-01",
+ "ville": "VILLENEUVE-D'ASCQ",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449837459",
+ "maj_rne": "2026-09-23T15:49:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE LIONEL",
+   "nom": "CAUCHY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/449837459",
+  "numero": "07009068",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "27/10/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/449837459"
+ }
+}

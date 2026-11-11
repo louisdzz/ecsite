@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "EUROTRADING ET CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 44",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/418659009"
+ },
+ "siren": "418659009",
+ "denomination": "EUROTRADING ET CONSEIL",
+ "nom_complet": "EUROTRADING ET CONSEIL (EUROTRADING ET CONSEIL)",
+ "sigle": null,
+ "enseigne": "EUROTRADING ET CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-03-01",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/418659009",
+ "maj_rne": "2026-09-23T04:31:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AMAURY",
+   "nom": "DE BOTMILIAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARTHUR",
+   "nom": "DE BOTMILIAU",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/418659009",
+  "numero": "07006297",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/03/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/03/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/02/2010"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/418659009"
+ }
+}

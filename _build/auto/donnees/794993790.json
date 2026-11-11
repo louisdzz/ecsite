@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "F C G O- FORMATION CONSEIL EN GESTION ET ORGANISATION",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794993790"
+ },
+ "siren": "794993790",
+ "denomination": "F C G O- FORMATION CONSEIL EN GESTION ET ORGANISATION",
+ "nom_complet": "F C G O- FORMATION CONSEIL EN GESTION ET ORGANISATION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-08-26",
+ "ville": "IZON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794993790",
+ "maj_rne": "2026-09-24T23:18:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTINE",
+   "nom": "ZENOUDA (TISSOT)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AUDREY",
+   "nom": "ZENOUDA",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/794993790",
+  "numero": "14001064",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/03/2019"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "31/01/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/03/2019"
+   },
+   {
+    "code": "ALPSI",
+    "libelle": "Agent lié de prestataire de services d'investissement",
+    "etat": "Supprimé",
+    "date": "12/03/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/794993790"
+ }
+}

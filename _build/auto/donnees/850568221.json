@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "WEELIM",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/850568221"
+ },
+ "siren": "850568221",
+ "denomination": "WEELIM",
+ "nom_complet": "WEELIM (WEELIM & HEILYS GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "WEELIM & HEILYS GESTION PRIVEE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-04-29",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/850568221",
+ "maj_rne": "2026-09-26T01:08:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEREMY JULIEN",
+   "nom": "ORFEO",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MINTSA",
+   "nom": "PETIT-LAMBERT",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/850568221",
+  "numero": "19004224",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/06/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/07/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/850568221"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "SOCIETE BORDELAISE DE GESTION ET D EPREVOYANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/512801309"
+ },
+ "siren": "512801309",
+ "denomination": "SOCIETE BORDELAISE DE GESTION ET D EPREVOYANCE",
+ "nom_complet": "SOCIETE BORDELAISE DE GESTION ET D EPREVOYANCE (S.B.G.P)",
+ "sigle": "S.B.G.P",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2009-07-01",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/512801309",
+ "maj_rne": "2026-09-24T06:43:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARLENE",
+   "nom": "BARBOTEAU-VAZ (BARBOTEAU)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/512801309",
+  "numero": "09050995",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/09/2009"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/07/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/512801309"
+ }
+}

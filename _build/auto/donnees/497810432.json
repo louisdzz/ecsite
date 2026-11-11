@@ -1,0 +1,57 @@
+{
+ "nom_usuel": "FINANCIERE RASPLUS GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 92",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/497810432"
+ },
+ "siren": "497810432",
+ "denomination": "FINANCIERE RASPLUS GESTION PRIVEE",
+ "nom_complet": "FINANCIERE RASPLUS GESTION PRIVEE (FINANCIERE RASPLUS GESTION PRIVEE - FR GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "FINANCIERE RASPLUS GESTION PRIVEE - FR GESTION PRIVEE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-02-01",
+ "ville": "LE PECQ",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/497810432",
+ "maj_rne": "2026-09-24T01:34:37",
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/497810432",
+  "numero": "07033367",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "15/11/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/07/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/497810432"
+ }
+}

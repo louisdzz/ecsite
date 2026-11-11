@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "V.S - CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/497805069"
+ },
+ "siren": "497805069",
+ "denomination": "V.S - CONSEILS",
+ "nom_complet": "V.S - CONSEILS (VS CONSEILS)",
+ "sigle": null,
+ "enseigne": "VS CONSEILS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-04-01",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/497805069",
+ "maj_rne": "2026-09-24T01:34:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOIC PAUL",
+   "nom": "SOUVIGNET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "VIRICEL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/497805069",
+  "numero": "07034800",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/497805069"
+ }
+}

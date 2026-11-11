@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ASG PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751713033"
+ },
+ "siren": "751713033",
+ "denomination": "ASG PATRIMOINE",
+ "nom_complet": "ASG PATRIMOINE (ASG PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ASG PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-05-01",
+ "ville": "GAGNAC-SUR-GARONNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751713033",
+ "maj_rne": "2026-09-24T18:24:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "DI MARTINO",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/751713033",
+  "numero": "14000644",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/01/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/03/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/751713033"
+ }
+}

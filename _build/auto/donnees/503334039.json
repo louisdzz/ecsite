@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "PARCOURS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503334039"
+ },
+ "siren": "503334039",
+ "denomination": "PARCOURS PATRIMOINE",
+ "nom_complet": "PARCOURS PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-01-01",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503334039",
+ "maj_rne": "2026-09-24T03:53:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND BAPTISTE",
+   "nom": "BROTTIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AUDREY SIMONE",
+   "nom": "BROTTIER (CHOW-WING-BOM)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/503334039",
+  "numero": "12068344",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "18/10/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "26/10/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/09/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/503334039"
+ }
+}

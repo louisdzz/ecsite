@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "SARL PHIDEIS CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 06",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492733423"
+ },
+ "siren": "492733423",
+ "denomination": "SARL PHIDEIS CONSEIL",
+ "nom_complet": "SARL PHIDEIS CONSEIL (L'ATELIER D'AMELOT)",
+ "sigle": null,
+ "enseigne": "L'ATELIER D'AMELOT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-11-30",
+ "ville": "MANDELIEU-LA-NAPOULE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492733423",
+ "maj_rne": "2026-09-24T00:07:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CEDRIC",
+   "nom": "COUTURIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492733423",
+  "numero": "13000519",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/11/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/05/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/492733423"
+ }
+}

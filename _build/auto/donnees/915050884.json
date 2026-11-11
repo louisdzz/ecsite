@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "LINAVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 59",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/915050884"
+ },
+ "siren": "915050884",
+ "denomination": "LINAVEST",
+ "nom_complet": "LINAVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-06-24",
+ "ville": "ROUBAIX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/915050884",
+ "maj_rne": "2026-10-20T11:38:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "DUBOIS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE",
+   "nom": "LACROIX",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ADRIEN",
+   "nom": "LHERMITTE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/915050884",
+  "numero": "23000540",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/01/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/915050884"
+ }
+}

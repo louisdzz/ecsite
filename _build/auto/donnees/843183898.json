@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "CAURI PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/843183898"
+ },
+ "siren": "843183898",
+ "denomination": "CAURI PATRIMOINE",
+ "nom_complet": "CAURI PATRIMOINE (CAURI PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "CAURI PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-10-17",
+ "ville": "GRANS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/843183898",
+ "maj_rne": "2026-09-25T21:56:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LYNDA CAROLE",
+   "nom": "CAZILHAC (KASEREKA)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/843183898",
+  "numero": "25004091",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/05/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/06/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/843183898"
+ }
+}

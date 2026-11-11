@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ANTHONY ET CIE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353037849"
+ },
+ "siren": "353037849",
+ "denomination": "ANTHONY ET CIE",
+ "nom_complet": "ANTHONY ET CIE (ANTCO)",
+ "sigle": "ANTCO",
+ "enseigne": "INTERNATIONAL TAX PLANNING WEALTH",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1989-11-27",
+ "ville": "VALBONNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353037849",
+ "maj_rne": "2026-10-28T23:05:52",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "CÔME FINANCES",
+   "siren": "928180553",
+   "qualite": "Président"
+  },
+  {
+   "type": "pm",
+   "denomination": "HRMA HOLDINGS",
+   "siren": "931146526",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/353037849",
+  "numero": "07002168",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/02/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/353037849"
+ }
+}
