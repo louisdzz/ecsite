@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "CONSEIL RETRAITE PREVOYANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 59",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/413444209"
+ },
+ "siren": "413444209",
+ "denomination": "CONSEIL RETRAITE PREVOYANCE",
+ "nom_complet": "CONSEIL RETRAITE PREVOYANCE (HERON CONSEIL - PATRIMOINE ET ASSURANCE) (COREP)",
+ "sigle": "COREP",
+ "enseigne": "HERON CONSEIL - PATRIMOINE ET ASSURANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1997-08-01",
+ "ville": "MARCQ-EN-BARŒUL",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/413444209",
+ "maj_rne": "2026-10-09T17:31:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LUC MARIE",
+   "nom": "DELSOL",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KEVIN FRANCK-LAURENT",
+   "nom": "EPARVIER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MAXIMILIEN",
+   "nom": "VANCAYEZEELE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/413444209",
+  "numero": "07003868",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/03/2021"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/01/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/413444209"
+ }
+}

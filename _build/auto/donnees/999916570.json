@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "TRUSTTT PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 59",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/999916570"
+ },
+ "siren": "999916570",
+ "denomination": "TRUSTTT PATRIMOINE",
+ "nom_complet": "TRUSTTT PATRIMOINE (TRUSTTT)",
+ "sigle": null,
+ "enseigne": "TRUSTTT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-01-15",
+ "ville": "LILLE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/999916570",
+ "maj_rne": "2026-09-28T07:43:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXY JOSEPH CAMILLE CORNEILLE",
+   "nom": "JOURDAIN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/999916570",
+  "numero": "26006361",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/05/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/999916570"
+ }
+}
