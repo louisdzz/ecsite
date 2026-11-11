@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "AUZIRYS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979103157"
+ },
+ "siren": "979103157",
+ "denomination": "AUZIRYS",
+ "nom_complet": "AUZIRYS (AUZIRYS GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "AUZIRYS GESTION PRIVEE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979103157",
+ "maj_rne": "2026-09-27T13:26:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICE LUIGI ALAIN",
+   "nom": "LECLERC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/979103157",
+  "numero": "24000217",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/01/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/979103157"
+ }
+}

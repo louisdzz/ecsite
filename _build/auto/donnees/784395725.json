@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "SOCIETE ANONYME DE TRANSACTIONS ET COURTAGE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784395725"
+ },
+ "siren": "784395725",
+ "denomination": "SOCIETE ANONYME DE TRANSACTIONS ET COURTAGE",
+ "nom_complet": "SOCIETE ANONYME DE TRANSACTIONS ET COURTAGE (SATEC)",
+ "sigle": "SATEC",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1977-01-01",
+ "ville": "LEVALLOIS-PERRET",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784395725",
+ "maj_rne": "2026-09-24T19:52:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "NUTTENS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/784395725",
+  "numero": "07000665",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "13/07/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "MA",
+    "libelle": "Mandataire d'assurance",
+    "etat": "Inscrit",
+    "date": "13/01/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/10/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/784395725"
+ }
+}

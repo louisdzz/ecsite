@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "STRATE CONSEI PATRIM (S.C.P.)",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479875882"
+ },
+ "siren": "479875882",
+ "denomination": "STRATE CONSEI PATRIM (S.C.P.)",
+ "nom_complet": "STRATE CONSEI PATRIM (S.C.P.)",
+ "sigle": null,
+ "enseigne": "K2 PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-01-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479875882",
+ "maj_rne": "2026-09-23T19:13:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "FLAMME",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/479875882",
+  "numero": "07025643",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/06/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/04/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/479875882"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ISR COURTAGE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492823851"
+ },
+ "siren": "492823851",
+ "denomination": "ISR COURTAGE",
+ "nom_complet": "ISR COURTAGE (J'EPARGNE UTILE)",
+ "sigle": null,
+ "enseigne": "J'EPARGNE UTILE",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2006-09-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492823851",
+ "maj_rne": "2026-09-27T06:22:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "BASTIN (ADDE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO CHRISTIAN",
+   "nom": "LACROIX",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pm",
+   "denomination": "SPIRICA",
+   "siren": "487739963",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492823851",
+  "numero": "07028016",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "25/07/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/10/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/492823851"
+ }
+}

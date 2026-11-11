@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "RACINES PRIVATE OFFICE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/107405474"
+ },
+ "siren": "107405474",
+ "denomination": "RACINES PRIVATE OFFICE",
+ "nom_complet": "RACINES PRIVATE OFFICE (RACINES PRIVATE OFFICE) (RPO)",
+ "sigle": "RPO",
+ "enseigne": "RACINES PRIVATE OFFICE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2026-07-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/107405474",
+ "maj_rne": "2026-09-01T20:00:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ENZO ROCCO JEAN",
+   "nom": "GEBEL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/107405474",
+  "numero": "26012642",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/10/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/10/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/107405474"
+ }
+}

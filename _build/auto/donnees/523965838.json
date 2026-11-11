@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "ANATEC",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523965838"
+ },
+ "siren": "523965838",
+ "denomination": "ANATEC",
+ "nom_complet": "ANATEC (ANATEC) (ANATES)",
+ "sigle": "ANATES",
+ "enseigne": "ANATEC",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-07-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523965838",
+ "maj_rne": "2026-09-27T07:04:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAIRE RAYMONDE SIMONE",
+   "nom": "JODRY (CORNIL)",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU",
+   "nom": "GUIGNARD",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RÉMY RAYMOND HENRI DÉSIRÉ",
+   "nom": "LAMBINET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD ERIC",
+   "nom": "PICUT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT BLAISE ALBERT",
+   "nom": "TASSOU",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/523965838",
+  "numero": "15004968",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "25/09/2015"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/02/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/523965838"
+ }
+}

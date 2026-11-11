@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "ADVENIS WEALTH MANAGEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/431974963"
+ },
+ "siren": "431974963",
+ "denomination": "ADVENIS WEALTH MANAGEMENT",
+ "nom_complet": "ADVENIS WEALTH MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2000-06-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/431974963",
+ "maj_rne": "2026-09-28T20:06:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE",
+   "nom": "AMINE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "CHAURY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RODOLPHE",
+   "nom": "MANASTERSKI",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL",
+   "nom": "NAIGEON",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/431974963",
+  "numero": "07003610",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/04/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/09/2017"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "05/07/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/09/2017"
+   },
+   {
+    "code": "ALPSI",
+    "libelle": "Agent lié de prestataire de services d'investissement",
+    "etat": "Supprimé",
+    "date": "17/02/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/431974963"
+ }
+}

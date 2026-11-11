@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "J&G CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/788881381"
+ },
+ "siren": "788881381",
+ "denomination": "J&G CONSEIL",
+ "nom_complet": "J&G CONSEIL (LUMNIS GESTION PRIVEE (LGP))",
+ "sigle": null,
+ "enseigne": "LUMNIS GESTION PRIVEE (LGP)",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-11-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/788881381",
+ "maj_rne": "2026-09-24T20:24:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GEORGES KEITH",
+   "nom": "BASKARADEVAN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE JEAN-FRANÇOIS PIERRE",
+   "nom": "MAZZUCA",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA RACHEL SANDRINE",
+   "nom": "NABET",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HAKIM SALIM",
+   "nom": "SOUANEF",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/788881381",
+  "numero": "12068687",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "24/06/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/11/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/09/2015"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/788881381"
+ }
+}

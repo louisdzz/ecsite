@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "Strat&Fi",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "strat-fi",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 2, 66.19B Paris, 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://stratefi.com/credits-et-mentions-legales/"
+ },
+ "siren": "433325420",
+ "denomination": "STRAT & FI",
+ "nom_complet": "STRAT & FI",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2000-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/433325420",
+ "maj_rne": "2026-09-23T08:59:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "JAUBERT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "LANGE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE THERESE",
+   "nom": "TAUVERON",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/433325420",
+  "numero": "07025674",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/03/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/06/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/03/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://stratefi.com",
+ "site_pages": [
+  "https://stratefi.com",
+  "https://stratefi.com/credits-et-mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/433325420"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://stratefi.com",
+  "consulte_le": "2026-11-11"
+ }
+}

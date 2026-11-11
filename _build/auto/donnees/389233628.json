@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "SOCIETE EUROPEENNE D'ASSURANCES ET DE PLACEMENTS FINANCIERS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389233628"
+ },
+ "siren": "389233628",
+ "denomination": "SOCIETE EUROPEENNE D'ASSURANCES ET DE PLACEMENTS FINANCIERS",
+ "nom_complet": "SOCIETE EUROPEENNE D'ASSURANCES ET DE PLACEMENTS FINANCIERS (SEAPF)",
+ "sigle": "SEAPF",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1992-10-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389233628",
+ "maj_rne": "2026-09-22T21:24:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MALCOLM YANNICK MARC",
+   "nom": "VINCENT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/389233628",
+  "numero": "07005879",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "14/12/2018"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/03/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/10/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/389233628"
+ }
+}

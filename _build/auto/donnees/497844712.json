@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "Fundesys",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "fundesys",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 2, 66.19B Paris, 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.fundesys.com/mentions-legales.aspx"
+ },
+ "siren": "497844712",
+ "denomination": "FUNDESYS",
+ "nom_complet": "FUNDESYS (FUNDESYS)",
+ "sigle": null,
+ "enseigne": "FUNDESYS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-06-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/497844712",
+ "maj_rne": "2026-09-24T01:39:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GERALD",
+   "nom": "GRANT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/497844712",
+  "numero": "13000547",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/09/2013"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.fundesys.com",
+ "site_pages": [
+  "https://www.fundesys.com",
+  "https://www.fundesys.com/mentions-legales.aspx"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/497844712"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.fundesys.com",
+  "consulte_le": "2026-11-11"
+ }
+}

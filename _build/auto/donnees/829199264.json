@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "LA FINANCIERE DE L'AUBRAC",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829199264"
+ },
+ "siren": "829199264",
+ "denomination": "LA FINANCIERE DE L'AUBRAC",
+ "nom_complet": "LA FINANCIERE DE L'AUBRAC (LA FINANCIERE DE L'AUBRAC)",
+ "sigle": null,
+ "enseigne": "LA FINANCIERE DE L'AUBRAC",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-04-19",
+ "ville": "LA GARENNE-COLOMBES",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829199264",
+ "maj_rne": "2026-09-25T14:49:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEVERINE",
+   "nom": "FLOTTES DE POUZOLS (LOURS)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/829199264",
+  "numero": "17003325",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "13/07/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/06/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/06/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/829199264"
+ }
+}

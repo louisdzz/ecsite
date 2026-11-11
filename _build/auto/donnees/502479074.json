@@ -1,0 +1,89 @@
+{
+ "nom_usuel": "Elea Capital",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "elea-capital",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 2, 66.19B Paris, 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.elea-capital.fr/fr"
+ },
+ "siren": "502479074",
+ "denomination": "ELEA CAPITAL",
+ "nom_complet": "ELEA CAPITAL (EC)",
+ "sigle": "EC",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-02-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502479074",
+ "maj_rne": "2026-09-24T03:32:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "HAUMESSER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGO",
+   "nom": "KAISER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/502479074",
+  "numero": "13000595",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "14/12/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "18/12/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.elea-capital.fr/fr",
+ "site_pages": [
+  "https://www.elea-capital.fr/fr",
+  "https://www.elea-capital.fr/fr/mentions-legales",
+  "https://www.elea-capital.fr/fr/mentions-legales",
+  "https://www.elea-capital.fr/fr/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/elea-capital",
+  "source": "https://www.elea-capital.fr/fr"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/502479074"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.elea-capital.fr/fr",
+  "consulte_le": "2026-11-11"
+ }
+}

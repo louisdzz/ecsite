@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "A.2.P. ASSURANCES PATRIMOINE PLACEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507423895"
+ },
+ "siren": "507423895",
+ "denomination": "A.2.P. ASSURANCES PATRIMOINE PLACEMENT",
+ "nom_complet": "A.2.P. ASSURANCES PATRIMOINE PLACEMENT (NEOVESTIS) (A.2.P.)",
+ "sigle": "A.2.P.",
+ "enseigne": "NEOVESTIS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-08-01",
+ "ville": "REIMS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507423895",
+ "maj_rne": "2026-09-29T00:58:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEREMIE ALEXANDRE",
+   "nom": "BENOIT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "DELANGLE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/507423895",
+  "numero": "08044738",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/09/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/507423895"
+ }
+}

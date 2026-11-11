@@ -1,0 +1,81 @@
+{
+ "nom_usuel": "Keen-Finance",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "keen-finance",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 2, 66.19B Paris, 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.keenfinance.com/kf-information-legales/"
+ },
+ "siren": "503708539",
+ "denomination": "KEEN FINANCE",
+ "nom_complet": "KEEN FINANCE (KEEN FINANCE)",
+ "sigle": null,
+ "enseigne": "KEEN FINANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-04-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503708539",
+ "maj_rne": "2026-09-27T02:23:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ABDERRAHIM",
+   "nom": "HAMDANI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/503708539",
+  "numero": "09050419",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/09/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "03/07/2009"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/02/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.keenfinance.com",
+ "site_pages": [
+  "https://www.keenfinance.com",
+  "https://www.keenfinance.com/kf-information-legales/"
+ ],
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/keen-finance",
+  "source": "https://www.keenfinance.com"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/503708539"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.keenfinance.com",
+  "consulte_le": "2026-11-11"
+ }
+}

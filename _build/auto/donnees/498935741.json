@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "GENIUS CAPITAL MANAGEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/498935741"
+ },
+ "siren": "498935741",
+ "denomination": "GENIUS CAPITAL MANAGEMENT",
+ "nom_complet": "GENIUS CAPITAL MANAGEMENT (GENIUS CAPITAL MANAGEMENT)",
+ "sigle": null,
+ "enseigne": "GENIUS CAPITAL MANAGEMENT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-07-01",
+ "ville": "COURBEVOIE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/498935741",
+ "maj_rne": "2026-09-24T02:02:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALI",
+   "nom": "BEKKAY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/498935741",
+  "numero": "16003624",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "24/06/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/06/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/06/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/498935741"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "YCAP PARTNERS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352036792"
+ },
+ "siren": "352036792",
+ "denomination": "YCAP PARTNERS",
+ "nom_complet": "YCAP PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-09-27",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352036792",
+ "maj_rne": "2026-09-28T17:36:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "BÉNITAH",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TOMMASO SALVATORE",
+   "nom": "GALLETTA",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NADÈGE",
+   "nom": "JEANDON",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/352036792",
+  "numero": "07002690",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/03/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/352036792"
+ }
+}

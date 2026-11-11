@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "MAUBOURG FINANCE & ASSURANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810956573"
+ },
+ "siren": "810956573",
+ "denomination": "MAUBOURG FINANCE & ASSURANCE",
+ "nom_complet": "MAUBOURG FINANCE & ASSURANCE (INVESTIRENESPAGNE.FR)",
+ "sigle": null,
+ "enseigne": "INVESTIRENESPAGNE.FR",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-03-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810956573",
+ "maj_rne": "2026-09-25T05:13:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "FONTAN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/810956573",
+  "numero": "22000485",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "14/06/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/01/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/810956573"
+ }
+}

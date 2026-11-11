@@ -29,7 +29,8 @@ for x in ech:
     if a.get("statut_diffusion")!="O": e.append("non diffusible")
     if a.get("nature_juridique")=="1000": e.append("entrepreneur individuel")
     h1=html.unescape(re.search(r"<h1>(.*?)</h1>",h).group(1))
-    if h1!=a["nom_raison_sociale"]: e.append("nom %r/%r"%(h1,a["nom_raison_sociale"]))
+    # Nom affiché : dénomination exacte du registre ; avec un site officiel vérifié sur la fiche, le nom du site est admis s'il ne diffère que par la casse et la ponctuation.
+    if h1!=a["nom_raison_sociale"] and not ("Non renseigné" not in re.search(r'id="liens">(.*?)</section>',h,re.S).group(1).split("LinkedIn")[0] and plat(h1)==plat(a["nom_raison_sociale"])): e.append("nom %r/%r"%(h1,a["nom_raison_sociale"]))
     if "%s %s %s"%(s[:3],s[3:6],s[6:]) not in t: e.append("siren affiché")
     y,mo,d=a["date_creation"].split("-"); dc="%s %s %s"%("1er" if int(d)==1 else int(d),MOIS[int(mo)-1],y)
     if dc not in t: e.append("création "+dc)

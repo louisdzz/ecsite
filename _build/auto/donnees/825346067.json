@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "ZENITH CAPITAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/825346067"
+ },
+ "siren": "825346067",
+ "denomination": "ZENITH CAPITAL",
+ "nom_complet": "ZENITH CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-01-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/825346067",
+ "maj_rne": "2026-09-25T13:08:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN MICHEL JEAN",
+   "nom": "BESANCON",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELOI",
+   "nom": "BREZAC",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "GUYS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-FRANCOIS CHRISTIAN",
+   "nom": "MARTY",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/825346067",
+  "numero": "17001335",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "22/03/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Supprimé",
+    "date": "30/08/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/03/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/825346067"
+ }
+}

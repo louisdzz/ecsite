@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "ALBEA PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751726076"
+ },
+ "siren": "751726076",
+ "denomination": "ALBEA PATRIMOINE",
+ "nom_complet": "ALBEA PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2012-05-18",
+ "ville": "BOIS-COLOMBES",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751726076",
+ "maj_rne": "2026-10-20T15:06:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "BOURGEOIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RENAUD",
+   "nom": "CELIE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE MICHEL",
+   "nom": "LABROSSE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE YVES",
+   "nom": "LE MOINE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MADANI",
+   "nom": "SAFSAF",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BLANDINE",
+   "nom": "CHAGHAL (THIRY)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/751726076",
+  "numero": "12067113",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/07/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/02/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/751726076"
+ }
+}

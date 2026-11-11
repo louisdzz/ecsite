@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "UAF LIFE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/433912516"
+ },
+ "siren": "433912516",
+ "denomination": "UAF LIFE PATRIMOINE",
+ "nom_complet": "UAF LIFE PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2000-12-11",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/433912516",
+ "maj_rne": "2026-09-23T09:28:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JANE ANAID",
+   "nom": "CHAHINIAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES ALAIN",
+   "nom": "DEMONSANT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE JEANINE PATRICIA",
+   "nom": "PERCHEREAU",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "SPIRICA",
+   "siren": "487739963",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/433912516",
+  "numero": "07003268",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/10/2008"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/433912516"
+ }
+}

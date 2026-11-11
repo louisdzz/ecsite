@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "Lussalia",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "lussalia",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 2, 66.19B Paris, 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.lussalia.fr/mentions-legales/"
+ },
+ "siren": "833314867",
+ "denomination": "LUSSALIA",
+ "nom_complet": "LUSSALIA (LUSSALIA)",
+ "sigle": null,
+ "enseigne": "LUSSALIA",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-10-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833314867",
+ "maj_rne": "2026-09-25T17:20:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "AIMARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "SIBAUD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/833314867",
+  "numero": "18000376",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/07/2019"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "25/01/2019"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "28/06/2019"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/02/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/02/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.lussalia.fr",
+ "site_pages": [
+  "https://www.lussalia.fr",
+  "https://www.lussalia.fr/mentions-legales/",
+  "https://www.lussalia.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/833314867"
+ },
+ "nom_source": {
+  "type": "site officiel",
+  "url": "https://www.lussalia.fr",
+  "consulte_le": "2026-11-11"
+ }
+}
