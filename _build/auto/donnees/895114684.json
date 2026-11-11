@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "Beelong Family Office",
+ "categorie": "mfo",
+ "crm": "396523c4e81c812a933ede5b842b3229",
+ "slug_existant": "beelong-family-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://beelongfamily.com/mentions-legales/"
+ },
+ "siren": "895114684",
+ "denomination": "BEELONG FAMILY OFFICE",
+ "nom_complet": "BEELONG FAMILY OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-03-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/895114684",
+ "maj_rne": "2026-10-27T12:27:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIRGINIE",
+   "nom": "DUFFOUR (BOXBERGER)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARLENE",
+   "nom": "ABSI (GIRERD)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/895114684",
+  "numero": "21003326",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "14/06/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "14/06/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/04/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://beelongfamily.com",
+ "site_pages": [
+  "https://beelongfamily.com",
+  "https://beelongfamily.com/mentions-legales/",
+  "https://beelongfamily.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/beelong-family-office",
+  "source": "https://beelongfamily.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://beelongfamily.com"
+ }
+}

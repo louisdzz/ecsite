@@ -1,0 +1,68 @@
+{
+ "nom_usuel": "Stievenart Capital Partners",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8159aa00eb289cc6ea9b",
+ "slug_existant": "stievenart-capital-partners",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.stievenartcapital.com/"
+ },
+ "siren": "933057150",
+ "denomination": "STIEVENART CAPITAL PARTNERS",
+ "nom_complet": "STIEVENART CAPITAL PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-09-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/933057150",
+ "maj_rne": "2026-09-27T20:49:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALBAN GUILLAUME PAUL ACHILLE",
+   "nom": "STIEVENART",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/933057150",
+  "numero": "25000718",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/02/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/01/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.stievenartcapital.com/",
+ "site_pages": [
+  "https://www.stievenartcapital.com/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/stievenart-capital-partners",
+  "source": "https://www.stievenartcapital.com/"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/933057150"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "nom_usuel": "OurFamiliesUp",
+ "categorie": "mfo",
+ "crm": "405523c4e81c8192a83ec762850bb512",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "942660689",
+ "denomination": "OURFAMILIESUP",
+ "nom_complet": "OURFAMILIESUP",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-03-24",
+ "ville": "LA CHAPELLE-SAINT-MESMIN",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942660689",
+ "maj_rne": "2026-10-16T05:10:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "GOUIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "MYRR",
+   "siren": "912663135",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/942660689",
+  "numero": "26009216",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/07/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.familiesup.fr/",
+ "site_pages": [
+  "https://www.familiesup.fr/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/ourfamiliesup",
+  "source": "https://www.familiesup.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « multi family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.familiesup.fr/"
+ }
+}

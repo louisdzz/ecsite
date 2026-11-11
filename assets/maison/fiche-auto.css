@@ -1,0 +1,20 @@
+/* Fiches automatiques de l'Annuaire : compléments au gabarit existant (fiche-visuelle.css). Aucune refonte. */
+.fiche-auto .fa-bandeau{margin:18px 0 34px;padding:11px 16px;border:1px solid #d3d9c4;border-left:3px solid var(--accent,#47621E);border-radius:8px;background:#f1f4e6;font-size:12.5px;line-height:1.5;color:var(--ink,#2A351A)}
+.fiche-auto .fa-apercu{margin:14px 0 0;padding:9px 14px;border:1px dashed #b98a2e;border-radius:8px;background:#fbf3df;font-size:12px;color:#6b4e12}
+.fiche-auto .fa-main section{margin:0 0 38px}
+.fiche-auto .fa-main .pv-information{margin-top:0}
+.fiche-auto .pv-condition-list dd a,.fiche-auto .fa-people a{color:inherit;text-decoration:underline;text-decoration-color:#b9c1a3;text-underline-offset:3px}
+.fiche-auto .fa-src{display:block;margin-top:5px;font-size:10.5px;line-height:1.5;color:var(--muted,#6F7854);font-weight:400}
+.fiche-auto .fa-src a{color:inherit}
+.fiche-auto .fa-people{list-style:none;margin:0;padding:0;border-top:1px solid #dfe3d2}
+.fiche-auto .fa-people li{display:flex;justify-content:space-between;gap:18px;padding:13px 0;border-bottom:1px solid #dfe3d2;font-size:13.5px}
+.fiche-auto .fa-people li b{font-weight:600}
+.fiche-auto .fa-people li span{color:var(--muted,#6F7854);text-align:right;font-size:12.5px}
+.fiche-auto .fa-pm{font-weight:400;color:var(--muted,#6F7854);font-size:12px}
+.fiche-auto .fa-vide{font-size:13px;line-height:1.7;color:var(--muted,#6F7854)}
+.fiche-auto .fa-nonrenseigne{margin-top:22px;background:var(--card,#FCFAF0)}
+.fiche-auto .fa-nonrenseigne ul{margin:14px 0 18px;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:8px 14px;font-size:13px;color:var(--muted,#6F7854)}
+.fiche-auto .fa-nonrenseigne li::before{content:"—";margin-right:8px;color:#b9c1a3}
+.fiche-auto .fa-cta-q{font-size:13px;line-height:1.6;margin:0 0 12px}
+.fiche-auto .fa-ctas{display:flex;flex-direction:column;gap:10px;align-items:flex-start}
+@media(max-width:640px){.fiche-auto .fa-people li{flex-direction:column;gap:3px}.fiche-auto .fa-people li span{text-align:left}}

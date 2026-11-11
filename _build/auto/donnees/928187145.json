@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "Famille Office",
+ "categorie": "mfo",
+ "crm": "404523c4e81c811d97c1e0b3f960e1cb",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://familleoffice.fr/"
+ },
+ "siren": "928187145",
+ "denomination": "FAMILLE OFFICE",
+ "nom_complet": "FAMILLE OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-05-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928187145",
+ "maj_rne": "2026-09-27T18:14:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT",
+   "nom": "CHAUFER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "COQUANTIF",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/928187145",
+  "numero": "24004338",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "08/11/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "24004338": "https://familleoffice.fr/"
+ },
+ "site": "https://familleoffice.fr/",
+ "site_pages": [
+  "https://familleoffice.fr/",
+  "https://familleoffice.fr/mentions-legales/",
+  "https://familleoffice.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/famille-office",
+  "source": "https://familleoffice.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://familleoffice.fr/"
+ }
+}

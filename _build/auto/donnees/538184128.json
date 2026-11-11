@@ -1,0 +1,56 @@
+{
+ "nom_usuel": "Eternam",
+ "categorie": "cgp",
+ "crm": "396523c4e81c812b9c99e29ac214e29e",
+ "slug_existant": "eternam",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.eternam.fr/mentions-legales/"
+ },
+ "siren": "538184128",
+ "denomination": "ETERNAM",
+ "nom_complet": "ETERNAM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-11-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538184128",
+ "maj_rne": "2026-09-29T02:40:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JONATHAN",
+   "nom": "DONIO",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOSE",
+   "nom": "ZARAYA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/538184128",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.eternam.fr/",
+ "site_pages": [
+  "https://www.eternam.fr/",
+  "https://www.eternam.fr/mentions-legales/",
+  "https://www.eternam.fr/informations-reglementaires/",
+  "https://www.eternam.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/eternam-groupecyrus",
+  "source": "https://www.eternam.fr/"
+ }
+}

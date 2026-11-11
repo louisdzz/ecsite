@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "Montaigne Conseil & Patrimoine",
+ "categorie": "cgp",
+ "crm": "3fa523c4e81c81d891d2d66f474ab2f3",
+ "slug_existant": "montaigne-conseil-patrimoine",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://montaignepatrimoine.fr/mentions-legales/"
+ },
+ "siren": "449009703",
+ "denomination": "MONTAIGNE CONSEIL & PATRIMOINE",
+ "nom_complet": "MONTAIGNE CONSEIL & PATRIMOINE (MONTAIGNE PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "MONTAIGNE PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2003-07-02",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449009703",
+ "maj_rne": "2026-08-23T00:56:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOUIS",
+   "nom": "DE FROISSARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/449009703",
+  "numero": "13000352",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/05/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://montaignepatrimoine.fr/",
+ "site_pages": [
+  "https://montaignepatrimoine.fr/",
+  "https://montaignepatrimoine.fr/mentions-legales/",
+  "https://montaignepatrimoine.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/montaigne-patrimoine",
+  "source": "https://montaignepatrimoine.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://montaignepatrimoine.fr/"
+ }
+}

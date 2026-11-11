@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "Perennity",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8110891fc079df036d9b",
+ "slug_existant": "perennity",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://perennity.fr/mentions-legales/"
+ },
+ "siren": "494604309",
+ "denomination": "PERENNITY",
+ "nom_complet": "PERENNITY (PERENNITY)",
+ "sigle": null,
+ "enseigne": "PERENNITY",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-03-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/494604309",
+ "maj_rne": "2026-09-24T01:00:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "LEFEUVRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/494604309",
+  "numero": "08045322",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "23/03/2018"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "25/01/2019"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "29/05/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/10/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/03/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "08045322": "https://perennity.fr/mentions-legales/"
+ },
+ "site": "https://perennity.fr",
+ "site_pages": [
+  "https://perennity.fr",
+  "https://perennity.fr/mentions-legales/",
+  "https://perennity.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/perennity-strategie-et-patrimoine",
+  "source": "https://perennity.fr"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « conseil en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://perennity.fr"
+ }
+}

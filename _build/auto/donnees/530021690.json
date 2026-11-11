@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "Magdae",
+ "categorie": "cgp",
+ "crm": "396523c4e81c813cb001cab0befadfe8",
+ "slug_existant": "magdae",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.magdae.com/mentions-legales"
+ },
+ "siren": "530021690",
+ "denomination": "MAGDAE",
+ "nom_complet": "MAGDAE (MAGDAE)",
+ "sigle": null,
+ "enseigne": "MAGDAE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-01-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "82.99Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/530021690",
+ "maj_rne": "2026-09-24T11:45:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER SERGE LAURENT",
+   "nom": "DUCOURAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-GABRIELLE LOUISE",
+   "nom": "GERAULT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOIC ANDRE LOUIS",
+   "nom": "RONZANI",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/530021690",
+  "inscrit": false
+ },
+ "orias_site": {
+  "08044956": "https://www.magdae.com/informations-reglementaires",
+  "08044109": "https://www.magdae.com/informations-reglementaires"
+ },
+ "site": "https://www.magdae.com",
+ "site_pages": [
+  "https://www.magdae.com",
+  "https://www.magdae.com/mentions-legales",
+  "https://www.magdae.com/informations-reglementaires",
+  "https://www.magdae.com/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/magdaecom",
+  "source": "https://www.magdae.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.magdae.com"
+ }
+}

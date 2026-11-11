@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "Noun Partners",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8119ac74ddb7b85d5469",
+ "slug_existant": "noun-partners",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.noun-partners.com"
+ },
+ "siren": "881558027",
+ "denomination": "NOUN PARTNERS",
+ "nom_complet": "NOUN PARTNERS (NOUN PARTNERS)",
+ "sigle": null,
+ "enseigne": "NOUN PARTNERS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-02-10",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/881558027",
+ "maj_rne": "2026-10-09T18:15:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ABDELMALEK",
+   "nom": "ZIANE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/881558027",
+  "numero": "20002359",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/03/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "20002359": "https://www.noun-partners.com"
+ },
+ "site": "https://www.noun-partners.com",
+ "site_pages": [
+  "https://www.noun-partners.com",
+  "https://www.noun-partners.com/mentions-legales",
+  "https://www.noun-partners.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « conseiller en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.noun-partners.com"
+ }
+}

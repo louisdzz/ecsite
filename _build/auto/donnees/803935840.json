@@ -1,0 +1,102 @@
+{
+ "nom_usuel": "Cheval Blanc Patrimoine",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81ca89c5c5d88f33363b",
+ "slug_existant": "cheval-blanc-patrimoine",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.chevalblanc-patrimoine.fr/"
+ },
+ "siren": "803935840",
+ "denomination": "CHEVAL BLANC PATRIMOINE",
+ "nom_complet": "CHEVAL BLANC PATRIMOINE (CHEVAL BLANC PATRIMOINE, EMPRUNTEZ MIEUX, INVESTISSEZ MIEUX)",
+ "sigle": null,
+ "enseigne": "CHEVAL BLANC PATRIMOINE, EMPRUNTEZ MIEUX, INVESTISSEZ MIEUX",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-08-06",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.92Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/803935840",
+ "maj_rne": "2026-08-31T17:41:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS PASCAL YVES",
+   "nom": "CROMBEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOACHIM PIERRE JOSEPH",
+   "nom": "SAVIGNY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/803935840",
+  "numero": "14005259",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "02/03/2018"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/09/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "14005259": "https://www.chevalblanc-patrimoine.fr/"
+ },
+ "site": "https://www.chevalblanc-patrimoine.fr/",
+ "site_pages": [
+  "https://www.chevalblanc-patrimoine.fr/",
+  "https://www.chevalblanc-patrimoine.fr/mentions-legales/",
+  "https://www.chevalblanc-patrimoine.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/cheval-blanc-patrimoine",
+  "source": "https://www.chevalblanc-patrimoine.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.chevalblanc-patrimoine.fr/"
+ }
+}

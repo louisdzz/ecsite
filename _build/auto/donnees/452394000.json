@@ -1,0 +1,93 @@
+{
+ "nom_usuel": "Sumatra",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8134818cf1bab4d91415",
+ "slug_existant": "sumatra",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://sumatra.fr/mentions-legales/"
+ },
+ "siren": "452394000",
+ "denomination": "SUMATRA PATRIMOINE",
+ "nom_complet": "SUMATRA PATRIMOINE (SUMATRA PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "SUMATRA PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-03-01",
+ "ville": "LA CIOTAT",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452394000",
+ "maj_rne": "2026-09-23T17:09:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "ESTIENNE (LOZE)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DARIOUSH",
+   "nom": "MERY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/452394000",
+  "numero": "07005012",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/03/2013"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/10/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/01/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "07005012": "https://sumatra.fr/mentions-legales/"
+ },
+ "site": "https://sumatra.fr",
+ "site_pages": [
+  "https://sumatra.fr",
+  "https://sumatra.fr/mentions-legales/",
+  "https://sumatra.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/452394000"
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "nom_usuel": "Matrimoine Invest",
+ "categorie": "cgp",
+ "crm": "39f523c4e81c8190bee7cfbfbe88e7e3",
+ "slug_existant": "matrimoine-invest",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "918738550",
+ "denomination": "MATRIMOINE INVEST",
+ "nom_complet": "MATRIMOINE INVEST (MATRIMOINE INVEST)",
+ "sigle": null,
+ "enseigne": "MATRIMOINE INVEST",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-08-11",
+ "ville": "NEUILLY-SUR-SEINE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/918738550",
+ "maj_rne": "2026-09-26T22:23:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SALOME",
+   "nom": "SFEDJ (DAHAN)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/918738550",
+  "numero": "22007393",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "16/12/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/12/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/12/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "22007393": "https://www.matrimoine-invest.com/cgu-cgv"
+ },
+ "site": "https://www.matrimoine-invest.com",
+ "site_pages": [
+  "https://www.matrimoine-invest.com",
+  "https://www.matrimoine-invest.com/cgu-cgv"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.matrimoine-invest.com"
+ }
+}

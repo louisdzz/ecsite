@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "Even FO",
+ "categorie": "mfo",
+ "crm": "396523c4e81c814c9ba8fd716cd94677",
+ "slug_existant": "even-fo",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://even-fo.com/mentions-legales/"
+ },
+ "siren": "811222595",
+ "denomination": "EVEN FO",
+ "nom_complet": "EVEN FO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-04-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/811222595",
+ "maj_rne": "2026-09-25T05:26:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "GUERINEAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMRAH",
+   "nom": "YUCEL",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/811222595",
+  "numero": "16001989",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/04/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "16001989": "https://even-fo.com/"
+ },
+ "site": "https://even-fo.com/",
+ "site_pages": [
+  "https://even-fo.com/",
+  "https://even-fo.com/reglementaire/",
+  "https://even-fo.com/mentions-legales/",
+  "https://even-fo.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://even-fo.com/"
+ }
+}

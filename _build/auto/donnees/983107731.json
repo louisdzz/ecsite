@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "LYNQ Private Office",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c818d8886e03090a19219",
+ "slug_existant": "lynq-private-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://lynqprivateoffice.com/mentions-legales/"
+ },
+ "siren": "983107731",
+ "denomination": "LYNQ PRIVATE OFFICE",
+ "nom_complet": "LYNQ PRIVATE OFFICE (LYNQ)",
+ "sigle": "LYNQ",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-01-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983107731",
+ "maj_rne": "2026-10-03T18:31:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YACINE",
+   "nom": "KADRI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983107731",
+  "numero": "25001048",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://lynqprivateoffice.com",
+ "site_pages": [
+  "https://lynqprivateoffice.com",
+  "https://lynqprivateoffice.com/mentions-legales/",
+  "https://lynqprivateoffice.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://lynqprivateoffice.com"
+ }
+}

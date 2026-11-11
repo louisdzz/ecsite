@@ -1,0 +1,87 @@
+{
+ "nom_usuel": "Letus Private Office",
+ "categorie": "cgp",
+ "crm": "396523c4e81c819fbefedfb957d17de6",
+ "slug_existant": "letus-private-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "822711131",
+ "denomination": "CORIENT PRIVATE OFFICE",
+ "nom_complet": "CORIENT PRIVATE OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-09-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822711131",
+ "maj_rne": "2026-10-13T17:54:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANICE",
+   "nom": "CHLAGOU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHEN",
+   "nom": "LASRY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SACHA",
+   "nom": "LEVY",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "TSOULI-KABATI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/822711131",
+  "numero": "16006878",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/07/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/12/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.letusprivateoffice.com/",
+ "site_pages": [
+  "https://corient.com/us/en",
+  "https://corient.com/us/en/legal"
+ ],
+ "linkedin": {
+  "url": "http://linkedin.com/company/CorientPrivateWealth",
+  "source": "https://corient.com/us/en"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/822711131"
+ }
+}

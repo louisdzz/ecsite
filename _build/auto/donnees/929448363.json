@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "Orkestra Partners",
+ "categorie": "mfo",
+ "crm": "404523c4e81c813abd2ccdd34a49b152",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.orkestra-partners.com/mentions-legales"
+ },
+ "siren": "929448363",
+ "denomination": "ORKESTRA PARTNERS",
+ "nom_complet": "ORKESTRA PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-05-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929448363",
+ "maj_rne": "2026-09-27T18:49:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU",
+   "nom": "PAQUIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/929448363",
+  "numero": "24005452",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "07/03/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "24005452": "https://www.orkestra-partners.com/"
+ },
+ "site": "https://www.orkestra-partners.com/",
+ "site_pages": [
+  "https://www.orkestra-partners.com/",
+  "https://www.orkestra-partners.com/mentions-legales",
+  "https://www.orkestra-partners.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « multi-family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.orkestra-partners.com/"
+ }
+}

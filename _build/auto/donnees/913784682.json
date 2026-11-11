@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "Financière de La Clarté",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81f5af3cc7e0dc5dffb5",
+ "slug_existant": "financiere-de-la-clarte",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.financiere-de-la-clarte.fr/mentions-legales-et-politique-de-confidentialite/"
+ },
+ "siren": "913784682",
+ "denomination": "FINANCIERE DE LA CLARTE",
+ "nom_complet": "FINANCIERE DE LA CLARTE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-05-23",
+ "ville": "GOUESNOU",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913784682",
+ "maj_rne": "2026-09-26T20:35:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU",
+   "nom": "BESCOND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT",
+   "nom": "LE FLANCHEC",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RONAN",
+   "nom": "QUERE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/913784682",
+  "numero": "22005004",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/09/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/09/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "22005004": "https://www.financiere-de-la-clarte.fr/"
+ },
+ "site": "https://www.financiere-de-la-clarte.fr/",
+ "site_pages": [
+  "https://www.financiere-de-la-clarte.fr/",
+  "https://www.financiere-de-la-clarte.fr/mentions-legales-et-politique-de-confidentialite/"
+ ],
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/financiere-de-la-clarte",
+  "source": "https://www.financiere-de-la-clarte.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.financiere-de-la-clarte.fr/"
+ }
+}

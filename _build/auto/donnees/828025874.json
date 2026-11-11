@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "Marquis Family Office",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c8115a382c88c03816eee",
+ "slug_existant": "marquis-family-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://marquisfamilyoffice.fr/mentions-legales/"
+ },
+ "siren": "828025874",
+ "denomination": "MARQUIS FAMILY OFFICE",
+ "nom_complet": "MARQUIS FAMILY OFFICE (MARQUIS FAMILY OFFICE)",
+ "sigle": null,
+ "enseigne": "MARQUIS FAMILY OFFICE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-02-01",
+ "ville": "CESSON-SEVIGNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828025874",
+ "maj_rne": "2026-09-25T13:43:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YUNA",
+   "nom": "MARQUIS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/828025874",
+  "numero": "17002406",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "23/06/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/06/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "17002406": "https://marquisfamilyoffice.fr/mentions-legales/"
+ },
+ "site": "https://marquisfamilyoffice.fr",
+ "site_pages": [
+  "https://marquisfamilyoffice.fr",
+  "https://marquisfamilyoffice.fr/mentions-legales/",
+  "https://marquisfamilyoffice.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://marquisfamilyoffice.fr"
+ }
+}

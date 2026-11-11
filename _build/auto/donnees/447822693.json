@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "Arthus Conseil",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81acaf55c308f60f805c",
+ "slug_existant": "arthus-conseil",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://arthus-conseil.com/mentions-legales/"
+ },
+ "siren": "447822693",
+ "denomination": "ARTHUS CONSEIL",
+ "nom_complet": "ARTHUS CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-04-01",
+ "ville": "BEAUNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/447822693",
+ "maj_rne": "2026-09-23T14:49:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DIDIER MICHEL MARIE BERNARD",
+   "nom": "BUJON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN CYRILLE",
+   "nom": "ITENEY",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/447822693",
+  "numero": "07003020",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "29/05/2026"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/11/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "07003020": "https://arthus-conseil.com/mentions-legales/"
+ },
+ "site": "https://arthus-conseil.com",
+ "site_pages": [
+  "https://arthus-conseil.com",
+  "https://arthus-conseil.com/mentions-legales/",
+  "https://arthus-conseil.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/arthus-conseil",
+  "source": "https://arthus-conseil.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « conseils en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://arthus-conseil.com"
+ }
+}

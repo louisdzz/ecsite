@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "Allure Finance",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81e495efdd3b36d7ef18",
+ "slug_existant": "allure-finance",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.allurefinance.fr/mentions-legales/"
+ },
+ "siren": "521019521",
+ "denomination": "ALLURE FINANCE",
+ "nom_complet": "ALLURE FINANCE (ALLURE FINANCE)",
+ "sigle": null,
+ "enseigne": "ALLURE FINANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-03-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/521019521",
+ "maj_rne": "2026-09-24T08:52:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MALCOLM YANNICK MARC",
+   "nom": "VINCENT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/521019521",
+  "numero": "10054606",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "01/02/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/04/2010"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "31/03/2010"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "10054606": "https://www.allurefinance.fr/mentions-legales/"
+ },
+ "site": "https://www.allurefinance.fr/",
+ "site_pages": [
+  "https://www.allurefinance.fr/",
+  "https://www.allurefinance.fr/mentions-legales/",
+  "https://www.allurefinance.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/allure-finance",
+  "source": "https://www.allurefinance.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « conseil patrimonial » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.allurefinance.fr/"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "nom_usuel": "Elios Patrimoine",
+ "categorie": "mfo",
+ "crm": "404523c4e81c8192b31cf80724e4e7ac",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://eliospatrimoine.fr/"
+ },
+ "siren": "933898298",
+ "denomination": "ELIOS PATRIMOINE",
+ "nom_complet": "ELIOS PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-10-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/933898298",
+ "maj_rne": "2026-09-30T04:40:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YORAM SIMON",
+   "nom": "ELNECAVE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "BFE",
+   "siren": "919047977",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/933898298",
+  "numero": "24008213",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "24008213": "https://eliospatrimoine.fr/"
+ },
+ "site": "https://eliospatrimoine.fr/",
+ "site_pages": [
+  "https://eliospatrimoine.fr/",
+  "https://eliospatrimoine.fr/mentions-legales#confidentialite",
+  "https://eliospatrimoine.fr/mentions-legales#mentions",
+  "https://eliospatrimoine.fr/mentions-legales#rgpd",
+  "https://eliospatrimoine.fr/mentions-legales",
+  "https://eliospatrimoine.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/eliospatrimoine",
+  "source": "https://eliospatrimoine.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « multi family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://eliospatrimoine.fr/"
+ }
+}

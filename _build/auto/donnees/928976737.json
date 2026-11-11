@@ -1,0 +1,63 @@
+{
+ "nom_usuel": "Fleur Family Office",
+ "categorie": "mfo",
+ "crm": "407523c4e81c81b69fd0dbd524442237",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "928976737",
+ "denomination": "FLEUR FAMILY OFFICE",
+ "nom_complet": "FLEUR FAMILY OFFICE (SERIANCE PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "SERIANCE PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-05-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928976737",
+ "maj_rne": "2026-09-30T03:35:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLEUR",
+   "nom": "BOUVIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/928976737",
+  "numero": "24004539",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "13/09/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Dénomination ou enseigne déclarée au registre : « FLEUR FAMILY OFFICE ».",
+  "label": "Annuaire des entreprises (registre)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928976737"
+ }
+}

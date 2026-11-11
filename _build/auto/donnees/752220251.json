@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "Valoria Capital",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81068097e79f9693a30e",
+ "slug_existant": "valoria-capital",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.valoriacapital.fr/mentions-legales"
+ },
+ "siren": "752220251",
+ "denomination": "VALORIA CAPITAL",
+ "nom_complet": "VALORIA CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-06-06",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752220251",
+ "maj_rne": "2026-11-09T17:36:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN",
+   "nom": "LEFEVRE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/752220251",
+  "numero": "12067299",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "08/03/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/07/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/08/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "12067299": "https://www.valoriacapital.fr/mentions-legales",
+  "09051891": "https://www.valoriacapital.fr/mentions-legales",
+  "13002792": "https://www.valoriacapital.fr/mentions-legales",
+  "13000271": "https://www.valoriacapital.fr/mentions-legales"
+ },
+ "site": "https://www.valoriacapital.fr",
+ "site_pages": [
+  "https://www.valoriacapital.fr",
+  "https://www.valoriacapital.fr/mentions-legales",
+  "https://www.valoriacapital.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « gestion privée » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.valoriacapital.fr"
+ }
+}

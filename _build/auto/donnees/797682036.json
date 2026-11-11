@@ -1,0 +1,93 @@
+{
+ "nom_usuel": "Platineos",
+ "categorie": "cgp",
+ "crm": "396523c4e81c819296d1ff1c84c762c2",
+ "slug_existant": "platineos",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.platineos.com/mentions-legales"
+ },
+ "siren": "797682036",
+ "denomination": "PLATINEOS",
+ "nom_complet": "PLATINEOS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/797682036",
+ "maj_rne": "2026-09-24T23:38:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "REGENSBERG",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SAMANTHA",
+   "nom": "ROUACH",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/797682036",
+  "numero": "13009829",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "27/07/2022"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "04/03/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/11/2013"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "04/03/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "31/01/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "13009829": "https://www.platineos.com/mentions-legales"
+ },
+ "site": "https://www.platineos.com/",
+ "site_pages": [
+  "https://www.platineos.com/",
+  "https://www.platineos.com/mentions-legales",
+  "https://www.platineos.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « conseil en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.platineos.com/"
+ }
+}

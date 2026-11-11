@@ -1,0 +1,74 @@
+{
+ "nom_usuel": "Leone Kapital",
+ "categorie": "cgp",
+ "crm": "396523c4e81c816eabd1edcff493c219",
+ "slug_existant": "leone-kapital",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.leone-kapital.com/mentions/"
+ },
+ "siren": "892088204",
+ "denomination": "LEONE KAPITAL",
+ "nom_complet": "LEONE KAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-11-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892088204",
+ "maj_rne": "2026-09-26T09:53:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT MARC",
+   "nom": "EMSALEM",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/892088204",
+  "numero": "21000835",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/02/2021"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/01/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/01/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "21000835": "https://www.leone-kapital.com/mentions/"
+ },
+ "site": "https://www.leone-kapital.com",
+ "site_pages": [
+  "https://www.leone-kapital.com",
+  "https://www.leone-kapital.com/mentions/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.leone-kapital.com"
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "MyWay Family Office",
+ "categorie": "mfo",
+ "crm": "396523c4e81c815c8998ca901508d3ae",
+ "slug_existant": "myway-family-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.myway-fo.fr/mentions-legales"
+ },
+ "siren": "985381250",
+ "denomination": "MYWAY FAMILY OFFICE",
+ "nom_complet": "MYWAY FAMILY OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-03-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/985381250",
+ "maj_rne": "2026-09-27T17:02:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "BONTOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN",
+   "nom": "DURAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RAPHAËL",
+   "nom": "KESSOUS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/985381250",
+  "numero": "24003039",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/04/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "26/04/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/04/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "24003039": "https://www.myway-fo.fr"
+ },
+ "site": "https://www.myway-fo.fr",
+ "site_pages": [
+  "https://www.myway-fo.fr",
+  "https://www.myway-fo.fr/mentions-legales",
+  "https://www.myway-fo.fr/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/myway-family-office",
+  "source": "https://www.myway-fo.fr"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.myway-fo.fr"
+ }
+}

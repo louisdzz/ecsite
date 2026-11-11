@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "MJ & Cie",
+ "categorie": "mfo",
+ "crm": "394523c4e81c81289878c24863f1de0c",
+ "slug_existant": "mj-cie",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://mj-et-cie.com/mentions-legales/"
+ },
+ "siren": "439375536",
+ "denomination": "MJ & CIE",
+ "nom_complet": "MJ & CIE (FMJ)",
+ "sigle": "FMJ",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-09-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439375536",
+ "maj_rne": "2026-09-23T11:20:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "MOLLAT DU JOURDIN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/439375536",
+  "numero": "07004635",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/11/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/04/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "07004635": "https://mj-et-cie.com/mentions-legales/"
+ },
+ "site": "https://mj-et-cie.com/",
+ "site_pages": [
+  "https://mj-et-cie.com/",
+  "https://mj-et-cie.com/mentions-legales/",
+  "https://mj-et-cie.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/mj-&-cie",
+  "source": "https://mj-et-cie.com/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://mj-et-cie.com/"
+ }
+}

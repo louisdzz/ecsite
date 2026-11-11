@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "Ruven Office",
+ "categorie": "mfo",
+ "crm": "404523c4e81c8155bb51ccf3aa9761bf",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.ruven-office.com/mentions-legales/"
+ },
+ "siren": "792052268",
+ "denomination": "RUVEN OFFICE",
+ "nom_complet": "RUVEN OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-03-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792052268",
+ "maj_rne": "2026-09-24T21:49:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "RUVEN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/792052268",
+  "numero": "18000007",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/03/2021"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/03/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/07/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "18000007": "https://www.ruven-office.com/"
+ },
+ "site": "https://www.ruven-office.com/",
+ "site_pages": [
+  "https://www.ruven-office.com/",
+  "https://www.ruven-office.com/mentions-legales/",
+  "https://www.ruven-office.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/ruven-office",
+  "source": "https://www.ruven-office.com/"
+ }
+}

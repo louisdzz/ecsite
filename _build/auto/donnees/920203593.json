@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "Boetie Capital Invest",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c81c89ab5c7a9ed1f6404",
+ "slug_existant": "boetie-capital-invest",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.boetiecapitalinvest.com/mentions-legales/"
+ },
+ "siren": "920203593",
+ "denomination": "BOETIE CAPITAL INVEST",
+ "nom_complet": "BOETIE CAPITAL INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-10-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920203593",
+ "maj_rne": "2026-09-26T23:16:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THEO",
+   "nom": "SOUSSAN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/920203593",
+  "numero": "23001410",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/06/2023"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/07/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "23001410": "https://www.boetiecapitalinvest.com"
+ },
+ "site": "https://www.boetiecapitalinvest.com",
+ "site_pages": [
+  "https://www.boetiecapitalinvest.com",
+  "https://www.boetiecapitalinvest.com/mentions-legales/",
+  "https://www.boetiecapitalinvest.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.boetiecapitalinvest.com"
+ }
+}

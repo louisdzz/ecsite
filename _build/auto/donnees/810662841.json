@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "Altheo Partners",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81c18707cb1d7a922ccf",
+ "slug_existant": "altheo-partners",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.altheopartners.com/mentions-legales"
+ },
+ "siren": "810662841",
+ "denomination": "ALTHEO PARTNERS",
+ "nom_complet": "ALTHEO PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-04-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810662841",
+ "maj_rne": "2026-09-25T05:20:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "BOISSARIE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/810662841",
+  "numero": "15003625",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "04/09/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/06/2015"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/09/2015"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "15003625": "https://www.altheopartners.com/mentions-legales"
+ },
+ "site": "https://www.altheopartners.com/",
+ "site_pages": [
+  "https://www.altheopartners.com/",
+  "https://www.altheopartners.com/mentions-legales",
+  "https://www.altheopartners.com/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/altheo-partners",
+  "source": "https://www.altheopartners.com/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de fortune » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.altheopartners.com/"
+ }
+}

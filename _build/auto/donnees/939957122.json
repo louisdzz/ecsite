@@ -1,0 +1,63 @@
+{
+ "nom_usuel": "AMM FO",
+ "categorie": "mfo",
+ "crm": "407523c4e81c81ff9fd0ddffc7213479",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "939957122",
+ "denomination": "AMM FO",
+ "nom_complet": "AMM FO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-01-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939957122",
+ "maj_rne": "2026-09-27T23:35:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL RAPHAËL",
+   "nom": "SZECOWKA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/939957122",
+  "numero": "25002114",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/03/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/03/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Dénomination ou enseigne déclarée au registre : « AMM FO ».",
+  "label": "Annuaire des entreprises (registre)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939957122"
+ }
+}

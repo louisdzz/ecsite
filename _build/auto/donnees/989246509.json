@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "Inhestia",
+ "categorie": "mfo",
+ "crm": "405523c4e81c81d6b003e4bbcdb03327",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "989246509",
+ "denomination": "INHESTIA",
+ "nom_complet": "INHESTIA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-07-11",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989246509",
+ "maj_rne": "2026-09-28T03:39:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOIT VALENTIN",
+   "nom": "COINTE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE CLÉMENCE",
+   "nom": "MOUNIER (MORIN)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE CHRISTEL MARIE",
+   "nom": "COINTE (TREILLE)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/989246509",
+  "numero": "25009190",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "21/11/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/11/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/11/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.inhestia.fr/",
+ "site_pages": [
+  "https://www.inhestia.fr/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family advisory » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.inhestia.fr/"
+ }
+}

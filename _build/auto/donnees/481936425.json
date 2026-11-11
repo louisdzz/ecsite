@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "Equance",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81b1ac94eb0cff909fbb",
+ "slug_existant": "equance",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.equance.com/mentions-legales/"
+ },
+ "siren": "481936425",
+ "denomination": "EQUANCE SAS",
+ "nom_complet": "EQUANCE SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-05-01",
+ "ville": "MONTPELLIER",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481936425",
+ "maj_rne": "2026-10-16T05:32:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DIDIER MICHEL MARIE-BERNARD",
+   "nom": "BUJON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JACQUES GEORGES",
+   "nom": "GRENON-ANDRIEU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/481936425",
+  "numero": "07004820",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "07/05/2014"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "18/10/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/02/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.equance.com",
+ "site_pages": [
+  "https://www.equance.com",
+  "https://www.equance.com/nos-activites-reglementees/",
+  "https://www.equance.com/nos-activites-reglementees/",
+  "https://www.equance.com/mentions-legales/",
+  "https://www.equance.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/equance",
+  "source": "https://www.equance.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion privée » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.equance.com"
+ }
+}

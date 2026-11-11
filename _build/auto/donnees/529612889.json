@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "Rhetores Finance",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8103a7f3d2a53f372696",
+ "slug_existant": "rhetores-finance",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.rhetores.fr/mentions-legales"
+ },
+ "siren": "529612889",
+ "denomination": "RHETORES FINANCE",
+ "nom_complet": "RHETORES FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-12-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/529612889",
+ "maj_rne": "2026-11-09T13:39:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "RUDZINSKI",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "SOUDJOUKDJIAN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/529612889",
+  "numero": "11060087",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "13/12/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/03/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.rhetores.fr/",
+ "site_pages": [
+  "https://www.rhetores.fr/",
+  "https://www.rhetores.fr/mentions-legales",
+  "https://www.rhetores.fr/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/rhetores-finance",
+  "source": "https://www.rhetores.fr/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « conseil en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.rhetores.fr/"
+ }
+}

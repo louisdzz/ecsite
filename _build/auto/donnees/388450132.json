@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "GSD Gestion",
+ "categorie": "cgp",
+ "crm": "406523c4e81c81929919d46df3480665",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel, mentions légales (relevé au CRM)",
+  "url": null
+ },
+ "siren": "388450132",
+ "denomination": "GSD GESTION",
+ "nom_complet": "GSD GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1992-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.12Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388450132",
+ "maj_rne": "2026-09-22T21:04:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABIENNE",
+   "nom": "GAUTIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES",
+   "nom": "GAUTIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY ROGER MICHEL",
+   "nom": "GAUTIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NADINE YVONNE HELENE EMMA",
+   "nom": "GAUTIER (POMMIER JACQUOT)",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/388450132",
+  "numero": "17004625",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.gsdgestion.com/",
+ "site_pages": [
+  "https://www.gsdgestion.com/",
+  "https://www.gsdgestion.com/informations-legales/",
+  "https://www.gsdgestion.com/mentions-legales/",
+  "https://www.gsdgestion.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/gsd-gestion",
+  "source": "https://www.gsdgestion.com/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion privée » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.gsdgestion.com/"
+ }
+}

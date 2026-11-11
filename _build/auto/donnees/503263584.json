@@ -1,0 +1,63 @@
+{
+ "nom_usuel": "Doxans",
+ "categorie": "cgp",
+ "crm": "396523c4e81c81669a5fef0251b9294d",
+ "slug_existant": "doxans",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.doxans.fr/mentions-legales"
+ },
+ "siren": "503263584",
+ "denomination": "DOXANS",
+ "nom_complet": "DOXANS (DOXANS)",
+ "sigle": null,
+ "enseigne": "DOXANS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-03-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503263584",
+ "maj_rne": "2026-09-24T03:41:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN CHRISTIAN",
+   "nom": "THEUX",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/503263584",
+  "numero": "17005043",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "17005043": "https://www.doxans.fr/mentions-legales"
+ },
+ "site": "https://www.doxans.fr",
+ "site_pages": [
+  "https://www.doxans.fr",
+  "https://www.doxans.fr/mentions-legales",
+  "https://www.doxans.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.doxans.fr"
+ }
+}

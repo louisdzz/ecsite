@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "Laplace",
+ "categorie": "cgp",
+ "crm": "39e523c4e81c81f89a04f00184976d68",
+ "slug_existant": "laplace",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://laplace-groupe.com/mentions-legales"
+ },
+ "siren": "384956884",
+ "denomination": "LAPLACE",
+ "nom_complet": "LAPLACE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1992-03-01",
+ "ville": "MONTPELLIER",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384956884",
+ "maj_rne": "2026-11-06T19:26:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LUC",
+   "nom": "DELSOL",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KEVIN FRANCK-LAURENT",
+   "nom": "EPARVIER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MAXIMILIEN",
+   "nom": "VANCAYEZEELE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/384956884",
+  "numero": "07008017",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "01/02/2013"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "20/09/2019"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/03/2007"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "13/01/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/10/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "07008017": "https://laplace-groupe.com/mentions-legales",
+  "15004965": "https://laplace-groupe.com/mentions-legales",
+  "09048910": "https://laplace-groupe.com/mentions-legales",
+  "07023148": "https://laplace-groupe.com/mentions-legales",
+  "07003662": "https://laplace-groupe.com/mentions-legales",
+  "21010111": "https://laplace-groupe.com/mentions-legales",
+  "08043224": "https://laplace-groupe.com/mentions-legales",
+  "18002273": "https://laplace-groupe.com/mentions-legales",
+  "07003868": "https://laplace-groupe.com/mentions-legales"
+ },
+ "site": "https://laplace-groupe.com/",
+ "site_pages": [
+  "https://laplace-groupe.com/",
+  "https://laplace-groupe.com/mentions-legales",
+  "https://laplace-groupe.com/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/laplace-groupe",
+  "source": "https://laplace-groupe.com/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion privée » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://laplace-groupe.com/"
+ }
+}

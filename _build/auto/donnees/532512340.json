@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "Financière Dioclès",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c81709baaea1979a22a04",
+ "slug_existant": "financiere-diocles",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://financiere-diocles.com/mentions-legales"
+ },
+ "siren": "532512340",
+ "denomination": "FINANCIERE DIOCLES",
+ "nom_complet": "FINANCIERE DIOCLES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-05-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532512340",
+ "maj_rne": "2026-09-24T13:00:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AIME ROMARIN",
+   "nom": "BILLONG",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/532512340",
+  "numero": "11062832",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/09/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/07/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://financiere-diocles.com",
+ "site_pages": [
+  "https://financiere-diocles.com",
+  "https://financiere-diocles.com/mentions-legales",
+  "https://financiere-diocles.com/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/financiere-diocles/about",
+  "source": "https://financiere-diocles.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « multi-family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://financiere-diocles.com"
+ }
+}

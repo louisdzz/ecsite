@@ -1,0 +1,74 @@
+{
+ "nom_usuel": "FOEB Solutions",
+ "categorie": "mfo",
+ "crm": "406523c4e81c816197f2e34d82d1588b",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://foeb.fr/credits-et-mentions-legales/"
+ },
+ "siren": "795008648",
+ "denomination": "FOEB",
+ "nom_complet": "FOEB (FOEB SOLUTIONS)",
+ "sigle": null,
+ "enseigne": "FOEB SOLUTIONS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-08-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/795008648",
+ "maj_rne": "2026-09-24T23:20:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "PIERSON",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/795008648",
+  "numero": "13008978",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "08/03/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "18/10/2013"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "13008978": "https://foeb.fr/"
+ },
+ "site": "https://foeb.fr/",
+ "site_pages": [
+  "https://foeb.fr/",
+  "https://foeb.fr/credits-et-mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://foeb.fr/"
+ }
+}

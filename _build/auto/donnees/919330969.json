@@ -1,0 +1,120 @@
+{
+ "nom_usuel": "Sapians",
+ "categorie": "cgp",
+ "crm": "396523c4e81c8101aaf5d7c1166f703f",
+ "slug_existant": "sapians",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://sapians.com/"
+ },
+ "siren": "919330969",
+ "denomination": "SAPIANS",
+ "nom_complet": "SAPIANS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-08-31",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/919330969",
+ "maj_rne": "2026-10-09T16:27:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI DANIEL FRANCOIS",
+   "nom": "DOUCHET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOULEYMANE JEAN",
+   "nom": "GALADIMA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-MARIE",
+   "nom": "LONCLE DE FORVILLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC-FRANÇOIS",
+   "nom": "MINELLI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE MARTIAL",
+   "nom": "PRACCA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BAPTISTE ROBERT GEORGES",
+   "nom": "SAINT-MARTIN",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARIANE LUCIE JEANNE",
+   "nom": "DARMON (SOLAL)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTINE NGHI-XUAN",
+   "nom": "VU",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/919330969",
+  "numero": "23003561",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "03/04/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/07/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/06/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "23003561": "https://sapians.com/"
+ },
+ "site": "https://sapians.com/",
+ "site_pages": [
+  "https://sapians.com/",
+  "https://sapians.com/mentions-legales",
+  "https://sapians.com/mentions-legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/sapians.com",
+  "source": "https://sapians.com/"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://sapians.com/"
+ }
+}

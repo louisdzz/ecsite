@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "Sagis AM",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c817b84f3cd5345f605c3",
+ "slug_existant": "sagis-am",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://sagis-am.com/mentions-legales/"
+ },
+ "siren": "508305927",
+ "denomination": "SAGIS ASSET MANAGEMENT",
+ "nom_complet": "SAGIS ASSET MANAGEMENT (SAGIS AM)",
+ "sigle": "SAGIS AM",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508305927",
+ "maj_rne": "2026-09-24T05:07:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAYLIS",
+   "nom": "GOSSET-GRAINVILLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MERIADEC TANNEGUY LAURENT CHRISTIAN",
+   "nom": "PORTIER",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/508305927",
+  "numero": "13007902",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "18/10/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/09/2013"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "13007902": "https://sagis-am.com/mentions-legales/"
+ },
+ "site": "https://sagis-am.com",
+ "site_pages": [
+  "https://sagis-am.com",
+  "https://sagis-am.com/mentions-legales/",
+  "https://sagis-am.com/reglementation/",
+  "https://sagis-am.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/sagisam",
+  "source": "https://sagis-am.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://sagis-am.com"
+ }
+}

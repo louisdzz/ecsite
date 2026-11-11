@@ -1,0 +1,63 @@
+{
+ "nom_usuel": "Orion MFO",
+ "categorie": "mfo",
+ "crm": "406523c4e81c81649b34d481ee132c74",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://orionmfo.com/mentions-legales/"
+ },
+ "siren": "934317140",
+ "denomination": "ORION MFO",
+ "nom_complet": "ORION MFO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-10-10",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934317140",
+ "maj_rne": "2026-09-27T21:23:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "CRESSOT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/934317140",
+  "numero": "26004327",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/03/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "26994327": "https://orionmfo.com/mentions-legales/"
+ },
+ "site": "https://orionmfo.com/",
+ "site_pages": [
+  "https://orionmfo.com/",
+  "https://orionmfo.com/mentions-legales/",
+  "https://orionmfo.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « multi-family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://orionmfo.com/"
+ }
+}

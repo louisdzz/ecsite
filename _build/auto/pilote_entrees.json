@@ -1,0 +1,529 @@
+[
+ {
+  "nom": "Inhestia",
+  "siren": "989246509",
+  "site": "https://www.inhestia.fr/",
+  "cat": "mfo",
+  "crm": "405523c4e81c81d6b003e4bbcdb03327"
+ },
+ {
+  "nom": "Ruven Office",
+  "siren": "792052268",
+  "site": "https://www.ruven-office.com/",
+  "cat": "mfo",
+  "crm": "404523c4e81c8155bb51ccf3aa9761bf"
+ },
+ {
+  "nom": "Fleur Family Office",
+  "siren": "928976737",
+  "site": null,
+  "cat": "mfo",
+  "crm": "407523c4e81c81b69fd0dbd524442237"
+ },
+ {
+  "nom": "Orkestra Partners",
+  "siren": "929448363",
+  "site": "https://www.orkestra-partners.com/",
+  "cat": "mfo",
+  "crm": "404523c4e81c813abd2ccdd34a49b152"
+ },
+ {
+  "nom": "AMM FO",
+  "siren": "939957122",
+  "site": null,
+  "cat": "mfo",
+  "crm": "407523c4e81c81ff9fd0ddffc7213479"
+ },
+ {
+  "nom": "SLLFINANCE",
+  "siren": "833233117",
+  "site": "https://sllfinance.fr/",
+  "cat": "mfo",
+  "crm": "404523c4e81c8119aea5ef3f53e12050"
+ },
+ {
+  "nom": "Famille Office",
+  "siren": "928187145",
+  "site": "https://familleoffice.fr/",
+  "cat": "mfo",
+  "crm": "404523c4e81c811d97c1e0b3f960e1cb"
+ },
+ {
+  "nom": "FOEB Solutions",
+  "siren": "795008648",
+  "site": "https://foeb.fr/",
+  "cat": "mfo",
+  "crm": "406523c4e81c816197f2e34d82d1588b"
+ },
+ {
+  "nom": "Elios Patrimoine",
+  "siren": "933898298",
+  "site": "https://eliospatrimoine.fr/",
+  "cat": "mfo",
+  "crm": "404523c4e81c8192b31cf80724e4e7ac"
+ },
+ {
+  "nom": "Orion MFO",
+  "siren": "934317140",
+  "site": "https://orionmfo.com/",
+  "cat": "mfo",
+  "crm": "406523c4e81c81649b34d481ee132c74"
+ },
+ {
+  "nom": "OurFamiliesUp",
+  "siren": "942660689",
+  "site": "https://www.familiesup.fr/",
+  "cat": "mfo",
+  "crm": "405523c4e81c8192a83ec762850bb512"
+ },
+ {
+  "nom": "Amarille",
+  "siren": "939448379",
+  "site": null,
+  "cat": "mfo",
+  "crm": "405523c4e81c813e856ff293e54ab730"
+ },
+ {
+  "nom": "Synapsis Patrimoine",
+  "siren": "908311830",
+  "site": "https://synapsispatrimoine.com/",
+  "cat": "cgp",
+  "crm": "405523c4e81c818fa3bbce63599467fc"
+ },
+ {
+  "nom": "GSD Gestion",
+  "siren": "388450132",
+  "site": "https://www.gsdgestion.com/",
+  "cat": "cgp",
+  "crm": "406523c4e81c81929919d46df3480665"
+ },
+ {
+  "nom": "Leader Strategy",
+  "siren": "529044877",
+  "site": null,
+  "cat": "cgp",
+  "crm": "40d523c4e81c81099254df54ef88183b"
+ },
+ {
+  "nom": "Matrimoine Invest",
+  "siren": "918738550",
+  "site": "https://www.matrimoine-invest.com",
+  "cat": "cgp",
+  "crm": "39f523c4e81c8190bee7cfbfbe88e7e3",
+  "slug_existant": "matrimoine-invest"
+ },
+ {
+  "nom": "Letus Private Office",
+  "siren": "822711131",
+  "site": "https://www.letusprivateoffice.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c819fbefedfb957d17de6",
+  "slug_existant": "letus-private-office"
+ },
+ {
+  "nom": "Bee Family Office",
+  "site": "https://www.bee-family-office.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c81bfa31aed74c29be69d",
+  "slug_existant": "bee-family-office"
+ },
+ {
+  "nom": "Sagis AM",
+  "site": "https://sagis-am.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c817b84f3cd5345f605c3",
+  "slug_existant": "sagis-am"
+ },
+ {
+  "nom": "Aramis Finance",
+  "site": "https://www.aramisfinance.fr",
+  "cat": "mfo",
+  "crm": "39e523c4e81c81b8ba07e611fe7fd047",
+  "slug_existant": "aramis-finance"
+ },
+ {
+  "nom": "Laplace",
+  "site": "https://laplace-groupe.com/",
+  "cat": "cgp",
+  "crm": "39e523c4e81c81f89a04f00184976d68",
+  "slug_existant": "laplace"
+ },
+ {
+  "nom": "Côme Maison Financière",
+  "site": "https://comemaisonfinanciere.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c81899b49cce0e9665160",
+  "slug_existant": "come-maison-financiere"
+ },
+ {
+  "nom": "CG Family Office",
+  "site": "https://www.groupe-cg-patrimoine.fr/",
+  "cat": "mfo",
+  "crm": "39e523c4e81c811b8006c257ea1b3a81",
+  "slug_existant": "cg-family-office"
+ },
+ {
+  "nom": "Meeschaert Family Office",
+  "site": "https://meeschaert.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c819bb0bcee31c49a3873",
+  "slug_existant": "meeschaert-family-office"
+ },
+ {
+  "nom": "Levy Capital",
+  "site": "https://levycapital.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c8140b61ce80d9ba2052e",
+  "slug_existant": "levy-capital"
+ },
+ {
+  "nom": "Senja Partners",
+  "site": "https://www.senja-partners.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c8149b3e1e31af757409e",
+  "slug_existant": "senja-partners"
+ },
+ {
+  "nom": "Edouard 7 Gestion Privée",
+  "site": "https://www.edouard7gestionprivee.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c8150b497c1aed1c80b89",
+  "slug_existant": "edouard-7-gestion-privee"
+ },
+ {
+  "nom": "Pulse Family Office",
+  "site": "https://www.pulse-fo.com/",
+  "cat": "mfo",
+  "crm": "39e523c4e81c812994fce9a1f0bff759",
+  "slug_existant": "pulse-family-office"
+ },
+ {
+  "nom": "Boetie Capital Invest",
+  "site": "https://www.boetiecapitalinvest.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c81c89ab5c7a9ed1f6404",
+  "slug_existant": "boetie-capital-invest"
+ },
+ {
+  "nom": "LYNQ Private Office",
+  "site": "https://lynqprivateoffice.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c818d8886e03090a19219",
+  "slug_existant": "lynq-private-office"
+ },
+ {
+  "nom": "Marquis Family Office",
+  "site": "https://marquisfamilyoffice.fr",
+  "cat": "mfo",
+  "crm": "39e523c4e81c8115a382c88c03816eee",
+  "slug_existant": "marquis-family-office"
+ },
+ {
+  "nom": "MJ & Cie",
+  "site": "https://mj-et-cie.com/",
+  "cat": "mfo",
+  "crm": "394523c4e81c81289878c24863f1de0c",
+  "slug_existant": "mj-cie"
+ },
+ {
+  "nom": "Montaigne Conseil & Patrimoine",
+  "site": "https://montaignepatrimoine.fr/",
+  "cat": "cgp",
+  "crm": "3fa523c4e81c81d891d2d66f474ab2f3",
+  "slug_existant": "montaigne-conseil-patrimoine"
+ },
+ {
+  "nom": "Intuitae",
+  "site": "https://www.intuitae.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c8139830fc97cdddb8e02",
+  "slug_existant": "intuitae-family-office"
+ },
+ {
+  "nom": "Scala Patrimoine",
+  "site": "https://scala-patrimoine.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c81b6b7c1f6dfc0d75235",
+  "slug_existant": "scala-patrimoine"
+ },
+ {
+  "nom": "Xelis Family Office",
+  "site": "https://www.xelisfamilyoffice.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c815dbca9dc245879992d",
+  "slug_existant": "xelis-family-office"
+ },
+ {
+  "nom": "MyWay Family Office",
+  "site": "https://www.myway-fo.fr",
+  "cat": "mfo",
+  "crm": "396523c4e81c815c8998ca901508d3ae",
+  "slug_existant": "myway-family-office"
+ },
+ {
+  "nom": "TRINITY Gestion Privée",
+  "site": "https://www.trinity-gestion.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c81fe9bc0c55aa9b42dbf",
+  "slug_existant": "trinity-gestion-privee"
+ },
+ {
+  "nom": "Arthus Conseil",
+  "site": "https://arthus-conseil.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c81acaf55c308f60f805c",
+  "slug_existant": "arthus-conseil"
+ },
+ {
+  "nom": "Stievenart Capital Partners",
+  "site": "https://www.stievenartcapital.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c8159aa00eb289cc6ea9b",
+  "slug_existant": "stievenart-capital-partners"
+ },
+ {
+  "nom": "Altheo Partners",
+  "site": "https://www.altheopartners.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81c18707cb1d7a922ccf",
+  "slug_existant": "altheo-partners"
+ },
+ {
+  "nom": "Cheval Blanc Patrimoine",
+  "site": "https://www.chevalblanc-patrimoine.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81ca89c5c5d88f33363b",
+  "slug_existant": "cheval-blanc-patrimoine"
+ },
+ {
+  "nom": "Ade-ci Family Office",
+  "site": "https://ade-ci.com/",
+  "cat": "mfo",
+  "crm": "396523c4e81c81a5942bfd43b21ad879",
+  "slug_existant": "ade-ci-family-office"
+ },
+ {
+  "nom": "Kermony Office",
+  "site": "https://kermony-office.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c818f979fe1f8a78312a9",
+  "slug_existant": "kermony-office"
+ },
+ {
+  "nom": "ARUM Gestion Privée",
+  "site": "https://www.arumgestionprivee.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c813bb116ca02e1914d13",
+  "slug_existant": "arum-gestion-privee"
+ },
+ {
+  "nom": "Valoria Capital",
+  "site": "https://www.valoriacapital.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c81068097e79f9693a30e",
+  "slug_existant": "valoria-capital"
+ },
+ {
+  "nom": "HEDON Family Office",
+  "site": "https://www.hedonfamilyoffice.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c810d9602fb3c389b56b4",
+  "slug_existant": "hedon-family-office"
+ },
+ {
+  "nom": "Familiance",
+  "site": "https://www.familiance.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c816cbad4e01a7659bad9",
+  "slug_existant": "familiance"
+ },
+ {
+  "nom": "Sapians",
+  "site": "https://sapians.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c8101aaf5d7c1166f703f",
+  "slug_existant": "sapians"
+ },
+ {
+  "nom": "Even FO",
+  "site": "https://even-fo.com/",
+  "cat": "mfo",
+  "crm": "396523c4e81c814c9ba8fd716cd94677",
+  "slug_existant": "even-fo"
+ },
+ {
+  "nom": "Allure Finance",
+  "site": "https://www.allurefinance.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81e495efdd3b36d7ef18",
+  "slug_existant": "allure-finance"
+ },
+ {
+  "nom": "MIRARI Wealth Management",
+  "site": "https://www.mirari-wm.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81c2bdb4cc4b2a153d55",
+  "slug_existant": "mirari-wealth-management"
+ },
+ {
+  "nom": "Perennity",
+  "site": "https://perennity.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c8110891fc079df036d9b",
+  "slug_existant": "perennity"
+ },
+ {
+  "nom": "Noun Partners",
+  "site": "https://www.noun-partners.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c8119ac74ddb7b85d5469",
+  "slug_existant": "noun-partners"
+ },
+ {
+  "nom": "Beelong Family Office",
+  "site": "https://beelongfamily.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c812a933ede5b842b3229",
+  "slug_existant": "beelong-family-office"
+ },
+ {
+  "nom": "Privassets",
+  "site": "https://privassets.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c819c9bfec4913ede2aaa",
+  "slug_existant": "privassets"
+ },
+ {
+  "nom": "Platineos",
+  "site": "https://www.platineos.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c819296d1ff1c84c762c2",
+  "slug_existant": "platineos"
+ },
+ {
+  "nom": "Pembroke Family Office",
+  "site": "https://www.pembrokefamilyoffice.fr",
+  "cat": "mfo",
+  "crm": "396523c4e81c8101a375f9333291e889",
+  "slug_existant": "pembroke-family-office"
+ },
+ {
+  "nom": "Carat Capital",
+  "site": "https://www.caratcapital.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c813faa0efbe0961a7ceb",
+  "slug_existant": "carat-capital"
+ },
+ {
+  "nom": "Rhetores Finance",
+  "site": "https://www.rhetores.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c8103a7f3d2a53f372696",
+  "slug_existant": "rhetores-finance"
+ },
+ {
+  "nom": "Olifan Group",
+  "site": "https://olifangroup.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c81719b80e380b94f797c",
+  "slug_existant": "olifan-group"
+ },
+ {
+  "nom": "Equance",
+  "site": "https://www.equance.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c81b1ac94eb0cff909fbb",
+  "slug_existant": "equance"
+ },
+ {
+  "nom": "Leone Kapital",
+  "site": "https://www.leone-kapital.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c816eabd1edcff493c219",
+  "slug_existant": "leone-kapital"
+ },
+ {
+  "nom": "Doxans",
+  "site": "https://www.doxans.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c81669a5fef0251b9294d",
+  "slug_existant": "doxans"
+ },
+ {
+  "nom": "Magdae",
+  "site": "https://www.magdae.com",
+  "cat": "cgp",
+  "crm": "396523c4e81c813cb001cab0befadfe8",
+  "slug_existant": "magdae"
+ },
+ {
+  "nom": "Sumatra",
+  "site": "https://sumatra.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c8134818cf1bab4d91415",
+  "slug_existant": "sumatra"
+ },
+ {
+  "nom": "Alpha Phi",
+  "site": "https://alphaphi.fr",
+  "cat": "cgp",
+  "crm": "396523c4e81c81f4a8d3f616c08f6411",
+  "slug_existant": "alpha-phi"
+ },
+ {
+  "nom": "Lyssor",
+  "site": "https://lyssor.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c816cb3e0dbdd3282baca",
+  "slug_existant": "lyssor"
+ },
+ {
+  "nom": "Eternam",
+  "site": "https://www.eternam.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c812b9c99e29ac214e29e",
+  "slug_existant": "eternam"
+ },
+ {
+  "nom": "Aelis Gestion Privée",
+  "site": "https://www.aelis.bzh/",
+  "cat": "cgp",
+  "crm": "396523c4e81c8119a548c1266b4716f5",
+  "slug_existant": "aelis-gestion-privee"
+ },
+ {
+  "nom": "Financière Galilée",
+  "site": "https://www.galilee-am.com/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81759cdde99c2e6f18b0",
+  "slug_existant": "financiere-galilee"
+ },
+ {
+  "nom": "La Rectorie Family Office",
+  "site": "https://www.rectorie.com",
+  "cat": "mfo",
+  "crm": "396523c4e81c813594f5f3e6c5f0429d",
+  "slug_existant": "la-rectorie-family-office"
+ },
+ {
+  "nom": "Financière de La Clarté",
+  "site": "https://www.financiere-de-la-clarte.fr/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81f5af3cc7e0dc5dffb5",
+  "slug_existant": "financiere-de-la-clarte"
+ },
+ {
+  "nom": "Groupe Ciec",
+  "site": "https://ciec.group/",
+  "cat": "cgp",
+  "crm": "396523c4e81c81b0adc3db88506aaf2f",
+  "slug_existant": "groupe-ciec"
+ },
+ {
+  "nom": "Financière Dioclès",
+  "site": "https://financiere-diocles.com",
+  "cat": "mfo",
+  "crm": "39e523c4e81c81709baaea1979a22a04",
+  "slug_existant": "financiere-diocles"
+ }
+]

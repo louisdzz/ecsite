@@ -1,0 +1,53 @@
+{
+ "nom_usuel": "Bee Family Office",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c81bfa31aed74c29be69d",
+ "slug_existant": "bee-family-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.bee-family-office.com/mentions_legales"
+ },
+ "siren": "419218391",
+ "denomination": "BEE FAMILY OFFICE",
+ "nom_complet": "BEE FAMILY OFFICE (BFO)",
+ "sigle": "BFO",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-05-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.20Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/419218391",
+ "maj_rne": "2026-09-28T19:32:56",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "NEXTCAPE SPRL",
+   "siren": null,
+   "qualite": ""
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/419218391",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.bee-family-office.com",
+ "site_pages": [
+  "https://www.bee-family-office.com",
+  "https://www.bee-family-office.com/mentions_legales"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/beefamilyoffice",
+  "source": "https://www.bee-family-office.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.bee-family-office.com"
+ }
+}

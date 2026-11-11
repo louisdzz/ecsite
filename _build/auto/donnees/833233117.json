@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "SLLFINANCE",
+ "categorie": "mfo",
+ "crm": "404523c4e81c8119aea5ef3f53e12050",
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://sllfinance.fr/mentions-legales-sllfinance/"
+ },
+ "siren": "833233117",
+ "denomination": "SLLFINANCE",
+ "nom_complet": "SLLFINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-10-19",
+ "ville": "HERMIVAL-LES-VAUX",
+ "actif": true,
+ "naf": "82.99Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833233117",
+ "maj_rne": "2026-09-25T17:15:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN JEAN ANDRE",
+   "nom": "LE LOUARN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/833233117",
+  "numero": "17006965",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "01/12/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/12/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "17006965": "https://sllfinance.fr/mentions-legales-sllfinance/"
+ },
+ "site": "https://sllfinance.fr/",
+ "site_pages": [
+  "https://sllfinance.fr/",
+  "https://sllfinance.fr/mentions-legales-sllfinance/",
+  "https://sllfinance.fr/mentions-legales-sllfinance/",
+  "https://sllfinance.fr/mentions-legales-sllfinance/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://sllfinance.fr/"
+ }
+}

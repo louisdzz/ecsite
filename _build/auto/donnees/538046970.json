@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "Levy Capital",
+ "categorie": "mfo",
+ "crm": "39e523c4e81c8140b61ce80d9ba2052e",
+ "slug_existant": "levy-capital",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://levycapital.com"
+ },
+ "siren": "538046970",
+ "denomination": "LEVY CAPITAL PARTNERS",
+ "nom_complet": "LEVY CAPITAL PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2011-11-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538046970",
+ "maj_rne": "2026-09-24T14:52:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "LEVY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/538046970",
+  "numero": "13000857",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/06/2013"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/04/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://levycapital.com",
+ "site_pages": [
+  "https://levycapital.com",
+  "https://levycapital.com/mentions-legales/",
+  "https://levycapital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://levycapital.com"
+ }
+}

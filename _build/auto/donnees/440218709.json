@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "Intuitae",
+ "categorie": "mfo",
+ "crm": "396523c4e81c8139830fc97cdddb8e02",
+ "slug_existant": "intuitae-family-office",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.intuitae.com/mentions-legales/"
+ },
+ "siren": "440218709",
+ "denomination": "INTUITAE FRANCE",
+ "nom_complet": "INTUITAE FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-11-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440218709",
+ "maj_rne": "2026-11-09T17:40:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "ACHARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUC",
+   "nom": "GRANGER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/440218709",
+  "numero": "13000316",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "30/04/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/04/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/10/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "13000316": "https://www.intuitae.com/mentions-legales/"
+ },
+ "site": "https://www.intuitae.com",
+ "site_pages": [
+  "https://www.intuitae.com",
+  "https://www.intuitae.com/mentions-legales/",
+  "https://www.intuitae.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/intuitae-family-office",
+  "source": "https://www.intuitae.com"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « family office » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.intuitae.com"
+ }
+}

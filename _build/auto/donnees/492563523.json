@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "Carat Capital",
+ "categorie": "cgp",
+ "crm": "396523c4e81c813faa0efbe0961a7ceb",
+ "slug_existant": "carat-capital",
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.caratcapital.fr/mentions-legales/"
+ },
+ "siren": "492563523",
+ "denomination": "CARAT CAPITAL",
+ "nom_complet": "CARAT CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-10-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492563523",
+ "maj_rne": "2026-09-29T00:06:25",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ALLEN PARTNERS",
+   "siren": "991869322",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492563523",
+  "numero": "07026597",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/02/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/06/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/08/2008"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {
+  "07026597": "https://www.caratcapital.fr/mentions-legales/"
+ },
+ "site": "https://www.caratcapital.fr",
+ "site_pages": [
+  "https://www.caratcapital.fr",
+  "https://www.caratcapital.fr/mentions-legales/",
+  "https://www.caratcapital.fr/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/carat-capital",
+  "source": "https://www.caratcapital.fr"
+ },
+ "raison": {
+  "texte": "La maison emploie le terme « conseil en gestion de patrimoine » sur son site officiel.",
+  "label": "site officiel de la maison",
+  "url": "https://www.caratcapital.fr"
+ }
+}
