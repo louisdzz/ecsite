@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "PATRIMONY CONSULTING",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/895166551"
+ },
+ "siren": "895166551",
+ "denomination": "PATRIMONY CONSULTING",
+ "nom_complet": "PATRIMONY CONSULTING (NOUVELLES RIVES)",
+ "sigle": null,
+ "enseigne": "NOUVELLES RIVES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-03-08",
+ "ville": "MARSEILLE 7",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/895166551",
+ "maj_rne": "2026-10-21T20:32:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SACHA",
+   "nom": "MARSILJ--LINDENMEYER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PACO",
+   "nom": "MORALES",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/895166551",
+  "numero": "21003377",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/04/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/06/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/895166551"
+ }
+}

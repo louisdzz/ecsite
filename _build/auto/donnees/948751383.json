@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "KAIZEN PATRIMONIA",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948751383"
+ },
+ "siren": "948751383",
+ "denomination": "KAIZEN PATRIMONIA",
+ "nom_complet": "KAIZEN PATRIMONIA (KAIZEN PATRIMONIA)",
+ "sigle": null,
+ "enseigne": "KAIZEN PATRIMONIA",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-01-20",
+ "ville": "DECINES-CHARPIEU",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948751383",
+ "maj_rne": "2026-09-27T09:57:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHANTAL",
+   "nom": "DAO HANVICHID (DAO)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/948751383",
+  "numero": "23004884",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/948751383"
+ }
+}

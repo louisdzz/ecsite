@@ -1,6 +1,32 @@
 {
  "maisons": [
   {
+   "slug": "mirek-invest",
+   "nom": "MIREK INVEST",
+   "categorie": "cgp",
+   "siren": "100076512",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mirek-invest.html",
+   "crm": null,
+   "orias": "26002386",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cabinet-pegase",
+   "nom": "CABINET PEGASE",
+   "categorie": "cgp",
+   "siren": "100106871",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-pegase.html",
+   "crm": null,
+   "orias": "26003608",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "true-financial-advisory",
    "nom": "TRUE FINANCIAL ADVISORY",
    "categorie": "cgp",
@@ -196,6 +222,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "unite-patrimoine",
+   "nom": "UNITE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "102039906",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/unite-patrimoine.html",
+   "crm": null,
+   "orias": "26006022",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "leonore",
    "nom": "LEONORE",
    "categorie": "cgp",
@@ -365,6 +404,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "clemenceau-conseil",
+   "nom": "CLEMENCEAU CONSEIL",
+   "categorie": "cgp",
+   "siren": "103376703",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/clemenceau-conseil.html",
+   "crm": null,
+   "orias": "26006277",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "avann",
    "nom": "AVANN",
    "categorie": "cgp",
@@ -430,6 +482,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "torrente-conseils",
+   "nom": "TORRENTE CONSEILS",
+   "categorie": "cgp",
+   "siren": "103772638",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/torrente-conseils.html",
+   "crm": null,
+   "orias": "26008487",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "nao-patrimoine",
    "nom": "NAO PATRIMOINE",
    "categorie": "cgp",
@@ -439,6 +504,19 @@
    "chemin": "f/nao-patrimoine.html",
    "crm": null,
    "orias": "26009612",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "arkana-capital",
+   "nom": "ARKANA CAPITAL",
+   "categorie": "cgp",
+   "siren": "103962007",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/arkana-capital.html",
+   "crm": null,
+   "orias": "26008331",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -469,6 +547,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "financiere-de-la-londe",
+   "nom": "FINANCIERE DE LA LONDE",
+   "categorie": "cgp",
+   "siren": "104325030",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/financiere-de-la-londe.html",
+   "crm": null,
+   "orias": "26008313",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "jrgp",
+   "nom": "JRGP",
+   "categorie": "cgp",
+   "siren": "104402375",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jrgp.html",
+   "crm": null,
+   "orias": "26008518",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "aletheon-investments",
    "nom": "ALETHEON INVESTMENTS",
    "categorie": "cgp",
@@ -491,6 +595,19 @@
    "chemin": "f/domus-equity.html",
    "crm": null,
    "orias": "26012369",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "sensevia-conseil",
+   "nom": "SENSEVIA CONSEIL",
+   "categorie": "cgp",
+   "siren": "104657754",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sensevia-conseil.html",
+   "crm": null,
+   "orias": "26009350",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -573,6 +690,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "levara-patrimoine",
+   "nom": "LEVARA PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "105168629",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/levara-patrimoine.html",
+   "crm": null,
+   "orias": "26010188",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "oriva-wealth-management",
    "nom": "ORIVA WEALTH MANAGEMENT",
    "categorie": "cgp",
@@ -638,6 +768,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "apertio-partners-ii",
+   "nom": "APERTIO PARTNERS II",
+   "categorie": "cgp",
+   "siren": "106261597",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/apertio-partners-ii.html",
+   "crm": null,
+   "orias": "26010970",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "firma-gestion-privee",
+   "nom": "FIRMA GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "106341498",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/firma-gestion-privee.html",
+   "crm": null,
+   "orias": "26010288",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "zenion",
    "nom": "ZENION",
    "categorie": "cgp",
@@ -699,6 +855,32 @@
    "chemin": "f/saint-roch-partners.html",
    "crm": null,
    "orias": "26010316",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "orio-conseil",
+   "nom": "ORIO CONSEIL",
+   "categorie": "cgp",
+   "siren": "107269045",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/orio-conseil.html",
+   "crm": null,
+   "orias": "26011886",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "patrimoine-generation-conseil",
+   "nom": "PATRIMOINE GENERATION CONSEIL",
+   "categorie": "cgp",
+   "siren": "107293276",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/patrimoine-generation-conseil.html",
+   "crm": null,
+   "orias": "26010382",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -781,6 +963,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "sababa-patrimoine",
+   "nom": "SABABA PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "108404252",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sababa-patrimoine.html",
+   "crm": null,
+   "orias": "26012354",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "blackpearl-wealth-management",
    "nom": "BLACKPEARL WEALTH MANAGEMENT",
    "categorie": "cgp",
@@ -829,6 +1024,19 @@
    "chemin": "f/optimal-finance-intl.html",
    "crm": null,
    "orias": "26011878",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "tete-d-or-gestion-privee",
+   "nom": "TETE D OR GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "109154815",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/tete-d-or-gestion-privee.html",
+   "crm": null,
+   "orias": "26011811",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -1691,6 +1899,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "spvie-wealth-management",
+   "nom": "SPVIE WEALTH MANAGEMENT",
+   "categorie": "cgp",
+   "siren": "444303895",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/spvie-wealth-management.html",
+   "crm": null,
+   "orias": "07002492",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "action-patrimoine-conseil",
    "nom": "ACTION PATRIMOINE CONSEIL",
    "categorie": "cgp",
@@ -1756,6 +1977,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "trevaresse-patrimoine",
+   "nom": "TREVARESSE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "448329086",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/trevaresse-patrimoine.html",
+   "crm": null,
+   "orias": "07008083",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "vendome-investissement-conseil",
    "nom": "VENDOME INVESTISSEMENT CONSEIL",
    "categorie": "cgp",
@@ -1808,6 +2042,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cote-gestion-privee",
+   "nom": "COTE GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "449499755",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cote-gestion-privee.html",
+   "crm": null,
+   "orias": "07003003",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "mobilite-finance",
    "nom": "MOBILITE FINANCE",
    "categorie": "cgp",
@@ -1831,6 +2078,32 @@
    "crm": null,
    "orias": "07003092",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lrk",
+   "nom": "LRK",
+   "categorie": "cgp",
+   "siren": "452039548",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lrk.html",
+   "crm": null,
+   "orias": "11062879",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "aldea-patrimoine",
+   "nom": "ALDEA PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "452062631",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aldea-patrimoine.html",
+   "crm": null,
+   "orias": "21002255",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -2510,6 +2783,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "real-patrimoine",
+   "nom": "REAL PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "498027754",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/real-patrimoine.html",
+   "crm": null,
+   "orias": "07034988",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "dp2m-patrimoine",
+   "nom": "DP2M PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "498379635",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dp2m-patrimoine.html",
+   "crm": null,
+   "orias": "07028413",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "family-invest",
    "nom": "FAMILY INVEST",
    "categorie": "cgp",
@@ -2571,6 +2870,32 @@
    "chemin": "f/cabinet-blimbaum-et-associes.html",
    "crm": null,
    "orias": "07032721",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "office-europeen-du-patrimoine-cote-d-azur",
+   "nom": "OFFICE EUROPEEN DU PATRIMOINE COTE D'AZUR",
+   "categorie": "cgp",
+   "siren": "499448066",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-europeen-du-patrimoine-cote-d-azur.html",
+   "crm": null,
+   "orias": "07032834",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cspi",
+   "nom": "CSPI",
+   "categorie": "cgp",
+   "siren": "500434923",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cspi.html",
+   "crm": null,
+   "orias": "10054670",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -2705,6 +3030,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "crea-finances",
+   "nom": "CREA FINANCES",
+   "categorie": "cgp",
+   "siren": "503281933",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/crea-finances.html",
+   "crm": null,
+   "orias": "08042373",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "valority-gestion-privee",
    "nom": "VALORITY GESTION PRIVEE",
    "categorie": "cgp",
@@ -2740,6 +3078,19 @@
    "chemin": "f/patrimoine-et-engagement.html",
    "crm": null,
    "orias": "08044540",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "financea-capital",
+   "nom": "FINANCEA CAPITAL",
+   "categorie": "cgp",
+   "siren": "503851578",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/financea-capital.html",
+   "crm": null,
+   "orias": "09052590",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -2818,6 +3169,19 @@
    "chemin": "f/l-g-f-patrimoine.html",
    "crm": null,
    "orias": "08045590",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "pacific-partners",
+   "nom": "PACIFIC PARTNERS",
+   "categorie": "cgp",
+   "siren": "507739290",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pacific-partners.html",
+   "crm": null,
+   "orias": "20004063",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -2913,6 +3277,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ms-patrimoine",
+   "nom": "MS PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "512933516",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ms-patrimoine.html",
+   "crm": null,
+   "orias": "09051126",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "richemond-conseil-et-finance",
    "nom": "RICHEMOND CONSEIL ET FINANCE",
    "categorie": "cgp",
@@ -2923,6 +3300,19 @@
    "crm": null,
    "orias": "09051109",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "f-i-g-a-fond-d-investissement-gestion-d-actifs",
+   "nom": "F.I.G.A. (FOND D'INVESTISSEMENT & GESTION D'ACTIFS)",
+   "categorie": "cgp",
+   "siren": "513596619",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/f-i-g-a-fond-d-investissement-gestion-d-actifs.html",
+   "crm": null,
+   "orias": "12065257",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -2948,6 +3338,19 @@
    "chemin": "f/septentrion-patrimoine.html",
    "crm": null,
    "orias": "09051395",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "saint-georges-immobilier",
+   "nom": "SAINT GEORGES IMMOBILIER",
+   "categorie": "cgp",
+   "siren": "514617497",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/saint-georges-immobilier.html",
+   "crm": null,
+   "orias": "11060163",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -3030,6 +3433,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "alternative-patrimoine-conseil",
+   "nom": "ALTERNATIVE PATRIMOINE CONSEIL",
+   "categorie": "cgp",
+   "siren": "519250427",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alternative-patrimoine-conseil.html",
+   "crm": null,
+   "orias": "10054752",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "euodia-finance",
+   "nom": "EUODIA FINANCE",
+   "categorie": "cgp",
+   "siren": "519412571",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/euodia-finance.html",
+   "crm": null,
+   "orias": "10055334",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "plu-value-investissements",
    "nom": "PLU VALUE INVESTISSEMENTS",
    "categorie": "cgp",
@@ -3066,6 +3495,19 @@
    "crm": null,
    "orias": "10055132",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "beauharnais-patrimoine",
+   "nom": "BEAUHARNAIS PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "520840034",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/beauharnais-patrimoine.html",
+   "crm": null,
+   "orias": "10055302",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -3118,6 +3560,19 @@
    "crm": null,
    "orias": "10056324",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "autrement-finance",
+   "nom": "AUTREMENT FINANCE",
+   "categorie": "cgp",
+   "siren": "522809573",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/autrement-finance.html",
+   "crm": null,
+   "orias": "11059430",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -3225,6 +3680,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "reponse-patrimoine",
+   "nom": "REPONSE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "524958170",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/reponse-patrimoine.html",
+   "crm": null,
+   "orias": "15000760",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "asato",
    "nom": "ASATO",
    "categorie": "cgp",
@@ -3316,6 +3784,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ethic-capital",
+   "nom": "ETHIC CAPITAL",
+   "categorie": "cgp",
+   "siren": "529423725",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ethic-capital.html",
+   "crm": null,
+   "orias": "13003511",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "rhetores-finance",
    "nom": "Rhétorès Finance",
    "categorie": "cgp",
@@ -3326,6 +3807,19 @@
    "crm": "396523c4e81c8103a7f3d2a53f372696",
    "orias": "11060087",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "palais-de-la-finance",
+   "nom": "PALAIS DE LA FINANCE",
+   "categorie": "cgp",
+   "siren": "529836611",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/palais-de-la-finance.html",
+   "crm": null,
+   "orias": "11060570",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -3433,6 +3927,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "2r-associes",
+   "nom": "2R ASSOCIES",
+   "categorie": "cgp",
+   "siren": "532784824",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/2r-associes.html",
+   "crm": null,
+   "orias": "11062549",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "matmut-patrimoine",
    "nom": "MATMUT PATRIMOINE",
    "categorie": "cgp",
@@ -3468,6 +3975,19 @@
    "chemin": "f/opale-gestion-privee.html",
    "crm": null,
    "orias": "16005423",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "gemini-investment",
+   "nom": "GEMINI INVESTMENT",
+   "categorie": "cgp",
+   "siren": "533451365",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/gemini-investment.html",
+   "crm": null,
+   "orias": "11062726",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -3602,6 +4122,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cgf",
+   "nom": "CGF",
+   "categorie": "cgp",
+   "siren": "537796583",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cgf.html",
+   "crm": null,
+   "orias": "12065367",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "etoro-patrimoine-sas",
    "nom": "ETORO PATRIMOINE SAS",
    "categorie": "cgp",
@@ -3677,6 +4210,19 @@
    "crm": null,
    "orias": "12064972",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "xcellis-invest",
+   "nom": "XCELLIS INVEST.",
+   "categorie": "cgp",
+   "siren": "539253294",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/xcellis-invest.html",
+   "crm": null,
+   "orias": "12065882",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -4018,6 +4564,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "aka-patrimoine",
+   "nom": "AKA PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "790482426",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aka-patrimoine.html",
+   "crm": null,
+   "orias": "14001076",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "equity-gestion",
    "nom": "EQUITY GESTION",
    "categorie": "cgp",
@@ -4262,6 +4821,32 @@
    "crm": null,
    "orias": "14000914",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "scm-conseil",
+   "nom": "SCM CONSEIL",
+   "categorie": "cgp",
+   "siren": "799669007",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/scm-conseil.html",
+   "crm": null,
+   "orias": "14001439",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "dupond-meyer-languedoc-roussillon",
+   "nom": "DUPOND-MEYER LANGUEDOC-ROUSSILLON",
+   "categorie": "cgp",
+   "siren": "799787908",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dupond-meyer-languedoc-roussillon.html",
+   "crm": null,
+   "orias": "14002438",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -4564,6 +5149,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "latitudes-patrimoine",
+   "nom": "LATITUDES PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "812391126",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/latitudes-patrimoine.html",
+   "crm": null,
+   "orias": "15004581",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "capavenir-experts-patrimoine",
    "nom": "CAPAVENIR EXPERTS & PATRIMOINE",
    "categorie": "cgp",
@@ -4651,6 +5249,19 @@
    "chemin": "f/epargne-plurielle.html",
    "crm": null,
    "orias": "16003696",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "feodus-finance",
+   "nom": "FEODUS FINANCE",
+   "categorie": "cgp",
+   "siren": "817502750",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/feodus-finance.html",
+   "crm": null,
+   "orias": "16001299",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -4837,6 +5448,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "j10-participation",
+   "nom": "J10 PARTICIPATION",
+   "categorie": "cgp",
+   "siren": "820591634",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/j10-participation.html",
+   "crm": null,
+   "orias": "22005213",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "kampostrategie",
+   "nom": "KAMPOSTRATEGIE",
+   "categorie": "cgp",
+   "siren": "821121142",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kampostrategie.html",
+   "crm": null,
+   "orias": "16005083",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "optimum-epargne",
    "nom": "OPTIMUM EPARGNE",
    "categorie": "cgp",
@@ -4993,6 +5630,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ect-patrimoine-croissance",
+   "nom": "ECT PATRIMOINE CROISSANCE",
+   "categorie": "cgp",
+   "siren": "823718069",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ect-patrimoine-croissance.html",
+   "crm": null,
+   "orias": "17000139",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "artha-gestion-privee",
    "nom": "ARTHA GESTION PRIVEE",
    "categorie": "cgp",
@@ -5084,6 +5734,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "avisio-gestion-privee",
+   "nom": "AVISIO GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "824971881",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/avisio-gestion-privee.html",
+   "crm": null,
+   "orias": "17001639",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "zenith-capital",
    "nom": "ZENITH CAPITAL",
    "categorie": "cgp",
@@ -5119,6 +5782,19 @@
    "chemin": "f/mutatis-invest.html",
    "crm": null,
    "orias": "17002513",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cap-sud-conseil",
+   "nom": "CAP SUD CONSEIL",
+   "categorie": "cgp",
+   "siren": "827778069",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cap-sud-conseil.html",
+   "crm": null,
+   "orias": "17001817",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5201,6 +5877,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "france-conseils-patrimoine",
+   "nom": "FRANCE CONSEILS PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "828857425",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/france-conseils-patrimoine.html",
+   "crm": null,
+   "orias": "17004376",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "synalp-fontainebleau",
    "nom": "SYNALP FONTAINEBLEAU",
    "categorie": "cgp",
@@ -5224,6 +5913,19 @@
    "crm": null,
    "orias": "17003325",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "thierry-de-beaujon-conseil",
+   "nom": "THIERRY DE BEAUJON CONSEIL",
+   "categorie": "cgp",
+   "siren": "829489152",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/thierry-de-beaujon-conseil.html",
+   "crm": null,
+   "orias": "17003555",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -5266,6 +5968,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "lfg-patrimoine",
+   "nom": "LFG PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "831064548",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lfg-patrimoine.html",
+   "crm": null,
+   "orias": "18000674",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "g-fy-credit",
    "nom": "G FY CREDIT",
    "categorie": "cgp",
@@ -5288,6 +6003,19 @@
    "chemin": "f/eko-patrimoine.html",
    "crm": null,
    "orias": "17005417",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "management-consulting-family-patrimoine",
+   "nom": "MANAGEMENT CONSULTING FAMILY PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "832026249",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/management-consulting-family-patrimoine.html",
+   "crm": null,
+   "orias": "18003191",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5327,6 +6055,32 @@
    "chemin": "f/consilium-family.html",
    "crm": null,
    "orias": "17006597",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "ns-conseil-patrimoine",
+   "nom": "NS CONSEIL - PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "832843056",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ns-conseil-patrimoine.html",
+   "crm": null,
+   "orias": "17006643",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lagune-holding",
+   "nom": "LAGUNE HOLDING",
+   "categorie": "cgp",
+   "siren": "833029028",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lagune-holding.html",
+   "crm": null,
+   "orias": "17007418",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5444,6 +6198,32 @@
    "chemin": "f/egide-capital.html",
    "crm": null,
    "orias": "18001507",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fipatex",
+   "nom": "FIPATEX",
+   "categorie": "cgp",
+   "siren": "838256857",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fipatex.html",
+   "crm": null,
+   "orias": "18002524",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "apc-ambition-patrimoine-conseils",
+   "nom": "APC - AMBITION PATRIMOINE CONSEILS",
+   "categorie": "cgp",
+   "siren": "840686661",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/apc-ambition-patrimoine-conseils.html",
+   "crm": null,
+   "orias": "18005656",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5578,6 +6358,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "rs-immo-conseils",
+   "nom": "RS IMMO CONSEILS",
+   "categorie": "cgp",
+   "siren": "843943093",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rs-immo-conseils.html",
+   "crm": null,
+   "orias": "18008311",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "elegance-patrimoine",
+   "nom": "ELEGANCE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "844185892",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elegance-patrimoine.html",
+   "crm": null,
+   "orias": "19000029",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "inpact-europe",
    "nom": "INPACT EUROPE",
    "categorie": "cgp",
@@ -5669,6 +6475,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "as2c-patrimoine",
+   "nom": "AS2C PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "847749819",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/as2c-patrimoine.html",
+   "crm": null,
+   "orias": "24002282",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "family-office-business-services-courtage",
    "nom": "FAMILY OFFICE BUSINESS SERVICES COURTAGE",
    "categorie": "cgp",
@@ -5678,6 +6497,19 @@
    "chemin": "f/family-office-business-services-courtage.html",
    "crm": null,
    "orias": "19001986",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "birs-conseil",
+   "nom": "BIRS CONSEIL",
+   "categorie": "cgp",
+   "siren": "848169413",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/birs-conseil.html",
+   "crm": null,
+   "orias": "19001771",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5747,6 +6579,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "etic-gestion-privee",
+   "nom": "ETIC GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "848862470",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/etic-gestion-privee.html",
+   "crm": null,
+   "orias": "19003220",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "invest-am",
    "nom": "INVEST AM",
    "categorie": "cgp",
@@ -5756,6 +6601,19 @@
    "chemin": "f/invest-am.html",
    "crm": null,
    "orias": "19004543",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lnb-patrimonia",
+   "nom": "LNB PATRIMONIA",
+   "categorie": "cgp",
+   "siren": "849011879",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lnb-patrimonia.html",
+   "crm": null,
+   "orias": "19002668",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -5786,6 +6644,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "camep-cabinet-alexandre-musso-d-expertises-patrimoniales",
+   "nom": "CAMEP (CABINET ALEXANDRE MUSSO D'EXPERTISES PATRIMONIALES)",
+   "categorie": "cgp",
+   "siren": "851130310",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/camep-cabinet-alexandre-musso-d-expertises-patrimoniales.html",
+   "crm": null,
+   "orias": "19005119",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "holoes-conseil",
    "nom": "HOLOES CONSEIL",
    "categorie": "cgp",
@@ -5809,6 +6680,19 @@
    "crm": null,
    "orias": "19005017",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "a-g-invest",
+   "nom": "A&G INVEST",
+   "categorie": "cgp",
+   "siren": "851723718",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/a-g-invest.html",
+   "crm": null,
+   "orias": "19006734",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -5851,6 +6735,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "athanor",
+   "nom": "ATHANOR",
+   "categorie": "cgp",
+   "siren": "852383751",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/athanor.html",
+   "crm": null,
+   "orias": "19005866",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "vaugirard-patrimoine",
    "nom": "VAUGIRARD PATRIMOINE",
    "categorie": "cgp",
@@ -5861,6 +6758,19 @@
    "crm": null,
    "orias": "19006780",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "blp-conseil-patrimoine",
+   "nom": "BLP CONSEIL & PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "853382091",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/blp-conseil-patrimoine.html",
+   "crm": null,
+   "orias": "20008801",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -5900,6 +6810,19 @@
    "crm": null,
    "orias": "20005124",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "kalita",
+   "nom": "KALITA",
+   "categorie": "cgp",
+   "siren": "853749356",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kalita.html",
+   "crm": null,
+   "orias": "20004190",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -6111,6 +7034,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "alpha-cgp",
+   "nom": "ALPHA CGP",
+   "categorie": "cgp",
+   "siren": "881106520",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alpha-cgp.html",
+   "crm": null,
+   "orias": "20005221",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "ambacia-patrimoine",
    "nom": "AMBACIA PATRIMOINE",
    "categorie": "cgp",
@@ -6176,6 +7112,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "rquietude",
+   "nom": "RQUIETUDE",
+   "categorie": "cgp",
+   "siren": "882017304",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rquietude.html",
+   "crm": null,
+   "orias": "20002680",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "baobab-patrimoine-conseil",
    "nom": "BAOBAB PATRIMOINE CONSEIL",
    "categorie": "cgp",
@@ -6198,6 +7147,19 @@
    "chemin": "f/audicer-family.html",
    "crm": null,
    "orias": "20003658",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fl-gestion-patrimoniale",
+   "nom": "FL GESTION PATRIMONIALE",
+   "categorie": "cgp",
+   "siren": "882865645",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fl-gestion-patrimoniale.html",
+   "crm": null,
+   "orias": "20007617",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6241,6 +7203,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "borel-patrimoine",
+   "nom": "BOREL PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "884230616",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/borel-patrimoine.html",
+   "crm": null,
+   "orias": "20006160",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "kne-france",
    "nom": "KNE FRANCE",
    "categorie": "cgp",
@@ -6250,6 +7225,19 @@
    "chemin": "f/kne-france.html",
    "crm": null,
    "orias": "21001576",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "nath-invest",
+   "nom": "NATH'INVEST",
+   "categorie": "cgp",
+   "siren": "884385253",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nath-invest.html",
+   "crm": null,
+   "orias": "20005358",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6264,6 +7252,19 @@
    "crm": "407523c4e81c818f9760e968e1101df5",
    "orias": "20006229",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "morgon-phi",
+   "nom": "MORGON PHI",
+   "categorie": "cgp",
+   "siren": "884752502",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/morgon-phi.html",
+   "crm": null,
+   "orias": "20007971",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -6293,6 +7294,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "maison-mazaeff",
+   "nom": "MAISON MAZAEFF",
+   "categorie": "cgp",
+   "siren": "887624286",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maison-mazaeff.html",
+   "crm": null,
+   "orias": "23005674",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "mon-partenaire-patrimoine",
    "nom": "MON PARTENAIRE PATRIMOINE",
    "categorie": "cgp",
@@ -6315,6 +7329,19 @@
    "chemin": "f/pulse-family-office.html",
    "crm": "39e523c4e81c812994fce9a1f0bff759",
    "orias": "20007324",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "sapiens-wm",
+   "nom": "SAPIENS WM",
+   "categorie": "cgp",
+   "siren": "887753523",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sapiens-wm.html",
+   "crm": null,
+   "orias": "21000297",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6605,6 +7632,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "altus-consultants-patrimoine",
+   "nom": "ALTUS CONSULTANTS PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "892336447",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/altus-consultants-patrimoine.html",
+   "crm": null,
+   "orias": "21001474",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "wisely-groupe",
    "nom": "WISELY GROUPE",
    "categorie": "cgp",
@@ -6640,6 +7680,19 @@
    "chemin": "f/siimba.html",
    "crm": null,
    "orias": "21001032",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "courtier-4c",
+   "nom": "COURTIER 4C",
+   "categorie": "cgp",
+   "siren": "893080119",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/courtier-4c.html",
+   "crm": null,
+   "orias": "21001720",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -6705,6 +7758,19 @@
    "chemin": "f/beelong-family-office.html",
    "crm": "396523c4e81c812a933ede5b842b3229",
    "orias": "21003326",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "patrimony-consulting",
+   "nom": "PATRIMONY CONSULTING",
+   "categorie": "cgp",
+   "siren": "895166551",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/patrimony-consulting.html",
+   "crm": null,
+   "orias": "21003377",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6800,6 +7866,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "althima-consulting",
+   "nom": "ALTHIMA CONSULTING",
+   "categorie": "cgp",
+   "siren": "899738082",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/althima-consulting.html",
+   "crm": null,
+   "orias": "21005652",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "l-observatoire-financier",
+   "nom": "L'OBSERVATOIRE FINANCIER",
+   "categorie": "cgp",
+   "siren": "900077637",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/l-observatoire-financier.html",
+   "crm": null,
+   "orias": "21006214",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "apc-partners",
    "nom": "APC PARTNERS",
    "categorie": "cgp",
@@ -6809,6 +7901,19 @@
    "chemin": "f/apc-partners.html",
    "crm": null,
    "orias": "22000200",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "alturea-investissement",
+   "nom": "ALTUREA INVESTISSEMENT",
+   "categorie": "cgp",
+   "siren": "900303488",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alturea-investissement.html",
+   "crm": null,
+   "orias": "21005992",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6848,6 +7953,19 @@
    "chemin": "f/aestia.html",
    "crm": null,
    "orias": "21006374",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lb-conseil",
+   "nom": "LB CONSEIL",
+   "categorie": "cgp",
+   "siren": "901091793",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lb-conseil.html",
+   "crm": null,
+   "orias": "22001521",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -6943,6 +8061,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "blue-velvet-patrimoine",
+   "nom": "BLUE VELVET PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "902927995",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/blue-velvet-patrimoine.html",
+   "crm": null,
+   "orias": "21008639",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "lodi-gestion-privee",
    "nom": "LODI GESTION PRIVEE",
    "categorie": "cgp",
@@ -6982,6 +8113,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "nmdinvest",
+   "nom": "NMDINVEST",
+   "categorie": "cgp",
+   "siren": "903343341",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nmdinvest.html",
+   "crm": null,
+   "orias": "21009736",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "auz-gestion-privee",
+   "nom": "AUZ GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "903458396",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/auz-gestion-privee.html",
+   "crm": null,
+   "orias": "22001397",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "framatong-cgp",
    "nom": "FRAMATONG CGP",
    "categorie": "cgp",
@@ -6991,6 +8148,32 @@
    "chemin": "f/framatong-cgp.html",
    "crm": null,
    "orias": "21009697",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cmgp",
+   "nom": "CMGP",
+   "categorie": "cgp",
+   "siren": "903715852",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cmgp.html",
+   "crm": null,
+   "orias": "22000389",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "amvedag-croissance",
+   "nom": "AMVEDAG CROISSANCE",
+   "categorie": "cgp",
+   "siren": "903890564",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/amvedag-croissance.html",
+   "crm": null,
+   "orias": "23007055",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -7047,6 +8230,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "veama-patrimoine-assurances",
+   "nom": "VEAMA PATRIMOINE & ASSURANCES",
+   "categorie": "cgp",
+   "siren": "905213138",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/veama-patrimoine-assurances.html",
+   "crm": null,
+   "orias": "22000576",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "valdaine-patrimoine",
+   "nom": "VALDAINE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "905281424",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/valdaine-patrimoine.html",
+   "crm": null,
+   "orias": "22002933",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "ekko",
    "nom": "EKKO",
    "categorie": "cgp",
@@ -7057,6 +8266,19 @@
    "crm": null,
    "orias": "21010108",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "actifs-partners-invest",
+   "nom": "ACTIFS PARTNERS INVEST",
+   "categorie": "cgp",
+   "siren": "907711519",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/actifs-partners-invest.html",
+   "crm": null,
+   "orias": "23000920",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -7112,6 +8334,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "serines-patrimoine",
+   "nom": "SERINES PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "908318314",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/serines-patrimoine.html",
+   "crm": null,
+   "orias": "22002255",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "not-for-turning-investments",
+   "nom": "NOT FOR TURNING INVESTMENTS",
+   "categorie": "cgp",
+   "siren": "908349806",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/not-for-turning-investments.html",
+   "crm": null,
+   "orias": "22001643",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "racine-patrimoine",
    "nom": "RACINE PATRIMOINE",
    "categorie": "cgp",
@@ -7151,6 +8399,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cg-patrimonia",
+   "nom": "CG PATRIMONIA",
+   "categorie": "cgp",
+   "siren": "909171209",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cg-patrimonia.html",
+   "crm": null,
+   "orias": "22002202",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "scar-consulting",
+   "nom": "SCAR CONSULTING",
+   "categorie": "cgp",
+   "siren": "909338139",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/scar-consulting.html",
+   "crm": null,
+   "orias": "22003794",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "entropi-patrimoine",
    "nom": "ENTROPI PATRIMOINE",
    "categorie": "cgp",
@@ -7160,6 +8434,19 @@
    "chemin": "f/entropi-patrimoine.html",
    "crm": null,
    "orias": "22002117",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "3am-patrimoine",
+   "nom": "3AM PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "909730194",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/3am-patrimoine.html",
+   "crm": null,
+   "orias": "22002140",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -7190,6 +8477,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "numeris-patrimoine",
+   "nom": "NUMERIS PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "910204858",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/numeris-patrimoine.html",
+   "crm": null,
+   "orias": "22003231",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "atis-conseils-et-patrimoine",
+   "nom": "ATIS CONSEILS ET PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "910249697",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/atis-conseils-et-patrimoine.html",
+   "crm": null,
+   "orias": "22002196",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "fair-e-courtage",
    "nom": "FAIR/E COURTAGE",
    "categorie": "cgp",
@@ -7216,6 +8529,45 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ficodev-ingenierie-financiere",
+   "nom": "FICODEV INGENIERIE FINANCIERE",
+   "categorie": "cgp",
+   "siren": "911053643",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ficodev-ingenierie-financiere.html",
+   "crm": null,
+   "orias": "23002053",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "comment-bien-investir",
+   "nom": "COMMENT BIEN INVESTIR",
+   "categorie": "cgp",
+   "siren": "911354777",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comment-bien-investir.html",
+   "crm": null,
+   "orias": "22004462",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "reinach-gestion-privee",
+   "nom": "REINACH GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "911990273",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/reinach-gestion-privee.html",
+   "crm": null,
+   "orias": "22003230",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "erbe-family-office",
    "nom": "ERBE FAMILY OFFICE",
    "categorie": "cgp",
@@ -7226,6 +8578,19 @@
    "crm": null,
    "orias": "24001201",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "ad-vidam",
+   "nom": "AD VIDAM",
+   "categorie": "cgp",
+   "siren": "912805504",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ad-vidam.html",
+   "crm": null,
+   "orias": "25008242",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -7242,6 +8607,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "demeter-gestion-privee",
+   "nom": "DEMETER GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "913025771",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/demeter-gestion-privee.html",
+   "crm": null,
+   "orias": "22005837",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "alain-sauzey-conseils",
    "nom": "ALAIN SAUZEY CONSEILS",
    "categorie": "cgp",
@@ -7252,6 +8630,19 @@
    "crm": null,
    "orias": "22004406",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "roca-patrimoine",
+   "nom": "ROCA PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "913574828",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/roca-patrimoine.html",
+   "crm": null,
+   "orias": "22004117",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -7303,6 +8694,58 @@
    "chemin": "f/rod-pay.html",
    "crm": null,
    "orias": "26008153",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "adding-values-finance",
+   "nom": "ADDING VALUES FINANCE",
+   "categorie": "cgp",
+   "siren": "914258694",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adding-values-finance.html",
+   "crm": null,
+   "orias": "22003845",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lepage-patrimoine",
+   "nom": "LEPAGE - PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "914649280",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lepage-patrimoine.html",
+   "crm": null,
+   "orias": "23001829",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "mopa",
+   "nom": "MOPA",
+   "categorie": "cgp",
+   "siren": "914851167",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mopa.html",
+   "crm": null,
+   "orias": "22005309",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "eta-gestion-privee",
+   "nom": "ETA GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "915157606",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eta-gestion-privee.html",
+   "crm": null,
+   "orias": "22006764",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -7476,6 +8919,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "amplificatum",
+   "nom": "AMPLIFICATUM",
+   "categorie": "cgp",
+   "siren": "918825878",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/amplificatum.html",
+   "crm": null,
+   "orias": "24001646",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "sapians",
    "nom": "Sapians",
    "categorie": "cgp",
@@ -7632,6 +9088,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ascantea",
+   "nom": "ASCANTEA",
+   "categorie": "cgp",
+   "siren": "920868825",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ascantea.html",
+   "crm": null,
+   "orias": "22007244",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "benel-capital",
+   "nom": "BENEL CAPITAL",
+   "categorie": "cgp",
+   "siren": "920951241",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/benel-capital.html",
+   "crm": null,
+   "orias": "23000157",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "viridis-patrimoine",
    "nom": "VIRIDIS PATRIMOINE",
    "categorie": "cgp",
@@ -7671,6 +9153,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "fortunae-conseils",
+   "nom": "FORTUNAE CONSEILS",
+   "categorie": "cgp",
+   "siren": "921335212",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fortunae-conseils.html",
+   "crm": null,
+   "orias": "22006993",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "patrimy",
    "nom": "PATRIMY",
    "categorie": "cgp",
@@ -7681,6 +9176,19 @@
    "crm": null,
    "orias": "23001448",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fbe-capital",
+   "nom": "FBE CAPITAL",
+   "categorie": "cgp",
+   "siren": "921591798",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fbe-capital.html",
+   "crm": null,
+   "orias": "23005683",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -7723,6 +9231,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "l-f-consulting-solutions-d-investissements",
+   "nom": "L&F CONSULTING - SOLUTIONS D'INVESTISSEMENTS",
+   "categorie": "cgp",
+   "siren": "922175641",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/l-f-consulting-solutions-d-investissements.html",
+   "crm": null,
+   "orias": "24002497",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "jldn-conseils-patrimoine",
    "nom": "JLDN CONSEILS & PATRIMOINE",
    "categorie": "cgp",
@@ -7733,6 +9254,32 @@
    "crm": null,
    "orias": "23002360",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "gba-investissements",
+   "nom": "GBA INVESTISSEMENTS",
+   "categorie": "cgp",
+   "siren": "922323910",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/gba-investissements.html",
+   "crm": null,
+   "orias": "23000070",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "artes-patrimoine",
+   "nom": "ARTES PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "922511209",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/artes-patrimoine.html",
+   "crm": null,
+   "orias": "23000646",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -7758,6 +9305,19 @@
    "chemin": "f/expertcap.html",
    "crm": null,
    "orias": "23001548",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "conseil-propice",
+   "nom": "CONSEIL PROPICE",
+   "categorie": "cgp",
+   "siren": "924799950",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/conseil-propice.html",
+   "crm": null,
+   "orias": "24005335",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -7810,6 +9370,32 @@
    "chemin": "f/moneypargne.html",
    "crm": null,
    "orias": "24004436",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cardon-invest",
+   "nom": "CARDON INVEST",
+   "categorie": "cgp",
+   "siren": "927963413",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cardon-invest.html",
+   "crm": null,
+   "orias": "24004689",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "alma-gestion-privee",
+   "nom": "ALMA GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "928066356",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alma-gestion-privee.html",
+   "crm": null,
+   "orias": "24006913",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -7879,6 +9465,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "day2rise-invest",
+   "nom": "DAY2RISE INVEST",
+   "categorie": "cgp",
+   "siren": "928325216",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/day2rise-invest.html",
+   "crm": null,
+   "orias": "25002696",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "chapi-patrimoine",
    "nom": "CHAPI PATRIMOINE",
    "categorie": "cgp",
@@ -7940,6 +9539,45 @@
    "chemin": "f/kapitalia.html",
    "crm": null,
    "orias": "24005941",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "jdc-wm",
+   "nom": "JDC WM",
+   "categorie": "cgp",
+   "siren": "928838697",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jdc-wm.html",
+   "crm": null,
+   "orias": "25000782",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "camus-conseils",
+   "nom": "CAMUS CONSEILS",
+   "categorie": "cgp",
+   "siren": "928852144",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/camus-conseils.html",
+   "crm": null,
+   "orias": "26003368",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "debbouz-hassani-conseil-et-patrimoine",
+   "nom": "DEBBOUZ HASSANI CONSEIL ET PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "928878719",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/debbouz-hassani-conseil-et-patrimoine.html",
+   "crm": null,
+   "orias": "25001093",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -8018,6 +9656,32 @@
    "chemin": "f/adlyna.html",
    "crm": null,
    "orias": "25000921",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "amt-gestion-privee",
+   "nom": "AMT GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "930172499",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/amt-gestion-privee.html",
+   "crm": null,
+   "orias": "24006176",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "c-first",
+   "nom": "C-FIRST",
+   "categorie": "cgp",
+   "siren": "930385612",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/c-first.html",
+   "crm": null,
+   "orias": "24008640",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -8243,6 +9907,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "money-invest",
+   "nom": "MONEY INVEST",
+   "categorie": "cgp",
+   "siren": "932676976",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/money-invest.html",
+   "crm": null,
+   "orias": "25001012",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "arkangraal",
    "nom": "ARKANGRAAL",
    "categorie": "cgp",
@@ -8252,6 +9929,19 @@
    "chemin": "f/arkangraal.html",
    "crm": null,
    "orias": "24007674",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "le-carrousel-du-patrimoine",
+   "nom": "LE CARROUSEL DU PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "932888530",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/le-carrousel-du-patrimoine.html",
+   "crm": null,
+   "orias": "25000655",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -8334,6 +10024,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "fw-wealth-management",
+   "nom": "FW WEALTH MANAGEMENT",
+   "categorie": "cgp",
+   "siren": "934276932",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fw-wealth-management.html",
+   "crm": null,
+   "orias": "25000858",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "monee",
    "nom": "MONEE",
    "categorie": "cgp",
@@ -8386,6 +10089,45 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "fundora-conseil",
+   "nom": "FUNDORA CONSEIL",
+   "categorie": "cgp",
+   "siren": "934327560",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fundora-conseil.html",
+   "crm": null,
+   "orias": "25001125",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "oracle-gestion-privee",
+   "nom": "ORACLE GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "934541343",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/oracle-gestion-privee.html",
+   "crm": null,
+   "orias": "25000354",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "rga-conseil",
+   "nom": "RGA CONSEIL",
+   "categorie": "cgp",
+   "siren": "934810268",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rga-conseil.html",
+   "crm": null,
+   "orias": "25002731",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "408-advisory",
    "nom": "408 ADVISORY",
    "categorie": "cgp",
@@ -8408,6 +10150,32 @@
    "chemin": "f/eastwest-finance.html",
    "crm": null,
    "orias": "25001308",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fic-llinares",
+   "nom": "FIC LLINARES",
+   "categorie": "cgp",
+   "siren": "935089961",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fic-llinares.html",
+   "crm": null,
+   "orias": "25006267",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "courcelles-patrimoine",
+   "nom": "COURCELLES PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "935094789",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/courcelles-patrimoine.html",
+   "crm": null,
+   "orias": "25001053",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -8464,6 +10232,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "capygest",
+   "nom": "CAPYGEST",
+   "categorie": "cgp",
+   "siren": "938133196",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/capygest.html",
+   "crm": null,
+   "orias": "25008340",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "lirone-solutions",
    "nom": "LIRONE SOLUTIONS",
    "categorie": "cgp",
@@ -8512,6 +10293,32 @@
    "chemin": "f/liva-ins.html",
    "crm": null,
    "orias": "25002217",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "switche",
+   "nom": "SWITCHE",
+   "categorie": "cgp",
+   "siren": "938617313",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/switche.html",
+   "crm": null,
+   "orias": "25006271",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "d-patrimoine",
+   "nom": "D+ PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "938643806",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/d-patrimoine.html",
+   "crm": null,
+   "orias": "25003165",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -8659,6 +10466,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "savoir-invest",
+   "nom": "SAVOIR INVEST",
+   "categorie": "cgp",
+   "siren": "939921359",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/savoir-invest.html",
+   "crm": null,
+   "orias": "25003238",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "experts-conseil-prive",
    "nom": "EXPERTS CONSEIL PRIVE",
    "categorie": "cgp",
@@ -8707,6 +10527,58 @@
    "chemin": "f/elyseys-gestion-privee.html",
    "crm": null,
    "orias": "25005268",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "hector-capital",
+   "nom": "HECTOR CAPITAL",
+   "categorie": "cgp",
+   "siren": "940228794",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hector-capital.html",
+   "crm": null,
+   "orias": "25002083",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "step-up-conseils",
+   "nom": "STEP'UP CONSEILS",
+   "categorie": "cgp",
+   "siren": "940460454",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/step-up-conseils.html",
+   "crm": null,
+   "orias": "25005382",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "arkanis",
+   "nom": "ARKANIS",
+   "categorie": "cgp",
+   "siren": "940502859",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/arkanis.html",
+   "crm": null,
+   "orias": "25005573",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "tailorfin",
+   "nom": "TAILORFIN",
+   "categorie": "cgp",
+   "siren": "940602980",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/tailorfin.html",
+   "crm": null,
+   "orias": "25003897",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -8828,6 +10700,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "finae-gestion-privee",
+   "nom": "FINAE GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "941685992",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/finae-gestion-privee.html",
+   "crm": null,
+   "orias": "25003410",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "germe-investment-advisory",
    "nom": "GERME INVESTMENT ADVISORY",
    "categorie": "cgp",
@@ -8838,6 +10723,19 @@
    "crm": null,
    "orias": "25003584",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "primaval-provence",
+   "nom": "PRIMAVAL PROVENCE",
+   "categorie": "cgp",
+   "siren": "942026204",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/primaval-provence.html",
+   "crm": null,
+   "orias": "25003309",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -8893,6 +10791,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "signature-patrimoine",
+   "nom": "SIGNATURE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "942473174",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/signature-patrimoine.html",
+   "crm": null,
+   "orias": "25005518",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "arion-gestion-privee",
    "nom": "ARION GESTION PRIVEE",
    "categorie": "cgp",
@@ -8941,6 +10852,19 @@
    "chemin": "f/syros-invest.html",
    "crm": null,
    "orias": "25004219",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "babylone-patrimoine",
+   "nom": "BABYLONE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "942756412",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/babylone-patrimoine.html",
+   "crm": null,
+   "orias": "25004199",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9036,6 +10960,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cobra-associes",
+   "nom": "COBRA & ASSOCIES",
+   "categorie": "cgp",
+   "siren": "943464032",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cobra-associes.html",
+   "crm": null,
+   "orias": "25005815",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "accend-generation",
+   "nom": "ACCEND GENERATION",
+   "categorie": "cgp",
+   "siren": "943564112",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/accend-generation.html",
+   "crm": null,
+   "orias": "25006216",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "ac2m-patrimoine",
    "nom": "AC2M PATRIMOINE",
    "categorie": "cgp",
@@ -9049,6 +10999,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "interphase-finance",
+   "nom": "INTERPHASE FINANCE",
+   "categorie": "cgp",
+   "siren": "943895920",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/interphase-finance.html",
+   "crm": null,
+   "orias": "25005070",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "dsp",
+   "nom": "DSP",
+   "categorie": "cgp",
+   "siren": "944154327",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dsp.html",
+   "crm": null,
+   "orias": "25008764",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "rkg-invest",
    "nom": "RKG INVEST",
    "categorie": "cgp",
@@ -9058,6 +11034,19 @@
    "chemin": "f/rkg-invest.html",
    "crm": null,
    "orias": "25007826",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "axior-patrimoine",
+   "nom": "AXIOR PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "944806090",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/axior-patrimoine.html",
+   "crm": null,
+   "orias": "25006081",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9140,6 +11129,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "lg-invest",
+   "nom": "LG INVEST",
+   "categorie": "cgp",
+   "siren": "948095567",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lg-invest.html",
+   "crm": null,
+   "orias": "23005251",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "aml-finance",
    "nom": "AML FINANCE",
    "categorie": "cgp",
@@ -9192,6 +11194,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "olympea",
+   "nom": "OLYMPEA",
+   "categorie": "cgp",
+   "siren": "948508825",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/olympea.html",
+   "crm": null,
+   "orias": "23004219",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "fidji",
    "nom": "FIDJI",
    "categorie": "cgp",
@@ -9205,6 +11220,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "rizzi-capital",
+   "nom": "RIZZI CAPITAL",
+   "categorie": "cgp",
+   "siren": "948538848",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rizzi-capital.html",
+   "crm": null,
+   "orias": "23005069",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "baudino-conseil",
+   "nom": "BAUDINO CONSEIL",
+   "categorie": "cgp",
+   "siren": "948550694",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/baudino-conseil.html",
+   "crm": null,
+   "orias": "23002949",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "jrd-advising",
    "nom": "JRD ADVISING",
    "categorie": "cgp",
@@ -9214,6 +11255,19 @@
    "chemin": "f/jrd-advising.html",
    "crm": null,
    "orias": "23004098",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "kaizen-patrimonia",
+   "nom": "KAIZEN PATRIMONIA",
+   "categorie": "cgp",
+   "siren": "948751383",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kaizen-patrimonia.html",
+   "crm": null,
+   "orias": "23004884",
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
@@ -9257,6 +11311,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "dionysos",
+   "nom": "DIONYSOS",
+   "categorie": "cgp",
+   "siren": "949383293",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dionysos.html",
+   "crm": null,
+   "orias": "23006700",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "aic-conseil",
    "nom": "AIC CONSEIL",
    "categorie": "cgp",
@@ -9279,6 +11346,19 @@
    "chemin": "f/pro-epargne-finance.html",
    "crm": null,
    "orias": "23002217",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fillenance-patrimoine",
+   "nom": "FILLENANCE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "949721088",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fillenance-patrimoine.html",
+   "crm": null,
+   "orias": "23003131",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9319,6 +11399,19 @@
    "crm": null,
    "orias": "23002412",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "patrimoine-a-venir",
+   "nom": "PATRIMOINE A'VENIR",
+   "categorie": "cgp",
+   "siren": "951033455",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/patrimoine-a-venir.html",
+   "crm": null,
+   "orias": "23003560",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -9387,6 +11480,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "adventus-phi",
+   "nom": "ADVENTUS PHI",
+   "categorie": "cgp",
+   "siren": "952633006",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adventus-phi.html",
+   "crm": null,
+   "orias": "23005205",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "segur-patrimoine",
    "nom": "SEGUR PATRIMOINE",
    "categorie": "cgp",
@@ -9413,6 +11519,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "abacus",
+   "nom": "ABACUS",
+   "categorie": "cgp",
+   "siren": "952885382",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/abacus.html",
+   "crm": null,
+   "orias": "23004126",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "arkans-wm",
    "nom": "ARKANS WM",
    "categorie": "cgp",
@@ -9426,6 +11545,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "astra-family-office",
+   "nom": "ASTRA FAMILY OFFICE",
+   "categorie": "cgp",
+   "siren": "952987568",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/astra-family-office.html",
+   "crm": null,
+   "orias": "23006162",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "ienco-patrimoine",
+   "nom": "IENCO PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "953144540",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ienco-patrimoine.html",
+   "crm": null,
+   "orias": "23006817",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "somae",
    "nom": "SOMAE",
    "categorie": "cgp",
@@ -9436,6 +11581,19 @@
    "crm": null,
    "orias": "24005259",
    "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "tomcat-investment",
+   "nom": "TOMCAT INVESTMENT",
+   "categorie": "cgp",
+   "siren": "953455508",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/tomcat-investment.html",
+   "crm": null,
+   "orias": "23008203",
+   "opposition_prospection": false,
    "consulte_le": "2026-11-11"
   },
   {
@@ -9530,6 +11688,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "terra-nova-gestion-privee",
+   "nom": "TERRA NOVA GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "954052999",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/terra-nova-gestion-privee.html",
+   "crm": null,
+   "orias": "23005668",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "tanit",
    "nom": "TANIT",
    "categorie": "cgp",
@@ -9556,6 +11727,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "dn-patrimoine-2021",
+   "nom": "DN PATRIMOINE 2021",
+   "categorie": "cgp",
+   "siren": "977814409",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dn-patrimoine-2021.html",
+   "crm": null,
+   "orias": "23005584",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "nexinance",
+   "nom": "NEXINANCE",
+   "categorie": "cgp",
+   "siren": "977859438",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nexinance.html",
+   "crm": null,
+   "orias": "23007707",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "dregnaux-expertise",
    "nom": "DREGNAUX EXPERTISE",
    "categorie": "cgp",
@@ -9565,6 +11762,19 @@
    "chemin": "f/dregnaux-expertise.html",
    "crm": null,
    "orias": "24001718",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "chronicles-solutions",
+   "nom": "CHRONICLES SOLUTIONS",
+   "categorie": "cgp",
+   "siren": "978353654",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/chronicles-solutions.html",
+   "crm": null,
+   "orias": "23007882",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9660,6 +11870,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "inicio-patrimoine",
+   "nom": "INICIO PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "979128782",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/inicio-patrimoine.html",
+   "crm": null,
+   "orias": "24000164",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "rivaria-capital",
    "nom": "RIVARIA CAPITAL",
    "categorie": "cgp",
@@ -9751,6 +11974,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "le-cercle-patrimoine",
+   "nom": "LE CERCLE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "980768402",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/le-cercle-patrimoine.html",
+   "crm": null,
+   "orias": "24001755",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "ceres-conseil",
    "nom": "CERES CONSEIL",
    "categorie": "cgp",
@@ -9760,6 +11996,19 @@
    "chemin": "f/ceres-conseil.html",
    "crm": null,
    "orias": "23008138",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "axilio",
+   "nom": "AXILIO",
+   "categorie": "cgp",
+   "siren": "981180375",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/axilio.html",
+   "crm": null,
+   "orias": "23008028",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9842,6 +12091,45 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "2xl-invest",
+   "nom": "2XL INVEST",
+   "categorie": "cgp",
+   "siren": "981655764",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/2xl-invest.html",
+   "crm": null,
+   "orias": "24000081",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "magellan-patrimoine",
+   "nom": "MAGELLAN PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "981707664",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/magellan-patrimoine.html",
+   "crm": null,
+   "orias": "24000573",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "spinnakers-conseil",
+   "nom": "SPINNAKERS CONSEIL",
+   "categorie": "cgp",
+   "siren": "981980006",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/spinnakers-conseil.html",
+   "crm": null,
+   "orias": "24000722",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "adr-wm",
    "nom": "ADR WM",
    "categorie": "cgp",
@@ -9890,6 +12178,45 @@
    "chemin": "f/antoine-durieu-conseil.html",
    "crm": null,
    "orias": "24005331",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "argo",
+   "nom": "ARGO",
+   "categorie": "cgp",
+   "siren": "982344194",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/argo.html",
+   "crm": null,
+   "orias": "24001645",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "s-investir-conseil",
+   "nom": "S'INVESTIR CONSEIL",
+   "categorie": "cgp",
+   "siren": "982687063",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/s-investir-conseil.html",
+   "crm": null,
+   "orias": "24003981",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "b-invest",
+   "nom": "B*INVEST",
+   "categorie": "cgp",
+   "siren": "982715328",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/b-invest.html",
+   "crm": null,
+   "orias": "24005334",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -9972,6 +12299,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "bc-patrimoine",
+   "nom": "BC PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "983463654",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bc-patrimoine.html",
+   "crm": null,
+   "orias": "24003020",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "qwiti-sas",
    "nom": "QWITI SAS",
    "categorie": "cgp",
@@ -9985,6 +12325,45 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "champelay-gestion-de-patrimoine",
+   "nom": "CHAMPELAY GESTION DE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "983581778",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/champelay-gestion-de-patrimoine.html",
+   "crm": null,
+   "orias": "24002485",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "mto-conseil",
+   "nom": "MTO CONSEIL",
+   "categorie": "cgp",
+   "siren": "983779885",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mto-conseil.html",
+   "crm": null,
+   "orias": "24005706",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "qm-patrimoine",
+   "nom": "QM PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "983815135",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/qm-patrimoine.html",
+   "crm": null,
+   "orias": "24001573",
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "kensho-capital",
    "nom": "KENSHO CAPITAL",
    "categorie": "cgp",
@@ -9994,6 +12373,19 @@
    "chemin": "f/kensho-capital.html",
    "crm": "407523c4e81c813eb58dc0e539dfb40c",
    "orias": "24002723",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "enerfi",
+   "nom": "ENERFI",
+   "categorie": "cgp",
+   "siren": "983884123",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/enerfi.html",
+   "crm": null,
+   "orias": "24004893",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10046,6 +12438,19 @@
    "chemin": "f/conex-patrimoine.html",
    "crm": null,
    "orias": "24003792",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "perier-patrimoine",
+   "nom": "PERIER PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "984414920",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/perier-patrimoine.html",
+   "crm": null,
+   "orias": "24004171",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10115,6 +12520,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "baronio-conseil",
+   "nom": "BARONIO CONSEIL",
+   "categorie": "cgp",
+   "siren": "985031186",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/baronio-conseil.html",
+   "crm": null,
+   "orias": "24004460",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "jmh-patrimoine",
+   "nom": "JMH PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "985193929",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jmh-patrimoine.html",
+   "crm": null,
+   "orias": "24006562",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "gamma-gestion",
    "nom": "GAMMA GESTION",
    "categorie": "cgp",
@@ -10124,6 +12555,45 @@
    "chemin": "f/gamma-gestion.html",
    "crm": null,
    "orias": "24005013",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cynae",
+   "nom": "CYNAE",
+   "categorie": "cgp",
+   "siren": "985298249",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cynae.html",
+   "crm": null,
+   "orias": "24003029",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "select-am",
+   "nom": "SELECT AM",
+   "categorie": "cgp",
+   "siren": "985348846",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/select-am.html",
+   "crm": null,
+   "orias": "24006583",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "neige-et-chocolat",
+   "nom": "NEIGE ET CHOCOLAT",
+   "categorie": "cgp",
+   "siren": "987770997",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/neige-et-chocolat.html",
+   "crm": null,
+   "orias": "24003555",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10219,6 +12689,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "perpetuo-conseil",
+   "nom": "PERPETUO CONSEIL",
+   "categorie": "cgp",
+   "siren": "988743423",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/perpetuo-conseil.html",
+   "crm": null,
+   "orias": "25008015",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "wassel-capital",
    "nom": "WASSEL CAPITAL",
    "categorie": "cgp",
@@ -10228,6 +12711,19 @@
    "chemin": "f/wassel-capital.html",
    "crm": null,
    "orias": "25007071",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "medfi-solutions",
+   "nom": "MEDFI SOLUTIONS",
+   "categorie": "cgp",
+   "siren": "989117114",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/medfi-solutions.html",
+   "crm": null,
+   "orias": "25006871",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10271,6 +12767,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "fortunexpert-conseil",
+   "nom": "FORTUNEXPERT CONSEIL",
+   "categorie": "cgp",
+   "siren": "989321377",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fortunexpert-conseil.html",
+   "crm": null,
+   "orias": "25006552",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "mes-valeurs-placement",
    "nom": "MES VALEURS PLACEMENT",
    "categorie": "cgp",
@@ -10293,6 +12802,32 @@
    "chemin": "f/lefonds-capital-partners.html",
    "crm": null,
    "orias": "25006542",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "elt-finances",
+   "nom": "ELT FINANCES",
+   "categorie": "cgp",
+   "siren": "989618442",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elt-finances.html",
+   "crm": null,
+   "orias": "26000186",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "adlink-patrimoine",
+   "nom": "ADLINK PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "989639141",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adlink-patrimoine.html",
+   "crm": null,
+   "orias": "26001809",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10320,6 +12855,19 @@
    "crm": null,
    "orias": "25009608",
    "opposition_prospection": false,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "k2e-invest",
+   "nom": "K2E INVEST",
+   "categorie": "cgp",
+   "siren": "990200354",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/k2e-invest.html",
+   "crm": null,
+   "orias": "25007997",
+   "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
   {
@@ -10479,6 +13027,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cleos-gestion-privee",
+   "nom": "CLEOS GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "991419557",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cleos-gestion-privee.html",
+   "crm": null,
+   "orias": "25009096",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "lgt-capital",
    "nom": "LGT CAPITAL",
    "categorie": "cgp",
@@ -10518,6 +13079,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "carrasca-partner",
+   "nom": "CARRASCA PARTNER",
+   "categorie": "cgp",
+   "siren": "991765744",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/carrasca-partner.html",
+   "crm": null,
+   "orias": "26011480",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "quovadis-capital",
    "nom": "QUOVADIS CAPITAL",
    "categorie": "cgp",
@@ -10544,6 +13118,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "lescure-patrimoine",
+   "nom": "LESCURE PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "991816349",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lescure-patrimoine.html",
+   "crm": null,
+   "orias": "25008397",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "cyril-wealth-conseil",
    "nom": "CYRIL WEALTH CONSEIL",
    "categorie": "cgp",
@@ -10553,6 +13140,19 @@
    "chemin": "f/cyril-wealth-conseil.html",
    "crm": null,
    "orias": "25009469",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "lamy-capital",
+   "nom": "LAMY CAPITAL",
+   "categorie": "cgp",
+   "siren": "992291088",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lamy-capital.html",
+   "crm": null,
+   "orias": "26002353",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10648,6 +13248,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "audit-conseil-des-entreprises-et-patrimoine",
+   "nom": "AUDIT CONSEIL DES ENTREPRISES ET PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "993215227",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/audit-conseil-des-entreprises-et-patrimoine.html",
+   "crm": null,
+   "orias": "26009338",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "diequinox-capital",
    "nom": "DIEQUINOX CAPITAL",
    "categorie": "cgp",
@@ -10687,6 +13300,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "resonance-gestion-privee",
+   "nom": "RESONANCE GESTION PRIVEE",
+   "categorie": "cgp",
+   "siren": "993814151",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/resonance-gestion-privee.html",
+   "crm": null,
+   "orias": "25009823",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "an-invest",
    "nom": "AN INVEST",
    "categorie": "cgp",
@@ -10696,6 +13322,19 @@
    "chemin": "f/an-invest.html",
    "crm": null,
    "orias": "26003197",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "mornea-conseil",
+   "nom": "MORNEA CONSEIL",
+   "categorie": "cgp",
+   "siren": "994019149",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mornea-conseil.html",
+   "crm": null,
+   "orias": "26005483",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10722,6 +13361,32 @@
    "chemin": "f/anato-gestion-privee.html",
    "crm": null,
    "orias": "26002444",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "victorine-conseil",
+   "nom": "VICTORINE CONSEIL",
+   "categorie": "cgp",
+   "siren": "994055812",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/victorine-conseil.html",
+   "crm": null,
+   "orias": "26005476",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cholet-conseil",
+   "nom": "CHOLET CONSEIL",
+   "categorie": "cgp",
+   "siren": "994302321",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cholet-conseil.html",
+   "crm": null,
+   "orias": "26001994",
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
   },
@@ -10856,6 +13521,32 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "armeris-conseils",
+   "nom": "ARMERIS CONSEILS",
+   "categorie": "cgp",
+   "siren": "995095585",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/armeris-conseils.html",
+   "crm": null,
+   "orias": "26000715",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "eilau-investissements",
+   "nom": "EILAU INVESTISSEMENTS",
+   "categorie": "cgp",
+   "siren": "998926935",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eilau-investissements.html",
+   "crm": null,
+   "orias": "26001781",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "oneira-conseil",
    "nom": "ONEIRA CONSEIL",
    "categorie": "cgp",
@@ -10921,6 +13612,19 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "np-conseils-patrimoine",
+   "nom": "NP CONSEILS & PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "999808314",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/np-conseils-patrimoine.html",
+   "crm": null,
+   "orias": "26003403",
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-11"
+  },
+  {
    "slug": "aurion-patrimoine",
    "nom": "AURION PATRIMOINE",
    "categorie": "cgp",
@@ -10935,6 +13639,14 @@
   }
  ],
  "personnes": [
+  {
+   "slug": "augustin-donnez",
+   "nom": "Augustin Donnez",
+   "fonction": "Président de SAS",
+   "maison": "cabinet-pegase",
+   "siren": "100106871",
+   "chemin": "p/augustin-donnez.html"
+  },
   {
    "slug": "sebastien-murer",
    "nom": "Sébastien Murer",
@@ -11056,6 +13768,14 @@
    "chemin": "p/corentin-grellier.html"
   },
   {
+   "slug": "nadege-poncet",
+   "nom": "Nadège Poncet",
+   "fonction": "Président de SAS",
+   "maison": "unite-patrimoine",
+   "siren": "102039906",
+   "chemin": "p/nadege-poncet.html"
+  },
+  {
    "slug": "francois-rostand",
    "nom": "François Rostand",
    "fonction": "Gérant",
@@ -11152,6 +13872,14 @@
    "chemin": "p/arnaud-schreiber.html"
   },
   {
+   "slug": "benjamin-clemenceau",
+   "nom": "Benjamin Clemenceau",
+   "fonction": "Président de SAS",
+   "maison": "clemenceau-conseil",
+   "siren": "103376703",
+   "chemin": "p/benjamin-clemenceau.html"
+  },
+  {
    "slug": "agathe-averlant",
    "nom": "Agathe Averlant",
    "fonction": "Directeur Général",
@@ -11240,6 +13968,14 @@
    "chemin": "p/thibaut-serre.html"
   },
   {
+   "slug": "olivier-torrente",
+   "nom": "Olivier Torrente",
+   "fonction": "Gérant",
+   "maison": "torrente-conseils",
+   "siren": "103772638",
+   "chemin": "p/olivier-torrente.html"
+  },
+  {
    "slug": "thomas-alzuyeta",
    "nom": "Thomas Alzuyeta",
    "fonction": "Directeur Général",
@@ -11256,6 +13992,22 @@
    "chemin": "p/alexandre-koller.html"
   },
   {
+   "slug": "delphine-laloum",
+   "nom": "Delphine Laloum",
+   "fonction": "Président de SAS",
+   "maison": "arkana-capital",
+   "siren": "103962007",
+   "chemin": "p/delphine-laloum.html"
+  },
+  {
+   "slug": "baptiste-le-naour-jambon",
+   "nom": "Baptiste le Naour Jambon",
+   "fonction": "Directeur Général",
+   "maison": "arkana-capital",
+   "siren": "103962007",
+   "chemin": "p/baptiste-le-naour-jambon.html"
+  },
+  {
    "slug": "emeline-siron",
    "nom": "Emeline Siron",
    "fonction": "Président de SAS",
@@ -11270,6 +14022,22 @@
    "maison": "etoile-family-office",
    "siren": "104025606",
    "chemin": "p/arnaud-gallet.html"
+  },
+  {
+   "slug": "paul-arnaud-belliard",
+   "nom": "Paul-Arnaud Belliard",
+   "fonction": "Gérant",
+   "maison": "financiere-de-la-londe",
+   "siren": "104325030",
+   "chemin": "p/paul-arnaud-belliard.html"
+  },
+  {
+   "slug": "jeremy-ramon",
+   "nom": "Jérémy Ramon",
+   "fonction": "Gérant",
+   "maison": "jrgp",
+   "siren": "104402375",
+   "chemin": "p/jeremy-ramon.html"
   },
   {
    "slug": "omri-benayoun",
@@ -11310,6 +14078,14 @@
    "maison": "domus-equity",
    "siren": "104609037",
    "chemin": "p/thomas-peretti.html"
+  },
+  {
+   "slug": "aurelie-brandao",
+   "nom": "Aurélie Brandao",
+   "fonction": "Gérant",
+   "maison": "sensevia-conseil",
+   "siren": "104657754",
+   "chemin": "p/aurelie-brandao.html"
   },
   {
    "slug": "stephane-prevost",
@@ -11392,6 +14168,22 @@
    "chemin": "p/claire-tardy.html"
   },
   {
+   "slug": "pierre-alban-guezo",
+   "nom": "Pierre-Alban Guezo",
+   "fonction": "Directeur général délégué",
+   "maison": "apertio-partners-ii",
+   "siren": "106261597",
+   "chemin": "p/pierre-alban-guezo.html"
+  },
+  {
+   "slug": "cedric-paquet",
+   "nom": "Cédric Paquet",
+   "fonction": "Président de SAS",
+   "maison": "firma-gestion-privee",
+   "siren": "106341498",
+   "chemin": "p/cedric-paquet.html"
+  },
+  {
    "slug": "philippe-gillet",
    "nom": "Philippe Gillet",
    "fonction": "Président de SAS",
@@ -11422,6 +14214,22 @@
    "maison": "saint-roch-partners",
    "siren": "107104408",
    "chemin": "p/baptiste-barzac.html"
+  },
+  {
+   "slug": "bastien-debailleul",
+   "nom": "Bastien Debailleul",
+   "fonction": "Gérant",
+   "maison": "orio-conseil",
+   "siren": "107269045",
+   "chemin": "p/bastien-debailleul.html"
+  },
+  {
+   "slug": "patrick-gobet",
+   "nom": "Patrick Gobet",
+   "fonction": "Président de SAS",
+   "maison": "patrimoine-generation-conseil",
+   "siren": "107293276",
+   "chemin": "p/patrick-gobet.html"
   },
   {
    "slug": "enzo-gebel",
@@ -11470,6 +14278,14 @@
    "maison": "fg-wealth-management",
    "siren": "108246281",
    "chemin": "p/florian-gueritte.html"
+  },
+  {
+   "slug": "florent-henry-degivry",
+   "nom": "Florent Henry Degivry",
+   "fonction": "Président de SAS",
+   "maison": "sababa-patrimoine",
+   "siren": "108404252",
+   "chemin": "p/florent-henry-degivry.html"
   },
   {
    "slug": "florent-sevin",
@@ -11710,30 +14526,6 @@
    "maison": "arc-en-ciel-gestion-systeme",
    "siren": "421572439",
    "chemin": "p/francis-alguacil.html"
-  },
-  {
-   "slug": "thomas-camart",
-   "nom": "Thomas Camart",
-   "fonction": "Gérant",
-   "maison": "groupe-ciec",
-   "siren": "422058321",
-   "chemin": "p/thomas-camart.html"
-  },
-  {
-   "slug": "maurice-julliard",
-   "nom": "Maurice Julliard",
-   "fonction": "Gérant",
-   "maison": "groupe-ciec",
-   "siren": "422058321",
-   "chemin": "p/maurice-julliard.html"
-  },
-  {
-   "slug": "alain-kilimli",
-   "nom": "Alain Kilimli",
-   "fonction": "Gérant",
-   "maison": "groupe-ciec",
-   "siren": "422058321",
-   "chemin": "p/alain-kilimli.html"
   },
   {
    "slug": "olivier-budes-de-guebriant",
@@ -12064,6 +14856,14 @@
    "chemin": "p/jean-monchant.html"
   },
   {
+   "slug": "paul-etienne-bozo",
+   "nom": "Paul-Etienne Bozo",
+   "fonction": "Gérant",
+   "maison": "spvie-wealth-management",
+   "siren": "444303895",
+   "chemin": "p/paul-etienne-bozo.html"
+  },
+  {
    "slug": "pascal-blamoutier",
    "nom": "Pascal Blamoutier",
    "fonction": "Directeur Général",
@@ -12094,6 +14894,14 @@
    "maison": "arthus-conseil",
    "siren": "447822693",
    "chemin": "p/alain-iteney.html"
+  },
+  {
+   "slug": "christophe-minguet",
+   "nom": "Christophe Minguet",
+   "fonction": "Gérant",
+   "maison": "trevaresse-patrimoine",
+   "siren": "448329086",
+   "chemin": "p/christophe-minguet.html"
   },
   {
    "slug": "valentin-lambert",
@@ -12128,6 +14936,14 @@
    "chemin": "p/joel-darmouni.html"
   },
   {
+   "slug": "philippe-jamain",
+   "nom": "Philippe Jamain",
+   "fonction": "Gérant",
+   "maison": "cote-gestion-privee",
+   "siren": "449499755",
+   "chemin": "p/philippe-jamain.html"
+  },
+  {
    "slug": "frederic-loie",
    "nom": "Frederic Loie",
    "fonction": "Gérant",
@@ -12142,6 +14958,22 @@
    "maison": "cie-de-gestion-privee-du-patrimoine",
    "siren": "451239180",
    "chemin": "p/sandra-pirou.html"
+  },
+  {
+   "slug": "louis-roland-leffe",
+   "nom": "Louis-Roland Leffe",
+   "fonction": "Gérant",
+   "maison": "lrk",
+   "siren": "452039548",
+   "chemin": "p/louis-roland-leffe.html"
+  },
+  {
+   "slug": "thierry-curtat",
+   "nom": "Thierry Curtat",
+   "fonction": "Gérant",
+   "maison": "aldea-patrimoine",
+   "siren": "452062631",
+   "chemin": "p/thierry-curtat.html"
   },
   {
    "slug": "florence-estienne",
@@ -12528,14 +15360,6 @@
    "chemin": "p/virginie-faure.html"
   },
   {
-   "slug": "yvan-viallon",
-   "nom": "Yvan Viallon",
-   "fonction": "Président de SAS",
-   "maison": "viallon-yvan-placement-finance",
-   "siren": "493638944",
-   "chemin": "p/yvan-viallon.html"
-  },
-  {
    "slug": "david-fromentoux",
    "nom": "David Fromentoux",
    "fonction": "Gérant",
@@ -12600,6 +15424,22 @@
    "chemin": "p/pierre-de-bronac-de-vazelhes.html"
   },
   {
+   "slug": "christophe-real",
+   "nom": "Christophe Real",
+   "fonction": "Gérant",
+   "maison": "real-patrimoine",
+   "siren": "498027754",
+   "chemin": "p/christophe-real.html"
+  },
+  {
+   "slug": "mathieu-pointel",
+   "nom": "Mathieu Pointel",
+   "fonction": "Gérant",
+   "maison": "dp2m-patrimoine",
+   "siren": "498379635",
+   "chemin": "p/mathieu-pointel.html"
+  },
+  {
    "slug": "emmanuel-bussiere",
    "nom": "Emmanuel Bussiere",
    "fonction": "Gérant",
@@ -12662,6 +15502,22 @@
    "maison": "cabinet-blimbaum-et-associes",
    "siren": "499210136",
    "chemin": "p/benjamin-blimbaum.html"
+  },
+  {
+   "slug": "alexandre-lucas",
+   "nom": "Alexandre Lucas",
+   "fonction": "Président de SAS",
+   "maison": "office-europeen-du-patrimoine-cote-d-azur",
+   "siren": "499448066",
+   "chemin": "p/alexandre-lucas.html"
+  },
+  {
+   "slug": "cedric-spay",
+   "nom": "Cedric Spay",
+   "fonction": "Gérant",
+   "maison": "cspi",
+   "siren": "500434923",
+   "chemin": "p/cedric-spay.html"
   },
   {
    "slug": "pierre-massardier",
@@ -12742,6 +15598,14 @@
    "maison": "doxans",
    "siren": "503263584",
    "chemin": "p/sylvain-theux.html"
+  },
+  {
+   "slug": "nicolas-montant",
+   "nom": "Nicolas Montant",
+   "fonction": "Gérant",
+   "maison": "crea-finances",
+   "siren": "503281933",
+   "chemin": "p/nicolas-montant.html"
   },
   {
    "slug": "dora-d-ambrosio",
@@ -12888,12 +15752,28 @@
    "chemin": "p/laurent-pluchard.html"
   },
   {
+   "slug": "jerome-maruejouls",
+   "nom": "Jerome Maruejouls",
+   "fonction": "Gérant",
+   "maison": "ms-patrimoine",
+   "siren": "512933516",
+   "chemin": "p/jerome-maruejouls.html"
+  },
+  {
    "slug": "serge-nuss",
    "nom": "Serge Nuss",
    "fonction": "Gérant",
    "maison": "richemond-conseil-et-finance",
    "siren": "513468892",
    "chemin": "p/serge-nuss.html"
+  },
+  {
+   "slug": "gaetan-julie",
+   "nom": "Gaetan Julie",
+   "fonction": "Président de SAS",
+   "maison": "f-i-g-a-fond-d-investissement-gestion-d-actifs",
+   "siren": "513596619",
+   "chemin": "p/gaetan-julie.html"
   },
   {
    "slug": "thomas-forest",
@@ -12918,6 +15798,14 @@
    "maison": "septentrion-patrimoine",
    "siren": "514275692",
    "chemin": "p/christophe-descamps.html"
+  },
+  {
+   "slug": "valere-estienne",
+   "nom": "Valere Estienne",
+   "fonction": "Gérant",
+   "maison": "saint-georges-immobilier",
+   "siren": "514617497",
+   "chemin": "p/valere-estienne.html"
   },
   {
    "slug": "christophe-marle",
@@ -12976,6 +15864,22 @@
    "chemin": "p/melanie-rivat.html"
   },
   {
+   "slug": "stephane-henri",
+   "nom": "Stephane Henri",
+   "fonction": "Gérant",
+   "maison": "alternative-patrimoine-conseil",
+   "siren": "519250427",
+   "chemin": "p/stephane-henri.html"
+  },
+  {
+   "slug": "nicolas-peycru",
+   "nom": "Nicolas Peycru",
+   "fonction": "Président de SAS",
+   "maison": "euodia-finance",
+   "siren": "519412571",
+   "chemin": "p/nicolas-peycru.html"
+  },
+  {
    "slug": "franck-plu",
    "nom": "Franck Plu",
    "fonction": "Gérant",
@@ -13008,6 +15912,14 @@
    "chemin": "p/pierre-yves-le-guen.html"
   },
   {
+   "slug": "frederic-philippon",
+   "nom": "Frederic Philippon",
+   "fonction": "Gérant",
+   "maison": "beauharnais-patrimoine",
+   "siren": "520840034",
+   "chemin": "p/frederic-philippon.html"
+  },
+  {
    "slug": "gabriel-bitton",
    "nom": "Gabriel Bitton",
    "fonction": "Gérant",
@@ -13030,6 +15942,14 @@
    "maison": "heres-patrimoine",
    "siren": "522350420",
    "chemin": "p/nicolas-nugue.html"
+  },
+  {
+   "slug": "lauren-bergeot",
+   "nom": "Lauren Bergeot",
+   "fonction": "Gérant",
+   "maison": "autrement-finance",
+   "siren": "522809573",
+   "chemin": "p/lauren-bergeot.html"
   },
   {
    "slug": "yann-poac",
@@ -13096,6 +16016,14 @@
    "chemin": "p/stephanie-zimmermann.html"
   },
   {
+   "slug": "jean-hockazzan",
+   "nom": "Jean Hockazzan",
+   "fonction": "Gérant",
+   "maison": "reponse-patrimoine",
+   "siren": "524958170",
+   "chemin": "p/jean-hockazzan.html"
+  },
+  {
    "slug": "nicolas-zorn",
    "nom": "Nicolas Zorn",
    "fonction": "Président de SAS",
@@ -13142,6 +16070,14 @@
    "maison": "finium",
    "siren": "529338717",
    "chemin": "p/matthias-habert.html"
+  },
+  {
+   "slug": "vanessa-collon",
+   "nom": "Vanessa Collon",
+   "fonction": "Gérant",
+   "maison": "palais-de-la-finance",
+   "siren": "529836611",
+   "chemin": "p/vanessa-collon.html"
   },
   {
    "slug": "gregory-moscato",
@@ -13216,6 +16152,22 @@
    "chemin": "p/aime-billong.html"
   },
   {
+   "slug": "stephane-revel-mouroz",
+   "nom": "Stephane Revel-Mouroz",
+   "fonction": "Gérant",
+   "maison": "2r-associes",
+   "siren": "532784824",
+   "chemin": "p/stephane-revel-mouroz.html"
+  },
+  {
+   "slug": "yannick-richon",
+   "nom": "Yannick Richon",
+   "fonction": "Gérant",
+   "maison": "2r-associes",
+   "siren": "532784824",
+   "chemin": "p/yannick-richon.html"
+  },
+  {
    "slug": "tristan-desclos-de-la-fonchais",
    "nom": "Tristan Desclos de la Fonchais",
    "fonction": "Président de SAS",
@@ -13238,6 +16190,14 @@
    "maison": "opale-gestion-privee",
    "siren": "533307633",
    "chemin": "p/yoel-levy.html"
+  },
+  {
+   "slug": "julien-clergue",
+   "nom": "Julien Clergue",
+   "fonction": "Président de SAS",
+   "maison": "gemini-investment",
+   "siren": "533451365",
+   "chemin": "p/julien-clergue.html"
   },
   {
    "slug": "hicham-hammadi",
@@ -13336,6 +16296,14 @@
    "chemin": "p/morand-drouot.html"
   },
   {
+   "slug": "cyril-florian-fievre",
+   "nom": "Cyril-Florian Fievre",
+   "fonction": "Gérant",
+   "maison": "cgf",
+   "siren": "537796583",
+   "chemin": "p/cyril-florian-fievre.html"
+  },
+  {
    "slug": "julien-nebenzahl",
    "nom": "Julien Nebenzahl",
    "fonction": "Président de SAS",
@@ -13390,6 +16358,14 @@
    "maison": "thomas-fichtenbaum-conseil",
    "siren": "538952417",
    "chemin": "p/thomas-fichtenbaum.html"
+  },
+  {
+   "slug": "xavier-direxel",
+   "nom": "Xavier Direxel",
+   "fonction": "Gérant",
+   "maison": "xcellis-invest",
+   "siren": "539253294",
+   "chemin": "p/xavier-direxel.html"
   },
   {
    "slug": "stephane-fantuz",
@@ -13592,6 +16568,14 @@
    "chemin": "p/mohamed-mosbahi.html"
   },
   {
+   "slug": "alain-cafieri",
+   "nom": "Alain Cafieri",
+   "fonction": "Président de SAS",
+   "maison": "aka-patrimoine",
+   "siren": "790482426",
+   "chemin": "p/alain-cafieri.html"
+  },
+  {
    "slug": "julien-guengant",
    "nom": "Julien Guengant",
    "fonction": "Directeur Général",
@@ -13758,6 +16742,22 @@
    "maison": "las-cases-patrimoine",
    "siren": "798988499",
    "chemin": "p/nicolas-bouet.html"
+  },
+  {
+   "slug": "sylvie-claire-mull",
+   "nom": "Sylvie-Claire Mull",
+   "fonction": "Président de SAS",
+   "maison": "scm-conseil",
+   "siren": "799669007",
+   "chemin": "p/sylvie-claire-mull.html"
+  },
+  {
+   "slug": "jose-pascal",
+   "nom": "Jose Pascal",
+   "fonction": "Président de SAS",
+   "maison": "dupond-meyer-languedoc-roussillon",
+   "siren": "799787908",
+   "chemin": "p/jose-pascal.html"
   },
   {
    "slug": "paul-bourdois",
@@ -13944,6 +16944,14 @@
    "chemin": "p/vincent-epelbaum.html"
   },
   {
+   "slug": "alexandre-meulin",
+   "nom": "Alexandre Meulin",
+   "fonction": "Gérant",
+   "maison": "latitudes-patrimoine",
+   "siren": "812391126",
+   "chemin": "p/alexandre-meulin.html"
+  },
+  {
    "slug": "patrick-sarro",
    "nom": "Patrick Sarro",
    "fonction": "Gérant",
@@ -13998,6 +17006,22 @@
    "maison": "epargne-plurielle",
    "siren": "815089743",
    "chemin": "p/alexandre-juve.html"
+  },
+  {
+   "slug": "philippe-delcamp",
+   "nom": "Philippe Delcamp",
+   "fonction": "Gérant",
+   "maison": "feodus-finance",
+   "siren": "817502750",
+   "chemin": "p/philippe-delcamp.html"
+  },
+  {
+   "slug": "david-morisse",
+   "nom": "David Morisse",
+   "fonction": "Gérant",
+   "maison": "feodus-finance",
+   "siren": "817502750",
+   "chemin": "p/david-morisse.html"
   },
   {
    "slug": "moulay-essaydi",
@@ -14144,6 +17168,22 @@
    "chemin": "p/renaud-martin.html"
   },
   {
+   "slug": "jeeten-carreau",
+   "nom": "Jeeten Carreau",
+   "fonction": "Président de SAS",
+   "maison": "j10-participation",
+   "siren": "820591634",
+   "chemin": "p/jeeten-carreau.html"
+  },
+  {
+   "slug": "guillaume-charpentier",
+   "nom": "Guillaume Charpentier",
+   "fonction": "Gérant",
+   "maison": "kampostrategie",
+   "siren": "821121142",
+   "chemin": "p/guillaume-charpentier.html"
+  },
+  {
    "slug": "christelle-pinot",
    "nom": "Christelle Pinot",
    "fonction": "Gérant",
@@ -14240,6 +17280,14 @@
    "chemin": "p/thomas-baris.html"
   },
   {
+   "slug": "eric-toussaint",
+   "nom": "Eric Toussaint",
+   "fonction": "Président de SAS",
+   "maison": "ect-patrimoine-croissance",
+   "siren": "823718069",
+   "chemin": "p/eric-toussaint.html"
+  },
+  {
    "slug": "jean-christophe-tic",
    "nom": "Jean-Christophe Tic",
    "fonction": "Président de SAS",
@@ -14270,6 +17318,14 @@
    "maison": "plb-conseil",
    "siren": "824855134",
    "chemin": "p/pierre-loic-besse.html"
+  },
+  {
+   "slug": "christian-dechant",
+   "nom": "Christian Dechant",
+   "fonction": "Gérant",
+   "maison": "avisio-gestion-privee",
+   "siren": "824971881",
+   "chemin": "p/christian-dechant.html"
   },
   {
    "slug": "romain-besancon",
@@ -14320,6 +17376,14 @@
    "chemin": "p/laurence-manesse.html"
   },
   {
+   "slug": "jean-clair",
+   "nom": "Jean- Clair",
+   "fonction": "Gérant",
+   "maison": "cap-sud-conseil",
+   "siren": "827778069",
+   "chemin": "p/jean-clair.html"
+  },
+  {
    "slug": "yuna-marquis",
    "nom": "Yuna Marquis",
    "fonction": "Gérant",
@@ -14368,6 +17432,30 @@
    "chemin": "p/nicolas-giannetti.html"
   },
   {
+   "slug": "bernard-josserand",
+   "nom": "Bernard Josserand",
+   "fonction": "Gérant",
+   "maison": "france-conseils-patrimoine",
+   "siren": "828857425",
+   "chemin": "p/bernard-josserand.html"
+  },
+  {
+   "slug": "thierry-de-beaujon",
+   "nom": "Thierry de Beaujon",
+   "fonction": "Gérant",
+   "maison": "thierry-de-beaujon-conseil",
+   "siren": "829489152",
+   "chemin": "p/thierry-de-beaujon.html"
+  },
+  {
+   "slug": "frederic-armando",
+   "nom": "Frederic Armando",
+   "fonction": "Président de SAS",
+   "maison": "lfg-patrimoine",
+   "siren": "831064548",
+   "chemin": "p/frederic-armando.html"
+  },
+  {
    "slug": "philippe-schneider",
    "nom": "Philippe Schneider",
    "fonction": "Président de SAS",
@@ -14392,6 +17480,14 @@
    "chemin": "p/jose-teixeira.html"
   },
   {
+   "slug": "stephan-hervelin",
+   "nom": "Stephan Hervelin",
+   "fonction": "Gérant",
+   "maison": "management-consulting-family-patrimoine",
+   "siren": "832026249",
+   "chemin": "p/stephan-hervelin.html"
+  },
+  {
    "slug": "joao-cardoso-de-jesus",
    "nom": "Joao Cardoso de Jesus",
    "fonction": "Président de SAS",
@@ -14406,6 +17502,30 @@
    "maison": "bhm-capital",
    "siren": "832169650",
    "chemin": "p/michael-aflalo.html"
+  },
+  {
+   "slug": "nelly-soulier",
+   "nom": "Nelly Soulier",
+   "fonction": "Président de SAS",
+   "maison": "ns-conseil-patrimoine",
+   "siren": "832843056",
+   "chemin": "p/nelly-soulier.html"
+  },
+  {
+   "slug": "didier-touche",
+   "nom": "Didier Touche",
+   "fonction": "Directeur Général",
+   "maison": "ns-conseil-patrimoine",
+   "siren": "832843056",
+   "chemin": "p/didier-touche.html"
+  },
+  {
+   "slug": "cedric-boireau",
+   "nom": "Cedric Boireau",
+   "fonction": "Gérant",
+   "maison": "lagune-holding",
+   "siren": "833029028",
+   "chemin": "p/cedric-boireau.html"
   },
   {
    "slug": "sebastien-le-louarn",
@@ -14462,6 +17582,22 @@
    "maison": "cabinet-francois-majorel",
    "siren": "835037722",
    "chemin": "p/francois-majorel.html"
+  },
+  {
+   "slug": "jean-baptiste-lefebvre",
+   "nom": "Jean-Baptiste Lefebvre",
+   "fonction": "Gérant",
+   "maison": "fipatex",
+   "siren": "838256857",
+   "chemin": "p/jean-baptiste-lefebvre.html"
+  },
+  {
+   "slug": "jean-christophe-siouffi",
+   "nom": "Jean-Christophe Siouffi",
+   "fonction": "Président de SAS",
+   "maison": "apc-ambition-patrimoine-conseils",
+   "siren": "840686661",
+   "chemin": "p/jean-christophe-siouffi.html"
   },
   {
    "slug": "stephane-biez",
@@ -14544,6 +17680,22 @@
    "chemin": "p/jean-luc-le-grix-de-la-salle.html"
   },
   {
+   "slug": "romaric-sallois",
+   "nom": "Romaric Sallois",
+   "fonction": "Gérant",
+   "maison": "rs-immo-conseils",
+   "siren": "843943093",
+   "chemin": "p/romaric-sallois.html"
+  },
+  {
+   "slug": "olivier-berdiel",
+   "nom": "Olivier Berdiel",
+   "fonction": "Gérant",
+   "maison": "elegance-patrimoine",
+   "siren": "844185892",
+   "chemin": "p/olivier-berdiel.html"
+  },
+  {
    "slug": "remi-colcombet",
    "nom": "Rémi Colcombet",
    "fonction": "Directeur Général",
@@ -14608,6 +17760,14 @@
    "chemin": "p/edouard-le-bris.html"
   },
   {
+   "slug": "sebastien-maigre",
+   "nom": "Sebastien Maigre",
+   "fonction": "Gérant",
+   "maison": "as2c-patrimoine",
+   "siren": "847749819",
+   "chemin": "p/sebastien-maigre.html"
+  },
+  {
    "slug": "mehdi-ali-larbi",
    "nom": "Mehdi Ali-Larbi",
    "fonction": "Président de SAS",
@@ -14664,6 +17824,14 @@
    "chemin": "p/didier-jug.html"
   },
   {
+   "slug": "julien-sautot",
+   "nom": "Julien Sautot",
+   "fonction": "Gérant",
+   "maison": "etic-gestion-privee",
+   "siren": "848862470",
+   "chemin": "p/julien-sautot.html"
+  },
+  {
    "slug": "jules-nicou",
    "nom": "Jules Nicou",
    "fonction": "Président de SAS",
@@ -14678,6 +17846,14 @@
    "maison": "heritage-patrimoine",
    "siren": "850482340",
    "chemin": "p/antonin-amas.html"
+  },
+  {
+   "slug": "alexandre-musso",
+   "nom": "Alexandre Musso",
+   "fonction": "Gérant",
+   "maison": "camep-cabinet-alexandre-musso-d-expertises-patrimoniales",
+   "siren": "851130310",
+   "chemin": "p/alexandre-musso.html"
   },
   {
    "slug": "jean-marc-hulaud",
@@ -14704,6 +17880,22 @@
    "chemin": "p/yoan-cohen.html"
   },
   {
+   "slug": "dominique-mangoua",
+   "nom": "Dominique Mangoua",
+   "fonction": "Directeur Général",
+   "maison": "a-g-invest",
+   "siren": "851723718",
+   "chemin": "p/dominique-mangoua.html"
+  },
+  {
+   "slug": "gaetan-warin",
+   "nom": "Gaëtan Warin",
+   "fonction": "Directeur Général",
+   "maison": "a-g-invest",
+   "siren": "851723718",
+   "chemin": "p/gaetan-warin.html"
+  },
+  {
    "slug": "ruben-el-bilia",
    "nom": "Ruben El Bilia",
    "fonction": "Président de SAS",
@@ -14718,6 +17910,14 @@
    "maison": "ker-patrimoine",
    "siren": "852292697",
    "chemin": "p/kevin-benard.html"
+  },
+  {
+   "slug": "jean-noel-begin",
+   "nom": "Jean-Noel Begin",
+   "fonction": "Gérant",
+   "maison": "athanor",
+   "siren": "852383751",
+   "chemin": "p/jean-noel-begin.html"
   },
   {
    "slug": "thomas-chailloux",
@@ -14896,6 +18096,14 @@
    "chemin": "p/stephanie-dufour.html"
   },
   {
+   "slug": "franck-cerisola",
+   "nom": "Franck Cerisola",
+   "fonction": "Gérant",
+   "maison": "alpha-cgp",
+   "siren": "881106520",
+   "chemin": "p/franck-cerisola.html"
+  },
+  {
    "slug": "clemence-sanson",
    "nom": "Clémence Sanson",
    "fonction": "Gérant",
@@ -14944,6 +18152,22 @@
    "chemin": "p/david-berdah.html"
   },
   {
+   "slug": "romain-quiot",
+   "nom": "Romain Quiot",
+   "fonction": "Président de SAS",
+   "maison": "rquietude",
+   "siren": "882017304",
+   "chemin": "p/romain-quiot.html"
+  },
+  {
+   "slug": "frederique-larrieu",
+   "nom": "Frederique Larrieu",
+   "fonction": "Gérant",
+   "maison": "fl-gestion-patrimoniale",
+   "siren": "882865645",
+   "chemin": "p/frederique-larrieu.html"
+  },
+  {
    "slug": "guillaume-faller",
    "nom": "Guillaume Faller",
    "fonction": "Président de SAS",
@@ -14974,6 +18198,14 @@
    "maison": "care",
    "siren": "884164781",
    "chemin": "p/saul-daupin.html"
+  },
+  {
+   "slug": "bertrand-guinet",
+   "nom": "Bertrand Guinet",
+   "fonction": "Président de SAS",
+   "maison": "borel-patrimoine",
+   "siren": "884230616",
+   "chemin": "p/bertrand-guinet.html"
   },
   {
    "slug": "clement-bleriot",
@@ -15008,6 +18240,22 @@
    "chemin": "p/eric-foy.html"
   },
   {
+   "slug": "joseph-mazaeff",
+   "nom": "Joseph Mazaeff",
+   "fonction": "Directeur Général",
+   "maison": "maison-mazaeff",
+   "siren": "887624286",
+   "chemin": "p/joseph-mazaeff.html"
+  },
+  {
+   "slug": "gauthier-mazaeff-couston",
+   "nom": "Gauthier Mazaeff-Couston",
+   "fonction": "Président de SAS",
+   "maison": "maison-mazaeff",
+   "siren": "887624286",
+   "chemin": "p/gauthier-mazaeff-couston.html"
+  },
+  {
    "slug": "jerome-dedeyan",
    "nom": "Jerome Dedeyan",
    "fonction": "Président de SAS",
@@ -15022,6 +18270,14 @@
    "maison": "pulse-family-office",
    "siren": "887683613",
    "chemin": "p/matthieu-panhard.html"
+  },
+  {
+   "slug": "jean-pierre-pux",
+   "nom": "Jean-Pierre Pux",
+   "fonction": "Président de SAS",
+   "maison": "sapiens-wm",
+   "siren": "887753523",
+   "chemin": "p/jean-pierre-pux.html"
   },
   {
    "slug": "christophe-barbaras",
@@ -15200,6 +18456,14 @@
    "chemin": "p/benoit-emsalem.html"
   },
   {
+   "slug": "sylvain-david",
+   "nom": "Sylvain David",
+   "fonction": "Président de SAS",
+   "maison": "altus-consultants-patrimoine",
+   "siren": "892336447",
+   "chemin": "p/sylvain-david.html"
+  },
+  {
    "slug": "alexandre-jorge",
    "nom": "Alexandre Jorge",
    "fonction": "Gérant",
@@ -15222,6 +18486,14 @@
    "maison": "siimba",
    "siren": "892839366",
    "chemin": "p/david-ostrolenk.html"
+  },
+  {
+   "slug": "maeliss-clemencon",
+   "nom": "Maeliss Clemencon",
+   "fonction": "Gérant",
+   "maison": "courtier-4c",
+   "siren": "893080119",
+   "chemin": "p/maeliss-clemencon.html"
   },
   {
    "slug": "benjamin-bing",
@@ -15270,6 +18542,22 @@
    "maison": "beelong-family-office",
    "siren": "895114684",
    "chemin": "p/marlene-absi.html"
+  },
+  {
+   "slug": "sacha-marsilj-lindenmeyer",
+   "nom": "Sacha Marsilj--Lindenmeyer",
+   "fonction": "Gérant",
+   "maison": "patrimony-consulting",
+   "siren": "895166551",
+   "chemin": "p/sacha-marsilj-lindenmeyer.html"
+  },
+  {
+   "slug": "paco-morales",
+   "nom": "Paco Morales",
+   "fonction": "Gérant",
+   "maison": "patrimony-consulting",
+   "siren": "895166551",
+   "chemin": "p/paco-morales.html"
   },
   {
    "slug": "victor-dere",
@@ -15336,6 +18624,30 @@
    "chemin": "p/frederic-forte.html"
   },
   {
+   "slug": "thomas-bourdet",
+   "nom": "Thomas Bourdet",
+   "fonction": "Président de SAS",
+   "maison": "althima-consulting",
+   "siren": "899738082",
+   "chemin": "p/thomas-bourdet.html"
+  },
+  {
+   "slug": "claude-cadeau",
+   "nom": "Claude Cadeau",
+   "fonction": "Gérant",
+   "maison": "l-observatoire-financier",
+   "siren": "900077637",
+   "chemin": "p/claude-cadeau.html"
+  },
+  {
+   "slug": "redouane-zad",
+   "nom": "Redouane Zad",
+   "fonction": "Gérant",
+   "maison": "l-observatoire-financier",
+   "siren": "900077637",
+   "chemin": "p/redouane-zad.html"
+  },
+  {
    "slug": "georges-dauzonne",
    "nom": "Georges Dauzonne",
    "fonction": "Président de SAS",
@@ -15350,6 +18662,14 @@
    "maison": "apc-partners",
    "siren": "900200056",
    "chemin": "p/aymeric-plassard.html"
+  },
+  {
+   "slug": "mathieu-juchet",
+   "nom": "Mathieu Juchet",
+   "fonction": "Président de SAS",
+   "maison": "alturea-investissement",
+   "siren": "900303488",
+   "chemin": "p/mathieu-juchet.html"
   },
   {
    "slug": "valencia-sidambarom",
@@ -15374,6 +18694,14 @@
    "maison": "aestia",
    "siren": "900887829",
    "chemin": "p/martin-dimier.html"
+  },
+  {
+   "slug": "laure-buffard",
+   "nom": "Laure Buffard",
+   "fonction": "Président de SAS",
+   "maison": "lb-conseil",
+   "siren": "901091793",
+   "chemin": "p/laure-buffard.html"
   },
   {
    "slug": "thierry-mirabel",
@@ -15440,12 +18768,44 @@
    "chemin": "p/kevin-dropsy.html"
   },
   {
+   "slug": "nicolas-milliot-dayan-de-santa-clara",
+   "nom": "Nicolas Milliot-Dayan de Santa-Clara",
+   "fonction": "Gérant",
+   "maison": "nmdinvest",
+   "siren": "903343341",
+   "chemin": "p/nicolas-milliot-dayan-de-santa-clara.html"
+  },
+  {
+   "slug": "denis-auxenfans",
+   "nom": "Denis Auxenfans",
+   "fonction": "Président de SAS",
+   "maison": "auz-gestion-privee",
+   "siren": "903458396",
+   "chemin": "p/denis-auxenfans.html"
+  },
+  {
    "slug": "vincent-malcolm",
    "nom": "Vincent Malcolm",
    "fonction": "Président de SAS",
    "maison": "framatong-cgp",
    "siren": "903609527",
    "chemin": "p/vincent-malcolm.html"
+  },
+  {
+   "slug": "celine-mendes",
+   "nom": "Celine Mendes",
+   "fonction": "Gérant",
+   "maison": "cmgp",
+   "siren": "903715852",
+   "chemin": "p/celine-mendes.html"
+  },
+  {
+   "slug": "antoine-lencou-bareme",
+   "nom": "Antoine Lencou-Bareme",
+   "fonction": "Président de SAS",
+   "maison": "amvedag-croissance",
+   "siren": "903890564",
+   "chemin": "p/antoine-lencou-bareme.html"
   },
   {
    "slug": "yann-le-her",
@@ -15480,6 +18840,22 @@
    "chemin": "p/bertil-aubrun.html"
   },
   {
+   "slug": "anthony-garcia",
+   "nom": "Anthony Garcia",
+   "fonction": "Gérant",
+   "maison": "veama-patrimoine-assurances",
+   "siren": "905213138",
+   "chemin": "p/anthony-garcia.html"
+  },
+  {
+   "slug": "valery-helion-dejean-de-la-batie",
+   "nom": "Valery-Helion Dejean de la Batie",
+   "fonction": "Président de SAS",
+   "maison": "valdaine-patrimoine",
+   "siren": "905281424",
+   "chemin": "p/valery-helion-dejean-de-la-batie.html"
+  },
+  {
    "slug": "alexandre-graczyk",
    "nom": "Alexandre Graczyk",
    "fonction": "Gérant",
@@ -15494,6 +18870,14 @@
    "maison": "ekko",
    "siren": "907698351",
    "chemin": "p/karine-tricheur.html"
+  },
+  {
+   "slug": "tim-hacken",
+   "nom": "Tim Hacken",
+   "fonction": "Président de SAS",
+   "maison": "actifs-partners-invest",
+   "siren": "907711519",
+   "chemin": "p/tim-hacken.html"
   },
   {
    "slug": "emmanuel-cervo",
@@ -15536,6 +18920,30 @@
    "chemin": "p/guillaume-duport.html"
   },
   {
+   "slug": "baptiste-gabriel",
+   "nom": "Baptiste Gabriel",
+   "fonction": "Gérant",
+   "maison": "serines-patrimoine",
+   "siren": "908318314",
+   "chemin": "p/baptiste-gabriel.html"
+  },
+  {
+   "slug": "jerome-herve",
+   "nom": "Jerome Herve",
+   "fonction": "Directeur Général",
+   "maison": "not-for-turning-investments",
+   "siren": "908349806",
+   "chemin": "p/jerome-herve.html"
+  },
+  {
+   "slug": "timothy-mandefield",
+   "nom": "Timothy Mandefield",
+   "fonction": "Président de SAS",
+   "maison": "not-for-turning-investments",
+   "siren": "908349806",
+   "chemin": "p/timothy-mandefield.html"
+  },
+  {
    "slug": "jonathan-jozan",
    "nom": "Jonathan Jozan",
    "fonction": "Président de SAS",
@@ -15576,12 +18984,28 @@
    "chemin": "p/romain-paquier.html"
   },
   {
+   "slug": "alexis-rabeux",
+   "nom": "Alexis Rabeux",
+   "fonction": "Gérant",
+   "maison": "scar-consulting",
+   "siren": "909338139",
+   "chemin": "p/alexis-rabeux.html"
+  },
+  {
    "slug": "bernard-ducellier",
    "nom": "Bernard Ducellier",
    "fonction": "Gérant",
    "maison": "entropi-patrimoine",
    "siren": "909470536",
    "chemin": "p/bernard-ducellier.html"
+  },
+  {
+   "slug": "agnes-mariaux",
+   "nom": "Agnes Mariaux",
+   "fonction": "Président de SAS",
+   "maison": "3am-patrimoine",
+   "siren": "909730194",
+   "chemin": "p/agnes-mariaux.html"
   },
   {
    "slug": "alexandre-gilles",
@@ -15616,6 +19040,38 @@
    "chemin": "p/jean-baptiste-villain.html"
   },
   {
+   "slug": "benoit-richard",
+   "nom": "Benoit Richard",
+   "fonction": "Président de SAS",
+   "maison": "comment-bien-investir",
+   "siren": "911354777",
+   "chemin": "p/benoit-richard.html"
+  },
+  {
+   "slug": "alexis-de-reinach-hirtzbach",
+   "nom": "Alexis de Reinach-Hirtzbach",
+   "fonction": "Gérant",
+   "maison": "reinach-gestion-privee",
+   "siren": "911990273",
+   "chemin": "p/alexis-de-reinach-hirtzbach.html"
+  },
+  {
+   "slug": "florian-van-damme",
+   "nom": "Florian van-Damme",
+   "fonction": "Directeur Général",
+   "maison": "ad-vidam",
+   "siren": "912805504",
+   "chemin": "p/florian-van-damme.html"
+  },
+  {
+   "slug": "ivhan-vivies",
+   "nom": "Ivhan Vivies",
+   "fonction": "Président de SAS",
+   "maison": "ad-vidam",
+   "siren": "912805504",
+   "chemin": "p/ivhan-vivies.html"
+  },
+  {
    "slug": "yoann-giroud",
    "nom": "Yoann Giroud",
    "fonction": "Gérant",
@@ -15624,12 +19080,36 @@
    "chemin": "p/yoann-giroud.html"
   },
   {
+   "slug": "philippe-bousquie",
+   "nom": "Philippe Bousquie",
+   "fonction": "Président de SAS",
+   "maison": "demeter-gestion-privee",
+   "siren": "913025771",
+   "chemin": "p/philippe-bousquie.html"
+  },
+  {
+   "slug": "maxime-vacher",
+   "nom": "Maxime Vacher",
+   "fonction": "Directeur Général",
+   "maison": "demeter-gestion-privee",
+   "siren": "913025771",
+   "chemin": "p/maxime-vacher.html"
+  },
+  {
    "slug": "alain-sauzey",
    "nom": "Alain Sauzey",
    "fonction": "Président de SAS",
    "maison": "alain-sauzey-conseils",
    "siren": "913106118",
    "chemin": "p/alain-sauzey.html"
+  },
+  {
+   "slug": "pierre-lacondemine",
+   "nom": "Pierre Lacondemine",
+   "fonction": "Gérant",
+   "maison": "roca-patrimoine",
+   "siren": "913574828",
+   "chemin": "p/pierre-lacondemine.html"
   },
   {
    "slug": "olivier-corbeau",
@@ -15670,6 +19150,46 @@
    "maison": "rod-pay",
    "siren": "913874343",
    "chemin": "p/steeve-rodney.html"
+  },
+  {
+   "slug": "philippe-julien",
+   "nom": "Philippe Julien",
+   "fonction": "Président de SAS",
+   "maison": "adding-values-finance",
+   "siren": "914258694",
+   "chemin": "p/philippe-julien.html"
+  },
+  {
+   "slug": "veronique-lepage",
+   "nom": "Veronique Lepage",
+   "fonction": "Président de SAS",
+   "maison": "lepage-patrimoine",
+   "siren": "914649280",
+   "chemin": "p/veronique-lepage.html"
+  },
+  {
+   "slug": "morgane-nagy",
+   "nom": "Morgane Nagy",
+   "fonction": "Gérant",
+   "maison": "mopa",
+   "siren": "914851167",
+   "chemin": "p/morgane-nagy.html"
+  },
+  {
+   "slug": "pierre-yves-dittlot",
+   "nom": "Pierre-Yves Dittlot",
+   "fonction": "Directeur Général",
+   "maison": "eta-gestion-privee",
+   "siren": "915157606",
+   "chemin": "p/pierre-yves-dittlot.html"
+  },
+  {
+   "slug": "nicolas-soufflet",
+   "nom": "Nicolas Soufflet",
+   "fonction": "Président de SAS",
+   "maison": "eta-gestion-privee",
+   "siren": "915157606",
+   "chemin": "p/nicolas-soufflet.html"
   },
   {
    "slug": "rodolphe-philippon",
@@ -15758,6 +19278,14 @@
    "maison": "arkance-finance",
    "siren": "918753997",
    "chemin": "p/joel-gresse.html"
+  },
+  {
+   "slug": "quentin-guillot",
+   "nom": "Quentin Guillot",
+   "fonction": "Gérant",
+   "maison": "amplificatum",
+   "siren": "918825878",
+   "chemin": "p/quentin-guillot.html"
   },
   {
    "slug": "souleymane-galadima",
@@ -15928,6 +19456,22 @@
    "chemin": "p/didier-amziani.html"
   },
   {
+   "slug": "benjamin-chataigner",
+   "nom": "Benjamin Chataigner",
+   "fonction": "Gérant",
+   "maison": "ascantea",
+   "siren": "920868825",
+   "chemin": "p/benjamin-chataigner.html"
+  },
+  {
+   "slug": "sidney-benlolo",
+   "nom": "Sidney Benlolo",
+   "fonction": "Directeur Général",
+   "maison": "benel-capital",
+   "siren": "920951241",
+   "chemin": "p/sidney-benlolo.html"
+  },
+  {
    "slug": "jonathan-pierre-jean",
    "nom": "Jonathan Pierre-Jean",
    "fonction": "Gérant",
@@ -15944,12 +19488,28 @@
    "chemin": "p/jerome-rayet.html"
   },
   {
+   "slug": "claude-sibert",
+   "nom": "Claude Sibert",
+   "fonction": "Gérant",
+   "maison": "fortunae-conseils",
+   "siren": "921335212",
+   "chemin": "p/claude-sibert.html"
+  },
+  {
    "slug": "johan-chichportich",
    "nom": "Johan Chichportich",
    "fonction": "Président de SAS",
    "maison": "patrimy",
    "siren": "921355095",
    "chemin": "p/johan-chichportich.html"
+  },
+  {
+   "slug": "felix-bernard",
+   "nom": "Felix Bernard",
+   "fonction": "Gérant",
+   "maison": "fbe-capital",
+   "siren": "921591798",
+   "chemin": "p/felix-bernard.html"
   },
   {
    "slug": "martin-micalef",
@@ -15984,6 +19544,14 @@
    "chemin": "p/alexis-naacke.html"
   },
   {
+   "slug": "frederic-madeleine",
+   "nom": "Frederic Madeleine",
+   "fonction": "Gérant",
+   "maison": "l-f-consulting-solutions-d-investissements",
+   "siren": "922175641",
+   "chemin": "p/frederic-madeleine.html"
+  },
+  {
    "slug": "julide-ninek",
    "nom": "Julide Ninek",
    "fonction": "Président de SAS",
@@ -15992,12 +19560,60 @@
    "chemin": "p/julide-ninek.html"
   },
   {
+   "slug": "guillaume-blanc",
+   "nom": "Guillaume Blanc",
+   "fonction": "Gérant",
+   "maison": "gba-investissements",
+   "siren": "922323910",
+   "chemin": "p/guillaume-blanc.html"
+  },
+  {
+   "slug": "david-ignatio",
+   "nom": "David Ignatio",
+   "fonction": "Président de SAS",
+   "maison": "artes-patrimoine",
+   "siren": "922511209",
+   "chemin": "p/david-ignatio.html"
+  },
+  {
+   "slug": "david-miotto",
+   "nom": "David Miotto",
+   "fonction": "Directeur Général",
+   "maison": "artes-patrimoine",
+   "siren": "922511209",
+   "chemin": "p/david-miotto.html"
+  },
+  {
+   "slug": "romain-sartre",
+   "nom": "Romain Sartre",
+   "fonction": "Directeur Général",
+   "maison": "artes-patrimoine",
+   "siren": "922511209",
+   "chemin": "p/romain-sartre.html"
+  },
+  {
    "slug": "samuel-tordjeman",
    "nom": "Samuel Tordjeman",
    "fonction": "Président de SAS",
    "maison": "agile-gestion-privee",
    "siren": "922514625",
    "chemin": "p/samuel-tordjeman.html"
+  },
+  {
+   "slug": "rafael-egal",
+   "nom": "Rafael Egal",
+   "fonction": "Gérant",
+   "maison": "conseil-propice",
+   "siren": "924799950",
+   "chemin": "p/rafael-egal.html"
+  },
+  {
+   "slug": "alix-guerre",
+   "nom": "Alix Guerre",
+   "fonction": "Gérant",
+   "maison": "conseil-propice",
+   "siren": "924799950",
+   "chemin": "p/alix-guerre.html"
   },
   {
    "slug": "thibault-goullioud",
@@ -16030,6 +19646,30 @@
    "maison": "moneypargne",
    "siren": "927856997",
    "chemin": "p/thierry-boulanger.html"
+  },
+  {
+   "slug": "damien-cardon",
+   "nom": "Damien Cardon",
+   "fonction": "Gérant",
+   "maison": "cardon-invest",
+   "siren": "927963413",
+   "chemin": "p/damien-cardon.html"
+  },
+  {
+   "slug": "arthur-limouzy",
+   "nom": "Arthur Limouzy",
+   "fonction": "Directeur Général",
+   "maison": "alma-gestion-privee",
+   "siren": "928066356",
+   "chemin": "p/arthur-limouzy.html"
+  },
+  {
+   "slug": "pierre-manueco",
+   "nom": "Pierre Manueco",
+   "fonction": "Président de SAS",
+   "maison": "alma-gestion-privee",
+   "siren": "928066356",
+   "chemin": "p/pierre-manueco.html"
   },
   {
    "slug": "sebastien-valton",
@@ -16072,6 +19712,14 @@
    "chemin": "p/tom-migne.html"
   },
   {
+   "slug": "quentin-molenat",
+   "nom": "Quentin Molenat",
+   "fonction": "Gérant",
+   "maison": "day2rise-invest",
+   "siren": "928325216",
+   "chemin": "p/quentin-molenat.html"
+  },
+  {
    "slug": "pierre-charrier",
    "nom": "Pierre Charrier",
    "fonction": "Président de SAS",
@@ -16112,6 +19760,22 @@
    "chemin": "p/olivier-etiembre.html"
   },
   {
+   "slug": "paul-camus",
+   "nom": "Paul Camus",
+   "fonction": "Président de SAS",
+   "maison": "camus-conseils",
+   "siren": "928852144",
+   "chemin": "p/paul-camus.html"
+  },
+  {
+   "slug": "rami-debbouz",
+   "nom": "Rami Debbouz",
+   "fonction": "Président de SAS",
+   "maison": "debbouz-hassani-conseil-et-patrimoine",
+   "siren": "928878719",
+   "chemin": "p/rami-debbouz.html"
+  },
+  {
    "slug": "fleur-bouvier",
    "nom": "Fleur Bouvier",
    "fonction": "Président de SAS",
@@ -16126,14 +19790,6 @@
    "maison": "nd-developpement",
    "siren": "929007144",
    "chemin": "p/nikki-dell-olio.html"
-  },
-  {
-   "slug": "benjamin-rizzi",
-   "nom": "Benjamin Rizzi",
-   "fonction": "Président de SAS",
-   "maison": "stellar-invest",
-   "siren": "929052363",
-   "chemin": "p/benjamin-rizzi.html"
   },
   {
    "slug": "matthieu-paquier",
@@ -16158,6 +19814,14 @@
    "maison": "adlyna",
    "siren": "930145859",
    "chemin": "p/pascal-bono.html"
+  },
+  {
+   "slug": "aurelien-socie",
+   "nom": "Aurélien Socie",
+   "fonction": "Gérant",
+   "maison": "amt-gestion-privee",
+   "siren": "930172499",
+   "chemin": "p/aurelien-socie.html"
   },
   {
    "slug": "fabien-guede",
@@ -16312,12 +19976,28 @@
    "chemin": "p/gregoire-souffront.html"
   },
   {
+   "slug": "thibaud-juglaret",
+   "nom": "Thibaud Juglaret",
+   "fonction": "Président de SAS",
+   "maison": "money-invest",
+   "siren": "932676976",
+   "chemin": "p/thibaud-juglaret.html"
+  },
+  {
    "slug": "bruno-murcuillat",
    "nom": "Bruno Murcuillat",
    "fonction": "Président de SAS",
    "maison": "arkangraal",
    "siren": "932797012",
    "chemin": "p/bruno-murcuillat.html"
+  },
+  {
+   "slug": "damien-bicheyre",
+   "nom": "Damien Bicheyre",
+   "fonction": "Gérant",
+   "maison": "le-carrousel-du-patrimoine",
+   "siren": "932888530",
+   "chemin": "p/damien-bicheyre.html"
   },
   {
    "slug": "alban-stievenart",
@@ -16368,6 +20048,14 @@
    "chemin": "p/mathieu-gouraud.html"
   },
   {
+   "slug": "franckie-wyrobnik",
+   "nom": "Franckie Wyrobnik",
+   "fonction": "Président de SAS",
+   "maison": "fw-wealth-management",
+   "siren": "934276932",
+   "chemin": "p/franckie-wyrobnik.html"
+  },
+  {
    "slug": "florent-blandin",
    "nom": "Florent Blandin",
    "fonction": "Président de SAS",
@@ -16392,6 +20080,38 @@
    "chemin": "p/patricia-cressot.html"
   },
   {
+   "slug": "bradley-lafond",
+   "nom": "Bradley Lafond",
+   "fonction": "Président de SAS",
+   "maison": "fundora-conseil",
+   "siren": "934327560",
+   "chemin": "p/bradley-lafond.html"
+  },
+  {
+   "slug": "christophe-bonnet",
+   "nom": "Christophe Bonnet",
+   "fonction": "Directeur Général",
+   "maison": "oracle-gestion-privee",
+   "siren": "934541343",
+   "chemin": "p/christophe-bonnet.html"
+  },
+  {
+   "slug": "thibaut-kabalec",
+   "nom": "Thibaut Kabalec",
+   "fonction": "Président de SAS",
+   "maison": "oracle-gestion-privee",
+   "siren": "934541343",
+   "chemin": "p/thibaut-kabalec.html"
+  },
+  {
+   "slug": "remy-gavalda",
+   "nom": "Remy Gavalda",
+   "fonction": "Gérant",
+   "maison": "rga-conseil",
+   "siren": "934810268",
+   "chemin": "p/remy-gavalda.html"
+  },
+  {
    "slug": "bernard-cohen",
    "nom": "Bernard Cohen",
    "fonction": "Président de SAS",
@@ -16408,12 +20128,52 @@
    "chemin": "p/sisouphan-tran.html"
   },
   {
+   "slug": "jerome-beaumont",
+   "nom": "Jérôme Beaumont",
+   "fonction": "Gérant",
+   "maison": "fic-llinares",
+   "siren": "935089961",
+   "chemin": "p/jerome-beaumont.html"
+  },
+  {
+   "slug": "yann-cottin",
+   "nom": "Yann Cottin",
+   "fonction": "Gérant",
+   "maison": "fic-llinares",
+   "siren": "935089961",
+   "chemin": "p/yann-cottin.html"
+  },
+  {
+   "slug": "romain-delage",
+   "nom": "Romain Delage",
+   "fonction": "Gérant",
+   "maison": "fic-llinares",
+   "siren": "935089961",
+   "chemin": "p/romain-delage.html"
+  },
+  {
+   "slug": "mehdi-rahimzad-ahari",
+   "nom": "Mehdi Rahimzad Ahari",
+   "fonction": "Président de SAS",
+   "maison": "courcelles-patrimoine",
+   "siren": "935094789",
+   "chemin": "p/mehdi-rahimzad-ahari.html"
+  },
+  {
    "slug": "christophe-sadoux",
    "nom": "Christophe Sadoux",
    "fonction": "Président de SAS",
    "maison": "spf-experts",
    "siren": "937592913",
    "chemin": "p/christophe-sadoux.html"
+  },
+  {
+   "slug": "cedric-forman",
+   "nom": "Cédric Forman",
+   "fonction": "Président de SAS",
+   "maison": "capygest",
+   "siren": "938133196",
+   "chemin": "p/cedric-forman.html"
   },
   {
    "slug": "ethan-dray",
@@ -16438,6 +20198,22 @@
    "maison": "liva-ins",
    "siren": "938484631",
    "chemin": "p/valentin-mathieu.html"
+  },
+  {
+   "slug": "julien-marette",
+   "nom": "Julien Marette",
+   "fonction": "Président de SAS",
+   "maison": "switche",
+   "siren": "938617313",
+   "chemin": "p/julien-marette.html"
+  },
+  {
+   "slug": "philippe-arnold",
+   "nom": "Philippe Arnold",
+   "fonction": "Président de SAS",
+   "maison": "d-patrimoine",
+   "siren": "938643806",
+   "chemin": "p/philippe-arnold.html"
   },
   {
    "slug": "yohan-bakaraly",
@@ -16520,6 +20296,14 @@
    "chemin": "p/michael-erbibou.html"
   },
   {
+   "slug": "vincent-rivoal",
+   "nom": "Vincent Rivoal",
+   "fonction": "Président de SAS",
+   "maison": "savoir-invest",
+   "siren": "939921359",
+   "chemin": "p/vincent-rivoal.html"
+  },
+  {
    "slug": "michel-szecowka",
    "nom": "Michel Szecowka",
    "fonction": "Président de SAS",
@@ -16534,6 +20318,46 @@
    "maison": "elyseys-gestion-privee",
    "siren": "940142599",
    "chemin": "p/gonzague-de-pommereau.html"
+  },
+  {
+   "slug": "renaud-genin",
+   "nom": "Renaud Genin",
+   "fonction": "Président de SAS",
+   "maison": "hector-capital",
+   "siren": "940228794",
+   "chemin": "p/renaud-genin.html"
+  },
+  {
+   "slug": "david-escallier",
+   "nom": "David Escallier",
+   "fonction": "Président de SAS",
+   "maison": "step-up-conseils",
+   "siren": "940460454",
+   "chemin": "p/david-escallier.html"
+  },
+  {
+   "slug": "nicolas-barbagallo",
+   "nom": "Nicolas Barbagallo",
+   "fonction": "Gérant",
+   "maison": "arkanis",
+   "siren": "940502859",
+   "chemin": "p/nicolas-barbagallo.html"
+  },
+  {
+   "slug": "jean-baptiste-blin",
+   "nom": "Jean-Baptiste Blin",
+   "fonction": "Président de SAS",
+   "maison": "tailorfin",
+   "siren": "940602980",
+   "chemin": "p/jean-baptiste-blin.html"
+  },
+  {
+   "slug": "jean-bastien-grumo",
+   "nom": "Jean-Bastien Grumo",
+   "fonction": "Directeur Général",
+   "maison": "tailorfin",
+   "siren": "940602980",
+   "chemin": "p/jean-bastien-grumo.html"
   },
   {
    "slug": "ryad-khelif",
@@ -16616,12 +20440,36 @@
    "chemin": "p/guillaume-doury.html"
   },
   {
+   "slug": "laurent-noirault-massol",
+   "nom": "Laurent Noirault-Massol",
+   "fonction": "Président de SAS",
+   "maison": "finae-gestion-privee",
+   "siren": "941685992",
+   "chemin": "p/laurent-noirault-massol.html"
+  },
+  {
    "slug": "jean-richard-niago",
    "nom": "Jean-Richard Niago",
    "fonction": "Président de SAS",
    "maison": "germe-investment-advisory",
    "siren": "941854861",
    "chemin": "p/jean-richard-niago.html"
+  },
+  {
+   "slug": "sebastien-david",
+   "nom": "Sébastien David",
+   "fonction": "Président de SAS",
+   "maison": "primaval-provence",
+   "siren": "942026204",
+   "chemin": "p/sebastien-david.html"
+  },
+  {
+   "slug": "pierre-jamet",
+   "nom": "Pierre Jamet",
+   "fonction": "Directeur Général",
+   "maison": "primaval-provence",
+   "siren": "942026204",
+   "chemin": "p/pierre-jamet.html"
   },
   {
    "slug": "yann-illouz",
@@ -16654,6 +20502,14 @@
    "maison": "nw-gestion-privee",
    "siren": "942277674",
    "chemin": "p/wael-rachidi.html"
+  },
+  {
+   "slug": "sebastien-picard",
+   "nom": "Sébastien Picard",
+   "fonction": "Gérant",
+   "maison": "signature-patrimoine",
+   "siren": "942473174",
+   "chemin": "p/sebastien-picard.html"
   },
   {
    "slug": "helene-allara",
@@ -16704,6 +20560,14 @@
    "chemin": "p/nicolas-guibert.html"
   },
   {
+   "slug": "jeremy-delbaere",
+   "nom": "Jérémy Delbaere",
+   "fonction": "Président de SAS",
+   "maison": "babylone-patrimoine",
+   "siren": "942756412",
+   "chemin": "p/jeremy-delbaere.html"
+  },
+  {
    "slug": "vincent-bohec",
    "nom": "Vincent Bohec",
    "fonction": "Gérant",
@@ -16752,6 +20616,30 @@
    "chemin": "p/sandrine-chroukroun.html"
   },
   {
+   "slug": "philippe-l-huillier",
+   "nom": "Philippe L'Huillier",
+   "fonction": "Gérant",
+   "maison": "cobra-associes",
+   "siren": "943464032",
+   "chemin": "p/philippe-l-huillier.html"
+  },
+  {
+   "slug": "vincent-blandin",
+   "nom": "Vincent Blandin",
+   "fonction": "Président de SAS",
+   "maison": "accend-generation",
+   "siren": "943564112",
+   "chemin": "p/vincent-blandin.html"
+  },
+  {
+   "slug": "pierre-emmanuel-cheze",
+   "nom": "Pierre-Emmanuel Cheze",
+   "fonction": "Directeur Général",
+   "maison": "accend-generation",
+   "siren": "943564112",
+   "chemin": "p/pierre-emmanuel-cheze.html"
+  },
+  {
    "slug": "mickael-kofman",
    "nom": "Mickaël Kofman",
    "fonction": "Président de SAS",
@@ -16760,12 +20648,36 @@
    "chemin": "p/mickael-kofman.html"
   },
   {
+   "slug": "francois-louis-de-montfort",
+   "nom": "François-Louis de Montfort",
+   "fonction": "Président de SAS",
+   "maison": "interphase-finance",
+   "siren": "943895920",
+   "chemin": "p/francois-louis-de-montfort.html"
+  },
+  {
+   "slug": "chantal-davidson",
+   "nom": "Chantal Davidson",
+   "fonction": "Président de SAS",
+   "maison": "dsp",
+   "siren": "944154327",
+   "chemin": "p/chantal-davidson.html"
+  },
+  {
    "slug": "rashan-kadioglu",
    "nom": "Rashan Kadioglu",
    "fonction": "Président de SAS",
    "maison": "rkg-invest",
    "siren": "944733161",
    "chemin": "p/rashan-kadioglu.html"
+  },
+  {
+   "slug": "alain-pignol",
+   "nom": "Alain Pignol",
+   "fonction": "Gérant",
+   "maison": "axior-patrimoine",
+   "siren": "944806090",
+   "chemin": "p/alain-pignol.html"
   },
   {
    "slug": "adrien-bertheau",
@@ -16814,6 +20726,14 @@
    "maison": "vivafi-com",
    "siren": "947676391",
    "chemin": "p/maxence-patin.html"
+  },
+  {
+   "slug": "loic-gignoux",
+   "nom": "Loïc Gignoux",
+   "fonction": "Gérant",
+   "maison": "lg-invest",
+   "siren": "948095567",
+   "chemin": "p/loic-gignoux.html"
   },
   {
    "slug": "alexis-molines",
@@ -16912,6 +20832,14 @@
    "chemin": "p/william-leon.html"
   },
   {
+   "slug": "karine-larrue",
+   "nom": "Karine Larrue",
+   "fonction": "Président de SAS",
+   "maison": "olympea",
+   "siren": "948508825",
+   "chemin": "p/karine-larrue.html"
+  },
+  {
    "slug": "nicolas-schimel",
    "nom": "Nicolas Schimel",
    "fonction": "Président de SAS",
@@ -16926,6 +20854,14 @@
    "maison": "fidji",
    "siren": "948520895",
    "chemin": "p/paul-younes.html"
+  },
+  {
+   "slug": "jeremy-baudino",
+   "nom": "Jérémy Baudino",
+   "fonction": "Gérant",
+   "maison": "baudino-conseil",
+   "siren": "948550694",
+   "chemin": "p/jeremy-baudino.html"
   },
   {
    "slug": "jean-roland-didier",
@@ -16984,6 +20920,14 @@
    "chemin": "p/jeremy-boublil.html"
   },
   {
+   "slug": "adeline-dillmann",
+   "nom": "Adeline Dillmann",
+   "fonction": "Président de SAS",
+   "maison": "fillenance-patrimoine",
+   "siren": "949721088",
+   "chemin": "p/adeline-dillmann.html"
+  },
+  {
    "slug": "hubert-dalstein",
    "nom": "Hubert Dalstein",
    "fonction": "Président de SAS",
@@ -16998,6 +20942,14 @@
    "maison": "financiere-1618",
    "siren": "950954339",
    "chemin": "p/antoine-dreux.html"
+  },
+  {
+   "slug": "sebastien-baque",
+   "nom": "Sébastien Baqué",
+   "fonction": "Gérant",
+   "maison": "patrimoine-a-venir",
+   "siren": "951033455",
+   "chemin": "p/sebastien-baque.html"
   },
   {
    "slug": "eudes-blin",
@@ -17048,6 +21000,14 @@
    "chemin": "p/thomas-ziadi.html"
   },
   {
+   "slug": "nicolas-courivaud",
+   "nom": "Nicolas Courivaud",
+   "fonction": "Gérant",
+   "maison": "abacus",
+   "siren": "952885382",
+   "chemin": "p/nicolas-courivaud.html"
+  },
+  {
    "slug": "jean-baptiste-briel",
    "nom": "Jean-Baptiste Briel",
    "fonction": "Directeur Général",
@@ -17072,12 +21032,44 @@
    "chemin": "p/david-lebas.html"
   },
   {
+   "slug": "jerome-galissaire",
+   "nom": "Jérôme Galissaire",
+   "fonction": "Gérant",
+   "maison": "astra-family-office",
+   "siren": "952987568",
+   "chemin": "p/jerome-galissaire.html"
+  },
+  {
+   "slug": "pierre-walch",
+   "nom": "Pierre Walch",
+   "fonction": "Gérant",
+   "maison": "astra-family-office",
+   "siren": "952987568",
+   "chemin": "p/pierre-walch.html"
+  },
+  {
+   "slug": "samy-dabbabi",
+   "nom": "Samy Dabbabi",
+   "fonction": "Gérant",
+   "maison": "ienco-patrimoine",
+   "siren": "953144540",
+   "chemin": "p/samy-dabbabi.html"
+  },
+  {
    "slug": "solal-blanc",
    "nom": "Solal Blanc",
    "fonction": "Président de SAS",
    "maison": "somae",
    "siren": "953434990",
    "chemin": "p/solal-blanc.html"
+  },
+  {
+   "slug": "guillaume-siffelet",
+   "nom": "Guillaume Siffelet",
+   "fonction": "Directeur Général",
+   "maison": "tomcat-investment",
+   "siren": "953455508",
+   "chemin": "p/guillaume-siffelet.html"
   },
   {
    "slug": "adrien-gasan",
@@ -17136,6 +21128,14 @@
    "chemin": "p/alexander-rennie.html"
   },
   {
+   "slug": "marine-amri",
+   "nom": "Marine Amri",
+   "fonction": "Gérant",
+   "maison": "terra-nova-gestion-privee",
+   "siren": "954052999",
+   "chemin": "p/marine-amri.html"
+  },
+  {
    "slug": "severine-deval",
    "nom": "Séverine Deval",
    "fonction": "Président de SAS",
@@ -17144,12 +21144,44 @@
    "chemin": "p/severine-deval.html"
   },
   {
+   "slug": "nicolas-didier",
+   "nom": "Nicolas Didier",
+   "fonction": "Gérant",
+   "maison": "dn-patrimoine-2021",
+   "siren": "977814409",
+   "chemin": "p/nicolas-didier.html"
+  },
+  {
+   "slug": "christophe-bauquet",
+   "nom": "Christophe Bauquet",
+   "fonction": "Président de SAS",
+   "maison": "nexinance",
+   "siren": "977859438",
+   "chemin": "p/christophe-bauquet.html"
+  },
+  {
+   "slug": "victor-escoffier",
+   "nom": "Victor Escoffier",
+   "fonction": "Directeur Général",
+   "maison": "nexinance",
+   "siren": "977859438",
+   "chemin": "p/victor-escoffier.html"
+  },
+  {
    "slug": "marc-dregnaux",
    "nom": "Marc Dregnaux",
    "fonction": "Président de SAS",
    "maison": "dregnaux-expertise",
    "siren": "978180198",
    "chemin": "p/marc-dregnaux.html"
+  },
+  {
+   "slug": "jean-cochet",
+   "nom": "Jean Cochet",
+   "fonction": "Gérant",
+   "maison": "chronicles-solutions",
+   "siren": "978353654",
+   "chemin": "p/jean-cochet.html"
   },
   {
    "slug": "fabrice-frenot",
@@ -17224,6 +21256,14 @@
    "chemin": "p/patrice-leclerc.html"
   },
   {
+   "slug": "gwenael-davicco",
+   "nom": "Gwenaël Davicco",
+   "fonction": "Gérant",
+   "maison": "inicio-patrimoine",
+   "siren": "979128782",
+   "chemin": "p/gwenael-davicco.html"
+  },
+  {
    "slug": "tanguy-chevallier",
    "nom": "Tanguy Chevallier",
    "fonction": "Président de SAS",
@@ -17294,6 +21334,30 @@
    "maison": "quadratis",
    "siren": "980745103",
    "chemin": "p/brice-gimeno.html"
+  },
+  {
+   "slug": "romain-benassi-houben",
+   "nom": "Romain Benassi-Houben",
+   "fonction": "Gérant",
+   "maison": "le-cercle-patrimoine",
+   "siren": "980768402",
+   "chemin": "p/romain-benassi-houben.html"
+  },
+  {
+   "slug": "cyrille-albert-roulhac",
+   "nom": "Cyrille Albert-Roulhac",
+   "fonction": "Directeur Général",
+   "maison": "axilio",
+   "siren": "981180375",
+   "chemin": "p/cyrille-albert-roulhac.html"
+  },
+  {
+   "slug": "amar-douhane",
+   "nom": "Amar Douhane",
+   "fonction": "Président de SAS",
+   "maison": "axilio",
+   "siren": "981180375",
+   "chemin": "p/amar-douhane.html"
   },
   {
    "slug": "gregory-choisy",
@@ -17376,6 +21440,30 @@
    "chemin": "p/benjamin-poylo.html"
   },
   {
+   "slug": "christophe-lopez",
+   "nom": "Christophe Lopez",
+   "fonction": "Gérant",
+   "maison": "2xl-invest",
+   "siren": "981655764",
+   "chemin": "p/christophe-lopez.html"
+  },
+  {
+   "slug": "xavier-trilling",
+   "nom": "Xavier Trilling",
+   "fonction": "Président de SAS",
+   "maison": "magellan-patrimoine",
+   "siren": "981707664",
+   "chemin": "p/xavier-trilling.html"
+  },
+  {
+   "slug": "pierre-desarnaud",
+   "nom": "Pierre Desarnaud",
+   "fonction": "Gérant",
+   "maison": "spinnakers-conseil",
+   "siren": "981980006",
+   "chemin": "p/pierre-desarnaud.html"
+  },
+  {
    "slug": "adrien-drogueux",
    "nom": "Adrien Drogueux",
    "fonction": "Gérant",
@@ -17406,6 +21494,62 @@
    "maison": "antoine-durieu-conseil",
    "siren": "982240954",
    "chemin": "p/antoine-durieu.html"
+  },
+  {
+   "slug": "hugo-dubessy",
+   "nom": "Hugo Dubessy",
+   "fonction": "Président de SAS",
+   "maison": "argo",
+   "siren": "982344194",
+   "chemin": "p/hugo-dubessy.html"
+  },
+  {
+   "slug": "alexandre-franc",
+   "nom": "Alexandre Franc",
+   "fonction": "Directeur Général",
+   "maison": "argo",
+   "siren": "982344194",
+   "chemin": "p/alexandre-franc.html"
+  },
+  {
+   "slug": "nicolas-lafon",
+   "nom": "Nicolas Lafon",
+   "fonction": "Directeur Général",
+   "maison": "argo",
+   "siren": "982344194",
+   "chemin": "p/nicolas-lafon.html"
+  },
+  {
+   "slug": "jean-imbert",
+   "nom": "Jean Imbert",
+   "fonction": "Gérant",
+   "maison": "s-investir-conseil",
+   "siren": "982687063",
+   "chemin": "p/jean-imbert.html"
+  },
+  {
+   "slug": "matthieu-louvet",
+   "nom": "Matthieu Louvet",
+   "fonction": "Gérant",
+   "maison": "s-investir-conseil",
+   "siren": "982687063",
+   "chemin": "p/matthieu-louvet.html"
+  },
+  {
+   "slug": "cyril-renaud",
+   "nom": "Cyril Renaud",
+   "fonction": "Gérant",
+   "maison": "s-investir-conseil",
+   "siren": "982687063",
+   "chemin": "p/cyril-renaud.html"
+  },
+  {
+   "slug": "bruce-blanc",
+   "nom": "Bruce Blanc",
+   "fonction": "Président de SAS",
+   "maison": "b-invest",
+   "siren": "982715328",
+   "chemin": "p/bruce-blanc.html"
   },
   {
    "slug": "stephane-lebastard",
@@ -17464,6 +21608,14 @@
    "chemin": "p/arnaud-delaune.html"
   },
   {
+   "slug": "berenice-commelin",
+   "nom": "Bérénice Commelin",
+   "fonction": "Gérant",
+   "maison": "bc-patrimoine",
+   "siren": "983463654",
+   "chemin": "p/berenice-commelin.html"
+  },
+  {
    "slug": "mathieu-mangin",
    "nom": "Mathieu Mangin",
    "fonction": "Directeur Général",
@@ -17480,12 +21632,44 @@
    "chemin": "p/arno-rossi.html"
   },
   {
+   "slug": "leni-champelay",
+   "nom": "Léni Champelay",
+   "fonction": "Gérant",
+   "maison": "champelay-gestion-de-patrimoine",
+   "siren": "983581778",
+   "chemin": "p/leni-champelay.html"
+  },
+  {
+   "slug": "mickael-tomasso",
+   "nom": "Mickaël Tomasso",
+   "fonction": "Gérant",
+   "maison": "mto-conseil",
+   "siren": "983779885",
+   "chemin": "p/mickael-tomasso.html"
+  },
+  {
+   "slug": "quentin-mauxion",
+   "nom": "Quentin Mauxion",
+   "fonction": "Président de SAS",
+   "maison": "qm-patrimoine",
+   "siren": "983815135",
+   "chemin": "p/quentin-mauxion.html"
+  },
+  {
    "slug": "stephane-prunet",
    "nom": "Stephane Prunet",
    "fonction": "Président de SAS",
    "maison": "kensho-capital",
    "siren": "983856865",
    "chemin": "p/stephane-prunet.html"
+  },
+  {
+   "slug": "amaury-schoenauer",
+   "nom": "Amaury Schoenauer",
+   "fonction": "Gérant",
+   "maison": "enerfi",
+   "siren": "983884123",
+   "chemin": "p/amaury-schoenauer.html"
   },
   {
    "slug": "roland-vigne",
@@ -17510,6 +21694,22 @@
    "maison": "conex-patrimoine",
    "siren": "984337790",
    "chemin": "p/violette-bertaux.html"
+  },
+  {
+   "slug": "david-alessandrini-munoz",
+   "nom": "David Alessandrini-Munoz",
+   "fonction": "Directeur Général",
+   "maison": "perier-patrimoine",
+   "siren": "984414920",
+   "chemin": "p/david-alessandrini-munoz.html"
+  },
+  {
+   "slug": "yann-guiller",
+   "nom": "Yann Guiller",
+   "fonction": "Président de SAS",
+   "maison": "perier-patrimoine",
+   "siren": "984414920",
+   "chemin": "p/yann-guiller.html"
   },
   {
    "slug": "nicolas-rey",
@@ -17560,12 +21760,44 @@
    "chemin": "p/amazigh-habtiche.html"
   },
   {
+   "slug": "florian-baronio",
+   "nom": "Florian Baronio",
+   "fonction": "Gérant",
+   "maison": "baronio-conseil",
+   "siren": "985031186",
+   "chemin": "p/florian-baronio.html"
+  },
+  {
    "slug": "gautier-vignau-crampes",
    "nom": "Gautier Vignau Crampes",
    "fonction": "Président de SAS",
    "maison": "gamma-gestion",
    "siren": "985275023",
    "chemin": "p/gautier-vignau-crampes.html"
+  },
+  {
+   "slug": "paul-pilati",
+   "nom": "Paul Pilati",
+   "fonction": "Gérant",
+   "maison": "cynae",
+   "siren": "985298249",
+   "chemin": "p/paul-pilati.html"
+  },
+  {
+   "slug": "sylvain-tillier",
+   "nom": "Sylvain Tillier",
+   "fonction": "Gérant",
+   "maison": "cynae",
+   "siren": "985298249",
+   "chemin": "p/sylvain-tillier.html"
+  },
+  {
+   "slug": "marc-beheray",
+   "nom": "Marc Beheray",
+   "fonction": "Président de SAS",
+   "maison": "select-am",
+   "siren": "985348846",
+   "chemin": "p/marc-beheray.html"
   },
   {
    "slug": "lionel-thouly",
@@ -17632,6 +21864,14 @@
    "chemin": "p/samuel-dana.html"
   },
   {
+   "slug": "joel-perie",
+   "nom": "Joel Perie",
+   "fonction": "Président de SAS",
+   "maison": "perpetuo-conseil",
+   "siren": "988743423",
+   "chemin": "p/joel-perie.html"
+  },
+  {
    "slug": "lucas-martins-senechal",
    "nom": "Lucas Martins-Senechal",
    "fonction": "Directeur Général",
@@ -17646,6 +21886,14 @@
    "maison": "wassel-capital",
    "siren": "989017280",
    "chemin": "p/jawlan-wassel.html"
+  },
+  {
+   "slug": "jules-dumoulin",
+   "nom": "Jules Dumoulin",
+   "fonction": "Gérant",
+   "maison": "medfi-solutions",
+   "siren": "989117114",
+   "chemin": "p/jules-dumoulin.html"
   },
   {
    "slug": "vincent-amey",
@@ -17704,6 +21952,22 @@
    "chemin": "p/julie-treille.html"
   },
   {
+   "slug": "marc-arteon",
+   "nom": "Marc Artéon",
+   "fonction": "Président de SAS",
+   "maison": "fortunexpert-conseil",
+   "siren": "989321377",
+   "chemin": "p/marc-arteon.html"
+  },
+  {
+   "slug": "karen-fiol",
+   "nom": "Karen Fiol",
+   "fonction": "Directeur Général",
+   "maison": "fortunexpert-conseil",
+   "siren": "989321377",
+   "chemin": "p/karen-fiol.html"
+  },
+  {
    "slug": "terence-darrigade",
    "nom": "Terence Darrigade",
    "fonction": "Président de SAS",
@@ -17728,6 +21992,22 @@
    "chemin": "p/guerric-faure.html"
   },
   {
+   "slug": "laurent-tignard",
+   "nom": "Laurent Tignard",
+   "fonction": "Président de SAS",
+   "maison": "elt-finances",
+   "siren": "989618442",
+   "chemin": "p/laurent-tignard.html"
+  },
+  {
+   "slug": "guillaume-debuyck",
+   "nom": "Guillaume Debuyck",
+   "fonction": "Gérant",
+   "maison": "adlink-patrimoine",
+   "siren": "989639141",
+   "chemin": "p/guillaume-debuyck.html"
+  },
+  {
    "slug": "franck-magloire",
    "nom": "Franck Magloire",
    "fonction": "Président de SAS",
@@ -17742,6 +22022,14 @@
    "maison": "antora-invest",
    "siren": "990054777",
    "chemin": "p/david-nahon.html"
+  },
+  {
+   "slug": "kim-bui",
+   "nom": "Kim Bui",
+   "fonction": "Président de SAS",
+   "maison": "k2e-invest",
+   "siren": "990200354",
+   "chemin": "p/kim-bui.html"
   },
   {
    "slug": "jules-bordat",
@@ -17840,6 +22128,14 @@
    "chemin": "p/morgane-le-boursicaud.html"
   },
   {
+   "slug": "aurelia-lovadina",
+   "nom": "Aurelia Lovadina",
+   "fonction": "Gérant",
+   "maison": "cleos-gestion-privee",
+   "siren": "991419557",
+   "chemin": "p/aurelia-lovadina.html"
+  },
+  {
    "slug": "yanis-taieb",
    "nom": "Yanis Taieb",
    "fonction": "Président de SAS",
@@ -17864,6 +22160,14 @@
    "chemin": "p/olivia-lezay.html"
   },
   {
+   "slug": "suzie-carrascalao",
+   "nom": "Suzie Carrascalao",
+   "fonction": "Président de SAS",
+   "maison": "carrasca-partner",
+   "siren": "991765744",
+   "chemin": "p/suzie-carrascalao.html"
+  },
+  {
    "slug": "thomas-farfarana",
    "nom": "Thomas Farfarana",
    "fonction": "Gérant",
@@ -17880,12 +22184,28 @@
    "chemin": "p/basile-paul-petit.html"
   },
   {
+   "slug": "romain-flourez",
+   "nom": "Romain Flourez",
+   "fonction": "Gérant",
+   "maison": "lescure-patrimoine",
+   "siren": "991816349",
+   "chemin": "p/romain-flourez.html"
+  },
+  {
    "slug": "cyril-bouffare",
    "nom": "Cyril Bouffare",
    "fonction": "Gérant",
    "maison": "cyril-wealth-conseil",
    "siren": "992198945",
    "chemin": "p/cyril-bouffare.html"
+  },
+  {
+   "slug": "jules-lamy",
+   "nom": "Jules Lamy",
+   "fonction": "Gérant",
+   "maison": "lamy-capital",
+   "siren": "992291088",
+   "chemin": "p/jules-lamy.html"
   },
   {
    "slug": "tanguy-barbosa",
@@ -17968,6 +22288,14 @@
    "chemin": "p/margot-poli.html"
   },
   {
+   "slug": "laurent-poggionovo",
+   "nom": "Laurent Poggionovo",
+   "fonction": "Président de SAS",
+   "maison": "audit-conseil-des-entreprises-et-patrimoine",
+   "siren": "993215227",
+   "chemin": "p/laurent-poggionovo.html"
+  },
+  {
    "slug": "laurent-vidal",
    "nom": "Laurent Vidal",
    "fonction": "Président de SAS",
@@ -17992,12 +22320,28 @@
    "chemin": "p/adele-le-magoariec.html"
   },
   {
+   "slug": "quentin-martins",
+   "nom": "Quentin Martins",
+   "fonction": "Gérant",
+   "maison": "resonance-gestion-privee",
+   "siren": "993814151",
+   "chemin": "p/quentin-martins.html"
+  },
+  {
    "slug": "avid-naeimi",
    "nom": "Avid Naeimi",
    "fonction": "Président de SAS",
    "maison": "an-invest",
    "siren": "993879329",
    "chemin": "p/avid-naeimi.html"
+  },
+  {
+   "slug": "jolan-luquet",
+   "nom": "Jolan Luquet",
+   "fonction": "Gérant",
+   "maison": "mornea-conseil",
+   "siren": "994019149",
+   "chemin": "p/jolan-luquet.html"
   },
   {
    "slug": "antoine-charbonneau",
@@ -18022,6 +22366,22 @@
    "maison": "anato-gestion-privee",
    "siren": "994029684",
    "chemin": "p/jordan-ruamps.html"
+  },
+  {
+   "slug": "christian-hoareau",
+   "nom": "Christian Hoareau",
+   "fonction": "Président de SAS",
+   "maison": "victorine-conseil",
+   "siren": "994055812",
+   "chemin": "p/christian-hoareau.html"
+  },
+  {
+   "slug": "quentin-cholet",
+   "nom": "Quentin Cholet",
+   "fonction": "Gérant",
+   "maison": "cholet-conseil",
+   "siren": "994302321",
+   "chemin": "p/quentin-cholet.html"
   },
   {
    "slug": "yann-pierre",
@@ -18062,6 +22422,14 @@
    "maison": "neoconseil",
    "siren": "994976074",
    "chemin": "p/sebastien-bore.html"
+  },
+  {
+   "slug": "tom-benisti",
+   "nom": "Tom Benisti",
+   "fonction": "Président de SAS",
+   "maison": "eilau-investissements",
+   "siren": "998926935",
+   "chemin": "p/tom-benisti.html"
   },
   {
    "slug": "sebastien-castel",
@@ -18112,6 +22480,14 @@
    "chemin": "p/jerome-devaud.html"
   },
   {
+   "slug": "nicolas-pierre",
+   "nom": "Nicolas Pierre",
+   "fonction": "Gérant",
+   "maison": "np-conseils-patrimoine",
+   "siren": "999808314",
+   "chemin": "p/nicolas-pierre.html"
+  },
+  {
    "slug": "yamin-benhenia",
    "nom": "Yamin Benhenia",
    "fonction": "Président de SAS",
@@ -18126,11 +22502,27 @@
    "motif": "fiche existante revendiquée, vérifiée ou liée à une offre au CRM : non remplacée"
   },
   {
+   "personne": "Laurine Mirek",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Otilia Focsa",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
    "personne": "Crama Trouillot-du Boys",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Léah Sayada",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Laura Bentegeat",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Charlene Pierot",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18162,11 +22554,23 @@
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Sophie Bleynat",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Maria de Lima-Mollet",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Celine Lippi",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Philippe Philippe Halb",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Edith Simionato",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18246,11 +22650,27 @@
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Sandrine Birs",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Leslie Norrito-Brouel",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Carole Mallet",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Anne-Aurore Cuzol",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Caroline le Guilcher",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Gabriela Naulier",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18263,6 +22683,14 @@
   },
   {
    "personne": "Anne Gomez",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Nathalie Vandaele",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Sandrine Tozzi",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18282,7 +22710,31 @@
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Anne-Laure de Mourgues",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Margot Hourdry",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Sandrine Seurre",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Christilia Gil",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Anne Paoli",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Virginie Thenot",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Audrey Rhie",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18346,7 +22798,15 @@
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
+   "personne": "Chantal Dao Hanvichid",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
    "personne": "Jean-Damien de Belsunce Cerisier",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Thibaut Blanchard",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18355,6 +22815,18 @@
   },
   {
    "personne": "Aurélie Pascaud",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Jessica Hamon",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Antoine Perrin-Gargot",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Evelyne Brugère-Tignard",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18375,6 +22847,10 @@
   },
   {
    "personne": "Emmanuel Rodriguez-Luna Navarro",
+   "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
+  },
+  {
+   "personne": "Isabelle Armer",
    "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"
   },
   {
@@ -18419,6 +22895,18 @@
   },
   {
    "personne": "Romain Lefevre",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
+   "personne": "Thomas Camart",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
+   "personne": "Maurice Julliard",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
+   "personne": "Alain Kilimli",
    "motif": "homonymie ou mandats multiples non résolus"
   },
   {
@@ -18470,6 +22958,10 @@
    "motif": "homonymie ou mandats multiples non résolus"
   },
   {
+   "personne": "Yvan Viallon",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
    "personne": "Stéphane Rudzinski",
    "motif": "homonymie ou mandats multiples non résolus"
   },
@@ -18479,6 +22971,10 @@
   },
   {
    "personne": "Jerome Glodas",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
+   "personne": "Joaquim de Carvalho",
    "motif": "homonymie ou mandats multiples non résolus"
   },
   {
@@ -18582,6 +23078,10 @@
    "motif": "homonymie ou mandats multiples non résolus"
   },
   {
+   "personne": "Benjamin Rizzi",
+   "motif": "homonymie ou mandats multiples non résolus"
+  },
+  {
    "personne": "Renaud Schmit",
    "motif": "homonymie ou mandats multiples non résolus"
   },
@@ -18608,6 +23108,10 @@
   {
    "personne": "Emmanuel Narrat",
    "motif": "personne déjà présente dans les profils publiés : pas de doublon"
+  },
+  {
+   "personne": "Alexis Dauvergne",
+   "motif": "homonymie ou mandats multiples non résolus"
   },
   {
    "personne": "Lucas Chopin",
@@ -18638,10 +23142,5 @@
    "motif": "homonymie ou mandats multiples non résolus"
   }
  ],
- "retraits": [
-  {
-   "personne": "jerome-glodas",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  }
- ]
+ "retraits": []
 }

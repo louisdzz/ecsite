@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "BENEL CAPITAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 92",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920951241"
+ },
+ "siren": "920951241",
+ "denomination": "BENEL CAPITAL",
+ "nom_complet": "BENEL CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-10-12",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920951241",
+ "maj_rne": "2026-09-26T23:40:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SIDNEY",
+   "nom": "BENLOLO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "ASB PARTNERS",
+   "siren": "940556459",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/920951241",
+  "numero": "23000157",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "23/02/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/920951241"
+ }
+}

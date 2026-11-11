@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "GBA INVESTISSEMENTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922323910"
+ },
+ "siren": "922323910",
+ "denomination": "GBA INVESTISSEMENTS",
+ "nom_complet": "GBA INVESTISSEMENTS (GBA INVESTISSEMENTS)",
+ "sigle": null,
+ "enseigne": "GBA INVESTISSEMENTS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-12-10",
+ "ville": "NEUVILLE-SUR-SAONE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922323910",
+ "maj_rne": "2026-11-05T12:27:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "BLANC",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/922323910",
+  "numero": "23000070",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "24/03/2023"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "13/01/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "13/01/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/922323910"
+ }
+}

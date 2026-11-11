@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "FICODEV INGENIERIE FINANCIERE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911053643"
+ },
+ "siren": "911053643",
+ "denomination": "FICODEV INGENIERIE FINANCIERE",
+ "nom_complet": "FICODEV INGENIERIE FINANCIERE (FICODEV IFI)",
+ "sigle": null,
+ "enseigne": "FICODEV IFI",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-01-17",
+ "ville": "GEMENOS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911053643",
+ "maj_rne": "2026-09-26T18:54:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AUDREY CAROLINE FRANCETTE",
+   "nom": "RHIE (GLEY)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/911053643",
+  "numero": "23002053",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "14/06/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/05/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/911053643"
+ }
+}

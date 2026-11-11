@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "APERTIO PARTNERS II",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106261597"
+ },
+ "siren": "106261597",
+ "denomination": "APERTIO PARTNERS II",
+ "nom_complet": "APERTIO PARTNERS II",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-06-09",
+ "ville": "CHAMPAGNE-AU-MONT-D'OR",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106261597",
+ "maj_rne": "2026-09-28T11:35:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURA DOMINIQUE CHRISTIE",
+   "nom": "BENTEGEAT (BERTHIER)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ALBAN MARC",
+   "nom": "GUEZO",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/106261597",
+  "numero": "26010970",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "11/09/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "11/09/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/09/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/106261597"
+ }
+}

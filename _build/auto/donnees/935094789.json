@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "COURCELLES PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/935094789"
+ },
+ "siren": "935094789",
+ "denomination": "COURCELLES PATRIMOINE",
+ "nom_complet": "COURCELLES PATRIMOINE (CP)",
+ "sigle": "CP",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-11-07",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/935094789",
+ "maj_rne": "2026-09-27T21:50:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MEHDI",
+   "nom": "RAHIMZAD AHARI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/935094789",
+  "numero": "25001053",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/935094789"
+ }
+}
