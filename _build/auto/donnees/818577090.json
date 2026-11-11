@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "NALO",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818577090"
+ },
+ "siren": "818577090",
+ "denomination": "NALO",
+ "nom_complet": "NALO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-02-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818577090",
+ "maj_rne": "2026-09-25T08:39:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE OLIVIER",
+   "nom": "BARRET",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLEMENT",
+   "nom": "NOUVET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERMAIN MARIE JEHAN",
+   "nom": "VAILLANT DE GUÉLIS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "APICIL EPARGNE",
+   "siren": "440839942",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "MANDALORE PARTNERS",
+   "siren": null,
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/818577090",
+  "numero": "16002555",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/05/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/07/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/818577090"
+ }
+}

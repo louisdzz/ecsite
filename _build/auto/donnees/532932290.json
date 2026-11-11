@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "MATMUT PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532932290"
+ },
+ "siren": "532932290",
+ "denomination": "MATMUT PATRIMOINE",
+ "nom_complet": "MATMUT PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-05-31",
+ "ville": "ROUEN",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532932290",
+ "maj_rne": "2026-09-24T13:12:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "TRISTAN",
+   "nom": "DESCLOS DE LA FONCHAIS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/532932290",
+  "numero": "12068550",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSPL",
+    "libelle": "Mandataire exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/06/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/11/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   },
+   {
+    "code": "MA",
+    "libelle": "Mandataire d'assurance",
+    "etat": "Inscrit",
+    "date": "29/04/2020"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "08/09/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/07/2016"
+   },
+   {
+    "code": "ALPSI",
+    "libelle": "Agent lié de prestataire de services d'investissement",
+    "etat": "Supprimé",
+    "date": "08/07/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/532932290"
+ }
+}

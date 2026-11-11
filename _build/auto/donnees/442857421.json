@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "UNION DE PLACEMENT FINANCIER",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442857421"
+ },
+ "siren": "442857421",
+ "denomination": "UNION DE PLACEMENT FINANCIER",
+ "nom_complet": "UNION DE PLACEMENT FINANCIER (UPF, PATRIMOINE ET ASSURANCE (UPF UNION DE PLACEMENT FINANCIER)) (UPF)",
+ "sigle": "UPF",
+ "enseigne": "UPF, PATRIMOINE ET ASSURANCE (UPF UNION DE PLACEMENT FINANCIER)",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2002-07-18",
+ "ville": "LE HAVRE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442857421",
+ "maj_rne": "2026-09-23T13:14:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "LASCIALFARI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/442857421",
+  "numero": "07002489",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "01/02/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/12/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/442857421"
+ }
+}

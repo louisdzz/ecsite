@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "CHARPENEL PATRIMOINE CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392293429"
+ },
+ "siren": "392293429",
+ "denomination": "CHARPENEL PATRIMOINE CONSEILS",
+ "nom_complet": "CHARPENEL PATRIMOINE CONSEILS (CHARPENEL PATRIMOINE CONSEILS) (CPC)",
+ "sigle": "CPC",
+ "enseigne": "CHARPENEL PATRIMOINE CONSEILS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1993-07-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392293429",
+ "maj_rne": "2026-08-25T16:22:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "CHARPENEL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/392293429",
+  "numero": "07000693",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "23/01/2026"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/01/2022"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "24/10/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/03/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/392293429"
+ }
+}

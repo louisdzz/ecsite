@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "SURPERFORMANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439430059"
+ },
+ "siren": "439430059",
+ "denomination": "SURPERFORMANCE",
+ "nom_complet": "SURPERFORMANCE (ZONEBOURSE - SURPERFORMANCE)",
+ "sigle": null,
+ "enseigne": "ZONEBOURSE - SURPERFORMANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-10-01",
+ "ville": "ANNECY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439430059",
+ "maj_rne": "2026-09-27T01:09:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "MOREL",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RENE MARIUS PAUL",
+   "nom": "MOREL",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "VIEL ET CIE",
+   "siren": "622035749",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE DU LAC",
+   "siren": "815295266",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/439430059",
+  "numero": "14004511",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/07/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/439430059"
+ }
+}

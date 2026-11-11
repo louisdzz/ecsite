@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "PANDAT FINANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513785741"
+ },
+ "siren": "513785741",
+ "denomination": "PANDAT FINANCE",
+ "nom_complet": "PANDAT FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513785741",
+ "maj_rne": "2026-09-24T07:10:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "FOREST",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "GUYOT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "BEAGLE PARTICIPATIONS",
+   "siren": "827994716",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "HTF",
+   "siren": "828034975",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/513785741",
+  "numero": "12067072",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/03/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/07/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/10/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/513785741"
+ }
+}

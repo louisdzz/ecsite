@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "ALTITUDE INVESTMENT SOLUTIONS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890524911"
+ },
+ "siren": "890524911",
+ "denomination": "ALTITUDE INVESTMENT SOLUTIONS",
+ "nom_complet": "ALTITUDE INVESTMENT SOLUTIONS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-10-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890524911",
+ "maj_rne": "2026-09-26T09:11:25",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS MARC ANTOINE",
+   "nom": "COMMEROT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "SASSON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "HORIZON HOLDING",
+   "siren": "953304862",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "MERMOZ FINANCE",
+   "siren": "981266943",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/890524911",
+  "numero": "20009160",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/03/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/02/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/890524911"
+ }
+}
