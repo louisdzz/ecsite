@@ -21,7 +21,10 @@ Règles : aucune note, aucun rang, aucune donnée privée du CRM, aucune date de
 naissance, aucune adresse personnelle, aucune coordonnée. Entité non diffusible
 ou homonymie non résolue : pas de fiche.
 """
-import json, os, re, glob, html, unicodedata, datetime
+import json, os, re, glob, html, unicodedata, datetime, sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import patch_profil_verifie as pv  # parcours « Revendiquer ce profil » et « Profil vérifié »
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUTO = os.path.join(ROOT, "_build", "auto")
@@ -240,7 +243,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     url_pub = "https://www.exit.club/f/%s" % slug
     canon = url_pub
     corr = "mailto:louis@exit.club?subject=" + e("Fiche %s · correction" % slug).replace(" ", "%20")
-    verif = "/fiche-verifiee?institution=%s&amp;cat=%s&amp;fiche=%s" % (e(nom).replace(" ", "%20"), r["categorie"], slug)
+    claim = pv.lien(slug, "maison", maison=nom, dom=pv.dom_site(r.get("site")))
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": nom, "legalName": r["denomination"], "url": url_pub, **({"sameAs": [r["site"]]} if r.get("site") else {})}, ensure_ascii=False)
     desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ORIAS, site officiel", c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
@@ -268,13 +271,13 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 <section aria-labelledby="fa-activite" id="activite"><h2 class="pv-section-title" id="fa-activite">Activité documentée.</h2>{activite}</section>
 {pers}</div>
 <div><aside aria-labelledby="pv-compare-title" class="pv-compare" id="questions-avant-contact"><p class="pv-compare-label">Avant de prendre contact</p><h2 id="pv-compare-title">Trois questions utiles.</h2><ol>{q}</ol><a class="pv-secondary" href="/annuaire?metier={cat}">Voir les autres acteurs</a></aside>
-<aside aria-labelledby="fa-nr" class="pv-compare fa-nonrenseigne" id="non-renseigne"><p class="pv-compare-label">Non renseigné</p><h2 id="fa-nr">Ce que cette fiche ne dit pas.</h2><ul><li>Spécialités</li><li>Clientèle</li><li>Ticket d’entrée</li><li>Frais</li><li>Équipe</li><li>Entretien</li></ul><p class="fa-cta-q">Vous représentez cette maison ?</p><div class="fa-ctas"><a class="pv-primary" href="{corr}">Corriger gratuitement</a><a class="pv-secondary" href="{verif}">Obtenir la fiche vérifiée</a></div></aside></div></div>
+<aside aria-labelledby="fa-nr" class="pv-compare fa-nonrenseigne" id="non-renseigne"><p class="pv-compare-label">Non renseigné</p><h2 id="fa-nr">Ce que cette fiche ne dit pas.</h2><ul><li>Spécialités</li><li>Clientèle</li><li>Ticket d’entrée</li><li>Frais</li><li>Équipe</li><li>Entretien</li></ul><p class="fa-cta-q">Vous représentez cette maison ?</p><div class="fa-ctas"><a class="pv-primary" href="{claim}">Revendiquer ce profil</a><a class="pv-secondary" href="/tarifs">{tarif}</a></div><p class="ec-sans-effet">Revendiquer et corriger ses faits est gratuit. {note}</p></aside></div></div>
 <div class="pv-bottom"><a href="/annuaire?metier={cat}">Retour à la catégorie</a><p>Le référencement ne vaut pas recommandation de l’Exit Club.</p></div>
 </main>
 """.format(cat=r["categorie"], label=e(c["label"]), av=av, logo=logo, activite=activite, nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
            rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens),
            pers=('<section aria-labelledby="fa-personnes" id="personnes"><h2 class="pv-section-title" id="fa-personnes">Personnes de la maison.</h2><ul class="fa-people">%s</ul></section>' % liste) if liste else "",
-           q="".join("<li>%s</li>" % e(x) for x in c["questions"]), corr=corr, verif=verif)
+           q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
     return h + body + PIED
 
 
@@ -295,12 +298,13 @@ def fiche_personne(p, r, slug_maison, base_style):
 <section aria-labelledby="fa-role"><h2 class="pv-section-title" id="fa-role">Fonction et maison.</h2><dl class="pv-condition-list">{f}{m}{a}{i}</dl></section>
 <section aria-labelledby="fa-ops"><h2 class="pv-section-title" id="fa-ops">Opérations documentées.</h2><p class="fa-vide">Aucune opération nominativement documentée dans l’Annuaire à ce jour. Une information absente n’est pas une absence d’activité.</p></section>
 </div>
-<div><aside class="pv-compare fa-nonrenseigne"><p class="pv-compare-label">Vos droits</p><h2>Cette fiche vous concerne ?</h2><p class="fa-cta-q">Elle ne contient que des informations professionnelles publiques. Vous pouvez la faire corriger ou retirer, gratuitement.</p><div class="fa-ctas"><a class="pv-primary" href="{corr}">Corriger ou retirer ma fiche</a><a class="pv-secondary" href="/f/{sm}">Voir la maison</a></div></aside></div></div>
+<div><aside class="pv-compare fa-nonrenseigne"><p class="pv-compare-label">Vos droits</p><h2>Cette fiche vous concerne ?</h2><p class="fa-cta-q">Elle ne contient que des informations professionnelles publiques. Vous pouvez la faire corriger ou retirer, gratuitement.</p><div class="fa-ctas"><a class="pv-primary" href="{claim}">Revendiquer ce profil</a><a class="pv-secondary" href="{corr}">Corriger ou retirer ma fiche</a></div><p class="ec-sans-effet">Revendiquer et corriger ses faits est gratuit. {note}</p></aside></div></div>
 <div class="pv-bottom"><a href="/f/{sm}">Retour à la fiche de {maison}</a><p>Le référencement ne vaut pas recommandation de l’Exit Club.</p></div>
 </main>
 """.format(cat=r["categorie"], label=e(c["label"]), sm=slug_maison, maison=e(r["nom_usuel"]), ini=e(initiales(p["nom"])), nom=e(p["nom"]), date=fr_date(d),
            f=champ("Fonction", e(p["fonction"]), reg), m=champ("Maison", '<a href="/f/%s">%s</a>' % (slug_maison, e(r["nom_usuel"])), reg),
-           a=champ("Date d’affiliation", "Non renseignée"), i=champ("Inscription réglementaire individuelle", "Non renseignée"), corr=corr)
+           a=champ("Date d’affiliation", "Non renseignée"), i=champ("Inscription réglementaire individuelle", "Non renseignée"), corr=corr,
+           claim=pv.lien(p["slug"], "personne", maison=r["nom_usuel"], nom=p["nom"], dom=pv.dom_site(r.get("site"))), note=pv.NOTE)
     return h + body + PIED
 
 
@@ -449,6 +453,7 @@ def main():
             os.rmdir(d)
     json.dump(manifeste, open(os.path.join(AUTO, "manifeste.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("maisons", len(manifeste["maisons"]), "dont remplacements", sum(m["remplace"] for m in manifeste["maisons"]), "· personnes", len(manifeste["personnes"]), "· refus", len(manifeste["refus"]), "· retraits", len(manifeste["retraits"]))
+    pv.main()  # bouton « Revendiquer ce profil », liens méthodologie et tarifs sur toutes les fiches
 
 
 if __name__ == "__main__":

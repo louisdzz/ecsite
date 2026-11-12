@@ -307,8 +307,7 @@ def build(nom):
     mods = ''.join('<div class="mod"><div class="mh"><span class="mt">%s</span><span class="chip">à remplir</span></div>'
                    '<p>%s</p></div>' % (t, p) for t, p in MODULES)
 
-    grid = ('<div class="pr cur"><b>2 400 €</b><span>HT / an</span></div>'
-            '<div class="pr"><b>240 €</b><span>HT / mois</span></div>')
+    grid = '<div class="pr cur"><b>2 400 €</b><span>HT / an</span></div>'
 
     equipe_noms = ' et '.join(x[0] for x in d['equipe'][:2])
 

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Revendiquer ce profil · L’Annuaire de l’Exit | exit.club</title>
+<meta name="description" content="Revendiquez votre profil dans L’Annuaire de l’Exit et corrigez vos faits gratuitement, depuis une adresse email au domaine de votre maison.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://www.exit.club/revendiquer">
+<link rel="stylesheet" href="/assets/annuaire-navigation.css?v=20260915">
+<link rel="stylesheet" href="/assets/site/site.css?v=20261013-2"><script defer src="/assets/site/site.js?v=20261013-2"></script>
+<link rel="stylesheet" href="/assets/annuaire/profil-verifie.css?v=20261111">
+<link rel="icon" href="/favicon.ico"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><meta property="og:image" content="https://www.exit.club/og-image.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:image:alt" content="Exit Club et L’Annuaire de l’Exit"><meta name="twitter:card" content="summary_large_image"><meta property="og:title" content="Revendiquer ce profil · L’Annuaire de l’Exit"><meta property="og:description" content="Revendiquez votre profil dans L’Annuaire de l’Exit et corrigez vos faits gratuitement, depuis une adresse email au domaine de votre maison."><meta property="og:url" content="https://www.exit.club/revendiquer"></head>
+<body class="ao">
+<div class="wrap">
+
+  <div class="top">
+    <a class="mark" href="/"><i>exit</i><b>.club</b></a>
+    <nav class="topnav" aria-label="L’Annuaire de l’Exit">
+      <a href="/annuaire">L’Annuaire de l’Exit</a>
+      <a href="/methodologie">Méthodologie</a>
+      <a href="/tarifs">Tarifs</a>
+    </nav>
+  </div>
+
+  <section class="hero">
+    <p class="over">L’Annuaire de l’Exit · Revendiquer ce profil</p>
+    <h1 class="disp">Cette fiche parle de vous. <em>Corrigez-la.</em></h1>
+    <p class="lede">Votre fiche a été générée à partir de sources publiques, sans relecture de votre part. Dites-nous qui vous êtes et ce qu’il faut corriger. C’est gratuit.</p>
+    <p class="ctx" id="ctx"></p>
+  </section>
+
+  <form id="f" novalidate>
+    <div>
+      <label for="nom">Votre nom et prénom</label>
+      <input type="text" id="nom" name="nom" required autocomplete="name">
+    </div>
+    <div>
+      <label for="fonction">Votre fonction</label>
+      <input type="text" id="fonction" name="fonction" required autocomplete="organization-title">
+    </div>
+    <div>
+      <label for="maison">Votre maison</label>
+      <input type="text" id="maison" name="maison" required autocomplete="organization">
+    </div>
+    <div>
+      <label for="email">Votre adresse email professionnelle<small id="aide-email">Une adresse au domaine de votre maison. C’est elle qui prouve que vous représentez la maison.</small></label>
+      <input type="email" id="email" name="email" required autocomplete="email">
+    </div>
+    <div>
+      <label for="corrections">Ce qu’il faut corriger<small>Un nom, une fonction, un dirigeant, un statut, un lien. Joignez la source si vous en avez une.</small></label>
+      <textarea id="corrections" name="corrections"></textarea>
+    </div>
+    <div class="hp"><label>Votre site<input type="text" name="site" tabindex="-1" autocomplete="off"></label></div>
+    <div class="msg" id="msg" role="status"></div>
+    <div><button class="btn" type="submit" id="go">Envoyer ma demande</button></div>
+    <p class="fine" style="margin:0">Nous vérifions que l’adresse appartient bien à la maison, puis nous corrigeons les faits après contrôle. Vos coordonnées ne sont pas publiées. <a class="lk" href="/confidentialite">Confidentialité</a></p>
+  </form>
+
+  <section class="sec">
+    <h2 class="disp">Ce que la revendication change</h2>
+    <ul>
+      <li>Vos faits sont corrigés, gratuitement.</li>
+      <li>Votre rang dans les classements ne bouge pas : il dépend de l’activité documentée, pas de votre démarche. <a class="lk" href="/methodologie">Méthodologie</a></li>
+      <li>Pour aller plus loin, le Profil vérifié détaille vos spécialités, votre clientèle, vos frais et votre équipe. Il est sans effet sur le classement. <a class="lk" href="/tarifs">Tarifs</a></li>
+    </ul>
+  </section>
+
+  <div class="foot">
+    <div>Exit Club · L’Annuaire de l’Exit</div>
+    <div><a href="/annuaire">L’Annuaire de l’Exit</a> · <a href="/methodologie">Méthodologie</a> · <a href="/tarifs">Tarifs</a> · <a href="/revendiquer">Revendiquer un profil</a></div>
+  </div>
+
+</div>
+<script>
+(function(){
+  var API = "https://app.exit.club/api/ecosysteme-reponses";
+  var q = new URLSearchParams(location.search);
+  var clean = function(v, n){ return String(v || "").replace(/[<>]/g, "").replace(/\s+/g, " ").trim().slice(0, n || 160); };
+  var fiche = clean(q.get("fiche"), 120).replace(/[^a-z0-9-]/gi, "");
+  var type = q.get("type") === "personne" ? "personne" : "maison";
+  var domaine = clean(q.get("domaine"), 120).toLowerCase().replace(/^www\./, "").replace(/[^a-z0-9.-]/g, "");
+  var f = document.getElementById("f"), msg = document.getElementById("msg"), go = document.getElementById("go");
+  if (q.get("maison")) f.maison.value = clean(q.get("maison"));
+  if (type === "personne" && q.get("nom")) f.nom.value = clean(q.get("nom"));
+  if (fiche) {
+    var ctx = document.getElementById("ctx");
+    ctx.textContent = "Fiche : exit.club/" + (type === "personne" ? "p/" : "f/") + fiche;
+    ctx.style.display = "inline-flex";
+  }
+  if (domaine) document.getElementById("aide-email").textContent = "Une adresse au domaine de la maison, par exemple prenom@" + domaine + ". C’est elle qui prouve que vous représentez la maison.";
+  var WEBMAILS = /@(gmail|googlemail|yahoo|ymail|hotmail|outlook|live|msn|icloud|me|mac|orange|wanadoo|free|sfr|laposte|neuf|bbox|aol|gmx|proton|protonmail|pm)\.[a-z.]+$/i;
+  var apercu = !/(^|\.)exit\.club$/.test(location.hostname);
+  if (apercu) { msg.className = "msg info"; msg.textContent = "Prévisualisation : le formulaire n’envoie rien depuis cette adresse. Le bouton mène à la page de confirmation."; }
+  function erreur(t){ msg.className = "msg err"; msg.textContent = t; go.disabled = false; go.textContent = "Envoyer ma demande"; }
+  f.addEventListener("submit", function(e){
+    e.preventDefault();
+    var d = { nom: clean(f.nom.value), fonction: clean(f.fonction.value), maison: clean(f.maison.value), email: clean(f.email.value).toLowerCase(), corrections: String(f.corrections.value || "").trim().slice(0, 4000) };
+    if (!d.nom || !d.fonction || !d.maison || !/^\S+@\S+\.\S+$/.test(d.email)) return erreur("Indiquez votre nom, votre fonction, votre maison et une adresse email valide.");
+    if (WEBMAILS.test(d.email)) return erreur("Utilisez une adresse email au domaine de votre maison. Une adresse personnelle ne permet pas de vérifier que vous la représentez.");
+    var dom = d.email.split("@")[1];
+    if (domaine && dom !== domaine && !dom.endsWith("." + domaine)) return erreur("L’adresse doit appartenir au domaine " + domaine + ", celui du site référencé sur la fiche. Si votre maison utilise un autre domaine, écrivez à louis@exit.club.");
+    if (apercu) { location.href = "/merci-revendication"; return; }
+    go.disabled = true; go.textContent = "Envoi…";
+    var reponses = [
+      { q: "Revendication du profil", r: "Type : " + type + " · Fiche : " + (fiche ? "exit.club/" + (type === "personne" ? "p/" : "f/") + fiche : "non précisée") + " · Fonction : " + d.fonction + " · Domaine de l’email : " + dom + (domaine ? " · Domaine du site référencé : " + domaine : "") },
+      { q: "Ce qu’il faut corriger", r: d.corrections || "Rien d’indiqué." }
+    ];
+    fetch(API, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ site: f.site.value, fiche: fiche, categorie: "Autre", institution: d.maison, nom: d.nom, email: d.email, telephone: "", reponses: reponses }) })
+      .then(function(r){ return r.json().then(function(j){ return { ok: r.ok, j: j }; }); })
+      .then(function(x){
+        if (!x.ok) throw new Error((x.j && x.j.error) || "");
+        location.href = "/merci-revendication";
+      })
+      .catch(function(err){ erreur((err && err.message) || "L’envoi n’a pas abouti. Réessayez dans un instant, ou écrivez à louis@exit.club."); });
+  });
+})();
+</script>
+<nav class="ec-legal-nav" aria-label="Informations légales"><a href="/methodologie">Méthodologie</a><a href="/tarifs">Tarifs</a><a href="/confidentialite">Confidentialité</a><a href="/cgu">CGU et mentions légales</a><button type="button" data-cookie-preferences>Préférences cookies</button></nav></body>
+</html>
