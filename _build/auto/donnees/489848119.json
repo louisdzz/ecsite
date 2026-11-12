@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "MIRABAUD ASSET MANAGEMENT (FRANCE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9714"
+ },
+ "siren": "489848119",
+ "denomination": "MIRABAUD ASSET MANAGEMENT (FRANCE)",
+ "nom_complet": "MIRABAUD ASSET MANAGEMENT (FRANCE)",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-04-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489848119",
+ "maj_rne": "2026-09-27T07:35:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "UMBERTO",
+   "nom": "BOCCATO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "CREMIEUX",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE",
+   "nom": "DESCLAUX",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "STER WENN CONSEIL",
+   "siren": "832235386",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9714",
+  "numero": "GP-06000027",
+  "date_agrement": "2006-09-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "13 avenue Hoche, 75008 PARIS",
+  "lei": "969500LD8KZQY1OYC496",
+  "denomination": "MIRABAUD ASSET MANAGEMENT (FRANCE)"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000027.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9714"
+ }
+}

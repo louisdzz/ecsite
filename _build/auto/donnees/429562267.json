@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "CICLAD GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/637"
+ },
+ "siren": "429562267",
+ "denomination": "CICLAD GESTION",
+ "nom_complet": "CICLAD GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2000-02-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/429562267",
+ "maj_rne": "2026-09-27T05:02:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC VICTOR PAUL HENRI",
+   "nom": "BRUGUIERE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIDIER",
+   "nom": "GENOUD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ROSTAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS JULIEN CLAUDE",
+   "nom": "ROUDIL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/637",
+  "numero": "GP00003",
+  "date_agrement": "2000-02-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "22 avenue Frankin D. Roosevelt, 75008 PARIS",
+  "lei": "9695005TU64QU6THUU45",
+  "denomination": "CICLAD GESTION"
+ },
+ "site": "https://www.ciclad.com",
+ "site_pages": [
+  "https://www.ciclad.com",
+  "https://www.ciclad.com/mentions-legales/",
+  "https://www.ciclad.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00003.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/637"
+ },
+ "site_source": "https://www.ciclad.com/mentions-legales/"
+}

@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SMA GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/98"
+ },
+ "siren": "414785097",
+ "denomination": "SMA GESTION",
+ "nom_complet": "SMA GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1997-12-31",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414785097",
+ "maj_rne": "2026-09-23T03:51:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "ARBABE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RALPH",
+   "nom": "BOUCHONNET",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "DESURMONT",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN",
+   "nom": "DILIS",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "EZEGHIAN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pm",
+   "denomination": "SMA SA",
+   "siren": "332789296",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIETE MUTUELLE D'ASSURANCE DU BATIMENT ET DES TRAVAUX PUBLICS",
+   "siren": "775684764",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIETE MUTUELLE D'ASSURANCE SUR LA VIE DU BATIMENT ET DES TRAVAUX PUBLICS",
+   "siren": "775684772",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/98",
+  "numero": "GP97133",
+  "date_agrement": "1997-12-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "8 rue Louis Armand - CS 71201 - 75738, 75739 Paris Cedex 15",
+  "lei": "969500WIVQ16ATPQ7P19",
+  "denomination": "SMA GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97133.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/98"
+ }
+}

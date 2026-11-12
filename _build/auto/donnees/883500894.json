@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "VAUBAN ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27969"
+ },
+ "siren": "883500894",
+ "denomination": "VAUBAN ASSET MANAGEMENT",
+ "nom_complet": "VAUBAN ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-05-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/883500894",
+ "maj_rne": "2026-09-29T14:30:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AUDOIN",
+   "nom": "MERLIN D'ESTREUX DE BEAUGRENIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27969",
+  "numero": "GP-20000015",
+  "date_agrement": "2020-06-04",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5 Avenue Alphand, 75116 PARIS",
+  "lei": "969500I11E4U7RYDZA95",
+  "denomination": "VAUBAN ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000015.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27969"
+ }
+}

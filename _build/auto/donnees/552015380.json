@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "SOCIETE DE GESTION PREVOIR",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/167"
+ },
+ "siren": "552015380",
+ "denomination": "SOCIETE DE GESTION PREVOIR",
+ "nom_complet": "SOCIETE DE GESTION PREVOIR (PREVOIR ASSET MANAGEMENT) (SGP)",
+ "sigle": "SGP",
+ "enseigne": "PREVOIR ASSET MANAGEMENT",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1955-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552015380",
+ "maj_rne": "2026-09-24T16:20:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CORINNE",
+   "nom": "DE CAUMONT LA FORCE (BOURRU DE LAMOTTE)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "CHARDONNET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTINE MARIE",
+   "nom": "DE LA POIX DE FREMINVILLE (DAGUET)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUC",
+   "nom": "MORILLON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ACHOUR",
+   "nom": "TOUDERT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIETE CENTRALE PREVOIR",
+   "siren": "572084028",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/167",
+  "numero": "GP99005",
+  "date_agrement": "1999-01-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "23 RUE D'AUMALE, 75009 PARIS",
+  "lei": "9695007R2B2QRK5NJZ80",
+  "denomination": "SOCIETE DE GESTION PREVOIR"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99005.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/167"
+ }
+}

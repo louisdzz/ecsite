@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "GAY-LUSSAC GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1100"
+ },
+ "siren": "397833773",
+ "denomination": "GAY-LUSSAC GESTION",
+ "nom_complet": "GAY-LUSSAC GESTION (GAY-LUSSAC GESTION)",
+ "sigle": null,
+ "enseigne": "GAY-LUSSAC GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1994-06-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/397833773",
+ "maj_rne": "2026-09-22T23:27:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "LAUSSINOTTE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURELIA",
+   "nom": "KITTEN (LUNET DE LA MALENE)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1100",
+  "numero": "GP95001",
+  "date_agrement": "1995-02-08",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "45,avenue George V, 75008 PARIS",
+  "lei": "969500XIVRY4NB88V418",
+  "denomination": "GAY-LUSSAC GESTION"
+ },
+ "site": "https://www.gaylussacgestion.com",
+ "site_pages": [
+  "https://www.gaylussacgestion.com",
+  "https://www.gaylussacgestion.com/mentions-legales/",
+  "https://www.gaylussacgestion.com/informations-reglementaires/",
+  "https://www.gaylussacgestion.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP95001.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1100"
+ },
+ "site_source": "https://www.gaylussacgestion.com/mentions-legales/"
+}

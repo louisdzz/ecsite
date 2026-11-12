@@ -1,0 +1,68 @@
+{
+ "nom_usuel": "KATKO CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29208"
+ },
+ "siren": "851155127",
+ "denomination": "KATKO CAPITAL",
+ "nom_complet": "KATKO CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-05-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/851155127",
+ "maj_rne": "2026-09-29T13:01:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "DALIBOT",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29208",
+  "numero": "GP-21000015",
+  "date_agrement": "2021-04-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "91, rue du Faubourg Saint-Honoré, 75008 PARIS",
+  "lei": "969500T3WTD95CYTJ388",
+  "denomination": "KATKO CAPITAL"
+ },
+ "site": "https://www.katkocapital.com",
+ "site_pages": [
+  "https://www.katkocapital.com",
+  "https://www.katkocapital.com/legal-information"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-21000015.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29208"
+ },
+ "site_source": "https://www.katkocapital.com/legal-information"
+}

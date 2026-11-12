@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "FLORNOY FERRI",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19239"
+ },
+ "siren": "538645375",
+ "denomination": "FLORNOY FERRI",
+ "nom_complet": "FLORNOY FERRI (FLORNOY - FERRI)",
+ "sigle": null,
+ "enseigne": "FLORNOY - FERRI",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-12-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538645375",
+ "maj_rne": "2026-09-24T15:25:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "BONNASSE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TEDDY",
+   "nom": "DEWITTE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN MARIE CLAUDE DIDIER",
+   "nom": "FERRI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "JAUVERT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19239",
+  "numero": "GP-12000007",
+  "date_agrement": "2012-02-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "87 - 89 avenue Kléber, 75016 Paris",
+  "lei": "969500XO1H23R5PK3681",
+  "denomination": "FLORNOY FERRI"
+ },
+ "site": "https://www.flornoyferri.com",
+ "site_pages": [
+  "https://www.flornoyferri.com",
+  "https://www.flornoyferri.com/mentions-legales/",
+  "https://www.flornoyferri.com/reglementation/",
+  "https://www.flornoyferri.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-12000007.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19239"
+ },
+ "site_source": "https://www.flornoyferri.com/mentions-legales/"
+}

@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "INOVALIS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16318"
+ },
+ "siren": "420780835",
+ "denomination": "INOVALIS",
+ "nom_complet": "INOVALIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1998-10-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.32A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/420780835",
+ "maj_rne": "2026-09-23T05:24:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE JOSEPH",
+   "nom": "AMINE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "GIRAUD",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "HAEZEBROUCK",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KHALIL",
+   "nom": "HANKACH",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "SIRIUS AXO",
+   "siren": "349901314",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16318",
+  "numero": "GP-10000009",
+  "date_agrement": "2010-03-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "52, rue de Bassano, 75008 PARIS",
+  "lei": "213800GZ77SGOLPZUA28",
+  "denomination": "INOVALIS"
+ },
+ "site": "https://www.inovalis.com",
+ "site_pages": [
+  "https://www.inovalis.com",
+  "https://www.inovalis.com/mentions-legales/",
+  "https://www.inovalis.com/informations-reglementaires/",
+  "https://www.inovalis.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16318"
+ },
+ "site_source": "https://www.inovalis.com/mentions-legales/"
+}

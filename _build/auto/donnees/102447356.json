@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "POLARIS ALPHA",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334414"
+ },
+ "siren": "102447356",
+ "denomination": "POLARIS ALPHA",
+ "nom_complet": "POLARIS ALPHA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-03-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/102447356",
+ "maj_rne": "2026-09-28T09:18:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ADRIEN JOSEPH PHILIPPE",
+   "nom": "DELATTRE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU DANIEL",
+   "nom": "MAUPETIT",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334414",
+  "numero": "GP-20260007",
+  "date_agrement": "2026-05-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "16 cours Albert 1er, 75008 PARIS",
+  "lei": "9695005IV2HDU6JXC505",
+  "denomination": "POLARIS ALPHA"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260007.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334414"
+ }
+}

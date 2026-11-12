@@ -1,0 +1,102 @@
+{
+ "nom_usuel": "VAUBAN INFRASTRUCTURE PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27665"
+ },
+ "siren": "833488778",
+ "denomination": "VAUBAN INFRASTRUCTURE PARTNERS",
+ "nom_complet": "VAUBAN INFRASTRUCTURE PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société en commandite par actions",
+ "forme_code": "5308",
+ "creation": "2017-10-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833488778",
+ "maj_rne": "2026-10-13T20:16:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GWENOLA",
+   "nom": "CHAMBON (CHARETON)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RÉMI MICHEL ALFRED JOSEPH",
+   "nom": "CHARRIER",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MOUNIR",
+   "nom": "CORM",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER PIERRE",
+   "nom": "GARNIER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS PARTICIPATIONS 1",
+   "siren": "479989246",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "VAUBAN INFRASTRUCTURE PARTNERS HOLDING",
+   "siren": "880027537",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "CITADELLE INVESTMENTS",
+   "siren": "917419624",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "INVESTCORP STRATEGIC CAPITAL PARTNERS S.C.A. SICAV-RAIF",
+   "siren": null,
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27665",
+  "numero": "GP-19000044",
+  "date_agrement": "2019-12-10",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "Centorial, 75002 PARIS",
+  "lei": "969500ASSGG85ELYV462",
+  "denomination": "VAUBAN INFRASTRUCTURE PARTNERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-19000044.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27665"
+ }
+}

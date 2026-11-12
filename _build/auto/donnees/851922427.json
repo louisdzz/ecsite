@@ -1,0 +1,96 @@
+{
+ "nom_usuel": "LGT PRIVATE  DEBT (FRANCE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27187"
+ },
+ "siren": "851922427",
+ "denomination": "LGT PRIVATE  DEBT (FRANCE)",
+ "nom_complet": "LGT PRIVATE  DEBT (FRANCE)",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-06-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/851922427",
+ "maj_rne": "2026-09-26T01:59:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KEVIN STEPHANE",
+   "nom": "ABRIAL",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHEW JOHN",
+   "nom": "GORDON CLARK",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ETIENNE JEAN MARIE",
+   "nom": "HAUBOLD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHN DIERK CHRISTOPH ALEXANDER",
+   "nom": "KOSSOW",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JUAN CARLOS",
+   "nom": "MORALES CORTES",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROBERTO",
+   "nom": "PAGANONI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHANN PETER HORST WERNER",
+   "nom": "VON BAUM",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27187",
+  "numero": "GP-19000034",
+  "date_agrement": "2019-07-18",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "43 avenue de Friedland, 75008 PARIS",
+  "lei": "549300FQNCR8DPXW0A03",
+  "denomination": "LGT PRIVATE DEBT (FRANCE) SAS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-19000034.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27187"
+ }
+}

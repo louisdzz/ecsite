@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "NORMAN K. ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306282"
+ },
+ "siren": "914396049",
+ "denomination": "NORMAN K. ASSET MANAGEMENT",
+ "nom_complet": "NORMAN K. ASSET MANAGEMENT (NORMAN K. ASSET MANAGEMENT) (NORMAN K. AM)",
+ "sigle": "NORMAN K. AM",
+ "enseigne": "NORMAN K. ASSET MANAGEMENT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-06-01",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/914396049",
+ "maj_rne": "2026-09-30T01:21:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ETIENNE MARIE",
+   "nom": "AIRIAU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICE FRANCOIS",
+   "nom": "HENRI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER MARCEL CLAUDE",
+   "nom": "LIOT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU YANN",
+   "nom": "MERCATI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRICE JACKY JEAN-LUC",
+   "nom": "MONVOISIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PHILIPPE AUGUSTE ANDRE",
+   "nom": "PETIT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306282",
+  "numero": "GP-202218",
+  "date_agrement": "2022-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "Winter Palace, 82 Boulevard de Cimiez, 06000 NICE",
+  "lei": "969500ANGNXIC0NQK159",
+  "denomination": "NORMAN K. ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-202218.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306282"
+ }
+}

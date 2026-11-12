@@ -1,0 +1,117 @@
+{
+ "nom_usuel": "BNP PARIBAS ASSET MANAGEMENT EUROPE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1115"
+ },
+ "siren": "319378832",
+ "denomination": "BNP PARIBAS ASSET MANAGEMENT EUROPE",
+ "nom_complet": "BNP PARIBAS ASSET MANAGEMENT EUROPE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1980-06-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319378832",
+ "maj_rne": "2026-11-09T20:32:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE DOROTHEE AGNÈS",
+   "nom": "HARTMANN (COHEN)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "DE BEAUCHEF DE SERVIGNY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "DELOOZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARION CECILE",
+   "nom": "AZUELOS (GUILLERME)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CECILE",
+   "nom": "LESAGE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CHRISTOPHE PIERRE MARCEL",
+   "nom": "MENIOUX",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRO",
+   "nom": "PIERRI",
+   "qualite": "Président de SAS, Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE MARION",
+   "nom": "BON (TURLAIS)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BNP PARIBAS ASSET MANAGEMENT HOLDING PAR ABRÉVIATION \"BNPP AM HOLDING\"",
+   "siren": "682001904",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1115",
+  "numero": "GP96002",
+  "date_agrement": "1996-04-19",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "1, Bd Haussmann, 75009 PARIS",
+  "lei": "W51AX6427FJZJFPF8H34",
+  "denomination": "BNP PARIBAS ASSET MANAGEMENT Europe"
+ },
+ "site": "https://www.bnpparibas-am.fr",
+ "site_pages": [
+  "https://www.bnpparibas-am.com/fr-fr/",
+  "https://www.bnpparibas-am.com/fr-fr/mentions-legales/",
+  "https://www.bnpparibas-am.com/fr-fr/rapports-reglementaires-extra-financiers/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP96002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1115"
+ },
+ "site_source": "https://www.bnpparibas-am.com/fr-fr/mentions-legales/"
+}

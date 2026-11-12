@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "IROKO",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28435"
+ },
+ "siren": "883362113",
+ "denomination": "IROKO",
+ "nom_complet": "IROKO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-05-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/883362113",
+ "maj_rne": "2026-09-26T06:29:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARION SANDRA",
+   "nom": "BERTRAND",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ANTOINE",
+   "nom": "BURGALA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAUTIER",
+   "nom": "DELABROUSSE-MAYOUX",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGO GUY PHILIPPE",
+   "nom": "GIRARDON",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN SERGE",
+   "nom": "ROUSTAN",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28435",
+  "numero": "GP-20000014",
+  "date_agrement": "2020-06-08",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "4 rue de la Pompe, 75016 PARIS",
+  "lei": "969500QHVGZE3GCVHU15",
+  "denomination": "IROKO"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000014.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28435"
+ }
+}

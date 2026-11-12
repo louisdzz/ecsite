@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "ROTHSCHILD & CO ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24835"
+ },
+ "siren": "824540173",
+ "denomination": "ROTHSCHILD & CO ASSET MANAGEMENT",
+ "nom_complet": "ROTHSCHILD & CO ASSET MANAGEMENT (ROTHSCHILD & CO ASSET MANAGEMENT)",
+ "sigle": null,
+ "enseigne": "ROTHSCHILD & CO ASSET MANAGEMENT",
+ "forme": "Société en commandite simple",
+ "forme_code": "5306",
+ "creation": "2016-12-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824540173",
+ "maj_rne": "2026-10-14T13:03:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "BAUDARD",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIDIER",
+   "nom": "BOUVIGNIES",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YOANN",
+   "nom": "IGNATIEW",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "PETIT",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT STEPHANE",
+   "nom": "RASCLARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "ROTHSCHILD & CO MARTIN MAUREL",
+   "siren": "323317032",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pm",
+   "denomination": "RAM GESTION",
+   "siren": "824521173",
+   "qualite": "Associé commandité"
+  },
+  {
+   "type": "pm",
+   "denomination": "RMM PARTENAIRES",
+   "siren": "830465498",
+   "qualite": "Associé commandité"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24835",
+  "numero": "GP-17000014",
+  "date_agrement": "2017-06-06",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "29, avenue de Messine, 75008 Paris",
+  "lei": "969500KLODYGIWUZ9F42",
+  "denomination": "ROTHSCHILD & CO ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000014.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24835"
+ }
+}

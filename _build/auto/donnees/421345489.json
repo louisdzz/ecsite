@@ -1,0 +1,124 @@
+{
+ "nom_usuel": "HSBC GLOBAL ASSET MANAGEMENT ( FRANCE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/618"
+ },
+ "siren": "421345489",
+ "denomination": "HSBC GLOBAL ASSET MANAGEMENT ( FRANCE)",
+ "nom_complet": "HSBC GLOBAL ASSET MANAGEMENT ( FRANCE) (HSBC AM EUROPE SA)",
+ "sigle": "HSBC AM EUROPE SA",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1998-12-18",
+ "ville": "COURBEVOIE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/421345489",
+ "maj_rne": "2026-09-28T19:41:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "BARATON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN",
+   "nom": "BEUNARDEAU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIER-PAOLO",
+   "nom": "DIPAOLA",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELLE",
+   "nom": "DUNNE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JEAN-PIERRE",
+   "nom": "GAYNO",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LISA",
+   "nom": "HICKS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "MOREAU",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTEO",
+   "nom": "PARDI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "TAILLARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NU MAI",
+   "nom": "TRINH",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "HSBC CONTINENTAL EUROPE",
+   "siren": "775670284",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/618",
+  "numero": "GP99026",
+  "date_agrement": "1999-07-31",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "110 Esplanade du Général de Gaulle, 75419 PARIS CEDEX 08",
+  "lei": "W85O53OGKSNJNYNJES25",
+  "denomination": "HSBC GLOBAL ASSET MANAGEMENT (FRANCE)"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/618"
+ }
+}

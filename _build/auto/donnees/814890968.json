@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "NORMANDIE REIM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23359"
+ },
+ "siren": "814890968",
+ "denomination": "NORMANDIE REIM",
+ "nom_complet": "NORMANDIE REIM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-11-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814890968",
+ "maj_rne": "2026-09-25T07:32:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BLANDINE",
+   "nom": "PAGÈS (HUGON)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YAEL",
+   "nom": "MARCIANO",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23359",
+  "numero": "GP-16000004",
+  "date_agrement": "2016-02-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "39, avenue George V, 75008 PARIS",
+  "lei": "969500H01VTSRMMN2309",
+  "denomination": "NORMANDIE REIM"
+ },
+ "site": "https://www.normandie-reim.com",
+ "site_pages": [
+  "https://www.normandie-reim.com/fr",
+  "https://www.normandie-reim.com/fr/mentions-legales",
+  "https://www.normandie-reim.com/fr/informations-reglementaires",
+  "https://www.normandie-reim.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000004.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23359"
+ },
+ "site_source": "https://www.normandie-reim.com/fr/mentions-legales"
+}

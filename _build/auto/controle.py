@@ -1,4 +1,4 @@
-# Relecture indépendante : la fiche HTML publiée est comparée au registre et à l'ORIAS relus à l'instant.
+# Relecture indépendante : la fiche HTML publiée est comparée au registre et à l'ORIAS relus à l'instant ; pour une société de gestion, au registre et à la base GECO de l'AMF.
 # Usage : python3 _build/auto/controle.py <json des SIREN déjà publiés> <taille échantillon> <sortie erreurs.json>, depuis la racine du dépôt.
 import json,re,sys,html,time,random,urllib.request,ssl,os,unicodedata
 CTX=ssl.create_default_context(cafile=os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE") or None)
@@ -16,12 +16,14 @@ m=json.load(open("_build/auto/manifeste.json"))
 anciens=set(json.load(open(sys.argv[1])))
 nouv=[x for x in m["maisons"] if x["siren"] not in anciens]
 random.seed(2026111123)
+BASE=sys.argv[4] if len(sys.argv)>4 else None  # 4e argument facultatif : relire les fiches en ligne (https://www.exit.club) au lieu des fichiers locaux
+def lit(ch): return fetch("%s/%s"%(BASE,ch[:-5])) if BASE else open(ch,encoding="utf-8").read()
 ech=random.sample(nouv,int(sys.argv[2]))
 pers={}
 for p in m["personnes"]: pers.setdefault(p["siren"],[]).append(p)
-err=[];np=0
+err=[];np=0;GECO=None
 for x in ech:
-    s=x["siren"]; h=open(x["chemin"],encoding="utf-8").read(); t=txt(h)
+    s=x["siren"]; h=lit(x["chemin"]); t=txt(h)
     a=json.loads(fetch("https://recherche-entreprises.api.gouv.fr/search?q=%s&per_page=1"%s))["results"][0]
     e=[]
     if a["siren"]!=s: e.append("siren")
@@ -48,13 +50,32 @@ for x in ech:
             if "(" in (d_.get("nom") or "") and plat(re.search(r"\((.*?)\)",d_["nom"]).group(1)) in plat(bloc) and plat(re.search(r"\((.*?)\)",d_["nom"]).group(1)) not in nm: e.append("nom entre parenthèses affiché")
     if re.search(r"\b(né|née) (le|en)\b|\d{2}/\d{2}/19\d\d",bloc): e.append("date de naissance")
     time.sleep(0.6)
-    o=txt(fetch("https://www.orias.fr/home/showIntermediaire/%s"%s) or "")
-    mo_=re.search(r"N° Orias (\d{8})",o)
-    if not mo_ or mo_.group(1)!=x["orias"] or ("N° "+x["orias"]) not in t: e.append("orias %s/%s"%(mo_ and mo_.group(1),x["orias"]))
-    if not re.search(r"\bCIF [^.]{8,90}? Inscrit le \d{2}/\d{2}/\d{4}",o): e.append("CIF non inscrit à l'ORIAS")
+    if x.get("amf"):
+        # Société de gestion : l'agrément affiché est comparé à la base GECO de l'AMF relue à l'instant (liste et page détail).
+        am=json.load(open("_build/auto/donnees/%s.json"%s,encoding="utf-8"))["amf"]; idt=int(am["url"].rsplit("/",1)[1])
+        if GECO is None: GECO={z["idThirdParty"]:z for z in json.loads(fetch("https://geco.amf-france.org/back-office/thirdParties?isSdgFr=true"))}
+        g=GECO.get(idt); gd=json.loads(fetch("https://geco.amf-france.org/back-office/thirdParties/%s"%idt) or "{}")
+        if not g: e.append("absente de la liste AMF")
+        else:
+            if g["agreementNum"]!=x["amf"] or ("N° "+x["amf"]) not in t: e.append("agrément AMF %s/%s"%(g["agreementNum"],x["amf"]))
+            if not re.match(r"GP-?\d{4,8}$",x["amf"]): e.append("numéro hors format GP")
+            y2,m2,d2=g["agreementDate"][:10].split("-")
+            if "%s %s %s"%("1er" if int(d2)==1 else int(d2),MOIS[int(m2)-1],y2) not in t: e.append("date d'agrément "+g["agreementDate"])
+            if (g["roleStatusDTO"] or [{}])[0].get("status")!="VIV": e.append("statut AMF "+str((g["roleStatusDTO"] or [{}])[0].get("status")))
+            if plat(g["name"])!=plat(am["denomination"]): e.append("dénomination AMF %r"%g["name"])
+        sa=re.sub(r"\D","",gd.get("siren") or "")[:9]
+        if sa and sa!=s: e.append("SIREN AMF %s"%sa)
+        if am["url"] not in html.unescape(h): e.append("lien GECO absent")
+        if "ORIAS" in re.search(r'id="statuts">(.*?)</section>',h,re.S).group(1): e.append("mention ORIAS sur une fiche SGP")
+        if "—" in t: e.append("tiret cadratin")
+    else:
+        o=txt(fetch("https://www.orias.fr/home/showIntermediaire/%s"%s) or "")
+        mo_=re.search(r"N° Orias (\d{8})",o)
+        if not mo_ or mo_.group(1)!=x["orias"] or ("N° "+x["orias"]) not in t: e.append("orias %s/%s"%(mo_ and mo_.group(1),x["orias"]))
+        if not re.search(r"\bCIF [^.]{8,90}? Inscrit le \d{2}/\d{2}/\d{4}",o): e.append("CIF non inscrit à l'ORIAS")
     # fiches personnes de la maison
     for p in pers.get(s,[]):
-        np+=1; hp=open(p["chemin"],encoding="utf-8").read(); tp=txt(hp)
+        np+=1; hp=lit(p["chemin"]); tp=txt(hp)
         cand=[d_ for d_ in reg if d_.get("type_dirigeant")=="personne physique" and plat(p["nom"])==plat(((d_.get("prenoms") or "").split() or [""])[0]+" "+re.sub(r"\(.*?\)","",d_.get("nom") or ""))]
         if len(cand)!=1: e.append("personne %s introuvable au registre"%p["slug"]); continue
         q=cand[0].get("qualite") or ""

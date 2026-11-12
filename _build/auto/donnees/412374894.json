@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "FONCIERES & TERRITOIRES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20283"
+ },
+ "siren": "412374894",
+ "denomination": "FONCIERES & TERRITOIRES",
+ "nom_complet": "FONCIERES & TERRITOIRES (FONCIERES ET TERRITOIRES)",
+ "sigle": null,
+ "enseigne": "FONCIERES ET TERRITOIRES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1997-05-21",
+ "ville": "NANCY",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/412374894",
+ "maj_rne": "2026-09-27T04:44:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC JACQUES MARYVONNE",
+   "nom": "DURAND",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "NICOLAS",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20283",
+  "numero": "GP-13000031",
+  "date_agrement": "2013-10-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "22 avenue FOCH, 54064 NANCY CEDEX",
+  "lei": "969500FRY9ZDGD0RTM18",
+  "denomination": "FONCIERES & TERRITOIRES"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-13000031.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20283"
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "nom_usuel": "EQUIGEST",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/615"
+ },
+ "siren": "423700863",
+ "denomination": "EQUIGEST",
+ "nom_complet": "EQUIGEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1999-07-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423700863",
+ "maj_rne": "2026-09-23T06:43:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LUC",
+   "nom": "BIANCHI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANGE PIERRE XAVIER",
+   "nom": "CROCICCHIA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "DEGIOVANNI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELE ISABELLE",
+   "nom": "GOALEC (FOUGERE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERARD",
+   "nom": "KOENIGKHEIT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "PRIGENT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCE GESTION CONSEIL",
+   "siren": "423535426",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MUTUELLE ASSURANCE DES COMMERCANTS ET INDUSTRIELS DE FRANCE ET DES CADRES ET SALARIES DE L INDUSTRIE ET DU COMMERCE",
+   "siren": "781452511",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "A G R R PREVOYANCE - INSTITUTION DE PREVOYANCE",
+   "siren": null,
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/615",
+  "numero": "GP99020",
+  "date_agrement": "1999-08-03",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "153, rue du Faubourg Saint Honoré, 75008 PARIS",
+  "lei": "969500DJGG2I7E58AR31",
+  "denomination": "EQUIGEST"
+ },
+ "site": "https://www.equigest.fr",
+ "site_pages": [
+  "https://www.equigest.fr",
+  "https://www.equigest.fr/legal/transparence-conformite",
+  "https://www.equigest.fr/legal/politique-de-confidentialite",
+  "https://www.equigest.fr/legal/informations-reglementaires",
+  "https://www.equigest.fr/legal/informations-reglementaires",
+  "https://www.equigest.fr/legal/informations-reglementaires"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99020.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/615"
+ },
+ "site_source": "https://www.equigest.fr/legal/transparence-conformite"
+}

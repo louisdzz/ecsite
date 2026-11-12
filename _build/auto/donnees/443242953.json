@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SULLY PATRIMOINE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/805"
+ },
+ "siren": "443242953",
+ "denomination": "SULLY PATRIMOINE GESTION",
+ "nom_complet": "SULLY PATRIMOINE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "2002-08-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/443242953",
+ "maj_rne": "2026-09-23T13:25:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PHILIPPE",
+   "nom": "BROCHES",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCESCO",
+   "nom": "GENOVESE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC-ANTOINE",
+   "nom": "GUILLEN",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "LE GALCHER BARON",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERNARD",
+   "nom": "SACAU",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-EMMANUEL",
+   "nom": "VERNAY",
+   "qualite": "Vice-Président"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "WALDISBERG",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "INVEST ET ASSOCIES",
+   "siren": "437960073",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/805",
+  "numero": "GP02020",
+  "date_agrement": "2002-09-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "73 boulevard Haussmann, 75008 PARIS",
+  "lei": "9695003FA5F2V56MPK32",
+  "denomination": "SULLY PATRIMOINE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02020.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/805"
+ }
+}

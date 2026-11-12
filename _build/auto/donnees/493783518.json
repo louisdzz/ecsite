@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "ALIENOR CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13250"
+ },
+ "siren": "493783518",
+ "denomination": "ALIENOR CAPITAL",
+ "nom_complet": "ALIENOR CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-01-15",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493783518",
+ "maj_rne": "2026-11-05T12:41:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EDGARD",
+   "nom": "GIRARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "HENIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JENNIFER",
+   "nom": "LEFEBVRE DE LADONCHAMPS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "MARTINEZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "RAIMON DACUNHA CASTELLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ALIENOR ET ASSOCIES",
+   "siren": "492851399",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13250",
+  "numero": "GP-07000009",
+  "date_agrement": "2007-02-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "18, allées d'Orléans, 33000 BORDEAUX",
+  "lei": "969500YBNI372PVZ6B06",
+  "denomination": "ALIENOR CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13250"
+ }
+}

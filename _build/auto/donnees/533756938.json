@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "ZENITH AM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17147"
+ },
+ "siren": "533756938",
+ "denomination": "ZENITH AM",
+ "nom_complet": "ZENITH AM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-07-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533756938",
+ "maj_rne": "2026-09-24T13:44:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "BROCHET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MURIEL",
+   "nom": "GAZET DU CHATELIER (TAILHADES)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17147",
+  "numero": "GP-11000028",
+  "date_agrement": "2011-08-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "8 rue du General Foy, 75008 PARIS",
+  "lei": "549300BBGZCVGWMMRP23",
+  "denomination": "ZENITH AM"
+ },
+ "site": "https://www.zenith-am.com",
+ "site_pages": [
+  "https://zenith-am.com/",
+  "https://zenith-am.com/informations-reglementaires",
+  "https://zenith-am.com/mentions-legales-zenith-am",
+  "https://zenith-am.com/mentions-legales-zenith-am",
+  "https://zenith-am.com/mentions-legales-zenith-am"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000028.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17147"
+ },
+ "site_source": "https://zenith-am.com/mentions-legales-zenith-am"
+}

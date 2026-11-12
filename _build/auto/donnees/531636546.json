@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "CORUM ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17905"
+ },
+ "siren": "531636546",
+ "denomination": "CORUM ASSET MANAGEMENT",
+ "nom_complet": "CORUM ASSET MANAGEMENT (CORUM)",
+ "sigle": null,
+ "enseigne": "CORUM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531636546",
+ "maj_rne": "2026-09-24T12:39:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "CERVESI",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MELANIE",
+   "nom": "BALLU (COQUARD)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENT",
+   "nom": "DELEGLISE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "NOIROT-NERIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "PUZIN",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "CORUM BUTLER",
+   "siren": "833313877",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17905",
+  "numero": "GP-11000012",
+  "date_agrement": "2011-04-14",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "1 rue Euler, 75008 PARIS",
+  "lei": "969500T9ZC1KOU9TBG44",
+  "denomination": "CORUM ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17905"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "ROCE CAPITAL S.A.S.",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27358"
+ },
+ "siren": "879564177",
+ "denomination": "ROCE CAPITAL S.A.S.",
+ "nom_complet": "ROCE CAPITAL S.A.S.",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879564177",
+ "maj_rne": "2026-09-26T04:11:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU",
+   "nom": "BORDEAUX GROULT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "NIEDZIELSKI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27358",
+  "numero": "GP-20000008",
+  "date_agrement": "2020-04-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "63 Avenue des Champs Elysées, 75008 PARIS",
+  "lei": "969500JQEJWNLUQCKX50",
+  "denomination": "ROCE CAPITAL SAS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27358"
+ }
+}

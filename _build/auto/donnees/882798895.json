@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "PIQUEMAL HOUGHTON INVESTMENTS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27863"
+ },
+ "siren": "882798895",
+ "denomination": "PIQUEMAL HOUGHTON INVESTMENTS",
+ "nom_complet": "PIQUEMAL HOUGHTON INVESTMENTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882798895",
+ "maj_rne": "2026-09-26T06:21:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "HOUGHTON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "PRADE (PIQUEMAL)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "D'IMPERIO (VIAL)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27863",
+  "numero": "GP-20000010",
+  "date_agrement": "2020-04-14",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "89 boulevard Malesherbes, 75008 PARIS",
+  "lei": "9695009TYK4Z39AUL058",
+  "denomination": "PIQUEMAL HOUGHTON INVESTMENTS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27863"
+ }
+}

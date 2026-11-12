@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "NATIXIS INVESTMENT MANAGERS INTERNATIONAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/899"
+ },
+ "siren": "329450738",
+ "denomination": "NATIXIS INVESTMENT MANAGERS INTERNATIONAL",
+ "nom_complet": "NATIXIS INVESTMENT MANAGERS INTERNATIONAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1984-03-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/329450738",
+ "maj_rne": "2026-09-22T13:53:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "CHEMOUNY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "CHEULA",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "LANNE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE BRUNO ALBERT",
+   "nom": "SETBON",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS",
+   "siren": "453952681",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS PARTICIPATIONS 1",
+   "siren": "479989246",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/899",
+  "numero": "GP90009",
+  "date_agrement": "1990-05-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "43 avenue Pierre Mendès-France, 75013 PARIS",
+  "lei": "969500WCY7P9HOJNP063",
+  "denomination": "NATIXIS INVESTMENT MANAGERS INTERNATIONAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/899"
+ }
+}

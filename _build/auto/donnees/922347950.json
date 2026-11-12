@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "ALTAREA INVESTMENT MANAGERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321698"
+ },
+ "siren": "922347950",
+ "denomination": "ALTAREA INVESTMENT MANAGERS",
+ "nom_complet": "ALTAREA INVESTMENT MANAGERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-12-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922347950",
+ "maj_rne": "2026-09-27T08:44:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BAPTISTE",
+   "nom": "BOREZEE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "DELHOTEL",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC-OLIVIER",
+   "nom": "PENIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321698",
+  "numero": "GP-20230008",
+  "date_agrement": "2023-04-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "87 rue Richelieu, 75002 Paris",
+  "lei": "969500XQV2936RYLDU93",
+  "denomination": "ALTAREA INVESTMENT MANAGERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321698"
+ }
+}

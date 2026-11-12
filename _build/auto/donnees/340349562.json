@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "OPTIGESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/892"
+ },
+ "siren": "340349562",
+ "denomination": "OPTIGESTION",
+ "nom_complet": "OPTIGESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1987-02-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340349562",
+ "maj_rne": "2026-09-29T12:50:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCE",
+   "nom": "DE SAMUCEWICZ (DE POULPIQUET DU HALGOUET)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "DOMONT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "GERARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "GÉRARD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "MARNIER",
+   "qualite": "Vice-Président"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/892",
+  "numero": "GP90002",
+  "date_agrement": "1997-01-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39, avenue Pierre 1er de Serbie, 75008 PARIS",
+  "lei": "969500VGZMSXYOZAEV33",
+  "denomination": "OPTIGESTION"
+ },
+ "site": "http://www.optigestion.com",
+ "site_pages": [
+  "https://optigestion.com/index.php/fr/",
+  "https://optigestion.com/index.php/fr/qui-sommes-nous/notre-equipe?view=article&amp;id=4:mentions-legales&amp;catid=12:legalite",
+  "https://optigestion.com/index.php/fr/qui-sommes-nous/nos-metiers?view=article&amp;id=279:politique-de-confidentialit%C3%A9&amp;catid=12:legalite",
+  "https://optigestion.com/index.php/fr/qui-sommes-nous/nos-metiers?view=article&amp;id=5:informations-reglementaires&amp;catid=12:legalite"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/892"
+ },
+ "site_source": "https://optigestion.com/index.php/fr/qui-sommes-nous/notre-equipe?view=article&amp;id=4:mentions-legales&amp;catid=12:legalite"
+}

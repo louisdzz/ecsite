@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "INNOVACOM GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/673"
+ },
+ "siren": "430087429",
+ "denomination": "INNOVACOM GESTION",
+ "nom_complet": "INNOVACOM GESTION (INNOVACOM GESTION)",
+ "sigle": null,
+ "enseigne": "INNOVACOM GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2000-03-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/430087429",
+ "maj_rne": "2026-09-23T07:57:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "FAUL",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "HUMBERT",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "WAINSTAIN",
+   "qualite": "Membre du directoire"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/673",
+  "numero": "GP00017",
+  "date_agrement": "2000-05-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "9 rue de Téhéran, 75008 PARIS",
+  "lei": "969500477I53K9LV1M34",
+  "denomination": "INNOVACOM GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/673"
+ }
+}

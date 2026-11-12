@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "AMIRAL GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/833"
+ },
+ "siren": "445224090",
+ "denomination": "AMIRAL GESTION",
+ "nom_complet": "AMIRAL GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-02-17",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/445224090",
+ "maj_rne": "2026-09-23T14:34:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOUIS",
+   "nom": "DE VIGOUROUX D'ARVIEU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS JEAN-BAPTISTE PHILIPPE MARIE",
+   "nom": "DE VIGOUROUX D'ARVIEU",
+   "qualite": "Président de SAS, Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "UGO AZAD",
+   "nom": "EMRINIAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BASTIEN THIERRY JEAN",
+   "nom": "GOUMARE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "KOMILIKIS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MONIA",
+   "nom": "DONNEN (MAHJOUBI)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "MOREAU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "POULET",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/833",
+  "numero": "GP-04000038",
+  "date_agrement": "2003-02-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "103. rue de Grenelle, 75007 PARIS",
+  "lei": "969500797CYN8EAVWA69",
+  "denomination": "AMIRAL GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000038.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/833"
+ }
+}

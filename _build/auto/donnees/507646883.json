@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "VATEL CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14592"
+ },
+ "siren": "507646883",
+ "denomination": "VATEL CAPITAL",
+ "nom_complet": "VATEL CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-08-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.12Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507646883",
+ "maj_rne": "2026-09-29T00:59:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "HERBINET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU DAMIEN BRICE",
+   "nom": "LAMBERT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "MENEAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL JOSEPH PIE",
+   "nom": "YCRE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "JOHES SAS",
+   "siren": "382010270",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE EG",
+   "siren": "894935295",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14592",
+  "numero": "GP-08000044",
+  "date_agrement": "2008-09-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "24, rue de Clichy, 75009 PARIS",
+  "lei": "9695005A72PSMYM89X91",
+  "denomination": "VATEL CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000044.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14592"
+ }
+}

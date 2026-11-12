@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "S14 CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27673"
+ },
+ "siren": "877896605",
+ "denomination": "S14 CAPITAL",
+ "nom_complet": "S14 CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-09-27",
+ "ville": "AIX EN PROVENCE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877896605",
+ "maj_rne": "2026-09-29T13:38:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LADISLAS MARIE LOIC",
+   "nom": "CAILLARD D'AILLIERES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BASILE",
+   "nom": "RIVOIRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27673",
+  "numero": "GP-19000041",
+  "date_agrement": "2019-11-04",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "4 Place Barthelemy Niollon, 13100 AIX EN PROVENCE",
+  "lei": "8945003MK2S9JTSOS245",
+  "denomination": "S14 CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-19000041.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27673"
+ }
+}

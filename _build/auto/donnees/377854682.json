@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "ARGOS FRANCE S.A.S",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8777"
+ },
+ "siren": "377854682",
+ "denomination": "ARGOS FRANCE S.A.S",
+ "nom_complet": "ARGOS FRANCE S.A.S",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1990-04-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/377854682",
+ "maj_rne": "2026-09-22T18:20:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACK",
+   "nom": "AZOULAY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS DIDIER MARCEL ANDRE",
+   "nom": "GODRON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KAREL",
+   "nom": "KROUPA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRINE",
+   "nom": "LAGUMINA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "LORANG",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8777",
+  "numero": "GP-05000033",
+  "date_agrement": "2005-12-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "112 avenue de Wagram, 75017 PARIS",
+  "lei": "969500SO51KWX8L5GA63",
+  "denomination": "ARGOS FRANCE S.A.S"
+ },
+ "site": "https://argos.fund",
+ "site_pages": [
+  "https://argos.fund/",
+  "https://argos.fund/legal-notice/",
+  "https://argos.fund/fr/mentions-legales/",
+  "https://argos.fund/fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-05000033.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8777"
+ },
+ "site_source": "https://argos.fund/legal-notice/"
+}

@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SOCIETE GENERALE INVESTMENT SOLUTIONS (FRANCE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "recherche par dénomination à l'API Recherche d'entreprises : une seule société active de dénomination identique, activité 66.30Z (gestion de fonds)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9744"
+ },
+ "siren": "450777008",
+ "denomination": "SOCIETE GENERALE INVESTMENT SOLUTIONS (FRANCE)",
+ "nom_complet": "SOCIETE GENERALE INVESTMENT SOLUTIONS (FRANCE) (SOCIETE GENERALE INVESTMENT SOLUTIONS (FRANCE))",
+ "sigle": null,
+ "enseigne": "SOCIETE GENERALE INVESTMENT SOLUTIONS (FRANCE)",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-10-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/450777008",
+ "maj_rne": "2026-10-05T12:36:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUGUES",
+   "nom": "BERNAMONTI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MADELEINE",
+   "nom": "BOISSET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "CEGARRA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "DE MARTEL",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "LARGERON",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "MOSNIER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THI MAI HUONG",
+   "nom": "NGUYEN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER DAVID",
+   "nom": "PACCALIN",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9744",
+  "numero": "GP-06000029",
+  "date_agrement": "2006-07-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "29 boulevard Haussmann, 75421 PARIS CEDEX 09",
+  "lei": null,
+  "denomination": "Société Générale Investment Solutions (France)"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000029.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9744"
+ }
+}

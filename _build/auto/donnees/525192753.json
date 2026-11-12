@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "OSTRUM ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26372"
+ },
+ "siren": "525192753",
+ "denomination": "OSTRUM ASSET MANAGEMENT",
+ "nom_complet": "OSTRUM ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2010-09-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/525192753",
+ "maj_rne": "2026-09-24T10:27:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JENNIFER",
+   "nom": "BAERT-GUILLAUME (BAERT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER PIERRE MARIE",
+   "nom": "HOUIX",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE",
+   "nom": "PAIX",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "BRICKER (TERRIN)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS",
+   "siren": "453952681",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BPCE",
+   "siren": "493455042",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26372",
+  "numero": "GP-18000014",
+  "date_agrement": "2018-08-07",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "43 avenue Pierre Mendès France, 75013 PARIS",
+  "lei": "969500YVSB0RNS7OCS11",
+  "denomination": "OSTRUM ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-18000014.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26372"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "PAREF GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7172"
+ },
+ "siren": "380373753",
+ "denomination": "PAREF GESTION",
+ "nom_complet": "PAREF GESTION (PAREF GESTION)",
+ "sigle": null,
+ "enseigne": "PAREF GESTION",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-12-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.32A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/380373753",
+ "maj_rne": "2026-09-22T19:18:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "AUBIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DE OLIVEIRA E CASTRO",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "SCHWARTZ (FRANZOLINI)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "PARIS REALTY FUND",
+   "siren": "412793002",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "PARUS",
+   "siren": "424649523",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7172",
+  "numero": "GP-08000011",
+  "date_agrement": "2008-02-19",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "153 boulevard Haussmann, 75008 PARIS",
+  "lei": "969500AWMRM9UIOTYV05",
+  "denomination": "PAREF GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000011.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7172"
+ }
+}

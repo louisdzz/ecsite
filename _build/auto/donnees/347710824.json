@@ -1,0 +1,125 @@
+{
+ "nom_usuel": "UNOFI-GESTION D'ACTIFS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21570"
+ },
+ "siren": "347710824",
+ "denomination": "UNOFI-GESTION D'ACTIFS",
+ "nom_complet": "UNOFI-GESTION D'ACTIFS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1988-06-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/347710824",
+ "maj_rne": "2026-10-23T15:37:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE HENRIETTE",
+   "nom": "BOGUET (BAUDHUIN)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "DOURDET (CHAUVAT)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "ELLES",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SLIM",
+   "nom": "FOUDHAILI-BOCCARDI (FOUDHAILI)",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "HELLENBRAND (GIRARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE FRANÇOIS",
+   "nom": "LALY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE-LAURE MARIE CHANTAL",
+   "nom": "BENETEAU (LOUVEL)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AGNÉS SUZANNE HELENE",
+   "nom": "MAURIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK DOMINIQUE NOËL",
+   "nom": "PÉTOLAT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD-THIERRY ROGER ROBERT",
+   "nom": "SMAGGHE",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21570",
+  "numero": "GP-14000023",
+  "date_agrement": "2014-07-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "2 rue Montesquieu, 75001 Paris",
+  "lei": "969500S11F3E224M9C49",
+  "denomination": "UNOFI-GESTION D'ACTIFS"
+ },
+ "site": "https://unofi.fr",
+ "site_pages": [
+  "https://www.unofi.fr/",
+  "https://www.unofi.fr/mentions-legales",
+  "https://www.unofi.fr/informations-reglementaires",
+  "https://www.unofi.fr/documentation-reglementaire",
+  "https://www.unofi.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21570"
+ },
+ "site_source": "https://www.unofi.fr/mentions-legales"
+}

@@ -1,0 +1,113 @@
+{
+ "nom_usuel": "MCA FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/996"
+ },
+ "siren": "343829321",
+ "denomination": "MCA FINANCE",
+ "nom_complet": "MCA FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1988-01-01",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/343829321",
+ "maj_rne": "2026-10-16T03:44:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JEAN NATHAN",
+   "nom": "ASSANT (ASSANT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN MARIE",
+   "nom": "CASTAGNES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "CREUZE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "CREUZE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN",
+   "nom": "MALCOSTE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC MARIE DANIEL",
+   "nom": "PINON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "RAYMOND (RAYMOND)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "DAGORN (SALOMON)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/996",
+  "numero": "GP90116",
+  "date_agrement": "1990-07-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "48 C boulevard du Marechal FOCH, 49051 ANGERS CEDEX 02",
+  "lei": "9695001EZKHJOZIDKS24",
+  "denomination": "MCA FINANCE"
+ },
+ "site": "https://www.mcafinance.fr",
+ "site_pages": [
+  "https://www.mcafinance.fr",
+  "https://www.mcafinance.fr/mentions-legales-expert-gestion-financiere.html",
+  "https://www.mcafinance.fr/informations-reglementaires-gestionnaire-financier.html",
+  "https://www.mcafinance.fr/mentions-legales-expert-gestion-financiere.html",
+  "https://www.mcafinance.fr/mentions-legales-expert-gestion-financiere.html"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90116.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/996"
+ },
+ "site_source": "https://www.mcafinance.fr/mentions-legales-expert-gestion-financiere.html"
+}

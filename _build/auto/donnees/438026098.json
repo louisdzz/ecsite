@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "FINALTIS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/818"
+ },
+ "siren": "438026098",
+ "denomination": "FINALTIS",
+ "nom_complet": "FINALTIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-05-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438026098",
+ "maj_rne": "2026-10-24T20:00:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HENRI-PAUL",
+   "nom": "ADAD",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "BEAUDOIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "BERNSTEIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT ANTOINE",
+   "nom": "BERUTI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "BOSSET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHN MCKENZIE",
+   "nom": "CLEMES",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC PIERRE MARIE MICHEL",
+   "nom": "MARECHAL",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "HELLEBORE GROUP",
+   "siren": "848858718",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/818",
+  "numero": "GP-03000025",
+  "date_agrement": "2003-12-23",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "86 rue de Lille, 75007 PARIS",
+  "lei": "969500PYQ84A5XMR5133",
+  "denomination": "FINALTIS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-03000025.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/818"
+ }
+}

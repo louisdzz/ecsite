@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "PAI",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326597"
+ },
+ "siren": "904479649",
+ "denomination": "PAI",
+ "nom_complet": "PAI",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-10-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904479649",
+ "maj_rne": "2026-09-29T18:30:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RICHARD",
+   "nom": "HOWELL",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "STEVENIN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326597",
+  "numero": "GP-20240001",
+  "date_agrement": "2024-01-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "23 rue de la Paix, 75002 PARIS",
+  "lei": "894500QK649UBOPGTY37",
+  "denomination": "PAI SAS"
+ },
+ "site": "https://www.paipartners.com/language/en/",
+ "site_pages": [
+  "https://www.paipartners.com/",
+  "https://www.paipartners.com/legal-disclaimer-2/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20240001.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326597"
+ },
+ "site_source": "https://www.paipartners.com/legal-disclaimer-2/"
+}

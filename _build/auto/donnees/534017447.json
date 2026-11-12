@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "TWENTY FIRST CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18265"
+ },
+ "siren": "534017447",
+ "denomination": "TWENTY FIRST CAPITAL",
+ "nom_complet": "TWENTY FIRST CAPITAL (TWENTY FIRST CAPITAL)",
+ "sigle": null,
+ "enseigne": "TWENTY FIRST CAPITAL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-08-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/534017447",
+ "maj_rne": "2026-09-24T13:39:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STANISLAS",
+   "nom": "BERNARD",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENRI",
+   "nom": "DANGUY DES DÉSERTS",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRYSOSTOMOS",
+   "nom": "ILIOU",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-ASTRID",
+   "nom": "AURIOL (LEDERMANN)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN ROMAIN PAUL",
+   "nom": "PERRAY",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "TOUCHAIS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "LBO FRANCE GESTION",
+   "siren": "418354502",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18265",
+  "numero": "GP-11000029",
+  "date_agrement": "2011-08-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 avenue Pierre 1er de Serbie, 75008 PARIS",
+  "lei": "969500WSBA6KS8V1OR80",
+  "denomination": "TWENTY FIRST CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000029.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18265"
+ }
+}

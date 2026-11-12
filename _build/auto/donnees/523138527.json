@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "ESFIN GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16362"
+ },
+ "siren": "523138527",
+ "denomination": "ESFIN GESTION",
+ "nom_complet": "ESFIN GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "2010-06-03",
+ "ville": "NANTERRE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523138527",
+ "maj_rne": "2026-09-24T09:21:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS",
+   "nom": "FUZIER",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "HAINQUE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "LOPEZ",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "RISPOLI",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "SADDIER",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SONIA",
+   "nom": "TROCMÉ-LE PAGE (TROCMÉ)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT COOPERATIF",
+   "siren": "349974931",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "ECOFI INVESTISSEMENTS",
+   "siren": "999990369",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16362",
+  "numero": "GP-10000026",
+  "date_agrement": "2010-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "12 Boulevard Pesaro, 92024 NANTERRE CEDEX",
+  "lei": "969500R3NDLS4OGSUJ16",
+  "denomination": "ESFIN GESTION SA"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16362"
+ }
+}

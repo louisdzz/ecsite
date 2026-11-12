@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ASTER CAPITAL PARTNERS SAS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/817"
+ },
+ "siren": "414286567",
+ "denomination": "ASTER CAPITAL PARTNERS SAS",
+ "nom_complet": "ASTER CAPITAL PARTNERS SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1997-10-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414286567",
+ "maj_rne": "2026-09-23T03:45:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "BALLY",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIO",
+   "nom": "LANCELLOTTI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/817",
+  "numero": "GP02024",
+  "date_agrement": "2002-09-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "26 avenue de l'Opéra, 75001 PARIS",
+  "lei": "969500N2DAA773PEQK63",
+  "denomination": "ASTER CAPITAL PARTNERS SAS"
+ },
+ "site": "http://www.aster.com",
+ "site_pages": [
+  "https://www.aster.com/",
+  "https://www.aster.com/legal-notice/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02024.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/817"
+ },
+ "site_source": "https://www.aster.com/legal-notice/"
+}

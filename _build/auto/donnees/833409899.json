@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "ADVENIS REAL ESTATE INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26028"
+ },
+ "siren": "833409899",
+ "denomination": "ADVENIS REAL ESTATE INVESTMENT MANAGEMENT",
+ "nom_complet": "ADVENIS REAL ESTATE INVESTMENT MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-11-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833409899",
+ "maj_rne": "2026-09-25T17:30:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "AMINE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "CHAURY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RODOLPHE",
+   "nom": "MANASTERSKI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26028",
+  "numero": "GP-18000011",
+  "date_agrement": "2018-06-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "52 rue de Bassano, 75008 Paris",
+  "lei": "969500X2UMB0V3UMCL16",
+  "denomination": "ADVENIS  REAL ESTATE INVESTMENT MANAGEMENT"
+ },
+ "site": "https://www.advenis-reim.com",
+ "site_pages": [
+  "https://www.advenis-reim.com",
+  "https://www.advenis-reim.com/mentions-legales/",
+  "https://www.advenis-reim.com/mentions-legales/",
+  "https://www.advenis-reim.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-18000011.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26028"
+ },
+ "site_source": "https://www.advenis-reim.com/mentions-legales/"
+}

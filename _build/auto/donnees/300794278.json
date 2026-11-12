@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "BNP PARIBAS REAL ESTATE INVESTMENT MANAGEMENT FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13591"
+ },
+ "siren": "300794278",
+ "denomination": "BNP PARIBAS REAL ESTATE INVESTMENT MANAGEMENT FRANCE",
+ "nom_complet": "BNP PARIBAS REAL ESTATE INVESTMENT MANAGEMENT FRANCE (BNP PARIBAS REIM FRANCE) (BNPP REIM FRANCE)",
+ "sigle": "BNPP REIM FRANCE",
+ "enseigne": "BNP PARIBAS REIM FRANCE",
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1980-06-02",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300794278",
+ "maj_rne": "2026-10-16T03:01:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID SAMUEL",
+   "nom": "BOUCHOUCHA",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-HAROLD",
+   "nom": "DE VILLEMANDY DE LA MESNIERE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "DELATTRE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE",
+   "nom": "PITTICCO (MENIDREY)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALENTIN PAUL EMILE",
+   "nom": "MEYER",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TIMOTHÉ",
+   "nom": "RAULY",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENRI PAUL",
+   "nom": "ROMNICIANU",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE MARION",
+   "nom": "BON (TURLAIS)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "COLISEE GERANCE",
+   "siren": "437666142",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13591",
+  "numero": "GP-07000031",
+  "date_agrement": "2007-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "50 cours de l'île Seguin, 92100 BOULOGNE BILLANCOURT",
+  "lei": "969500CDCA2YYKTQSK05",
+  "denomination": "BNP PARIBAS REAL ESTATE INVESTMENT MANAGEMENT FRANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000031.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13591"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "nom_usuel": "SWISS LIFE ASSET MANAGERS FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13941"
+ },
+ "siren": "499320059",
+ "denomination": "SWISS LIFE ASSET MANAGERS FRANCE",
+ "nom_complet": "SWISS LIFE ASSET MANAGERS FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "2007-07-19",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/499320059",
+ "maj_rne": "2026-09-27T07:43:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "BÔL",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "DE GIOVANNI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PER",
+   "nom": "ERIKSON",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURELIE CELINE JEANINE",
+   "nom": "FOUILLERON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "GERARDIN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIAN",
+   "nom": "HÜRZELER",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "LEHMAN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "LOMBARDO",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "BROWN (REUX)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SWISSLIFE PREVOYANCE ET SANTE",
+   "siren": "322215021",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SWISSLIFE ASSURANCE ET PATRIMOINE",
+   "siren": "341785632",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SWISSLIFE FRANCE",
+   "siren": "424245884",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13941",
+  "numero": "GP-07000055",
+  "date_agrement": "2007-11-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": null,
+  "lei": "969500JP6ZUA1083OX58",
+  "denomination": "SWISS LIFE ASSET MANAGERS FRANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000055.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13941"
+ }
+}

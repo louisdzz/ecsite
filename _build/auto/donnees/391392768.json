@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "DORVAL ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1077"
+ },
+ "siren": "391392768",
+ "denomination": "DORVAL ASSET MANAGEMENT",
+ "nom_complet": "DORVAL ASSET MANAGEMENT (DORVAL AM)",
+ "sigle": null,
+ "enseigne": "DORVAL AM",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1993-06-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/391392768",
+ "maj_rne": "2026-10-06T11:42:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "DENIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AUDREY",
+   "nom": "KOENIG",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA",
+   "nom": "MARTRY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "PONCHON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS WEALTH MANAGEMENT",
+   "siren": "306063355",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1077",
+  "numero": "GP93008",
+  "date_agrement": "1993-06-14",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "111, boulevard Pereire, 75017 PARIS",
+  "lei": "969500M1SCHXU8UOXD03",
+  "denomination": "DORVAL ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP93008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1077"
+ }
+}

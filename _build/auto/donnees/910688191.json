@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "MAITICE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306764"
+ },
+ "siren": "910688191",
+ "denomination": "MAITICE GESTION",
+ "nom_complet": "MAITICE GESTION (MAITICE GESTION)",
+ "sigle": null,
+ "enseigne": "MAITICE GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-02-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/910688191",
+ "maj_rne": "2026-09-26T18:47:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUBERT JEAN PIERRE",
+   "nom": "BODENEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS HENRI ROBERT",
+   "nom": "DRACH",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIAS LOUIS JEAN",
+   "nom": "PECQUEUR",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306764",
+  "numero": "GP-20229",
+  "date_agrement": "2022-03-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "160, rue Montmartre, 75002 PARIS",
+  "lei": "969500W4KLJTLZH27J07",
+  "denomination": "MAITICE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20229.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306764"
+ }
+}

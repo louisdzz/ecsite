@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "CAPELIA MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23268"
+ },
+ "siren": "750343758",
+ "denomination": "CAPELIA MANAGEMENT",
+ "nom_complet": "CAPELIA MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-02-28",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "64.20Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/750343758",
+ "maj_rne": "2026-09-24T17:34:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC JEAN GERMAIN",
+   "nom": "FERY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER ALBERT MARIE",
+   "nom": "LEVESY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE FRANCOIS BERTHOLD",
+   "nom": "PAULET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RICHARD",
+   "nom": "SUSCILLON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS JEAN RENE MARIE",
+   "nom": "VEYRET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23268",
+  "numero": "GP-16000001",
+  "date_agrement": "2016-01-04",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "1, place Verrazzano, 69009 Lyon",
+  "lei": "984500F12BD4A01FET52",
+  "denomination": "CAPELIA MANAGEMENT SAS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000001.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23268"
+ }
+}

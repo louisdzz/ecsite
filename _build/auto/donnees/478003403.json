@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "ATALANTE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8620"
+ },
+ "siren": "478003403",
+ "denomination": "ATALANTE",
+ "nom_complet": "ATALANTE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-07-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478003403",
+ "maj_rne": "2026-09-23T18:12:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE BRIGITTE MARIE",
+   "nom": "SCEMAMA (AUDRAS)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT",
+   "nom": "CHOPPIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL FRANÇOIS JEAN-PIERRE",
+   "nom": "CHRISTORY",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DEBORAH",
+   "nom": "SHIRE (DRUMLEWIEZ)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER MARC",
+   "nom": "THORAL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8620",
+  "numero": "GP-04000065",
+  "date_agrement": "2004-11-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "103, rue de Grenelle, 75007 PARIS",
+  "lei": "969500H6SRUN2J11QM66",
+  "denomination": "ATALANTE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000065.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8620"
+ }
+}

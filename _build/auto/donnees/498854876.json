@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "LAFFITTE CAPITAL MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13727"
+ },
+ "siren": "498854876",
+ "denomination": "LAFFITTE CAPITAL MANAGEMENT",
+ "nom_complet": "LAFFITTE CAPITAL MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-06-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/498854876",
+ "maj_rne": "2026-09-24T01:54:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "LENFANT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GABRIEL",
+   "nom": "TEODORESCU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "YVINEC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13727",
+  "numero": "GP-07000048",
+  "date_agrement": "2007-10-03",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "15 rue du Faubourg Montmartre, 75009 PARIS",
+  "lei": "969500NJSR0LK38C4T21",
+  "denomination": "LAFFITTE CAPITAL MANAGEMENT SAS"
+ },
+ "site": "https://www.laffittecapital.com",
+ "site_pages": [
+  "https://www.laffittecapital.com",
+  "https://www.laffittecapital.com/obligations-reglementaires.php",
+  "https://www.laffittecapital.com/mentions-legales.php",
+  "https://www.laffittecapital.com/mentions-legales",
+  "https://www.laffittecapital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000048.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13727"
+ },
+ "site_source": "https://www.laffittecapital.com"
+}

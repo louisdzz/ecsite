@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "FERNHILL CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/333056"
+ },
+ "siren": "943201343",
+ "denomination": "FERNHILL CAPITAL",
+ "nom_complet": "FERNHILL CAPITAL (FERNHILL CAPITAL)",
+ "sigle": null,
+ "enseigne": "FERNHILL CAPITAL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-04-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/943201343",
+ "maj_rne": "2026-09-28T01:35:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "CIRON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "MOVAHHEDI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/333056",
+  "numero": "GP-20260009",
+  "date_agrement": "2026-06-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": null,
+  "lei": null,
+  "denomination": "FERNHILL CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/333056"
+ }
+}

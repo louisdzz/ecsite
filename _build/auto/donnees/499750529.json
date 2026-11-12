@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "LA FINANCIERE RESPONSABLE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14071"
+ },
+ "siren": "499750529",
+ "denomination": "LA FINANCIERE RESPONSABLE",
+ "nom_complet": "LA FINANCIERE RESPONSABLE (LFR)",
+ "sigle": null,
+ "enseigne": "LFR",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-09-17",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.12Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/499750529",
+ "maj_rne": "2026-09-27T06:17:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "CHESNEAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALBERTO",
+   "nom": "MATELLAN PINILLA",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14071",
+  "numero": "GP-08000001",
+  "date_agrement": "2008-04-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "116 rue La Boétie, 75008 PARIS",
+  "lei": "9695002LS2XZA1T4CW47",
+  "denomination": "LA FINANCIERE RESPONSABLE"
+ },
+ "site": "https://www.la-financiere-responsable.fr",
+ "site_pages": [
+  "https://www.la-financiere-responsable.fr",
+  "https://www.la-financiere-responsable.fr/mentions-legales/",
+  "https://www.la-financiere-responsable.fr/documentation-reglementaire-isr-esg/",
+  "https://www.la-financiere-responsable.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000001.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14071"
+ },
+ "site_source": "https://www.la-financiere-responsable.fr/mentions-legales/"
+}

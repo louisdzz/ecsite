@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17865"
+ },
+ "siren": "533147815",
+ "denomination": "PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER",
+ "nom_complet": "PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER (PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER)",
+ "sigle": null,
+ "enseigne": "PHILIPPE HOTTINGUER GESTION - GROUPE PHILIPPE HOTTINGUER",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-05-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533147815",
+ "maj_rne": "2026-09-29T02:27:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HELENE",
+   "nom": "D'ALBERT DE LUYNES DUNOIS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "DE GERMAY DE CIRFONTAINE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDWIN DENIS ROBERT",
+   "nom": "FAURE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "GODEFROY",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAETITIA",
+   "nom": "HOTTINGUER-CHOLET (HOTTINGUER)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "HOTTINGUER",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC-ANTOINE",
+   "nom": "LAFFONT",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "STELANDRE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÔME",
+   "nom": "VOULTON",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17865",
+  "numero": "GP-11000021",
+  "date_agrement": "2011-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "9 rue Vézelay, 75008 PARIS",
+  "lei": "96950051KWVIVKC9VY20",
+  "denomination": "PHILIPPE HOTTINGUER GESTION - Groupe Philippe HOTTINGUER"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000021.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17865"
+ }
+}

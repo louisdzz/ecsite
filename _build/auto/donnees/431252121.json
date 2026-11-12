@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "IQ EQ MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/808"
+ },
+ "siren": "431252121",
+ "denomination": "IQ EQ MANAGEMENT",
+ "nom_complet": "IQ EQ MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2000-04-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/431252121",
+ "maj_rne": "2026-09-23T08:19:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND MARIE PIERRE",
+   "nom": "D'ANSELME",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC RENE MARCEL",
+   "nom": "FADY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE MARIE JULIENNE",
+   "nom": "HUBERT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGO",
+   "nom": "JONCA",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SALAR",
+   "nom": "MOZAFFARI",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/808",
+  "numero": "GP02023",
+  "date_agrement": "2002-10-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "92 avenue de Wagram, 75017 PARIS",
+  "lei": "969500CY9YKWDZW47Y85",
+  "denomination": "IQ EQ Management"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/808"
+ }
+}

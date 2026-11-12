@@ -1,0 +1,86 @@
+{
+ "nom_usuel": "SAINT OLIVE ET CIE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/97"
+ },
+ "siren": "414736223",
+ "denomination": "SAINT OLIVE ET CIE",
+ "nom_complet": "SAINT OLIVE ET CIE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société en nom collectif",
+ "forme_code": "5202",
+ "creation": "1997-12-01",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414736223",
+ "maj_rne": "2026-09-23T03:50:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BAUDOUIN",
+   "nom": "SAINT  OLIVE (SAINT OLIVE)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE  SAINT OLIVE",
+   "siren": "342324993",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "EFCG",
+   "siren": "964506091",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/97",
+  "numero": "GP97131",
+  "date_agrement": "1997-12-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "84, rue Duguesclin, 69006 LYON",
+  "lei": "9695004HBRRP2Q8CZW37",
+  "denomination": "SAINT OLIVE ET CIE"
+ },
+ "site": "https://www.banquesaintolive.com",
+ "site_pages": [
+  "https://www.banquesaintolive.com",
+  "https://www.banquesaintolive.com/informations-reglementaires/",
+  "https://www.banquesaintolive.com/mentions-legales/",
+  "https://www.banquesaintolive.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97131.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/97"
+ },
+ "site_source": "https://www.banquesaintolive.com/mentions-legales/"
+}

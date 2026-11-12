@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "SAINT OLIVE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/492"
+ },
+ "siren": "353559040",
+ "denomination": "SAINT OLIVE GESTION",
+ "nom_complet": "SAINT OLIVE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société en nom collectif",
+ "forme_code": "5202",
+ "creation": "1990-01-12",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353559040",
+ "maj_rne": "2026-09-22T18:00:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "DE PUGET (DUPRE DE PUGET)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS MARIE JEAN MARC",
+   "nom": "SAINT OLIVE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "SAINT OLIVE ET CIE",
+   "siren": "414736223",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "BIOTEK PARTENAIRES",
+   "siren": "418660924",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "SAINFORT",
+   "siren": "824897268",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "EFCG",
+   "siren": "964506091",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/492",
+  "numero": "GP-05000016",
+  "date_agrement": "1997-12-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "84, rue Duguesclin, 69006 LYON",
+  "lei": "969500NNHI81RO3MRM38",
+  "denomination": "SAINT OLIVE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-05000016.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/492"
+ }
+}

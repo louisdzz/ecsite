@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "MIDI 2 I",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21738"
+ },
+ "siren": "487674731",
+ "denomination": "MIDI 2 I",
+ "nom_complet": "MIDI 2 I",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-12-20",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487674731",
+ "maj_rne": "2026-10-16T05:39:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LUC",
+   "nom": "BARTHET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21738",
+  "numero": "GP-15000025",
+  "date_agrement": "2015-11-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "11,allée du Président Franklin Rooseve, 31015 Toulouse Cedex 6",
+  "lei": "969500M5EHPMZ23SJE73",
+  "denomination": "MIDI 2I"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-15000025.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21738"
+ }
+}

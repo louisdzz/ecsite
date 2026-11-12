@@ -1,0 +1,114 @@
+{
+ "nom_usuel": "DUBLY TRANSATLANTIQUE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17452"
+ },
+ "siren": "352220313",
+ "denomination": "DUBLY TRANSATLANTIQUE GESTION",
+ "nom_complet": "DUBLY TRANSATLANTIQUE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-09-14",
+ "ville": "LILLE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352220313",
+ "maj_rne": "2026-09-22T17:33:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ODILE MARIE CLEMENCE LOUISE",
+   "nom": "LE GOC (AIRIAU)",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLELIA",
+   "nom": "JOSSE (CHASTAN)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLOTTE",
+   "nom": "TASSO (DE PANAFIEU)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGUES",
+   "nom": "DUBLY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "MAROT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "PETRENS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NAIMA",
+   "nom": "KHELIFI (ZIANE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CIC ASSOCIES",
+   "siren": "331719708",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CICOVAL",
+   "siren": "399017110",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "UGEPAR SERVICES",
+   "siren": "692014277",
+   "qualite": ""
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17452",
+  "numero": "GP-13000030",
+  "date_agrement": "2013-08-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "50,boulevard de la Liberté, 59800 LILLE",
+  "lei": "9695008N1OA81TZOP188",
+  "denomination": "DUBLY TRANSATLANTIQUE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-13000030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17452"
+ }
+}

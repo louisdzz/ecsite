@@ -1,0 +1,122 @@
+{
+ "nom_usuel": "TRAIL MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24580"
+ },
+ "siren": "821737632",
+ "denomination": "TRAIL MANAGEMENT",
+ "nom_complet": "TRAIL MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-07-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/821737632",
+ "maj_rne": "2026-09-25T10:49:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YAER",
+   "nom": "BA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER CHARLES PIERRE MARC",
+   "nom": "CHARTIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY ARNAUD CHARLES",
+   "nom": "DELAUNOY DE LA TOUR D'ARTAISE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JINGHUA",
+   "nom": "DENG",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JURGEN",
+   "nom": "GERKE",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MOFSES",
+   "nom": "KECHICHIAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YING",
+   "nom": "LIU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "MARIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XIONG",
+   "nom": "SIFEI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "TRAIL",
+   "siren": "821737632",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24580",
+  "numero": "GP-17000019",
+  "date_agrement": "2017-07-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "12 avenue Matignon, 75008 PARIS",
+  "lei": "969500GH3AVB0ICNRW15",
+  "denomination": "TRAIL MANAGEMENT"
+ },
+ "site": "https://trailcapital.eu",
+ "site_pages": [
+  "https://www.trailcapital.eu/",
+  "https://www.trailcapital.eu/legal-pages/privacy-policy",
+  "https://www.trailcapital.eu/legal-pages/cookie-policy",
+  "https://www.trailcapital.eu/legal-pages/terms-of-use",
+  "https://www.trailcapital.eu/legal-pages/regulatory-information",
+  "https://www.trailcapital.eu/legal-pages/legal-notice"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000019.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24580"
+ },
+ "site_source": "https://www.trailcapital.eu/legal-pages/legal-notice"
+}

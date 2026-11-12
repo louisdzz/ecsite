@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "INVESTED PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331427"
+ },
+ "siren": "939571063",
+ "denomination": "INVESTED PARTNERS",
+ "nom_complet": "INVESTED PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-01-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939571063",
+ "maj_rne": "2026-09-27T23:29:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE FRÉDÉRIC",
+   "nom": "AVIERINOS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA STÉPHANIE",
+   "nom": "CHEVALIER ORBAN (CHEVALIER)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331427",
+  "numero": "GP-20250008",
+  "date_agrement": "2025-09-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "6 rue Cambacérès, 75008 PARIS",
+  "lei": "984500603QBDO8E8EF79",
+  "denomination": "INVESTED PARTNERS"
+ },
+ "site": "https://www.investedpartners.org",
+ "site_pages": [
+  "https://www.invested.fr/",
+  "https://www.invested.fr/mentions-legales",
+  "https://www.invested.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20250008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331427"
+ },
+ "site_source": "https://www.invested.fr/"
+}
