@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "BFC PRESTIGE INVESTISSEMENTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 21",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988578522"
+ },
+ "siren": "988578522",
+ "denomination": "BFC PRESTIGE INVESTISSEMENTS",
+ "nom_complet": "BFC PRESTIGE INVESTISSEMENTS (BFC PRESTIGE INVESTISSEMENTS)",
+ "sigle": null,
+ "enseigne": "BFC PRESTIGE INVESTISSEMENTS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-06-25",
+ "ville": "DIJON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988578522",
+ "maj_rne": "2026-09-28T03:03:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLES FERDINAND MARIE",
+   "nom": "D'HAUSEN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/988578522",
+  "numero": "25006448",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/988578522"
+ }
+}
