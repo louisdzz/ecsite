@@ -1,0 +1,136 @@
+{
+ "nom_usuel": "CARMIGNAC GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/470"
+ },
+ "siren": "349501676",
+ "denomination": "CARMIGNAC GESTION",
+ "nom_complet": "CARMIGNAC GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-01-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349501676",
+ "maj_rne": "2026-09-22T16:22:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HABIB PIERRE",
+   "nom": "ACHKAR",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AMAURY EDOUARD MICHEL",
+   "nom": "CARMIGNAC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES ANTOINE",
+   "nom": "CARMIGNAC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDOUARD",
+   "nom": "CARMIGNAC",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME",
+   "nom": "CARMIGNAC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERARD ERIC ALBERT",
+   "nom": "CORNE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JAIME",
+   "nom": "ESPINOSA DE LOS MONTEROS PITARQUE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCALE",
+   "nom": "GUILLIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC CHRISTIAN",
+   "nom": "HELDERLE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "LE COZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FERDINAND-ALEXANDER",
+   "nom": "LEISTEN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROSE CLEMY FRIDA",
+   "nom": "OUAHBA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE HENRI",
+   "nom": "PERONIN",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/470",
+  "numero": "GP97008",
+  "date_agrement": "1997-03-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "24, place Vendôme, 75001 PARIS",
+  "lei": "X0V79C0OOSCP8T3CJZ56",
+  "denomination": "CARMIGNAC GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/470"
+ }
+}

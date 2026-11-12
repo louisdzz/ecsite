@@ -1,0 +1,96 @@
+{
+ "nom_usuel": "FRANCE TITRISATION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21703"
+ },
+ "siren": "353053531",
+ "denomination": "FRANCE TITRISATION",
+ "nom_complet": "FRANCE TITRISATION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1989-12-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353053531",
+ "maj_rne": "2026-09-22T17:49:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PAULINE",
+   "nom": "WILLEMS (BERNARD)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "CAMPENON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "DUHOURCAU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "LEFEBVRE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "RUET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KARINE",
+   "nom": "LITOU (SCHMIT)",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21703",
+  "numero": "GP-14000030",
+  "date_agrement": "2014-07-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "9, rue du débarcadère, 93500 Pantin",
+  "lei": "969500NQ6OKHXKQNT714",
+  "denomination": "FRANCE TITRISATION"
+ },
+ "site": "https://www.france-titrisation.com",
+ "site_pages": [
+  "https://france-titrisation.com/fr/",
+  "https://france-titrisation.com/fr/mentions-legales/",
+  "https://france-titrisation.com/fr/mentions-legales/",
+  "https://france-titrisation.com/fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21703"
+ },
+ "site_source": "https://france-titrisation.com/fr/mentions-legales/"
+}

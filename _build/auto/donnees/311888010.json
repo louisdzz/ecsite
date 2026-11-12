@@ -1,0 +1,130 @@
+{
+ "nom_usuel": "PROMEPAR ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1067"
+ },
+ "siren": "311888010",
+ "denomination": "PROMEPAR ASSET MANAGEMENT",
+ "nom_complet": "PROMEPAR ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1974-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/311888010",
+ "maj_rne": "2026-10-27T14:54:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "DELAUNAY",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERWAN ANDRE PAUL PATRICE",
+   "nom": "DUQUOC",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "FAVARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEVE",
+   "nom": "GENTILI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PAUL",
+   "nom": "JULIA",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERARD",
+   "nom": "KUSTER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "LUNARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "PELLÉ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE",
+   "nom": "THIEBAUT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUC",
+   "nom": "VIENNET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "LA CIE FINANCIERE DE LA BRED - COFIBRED",
+   "siren": "345040034",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1067",
+  "numero": "GP92017",
+  "date_agrement": "1992-10-07",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "18, Quai de la Rapée, 75012 PARIS",
+  "lei": "969500LW8TECNTP84D31",
+  "denomination": "PROMEPAR ASSET MANAGEMENT"
+ },
+ "site": "http://www.promepar.fr",
+ "site_pages": [
+  "https://www.promepar.fr/",
+  "https://www.promepar.fr/informations-reglementaires/",
+  "https://www.promepar.fr/mentions-legales/",
+  "https://www.promepar.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP92017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1067"
+ },
+ "site_source": "https://www.promepar.fr/mentions-legales/"
+}

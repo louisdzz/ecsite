@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "AMUNDSEN INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29404"
+ },
+ "siren": "891407579",
+ "denomination": "AMUNDSEN INVESTMENT MANAGEMENT",
+ "nom_complet": "AMUNDSEN INVESTMENT MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-11-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/891407579",
+ "maj_rne": "2026-09-29T15:24:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PER EINAR",
+   "nom": "ELLEFSEN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAUTIER",
+   "nom": "ROUSSEAU",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29404",
+  "numero": "GP-21000002",
+  "date_agrement": "2021-01-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "25 rue du 4 septembre, 75002 PARIS",
+  "lei": "2549006QUCKPYW3R7I60",
+  "denomination": "AMUNDSEN INVESTMENT MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-21000002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29404"
+ }
+}

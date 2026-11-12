@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "WAGRAM FUND SERVICES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334174"
+ },
+ "siren": "101565687",
+ "denomination": "WAGRAM FUND SERVICES",
+ "nom_complet": "WAGRAM FUND SERVICES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-02-18",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/101565687",
+ "maj_rne": "2026-09-25T20:00:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "DIEHL",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN",
+   "nom": "PERU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334174",
+  "numero": "GP-20260017",
+  "date_agrement": "2026-10-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "6 rue Halévy, 75009 PARIS",
+  "lei": null,
+  "denomination": "WAGRAM FUND SERVICES"
+ },
+ "site": "https://www.wagram-fs.com",
+ "site_pages": [
+  "https://www.wagram-fs.com",
+  "https://www.wagram-fs.com/mentions-legales/",
+  "https://www.wagram-fs.com/informations-reglementaires/",
+  "https://www.wagram-fs.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334174"
+ },
+ "site_source": "https://www.wagram-fs.com/mentions-legales/"
+}

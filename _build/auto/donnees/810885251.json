@@ -1,0 +1,68 @@
+{
+ "nom_usuel": "HORIZON ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23631"
+ },
+ "siren": "810885251",
+ "denomination": "HORIZON ASSET MANAGEMENT",
+ "nom_complet": "HORIZON ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-01-02",
+ "ville": "VOISINS-LE-BRETONNEUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810885251",
+ "maj_rne": "2026-09-25T05:24:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MEHDI",
+   "nom": "GAIJI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23631",
+  "numero": "GP-16000018",
+  "date_agrement": "2016-06-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "21 B rue Jacques Cartier, 78960 VOISINS LE BRETONNEUX",
+  "lei": "9695006COCAX17BDB714",
+  "denomination": "HORIZON ASSET MANAGEMENT"
+ },
+ "site": "https://www.horizon-am.fr",
+ "site_pages": [
+  "https://horizon-am.fr/",
+  "https://horizon-am.fr/reglementations/politique-de-vote",
+  "https://horizon-am.fr/reglementations/reclamations",
+  "https://horizon-am.fr/reglementations/conflit-d-interets",
+  "https://horizon-am.fr/mentions-legales.html",
+  "https://horizon-am.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000018.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23631"
+ },
+ "site_source": "https://horizon-am.fr/mentions-legales.html"
+}

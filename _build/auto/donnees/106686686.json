@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "STILGAR ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "recherche par dénomination à l'API Recherche d'entreprises : une seule société active de dénomination identique, activité 66.30Z (gestion de fonds)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/335592"
+ },
+ "siren": "106686686",
+ "denomination": "STILGAR ASSET MANAGEMENT",
+ "nom_complet": "STILGAR ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-06-16",
+ "ville": "PARIS 09",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106686686",
+ "maj_rne": "2026-09-28T11:50:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "BÉRIC",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES-AURÉLIEN",
+   "nom": "MARCIREAU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/335592",
+  "numero": "GP-20260015",
+  "date_agrement": "2026-08-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": null,
+  "lei": null,
+  "denomination": "STILGAR ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260015.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/335592"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "FAMILY FINANCE FIRST",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16466"
+ },
+ "siren": "522565241",
+ "denomination": "FAMILY FINANCE FIRST",
+ "nom_complet": "FAMILY FINANCE FIRST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-04-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/522565241",
+ "maj_rne": "2026-09-24T09:17:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-NOEL",
+   "nom": "DELBOS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16466",
+  "numero": "GP-10000022",
+  "date_agrement": "2010-06-10",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "95 rue de Prony, 75017 PARIS",
+  "lei": "969500JTHFP3XT69M364",
+  "denomination": "FAMILY FINANCE FIRST"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000022.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16466"
+ }
+}

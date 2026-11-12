@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "SOGENIAL IMMOBILIER",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19503"
+ },
+ "siren": "322982075",
+ "denomination": "SOGENIAL IMMOBILIER",
+ "nom_complet": "SOGENIAL IMMOBILIER (SOCIETE DE GESTION PATRIMONIALE EN IMMOBILIER)",
+ "sigle": null,
+ "enseigne": "SOCIETE DE GESTION PATRIMONIALE EN IMMOBILIER",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1981-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/322982075",
+ "maj_rne": "2026-08-25T16:18:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE",
+   "nom": "SOUCLIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19503",
+  "numero": "GP-12000026",
+  "date_agrement": "2012-09-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "135 AVENUE DE WAGRAM, 75017 Paris",
+  "lei": "969500OTE4SRRASDKZ20",
+  "denomination": "SOGENIAL IMMOBILIER"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-12000026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19503"
+ }
+}

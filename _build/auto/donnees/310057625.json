@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "ATLAND VOISIN",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21574"
+ },
+ "siren": "310057625",
+ "denomination": "ATLAND VOISIN",
+ "nom_complet": "ATLAND VOISIN",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1977-01-01",
+ "ville": "DIJON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/310057625",
+ "maj_rne": "2026-09-22T11:14:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARTIN FRANÇOIS RENÉ",
+   "nom": "JACQUESSON",
+   "qualite": "Membre du directoire, Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GENEVIEVE MARIE",
+   "nom": "MARTIN (VAUDELIN)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINEXIA",
+   "siren": "377751425",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "ATLAND",
+   "siren": "598500775",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21574",
+  "numero": "GP-14000026",
+  "date_agrement": "2014-07-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "15, Place Grangier, 21000 Dijon",
+  "lei": "969500YT9GHAOHEJQE53",
+  "denomination": "ATLAND VOISIN"
+ },
+ "site": "https://www.atland-voisin.com",
+ "site_pages": [
+  "https://atland-voisin.com/",
+  "https://atland-voisin.com/mentions-legales/",
+  "https://atland-voisin.com/dispositif-reglementaire/",
+  "https://atland-voisin.com/dispositif-reglementaire/#Politique-de-gestion-des-reclamations-client",
+  "https://atland-voisin.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21574"
+ },
+ "site_source": "https://atland-voisin.com/mentions-legales/"
+}

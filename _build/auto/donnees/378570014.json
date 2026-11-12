@@ -1,0 +1,92 @@
+{
+ "nom_usuel": "ITAVERA ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/986"
+ },
+ "siren": "378570014",
+ "denomination": "ITAVERA ASSET MANAGEMENT",
+ "nom_complet": "ITAVERA ASSET MANAGEMENT (IAM)",
+ "sigle": "IAM",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1990-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378570014",
+ "maj_rne": "2026-09-22T18:48:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "CHASSAGNE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROLANDO JOSE",
+   "nom": "GRANDI BUSTAMANTE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN JEAN EMILE EMMANUEL",
+   "nom": "LEFÈVRE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT",
+   "nom": "SAINT-RAYMOND",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YOUSSEF",
+   "nom": "SARKOUKOU",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/986",
+  "numero": "GP90105",
+  "date_agrement": "1990-07-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "12-14 Avenue de la Grande Armée, 75017 PARIS",
+  "lei": "969500RKNIS64O687M75",
+  "denomination": "ITAVERA ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90105.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/986"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "INVESTISSEURS DANS L'ENTREPRISE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/127"
+ },
+ "siren": "418778445",
+ "denomination": "INVESTISSEURS DANS L'ENTREPRISE",
+ "nom_complet": "INVESTISSEURS DANS L'ENTREPRISE (IDE)",
+ "sigle": "IDE",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1998-05-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/418778445",
+ "maj_rne": "2026-09-27T04:51:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "DE DAMPIERRE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VERONIQUE",
+   "nom": "ROCHEREAU (FATH)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIANE",
+   "nom": "DE DAMPIERRE (PIERRE-BROSSOLETTE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC JEAN JEAN-CLAUDE",
+   "nom": "ROCHEREAU",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/127",
+  "numero": "GP98008",
+  "date_agrement": "1998-05-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "3, rue de Messine, 75008 PARIS",
+  "lei": "969500ZZ1MUJPZ4QCU41",
+  "denomination": "INVESTISSEURS DANS L'ENTREPRISE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/127"
+ }
+}

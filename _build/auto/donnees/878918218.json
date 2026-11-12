@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "JUNE REAL ESTATE INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27959"
+ },
+ "siren": "878918218",
+ "denomination": "JUNE REAL ESTATE INVESTMENT MANAGEMENT",
+ "nom_complet": "JUNE REAL ESTATE INVESTMENT MANAGEMENT (JUNE REIM)",
+ "sigle": null,
+ "enseigne": "JUNE REIM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-11-05",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/878918218",
+ "maj_rne": "2026-09-26T03:50:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ANTOINE",
+   "nom": "AUROUSSEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURELIEN",
+   "nom": "JUILLARD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "PRICEWATERHOUSECOOPERS AUDIT",
+   "siren": "672006483",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27959",
+  "numero": "GP-20000021",
+  "date_agrement": "2020-07-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "10 rue de la Charité, 69002 LYON",
+  "lei": "969500KTTR0DB6723X82",
+  "denomination": "JUNE REIM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000021.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/27959"
+ }
+}

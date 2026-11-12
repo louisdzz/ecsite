@@ -1,0 +1,105 @@
+{
+ "nom_usuel": "SUNNY ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14593"
+ },
+ "siren": "509296810",
+ "denomination": "SUNNY ASSET MANAGEMENT",
+ "nom_complet": "SUNNY ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2008-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509296810",
+ "maj_rne": "2026-09-24T05:35:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "BENGEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "GROLIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "PALHON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "POTELLET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "PRINCE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "TAPIA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "PAM 5",
+   "siren": "792482275",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14593",
+  "numero": "GP-08000045",
+  "date_agrement": "2008-12-19",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "85 rue Jouffroy d'Abbans, 75017 PARIS",
+  "lei": "969500W75ZTO1IAZE717",
+  "denomination": "SUNNY ASSET MANAGEMENT"
+ },
+ "site": "https://www.sunny-am.com",
+ "site_pages": [
+  "https://www.sunny-am.com",
+  "https://www.sunny-am.com/informations-reglementaires",
+  "https://www.sunny-am.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000045.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14593"
+ },
+ "site_source": "https://www.sunny-am.com/informations-reglementaires"
+}

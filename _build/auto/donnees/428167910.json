@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "TURENNE CAPITAL PARTENAIRES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/635"
+ },
+ "siren": "428167910",
+ "denomination": "TURENNE CAPITAL PARTENAIRES",
+ "nom_complet": "TURENNE CAPITAL PARTENAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1999-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/428167910",
+ "maj_rne": "2026-10-22T14:20:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MOUNIA",
+   "nom": "ROULLEAU (CHAOUI)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE MARC GERARD",
+   "nom": "DELDYCKE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/635",
+  "numero": "GP99038",
+  "date_agrement": "1999-12-03",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "9 rue de Téhéran, 75008 PARIS",
+  "lei": "9695009RW04BODV1KN38",
+  "denomination": "TURENNE CAPITAL PARTENAIRES SA"
+ },
+ "site": "https://www.turennecapital.com",
+ "site_pages": [
+  "https://www.turennecapital.com",
+  "https://www.turennecapital.com/mentions-legales/",
+  "https://www.turennecapital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99038.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/635"
+ },
+ "site_source": "https://www.turennecapital.com/mentions-legales/"
+}

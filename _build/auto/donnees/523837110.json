@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "POINCARE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16553"
+ },
+ "siren": "523837110",
+ "denomination": "POINCARE GESTION",
+ "nom_complet": "POINCARE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-07-01",
+ "ville": "NANCY",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523837110",
+ "maj_rne": "2026-10-13T11:22:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "DUBUISSON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "HAMM",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "PEIFFER",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16553",
+  "numero": "GP-10000031",
+  "date_agrement": "2010-07-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "23 rue Lepois, 54000 NANCY",
+  "lei": "894500N6ZYG6USY9VX11",
+  "denomination": "POINCARE GESTION"
+ },
+ "site": "https://www.fonds-gei.com",
+ "site_pages": [
+  "https://fonds-gei.com/",
+  "https://fonds-gei.com/mentions-legales",
+  "https://fonds-gei.com/informations-reglementaires",
+  "https://fonds-gei.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000031.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16553"
+ },
+ "site_source": "https://fonds-gei.com/mentions-legales"
+}

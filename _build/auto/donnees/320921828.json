@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SIENNA GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/347"
+ },
+ "siren": "320921828",
+ "denomination": "SIENNA GESTION",
+ "nom_complet": "SIENNA GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1980-12-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/320921828",
+ "maj_rne": "2026-09-29T17:38:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE",
+   "nom": "BAUDHUIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "DELLA SANTINA",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "GONNET",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CECILE",
+   "nom": "HAASER (GUERIN)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE-LAURE MARIE CHANTAL",
+   "nom": "BENETEAU (LOUVEL)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "TAIEB",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY XAVIER",
+   "nom": "VALLIERE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "VAUDAINE",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/347",
+  "numero": "GP97020",
+  "date_agrement": "1997-03-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "21 Boulevard Haussmann, 75009 PARIS",
+  "lei": "9695003C7PPLQN1DJN65",
+  "denomination": "SIENNA GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97020.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/347"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "TALENCE PATRIVAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/918"
+ },
+ "siren": "349967497",
+ "denomination": "TALENCE PATRIVAL",
+ "nom_complet": "TALENCE PATRIVAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-02-01",
+ "ville": "WASQUEHAL",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349967497",
+ "maj_rne": "2026-09-22T16:29:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "CATTEAU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GRÉGOIRE",
+   "nom": "PARIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVÉ",
+   "nom": "PICARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "BELIS (PINAUD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIEN",
+   "nom": "REQUILLART",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "TENIERE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "VIEL",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/918",
+  "numero": "GP90028",
+  "date_agrement": "1990-06-12",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "29, Bis avenue de la Marne, 59290 WASQUEHAL",
+  "lei": "969500JVQ1M8HKET0K76",
+  "denomination": "TALENCE PATRIVAL"
+ },
+ "site": "https://www.talence-patrival.fr",
+ "site_pages": [
+  "https://talence-patrival.fr/",
+  "https://talence-patrival.fr/mentions-legales/",
+  "https://talence-patrival.fr/informations-reglementaires/",
+  "https://talence-patrival.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90028.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/918"
+ },
+ "site_source": "https://talence-patrival.fr/mentions-legales/"
+}

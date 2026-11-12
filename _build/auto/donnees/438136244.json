@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "CDC CROISSANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/763"
+ },
+ "siren": "438136244",
+ "denomination": "CDC CROISSANCE",
+ "nom_complet": "CDC CROISSANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2001-06-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438136244",
+ "maj_rne": "2026-10-14T16:54:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "GIRAUDON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "HAYEM",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER FRANÇOIS",
+   "nom": "HEREIL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AUDE",
+   "nom": "DE LARDEMELLE (LE NORMAND DE BRETTEVILLE)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "MAREUSE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "BONNEVAY (POELMAN)",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/763",
+  "numero": "GP-04000010",
+  "date_agrement": "2001-11-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "209 rue de l'université, 75007 PARIS",
+  "lei": "969500UAI0U1GTCAJ582",
+  "denomination": "CDC CROISSANCE"
+ },
+ "site": "https://www.cdc-croissance.caissedesdepots.fr",
+ "site_pages": [
+  "https://www.cdc-croissance.caissedesdepots.fr/",
+  "https://www.cdc-croissance.caissedesdepots.fr/cgu",
+  "https://www.cdc-croissance.caissedesdepots.fr/mentions-legales-0"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/763"
+ },
+ "site_source": "https://www.cdc-croissance.caissedesdepots.fr/cgu"
+}

@@ -1,0 +1,102 @@
+{
+ "nom_usuel": "OTOKTONE 3I",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20980"
+ },
+ "siren": "342762176",
+ "denomination": "OTOKTONE 3I",
+ "nom_complet": "OTOKTONE 3I",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1987-10-23",
+ "ville": "SAINT-HERBLAIN",
+ "actif": true,
+ "naf": "82.11Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342762176",
+ "maj_rne": "2026-09-15T10:53:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT ANDRÉ HUBERT",
+   "nom": "CARON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU SÉBASTIEN THOMAS",
+   "nom": "CHESNEL",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALBAN",
+   "nom": "FOREST",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "GUILLAUMIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN CLAUDE MARCEL",
+   "nom": "HASARD",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO JEAN ALBERT",
+   "nom": "PAIN",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "GRAND OUEST PLUS",
+   "siren": "352775407",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE POPULAIRE GRAND OUEST",
+   "siren": "857500227",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20980",
+  "numero": "GP-14000025",
+  "date_agrement": "2014-07-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "15 boulevard de la Boutière, 35760 Saint Grégoire",
+  "lei": "969500J6502VAYLGDF71",
+  "denomination": "OTOKTONE 3I"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000025.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20980"
+ }
+}

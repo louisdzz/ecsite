@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "EXANE ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/730"
+ },
+ "siren": "434692828",
+ "denomination": "EXANE ASSET MANAGEMENT",
+ "nom_complet": "EXANE ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-02-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434692828",
+ "maj_rne": "2026-09-23T09:53:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "CATHERINE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC ROBERT BERNARD",
+   "nom": "DELATTRE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE JEANNE MARIE",
+   "nom": "AUBERNON (HUMBERT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "LAURI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES-HENRI",
+   "nom": "NÊME",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "SEQUIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK ANTOINE",
+   "nom": "SIMION",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/730",
+  "numero": "GP01015",
+  "date_agrement": "2001-04-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "11 rue SCRIBE, 75009 PARIS",
+  "lei": "969500QCD96QW6JGCN41",
+  "denomination": "EXANE ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP01015.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/730"
+ }
+}

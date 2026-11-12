@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "CREDIT MUTUEL ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/55"
+ },
+ "siren": "388555021",
+ "denomination": "CREDIT MUTUEL ASSET MANAGEMENT",
+ "nom_complet": "CREDIT MUTUEL ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1992-09-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388555021",
+ "maj_rne": "2026-09-22T21:18:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "CADIOU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELIANA",
+   "nom": "DE ABREU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOFINACTION",
+   "siren": "312212772",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "UFIGESTION 2",
+   "siren": "479349607",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "GROUPE LA FRANÇAISE",
+   "siren": "480871490",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "IMPEX FINANCE",
+   "siren": "552149940",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/55",
+  "numero": "GP97138",
+  "date_agrement": "1997-12-31",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "128 boulevard Raspail, 75006 PARIS",
+  "lei": "969500BXTBE4U1HLLF51",
+  "denomination": "CREDIT MUTUEL ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97138.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/55"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "CENTIVA CAPITAL EUROPE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/325689"
+ },
+ "siren": "948939608",
+ "denomination": "CENTIVA CAPITAL EUROPE",
+ "nom_complet": "CENTIVA CAPITAL EUROPE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-02-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948939608",
+ "maj_rne": "2026-10-13T19:47:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RAYMOND",
+   "nom": "BURLEY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHEN",
+   "nom": "SALTER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/325689",
+  "numero": "GP-2024004",
+  "date_agrement": "2024-06-03",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "66, Avenue des Champs-Elysées, 75008 PARIS",
+  "lei": "984500N689A3C8BB4270",
+  "denomination": "CENTIVA CAPITAL EUROPE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-2024004.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/325689"
+ }
+}

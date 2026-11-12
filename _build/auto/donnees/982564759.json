@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AEDGIS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324169"
+ },
+ "siren": "982564759",
+ "denomination": "AEDGIS",
+ "nom_complet": "AEDGIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-12-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982564759",
+ "maj_rne": "2026-09-27T15:28:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "ONFRAY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324169",
+  "numero": "GP-20250002",
+  "date_agrement": "2025-01-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "121 avenue de Malakoff, 75116 PARIS",
+  "lei": "969500ASDUZL6UJA3P84",
+  "denomination": "AEDGIS"
+ },
+ "site": "https://www.aedgis.com",
+ "site_pages": [
+  "https://www.aedgis.com/",
+  "https://www.aedgis.com/mentions-legales-avertissements",
+  "https://www.aedgis.com/dispositifs-reglementaires",
+  "https://www.aedgis.com/mentions-legales",
+  "https://www.aedgis.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20250002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324169"
+ },
+ "site_source": "https://www.aedgis.com/mentions-legales-avertissements"
+}

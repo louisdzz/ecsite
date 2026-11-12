@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "ASSET MANAGEMENT DATA GOVERNANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "recherche par dénomination à l'API Recherche d'entreprises : une seule société active de dénomination identique, même code postal que l'adresse AMF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24572"
+ },
+ "siren": "822396040",
+ "denomination": "ASSET MANAGEMENT DATA GOVERNANCE",
+ "nom_complet": "ASSET MANAGEMENT DATA GOVERNANCE (AMDG)",
+ "sigle": "AMDG",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-08-16",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822396040",
+ "maj_rne": "2026-09-25T11:09:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VANESSA CHRISTIANE FRANCOISE",
+   "nom": "ROUSSET (RAGOT)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24572",
+  "numero": "GP-17000010",
+  "date_agrement": "2017-05-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "120 rue Masséna, 69006 LYON",
+  "lei": "969500XZU05DPJ8AXE19",
+  "denomination": "ASSET MANAGEMENT DATA GOVERNANCE (AMDG)"
+ },
+ "site": "https://www.am-dg.fr",
+ "site_pages": [
+  "https://www.am-dg.fr/",
+  "https://www.am-dg.fr/mentions-legales/",
+  "https://www.am-dg.fr/informations-reglementaires/",
+  "https://www.am-dg.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24572"
+ },
+ "site_source": "https://www.am-dg.fr/mentions-legales/"
+}

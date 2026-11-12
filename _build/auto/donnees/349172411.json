@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "MOBILIS GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/119"
+ },
+ "siren": "349172411",
+ "denomination": "MOBILIS GESTION",
+ "nom_complet": "MOBILIS GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1988-12-28",
+ "ville": "ROUBAIX",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349172411",
+ "maj_rne": "2026-09-22T16:21:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "AZAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN JACQUES",
+   "nom": "HAMEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS JACQUELINE OLIVIER",
+   "nom": "LE BLAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE MARIE BENEDICTE",
+   "nom": "LEMAITRE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "THEVENIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/119",
+  "numero": "GP97136",
+  "date_agrement": "1997-12-31",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "64,boulevard de Cambrai, 59100 ROUBAIX",
+  "lei": "9695000VFZJ5AV1UDJ67",
+  "denomination": "MOBILIS GESTION"
+ },
+ "site": "http://mobilis-gestion.com",
+ "site_pages": [
+  "https://www.mobilis-gestion.com/",
+  "https://www.mobilis-gestion.com/mentions-legales.html",
+  "https://www.mobilis-gestion.com/mentions-legales",
+  "https://www.mobilis-gestion.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97136.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/119"
+ },
+ "site_source": "https://www.mobilis-gestion.com/mentions-legales.html"
+}

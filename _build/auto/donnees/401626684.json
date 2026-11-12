@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "CHAUSSIER GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1105"
+ },
+ "siren": "401626684",
+ "denomination": "CHAUSSIER GESTION",
+ "nom_complet": "CHAUSSIER GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1995-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/401626684",
+ "maj_rne": "2026-09-23T00:38:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE PAUL PASCAL",
+   "nom": "CHAUSSIER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE MARIE MICHEL",
+   "nom": "COURTAIGNE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": null,
+   "nom": "MAYOLY EPOUSE CHAUSSIER MIREILLE JOSE MONIQUE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RICHARD",
+   "nom": "PREVOST",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1105",
+  "numero": "GP95007",
+  "date_agrement": "1995-06-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "4 rue de Castellane, 75008 PARIS",
+  "lei": "969500I0CKIHY7E7QI29",
+  "denomination": "CHAUSSIER GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP95007.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1105"
+ }
+}

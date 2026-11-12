@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "M W GESTION SA",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1065"
+ },
+ "siren": "388455321",
+ "denomination": "M W GESTION SA",
+ "nom_complet": "M W GESTION SA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1992-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388455321",
+ "maj_rne": "2026-09-22T21:05:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRIL",
+   "nom": "DEBLAYE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERNARD",
+   "nom": "DELATTRE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DARIO",
+   "nom": "FUSCHETTO",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PAOLO",
+   "nom": "LOMBARDI",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1065",
+  "numero": "GP92014",
+  "date_agrement": "1992-09-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "31 rue Tronchet, 75008 PARIS",
+  "lei": "969500YOP7RHY6ORCN76",
+  "denomination": "MW GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP92014.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1065"
+ }
+}

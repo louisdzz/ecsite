@@ -1,0 +1,80 @@
+{
+ "nom_usuel": "LB - P ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9337"
+ },
+ "siren": "490774775",
+ "denomination": "LB - P ASSET MANAGEMENT",
+ "nom_complet": "LB - P ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2006-06-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/490774775",
+ "maj_rne": "2026-10-10T09:31:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACQUES",
+   "nom": "LEBHAR",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ROUSSE-LACORDAIRE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "LB-P",
+   "siren": "489640466",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9337",
+  "numero": "GP-06000017",
+  "date_agrement": "2006-05-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "48, rue de la Bienfaisance, 75008 PARIS",
+  "lei": "969500WJI310GIOZ6W93",
+  "denomination": "LB - P ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9337"
+ }
+}

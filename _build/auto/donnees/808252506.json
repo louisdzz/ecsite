@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "GROUPAMA GAN REIM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21836"
+ },
+ "siren": "808252506",
+ "denomination": "GROUPAMA GAN REIM",
+ "nom_complet": "GROUPAMA GAN REIM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-12-08",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808252506",
+ "maj_rne": "2026-09-25T03:55:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "REINBOLD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "SABATIER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ASTRID GENEVIEVE CLAIRE",
+   "nom": "WEILL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21836",
+  "numero": "GP-14000046",
+  "date_agrement": "2014-12-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "8, rue Bellini, 75016 PARIS",
+  "lei": "969500LWBYWFLK087S24",
+  "denomination": "GROUPAMA GAN REIM"
+ },
+ "site": "https://www.groupamagan-reim.fr",
+ "site_pages": [
+  "https://www.groupamagan-reim.fr",
+  "https://www.groupamagan-reim.fr/mentions-legales/",
+  "https://www.groupamagan-reim.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000046.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21836"
+ },
+ "site_source": "https://www.groupamagan-reim.fr/mentions-legales/"
+}

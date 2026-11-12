@@ -1,0 +1,99 @@
+{
+ "nom_usuel": "VERITAS INVESTMENT ASSOCIATES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23048"
+ },
+ "siren": "812021582",
+ "denomination": "VERITAS INVESTMENT ASSOCIATES",
+ "nom_complet": "VERITAS INVESTMENT ASSOCIATES (VIA AM)",
+ "sigle": "VIA AM",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-05-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/812021582",
+ "maj_rne": "2026-09-25T05:56:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "BALLOT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ABDOU",
+   "nom": "BENSOUDA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "DOIZE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "DOLISI",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HICHAM",
+   "nom": "QASMI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "SMOLEN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDREAS LARS",
+   "nom": "SODERHOLM",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23048",
+  "numero": "GP-15000029",
+  "date_agrement": "2015-11-10",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "72 rue du Faubourg Saint Honoré, 75008 PARIS",
+  "lei": "969500U3ZXSKQG4EAH50",
+  "denomination": "VERITAS INVESTMENT ASSOCIATES"
+ },
+ "site": "https://www.via-am.com/fr/",
+ "site_pages": [
+  "https://www.via-am.com/fr/disclaimer?path=/node/25"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-15000029.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23048"
+ },
+ "site_source": "https://www.via-am.com/fr/disclaimer?path=/node/25"
+}

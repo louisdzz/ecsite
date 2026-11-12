@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "MINDSTON CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28426"
+ },
+ "siren": "884296997",
+ "denomination": "MINDSTON CAPITAL",
+ "nom_complet": "MINDSTON CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-06-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884296997",
+ "maj_rne": "2026-09-26T06:57:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "FARBOS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERALD",
+   "nom": "FEREZOU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28426",
+  "numero": "GP-20000029",
+  "date_agrement": "2020-09-10",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "71 RUE DE MIROMESNIL, 75008 PARIS",
+  "lei": "9695008KJ5TG3N7S1K83",
+  "denomination": "MINDSTON CAPITAL"
+ },
+ "site": "https://www.mindstoncapital.com",
+ "site_pages": [
+  "https://www.mindstoncapital.com",
+  "https://www.mindstoncapital.com/informations-reglementaires/",
+  "https://www.mindstoncapital.com/mentions-legales/",
+  "https://www.mindstoncapital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000029.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28426"
+ },
+ "site_source": "https://www.mindstoncapital.com/mentions-legales/"
+}

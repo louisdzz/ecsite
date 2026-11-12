@@ -1,0 +1,69 @@
+{
+ "nom_usuel": "PLATINIUM GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8663"
+ },
+ "siren": "480778687",
+ "denomination": "PLATINIUM GESTION",
+ "nom_complet": "PLATINIUM GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-02-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480778687",
+ "maj_rne": "2026-09-23T19:27:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "DAVID DE BEUBLAIN",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8663",
+  "numero": "GP-05000005",
+  "date_agrement": "2005-02-08",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "6, rue Christophe Colomb, 75008 PARIS",
+  "lei": "969500L44CJLDJKS5939",
+  "denomination": "PLATINIUM GESTION"
+ },
+ "site": "https://www.platinium-gestion.com",
+ "site_pages": [
+  "https://www.platinium-gestion.com",
+  "https://www.platinium-gestion.com/mentions-legales/",
+  "https://www.platinium-gestion.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-05000005.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8663"
+ },
+ "site_source": "https://www.platinium-gestion.com/mentions-legales/"
+}

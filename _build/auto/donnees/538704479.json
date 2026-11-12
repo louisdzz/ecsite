@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "ALDERAN",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25030"
+ },
+ "siren": "538704479",
+ "denomination": "ALDERAN",
+ "nom_complet": "ALDERAN",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-12-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/538704479",
+ "maj_rne": "2026-11-09T11:43:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMY",
+   "nom": "BOURGEON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "LE BAUT",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25030",
+  "numero": "GP-17000026",
+  "date_agrement": "2017-09-05",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "38 rue de Ponthieu, 75008 Paris",
+  "lei": "969500F3YMJ35B5TLE30",
+  "denomination": "ALDERAN"
+ },
+ "site": "https://www.alderan.fr",
+ "site_pages": [
+  "https://alderan.fr/",
+  "https://alderan.fr/mentions-legales/",
+  "https://alderan.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25030"
+ },
+ "site_source": "https://alderan.fr/mentions-legales/"
+}

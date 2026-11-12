@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "AESOPE GESTION DE PORTEFEUILLES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/652"
+ },
+ "siren": "429628654",
+ "denomination": "AESOPE GESTION DE PORTEFEUILLES",
+ "nom_complet": "AESOPE GESTION DE PORTEFEUILLES (AESOPE)",
+ "sigle": null,
+ "enseigne": "AESOPE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2000-04-25",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/429628654",
+ "maj_rne": "2026-09-23T07:51:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "DETROIS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "DETROIS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "PREMIER MONDE",
+   "siren": "972504369",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/652",
+  "numero": "GP00010",
+  "date_agrement": "2000-04-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "19, rue de Créqui, 69006 LYON",
+  "lei": "969500MJ8QKMNB4HES09",
+  "denomination": "AESOPE GESTION DE PORTEFEUILLES"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/652"
+ }
+}

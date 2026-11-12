@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "UNIGESTION ASSET MANAGEMENT (FRANCE) SA",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/710"
+ },
+ "siren": "391208022",
+ "denomination": "UNIGESTION ASSET MANAGEMENT (FRANCE) SA",
+ "nom_complet": "UNIGESTION ASSET MANAGEMENT (FRANCE) SA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1993-05-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/391208022",
+ "maj_rne": "2026-09-27T00:48:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "DE DARDEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS FRANÇOIS OLIVIER",
+   "nom": "DE SALMON DE LOIRAY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "DU PASQUIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERARD",
+   "nom": "PFAUWADEL",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JONATHAN",
+   "nom": "TETRAULT",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/710",
+  "numero": "GP00026",
+  "date_agrement": "2000-07-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "12, avenue Matignon, 75008 PARIS",
+  "lei": "969500S54DTN2A12QG51",
+  "denomination": "UNIGESTION ASSET MANAGEMENT (FRANCE)"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/710"
+ }
+}

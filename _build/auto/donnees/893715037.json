@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "ALPHAJET FAIR INVESTORS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/304756"
+ },
+ "siren": "893715037",
+ "denomination": "ALPHAJET FAIR INVESTORS",
+ "nom_complet": "ALPHAJET FAIR INVESTORS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-02-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/893715037",
+ "maj_rne": "2026-09-26T11:01:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN PATRICE",
+   "nom": "LAGARDE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY RICHARD ANTOINE",
+   "nom": "LE CLERCQ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YASSINE",
+   "nom": "OUSSANA",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/304756",
+  "numero": "GP-202162",
+  "date_agrement": "2021-07-08",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "18 rue de la Pépinière, 75008 PARIS",
+  "lei": "9695006R59Z41KSPT258",
+  "denomination": "ALPHAJET FAIR INVESTORS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-202162.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/304756"
+ }
+}

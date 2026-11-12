@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "WEMO REAL ESTATE INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326917"
+ },
+ "siren": "985186949",
+ "denomination": "WEMO REAL ESTATE INVESTMENT MANAGEMENT",
+ "nom_complet": "WEMO REAL ESTATE INVESTMENT MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-02-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/985186949",
+ "maj_rne": "2026-10-28T17:41:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "CANNEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GURVAN",
+   "nom": "MAHEO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "IVAN",
+   "nom": "VAGIC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326917",
+  "numero": "GP-20240003",
+  "date_agrement": "2024-03-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "217 rue du Faoubourg Saint Honoré, 75008 PARIS",
+  "lei": "894500USG2GOS3FUDM17",
+  "denomination": "WEMO REAL ESTATE INVESTMENT MANAGEMENT"
+ },
+ "site": "https://www.wemo-reim.fr",
+ "site_pages": [
+  "https://wemo-reim.fr/",
+  "https://wemo-reim.fr/reglement-du-parrainage/",
+  "https://wemo-reim.fr/mentions-du-site/",
+  "https://wemo-reim.fr/",
+  "https://wemo-reim.fr/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20240003.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326917"
+ },
+ "site_source": "https://wemo-reim.fr/reglement-du-parrainage/"
+}

@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "SEVEN CAPITAL MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/12625"
+ },
+ "siren": "491390464",
+ "denomination": "SEVEN CAPITAL MANAGEMENT",
+ "nom_complet": "SEVEN CAPITAL MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-07-31",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491390464",
+ "maj_rne": "2026-09-23T23:26:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RENAUD",
+   "nom": "LABBÉ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHANN",
+   "nom": "SCHWIMANN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/12625",
+  "numero": "GP-06000045",
+  "date_agrement": "2006-11-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 rue Marbeuf, 75008 Paris",
+  "lei": "969500KXOGO2HXSU1I08",
+  "denomination": "SEVEN CAPITAL MANAGEMENT"
+ },
+ "site": "http://www.seven-cm.com",
+ "site_pages": [
+  "https://www.seven-cm.com/",
+  "https://www.seven-cm.com/autres-pages/mentions-legales.html",
+  "https://www.seven-cm.com/autres-pages/obligations-reglementaires.html"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000045.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/12625"
+ },
+ "site_source": "https://www.seven-cm.com/"
+}

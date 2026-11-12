@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "UBS LA MAISON DE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/576"
+ },
+ "siren": "381950641",
+ "denomination": "UBS LA MAISON DE GESTION",
+ "nom_complet": "UBS LA MAISON DE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1991-03-27",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381950641",
+ "maj_rne": "2026-09-22T19:41:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN PETER",
+   "nom": "BORNER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENDRIK ALBERTUS",
+   "nom": "GELDENHUYS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GIANLUCA",
+   "nom": "GERA",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDWIGE-EMMANUELLE",
+   "nom": "JACQUIER (LEROY)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNA-KARIN EVA BIRGITTA",
+   "nom": "OBENHUBER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RONALD ALEJANDRO",
+   "nom": "VELEZ PENA",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/576",
+  "numero": "GP-04000042",
+  "date_agrement": "1997-03-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 rue du Colisée, 75008 PARIS",
+  "lei": "9695000S6UHSY8EP5F48",
+  "denomination": "UBS LA MAISON DE GESTION"
+ },
+ "site": "https://www.lamaisondegestion.com",
+ "site_pages": [
+  "https://www.lamaisondegestion.com",
+  "https://www.lamaisondegestion.com/mentions-legales",
+  "https://www.lamaisondegestion.com/informations-reglementaires",
+  "https://www.lamaisondegestion.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000042.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/576"
+ },
+ "site_source": "https://www.lamaisondegestion.com/mentions-legales"
+}

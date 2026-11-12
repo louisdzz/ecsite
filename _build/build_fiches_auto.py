@@ -3,7 +3,7 @@
 
 Entrée : _build/auto/donnees/<siren>.json, produits par _build/auto/collecte.py
 à partir de sources publiques uniquement (API Recherche d'entreprises de l'État,
-registre ORIAS, site officiel de la maison). Chaque champ affiché porte sa source
+registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, site officiel de la maison). Chaque champ affiché porte sa source
 et sa date de consultation. Un champ sans source reste « Non renseigné ».
 
 Sorties :
@@ -34,6 +34,9 @@ CATS = {
     "cgp": {"label": "Conseillers en gestion de patrimoine (CGP)",
             "metier": "Le conseil en gestion de patrimoine part de la situation et des objectifs du client pour proposer une organisation et des placements. Le statut, les produits et la rémunération sont à comparer.",
             "questions": ["Quels statuts et habilitations couvrent votre intervention ?", "Comment êtes-vous rémunéré sur les solutions proposées ?", "Quels risques, frais et contraintes de sortie faut-il prévoir ?"]},
+    "sgp": {"label": "Sociétés de gestion",
+            "metier": "Une société de gestion de portefeuille gère des fonds ou des mandats pour le compte de ses clients, sous agrément de l’Autorité des marchés financiers. Les stratégies, les frais et les conditions de sortie varient selon la société et le fonds.",
+            "questions": ["Quelles activités votre agrément AMF couvre-t-il ?", "Quels frais s’appliquent, à l’entrée, chaque année et sur la performance ?", "Quelle durée de blocage et quelles conditions de sortie faut-il prévoir ?"]},
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
 PARTICULES = {"de", "du", "des", "le", "la", "d", "van", "von", "den", "der"}
@@ -162,7 +165,17 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     dirig = ('<ul class="fa-people">%s</ul>%s' % ("".join(lignes), reg())) if lignes else '<p class="fa-vide">Non renseigné au registre consulté.</p>'
 
     o = r.get("orias") or {}
-    if o.get("inscrit"):
+    am = r.get("amf")
+    if am:
+        # Société de gestion de portefeuille : agrément lu dans la base GECO de l'AMF.
+        s_amf = src("AMF, base GECO", am["url"], d)
+        acts = "".join("<li><span>%s</span></li>" % e(k["libelle"]) for k in am.get("activites") or [])
+        regl = '<dl class="pv-condition-list">%s%s%s</dl>%s' % (
+            champ("Agrément AMF", "Société de gestion de portefeuille · N° %s" % e(am["numero"]), s_amf),
+            champ("Date d’agrément", e(fr_date(am["date_agrement"])), s_amf) if am.get("date_agrement") else "",
+            champ("Statut de l’agrément", e(am["statut"]), s_amf) if am.get("statut") else "",
+            ('<ul class="fa-people">%s</ul>%s' % (acts, s_amf)) if acts else "")
+    elif o.get("inscrit"):
         cats = "".join("<li><b>%s</b><span>%s · %s le %s</span></li>" % (e(k["code"]), e(ORIAS_LIB.get(k["code"], k["libelle"])), "inscrit" if k["etat"] == "Inscrit" else e(k["etat"].lower()), e(k["date"])) for k in o["categories"])
         regl = '<dl class="pv-condition-list">%s</dl>%s' % (
             champ("ORIAS", "N° %s%s" % (e(o["numero"]), " · " + e(o["etat"].lower()) if o.get("etat") else ""), src("Registre ORIAS", o["url"], d)),
@@ -178,7 +191,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
     liens = []
     if r.get("site"):
-        liens.append(champ("Site officiel", '<a href="%s" rel="noopener nofollow" target="_blank">%s</a>' % (e(r["site"]), e(re.sub(r"^https?://(www\.)?|/$", "", r["site"]))), src("site officiel de la maison", (r.get("siren_source") or {}).get("url") or r["site"], d)))
+        liens.append(champ("Site officiel", '<a href="%s" rel="noopener nofollow" target="_blank">%s</a>' % (e(r["site"]), e(re.sub(r"^https?://(www\.)?|/$", "", r["site"]))), src("site officiel de la maison", r.get("site_source") or (r.get("siren_source") or {}).get("url") or r["site"], d)))
     else:
         liens.append(champ("Site officiel", "Non renseigné"))
     if r.get("linkedin"):
@@ -191,7 +204,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     corr = "mailto:louis@exit.club?subject=" + e("Fiche %s · correction" % slug).replace(" ", "%20")
     verif = "/fiche-verifiee?institution=%s&amp;cat=%s&amp;fiche=%s" % (e(nom).replace(" ", "%20"), r["categorie"], slug)
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": nom, "legalName": r["denomination"], "url": url_pub, **({"sameAs": [r["site"]]} if r.get("site") else {})}, ensure_ascii=False)
-    desc = "%s : fiche générée à partir de sources publiques (registre, ORIAS, site officiel). Rubrique %s de L’Annuaire de l’Exit." % (nom, c["label"])
+    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ORIAS, site officiel", c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
     av = '<p class="fa-apercu">Aperçu interne · cette maison a déjà une fiche publiée (<a href="/f/%s">/f/%s</a>), qui n’est pas modifiée.</p>' % (slug, slug) if apercu else ""
     lg = r.get("_logo")
@@ -321,7 +334,7 @@ def main():
         retenus.append(r)
 
     # Personnes : président, gérant, directeur général (délégué) du registre. Homonymie entre maisons : pas de fiche.
-    personnes, vus = [], {}
+    personnes, vus, memes = [], {}, {}
     for r in retenus:
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
@@ -351,12 +364,17 @@ def main():
             elif incertain and fonction_retenue(p["qualite"]):
                 manifeste["refus"].append({"personne": nom, "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"})
             personnes.append(x)
+            memes.setdefault((r["siren"], slugify(nom)), set()).add(cle)
             if x["slug"]:
                 vus.setdefault(x["slug"], []).append(x)
     for s, lst in vus.items():
         refus = None
         if len({x["siren"] for x in lst}) > 1 or len(lst) > 1:
             refus = "homonymie ou mandats multiples non résolus"
+        elif len(memes[(lst[0]["siren"], s)]) > 1:
+            # Deux mandataires de la même maison portent le même prénom usuel et le même nom avec des prénoms différents au registre
+            # (« NICOLAS » et « NICOLAS TREVETT ») : même personne ou homonyme, non établi.
+            refus = "deux mandataires de même nom dans la maison, identité non résolue"
         elif re.search(r'"%s"|\b%s\b' % (re.escape(s), re.escape(lst[0]["nom"])), profils_js):
             refus = "personne déjà présente dans les profils publiés : pas de doublon"
         if refus:
@@ -369,7 +387,7 @@ def main():
         slug = r["_slug"]
         dest = os.path.join(ROOT, "f", slug + ".html")
         open(dest, "w", encoding="utf-8").write(fiche_maison(r, slug, False, personnes, base_style))
-        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
+        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "amf": (r.get("amf") or {}).get("numero"), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
         for p in personnes:
             if p["siren"] == r["siren"] and p.get("slug"):
                 open(os.path.join(ROOT, "p", p["slug"] + ".html"), "w", encoding="utf-8").write(fiche_personne(p, r, slug, base_style))

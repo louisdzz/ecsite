@@ -1,0 +1,87 @@
+{
+ "nom_usuel": "PERGAM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/742"
+ },
+ "siren": "438328973",
+ "denomination": "PERGAM",
+ "nom_complet": "PERGAM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-06-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438328973",
+ "maj_rne": "2026-10-16T05:04:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER RENE ANDRE DANIEL",
+   "nom": "COMBASTET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AYMERIC MAURENT AMAURY",
+   "nom": "DIDAY",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "JILGER",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/742",
+  "numero": "GP01032",
+  "date_agrement": "2001-08-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "28 rue Bayard, 75008 PARIS",
+  "lei": "969500HHTWBGJ9V4UU24",
+  "denomination": "PERGAM"
+ },
+ "site": "https://www.pergam.net",
+ "site_pages": [
+  "https://www.pergam.net",
+  "https://www.pergam.net/informations-reglementaires/",
+  "https://www.pergam.net/mentions-legales/",
+  "https://www.pergam.net/documents/FR/Informations_reglementaires/Politique_de_confidentialite_des_donnees%20_personnelles_RGPD%2010-2022.pdf",
+  "https://www.pergam.net/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP01032.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/742"
+ },
+ "site_source": "https://www.pergam.net/informations-reglementaires/"
+}

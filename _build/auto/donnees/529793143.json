@@ -1,0 +1,65 @@
+{
+ "nom_usuel": "SB2F GESTION PRIVEE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321862"
+ },
+ "siren": "529793143",
+ "denomination": "SB2F GESTION PRIVEE",
+ "nom_complet": "SB2F GESTION PRIVEE (SB2F GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "SB2F GESTION PRIVEE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-01-11",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/529793143",
+ "maj_rne": "2026-09-24T11:42:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE JEAN",
+   "nom": "LE VAILLANT DE FOLLEVILLE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321862",
+  "numero": "GP-20230022",
+  "date_agrement": "2023-11-10",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "34 rue Saint Georges, 35000 RENNES",
+  "lei": "969500XFZYP2DFVDXW07",
+  "denomination": "SB2F GESTION PRIVEE"
+ },
+ "site": "https://www.sb2f.fr",
+ "site_pages": [
+  "https://www.sb2f.fr/",
+  "https://www.sb2f.fr/mentions-legales/",
+  "https://www.sb2f.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230022.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321862"
+ },
+ "site_source": "https://www.sb2f.fr/mentions-legales/"
+}

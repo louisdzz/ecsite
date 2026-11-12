@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SWISSLIFE GESTION PRIVEE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/669"
+ },
+ "siren": "378782163",
+ "denomination": "SWISSLIFE GESTION PRIVEE",
+ "nom_complet": "SWISSLIFE GESTION PRIVEE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-07-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378782163",
+ "maj_rne": "2026-09-22T18:35:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "CAZENAVE-FONDACCI (CAZENAVE)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENRI",
+   "nom": "GHOSN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE",
+   "nom": "HELLEBUYCK",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "LE BARON",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "GSTALDER (NINI)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "PIZEM",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "SAS PLACEMENT DIRECT",
+   "siren": "422833434",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MA SANTE FACILE",
+   "siren": "523227080",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/669",
+  "numero": "GP00038",
+  "date_agrement": "2000-06-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "7, place Vendôme, 75001 PARIS",
+  "lei": "969500DTZ4VL3NRORO47",
+  "denomination": "SWISSLIFE GESTION PRIVEE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00038.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/669"
+ }
+}

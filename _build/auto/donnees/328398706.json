@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "ALLIANZ IMMOVALOR",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7129"
+ },
+ "siren": "328398706",
+ "denomination": "ALLIANZ IMMOVALOR",
+ "nom_complet": "ALLIANZ IMMOVALOR",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1983-11-01",
+ "ville": "PUTEAUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/328398706",
+ "maj_rne": "2026-09-22T13:35:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "BOULET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT HENRI JOSÉ",
+   "nom": "COURMONT",
+   "qualite": "Président du conseil d’administration, Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "CUTAYA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE MADELEINE ANGÉLIQUE",
+   "nom": "RENOUX (GUIGNARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ALLIANZ BANQUE",
+   "siren": "572199461",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7129",
+  "numero": "GP-07000035",
+  "date_agrement": "2007-06-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "1 Cours Michelet - CS 30051, 92076 Paris La Défense Cedex",
+  "lei": "9695007A0Y06E3Z4HX22",
+  "denomination": "Allianz Immovalor"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000035.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7129"
+ }
+}

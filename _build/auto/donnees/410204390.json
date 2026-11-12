@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "ABN AMRO INVESTMENT SOLUTIONS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/616"
+ },
+ "siren": "410204390",
+ "denomination": "ABN AMRO INVESTMENT SOLUTIONS",
+ "nom_complet": "ABN AMRO INVESTMENT SOLUTIONS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1996-11-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/410204390",
+ "maj_rne": "2026-10-12T17:42:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "BOUCHER",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS-XAVIER",
+   "nom": "GENNETAIS",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "INGE HENDRIKA THERESIA",
+   "nom": "GIJSBERTS",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SILVIA",
+   "nom": "BOCCHIOTTI (JUHASZ ACOSTA)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERRIT JAN WILHELM HENDRIK",
+   "nom": "LENTERS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE HERMINA CHRISTINA",
+   "nom": "MERKS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOLANGE",
+   "nom": "ROUSCHOP",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARCUS MARTINUS",
+   "nom": "TE RIELE",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/616",
+  "numero": "GP99027",
+  "date_agrement": "1999-09-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "119-121 boulevard Haussmann, 75008 PARIS",
+  "lei": "969500O7C77E2WVAXK44",
+  "denomination": "ABN AMRO INVESTMENT SOLUTIONS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99027.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/616"
+ }
+}

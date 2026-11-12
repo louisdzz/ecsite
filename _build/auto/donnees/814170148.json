@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MATA CAPITAL IM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23792"
+ },
+ "siren": "814170148",
+ "denomination": "MATA CAPITAL IM",
+ "nom_complet": "MATA CAPITAL IM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-10-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.32A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814170148",
+ "maj_rne": "2026-09-25T07:12:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FOULQUES PIERRE YVES MARIE",
+   "nom": "DE SAINTE MARIE D'AGNEAUX",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE",
+   "nom": "PRACCA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23792",
+  "numero": "GP-16000024",
+  "date_agrement": "2016-09-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "18,rue Jean Giraudoux, 75116 PARIS",
+  "lei": "969500AQ7GWY2U71MH23",
+  "denomination": "MATA CAPITAL IM"
+ },
+ "site": "https://www.matacapital.com",
+ "site_pages": [
+  "https://www.matacapital.com",
+  "https://www.matacapital.com/mention-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000024.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23792"
+ },
+ "site_source": "https://www.matacapital.com/mention-legales"
+}

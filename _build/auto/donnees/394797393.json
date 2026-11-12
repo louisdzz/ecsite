@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "ROCHE DUBAR ET ASSOCIES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23975"
+ },
+ "siren": "394797393",
+ "denomination": "ROCHE DUBAR ET ASSOCIES",
+ "nom_complet": "ROCHE DUBAR ET ASSOCIES (R&D)",
+ "sigle": "R&D",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1994-03-22",
+ "ville": "WASQUEHAL",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/394797393",
+ "maj_rne": "2026-09-22T23:05:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "VERHAEGHE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23975",
+  "numero": "GP-16000025",
+  "date_agrement": "2016-09-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "29 bis avenue de la Marne, 59290 WASQUEHAL",
+  "lei": "969500IA6R60O337F008",
+  "denomination": "ROCHE, DUBAR & ASSOCIES - R&D"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000025.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23975"
+ }
+}

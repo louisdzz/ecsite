@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SOCIETE GENERALE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/15823"
+ },
+ "siren": "491910691",
+ "denomination": "SOCIETE GENERALE GESTION",
+ "nom_complet": "SOCIETE GENERALE GESTION (S2G)",
+ "sigle": "S2G",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2006-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491910691",
+ "maj_rne": "2026-09-27T06:20:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAIRE",
+   "nom": "CREYSSELS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE",
+   "nom": "BOYER-CHAMMARD (GUICHARDAZ)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "LARGERON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER ROGER",
+   "nom": "LECLER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THI MAI",
+   "nom": "NGUYEN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "ROSSIT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT",
+   "nom": "TASSOU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT PASCAL OLIVIER",
+   "nom": "VANDERMARCQ",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/15823",
+  "numero": "GP-09000020",
+  "date_agrement": "2009-11-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "91/93 boulevard Pasteur, 75015 Paris",
+  "lei": "96950035YGNIE3C1D663",
+  "denomination": "SOCIETE GENERALE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-09000020.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/15823"
+ }
+}

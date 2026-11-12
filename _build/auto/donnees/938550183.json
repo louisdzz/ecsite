@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "DIVIO CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331352"
+ },
+ "siren": "938550183",
+ "denomination": "DIVIO CAPITAL",
+ "nom_complet": "DIVIO CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-12-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/938550183",
+ "maj_rne": "2026-09-27T22:56:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAËL JULIEN",
+   "nom": "RAULD",
+   "qualite": ""
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK GERARD LOUIS",
+   "nom": "VANDENBERG",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331352",
+  "numero": "GP-20250009",
+  "date_agrement": "2025-10-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "75 Boulevard Haussmann, 75008 PARIS",
+  "lei": null,
+  "denomination": "DIVIO CAPITAL"
+ },
+ "site": "https://www.divio-capital.com",
+ "site_pages": [
+  "https://divio-capital.com/",
+  "https://divio-capital.com/mentions-legales/",
+  "https://divio-capital.com/informations-reglementaires/",
+  "https://divio-capital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20250009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/331352"
+ },
+ "site_source": "https://divio-capital.com/mentions-legales/"
+}

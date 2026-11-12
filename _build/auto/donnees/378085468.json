@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "OPTIMUM GESTION FINANCIERE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/188"
+ },
+ "siren": "378085468",
+ "denomination": "OPTIMUM GESTION FINANCIERE",
+ "nom_complet": "OPTIMUM GESTION FINANCIERE (OGF)",
+ "sigle": "OGF",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-05-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378085468",
+ "maj_rne": "2026-09-22T18:39:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANÇOIS",
+   "nom": "BAY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANABELLE RACHEL CATHERINE",
+   "nom": "BLONDEAU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "BLONDEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "BOUCLIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "HAMEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLAUDE",
+   "nom": "LAMONDE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL ALBERT",
+   "nom": "PLECY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUC",
+   "nom": "POMERLEAU",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/188",
+  "numero": "GP98053",
+  "date_agrement": "1998-12-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "94, rue de Courcelles, 75008 PARIS",
+  "lei": "969500M27QJ03719DF62",
+  "denomination": "OPTIMUM GESTION FINANCIERE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98053.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/188"
+ }
+}

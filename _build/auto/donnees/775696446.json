@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "PERIAL ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13598"
+ },
+ "siren": "775696446",
+ "denomination": "PERIAL ASSET MANAGEMENT",
+ "nom_complet": "PERIAL ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1966-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/775696446",
+ "maj_rne": "2026-09-24T19:43:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN PIERRE MATTHIEU",
+   "nom": "CHAUVEAU",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC MARIE",
+   "nom": "COSSERAT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "LAMOTTE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS ROGER DÉSIRÉ",
+   "nom": "LEONNARD",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13598",
+  "numero": "GP-07000034",
+  "date_agrement": "2007-06-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "34 rue Guersant, 75017 PARIS",
+  "lei": "969500BT04I5PON2KO92",
+  "denomination": "PERIAL ASSET MANAGEMENT SAS"
+ },
+ "site": "https://www.perial.com",
+ "site_pages": [
+  "https://www.perial.com/",
+  "https://www.perial.com/mentions-legales",
+  "https://www.perial.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000034.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13598"
+ },
+ "site_source": "https://www.perial.com/mentions-legales"
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CLARESCO FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/159"
+ },
+ "siren": "420307167",
+ "denomination": "CLARESCO FINANCE",
+ "nom_complet": "CLARESCO FINANCE (CLARESCO)",
+ "sigle": null,
+ "enseigne": "CLARESCO",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1998-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/420307167",
+ "maj_rne": "2026-11-09T11:43:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "DU BRUSLE DE ROUVROY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDOUARD BRUNO",
+   "nom": "FERRI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE ALBERT",
+   "nom": "MOATTI",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/159",
+  "numero": "GP98042",
+  "date_agrement": "1998-10-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "32, rue de Monceau, 75008 PARIS",
+  "lei": "9695008Y0ZJLGDYDX190",
+  "denomination": "CLARESCO FINANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98042.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/159"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "AZH IMPACT GP",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328457"
+ },
+ "siren": "979587326",
+ "denomination": "AZH IMPACT GP",
+ "nom_complet": "AZH IMPACT GP (AURAE GESTION)",
+ "sigle": null,
+ "enseigne": "AURAE GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-09-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979587326",
+ "maj_rne": "2026-09-27T13:55:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND ANNE LOUIS",
+   "nom": "DE TALHOUET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328457",
+  "numero": "GP-20250013",
+  "date_agrement": "2025-12-17",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5 place André Malraux, 75001 PARIS",
+  "lei": null,
+  "denomination": "AZH Impact GP"
+ },
+ "site": "https://www.auraeimpact.com",
+ "site_pages": [
+  "https://www.auraeimpact.com/",
+  "https://www.auraeimpact.com/informations-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20250013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328457"
+ },
+ "site_source": "https://www.auraeimpact.com/informations-legales"
+}

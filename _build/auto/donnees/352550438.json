@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "CONSERVATEUR GESTION VALOR",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/504"
+ },
+ "siren": "352550438",
+ "denomination": "CONSERVATEUR GESTION VALOR",
+ "nom_complet": "CONSERVATEUR GESTION VALOR",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-11-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352550438",
+ "maj_rne": "2026-09-22T17:40:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GEOFFREY PHILIPPE DIDIER",
+   "nom": "BONNET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAUT PIERRE HENRI",
+   "nom": "DE FOVILLE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "DELAPALME",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE IGNACE THADDEE",
+   "nom": "HARTOG",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE EVE",
+   "nom": "PLAGNOL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "LES ASSURANCES MUTUELLES LE CONSERVATEUR SOCIETE D'ASSURANCE MUTUELLE",
+   "siren": "311852750",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CONSERVATEUR FINANCE",
+   "siren": "344842596",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/504",
+  "numero": "GP-04000018",
+  "date_agrement": "1998-04-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "59 RUE DE LA FAISANDERIE, 75116 PARIS",
+  "lei": "969500CFEGMV3TFAOX68",
+  "denomination": "CONSERVATEUR GESTION VALOR"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000018.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/504"
+ }
+}

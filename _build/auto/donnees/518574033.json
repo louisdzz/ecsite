@@ -1,0 +1,96 @@
+{
+ "nom_usuel": "EURYALE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21707"
+ },
+ "siren": "518574033",
+ "denomination": "EURYALE",
+ "nom_complet": "EURYALE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2009-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518574033",
+ "maj_rne": "2026-09-24T08:01:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN MARC",
+   "nom": "COLY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "FINCK",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOEL",
+   "nom": "LAMANDE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-JACQUES",
+   "nom": "OLIVIE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "SABATIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "SEVOUMIANS",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21707",
+  "numero": "GP-14000027",
+  "date_agrement": "2014-07-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "9 Rue de Milan, 75009 Paris",
+  "lei": "969500SU633N4UQUTT19",
+  "denomination": "EURYALE"
+ },
+ "site": "https://www.euryale-am.fr",
+ "site_pages": [
+  "https://www.euryale-am.fr",
+  "https://www.euryale-am.fr/mentions-legales/",
+  "https://www.euryale-am.fr/informations-reglementaires/",
+  "https://www.euryale-am.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000027.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21707"
+ },
+ "site_source": "https://www.euryale-am.fr/mentions-legales/"
+}

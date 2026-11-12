@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "BALZAC REAL ESTATE INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28189"
+ },
+ "siren": "501288146",
+ "denomination": "BALZAC REAL ESTATE INVESTMENT MANAGEMENT",
+ "nom_complet": "BALZAC REAL ESTATE INVESTMENT MANAGEMENT (BALZAC REIM)",
+ "sigle": "BALZAC REIM",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-10-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501288146",
+ "maj_rne": "2026-09-27T06:24:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "DU PELOUX MENAGE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "PELABON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHER",
+   "nom": "TERESTCHENKO",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28189",
+  "numero": "GP-20000032",
+  "date_agrement": "2020-10-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "112 avenue Kléber, 75116 PARIS",
+  "lei": "969500BHGCMBWB6GQK28",
+  "denomination": "BALZAC REIM"
+ },
+ "site": "https://balzac-reim.com",
+ "site_pages": [
+  "https://www.balzac-reim.com/",
+  "https://www.balzac-reim.com/informations-reglementaires/",
+  "https://www.balzac-reim.com/mentions-legales/",
+  "https://www.balzac-reim.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000032.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28189"
+ },
+ "site_source": "https://www.balzac-reim.com/mentions-legales/"
+}

@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "S.A COMGEST",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/913"
+ },
+ "siren": "333893295",
+ "denomination": "S.A COMGEST",
+ "nom_complet": "S.A COMGEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1985-10-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/333893295",
+ "maj_rne": "2026-09-29T11:40:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAVINIA ELENA",
+   "nom": "BORCIA",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "CALLIONI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE BERNARD",
+   "nom": "LEBEAU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND CLAUDE RENÉ",
+   "nom": "WAQUET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "COMGEST GLOBAL INVESTORS",
+   "siren": "529005662",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/913",
+  "numero": "GP90023",
+  "date_agrement": "1990-06-12",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "17, square Edouard VII, 75009 PARIS",
+  "lei": "9695009FD7COWRM2FU86",
+  "denomination": "COMGEST SA"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/913"
+ }
+}

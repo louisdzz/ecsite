@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "CAPITAL FUND MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/752"
+ },
+ "siren": "395083504",
+ "denomination": "CAPITAL FUND MANAGEMENT",
+ "nom_complet": "CAPITAL FUND MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1994-05-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/395083504",
+ "maj_rne": "2026-09-22T23:14:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PHILIPPE",
+   "nom": "BOUCHAUD",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "JORDAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "LALOUX",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "POTTERS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES",
+   "nom": "SAULIERE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/752",
+  "numero": "GP01013",
+  "date_agrement": "2001-04-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "23-25 rue de l'Université, 75007 PARIS",
+  "lei": "549300KKLDTNOIW0NU52",
+  "denomination": "CAPITAL FUND MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP01013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/752"
+ }
+}

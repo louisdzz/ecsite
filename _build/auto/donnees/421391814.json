@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "RHONE ALPES PME GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/165"
+ },
+ "siren": "421391814",
+ "denomination": "RHONE ALPES PME GESTION",
+ "nom_complet": "RHONE ALPES PME GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-12-07",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/421391814",
+ "maj_rne": "2026-09-23T05:34:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRIL JEAN",
+   "nom": "FROMAGER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND CHRISTIAN MARIE",
+   "nom": "RAMBAUD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/165",
+  "numero": "GP99002",
+  "date_agrement": "1999-01-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "107 rue Servient, 69003 LYON",
+  "lei": "969500282E2TIGC7SA97",
+  "denomination": "RHONE ALPES PME GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/165"
+ }
+}

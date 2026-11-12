@@ -1,0 +1,129 @@
+{
+ "nom_usuel": "CPR ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/787"
+ },
+ "siren": "399392141",
+ "denomination": "CPR ASSET MANAGEMENT",
+ "nom_complet": "CPR ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1994-12-06",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399392141",
+ "maj_rne": "2026-09-27T04:07:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BÉNÉDICTE",
+   "nom": "CHRETIEN (BILLAUT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALICE MARIE-BERNADETTE ANGELE",
+   "nom": "DE BAZIN DE BEZONS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES ALAIN",
+   "nom": "DEMONSANT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE HENRI FLORENT",
+   "nom": "DESFOSSES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC ROGER",
+   "nom": "DIDIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "FALLER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SONIA",
+   "nom": "FALOURD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES FRANÇOIS",
+   "nom": "GUEZ",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURELIA",
+   "nom": "GEGOUT (LECOURTIER)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AMAURY",
+   "nom": "POIRIER D'ANGE D'ORSAY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT BLAISE ALBERT",
+   "nom": "TASSOU",
+   "qualite": "Président du conseil d’administration"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/787",
+  "numero": "GP01056",
+  "date_agrement": "2001-12-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "91-93, boulevard Pasteur, 75015 PARIS",
+  "lei": "969500E0FOS38XJ2E978",
+  "denomination": "CPR ASSET MANAGEMENT"
+ },
+ "site": "https://www.cpr-am.com",
+ "site_pages": [
+  "https://cpram.com/fra/fr/particuliers",
+  "https://cpram.com/fra/fr/particuliers/footer/informations-reglementaires",
+  "https://cpram.com/fra/fr/particuliers/footer/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP01056.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/787"
+ },
+ "site_source": "https://cpram.com/fra/fr/particuliers/footer/mentions-legales"
+}

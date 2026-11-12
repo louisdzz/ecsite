@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "MONTSEGUR FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8561"
+ },
+ "siren": "477659163",
+ "denomination": "MONTSEGUR FINANCE",
+ "nom_complet": "MONTSEGUR FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477659163",
+ "maj_rne": "2026-09-23T18:04:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "CHAULET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDOVIC",
+   "nom": "EYT DESSUS",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8561",
+  "numero": "GP-04000044",
+  "date_agrement": "2004-07-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 rue Marbeuf, 75008 PARIS",
+  "lei": "969500ND9B6OZX2LCI93",
+  "denomination": "MONTSEGUR FINANCE"
+ },
+ "site": "http://www.montsegurfinance.com",
+ "site_pages": [
+  "https://www.montsegur.com/",
+  "https://www.montsegur.com/mentions-legales/",
+  "https://www.montsegur.com/informations-reglementaires/",
+  "https://www.montsegur.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000044.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8561"
+ },
+ "site_source": "https://www.montsegur.com/mentions-legales/"
+}

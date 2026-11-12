@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "MY SHARE COMPANY",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26892"
+ },
+ "siren": "834045882",
+ "denomination": "MY SHARE COMPANY",
+ "nom_complet": "MY SHARE COMPANY",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-12-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/834045882",
+ "maj_rne": "2026-09-25T18:00:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CEDRIC",
+   "nom": "CHALRET DU RIEU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HORTENSE",
+   "nom": "DENIS DE SENNEVILLE",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTIN FRANÇOIS RENÉ",
+   "nom": "JACQUESSON",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ULRICH",
+   "nom": "NOAILLY",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GEORGES",
+   "nom": "ROCCHIETTA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ETIENNE CHRISTOPHE",
+   "nom": "WICKER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE",
+   "nom": "YALAP",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "AXA FRANCE VIE",
+   "siren": "310499959",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26892",
+  "numero": "GP-19000038",
+  "date_agrement": "2019-10-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "121, Avenue de Malakoff, 75116 PARIS",
+  "lei": "969500WWOSWHC3ANC011",
+  "denomination": "MY SHARE COMPANY"
+ },
+ "site": "https://www.mysharecompany.com",
+ "site_pages": [
+  "https://www.mysharecompany.com",
+  "https://www.mysharecompany.com/mentions-legales#mentions-legales",
+  "https://www.mysharecompany.com/mentions-legales#donnees-personnelles",
+  "https://www.mysharecompany.com/mentions-legales#dispositifs-reglementaires",
+  "https://www.mysharecompany.com/mentions-legales#avertissements-risques",
+  "https://www.mysharecompany.com/mentions-legales#prevention-des-fraudes"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-19000038.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26892"
+ },
+ "site_source": "https://www.mysharecompany.com/mentions-legales#mentions-legales"
+}

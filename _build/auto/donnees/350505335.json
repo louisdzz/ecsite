@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "CHEQUERS PARTENAIRES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/471"
+ },
+ "siren": "350505335",
+ "denomination": "CHEQUERS PARTENAIRES",
+ "nom_complet": "CHEQUERS PARTENAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1989-02-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/350505335",
+ "maj_rne": "2026-09-27T00:26:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "UWE",
+   "nom": "GLEITZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "GUERIN",
+   "qualite": "Administrateur, Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÔME MARC",
+   "nom": "KINAS",
+   "qualite": "Directeur Général, Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIEN",
+   "nom": "KLEIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS JACQUES HENRI",
+   "nom": "METZGER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "RABILLER",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/471",
+  "numero": "GP-04000011",
+  "date_agrement": "1997-10-31",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5 rue François 1er, 75008 PARIS",
+  "lei": "969500ENL57V4Q2FZO52",
+  "denomination": "CHEQUERS PARTENAIRES SA"
+ },
+ "site": "https://www.chequerscapital.com",
+ "site_pages": [
+  "https://www.chequerscapital.com",
+  "https://www.chequerscapital.com/mentions-legales/",
+  "https://www.chequerscapital.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000011.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/471"
+ },
+ "site_source": "https://www.chequerscapital.com/mentions-legales/"
+}

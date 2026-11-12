@@ -1,0 +1,177 @@
+{
+ "nom_usuel": "ECOFI INVESTISSEMENTS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/268"
+ },
+ "siren": "999990369",
+ "denomination": "ECOFI INVESTISSEMENTS",
+ "nom_complet": "ECOFI INVESTISSEMENTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1981-04-27",
+ "ville": "NANTERRE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/999990369",
+ "maj_rne": "2026-09-27T00:24:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE MARIE JACQUELINE",
+   "nom": "DEBON (AYME)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "CANDERLÉ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE GERARD PATRICK",
+   "nom": "CHRISTOPHE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "DE DEMANDOLX DEDONS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DUBOUT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SARAH",
+   "nom": "FEHAILI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLAIRE",
+   "nom": "MARTINETTO (GAUTHIER)",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANÇOIS",
+   "nom": "GAUTRON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "LIBERT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE YVETTE MICHELLE",
+   "nom": "BANNEROT (MILON)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "RISPOLI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME JACQUES MARIE",
+   "nom": "SADDIER",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "SEVENNEC",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE DU BATIMENT ET DES TRAVAUX PUBLICS - BTP BANQUE",
+   "siren": "339182784",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT COOPERATIF",
+   "siren": "349974931",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS",
+   "siren": "453952681",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS PARTICIPATIONS 1",
+   "siren": "479989246",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIETE MUTUELLE D'ASSURANCE DU BATIMENT ET DES TRAVAUX PUBLICS",
+   "siren": "775684764",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SYNDICAT DES ENTREPRENEURS DE CONSTRUCTION PARIS ILE DE FRANCE",
+   "siren": null,
+   "qualite": ""
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/268",
+  "numero": "GP97004",
+  "date_agrement": "1997-02-07",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "12  BOULEVARD DE PESARO, 92000 NANTERRE",
+  "lei": "969500Y51OCOYMD5F464",
+  "denomination": "ECOFI INVESTISSEMENTS"
+ },
+ "site": "https://www.ecofi.fr",
+ "site_pages": [
+  "https://www.ecofi.fr",
+  "https://www.ecofi.fr/mentions-legales",
+  "https://www.ecofi.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97004.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/268"
+ },
+ "site_source": "https://www.ecofi.fr"
+}

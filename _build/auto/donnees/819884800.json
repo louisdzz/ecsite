@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "PRISTINE SAS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24105"
+ },
+ "siren": "819884800",
+ "denomination": "PRISTINE SAS",
+ "nom_complet": "PRISTINE SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-05-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/819884800",
+ "maj_rne": "2026-09-25T09:23:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JOANNE",
+   "nom": "BROOKS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRIAN JONATHAN",
+   "nom": "CARNE",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MIA LINDA",
+   "nom": "DRENNAN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LORNA MARIE",
+   "nom": "LAWLOR",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ETHAN",
+   "nom": "LEVNER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AYMERIC-PHILIPPE CHARLES RAYMOND",
+   "nom": "MAHE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24105",
+  "numero": "GP-16000035",
+  "date_agrement": "2016-12-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "41 avenue George V, 75008 Paris",
+  "lei": "969500S05KNC8DZ7FW93",
+  "denomination": "PRISTINE"
+ },
+ "site": "https://www.pristine.finance",
+ "site_pages": [
+  "https://pristine.finance/fr/",
+  "https://pristine.finance/fr/conformite/",
+  "https://pristine.finance/fr/informations-legales-et-reglementaires-importantes/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000035.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24105"
+ },
+ "site_source": "https://pristine.finance/fr/informations-legales-et-reglementaires-importantes/"
+}

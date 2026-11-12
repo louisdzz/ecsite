@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "HI INOV",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19942"
+ },
+ "siren": "753525385",
+ "denomination": "HI INOV",
+ "nom_complet": "HI INOV",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-07-12",
+ "ville": "LYON 2EME",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/753525385",
+ "maj_rne": "2026-09-24T19:29:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-HENRI PAUL GEORGES",
+   "nom": "DENTRESSANGLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE ODILE",
+   "nom": "GOMBART",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WOLFGANG OTHMAR WALTER",
+   "nom": "KRAUSE",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19942",
+  "numero": "GP-13000007",
+  "date_agrement": "2013-02-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "30 Bis, rue Sainte-Héléne, 69287 Lyon cedex 02",
+  "lei": "969500YYT0KM3Q8MIS58",
+  "denomination": "HI INOV"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-13000007.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19942"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "SYCOMORE ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/749"
+ },
+ "siren": "438230104",
+ "denomination": "SYCOMORE ASSET MANAGEMENT",
+ "nom_complet": "SYCOMORE ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2001-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438230104",
+ "maj_rne": "2026-09-23T10:35:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SANTO",
+   "nom": "BORSELLINO",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PAOLO",
+   "nom": "CASADONTE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "PANEL",
+   "qualite": "Administrateur, Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "SERVANT",
+   "qualite": "Administrateur, Président du conseil d’administration"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/749",
+  "numero": "GP01030",
+  "date_agrement": "2001-07-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "14 avenue Hoche, 75008 PARIS",
+  "lei": "9695006BRVMTPTUB1R68",
+  "denomination": "SYCOMORE ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP01030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/749"
+ }
+}

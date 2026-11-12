@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "PRO BTP FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/54"
+ },
+ "siren": "379892946",
+ "denomination": "PRO BTP FINANCE",
+ "nom_complet": "PRO BTP FINANCE (SAID GESTION)",
+ "sigle": "SAID GESTION",
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1990-10-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379892946",
+ "maj_rne": "2026-11-03T18:35:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "CORNET",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "DORNIER",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE MARCEL CLAUDE",
+   "nom": "MATALON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAX",
+   "nom": "ROCHE",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EVELYNE SIMONE FLORENCE",
+   "nom": "ROUX",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pm",
+   "denomination": "FÉDÉRATION BATI-MAT T.P. CFTC",
+   "siren": "328908488",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "CFE-CGC BTP",
+   "siren": "784855017",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "FÉDÉRATION SCOP BTP",
+   "siren": null,
+   "qualite": ""
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/54",
+  "numero": "GP97083",
+  "date_agrement": "1997-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": null,
+  "lei": "969500NV1KESDG5G9V85",
+  "denomination": "PRO BTP FINANCE"
+ },
+ "site": "https://www.probtpfinance.com",
+ "site_pages": [
+  "https://www.probtpfinance.com/home.html",
+  "https://www.probtpfinance.com/home/mentions-legales.html"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97083.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/54"
+ },
+ "site_source": "https://www.probtpfinance.com/home/mentions-legales.html"
+}

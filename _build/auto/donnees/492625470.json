@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "AXIOM ALTERNATIVE INVESTMENTS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9944"
+ },
+ "siren": "492625470",
+ "denomination": "AXIOM ALTERNATIVE INVESTMENTS",
+ "nom_complet": "AXIOM ALTERNATIVE INVESTMENTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2006-11-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492625470",
+ "maj_rne": "2026-09-24T00:02:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "BEN AMOU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "CARRIOU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "CAZENAVE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "LEGRAS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ADRIAN",
+   "nom": "PATURLE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "RAAB",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "SURJON",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9944",
+  "numero": "GP-06000039",
+  "date_agrement": "2006-10-17",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 Avenue Pierre 1er de Serbie, 75008 PARIS",
+  "lei": "969500QVL977C8L8Q834",
+  "denomination": "AXIOM ALTERNATIVE INVESTMENTS SARL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000039.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9944"
+ }
+}

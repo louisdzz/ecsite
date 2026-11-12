@@ -1,0 +1,132 @@
+{
+ "nom_usuel": "SIPAREX XANGE VENTURE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/882"
+ },
+ "siren": "452276181",
+ "denomination": "SIPAREX XANGE VENTURE",
+ "nom_complet": "SIPAREX XANGE VENTURE (NEPE)",
+ "sigle": null,
+ "enseigne": "NEPE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-02-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452276181",
+ "maj_rne": "2026-09-23T17:06:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRIL",
+   "nom": "BERTRAND",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "BERTRAND",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILHEM",
+   "nom": "COURLET DE VREGILLE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "DECLA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS CHARLES GABRIEL",
+   "nom": "DU PELOUX DE SAINT-ROMAIN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ESCHERMANN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BETTY MARIE-ANGE",
+   "nom": "MARCEROU",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "MEULLE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "RAMBAUD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ROSE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS TREVETT",
+   "nom": "ROSE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "SIGEFI POUVANT ETRE PRECEDEE OU SUIVIE DE SIPAREX INGENIERIE ET FINANCE",
+   "siren": "331595587",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "LA POSTE",
+   "siren": "356000000",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/882",
+  "numero": "GP-04000032",
+  "date_agrement": "2004-04-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5/9 rue Feydeau, 75002 PARIS",
+  "lei": "969500KYK4UQGB57Q665",
+  "denomination": "SIPAREX XANGE VENTURE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000032.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/882"
+ }
+}

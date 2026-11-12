@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "EURAZEO INFRASTRUCTURE PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305638"
+ },
+ "siren": "892154873",
+ "denomination": "EURAZEO INFRASTRUCTURE PARTNERS",
+ "nom_complet": "EURAZEO INFRASTRUCTURE PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société en nom collectif",
+ "forme_code": "5202",
+ "creation": "2020-12-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892154873",
+ "maj_rne": "2026-09-29T15:32:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT JEAN PAUL",
+   "nom": "CHATELIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MÉLISSA SHOSHANNA",
+   "nom": "LEVY (COHEN)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTIN",
+   "nom": "SICHELKOW",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "LEGENDRE HOLDING 84",
+   "siren": "890550197",
+   "qualite": "Associé indéfiniment et solidairement responsable"
+  },
+  {
+   "type": "pm",
+   "denomination": "EURAZEO INFRASTRUCTURES MANAGERS",
+   "siren": "890554595",
+   "qualite": "Associé indéfiniment et solidairement responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305638",
+  "numero": "GP-202173",
+  "date_agrement": "2021-12-14",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "2 rue de Thann, 75017 PARIS",
+  "lei": "969500Z2HNHZ7VKC9828",
+  "denomination": "EURAZEO INFRASTRUCTURE PARTNERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-202173.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305638"
+ }
+}

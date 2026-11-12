@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "PREVAAL FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19217"
+ },
+ "siren": "751247719",
+ "denomination": "PREVAAL FINANCE",
+ "nom_complet": "PREVAAL FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-04-23",
+ "ville": "COURBEVOIE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751247719",
+ "maj_rne": "2026-09-04T18:31:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DENIS",
+   "nom": "CAMPAGNA",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE",
+   "nom": "DORE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER GEORGES PIERRE",
+   "nom": "GOURRAGNE",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE",
+   "nom": "MORIN-LEFEVRE (LEFEVRE)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALÉRIE",
+   "nom": "LUCIANI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS-VICTOR FRANÇOIS",
+   "nom": "SALESSE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLOTTE MARINE",
+   "nom": "SUBERCHICOT",
+   "qualite": "Membre du directoire"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19217",
+  "numero": "GP-12000013",
+  "date_agrement": "2012-05-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "18, avenue d'Alsace, 92926 La Défense Cedex",
+  "lei": "969500RXEEGAVUKZBQ92",
+  "denomination": "PREVAAL FINANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-12000013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19217"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "AXIPIT REAL ESTATE PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29282"
+ },
+ "siren": "894233444",
+ "denomination": "AXIPIT REAL ESTATE PARTNERS",
+ "nom_complet": "AXIPIT REAL ESTATE PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-02-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/894233444",
+ "maj_rne": "2026-10-30T14:36:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GILLES MARC",
+   "nom": "BARBIERI",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "RIQUIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "SABIANI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29282",
+  "numero": "GP-21000012",
+  "date_agrement": "2021-03-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "6 avenue Marceau, 75008 PARIS",
+  "lei": "969500TR6CDZLWJCXX79",
+  "denomination": "AXIPIT REAL ESTATE PARTNERS"
+ },
+ "site": "https://www.axipit.com",
+ "site_pages": [
+  "https://axipit.com/",
+  "https://axipit.com/mentions-legales/",
+  "https://axipit.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-21000012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29282"
+ },
+ "site_source": "https://axipit.com/mentions-legales/"
+}

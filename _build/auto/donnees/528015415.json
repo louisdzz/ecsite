@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "CITIZEN CAPITAL PARTENAIRES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16699"
+ },
+ "siren": "528015415",
+ "denomination": "CITIZEN CAPITAL PARTENAIRES",
+ "nom_complet": "CITIZEN CAPITAL PARTENAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-10-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/528015415",
+ "maj_rne": "2026-09-24T10:50:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-OLIVIER",
+   "nom": "BARENNES",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "MEHAIGNERIE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16699",
+  "numero": "GP-10000045",
+  "date_agrement": "2010-10-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "7 ter, cour des Petites Ecuries, 75010 PARIS",
+  "lei": "969500MLUQ0W7KIA2992",
+  "denomination": "CITIZEN CAPITAL PARTENAIRES"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000045.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16699"
+ }
+}

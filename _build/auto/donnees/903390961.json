@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "SAPIENTA GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305131"
+ },
+ "siren": "903390961",
+ "denomination": "SAPIENTA GESTION",
+ "nom_complet": "SAPIENTA GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-09-17",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/903390961",
+ "maj_rne": "2026-09-28T12:03:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "DINET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE ISABELLE AGATHE",
+   "nom": "EUGENIE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRILLE",
+   "nom": "PICHOT DE CAYEUX DE SENARPONT (PICHOT)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305131",
+  "numero": "GP-202169",
+  "date_agrement": "2021-10-18",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "30 rue Joannès Carret Le Blok, 69009 LYON",
+  "lei": "969500KLKKL76UT5XS62",
+  "denomination": "SAPIENTA GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-202169.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/305131"
+ }
+}

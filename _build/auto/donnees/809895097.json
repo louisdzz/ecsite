@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "ELIGE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "recherche par dénomination à l'API Recherche d'entreprises : une seule société active de dénomination identique, même code postal que l'adresse AMF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/22116"
+ },
+ "siren": "809895097",
+ "denomination": "ELIGE GESTION",
+ "nom_complet": "ELIGE GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-02-19",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809895097",
+ "maj_rne": "2026-09-25T04:46:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GREGOIRE JACQUES CECILE JEAN",
+   "nom": "BOUVIER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE GERALDINE",
+   "nom": "CAPPELLO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "MAZARS",
+   "siren": "351497649",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/22116",
+  "numero": "GP-15000009",
+  "date_agrement": "2015-04-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "50 rue du Président Edouard Herriot, 69002 Lyon",
+  "lei": null,
+  "denomination": "ELIGE GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-15000009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/22116"
+ }
+}

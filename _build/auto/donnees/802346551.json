@@ -1,0 +1,102 @@
+{
+ "nom_usuel": "NOVAXIA INVESTISSEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20885"
+ },
+ "siren": "802346551",
+ "denomination": "NOVAXIA INVESTISSEMENT",
+ "nom_complet": "NOVAXIA INVESTISSEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-04-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802346551",
+ "maj_rne": "2026-09-25T01:55:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LUCILE",
+   "nom": "BERTONI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "CLERET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "DUCRET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "ESTEVE",
+   "qualite": "Président du directoire, Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "GOSSELIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAUTIER CHARLES DIDIER",
+   "nom": "LAMPSON",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "NOVAXIA",
+   "siren": "495081051",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20885",
+  "numero": "GP-14000022",
+  "date_agrement": "2014-07-08",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "45 rue Saint-Charles, 75015 Paris",
+  "lei": "969500KOGKNNDBM8J517",
+  "denomination": "NOVAXIA INVESTISSEMENT"
+ },
+ "site": "https://www.novaxia-invest.fr",
+ "site_pages": [
+  "https://www.novaxia-investissement.fr/",
+  "https://www.novaxia-investissement.fr/mentions-legales/",
+  "https://www.novaxia-investissement.fr/informations-reglementaires/",
+  "https://www.novaxia-investissement.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000022.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20885"
+ },
+ "site_source": "https://www.novaxia-investissement.fr/mentions-legales/"
+}

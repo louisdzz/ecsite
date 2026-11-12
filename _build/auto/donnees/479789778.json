@@ -1,0 +1,80 @@
+{
+ "nom_usuel": "AURIS GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8602"
+ },
+ "siren": "479789778",
+ "denomination": "AURIS GESTION",
+ "nom_complet": "AURIS GESTION (SALAMANDRE BY AURIS GESTION)",
+ "sigle": null,
+ "enseigne": "SALAMANDRE BY AURIS GESTION",
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "2004-11-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479789778",
+ "maj_rne": "2026-08-25T16:48:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "DE SAINT DENIS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "GRASSET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "KRIER",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8602",
+  "numero": "GP-04000069",
+  "date_agrement": "2004-12-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "157 Boulevard Haussmann, 75008 PARIS",
+  "lei": "969500ZO1N6L8K3WIE40",
+  "denomination": "AURIS GESTION"
+ },
+ "site": "https://www.aurisgestion.com",
+ "site_pages": [
+  "https://www.aurisgestion.com",
+  "https://www.aurisgestion.com/fra/fr/institutionnels/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000069.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8602"
+ },
+ "site_source": "https://www.aurisgestion.com/fra/fr/institutionnels/mentions-legales"
+}

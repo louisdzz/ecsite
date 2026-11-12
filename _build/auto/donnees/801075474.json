@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "AMPERE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20878"
+ },
+ "siren": "801075474",
+ "denomination": "AMPERE GESTION",
+ "nom_complet": "AMPERE GESTION (AMPERE GESTION SAS)",
+ "sigle": "AMPERE GESTION SAS",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-03-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/801075474",
+ "maj_rne": "2026-09-25T01:28:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLORIAN",
+   "nom": "DELATTE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLEMENT",
+   "nom": "LECUIVRE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "PETILLOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE ELODIE",
+   "nom": "PUENTE MIGUEZ",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "CAILLARD (ROMIEU)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "FREMONT (TACHENE)",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20878",
+  "numero": "GP-14000021",
+  "date_agrement": "2014-07-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "33 avenue Pierre Mendes France, 75013 PARIS",
+  "lei": "9695004E6C3NJCE1NI07",
+  "denomination": "AMPERE GESTION"
+ },
+ "site": "https://amperegestion.groupe-cdc-habitat.com",
+ "site_pages": [
+  "https://amperegestion.groupe-cdc-habitat.com",
+  "https://amperegestion.groupe-cdc-habitat.com/actualites/lerafp-inaugure-la-premiere-plaque-mentionnant-sa-contribution-au-financement-dune-residence/",
+  "https://amperegestion.groupe-cdc-habitat.com/mentions-legales/",
+  "https://amperegestion.groupe-cdc-habitat.com/mentions-reglementaires/",
+  "https://amperegestion.groupe-cdc-habitat.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000021.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20878"
+ },
+ "site_source": "https://amperegestion.groupe-cdc-habitat.com/mentions-legales/"
+}

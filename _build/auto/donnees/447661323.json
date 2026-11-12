@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "MONETA ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/841"
+ },
+ "siren": "447661323",
+ "denomination": "MONETA ASSET MANAGEMENT",
+ "nom_complet": "MONETA ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-03-06",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/447661323",
+ "maj_rne": "2026-09-23T14:42:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN-MARIE",
+   "nom": "BURNAND",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDRZEJ",
+   "nom": "KAWALEC",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/841",
+  "numero": "GP03010",
+  "date_agrement": "2003-04-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "36 rue Marbeuf, 75008 PARIS",
+  "lei": "969500AFDIY1XZE27L60",
+  "denomination": "MONETA ASSET MANAGEMENT"
+ },
+ "site": "https://www.moneta.fr",
+ "site_pages": [
+  "https://www.moneta.fr",
+  "https://www.moneta.fr/documents/Mentions_legales-site_internet_Moneta_AM.pdf",
+  "https://www.moneta.fr/mentions-legales",
+  "https://www.moneta.fr/informations-reglementaires",
+  "https://www.moneta.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP03010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/841"
+ },
+ "site_source": "https://www.moneta.fr"
+}
