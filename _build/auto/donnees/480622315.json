@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "TIARE CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19A dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480622315"
+ },
+ "siren": "480622315",
+ "denomination": "TIARE CONSEIL",
+ "nom_complet": "TIARE CONSEIL (TIARE CONSEIL)",
+ "sigle": null,
+ "enseigne": "TIARE CONSEIL",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2005-01-18",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480622315",
+ "maj_rne": "2026-09-23T19:15:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "DONNEFORT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/480622315",
+  "numero": "13000443",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/01/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/480622315"
+ }
+}

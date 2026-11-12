@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LES PEPITES DE L'IMMOBILIER",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 22",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/835161498"
+ },
+ "siren": "835161498",
+ "denomination": "LES PEPITES DE L'IMMOBILIER",
+ "nom_complet": "LES PEPITES DE L'IMMOBILIER",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-02-02",
+ "ville": "SAINT-JACUT-DE-LA-MER",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/835161498",
+ "maj_rne": "2026-09-25T18:41:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JEAN-PIERRE ALAIN",
+   "nom": "QUERIC",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/835161498",
+  "numero": "22006867",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/12/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/835161498"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "CABINET CIEM & ASSOCIES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981072911"
+ },
+ "siren": "981072911",
+ "denomination": "CABINET CIEM & ASSOCIES",
+ "nom_complet": "CABINET CIEM & ASSOCIES (CABINET CIEM & ASSOCIES)",
+ "sigle": null,
+ "enseigne": "CABINET CIEM & ASSOCIES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-10-20",
+ "ville": "LATTES",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981072911",
+ "maj_rne": "2026-08-25T16:52:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC BERNARD ANTOINE",
+   "nom": "MOLINA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/981072911",
+  "numero": "26000179",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "03/04/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/10/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/981072911"
+ }
+}

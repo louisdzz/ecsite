@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "CGP VALUE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995343241"
+ },
+ "siren": "995343241",
+ "denomination": "CGP VALUE",
+ "nom_complet": "CGP VALUE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-12-17",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995343241",
+ "maj_rne": "2026-09-28T07:03:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RENAUD MARIE FRANTZ PAUL",
+   "nom": "CORMIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVÉ FRANÇOIS JOSEPH",
+   "nom": "DE GALBERT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "HOLDING VALUE",
+   "siren": "103616637",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/995343241",
+  "numero": "26008615",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/09/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/995343241"
+ }
+}

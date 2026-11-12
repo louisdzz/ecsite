@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "BPCE SOLUTIONS IMMOBILIERES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 94",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/405244492"
+ },
+ "siren": "405244492",
+ "denomination": "BPCE SOLUTIONS IMMOBILIERES",
+ "nom_complet": "BPCE SOLUTIONS IMMOBILIERES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1996-05-02",
+ "ville": "PARIS 13",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/405244492",
+ "maj_rne": "2026-11-09T15:40:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN FRÉDÉRIC ALEXIS",
+   "nom": "DE VANSSAY (DE VANSSAY DE BLAVOUS)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "GOURGEONNET",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT COOPERATIF",
+   "siren": "349974931",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE D'EPARGNE ET DE PREVOYANCE AQUITAINE POITOU CHARENTES",
+   "siren": "353821028",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE D'EPARGNE ET DE PREVOYANCE LOIRE-CENTRE",
+   "siren": "383952470",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE POPULAIRE DU SUD",
+   "siren": "554200808",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE POPULAIRE OCCITANE",
+   "siren": "560801300",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE D'EPARGNE ET DE PREVOYANCE GRAND EST EUROPE",
+   "siren": "775618622",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/405244492",
+  "numero": "11061592",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "04/09/2015"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/04/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/405244492"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "NUMERA",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 01",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/850981069"
+ },
+ "siren": "850981069",
+ "denomination": "NUMERA",
+ "nom_complet": "NUMERA (NUMERA SERVICES)",
+ "sigle": null,
+ "enseigne": "NUMERA SERVICES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-05-21",
+ "ville": "PONT-DE-VEYLE",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/850981069",
+ "maj_rne": "2026-09-26T01:27:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEX",
+   "nom": "AUPOIX",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARTHUR ALAIN",
+   "nom": "AUPOIX",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/850981069",
+  "numero": "19005222",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/07/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/850981069"
+ }
+}
