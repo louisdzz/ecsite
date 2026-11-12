@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "AUXANO PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75010)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/914354493"
+ },
+ "siren": "914354493",
+ "denomination": "AUXANO PATRIMOINE",
+ "nom_complet": "AUXANO PATRIMOINE (AUXANO PATRIMOINE) (AUXANO)",
+ "sigle": "AUXANO",
+ "enseigne": "AUXANO PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-05-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/914354493",
+ "maj_rne": "2026-09-26T20:54:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU PIERRE JULIEN",
+   "nom": "FUMAT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENS SYLVAIN",
+   "nom": "LAFONT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/914354493",
+  "numero": "22005186",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "25/09/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/10/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/10/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/914354493"
+ }
+}

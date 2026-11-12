@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "INITIAL FAMILY OFFICE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/941008567"
+ },
+ "siren": "941008567",
+ "denomination": "INITIAL FAMILY OFFICE",
+ "nom_complet": "INITIAL FAMILY OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-02-17",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/941008567",
+ "maj_rne": "2026-09-28T00:23:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUBERT ROBIN PATRICE",
+   "nom": "GIRONDEL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/941008567",
+  "numero": "25004785",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/941008567"
+ }
+}

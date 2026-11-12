@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "JACOB INVESTISSEMENTS & CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/885355818"
+ },
+ "siren": "885355818",
+ "denomination": "JACOB INVESTISSEMENTS & CONSEILS",
+ "nom_complet": "JACOB INVESTISSEMENTS & CONSEILS (JACOB INVESTISSEMENTS & CONSEILS)",
+ "sigle": null,
+ "enseigne": "JACOB INVESTISSEMENTS & CONSEILS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-07-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/885355818",
+ "maj_rne": "2026-09-26T07:39:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACOB BAROKH",
+   "nom": "OUAKNINE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/885355818",
+  "numero": "20008480",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "27/11/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/885355818"
+ }
+}

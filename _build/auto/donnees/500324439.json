@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "ALPHAVALUE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500324439"
+ },
+ "siren": "500324439",
+ "denomination": "ALPHAVALUE",
+ "nom_complet": "ALPHAVALUE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2007-09-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500324439",
+ "maj_rne": "2026-09-24T02:32:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "GARRET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-YVES",
+   "nom": "GAUTHIER",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT MARIE",
+   "nom": "LEONARD DE JUVIGNY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "GEMMES VENTURE",
+   "siren": "419021761",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "FIME",
+   "siren": "419603857",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "BAADER BANK AKTIENGESELLSCHAFT",
+   "siren": null,
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/500324439",
+  "numero": "20003227",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/03/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/500324439"
+ }
+}

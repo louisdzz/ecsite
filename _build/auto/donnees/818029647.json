@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "NOE CAPITAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75002)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818029647"
+ },
+ "siren": "818029647",
+ "denomination": "NOE CAPITAL",
+ "nom_complet": "NOE CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2015-12-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818029647",
+ "maj_rne": "2026-09-25T08:18:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS ERIC",
+   "nom": "BALLOT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/818029647",
+  "numero": "19008351",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/11/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/818029647"
+ }
+}

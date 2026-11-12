@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "FABIAN BIHR CONSEIL ET EXPERTISE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75013)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829946953"
+ },
+ "siren": "829946953",
+ "denomination": "FABIAN BIHR CONSEIL ET EXPERTISE",
+ "nom_complet": "FABIAN BIHR CONSEIL ET EXPERTISE (FBCE) (FBCE)",
+ "sigle": "FBCE",
+ "enseigne": "FBCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-05-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829946953",
+ "maj_rne": "2026-09-25T15:17:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABIAN",
+   "nom": "BIHR",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/829946953",
+  "numero": "17005364",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "10/11/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/11/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/829946953"
+ }
+}

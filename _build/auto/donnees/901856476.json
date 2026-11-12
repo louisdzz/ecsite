@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "BDSL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/901856476"
+ },
+ "siren": "901856476",
+ "denomination": "BDSL",
+ "nom_complet": "BDSL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-07-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/901856476",
+ "maj_rne": "2026-09-26T14:42:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHLOÉ EMILIE",
+   "nom": "BALLESTER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALBIN MARIE BRUNO JEAN-LOUIS",
+   "nom": "CALLIES DE SALIES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE MICHEL",
+   "nom": "LANGEVIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/901856476",
+  "numero": "21007207",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "AGA",
+    "libelle": "Agent général d'assurance",
+    "etat": "Supprimé",
+    "date": "12/01/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "22/03/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/03/2024"
+   },
+   {
+    "code": "ALPSI",
+    "libelle": "Agent lié de prestataire de services d'investissement",
+    "etat": "Supprimé",
+    "date": "12/01/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/901856476"
+ }
+}

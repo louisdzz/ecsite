@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "JCH FINANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75005)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818909236"
+ },
+ "siren": "818909236",
+ "denomination": "JCH FINANCE",
+ "nom_complet": "JCH FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2016-03-04",
+ "ville": "LEVALLOIS-PERRET",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/818909236",
+ "maj_rne": "2026-09-29T06:26:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JOHAN",
+   "nom": "CHICHPORTICH",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/818909236",
+  "numero": "16001951",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "25/03/2016"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "25/03/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/04/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/818909236"
+ }
+}

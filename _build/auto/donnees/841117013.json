@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "HB INTERNATIONAL CONSULTING",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75016)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841117013"
+ },
+ "siren": "841117013",
+ "denomination": "HB INTERNATIONAL CONSULTING",
+ "nom_complet": "HB INTERNATIONAL CONSULTING (HB INTERNATIONAL CONSULTING)",
+ "sigle": null,
+ "enseigne": "HB INTERNATIONAL CONSULTING",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-06-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841117013",
+ "maj_rne": "2026-09-25T20:46:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HANNA",
+   "nom": "BAALBAKI (JOUNI)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/841117013",
+  "numero": "18006333",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/11/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/10/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/841117013"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "FDC CAPITAL MANAGEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439317140"
+ },
+ "siren": "439317140",
+ "denomination": "FDC CAPITAL MANAGEMENT",
+ "nom_complet": "FDC CAPITAL MANAGEMENT",
+ "sigle": null,
+ "enseigne": "FDCM",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2001-09-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439317140",
+ "maj_rne": "2026-09-23T11:18:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAUDE",
+   "nom": "FACCENDINI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "FACCENDINI",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLAUDE",
+   "nom": "GAVRILUK",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/439317140",
+  "numero": "08041749",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/04/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/05/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/01/2008"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/439317140"
+ }
+}

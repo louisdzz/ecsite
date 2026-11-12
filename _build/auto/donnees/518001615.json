@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "IDP STRATEGIE  INGENIERIE ET DEVELOPPEMENT PATRIMONIAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518001615"
+ },
+ "siren": "518001615",
+ "denomination": "IDP STRATEGIE  INGENIERIE ET DEVELOPPEMENT PATRIMONIAL",
+ "nom_complet": "IDP STRATEGIE  INGENIERIE ET DEVELOPPEMENT PATRIMONIAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2009-11-01",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518001615",
+ "maj_rne": "2026-09-24T07:50:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE MARIE MARCELLE",
+   "nom": "BIZE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT-CHARLES",
+   "nom": "CLERICE DE MEYNARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/518001615",
+  "numero": "09052704",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "10/01/2014"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "09/01/2015"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/03/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "11/12/2009"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/11/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/518001615"
+ }
+}

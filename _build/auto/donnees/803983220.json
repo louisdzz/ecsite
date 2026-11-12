@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "STRATEGIES SPORTS INVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75014)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/803983220"
+ },
+ "siren": "803983220",
+ "denomination": "STRATEGIES SPORTS INVEST",
+ "nom_complet": "STRATEGIES SPORTS INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/803983220",
+ "maj_rne": "2026-09-25T02:52:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "ROY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/803983220",
+  "numero": "14005462",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/04/2024"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "14/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/05/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/803983220"
+ }
+}

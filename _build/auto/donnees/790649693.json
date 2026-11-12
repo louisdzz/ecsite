@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "PRO EPARGNE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75009)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790649693"
+ },
+ "siren": "790649693",
+ "denomination": "PRO EPARGNE",
+ "nom_complet": "PRO EPARGNE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-01-31",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790649693",
+ "maj_rne": "2026-09-24T21:10:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEREMY",
+   "nom": "BOUBLIL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/790649693",
+  "numero": "13004252",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "20/09/2013"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "17/04/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/05/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/06/2013"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/06/2013"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/790649693"
+ }
+}

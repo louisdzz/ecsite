@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "CIME PARTNERS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75007)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/804144533"
+ },
+ "siren": "804144533",
+ "denomination": "CIME PARTNERS",
+ "nom_complet": "CIME PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-07-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/804144533",
+ "maj_rne": "2026-09-25T02:52:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "COLETTE",
+   "nom": "POURCELOT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/804144533",
+  "numero": "14006063",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/10/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/804144533"
+ }
+}

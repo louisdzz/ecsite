@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "VICTOR PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927756023"
+ },
+ "siren": "927756023",
+ "denomination": "VICTOR PATRIMOINE",
+ "nom_complet": "VICTOR PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-04-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927756023",
+ "maj_rne": "2026-09-27T18:01:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CÔME",
+   "nom": "CHAUFOUR",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/927756023",
+  "numero": "26003925",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/03/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/927756023"
+ }
+}

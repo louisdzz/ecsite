@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "AGAMI FAMILY OFFICE",
+ "categorie": "mfo",
+ "crm": null,
+ "slug_existant": "agami-family-office",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 6 (NAF 70.22Z, départements 92, 69, 13, 33, 31, 44, 59, 67, 06 ; 10 000 premiers résultats pour 92, 69, 13 et 33), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://agami.com/mentions-legales/"
+ },
+ "siren": "494416266",
+ "denomination": "AGAMI FAMILY OFFICE",
+ "nom_complet": "AGAMI FAMILY OFFICE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-02-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/494416266",
+ "maj_rne": "2026-09-24T00:55:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "EMSALEM",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "SIMON",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/494416266",
+  "numero": "10056168",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "10/01/2014"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "20/06/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "18/06/2010"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/07/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://agami.com/",
+ "site_pages": [
+  "https://agami.com/",
+  "https://agami.com/mentions-legales/",
+  "https://agami.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/agami-family-office-&amp;-corporate/mycompany",
+  "source": "https://agami.com/"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/494416266"
+ }
+}

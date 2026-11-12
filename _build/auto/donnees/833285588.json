@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "MELANIE SCHEES CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75012)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833285588"
+ },
+ "siren": "833285588",
+ "denomination": "MELANIE SCHEES CONSEILS",
+ "nom_complet": "MELANIE SCHEES CONSEILS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-10-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833285588",
+ "maj_rne": "2026-09-25T17:28:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MELANIE",
+   "nom": "SCHEES (LUBOST)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/833285588",
+  "numero": "18002516",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "24/05/2019"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "29/03/2019"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "13/04/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/06/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/833285588"
+ }
+}

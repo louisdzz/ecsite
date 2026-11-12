@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "GAGEO ASSET FINANCE SERVICES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/831604491"
+ },
+ "siren": "831604491",
+ "denomination": "GAGEO ASSET FINANCE SERVICES",
+ "nom_complet": "GAGEO ASSET FINANCE SERVICES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-08-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/831604491",
+ "maj_rne": "2026-09-25T16:23:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MURIELLE CHRISTINE",
+   "nom": "BARNEOUD",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE MARGUERITE",
+   "nom": "GUILLOU (CARPENTIER)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "PANCRAZI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NOLWEN",
+   "nom": "SIMON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE CENTRALE DE REASSURANCE",
+   "siren": "388202533",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/831604491",
+  "numero": "17005631",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/831604491"
+ }
+}

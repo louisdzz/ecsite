@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MOLINARI INVESTISSEMENTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75009)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792199903"
+ },
+ "siren": "792199903",
+ "denomination": "MOLINARI INVESTISSEMENTS",
+ "nom_complet": "MOLINARI INVESTISSEMENTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792199903",
+ "maj_rne": "2026-09-24T21:45:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "MOLINARI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/792199903",
+  "numero": "20009692",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/01/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/792199903"
+ }
+}

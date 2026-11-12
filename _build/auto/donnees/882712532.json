@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ATACAMA INNOVATION SAS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75016)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882712532"
+ },
+ "siren": "882712532",
+ "denomination": "ATACAMA INNOVATION SAS",
+ "nom_complet": "ATACAMA INNOVATION SAS (ATACAMA INNOVATION)",
+ "sigle": null,
+ "enseigne": "ATACAMA INNOVATION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-03-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882712532",
+ "maj_rne": "2026-09-26T06:17:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GABRIEL JOSEF",
+   "nom": "GROSS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/882712532",
+  "numero": "20003737",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/06/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "05/06/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/882712532"
+ }
+}

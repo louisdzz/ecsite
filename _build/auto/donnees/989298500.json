@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "IBING GESTION",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989298500"
+ },
+ "siren": "989298500",
+ "denomination": "IBING GESTION",
+ "nom_complet": "IBING GESTION (VALHORES CONSEIL)",
+ "sigle": null,
+ "enseigne": "VALHORES CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-07-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989298500",
+ "maj_rne": "2026-09-28T03:38:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VALENTIN",
+   "nom": "INGRAO HORIOT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/989298500",
+  "numero": "25009957",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "20/03/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/12/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/989298500"
+ }
+}

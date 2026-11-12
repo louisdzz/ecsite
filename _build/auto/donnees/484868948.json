@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ERES PF",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75009)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484868948"
+ },
+ "siren": "484868948",
+ "denomination": "ERES PF",
+ "nom_complet": "ERES PF (DEBORY - ERES GROUP)",
+ "sigle": null,
+ "enseigne": "DEBORY - ERES GROUP",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-11-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484868948",
+ "maj_rne": "2026-09-27T06:01:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "CHAUVIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ERES BIDCO",
+   "siren": "928353804",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/484868948",
+  "numero": "07023020",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/04/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/12/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/484868948"
+ }
+}

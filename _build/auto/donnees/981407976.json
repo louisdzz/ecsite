@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LUXALIS CAPITAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75020)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981407976"
+ },
+ "siren": "981407976",
+ "denomination": "LUXALIS CAPITAL",
+ "nom_complet": "LUXALIS CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-11-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981407976",
+ "maj_rne": "2026-09-27T14:54:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "BOURISSOU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "VIVIANO",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/981407976",
+  "numero": "24000755",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/981407976"
+ }
+}

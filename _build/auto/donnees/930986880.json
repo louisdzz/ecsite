@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "OUTMATCH INVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930986880"
+ },
+ "siren": "930986880",
+ "denomination": "OUTMATCH INVEST",
+ "nom_complet": "OUTMATCH INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-07-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930986880",
+ "maj_rne": "2026-09-27T19:42:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOÏC BENJAMIN MICKAËL",
+   "nom": "GACH",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "OUTMATCH",
+   "siren": "985017185",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/930986880",
+  "numero": "24008020",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/930986880"
+ }
+}

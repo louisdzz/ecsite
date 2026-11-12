@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "TSURU PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "tsuru-patrimoine",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 5 (NAF 66.22Z, départements 92, 69, 13, 33, 31, 44, 59, 67, 06), 2026-11-11)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://tsuru-patrimoine.fr/"
+ },
+ "siren": "951291129",
+ "denomination": "TSURU PATRIMOINE",
+ "nom_complet": "TSURU PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-02-20",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951291129",
+ "maj_rne": "2026-09-27T10:08:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE MARGUERITE MARIE",
+   "nom": "DESMARTIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/951291129",
+  "numero": "24008723",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "13/12/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/12/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "13/12/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://tsuru-patrimoine.fr/",
+ "site_pages": [
+  "https://tsuru-patrimoine.fr/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/951291129"
+ }
+}

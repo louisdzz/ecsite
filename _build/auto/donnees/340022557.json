@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "FINANCIERE EOS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340022557"
+ },
+ "siren": "340022557",
+ "denomination": "FINANCIERE EOS",
+ "nom_complet": "FINANCIERE EOS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1986-12-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340022557",
+ "maj_rne": "2026-09-29T12:43:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMY",
+   "nom": "CAILLAUX",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "ESCARRA",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "LABOURET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "MAJOU",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/340022557",
+  "numero": "13000126",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/05/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/340022557"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "PLAN ENTREPRISE ET PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991762998"
+ },
+ "siren": "991762998",
+ "denomination": "PLAN ENTREPRISE ET PATRIMOINE",
+ "nom_complet": "PLAN ENTREPRISE ET PATRIMOINE (PEP CONSEIL) (PEP CONSEIL)",
+ "sigle": "PEP CONSEIL",
+ "enseigne": "PEP CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-09-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991762998",
+ "maj_rne": "2026-09-30T14:14:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SELMA HANANE",
+   "nom": "HALLAL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/991762998",
+  "numero": "26006649",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "07/05/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/05/2026"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "07/05/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/991762998"
+ }
+}
