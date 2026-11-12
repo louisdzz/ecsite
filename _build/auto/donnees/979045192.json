@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "MAZIERES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 69 (code postal 69006)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979045192"
+ },
+ "siren": "979045192",
+ "denomination": "MAZIERES",
+ "nom_complet": "MAZIERES (MAZIERES GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "MAZIERES GESTION PRIVEE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-08-28",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979045192",
+ "maj_rne": "2026-09-27T13:34:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN ROMAIN GUILLAUME",
+   "nom": "NERAUD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "VLB",
+   "siren": "920949781",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "JUNE",
+   "siren": "923779110",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/979045192",
+  "numero": "23008114",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "01/12/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/12/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/979045192"
+ }
+}

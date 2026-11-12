@@ -1,0 +1,87 @@
+{
+ "nom_usuel": "FIPAGEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "fipagest",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 7 (NAF 70.22Z, Paris en entier par code postal, 75001 à 75020 et 75116), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.fipagest.com/mentions-legales"
+ },
+ "siren": "390661460",
+ "denomination": "FIPAGEST",
+ "nom_complet": "FIPAGEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1993-03-01",
+ "ville": "REIMS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/390661460",
+ "maj_rne": "2026-09-22T21:52:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER ADOLPHE",
+   "nom": "MIRAVETE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE MARIE",
+   "nom": "MIRAVETE (PERSON)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MALCOLM YANNICK MARC",
+   "nom": "VINCENT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/390661460",
+  "numero": "07001060",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "10/12/2021"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "14/11/2005"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.fipagest.com",
+ "site_pages": [
+  "https://www.fipagest.com",
+  "https://www.fipagest.com/statuts-reglementes",
+  "https://www.fipagest.com/mentions-legales",
+  "https://www.fipagest.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/390661460"
+ }
+}
