@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LOUMA PROTECTION & PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 22",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983654740"
+ },
+ "siren": "983654740",
+ "denomination": "LOUMA PROTECTION & PATRIMOINE",
+ "nom_complet": "LOUMA PROTECTION & PATRIMOINE (LOUMA PROTECTION & PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "LOUMA PROTECTION & PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-01-18",
+ "ville": "LANNION",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983654740",
+ "maj_rne": "2026-09-27T16:06:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN FRANCIS PIERRE ROGER",
+   "nom": "GRELLIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983654740",
+  "numero": "24002702",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "26/04/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/04/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/983654740"
+ }
+}

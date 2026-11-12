@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "LYSSOR GP",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 39",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432834182"
+ },
+ "siren": "432834182",
+ "denomination": "LYSSOR GP",
+ "nom_complet": "LYSSOR GP",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2000-08-01",
+ "ville": "GRESY-SUR-AIX",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432834182",
+ "maj_rne": "2026-09-23T08:52:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VANESSA",
+   "nom": "SOUDRE (BERTRAND)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOEL HENRI ANDRE",
+   "nom": "CHARRIERE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MELANIE ANNE",
+   "nom": "DOUBRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/432834182",
+  "numero": "07004437",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "16/10/2015"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "04/09/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/09/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/432834182"
+ }
+}

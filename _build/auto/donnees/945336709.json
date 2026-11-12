@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CHERON ET VAILLANT PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 51",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/945336709"
+ },
+ "siren": "945336709",
+ "denomination": "CHERON ET VAILLANT PATRIMOINE",
+ "nom_complet": "CHERON ET VAILLANT PATRIMOINE (CHERON ET VAILLANT PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "CHERON ET VAILLANT PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-06-05",
+ "ville": "REIMS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/945336709",
+ "maj_rne": "2026-08-25T16:50:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANÇOIS-XAVIER PAUL",
+   "nom": "CHERON",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL PAUL",
+   "nom": "VAILLANT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/945336709",
+  "numero": "25005923",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/945336709"
+ }
+}

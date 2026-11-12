@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ALTEA PATRIMOINE INTERNATIONAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 50",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823271861"
+ },
+ "siren": "823271861",
+ "denomination": "ALTEA PATRIMOINE INTERNATIONAL",
+ "nom_complet": "ALTEA PATRIMOINE INTERNATIONAL (INVEST EXPAT)",
+ "sigle": null,
+ "enseigne": "INVEST EXPAT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2016-10-18",
+ "ville": "SAINT-LO",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823271861",
+ "maj_rne": "2026-09-25T11:53:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BRUNO GEORGES ALPHONSE",
+   "nom": "BELAS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN CHARLES GUILLAUME",
+   "nom": "VERILLON",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/823271861",
+  "numero": "17002564",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/823271861"
+ }
+}

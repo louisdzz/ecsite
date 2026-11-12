@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "CONSEIL AVENIR PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 90",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/832983167"
+ },
+ "siren": "832983167",
+ "denomination": "CONSEIL AVENIR PATRIMOINE",
+ "nom_complet": "CONSEIL AVENIR PATRIMOINE (CAP 185) (CAP)",
+ "sigle": "CAP",
+ "enseigne": "CAP 185",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-10-27",
+ "ville": "BELFORT",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/832983167",
+ "maj_rne": "2026-09-25T17:24:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLES PHILIPPE JOEL",
+   "nom": "CORDIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/832983167",
+  "numero": "18000283",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/02/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/02/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/832983167"
+ }
+}

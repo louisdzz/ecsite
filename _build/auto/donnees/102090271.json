@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "VIA CABEXO PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 68",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/102090271"
+ },
+ "siren": "102090271",
+ "denomination": "VIA CABEXO PATRIMOINE",
+ "nom_complet": "VIA CABEXO PATRIMOINE (VIA CABEXO PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "VIA CABEXO PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2026-02-16",
+ "ville": "SAUSHEIM",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/102090271",
+ "maj_rne": "2026-09-28T09:15:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FANNY",
+   "nom": "D'ALESSANDRO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/102090271",
+  "numero": "26008627",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/102090271"
+ }
+}

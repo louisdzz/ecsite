@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "EXPERTISE PATRIMONIALE CONSEILS & ASSURANCES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982523375"
+ },
+ "siren": "982523375",
+ "denomination": "EXPERTISE PATRIMONIALE CONSEILS & ASSURANCES",
+ "nom_complet": "EXPERTISE PATRIMONIALE CONSEILS & ASSURANCES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-01-02",
+ "ville": "LATTES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982523375",
+ "maj_rne": "2026-09-27T15:34:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YANAEL JOHN",
+   "nom": "LEVESQUE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELE ROUFINA VALENTINA",
+   "nom": "MOROZOV",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/982523375",
+  "numero": "24003432",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "25/10/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/05/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/982523375"
+ }
+}

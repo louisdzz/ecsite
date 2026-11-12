@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ALTIORA PATRIMOINE BY GUY MOUYEME",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 37",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944883792"
+ },
+ "siren": "944883792",
+ "denomination": "ALTIORA PATRIMOINE BY GUY MOUYEME",
+ "nom_complet": "ALTIORA PATRIMOINE BY GUY MOUYEME",
+ "sigle": null,
+ "enseigne": "ALTIORA CONSEIL - CABINET GUY MOUYEME",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-08-01",
+ "ville": "JOUE-LES-TOURS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944883792",
+ "maj_rne": "2026-10-24T20:00:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUY",
+   "nom": "MOUYÉMÈ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/944883792",
+  "numero": "25006559",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/09/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/944883792"
+ }
+}

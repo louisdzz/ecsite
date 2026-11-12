@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ASSUR-PRO-OUEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 53",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/840873913"
+ },
+ "siren": "840873913",
+ "denomination": "ASSUR-PRO-OUEST",
+ "nom_complet": "ASSUR-PRO-OUEST (ASSUR-PRO-OUEST)",
+ "sigle": null,
+ "enseigne": "ASSUR-PRO-OUEST",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-07-03",
+ "ville": "CHANGE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/840873913",
+ "maj_rne": "2026-09-25T20:41:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLORENT DOMINIQUE CHRISTIAN",
+   "nom": "ROUSSEAU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/840873913",
+  "numero": "18004975",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "27/07/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/05/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/840873913"
+ }
+}

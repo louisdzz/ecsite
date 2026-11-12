@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "LES HERMINES GESTION PRIVEE SAINT GREGOIRE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 35",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992207423"
+ },
+ "siren": "992207423",
+ "denomination": "LES HERMINES GESTION PRIVEE SAINT GREGOIRE",
+ "nom_complet": "LES HERMINES GESTION PRIVEE SAINT GREGOIRE (LES HERMINES SAINT GREGOIRE)",
+ "sigle": null,
+ "enseigne": "LES HERMINES SAINT GREGOIRE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-10-01",
+ "ville": "SAINT-GREGOIRE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992207423",
+ "maj_rne": "2026-09-28T05:07:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KEVIN PATRICK RENÉ",
+   "nom": "LE CALVEZ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME ERWAN MARIE ERIC",
+   "nom": "RONDIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/992207423",
+  "numero": "25010184",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/12/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/01/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/992207423"
+ }
+}

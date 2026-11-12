@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "LES HERMINES GESTION PRIVEE CESSON SEVIGNE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 35",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993604396"
+ },
+ "siren": "993604396",
+ "denomination": "LES HERMINES GESTION PRIVEE CESSON SEVIGNE",
+ "nom_complet": "LES HERMINES GESTION PRIVEE CESSON SEVIGNE (LES HERMINES CESSON SEVIGNE)",
+ "sigle": null,
+ "enseigne": "LES HERMINES CESSON SEVIGNE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-11-04",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993604396",
+ "maj_rne": "2026-09-28T05:53:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KEVIN PATRICK RENÉ",
+   "nom": "LE CALVEZ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME ERWAN MARIE ERIC",
+   "nom": "RONDIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/993604396",
+  "numero": "26001678",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/02/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/02/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/993604396"
+ }
+}

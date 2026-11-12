@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "GRECH CONSEIL EN GESTION DE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 83",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995207842"
+ },
+ "siren": "995207842",
+ "denomination": "GRECH CONSEIL EN GESTION DE PATRIMOINE",
+ "nom_complet": "GRECH CONSEIL EN GESTION DE PATRIMOINE (GRECH CONSEIL & PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "GRECH CONSEIL & PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-12-10",
+ "ville": "TOULON",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995207842",
+ "maj_rne": "2026-09-28T06:53:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE MARC OLIVIER",
+   "nom": "GRECH",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/995207842",
+  "numero": "26006144",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/05/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/05/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/995207842"
+ }
+}

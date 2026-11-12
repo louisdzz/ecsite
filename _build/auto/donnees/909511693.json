@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "PLACE QUATORZE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 45",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909511693"
+ },
+ "siren": "909511693",
+ "denomination": "PLACE QUATORZE PATRIMOINE",
+ "nom_complet": "PLACE QUATORZE PATRIMOINE (PLACE QUATORZE)",
+ "sigle": null,
+ "enseigne": "PLACE QUATORZE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-01-18",
+ "ville": "LA CHAPELLE-SAINT-MESMIN",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909511693",
+ "maj_rne": "2026-09-26T17:59:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CEDRIC LAURENT",
+   "nom": "QUATORZE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/909511693",
+  "numero": "22006348",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/11/2022"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/909511693"
+ }
+}

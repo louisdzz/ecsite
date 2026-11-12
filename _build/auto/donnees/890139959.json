@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ORIGIN'L PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 68",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890139959"
+ },
+ "siren": "890139959",
+ "denomination": "ORIGIN'L PATRIMOINE",
+ "nom_complet": "ORIGIN'L PATRIMOINE (ORIGIN'L IMMOBILIER ET PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ORIGIN'L IMMOBILIER ET PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-09-30",
+ "ville": "ASPACH-MICHELBACH",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890139959",
+ "maj_rne": "2026-09-26T09:00:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FANNY",
+   "nom": "D'ALESSANDRO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/890139959",
+  "numero": "21000859",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/02/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/04/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/890139959"
+ }
+}
