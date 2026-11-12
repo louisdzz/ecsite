@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "NORD EST COMPTA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326660503"
+ },
+ "siren": "326660503",
+ "denomination": "NORD EST COMPTA",
+ "nom_complet": "NORD EST COMPTA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1983-04-01",
+ "ville": "REIMS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326660503",
+ "maj_rne": "2026-09-22T13:22:42",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE DU LIAMONE",
+   "siren": "849523972",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "SALENTO CONSEILS",
+   "siren": "850104258",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "GOBANCE STEPHANE EXPERTISE COMPTABLE ET GESTION",
+   "siren": "851665950",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "JEULANEC",
+   "siren": "908908023",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "AGATH",
+   "siren": "983491168",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "ATRON",
+   "siren": "983495318",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/326660503",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://nordestcompta.com/",
+ "site_source": "https://nordestcompta.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://nordestcompta.com/creer-et-reprendre-une-activite/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… préalable du projet Étude de la structure ciblée (marché, organisation…) Audit d’acquisition Conception du business plan Montage juridique (holding, groupe…) et financier …",
+    "label": "site officiel du cabinet",
+    "url": "https://nordestcompta.com/creer-et-reprendre-une-activite/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

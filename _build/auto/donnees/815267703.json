@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "MORTIER & ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/815267703"
+ },
+ "siren": "815267703",
+ "denomination": "MORTIER & ASSOCIES",
+ "nom_complet": "MORTIER & ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-12-15",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/815267703",
+ "maj_rne": "2026-09-25T07:57:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "MORTIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/815267703",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": null,
+ "site_source": null,
+ "site_identification": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Cité dans le classement « Fusions & Acquisitions - Conseil en transaction services - Cabinet d'audit & d'expertise comptable - France - 2025 » de Leaders League, édition 2025.",
+  "label": "Leaders League, page du classement",
+  "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-conseil-en-transaction-services-cabinet-d-audit-and-d-expertise-comptable-france-2025"
+ },
+ "lien_cession": {
+  "criteres": [
+   "d"
+  ],
+  "preuves": [
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Fusions & Acquisitions - Conseil en transaction services - Cabinet d'audit & d'expertise comptable - France - 2025 » de Leaders League, édition 2025.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-conseil-en-transaction-services-cabinet-d-audit-and-d-expertise-comptable-france-2025",
+    "date": "2026-11-12"
+   },
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Capital investissement - Conseil en transaction services smid cap - Cabinet d'audit & d'expertise comptable - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseil-en-transaction-services-smid-cap-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

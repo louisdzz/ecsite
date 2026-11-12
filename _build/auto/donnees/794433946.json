@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "XPERTYS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794433946"
+ },
+ "siren": "794433946",
+ "denomination": "XPERTYS",
+ "nom_complet": "XPERTYS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-06-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794433946",
+ "maj_rne": "2026-09-29T04:05:06",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "EQUALYS",
+   "siren": "490569696",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "CL CAPITAL",
+   "siren": "982475881",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/794433946",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.xpertys.fr/",
+ "site_source": "https://www.xpertys.fr/mentions-legales-199",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.xpertys.fr/nos-missions/externalisation-creation-acquisition-cession-entreprise-111"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… OPÉRATIONS. Préparer votre projet d’acquisition Apprécier la société cible (Audit d’acquisition) Accompagner la négociation Favoriser le financement Optimiser la garantie …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.xpertys.fr/nos-missions/externalisation-creation-acquisition-cession-entreprise-111",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

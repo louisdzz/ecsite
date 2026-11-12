@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ABAQUE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383204724"
+ },
+ "siren": "383204724",
+ "denomination": "ABAQUE",
+ "nom_complet": "ABAQUE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1991-10-01",
+ "ville": "CLERMONT-FERRAND",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383204724",
+ "maj_rne": "2026-09-27T01:48:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTINE",
+   "nom": "ZANIOLO (BERTHET)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "COSTILLE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/383204724",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://abaque-expertise.fr/",
+ "site_source": "https://abaque-expertise.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://abaque-expertise.fr/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… vous consacrer pleinement à votre métier. En savoir + Création, reprise ou transmission d’entreprise Nous conseillons le chef d’entreprise à toutes les étapes de son projet pour …",
+    "label": "site officiel du cabinet",
+    "url": "https://abaque-expertise.fr/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

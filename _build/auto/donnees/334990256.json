@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "COPHOTRI",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334990256"
+ },
+ "siren": "334990256",
+ "denomination": "COPHOTRI",
+ "nom_complet": "COPHOTRI (COPHOTRI)",
+ "sigle": "COPHOTRI",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1986-02-05",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334990256",
+ "maj_rne": "2026-09-29T11:51:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CEDRIC",
+   "nom": "BARBEROUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "BURGUIERE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/334990256",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cophotri.fr/",
+ "site_source": "https://www.cophotri.fr/mentions-legales-expert-comptable-cophotri-marseille-france-13001/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cophotri.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… Nous vous accompagnons Audits Audit légal Audit d’acquisition Audit fiscal et social Commissariat aux apports Audit d’évaluation Audit du …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cophotri.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

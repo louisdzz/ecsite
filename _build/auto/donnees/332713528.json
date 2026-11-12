@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "SCP GVGM",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/332713528"
+ },
+ "siren": "332713528",
+ "denomination": "SCP GVGM",
+ "nom_complet": "SCP GVGM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "6569",
+ "creation": "1985-05-01",
+ "ville": "ROANNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/332713528",
+ "maj_rne": "2026-09-29T11:09:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "GIRARD",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS JEAN BERNARD",
+   "nom": "SOUBAGNE",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pm",
+   "denomination": "NISO",
+   "siren": "504771601",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE CGEC",
+   "siren": "794463539",
+   "qualite": "Associé indéfiniment responsable"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/332713528",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://gvgm.fr/",
+ "site_source": "https://gvgm.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://gvgm.fr/creation-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+    "extrait": "… & Paies Juridique & Audit financier et comptable Consolidation des comptes Transmission d’entreprise & Évaluation Durabilité GVGM Formation Pharmacie Comptabilité, Reporting & …",
+    "label": "site officiel du cabinet",
+    "url": "https://gvgm.fr/creation-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

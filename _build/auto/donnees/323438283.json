@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "SYMBIOZEXPERT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/323438283"
+ },
+ "siren": "323438283",
+ "denomination": "SYMBIOZEXPERT",
+ "nom_complet": "SYMBIOZEXPERT (SYMBIOZEXPERT) (SECB)",
+ "sigle": "SECB",
+ "enseigne": "SYMBIOZEXPERT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1982-04-01",
+ "ville": "ROMAGNAT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/323438283",
+ "maj_rne": "2026-09-22T12:54:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "BATTAGLIA (TRUONG VINH KHANH)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/323438283",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.symbiozexpert.com/",
+ "site_source": "https://www.symbiozexpert.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.symbiozexpert.com/votre_entreprise/pmepmi/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… Pilotage de la croissance de votre société Reprise d’entreprise Cession et transmission d’entreprise Conseil en organisation Conseil patrimonial Au-delà de ces services …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.symbiozexpert.com/votre_entreprise/pmepmi/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "SOLAES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482321874"
+ },
+ "siren": "482321874",
+ "denomination": "SOLAES",
+ "nom_complet": "SOLAES (SOLAES) (DAC)",
+ "sigle": "DAC",
+ "enseigne": "SOLAES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-04-28",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482321874",
+ "maj_rne": "2026-09-23T20:13:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIVIEN",
+   "nom": "MINGOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "PCEC",
+   "siren": "512060872",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "JBS",
+   "siren": "877704510",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "YVELINES EXPERTISE CONSEIL",
+   "siren": "882203086",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOLAES DEVELOPPEMENT",
+   "siren": "937587236",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/482321874",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://solaes.fr/",
+ "site_source": "https://solaes.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://solaes.fr/creer-votre-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d’entreprise »).",
+    "extrait": "… Secrétariat juridique Actes de la vie des sociétés Organisation des sociétés Cession d’entreprise Contactez-nous En pratique 1- Je laisse un message à l’équipe SOLAES …",
+    "label": "site officiel du cabinet",
+    "url": "https://solaes.fr/creer-votre-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

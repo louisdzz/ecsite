@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "ARCEIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500816889"
+ },
+ "siren": "500816889",
+ "denomination": "ARCEIS",
+ "nom_complet": "ARCEIS (ARCEIS)",
+ "sigle": null,
+ "enseigne": "ARCEIS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-11-01",
+ "ville": "HAUTE-GOULAINE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500816889",
+ "maj_rne": "2026-09-24T02:49:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KEVIN",
+   "nom": "DESFOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CECILE",
+   "nom": "LEBLANC",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN DIDIER PHILIPPE",
+   "nom": "LOCATELLI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/500816889",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://arceis.fr/",
+ "site_source": "https://arceis.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://arceis.fr/creer-et-reprendre-une-activite/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… préalable du projet Étude de la structure ciblée (marché, organisation…) Audit d’acquisition Conception du business plan Montage juridique (holding, groupe…) et financier …",
+    "label": "site officiel du cabinet",
+    "url": "https://arceis.fr/creer-et-reprendre-une-activite/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

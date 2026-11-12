@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "NICOL & ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481806180"
+ },
+ "siren": "481806180",
+ "denomination": "NICOL & ASSOCIES",
+ "nom_complet": "NICOL & ASSOCIES (CN&A)",
+ "sigle": "CN&A",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2005-03-15",
+ "ville": "VOISINS-LE-BRETONNEUX",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/481806180",
+ "maj_rne": "2026-09-23T20:07:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "NICOL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/481806180",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.nicol-associes.com/",
+ "site_source": "https://www.nicol-associes.com/mentions-legales-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.nicol-associes.com"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+    "extrait": "… Commissariat aux apports ; DDL ; Audit d’utilisation de fonds. Expertise : Évaluation d'entreprises et de titres de sociétés (notamment en vue des ventes, cessions, apports …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.nicol-associes.com",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

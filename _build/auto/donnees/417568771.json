@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "DV EXPERTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417568771"
+ },
+ "siren": "417568771",
+ "denomination": "DV EXPERTS",
+ "nom_complet": "DV EXPERTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-02-05",
+ "ville": "LES AVENIERES VEYRINS-THUELLIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417568771",
+ "maj_rne": "2026-09-23T04:13:02",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "XIII OCTOBRE",
+   "siren": "929121614",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ENDUO",
+   "siren": "930983598",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/417568771",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.dv-experts.com/",
+ "site_source": "https://www.dv-experts.com/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « TRANSMISSION D'ENTREPRISE »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.dv-experts.com/creation-de-valeurs/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « TRANSMISSION D'ENTREPRISE »).",
+    "extrait": "… des objectifs et mise en place des indicateurs de pilotage et de suivi TRANSMISSION D'ENTREPRISE Quelle est la valeur de mon entreprise ? Où trouver une entreprise à racheter …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.dv-experts.com/creation-de-valeurs/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

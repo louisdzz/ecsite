@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "ASSOCIATION DE GESTION ET DE       COMPTABILITE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/316264472"
+ },
+ "siren": "316264472",
+ "denomination": "ASSOCIATION DE GESTION ET DE       COMPTABILITE",
+ "nom_complet": "ASSOCIATION DE GESTION ET DE       COMPTABILITE (AS49)",
+ "sigle": "AS49",
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "1979-01-01",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "22",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/316264472",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/316264472",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.as49.fr/",
+ "site_source": "https://www.as49.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.as49.fr/souhaits/creer-ou-reprendre-une-entreprise-agricole/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+    "extrait": "… du monde du travail et de la législation sociale nécessite un accompagnement… Transmission d’entreprise : préparer et réussir votre projet La transmission d’entreprise est une étape …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.as49.fr/souhaits/creer-ou-reprendre-une-entreprise-agricole/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "CONSEILIANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/819162389"
+ },
+ "siren": "819162389",
+ "denomination": "CONSEILIANCE",
+ "nom_complet": "CONSEILIANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2016-03-15",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/819162389",
+ "maj_rne": "2026-09-25T08:51:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEREMY",
+   "nom": "LACOMBE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CLAUDE BENOIT MICHEL",
+   "nom": "MICOUD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE DAVID",
+   "nom": "POLETTI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/819162389",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.conseiliance.fr/",
+ "site_source": "https://www.conseiliance.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.conseiliance.fr/notre-expertise-metier/entreprises-et-organisations-de-taille-moyenne-pme"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… Réunions d’informations sur l’actualité. Comptabilité, finance, gestion Audit d’acquisition, Direction administrative et financière externalisée, Organisation du service …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.conseiliance.fr/notre-expertise-metier/entreprises-et-organisations-de-taille-moyenne-pme",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

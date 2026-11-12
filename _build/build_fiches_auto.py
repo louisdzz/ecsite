@@ -3,7 +3,8 @@
 
 Entrée : _build/auto/donnees/<siren>.json, produits par _build/auto/collecte.py
 à partir de sources publiques uniquement (API Recherche d'entreprises de l'État,
-registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, site officiel de la maison). Chaque champ affiché porte sa source
+registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, site officiel de la maison ;
+pour la rubrique experts-comptables, preuves du lien avec la cession, bloc lien_cession). Chaque champ affiché porte sa source
 et sa date de consultation. Un champ sans source reste « Non renseigné ».
 
 Sorties :
@@ -40,8 +41,12 @@ CATS = {
     "sgp": {"label": "Sociétés de gestion",
             "metier": "Une société de gestion de portefeuille gère des fonds ou des mandats pour le compte de ses clients, sous agrément de l’Autorité des marchés financiers. Les stratégies, les frais et les conditions de sortie varient selon la société et le fonds.",
             "questions": ["Quelles activités votre agrément AMF couvre-t-il ?", "Quels frais s’appliquent, à l’entrée, chaque année et sur la performance ?", "Quelle durée de blocage et quelles conditions de sortie faut-il prévoir ?"]},
+    "experts-comptables": {"label": "Experts-comptables & auditeurs",
+            "metier": "Un cabinet d’expertise comptable tient ou contrôle les comptes, conseille en fiscalité et en gestion. Certains interviennent aussi avant ou après une cession : évaluation, préparation de la transmission, due diligence. L’étendue de ces missions varie selon le cabinet.",
+            "questions": ["Quelles missions de cession menez-vous vous-mêmes : évaluation, due diligence, accompagnement de la transmission ?", "Qui, dans le cabinet, suit ces missions et sur combien de dossiers par an ?", "Comment ces missions sont-elles facturées, au forfait, au temps passé ou au succès ?"]},
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
+LIEN_LIB = {"a": "Registre ORIAS", "b": "Activité affichée", "c": "Opération publique", "d": "Classement public", "complement": "Classement public"}
 PARTICULES = {"de", "du", "des", "le", "la", "d", "van", "von", "den", "der"}
 # Fiches existantes jamais remplacées : offre ou échange Annuaire au CRM (contrôle du 11 novembre 2026).
 PROTEGES = {"myway-family-office", "norman-k"}
@@ -182,6 +187,8 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
         ident.append(champ("Enseigne", e(r["enseigne"]), reg()))
     ident.append(champ("Forme juridique", e(r["forme"]) if r.get("forme") else "Non renseignée", reg() if r.get("forme") else ""))
     ident.append(champ("SIREN", e("%s %s %s" % (r["siren"][:3], r["siren"][3:6], r["siren"][6:])), reg()))
+    if r["categorie"] == "experts-comptables" and r.get("naf") == "69.20Z":
+        ident.append(champ("Activité principale (NAF)", "69.20Z · Activités comptables", reg()))
     ident.append(champ("Création", e(fr_date(r["creation"])) if r.get("creation") else "Non renseignée", reg() if r.get("creation") else ""))
     ident.append(champ("Ville du siège", e(nom_propre(r["ville"])) if r.get("ville") else "Non renseignée", reg() if r.get("ville") else ""))
     ident.append(champ("Statut", "Active au registre" if r["actif"] else "Cessée au registre", reg()))
@@ -226,8 +233,14 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
         pu = next(iter(r["orias_site"].values()))
         regl = '<p class="fa-vide">Aucune inscription retrouvée sous ce SIREN au <a href="%s" rel="noopener nofollow" target="_blank">registre ORIAS</a> le %s. Le site de la maison mentionne des inscriptions ORIAS, qui peuvent être portées par d’autres entités.%s</p>' % (e(o.get("url") or "https://www.orias.fr/"), fr_date(d), src("site officiel de la maison", pu, d))
     else:
-        regl = '<p class="fa-vide">Aucune inscription retrouvée sous ce SIREN au <a href="%s" rel="noopener nofollow" target="_blank">registre ORIAS</a> le %s. Agrément AMF, barreau ou chambre : non renseigné.</p>' % (e(o.get("url") or "https://www.orias.fr/"), fr_date(d))
+        regl = '<p class="fa-vide">Aucune inscription retrouvée sous ce SIREN au <a href="%s" rel="noopener nofollow" target="_blank">registre ORIAS</a> le %s. %s</p>' % (e(o.get("url") or "https://www.orias.fr/"), fr_date(d), "Inscription au tableau de l’Ordre des experts-comptables : non vérifiée par cette fiche." if r["categorie"] == "experts-comptables" else "Agrément AMF, barreau ou chambre : non renseigné.")
 
+    # Experts-comptables : lien documenté avec la cession (décision de Louis du 12 novembre 2026, 22h). Chaque preuve est datée et liée.
+    lc = r.get("lien_cession")
+    lien = ""
+    if lc and lc.get("preuves"):
+        lis = "".join(champ(LIEN_LIB.get(p.get("critere"), "Preuve"), e(p["texte"]) + ((" « %s »" % e(p["extrait"])) if p.get("extrait") else ""), src(p["label"], p["url"], p.get("date") or d)) for p in lc["preuves"])
+        lien = '<section aria-labelledby="fa-cession" id="lien-cession"><h2 class="pv-section-title" id="fa-cession">Lien avec la cession.</h2><dl class="pv-condition-list">%s</dl><p class="pv-source-note">Ce cabinet figure dans l’Annuaire parce qu’un lien avec la cession est documenté par la source citée. Ce lien ne dit rien de la qualité du conseil et n’entre pas dans le classement d’activité.</p></section>' % lis
     rs = r.get("raison")
     raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
     liens = []
@@ -267,7 +280,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 <section aria-labelledby="fa-dirigeants" id="dirigeants"><h2 class="pv-section-title" id="fa-dirigeants">Dirigeants légaux.</h2>{dirig}</section>
 <section aria-labelledby="fa-statuts" id="statuts"><h2 class="pv-section-title" id="fa-statuts">Statuts réglementaires.</h2>{regl}</section>
 <section aria-labelledby="fa-rubrique" id="rubrique"><h2 class="pv-section-title" id="fa-rubrique">Rubrique et raison du classement.</h2><dl class="pv-condition-list">{rub}{rai}</dl><p class="pv-source-note">{metier} Le référencement identifie un acteur. Il ne vaut ni note ni recommandation, et aucun paiement ne modifie un rang.</p></section>
-<section aria-labelledby="fa-liens" id="liens"><h2 class="pv-section-title" id="fa-liens">Site officiel et LinkedIn.</h2><dl class="pv-condition-list">{liens}</dl></section>
+{lien}<section aria-labelledby="fa-liens" id="liens"><h2 class="pv-section-title" id="fa-liens">Site officiel et LinkedIn.</h2><dl class="pv-condition-list">{liens}</dl></section>
 <section aria-labelledby="fa-activite" id="activite"><h2 class="pv-section-title" id="fa-activite">Activité documentée.</h2>{activite}</section>
 {pers}</div>
 <div><aside aria-labelledby="pv-compare-title" class="pv-compare" id="questions-avant-contact"><p class="pv-compare-label">Avant de prendre contact</p><h2 id="pv-compare-title">Trois questions utiles.</h2><ol>{q}</ol><a class="pv-secondary" href="/annuaire?metier={cat}">Voir les autres acteurs</a></aside>
@@ -275,7 +288,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 <div class="pv-bottom"><a href="/annuaire?metier={cat}">Retour à la catégorie</a><p>Le référencement ne vaut pas recommandation de l’Exit Club.</p></div>
 </main>
 """.format(cat=r["categorie"], label=e(c["label"]), av=av, logo=logo, activite=activite, nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
-           rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens),
+           rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens), lien=lien,
            pers=('<section aria-labelledby="fa-personnes" id="personnes"><h2 class="pv-section-title" id="fa-personnes">Personnes de la maison.</h2><ul class="fa-people">%s</ul></section>' % liste) if liste else "",
            q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
     return h + body + PIED
@@ -382,6 +395,9 @@ def main():
     personnes, vus, memes = [], {}, {}
     for r in retenus:
         r["dirigeants"] = sans_mandat_double(r["dirigeants"])
+        # Experts-comptables (lot du 12 novembre 2026) : fiches cabinets seulement. Les dirigeants du registre sont listés sur la fiche
+        # du cabinet avec leur qualité exacte, sans fiche personne et sans titre professionnel non vérifié à l'Ordre.
+        sans_pers = r["categorie"] == "experts-comptables"
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue
@@ -404,8 +420,10 @@ def main():
                 brut = nom_propre(prenom + " " + p["nom"])
                 nom = usuels.get(norm(brut), brut)
             incertain = (bool(m) and len(ok) != 1) or coupe
-            x = {"cle": cle, "siren": r["siren"], "nom": nom, "fonction": fonction, "slug": slugify(nom) if fonction_retenue(p["qualite"]) and not incertain else None}
-            if coupe and fonction_retenue(p["qualite"]):
+            x = {"cle": cle, "siren": r["siren"], "nom": nom, "fonction": fonction, "slug": slugify(nom) if fonction_retenue(p["qualite"]) and not incertain and not sans_pers else None}
+            if sans_pers:
+                pass
+            elif coupe and fonction_retenue(p["qualite"]):
                 manifeste["refus"].append({"personne": nom, "motif": "prénom composé mal saisi au registre : listée sur la fiche maison, pas de fiche personne"})
             elif incertain and fonction_retenue(p["qualite"]):
                 manifeste["refus"].append({"personne": nom, "motif": "deux noms au registre, nom professionnel non corroboré par le site de la maison : listée sur la fiche maison, pas de fiche personne"})

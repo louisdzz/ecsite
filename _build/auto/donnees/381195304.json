@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "D.M.P. ATLANTIQUE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381195304"
+ },
+ "siren": "381195304",
+ "denomination": "D.M.P. ATLANTIQUE",
+ "nom_complet": "D.M.P. ATLANTIQUE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1991-03-08",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381195304",
+ "maj_rne": "2026-09-27T03:15:45",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "FLG EXPERTISES",
+   "siren": "479362279",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "FD NANCESFI",
+   "siren": "809545346",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "BOUSSEAU EXPERTISE",
+   "siren": "810005835",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "MHM",
+   "siren": "924770118",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/381195304",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.dmpatlantique.com/",
+ "site_source": "https://www.dmpatlantique.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.dmpatlantique.com/cession/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder votre entreprise »).",
+    "extrait": "… Chef d’entreprise Profession libérale Contact Découvrez nos solutions pour céder votre entreprise en toute sérénité. Transmettre une entreprise n’est pas chose aisée en …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.dmpatlantique.com/cession/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

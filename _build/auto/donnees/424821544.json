@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ESSOR CONSEILS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/424821544"
+ },
+ "siren": "424821544",
+ "denomination": "ESSOR CONSEILS",
+ "nom_complet": "ESSOR CONSEILS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1999-08-01",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/424821544",
+ "maj_rne": "2026-09-27T04:56:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RABAH",
+   "nom": "AKSOUM",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/424821544",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cabinet-essorconseils.com/",
+ "site_source": "https://www.cabinet-essorconseils.com/mentions-legales-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cessions d’entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cabinet-essorconseils.com/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cessions d’entreprises »).",
+    "extrait": "… missions relatives aux acquisitions, apports, transformations, fusions ou cessions d’entreprises… Les missions fiscales Établissement et contrôle des déclarations fiscales …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cabinet-essorconseils.com/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

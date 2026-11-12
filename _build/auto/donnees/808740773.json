@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CAYOLA CONSULTING",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808740773"
+ },
+ "siren": "808740773",
+ "denomination": "CAYOLA CONSULTING",
+ "nom_complet": "CAYOLA CONSULTING (AUDITEURS ASSOCIES M)",
+ "sigle": null,
+ "enseigne": "AUDITEURS ASSOCIES M",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2014-12-19",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/808740773",
+ "maj_rne": "2026-09-25T04:14:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARIE CATHERINE GERMAINE JEANNE",
+   "nom": "DUROUCHOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NOEL ALAN HUBERT",
+   "nom": "THIBAUDEAU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/808740773",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cayola-consulting.fr/",
+ "site_source": "https://cayola-consulting.fr/mention-legale/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cayola-consulting.fr/entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+    "extrait": "… à la décision Evaluation Accompagnement création , acquisition, fusion et cession d’entreprise Gestion du capital humain Nous mettons en place un réel service RH externalisé …",
+    "label": "site officiel du cabinet",
+    "url": "https://cayola-consulting.fr/entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

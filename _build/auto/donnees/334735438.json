@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "SAINT GERMAIN AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334735438"
+ },
+ "siren": "334735438",
+ "denomination": "SAINT GERMAIN AUDIT",
+ "nom_complet": "SAINT GERMAIN AUDIT (SGA)",
+ "sigle": "SGA",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1986-01-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334735438",
+ "maj_rne": "2026-09-29T11:48:49",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ASKALON",
+   "siren": "909806770",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "EMH",
+   "siren": "910429356",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/334735438",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://saint-germain-audit.com/",
+ "site_source": "https://saint-germain-audit.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audits d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://saint-germain-audit.com/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audits d’acquisition »).",
+    "extrait": "… et des solutions adaptées à vos besoins spécifiques. Missions spéciales Audits d’acquisition , mise en place de normes et procédures ou encore direction financière …",
+    "label": "site officiel du cabinet",
+    "url": "https://saint-germain-audit.com/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

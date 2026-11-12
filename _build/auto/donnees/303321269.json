@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "DEXERIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/303321269"
+ },
+ "siren": "303321269",
+ "denomination": "DEXERIS",
+ "nom_complet": "DEXERIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1975-01-01",
+ "ville": "THANN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/303321269",
+ "maj_rne": "2026-09-22T10:46:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "KIEFFER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE",
+   "nom": "PETER",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-DOMINIQUE",
+   "nom": "RUMANN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "STORRER",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/303321269",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://dexeris.fr/",
+ "site_source": "https://dexeris.fr/informations-utilises/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://dexeris.fr/creation-cession-et-reprise-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d’entreprise »).",
+    "extrait": "… activité. Un accompagnement en 9 étapes pour transformer l’essai. Création évaluation d’entreprise cession et reprise Vous avez un projet de création d’entreprise ? Vous êtes …",
+    "label": "site officiel du cabinet",
+    "url": "https://dexeris.fr/creation-cession-et-reprise-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

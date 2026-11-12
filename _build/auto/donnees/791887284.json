@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "IDEO CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791887284"
+ },
+ "siren": "791887284",
+ "denomination": "IDEO CONSEIL",
+ "nom_complet": "IDEO CONSEIL (IDEO AUDIT)",
+ "sigle": null,
+ "enseigne": "IDEO AUDIT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-03-15",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791887284",
+ "maj_rne": "2026-09-24T21:37:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "GILLES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MIKAEL",
+   "nom": "JOULAIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/791887284",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.ideo-conseil.fr/",
+ "site_source": "https://www.ideo-conseil.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.ideo-conseil.fr/nos-domaines/creation-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… domaines Création d'entreprise Comptabilité et Fiscalité RH et Paie Reprise et transmission d'entreprise Audit et commissariat aux comptes Lutte contre la fraude Le fruit de notre …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.ideo-conseil.fr/nos-domaines/creation-d-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

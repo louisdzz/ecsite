@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "SECNO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301482543"
+ },
+ "siren": "301482543",
+ "denomination": "SECNO",
+ "nom_complet": "SECNO (SECNO)",
+ "sigle": "SECNO",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1975-01-01",
+ "ville": "MONT-SAINT-AIGNAN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301482543",
+ "maj_rne": "2026-09-22T10:50:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RODOLPHE DIDIER FABIEN",
+   "nom": "BERLEMONT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOIC ROGER JOSEPH",
+   "nom": "BOUDIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK LAURENT",
+   "nom": "DUCLOS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "REYNALD GERARD GEORGES MICHEL",
+   "nom": "LECOMTE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE BENOIT ALAIN",
+   "nom": "LEVASSEUR",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "GROUPE SECNO",
+   "siren": "982004988",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/301482543",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://secno.fr/",
+ "site_source": "https://secno.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://secno.fr/reprise-transmission-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission entreprise »).",
+    "extrait": "… paie RH : conseil social Commissariat aux comptes Droit des sociétés Reprise transmission entreprise Secteurs d’activités Le cabinet Notre histoire Nos valeurs Index de l’égalité …",
+    "label": "site officiel du cabinet",
+    "url": "https://secno.fr/reprise-transmission-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

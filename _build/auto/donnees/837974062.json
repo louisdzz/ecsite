@@ -1,0 +1,81 @@
+{
+ "nom_usuel": "LASRY FINANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/837974062"
+ },
+ "siren": "837974062",
+ "denomination": "LASRY FINANCE",
+ "nom_complet": "LASRY FINANCE (LASRY FINANCE)",
+ "sigle": null,
+ "enseigne": "LASRY FINANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/837974062",
+ "maj_rne": "2026-09-25T18:59:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JOELLE MARIE",
+   "nom": "SITBON (LASRY)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/837974062",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.lasry-finance.com/",
+ "site_source": "https://www.lasry-finance.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Evaluation financière »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.lasry-finance.com/evaluation-financiere"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Evaluation financière »).",
+    "extrait": "… Lasry Finance | Evaluation financière | France top of page Accueil Services EVALUATION FINANCIERE ASSISTANCE AUX …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.lasry-finance.com/evaluation-financiere",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   },
+   {
+    "critere": "complement",
+    "texte": "Cité dans le classement « Fusions & Acquisitions - Évaluation financière & commissariat aux apports et à la fusion - Cabinet d'audit & d'expertise comptable - France - 2025 » de Leaders League, édition 2025.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-evaluation-financiere-and-commissariat-aux-apports-et-a-la-fusion-cabinet-d-audit-and-d-expertise-comptable-france-2025",
+    "date": "2026-11-12"
+   },
+   {
+    "critere": "complement",
+    "texte": "Cité dans le classement « Capital investissement - Évaluation financière & commissariat aux apports et à la fusion - Cabinet d'audit & d'expertise comptable - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/capital-investissement-evaluation-financiere-and-commissariat-aux-apports-et-a-la-fusion-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

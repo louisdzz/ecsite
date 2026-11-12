@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "ACCOMPAGNEMENT STRATEGIE LOIRE-ATLANTIQUE VENDEE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384324166"
+ },
+ "siren": "384324166",
+ "denomination": "ACCOMPAGNEMENT STRATEGIE LOIRE-ATLANTIQUE VENDEE",
+ "nom_complet": "ACCOMPAGNEMENT STRATEGIE LOIRE-ATLANTIQUE VENDEE (AS44)",
+ "sigle": "AS44",
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "1984-12-03",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384324166",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/384324166",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.as44-85.fr/",
+ "site_source": "https://www.as44-85.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.as44-85.fr/souhaits/transmettre-ou-ceder/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… l’humain et la continuité de l’activité. Le passage de témoin à travers une transmission d’entreprise familiale ou une vente est une étape capitale dans votre vie d’entrepreneur et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.as44-85.fr/souhaits/transmettre-ou-ceder/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

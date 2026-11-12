@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "CABINET PAQUIER & ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/318123205"
+ },
+ "siren": "318123205",
+ "denomination": "CABINET PAQUIER & ASSOCIES",
+ "nom_complet": "CABINET PAQUIER & ASSOCIES (PAQUIER & ASSOCIES)",
+ "sigle": null,
+ "enseigne": "PAQUIER & ASSOCIES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1980-01-01",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/318123205",
+ "maj_rne": "2026-09-22T11:59:32",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "GERON EXPERTISE COMPTABLE ET AUDIT",
+   "siren": "501673149",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "STEOLI",
+   "siren": "802441360",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "EPIMONI EXPERTISE",
+   "siren": "912272648",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/318123205",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cabinet-paquier.fr/",
+ "site_source": "https://www.cabinet-paquier.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cabinet-paquier.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… Prévisionnels - Evaluations PÔLE AUDIT Audit légal Audit contractuel Audit d’acquisition Audit des procédures internes PÔLE JURIDIQUE Approbation des Comptes Création …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cabinet-paquier.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

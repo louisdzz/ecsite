@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "JMH CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/330686635"
+ },
+ "siren": "330686635",
+ "denomination": "JMH CONSEIL",
+ "nom_complet": "JMH CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1984-09-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/330686635",
+ "maj_rne": "2026-09-22T13:56:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "CORREGE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "SOUSA FERREIRA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/330686635",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinet-jmh.com/",
+ "site_source": "https://cabinet-jmh.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « due diligence »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinet-jmh.com/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « due diligence »).",
+    "extrait": "… conseil de gestion Commissariat aux Comptes Audit légal, certification, due diligence Pôle Social Paie, déclarations sociales, droit du travail Gestion du …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinet-jmh.com/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

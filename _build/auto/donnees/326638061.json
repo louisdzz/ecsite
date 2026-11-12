@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "APSIS AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326638061"
+ },
+ "siren": "326638061",
+ "denomination": "APSIS AUDIT",
+ "nom_complet": "APSIS AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1983-02-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326638061",
+ "maj_rne": "2026-09-22T13:21:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIETTE",
+   "nom": "CHANTEREAU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERALDINE",
+   "nom": "DENE (DELAS)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUBERT",
+   "nom": "DROUETS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/326638061",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.apsis-audit.com/",
+ "site_source": "https://www.apsis-audit.com/newpage2",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due diligences »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.apsis-audit.com/due-diligences-et-audit-contractuel"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due diligences »).",
+    "extrait": "… Due diligences, transaction services et restructuration ACCUEIL NOS METIERS …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.apsis-audit.com/due-diligences-et-audit-contractuel",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

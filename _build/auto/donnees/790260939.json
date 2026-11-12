@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "F.B AUDIT-EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790260939"
+ },
+ "siren": "790260939",
+ "denomination": "F.B AUDIT-EXPERTISE",
+ "nom_complet": "F.B AUDIT-EXPERTISE (F.B AUDIT-EXPERTISE) (F.B A-E)",
+ "sigle": "F.B A-E",
+ "enseigne": "F.B AUDIT-EXPERTISE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-01-02",
+ "ville": "CARBONNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/790260939",
+ "maj_rne": "2026-09-24T20:52:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLORENT",
+   "nom": "BERNIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/790260939",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fbauditexpertise.fr/",
+ "site_source": "https://fbauditexpertise.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fbauditexpertise.fr/creer-et-reprendre-une-activite/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… préalable du projet Étude de la structure ciblée (marché, organisation…) Audit d’acquisition Conception du business plan Montage juridique (holding, groupe…) et financier …",
+    "label": "site officiel du cabinet",
+    "url": "https://fbauditexpertise.fr/creer-et-reprendre-une-activite/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

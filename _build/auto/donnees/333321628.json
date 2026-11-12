@@ -1,0 +1,109 @@
+{
+ "nom_usuel": "SYGNATURES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/333321628"
+ },
+ "siren": "333321628",
+ "denomination": "SYGNATURES",
+ "nom_complet": "SYGNATURES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1985-08-12",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "22",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/333321628",
+ "maj_rne": "2026-09-29T11:09:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE ALAIN",
+   "nom": "BENZONI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "BERNAT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD PASCAL",
+   "nom": "BROCHARD",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE CLAUDE",
+   "nom": "FALSON (DUSSARDIER)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-YVES",
+   "nom": "GAILLAT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "LAFFONT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE",
+   "nom": "OSES",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN EMMANUEL",
+   "nom": "PAIDE",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/333321628",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.sygnatures.com/",
+ "site_source": "https://www.sygnatures.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.sygnatures.com/services/acquisition-cession-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Acquisition et cession d'entreprise - Sygnatures À propos Un peu d’histoire… Notre équipe Nos implantations Nos …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.sygnatures.com/services/acquisition-cession-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

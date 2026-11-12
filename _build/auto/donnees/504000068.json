@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ADVELIA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504000068"
+ },
+ "siren": "504000068",
+ "denomination": "ADVELIA",
+ "nom_complet": "ADVELIA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-04-14",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504000068",
+ "maj_rne": "2026-09-24T04:04:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE JEAN PAUL",
+   "nom": "SIMON",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/504000068",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://advelia.com/",
+ "site_source": "https://advelia.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://advelia.com/services/entreprises"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… rédaction de la lettre d'intention, protocole de cession, acte de vente et audit d'acquisition pour sécuriser votre projet. Comptabilité Organisation sur mesure : tenue …",
+    "label": "site officiel du cabinet",
+    "url": "https://advelia.com/services/entreprises",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

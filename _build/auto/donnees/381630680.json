@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "AD EX OUEST",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381630680"
+ },
+ "siren": "381630680",
+ "denomination": "AD EX OUEST",
+ "nom_complet": "AD EX OUEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1991-03-25",
+ "ville": "CESSON-SEVIGNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381630680",
+ "maj_rne": "2026-09-22T19:35:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN DAVID STEPHANE",
+   "nom": "CHERRUAULT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-PIERRE",
+   "nom": "GERMAIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/381630680",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.adexouest.com/",
+ "site_source": "https://www.adexouest.com/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.adexouest.com/nos-expertises/patrimoine-et-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… des éléments impactant votre patrimoine : Accompagnement à la reprise ou à la transmission d’entreprise, Conseil sur le mode d’installation (nom propre ou entreprise individuelle …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.adexouest.com/nos-expertises/patrimoine-et-transmission",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

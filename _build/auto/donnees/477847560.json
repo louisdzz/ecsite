@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "A 4 CONSEILS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477847560"
+ },
+ "siren": "477847560",
+ "denomination": "A 4 CONSEILS",
+ "nom_complet": "A 4 CONSEILS (LACYME)",
+ "sigle": null,
+ "enseigne": "LACYME",
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2004-07-07",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477847560",
+ "maj_rne": "2026-09-23T18:08:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PAULINE MARIE",
+   "nom": "ROUGE (GANDINI)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "LENOIR (LENOIR)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "LUCCIONI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "MAINE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "MONESTIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/477847560",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.lacyme.fr/",
+ "site_source": "https://www.lacyme.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Valorisation de l’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.lacyme.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Valorisation de l’entreprise »).",
+    "extrait": "… et pactes spécifiques, commissariat aux comptes et audits. Fin d’activité Valorisation de l’entreprise, modalités de cession ou de transmission de l’entreprise, recherche …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.lacyme.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

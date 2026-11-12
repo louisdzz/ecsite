@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "MEDITEC PROVENCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480059211"
+ },
+ "siren": "480059211",
+ "denomination": "MEDITEC PROVENCE",
+ "nom_complet": "MEDITEC PROVENCE (ODYCE MEDITEC)",
+ "sigle": null,
+ "enseigne": "ODYCE MEDITEC",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-12-23",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480059211",
+ "maj_rne": "2026-09-28T21:45:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "FILIPPI",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "MEYER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pm",
+   "denomination": "ODYCE FIDEA SAS",
+   "siren": "390446946",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/480059211",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.meditecprovence.com/",
+ "site_source": "https://www.meditecprovence.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation de l’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.meditecprovence.com/evaluation-cession-acquisition"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation de l’entreprise »).",
+    "extrait": "… de valeur et mettant en évidence les leviers influant la valorisation. L’évaluation de l’entreprise est une étape incontournable dans bon nombre de projets structurants …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.meditecprovence.com/evaluation-cession-acquisition",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

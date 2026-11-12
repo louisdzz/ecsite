@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AXENS AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449532670"
+ },
+ "siren": "449532670",
+ "denomination": "AXENS AUDIT",
+ "nom_complet": "AXENS AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-07-30",
+ "ville": "SAINT-ETIENNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449532670",
+ "maj_rne": "2026-09-23T15:40:29",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ENERGIE POSITIVE",
+   "siren": "840495816",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/449532670",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.axens-audit.fr/",
+ "site_source": "https://www.axens-audit.fr/a-propos-des-cookies/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.axens-audit.fr/accompagnement-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+    "extrait": "… projet de reprise d’entreprise. Nos experts métiers vous accompagnent sur l’audit d’acquisition, audit social, budget prévisionnel… et toutes les étapes de reprise. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.axens-audit.fr/accompagnement-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

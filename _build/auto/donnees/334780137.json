@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "AISNE COMPTAGRI",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334780137"
+ },
+ "siren": "334780137",
+ "denomination": "AISNE COMPTAGRI",
+ "nom_complet": "AISNE COMPTAGRI",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "1986-01-01",
+ "ville": "LAON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/334780137",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/334780137",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.aisne-comptagri.fr/",
+ "site_source": "https://www.aisne-comptagri.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.aisne-comptagri.fr/offres/strategie-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+    "extrait": "… TRANSMISSION Votre conseiller mesurera avec vous toutes les incidences de la transmission de votre entreprise et vous aidera à préparer votre cession dans les meilleures conditions. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.aisne-comptagri.fr/offres/strategie-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

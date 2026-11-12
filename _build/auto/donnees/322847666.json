@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CEGB EXPERTISE COMPTABLE ET AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/322847666"
+ },
+ "siren": "322847666",
+ "denomination": "CEGB EXPERTISE COMPTABLE ET AUDIT",
+ "nom_complet": "CEGB EXPERTISE COMPTABLE ET AUDIT (CEGB)",
+ "sigle": "CEGB",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1981-09-01",
+ "ville": "VINCENNES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/322847666",
+ "maj_rne": "2026-09-22T12:36:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LUDOVIC",
+   "nom": "LE TESTU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LOUP",
+   "nom": "ROGÉ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/322847666",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinet-cegb.fr/",
+ "site_source": "https://cabinet-cegb.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation de votre société »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinet-cegb.fr/creation-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation de votre société »).",
+    "extrait": "… Conseils juridiques / Droit des sociétés Financement, transmission et évaluation de votre société Audit et Commissariat aux comptes NEWSLETTER Abonnez-vous à notre newsletter …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinet-cegb.fr/creation-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

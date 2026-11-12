@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "FIDUCIAIRE PARIS RHONE ALPES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491546198"
+ },
+ "siren": "491546198",
+ "denomination": "FIDUCIAIRE PARIS RHONE ALPES",
+ "nom_complet": "FIDUCIAIRE PARIS RHONE ALPES (FIPAR)",
+ "sigle": "FIPAR",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-08-01",
+ "ville": "CHATEAU-GAILLARD",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491546198",
+ "maj_rne": "2026-09-23T23:42:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT ROGER JEAN",
+   "nom": "AUGER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT RENE FRANCOIS",
+   "nom": "LAGARDE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/491546198",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinet-fipar.fr/",
+ "site_source": "https://cabinet-fipar.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinet-fipar.fr/expertises/creation-reprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+    "extrait": "… en premier lieu, à confirmer la valeur d’achat de l’entreprise en réalisant un audit d’acquisition. Cet audit permettra, par une vérification des comptes, de recouper les …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinet-fipar.fr/expertises/creation-reprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

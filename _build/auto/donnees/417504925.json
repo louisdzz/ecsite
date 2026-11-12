@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "DEREPAS SASSO ORGANISATION",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417504925"
+ },
+ "siren": "417504925",
+ "denomination": "DEREPAS SASSO ORGANISATION",
+ "nom_complet": "DEREPAS SASSO ORGANISATION (DSO - LM PARTENAIRE - DSO PERFORMANCES - DSO RESSOURCES HUMAINES - DSO JURIDIQUE - DSO OPEN - DSO CO) (DSO)",
+ "sigle": "DSO",
+ "enseigne": "DSO - LM PARTENAIRE - DSO PERFORMANCES - DSO RESSOURCES HUMAINES - DSO JURIDIQUE - DSO OPEN - DSO CO",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-01-01",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/417504925",
+ "maj_rne": "2026-09-27T04:48:17",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ABD EXPERTISE",
+   "siren": "521974741",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "CALLIOPE EXPERTISE",
+   "siren": "521974774",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "L'ARCHE",
+   "siren": "989236781",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "ALTERAN INVEST",
+   "siren": "989237342",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "NIKAIA INVEST",
+   "siren": "989266499",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/417504925",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.dso.fr/",
+ "site_source": "https://www.dso.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.dso.fr/missions/cession-et-acquisition/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Accompagnement fusion, achat, rachat ou cession d'entreprise à Nice (06) Aller au contenu Recrutement | LE GROUPE DSO PANACÉE EXPERTISE …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.dso.fr/missions/cession-et-acquisition/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

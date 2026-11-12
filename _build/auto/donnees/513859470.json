@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "PREMIER MONDE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513859470"
+ },
+ "siren": "513859470",
+ "denomination": "PREMIER MONDE",
+ "nom_complet": "PREMIER MONDE (PREMIER MONDE - CAP CONSEIL - MEUNIER ET ASSOCIES - PM AUDIT)",
+ "sigle": null,
+ "enseigne": "PREMIER MONDE - CAP CONSEIL - MEUNIER ET ASSOCIES - PM AUDIT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-07-08",
+ "ville": "VILLEURBANNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513859470",
+ "maj_rne": "2026-09-24T07:02:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE JEAN",
+   "nom": "BONNEPART",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE CHRISTIAN MAURICE",
+   "nom": "JACQUEMET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "ROSSI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO JEAN",
+   "nom": "RUSCON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK MICHEL LOUIS",
+   "nom": "VELAY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME MICHEL",
+   "nom": "VERSET",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/513859470",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.premiermonde.fr/",
+ "site_source": "https://www.premiermonde.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.premiermonde.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… CINÉMA ÉNERGIES RENOUVELABLES INTERNATIONAL Previous Next Audit légal Audit d’acquisition Comptabilité Conseil Social Juridique Fiscalité Optimisation patrimoniale …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.premiermonde.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

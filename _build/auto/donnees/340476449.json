@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "NAVISEO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340476449"
+ },
+ "siren": "340476449",
+ "denomination": "NAVISEO",
+ "nom_complet": "NAVISEO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1987-01-29",
+ "ville": "ELBEUF",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340476449",
+ "maj_rne": "2026-09-29T12:49:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUGUES PIERRE LUC",
+   "nom": "RODRIGUEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE LOUIS JACQUES",
+   "nom": "RODRIGUEZ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/340476449",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.naviseo.fr/",
+ "site_source": "https://www.naviseo.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.naviseo.fr/nos-missions/creer-reprendre"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+    "extrait": "… vous envisagez d’acquérir. Nos équipes peuvent intervenir dans le cadre d’un audit d’acquisition afin d’analyser les données financières, comptables, fiscales, sociales et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.naviseo.fr/nos-missions/creer-reprendre",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

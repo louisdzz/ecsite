@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "PROCOMPTA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/662820349"
+ },
+ "siren": "662820349",
+ "denomination": "PROCOMPTA",
+ "nom_complet": "PROCOMPTA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1966-01-01",
+ "ville": "ECOLE-VALENTIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "22",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/662820349",
+ "maj_rne": "2026-09-24T17:10:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ALAIN MARCEL GEORGES",
+   "nom": "BARTHELEMY",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO ANDRE MARIE",
+   "nom": "GUYON",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/662820349",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.procompta.com/",
+ "site_source": "https://www.procompta.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.procompta.com/fusion-acquisition"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+    "extrait": "… Accueil Droit des sociétés Fusion-acquisition Avocat en fusion-acquisition - Évaluation d’entreprise, fusion et audit d'acquisition d'entreprise J'ai besoin de vous Vous êtes sur …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.procompta.com/fusion-acquisition",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

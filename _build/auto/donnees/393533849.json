@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "GROUPE LAVIALE AUDIT, CONSEIL, EXPERTISE COMPTABLE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393533849"
+ },
+ "siren": "393533849",
+ "denomination": "GROUPE LAVIALE AUDIT, CONSEIL, EXPERTISE COMPTABLE",
+ "nom_complet": "GROUPE LAVIALE AUDIT, CONSEIL, EXPERTISE COMPTABLE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1994-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393533849",
+ "maj_rne": "2026-09-22T22:44:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CECILE THERESE MARIE",
+   "nom": "ROLLIN (LAVIALE)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CEDRIC GERARD",
+   "nom": "LODDE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC ROGER",
+   "nom": "MESSINA",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE PAUL",
+   "nom": "MOISSET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC DENIS JEAN-LOUIS",
+   "nom": "ROLLIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/393533849",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.laviale.com/",
+ "site_source": "https://www.laviale.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder son entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.laviale.com/missions/evaluer-son-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder son entreprise »).",
+    "extrait": "… Commissariat aux comptes Cession acquisition Patrimoine Evaluer son entreprise Céder son entreprise Reprendre son entreprise Besoin d’un conseil ? Nous contacter Evaluer son …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.laviale.com/missions/evaluer-son-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

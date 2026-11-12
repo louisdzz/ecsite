@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "SOCIETE D'EXPERTISE COMPTABLE DE GESTION ET D'ETUDES FINANCIERES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/308876705"
+ },
+ "siren": "308876705",
+ "denomination": "SOCIETE D'EXPERTISE COMPTABLE DE GESTION ET D'ETUDES FINANCIERES",
+ "nom_complet": "SOCIETE D'EXPERTISE COMPTABLE DE GESTION ET D'ETUDES FINANCIERES (SECOGEFI)",
+ "sigle": "SECOGEFI",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1976-01-01",
+ "ville": "MARTIGUES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/308876705",
+ "maj_rne": "2026-09-22T11:05:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "BERARD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/308876705",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.secogefi.fr/",
+ "site_source": "https://www.secogefi.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.secogefi.fr/vous-accompagner/accompagnement-acquisition-&-vente-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+    "extrait": "… Acquisition & cession d’entreprise - Expert comptable …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.secogefi.fr/vous-accompagner/accompagnement-acquisition-&-vente-d-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

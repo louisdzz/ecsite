@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "EXPERTS TEAM",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452115223"
+ },
+ "siren": "452115223",
+ "denomination": "EXPERTS TEAM",
+ "nom_complet": "EXPERTS TEAM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-01-21",
+ "ville": "LAMBERSART",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/452115223",
+ "maj_rne": "2026-09-27T05:36:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ESTELLE",
+   "nom": "MAYEUR (DEGAND)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN EDOUARD",
+   "nom": "LAMBERT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "MAYEUR",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CORALIE",
+   "nom": "MOULLIERE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/452115223",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.expertsteam.fr/",
+ "site_source": "https://www.expertsteam.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.expertsteam.fr/nos-missions?goto=creation-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… aux apports Commissariat à la fusion Commissariat à la transformation Audit d'acquisition PATRIMOINE DU DIRIGEANT Notre mission réalisée par nos experts et nos …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.expertsteam.fr/nos-missions?goto=creation-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

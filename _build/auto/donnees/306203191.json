@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "AS CEFIGA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/306203191"
+ },
+ "siren": "306203191",
+ "denomination": "AS CEFIGA",
+ "nom_complet": "AS CEFIGA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "1900-01-01",
+ "ville": "LE MANS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "22",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/306203191",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/306203191",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cefiga.fr/",
+ "site_source": "https://www.cefiga.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cefiga.fr/souhaits/transmettre-ou-ceder/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… pour réussir cette étape clé sereinement. Le passage de témoin à travers une transmission d’entreprise familiale ou une vente est une étape capitale dans votre vie d’entrepreneur et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cefiga.fr/souhaits/transmettre-ou-ceder/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

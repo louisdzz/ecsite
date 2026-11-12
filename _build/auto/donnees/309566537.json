@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "HOCHE AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/309566537"
+ },
+ "siren": "309566537",
+ "denomination": "HOCHE AUDIT",
+ "nom_complet": "HOCHE AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1990-01-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/309566537",
+ "maj_rne": "2026-09-22T11:13:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE HERMANCE",
+   "nom": "ZERMATI (GARSON)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "PIGNY",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/309566537",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.hoche-audit.fr/",
+ "site_source": "https://www.hoche-audit.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.hoche-audit.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d’entreprise »).",
+    "extrait": "… de consolidation des comptes au niveau groupe, d’audit contractuel et d’évaluation d’entreprise. En outre, les experts-comptables fournissent des services de commissariat aux …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.hoche-audit.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

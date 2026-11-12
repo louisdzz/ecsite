@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "GEO CONSEILS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/394628473"
+ },
+ "siren": "394628473",
+ "denomination": "GEO CONSEILS",
+ "nom_complet": "GEO CONSEILS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1994-03-01",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/394628473",
+ "maj_rne": "2026-09-22T23:07:13",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "BK CONSEILS",
+   "siren": "915305932",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "EXPERT 5C",
+   "siren": "919627935",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "GAME",
+   "siren": "919843110",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "HSB EXPERTISE",
+   "siren": "982720492",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/394628473",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.geo-conseils.fr/",
+ "site_source": "https://www.geo-conseils.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.geo-conseils.fr/transmission/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession de votre entreprise »).",
+    "extrait": "… ensemble donnons à votre projet toutes les chances de succès Vous préparez la cession de votre entreprise et cherchez un accompagnement structuré ? La cession d’une entreprise est une …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.geo-conseils.fr/transmission/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

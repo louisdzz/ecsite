@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "SOC ORGAN GESTION EXPERT CONTROLE COMPTA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/612045823"
+ },
+ "siren": "612045823",
+ "denomination": "SOC ORGAN GESTION EXPERT CONTROLE COMPTA",
+ "nom_complet": "SOC ORGAN GESTION EXPERT CONTROLE COMPTA (SOGECC)",
+ "sigle": "SOGECC",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1961-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/612045823",
+ "maj_rne": "2026-09-24T16:56:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KARINE",
+   "nom": "GOTHEIL (GHENASSIA)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE ALPHONSE",
+   "nom": "GHENASSIA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "HAGEGE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CLAUDE",
+   "nom": "HAGEGE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JORGE IGNACIO",
+   "nom": "MIRANDA PEREZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "REVISION AUDIT FRANCE",
+   "siren": "352406508",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/612045823",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://sogecc.com/",
+ "site_source": "https://sogecc.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://sogecc.com/creer-et-reprendre-une-activite/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… autour du projet Étude de la structure ciblée (marché, organisation…) Audit d’acquisition Conception du business plan Montage juridique (holding, groupe…) et financier …",
+    "label": "site officiel du cabinet",
+    "url": "https://sogecc.com/creer-et-reprendre-une-activite/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

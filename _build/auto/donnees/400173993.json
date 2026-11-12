@@ -1,0 +1,85 @@
+{
+ "nom_usuel": "BS EXPERTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/400173993"
+ },
+ "siren": "400173993",
+ "denomination": "BS EXPERTS",
+ "nom_complet": "BS EXPERTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1995-02-01",
+ "ville": "AVIGNON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/400173993",
+ "maj_rne": "2026-10-08T16:18:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "BODRITO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "MARTINEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "SANCHEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "FECS",
+   "siren": "908740236",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/400173993",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.bs-experts.fr/",
+ "site_source": "https://www.bs-experts.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.bs-experts.fr/service/mission-evaluation/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « évaluation d'entreprise »).",
+    "extrait": "… Services > Conseil > Mission Evaluation Search for: Valider Notre mission évaluation d'entreprise La question : « Combien vaut mon entreprise? » doit être une préoccupation …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.bs-experts.fr/service/mission-evaluation/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

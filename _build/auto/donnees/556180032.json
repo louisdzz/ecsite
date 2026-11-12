@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "FIMECO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/556180032"
+ },
+ "siren": "556180032",
+ "denomination": "FIMECO",
+ "nom_complet": "FIMECO (FIMECO)",
+ "sigle": "FIMECO",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1977-01-01",
+ "ville": "SAINTES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "31",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/556180032",
+ "maj_rne": "2026-09-24T16:06:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CLAUDE",
+   "nom": "FERRON",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "FERRON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME ANTOINE",
+   "nom": "PERNOT",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/556180032",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.fimeco-walter-allinial.com/",
+ "site_source": "https://www.fimeco-walter-allinial.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.fimeco-walter-allinial.com/je-lance-mon-projet-entrepreneurial/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Connaître la valeur de votre entreprise pour mieux décider Transmission et cession d'entreprise Accompagnement juridique, fiscal et humain de votre projet Préparer ma …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.fimeco-walter-allinial.com/je-lance-mon-projet-entrepreneurial/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

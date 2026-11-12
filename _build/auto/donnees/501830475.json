@@ -1,0 +1,121 @@
+{
+ "nom_usuel": "ALTONEO DEVELOPPEMENT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501830475"
+ },
+ "siren": "501830475",
+ "denomination": "ALTONEO DEVELOPPEMENT",
+ "nom_complet": "ALTONEO DEVELOPPEMENT (ALTONEO)",
+ "sigle": null,
+ "enseigne": "ALTONEO",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-01-07",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501830475",
+ "maj_rne": "2026-09-24T03:16:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "BOISNARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID JOSEPH PATRICK",
+   "nom": "COCHERY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOIC",
+   "nom": "GRANGER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "MALCOSTE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN",
+   "nom": "MASSICOT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "MERIENNE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "NOGUET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "RIVAL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "SAGET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "THETIOT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/501830475",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://altoneo.com/",
+ "site_source": "https://altoneo.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'Entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://altoneo.com/services/cession-transmission-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'Entreprise »).",
+    "extrait": "… Cession & Transmission d'Entreprise | Altonéo Aller au contenu Votre recherche Search for: Search Button Replay …",
+    "label": "site officiel du cabinet",
+    "url": "https://altoneo.com/services/cession-transmission-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

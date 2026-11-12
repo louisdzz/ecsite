@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "THOUNY VARIERAS ET ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379598824"
+ },
+ "siren": "379598824",
+ "denomination": "THOUNY VARIERAS ET ASSOCIES",
+ "nom_complet": "THOUNY VARIERAS ET ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1990-10-01",
+ "ville": "NOISY-LE-GRAND",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379598824",
+ "maj_rne": "2026-09-22T19:01:59",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "CIRCEE CONSULTING",
+   "siren": "539539940",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/379598824",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.thouny-varieras.com/",
+ "site_source": "https://www.thouny-varieras.com/mentions-legales-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.thouny-varieras.com"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… individuelle : Prévoyance sociale du chef d'entreprise Assistance à la transmission d'entreprise Nos missions informatiques Analyse des besoins en matériels et en logiciels …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.thouny-varieras.com",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

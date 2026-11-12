@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "ACCOMPAGNEMENT STRATEGIE OISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451083653"
+ },
+ "siren": "451083653",
+ "denomination": "ACCOMPAGNEMENT STRATEGIE OISE",
+ "nom_complet": "ACCOMPAGNEMENT STRATEGIE OISE (AS 60)",
+ "sigle": "AS 60",
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "2003-10-01",
+ "ville": "BEAUVAIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451083653",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/451083653",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.as60.fr/",
+ "site_source": "https://www.as60.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder son entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.as60.fr/souhaits/creer-ou-reprendre-une-entreprise-agricole/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder son entreprise »).",
+    "extrait": "… s’adapter aux nouveaux enjeux du marché est indispensable pour… Transmettre ou céder son entreprise La transmission ou la cession d’une entreprise est une étape importante pour …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.as60.fr/souhaits/creer-ou-reprendre-une-entreprise-agricole/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

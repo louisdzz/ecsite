@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CIMERGENCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388074247"
+ },
+ "siren": "388074247",
+ "denomination": "CIMERGENCE",
+ "nom_complet": "CIMERGENCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "1992-07-06",
+ "ville": "BRIANCON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388074247",
+ "maj_rne": "2026-09-22T21:12:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SIMON",
+   "nom": "HONORE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOLANGE",
+   "nom": "RANCON",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/388074247",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cimergence.fr/",
+ "site_source": "https://www.cimergence.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cimergence.fr/missions/levaluation-de-votre-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+    "extrait": "… Évaluation d’entreprise : estimez sa valeur avec CIMERGENCE Nous rejoindre Nos actualités Mes accès …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cimergence.fr/missions/levaluation-de-votre-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ABAQUE - AUDEXCOM",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813242740"
+ },
+ "siren": "813242740",
+ "denomination": "ABAQUE - AUDEXCOM",
+ "nom_complet": "ABAQUE - AUDEXCOM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-08-01",
+ "ville": "SAINT-JEAN-DE-VEDAS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813242740",
+ "maj_rne": "2026-09-25T06:36:00",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "AUDEXCOM CONCERTO",
+   "siren": "808680482",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "OPTIMAX",
+   "siren": "939629994",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/813242740",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.audexcom.fr/",
+ "site_source": "https://www.audexcom.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.audexcom.fr/nos-expertises/creation-reprise-et-cession-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+    "extrait": "… Création, reprise et cession d’entreprise - AUDEXCOM Expert-comptable à Montpellier et Perpignan Demande de devis …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.audexcom.fr/nos-expertises/creation-reprise-et-cession-d-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

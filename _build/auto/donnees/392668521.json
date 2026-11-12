@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ADC GUYANE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392668521"
+ },
+ "siren": "392668521",
+ "denomination": "ADC GUYANE",
+ "nom_complet": "ADC GUYANE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1993-07-01",
+ "ville": "REMIRE-MONTJOLY",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392668521",
+ "maj_rne": "2026-10-16T04:19:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "BERTHELOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "ACTI",
+   "siren": "952491959",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/392668521",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.adcguyane.com/",
+ "site_source": "https://www.adcguyane.com/etre-rappele",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.adcguyane.com/notre-cabinet/notre-culture-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… Expertise comptable Gestion de l’entreprise Gestion du patrimoine Évaluation - transmission d’entreprise Externaliser ses fonctions administratives ou comptables Social et paie …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.adcguyane.com/notre-cabinet/notre-culture-d-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

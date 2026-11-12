@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "EUREDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383724168"
+ },
+ "siren": "383724168",
+ "denomination": "EUREDIT",
+ "nom_complet": "EUREDIT (EUREDIT)",
+ "sigle": null,
+ "enseigne": "EUREDIT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1991-11-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383724168",
+ "maj_rne": "2026-09-22T20:18:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "MERLE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES ALAIN MARIE",
+   "nom": "PARENT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTELLE",
+   "nom": "EVE (SAVY)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "VALY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "ORIAL DEVELOPPEMENT",
+   "siren": "480191634",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/383724168",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.euredit.fr/",
+ "site_source": "https://www.euredit.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « TRANSMISSION D’ENTREPRISE »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.euredit.fr/accompagnement-du-dirigeant/transmission-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « TRANSMISSION D’ENTREPRISE »).",
+    "extrait": "… TRANSMISSION D’ENTREPRISE - Euredit Notre société Nos métiers Nos experts vous accompagnent TRANSMISSION …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.euredit.fr/accompagnement-du-dirigeant/transmission-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

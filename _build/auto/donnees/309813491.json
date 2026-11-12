@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "SOCIETE D'EXPERTISE COMPTABLE D'ORGANISATION ET DE REVISION DE L'ATLANTIQUE SECORA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/309813491"
+ },
+ "siren": "309813491",
+ "denomination": "SOCIETE D'EXPERTISE COMPTABLE D'ORGANISATION ET DE REVISION DE L'ATLANTIQUE SECORA",
+ "nom_complet": "SOCIETE D'EXPERTISE COMPTABLE D'ORGANISATION ET DE REVISION DE L'ATLANTIQUE SECORA (SECORA)",
+ "sigle": "SECORA",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1977-01-01",
+ "ville": "SAINT-HERBLAIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/309813491",
+ "maj_rne": "2026-09-28T16:14:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT JEAN HENRI",
+   "nom": "DENAUD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/309813491",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.secora.fr/",
+ "site_source": "https://www.secora.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.secora.fr/creation-transmission-dentreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Création & transmission d'entreprise Notre histoire Nos missions Expertise-Comptable Conseil juridique Conseils & …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.secora.fr/creation-transmission-dentreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

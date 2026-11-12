@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FIDEIS CONSULTANTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/447528498"
+ },
+ "siren": "447528498",
+ "denomination": "FIDEIS CONSULTANTS",
+ "nom_complet": "FIDEIS CONSULTANTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-02-19",
+ "ville": "SAINT-CONTEST",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/447528498",
+ "maj_rne": "2026-09-23T14:38:34",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "GCA",
+   "siren": "987719051",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/447528498",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fideis.fr/",
+ "site_source": "https://fideis.fr/competences/?service=1",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Evaluation de l’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fideis.fr/competences/?service=2"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Evaluation de l’entreprise »).",
+    "extrait": "… chaque cession/acquisition est un challenge ! Au programme : \" data-liste=\" Evaluation de l’entreprise Audit comptable préalable à l’acquisition Conseils sur le contrat de …",
+    "label": "site officiel du cabinet",
+    "url": "https://fideis.fr/competences/?service=2",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

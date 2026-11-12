@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CABINET ROY-PETAT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509563987"
+ },
+ "siren": "509563987",
+ "denomination": "CABINET ROY-PETAT",
+ "nom_complet": "CABINET ROY-PETAT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-12-05",
+ "ville": "SAINT-DOULCHARD",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509563987",
+ "maj_rne": "2026-09-24T05:38:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "ALLEAU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CORINNE",
+   "nom": "MARTINEZ (CHESNEAU)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/509563987",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cabinetroy-petat.fr/",
+ "site_source": "https://www.cabinetroy-petat.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cabinetroy-petat.fr/missions/levaluation-de-votre-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation de votre entreprise »).",
+    "extrait": "… Évaluation de votre entreprise | Cabinet Roy Petat Nous recrutons Actualités Mes accès Mes accès Gestion en …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cabinetroy-petat.fr/missions/levaluation-de-votre-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

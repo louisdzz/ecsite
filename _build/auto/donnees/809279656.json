@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "OMENI EXPERTISE COMPTABLE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809279656"
+ },
+ "siren": "809279656",
+ "denomination": "OMENI EXPERTISE COMPTABLE",
+ "nom_complet": "OMENI EXPERTISE COMPTABLE (ABALONE)",
+ "sigle": "ABALONE",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-01-28",
+ "ville": "ST-MARTIN-LACAUSSADE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/809279656",
+ "maj_rne": "2026-09-25T04:29:36",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "OMENI HOLDING",
+   "siren": "938800778",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/809279656",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://omeni.fr/",
+ "site_source": "https://omeni.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder son entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://omeni.fr/ceder-et-transmettre/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder son entreprise »).",
+    "extrait": "… Menu Menu Céder ou transmettre son entreprise Il y a de multiples raisons de céder son entreprise. Mais que l’on vende à un tiers, à un de ses salariés ou qu’on la cède à un …",
+    "label": "site officiel du cabinet",
+    "url": "https://omeni.fr/ceder-et-transmettre/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

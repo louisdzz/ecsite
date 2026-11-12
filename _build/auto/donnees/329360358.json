@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "FICAMEX",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/329360358"
+ },
+ "siren": "329360358",
+ "denomination": "FICAMEX",
+ "nom_complet": "FICAMEX",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1984-01-01",
+ "ville": "CHATEAUBRIANT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "22",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/329360358",
+ "maj_rne": "2026-09-22T13:48:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE JEAN FERNAND",
+   "nom": "BOUCHEE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE ANNE MICHELLE",
+   "nom": "EON (FORGET)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE BRUNO JEAN-MARIE",
+   "nom": "HEROULT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/329360358",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.ficamex.fr/",
+ "site_source": "https://www.ficamex.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.ficamex.fr/nos-missions/accompagnement-a-la-creation-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… Personnalisé PER Coût de revient Optimisation fiscale Rapprochement et transmission d’entreprise Infos pratiques Contact Nos fiches conseils Nous rejoindre Rechercher …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.ficamex.fr/nos-missions/accompagnement-a-la-creation-d-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

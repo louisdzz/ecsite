@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "GFC ANTIBES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/415125533"
+ },
+ "siren": "415125533",
+ "denomination": "GFC ANTIBES",
+ "nom_complet": "GFC ANTIBES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-01-14",
+ "ville": "ANTIBES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/415125533",
+ "maj_rne": "2026-09-23T03:52:18",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "DCMH",
+   "siren": "483274890",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/415125533",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.gfcexpertise.fr/",
+ "site_source": "https://www.gfcexpertise.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.gfcexpertise.fr/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession de votre entreprise »).",
+    "extrait": "… vous aidant à trouver des solutions de financement et d'étalement. En cas de cession de votre entreprise, nous vous accompagnons dans l'évaluation de votre entreprise, dans la …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.gfcexpertise.fr/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

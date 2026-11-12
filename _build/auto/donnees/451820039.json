@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "L.G.B.E.C GANZAGAIN BASSI-LORRY EXPERTISE COMPTABLE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451820039"
+ },
+ "siren": "451820039",
+ "denomination": "L.G.B.E.C GANZAGAIN BASSI-LORRY EXPERTISE COMPTABLE",
+ "nom_complet": "L.G.B.E.C GANZAGAIN BASSI-LORRY EXPERTISE COMPTABLE (L.G.B.E.C)",
+ "sigle": "L.G.B.E.C",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-01-01",
+ "ville": "PAU",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451820039",
+ "maj_rne": "2026-09-23T17:01:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GHYSLAINE SOPHIE",
+   "nom": "BASSI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL",
+   "nom": "GANZAGAIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/451820039",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.lgbec.com/",
+ "site_source": "https://www.lgbec.com",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.lgbec.com"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+    "extrait": "… de prévisionnels ​ Optimisation du choix de financement d'un investissement ​ Évaluation d'entreprises Social Établissement des bulletins de paie et calcul des charges sociales ​ …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.lgbec.com",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

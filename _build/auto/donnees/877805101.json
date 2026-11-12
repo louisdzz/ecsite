@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "QUANTE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877805101"
+ },
+ "siren": "877805101",
+ "denomination": "QUANTE",
+ "nom_complet": "QUANTE (QUANTE)",
+ "sigle": null,
+ "enseigne": "QUANTE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-10-02",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877805101",
+ "maj_rne": "2026-09-29T13:37:03",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "AB WEALTH GESTION",
+   "siren": "922075890",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/877805101",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.quante.fr/",
+ "site_source": "https://www.quante.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.quante.fr/fiscalite-des-entreprises/creation-et-choix-de-structures-juridiques/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+    "extrait": "… juridique à long terme. Optimisations fiscales Votre plan de transmission La transmission de votre entreprise représente une étape cruciale qui nécessite une préparation structurelle …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.quante.fr/fiscalite-des-entreprises/creation-et-choix-de-structures-juridiques/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

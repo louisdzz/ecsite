@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "FORSTONE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841565021"
+ },
+ "siren": "841565021",
+ "denomination": "FORSTONE",
+ "nom_complet": "FORSTONE (FORSTONE) (FS)",
+ "sigle": "FS",
+ "enseigne": "FORSTONE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-07-23",
+ "ville": "MONTREUIL",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841565021",
+ "maj_rne": "2026-09-25T21:10:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "CAILLOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CHARLES",
+   "nom": "MARIGNAN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE MARIE BERNARD FRANCOIS",
+   "nom": "PERRIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/841565021",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://forstone.fr/",
+ "site_source": "https://forstone.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due Diligences »).",
+  "label": "site officiel du cabinet",
+  "url": "https://forstone.fr/nos-services/due-diligences-comptables-et-financieres/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due Diligences »).",
+    "extrait": "… Due Diligences comptables et financières - Forstone Accueil Le cabinet Stéphane Perrin …",
+    "label": "site officiel du cabinet",
+    "url": "https://forstone.fr/nos-services/due-diligences-comptables-et-financieres/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

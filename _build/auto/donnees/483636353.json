@@ -1,0 +1,97 @@
+{
+ "nom_usuel": "ARAGOR",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/483636353"
+ },
+ "siren": "483636353",
+ "denomination": "ARAGOR",
+ "nom_complet": "ARAGOR",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2005-08-22",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/483636353",
+ "maj_rne": "2026-10-28T11:09:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DANIEL",
+   "nom": "BORJA",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KELLY CORALIE",
+   "nom": "CHABRE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CHLOÉ ALICE",
+   "nom": "PELLEGRIN (DELBERT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIENNE COLOMBE",
+   "nom": "FACHE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "PIGEON",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GABRIEL ADOLPHE",
+   "nom": "POLONY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/483636353",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.aragor.fr/",
+ "site_source": "https://www.aragor.fr/mentions-legales",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.aragor.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d’acquisition »).",
+    "extrait": "… capacité à vous accompagner sur vos objectifs stratégiques : prévisionnels, audit d’acquisition, gestion fiscale et sociale, calcul d’intéressement… Notre force est de …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.aragor.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

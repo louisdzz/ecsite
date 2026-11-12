@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "SYNEOSIA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/878644459"
+ },
+ "siren": "878644459",
+ "denomination": "SYNEOSIA",
+ "nom_complet": "SYNEOSIA (SYNEOSIA - EXPERTISE COMPTABLE TERRIER)",
+ "sigle": null,
+ "enseigne": "SYNEOSIA - EXPERTISE COMPTABLE TERRIER",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-11-08",
+ "ville": "BELLEVILLE-EN-BEAUJOLAIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/878644459",
+ "maj_rne": "2026-09-26T03:48:09",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "PARTAF",
+   "siren": "901334284",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ENJOY",
+   "siren": "901334490",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/878644459",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.syneosia.fr/",
+ "site_source": "https://www.syneosia.fr/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.syneosia.fr/expertises/evaluation-transmission-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Evaluation, transmission d'entreprise - Cabinet comptable SYNEOSIA (69) Accueil Expertises Fiscalité Evaluation …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.syneosia.fr/expertises/evaluation-transmission-dentreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

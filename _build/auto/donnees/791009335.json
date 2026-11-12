@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FIDEXIOM",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791009335"
+ },
+ "siren": "791009335",
+ "denomination": "FIDEXIOM",
+ "nom_complet": "FIDEXIOM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2012-12-24",
+ "ville": "NEUILLY-SUR-SEINE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791009335",
+ "maj_rne": "2026-09-24T21:10:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "ABITBOL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/791009335",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.fidexiom.com/",
+ "site_source": "https://www.fidexiom.com/mentions-legales-neuilly-sur-seine-92200-hauts-de-seine-ile-de-france/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.fidexiom.com/creation-dentreprise-expert-comptable-neuilly-sur-seine-92200-hauts-de-seine-ile-de-france/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+    "extrait": "… Gestion / Optimisation / Conseil en gestion (modules RCA) Social & RH Transmission d’entreprise￼ Comptabilité en ligne￼ Liens Utiles Outils de Gestion Recrutement Mentions …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.fidexiom.com/creation-dentreprise-expert-comptable-neuilly-sur-seine-92200-hauts-de-seine-ile-de-france/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

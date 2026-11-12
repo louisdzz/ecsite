@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CABINET HUDELLET ARRES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477553929"
+ },
+ "siren": "477553929",
+ "denomination": "CABINET HUDELLET ARRES",
+ "nom_complet": "CABINET HUDELLET ARRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-01-01",
+ "ville": "PERPIGNAN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/477553929",
+ "maj_rne": "2026-09-23T17:59:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLEMENT MARIE ALAIN",
+   "nom": "ARRES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN PAUL CHRISTIAN",
+   "nom": "HUDELLET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/477553929",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.hudellet-arres.fr/",
+ "site_source": "https://www.hudellet-arres.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.hudellet-arres.fr/missions/restructuration-juridique-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+    "extrait": "… Pennylane AUDIT CaseWare Cloud Contactez-nous Restructuration juridique & Transmission d'entreprise Le Cabinet Hudellet Arrès accompagne les dirigeants et les groupes dans leurs …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.hudellet-arres.fr/missions/restructuration-juridique-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

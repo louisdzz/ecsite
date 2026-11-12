@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "SEFRECO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393462387"
+ },
+ "siren": "393462387",
+ "denomination": "SEFRECO",
+ "nom_complet": "SEFRECO (SEFRECO-CABEX)",
+ "sigle": null,
+ "enseigne": "SEFRECO-CABEX",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1993-12-30",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/393462387",
+ "maj_rne": "2026-09-27T03:55:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JOSEPH ALBERTO",
+   "nom": "RODRIGUES LEITE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/393462387",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.sefreco.fr/",
+ "site_source": "https://www.sefreco.fr",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.sefreco.fr/entreprise-individuelle/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d’entreprise »).",
+    "extrait": "… des entreprises Conseil en gestion d’entreprise Optimisation d’entreprise Transmission d’entreprise Infos et actu Articles Sefreco Infos Fiscales Infos Sociales Infos juridiques …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.sefreco.fr/entreprise-individuelle/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

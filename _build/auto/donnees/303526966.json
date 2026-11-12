@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FIDUCIAIRE AUDIT CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/303526966"
+ },
+ "siren": "303526966",
+ "denomination": "FIDUCIAIRE AUDIT CONSEIL",
+ "nom_complet": "FIDUCIAIRE AUDIT CONSEIL (FIDACO)",
+ "sigle": "FIDACO",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1975-01-01",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/303526966",
+ "maj_rne": "2026-09-22T10:36:49",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "FIDACO DEVELOPPEMENT",
+   "siren": "509479960",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/303526966",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fidaco.com/",
+ "site_source": "https://fidaco.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fidaco.com/nos-services/transmission-restructuration/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprises »).",
+    "extrait": "… et groupes de sociétés dans le cadre de leurs projets d’acquisition et cession d’entreprises. FIDACO se positionne comme la solution d’ accompagnement sur mesure pour les …",
+    "label": "site officiel du cabinet",
+    "url": "https://fidaco.com/nos-services/transmission-restructuration/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

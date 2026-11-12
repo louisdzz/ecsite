@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ARVOR FINANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951319318"
+ },
+ "siren": "951319318",
+ "denomination": "ARVOR FINANCE",
+ "nom_complet": "ARVOR FINANCE (ARVOR FINANCE)",
+ "sigle": null,
+ "enseigne": "ARVOR FINANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-04-04",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951319318",
+ "maj_rne": "2026-09-27T10:04:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "FROMONT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER BORIS ADRIEN",
+   "nom": "ROUSSEAU",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/951319318",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://arvorfinance.fr/",
+ "site_source": "https://arvorfinance.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transaction Services »).",
+  "label": "site officiel du cabinet",
+  "url": "https://arvorfinance.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transaction Services »).",
+    "extrait": "… Finance vous accompagne pour vos missions de : Audit Conseil Consolidation Transaction Services & Évaluation En savoir plus Nos métiers Corporate / ESS Conseil Audit …",
+    "label": "site officiel du cabinet",
+    "url": "https://arvorfinance.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

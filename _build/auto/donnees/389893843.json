@@ -1,0 +1,91 @@
+{
+ "nom_usuel": "SODEC CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389893843"
+ },
+ "siren": "389893843",
+ "denomination": "SODEC CONSEIL",
+ "nom_complet": "SODEC CONSEIL (SODEC CONSEIL / SODEC AUDIT)",
+ "sigle": null,
+ "enseigne": "SODEC CONSEIL / SODEC AUDIT",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1993-01-01",
+ "ville": "BOLLENE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389893843",
+ "maj_rne": "2026-09-27T03:41:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "BARRANDON",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KAMAL",
+   "nom": "BOUCHABKA",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS BERNARD XAVIER ROBERT",
+   "nom": "HERLEM",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "MALEFANT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICKAEL",
+   "nom": "ROURE",
+   "qualite": "Président du conseil d’administration"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/389893843",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://sodec-conseil.fr/",
+ "site_source": "https://sodec-conseil.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://sodec-conseil.fr/creer-et-reprendre-une-activite/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d’acquisition »).",
+    "extrait": "… préalable du projet Étude de la structure ciblée (marché, organisation…) Audit d’acquisition Conception du business plan Montage juridique (holding, groupe…) et financier …",
+    "label": "site officiel du cabinet",
+    "url": "https://sodec-conseil.fr/creer-et-reprendre-une-activite/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

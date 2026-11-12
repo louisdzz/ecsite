@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "NAIHO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853960078"
+ },
+ "siren": "853960078",
+ "denomination": "NAIHO",
+ "nom_complet": "NAIHO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-09-18",
+ "ville": "LE MANS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853960078",
+ "maj_rne": "2026-09-26T03:05:18",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ANODAM",
+   "siren": "880044094",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/853960078",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://naiho.fr/",
+ "site_source": "https://naiho.fr/mention-legale/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « ÉVALUATION D’ENTREPRISE »).",
+  "label": "site officiel du cabinet",
+  "url": "https://naiho.fr/creation-dentreprise-new/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « ÉVALUATION D’ENTREPRISE »).",
+    "extrait": "… par étapes pour transformer l’essai création, reprise et transmission ÉVALUATION D’ENTREPRISE Vous avez un projet de création d’entreprise ? Vous êtes motivé… Vous voulez …",
+    "label": "site officiel du cabinet",
+    "url": "https://naiho.fr/creation-dentreprise-new/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

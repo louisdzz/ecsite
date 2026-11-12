@@ -1,0 +1,157 @@
+{
+ "nom_usuel": "AFIGEC AUDIT FINANCE INFORMATIQUE GESTION EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324021542"
+ },
+ "siren": "324021542",
+ "denomination": "AFIGEC AUDIT FINANCE INFORMATIQUE GESTION EXPERTISE",
+ "nom_complet": "AFIGEC AUDIT FINANCE INFORMATIQUE GESTION EXPERTISE (AFIGEC)",
+ "sigle": "AFIGEC",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1982-01-01",
+ "ville": "LEVALLOIS-PERRET",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "31",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324021542",
+ "maj_rne": "2026-10-22T11:58:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CLAUDE",
+   "nom": "ALLAIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CINTHIA",
+   "nom": "ATTLANE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE NATHALIE JEANNE",
+   "nom": "JAMIN (BLAIZOT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENT",
+   "nom": "BURTIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRICK",
+   "nom": "CHAUVIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN NICOLAS",
+   "nom": "FERRAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANNIS",
+   "nom": "GIRAUD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAELLE",
+   "nom": "JEAN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO SERGE MAURICE",
+   "nom": "JEUNEMAITRE-KALTWASSER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNIE",
+   "nom": "ALLAIN (LE LOSTEC)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "LEBOUVIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "NEGREL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "PERIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "REBISCOUL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "RIVALLANT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAN",
+   "nom": "ZERBIB",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/324021542",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.afigec.com/",
+ "site_source": "https://www.afigec.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation financière »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.afigec.com/nos-metiers/evaluation-financiere-transaction-services-transformation-fusion-acquisition-ma/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation financière »).",
+    "extrait": "… Évaluation financière - Transaction Services - Transformation - Fusion-Acquisition (M&A) - AFIGEC …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.afigec.com/nos-metiers/evaluation-financiere-transaction-services-transformation-fusion-acquisition-ma/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "nom_usuel": "QINTENS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/958513509"
+ },
+ "siren": "958513509",
+ "denomination": "QINTENS",
+ "nom_complet": "QINTENS (QINTENS) (FIDUCIAIRE LYONNAISE)",
+ "sigle": "FIDUCIAIRE LYONNAISE",
+ "enseigne": "QINTENS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1958-01-01",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "21",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/958513509",
+ "maj_rne": "2026-11-09T00:03:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BARTHÉLÉMY JEAN EMILE",
+   "nom": "CASIMIR",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELLA",
+   "nom": "GATTA-CASTEL (ILOVICI)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "MURARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN CLAUDE",
+   "nom": "PANAFIEU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "PARTAMIAN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MÉLANIE",
+   "nom": "RICHARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "SUCROT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "GEODE CONSEILS",
+   "siren": "420010670",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "QINTENS GROUPE",
+   "siren": "448798017",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/958513509",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.qintens.fr/",
+ "site_source": "https://www.qintens.fr/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d’acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.qintens.fr/cabinet-conseil/accompagnement-reprise-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d’acquisition »).",
+    "extrait": "… stratégie globale, l’identification et le choix des entreprises cibles, les audits d’acquisition (due diligence), ainsi que la délimitation du cadre juridique, social et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.qintens.fr/cabinet-conseil/accompagnement-reprise-entreprise/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "FIDEXIA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449275718"
+ },
+ "siren": "449275718",
+ "denomination": "FIDEXIA",
+ "nom_complet": "FIDEXIA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2003-06-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449275718",
+ "maj_rne": "2026-09-23T15:34:10",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "PB EXPERTISE CONSEILS",
+   "siren": "924827785",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "SB EXPERTISE CONSEILS",
+   "siren": "924908098",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/449275718",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fidexia.fr/",
+ "site_source": "https://fidexia.fr/politique-de-confidentialite/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fidexia.fr/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d’entreprise »).",
+    "extrait": "… revenus de retraite, en passant par l’assistance comptable et juridique à la cession d’entreprise… Un accompagnement transverse et global qui séduit nos clients depuis plus de …",
+    "label": "site officiel du cabinet",
+    "url": "https://fidexia.fr/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

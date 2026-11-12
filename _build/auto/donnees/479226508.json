@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "CLAUX & BOSCARY",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479226508"
+ },
+ "siren": "479226508",
+ "denomination": "CLAUX & BOSCARY",
+ "nom_complet": "CLAUX & BOSCARY",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-09-01",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479226508",
+ "maj_rne": "2026-09-28T21:38:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "BOSCARY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURE ALICE ELISABETH",
+   "nom": "SANGER-ALBERNY (SANGER)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/479226508",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.claux-boscary.fr/",
+ "site_source": "https://www.claux-boscary.fr/fr/mentions-legales.php",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.claux-boscary.fr/fr/page/developper-votre-entreprise.php"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… d'établir un diagnostic et vous assiste lors de la mise en place des actions : Audit d'acquisition, évaluation d'entreprise, Obtention du financement de vos projets, Analyse de …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.claux-boscary.fr/fr/page/developper-votre-entreprise.php",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "KOPPA AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479615015"
+ },
+ "siren": "479615015",
+ "denomination": "KOPPA AUDIT",
+ "nom_complet": "KOPPA AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2004-11-01",
+ "ville": "SAINT-HERBLAIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479615015",
+ "maj_rne": "2026-09-23T18:58:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER DANIEL JEAN-MARIE",
+   "nom": "JANNEE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN PHILIPPE",
+   "nom": "TESSON",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/479615015",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.koppa-audit.fr/",
+ "site_source": "https://www.koppa-audit.fr/mentions-legales-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.koppa-audit.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d'entreprises »).",
+    "extrait": "… Révision avant prise de participation ; Commissariat aux apports. Expertise : Évaluation d'entreprises et de titres de sociétés (notamment en vue des ventes, cessions, apports …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.koppa-audit.fr",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

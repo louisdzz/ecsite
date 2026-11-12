@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "FIDEXTRA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451323109"
+ },
+ "siren": "451323109",
+ "denomination": "FIDEXTRA",
+ "nom_complet": "FIDEXTRA (FIDEXTRA) (FIDEXTRA)",
+ "sigle": "FIDEXTRA",
+ "enseigne": "FIDEXTRA",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2004-01-05",
+ "ville": "DARDILLY",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/451323109",
+ "maj_rne": "2026-09-27T07:29:20",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "DGD",
+   "siren": "913127056",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "VR HOUSE",
+   "siren": "914732912",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/451323109",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fidextra.fr/",
+ "site_source": "https://fidextra.fr/mentions/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fidextra.fr/expert-transmission-entreprise-lyon/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Expert en transmission d'entreprise à Lyon | FIDEXTRA Aller au contenu Dardilly · Lyon Espace client ↗ …",
+    "label": "site officiel du cabinet",
+    "url": "https://fidextra.fr/expert-transmission-entreprise-lyon/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

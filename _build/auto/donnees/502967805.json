@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "COFAGEST LYON SUD",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502967805"
+ },
+ "siren": "502967805",
+ "denomination": "COFAGEST LYON SUD",
+ "nom_complet": "COFAGEST LYON SUD (FIFTY BEES)",
+ "sigle": null,
+ "enseigne": "FIFTY BEES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-03-04",
+ "ville": "SAINT-GENIS-LAVAL",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502967805",
+ "maj_rne": "2026-09-24T03:46:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE MARIE-MADELEINE",
+   "nom": "MICHARD-GRUNWALD (MICHARD)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE BRUNO MARIE",
+   "nom": "MOMIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEVEN",
+   "nom": "MONTET",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/502967805",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fifty-bees.com/",
+ "site_source": "https://fifty-bees.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission Entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fifty-bees.com/services/transmission-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission Entreprise »).",
+    "extrait": "… Transmission Entreprise - Fifty Bees | Fifty Bees Nos services Notre ADN Rejoignez-nous Blog & Actus …",
+    "label": "site officiel du cabinet",
+    "url": "https://fifty-bees.com/services/transmission-entreprise",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

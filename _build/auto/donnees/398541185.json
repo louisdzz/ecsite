@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "MOULIERAC",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/398541185"
+ },
+ "siren": "398541185",
+ "denomination": "MOULIERAC",
+ "nom_complet": "MOULIERAC",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1994-10-15",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/398541185",
+ "maj_rne": "2026-09-22T23:37:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "CHIRI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "DELL'UNTO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE JEAN PHILIPPE",
+   "nom": "MOULIERAC",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/398541185",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.moulierac.com/",
+ "site_source": "https://www.moulierac.com/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation de l'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.moulierac.com/nos-expertises/evaluation-cession-acquisition-et-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation de l'entreprise »).",
+    "extrait": "… Nos interventions : Étude préalable de faisabilité et cadrage de l'opération Évaluation de l'entreprise selon une approche multi-méthodes (DCF, multiples sectoriels, actif net …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.moulierac.com/nos-expertises/evaluation-cession-acquisition-et-transmission",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

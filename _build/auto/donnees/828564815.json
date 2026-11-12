@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "EXPERTYM",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828564815"
+ },
+ "siren": "828564815",
+ "denomination": "EXPERTYM",
+ "nom_complet": "EXPERTYM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-03-27",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "11",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828564815",
+ "maj_rne": "2026-09-25T14:11:20",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "LEGEM AUDIT EXPERTISE",
+   "siren": "828573774",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "GABEX",
+   "siren": "848664553",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/828564815",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinetexpertym.com/",
+ "site_source": "https://cabinetexpertym.com/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié)",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinetexpertym.com/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d’entreprise »).",
+    "extrait": "… la cession ou l’évaluation d’une entreprise. Acquisition d’entreprise Cession d’entreprise Évaluation d’entreprise En Savoir Plus Création d’entreprise Création …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinetexpertym.com/",
+    "date": "2026-11-12",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

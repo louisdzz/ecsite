@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "COGEDIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312771967"
+ },
+ "siren": "312771967",
+ "denomination": "COGEDIS",
+ "nom_complet": "COGEDIS (AGC)",
+ "sigle": "AGC",
+ "enseigne": null,
+ "forme": "Association déclarée",
+ "forme_code": "9220",
+ "creation": "1978-01-01",
+ "ville": "SAINT-THONAN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "41",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312771967",
+ "maj_rne": null,
+ "dirigeants": [],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/312771967",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cogedis.com/",
+ "site_source": "https://www.cogedis.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cogedis.com/nos-expertises/transaction-agricole/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Évaluation d’entreprise »).",
+    "extrait": "… et conduisons la négociation afin de conclure un accord gagnant-gagnant. Évaluation d’entreprise Recherche d’un repreneur Négociation d’un accord gagnant/gagnant Rédaction du …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cogedis.com/nos-expertises/transaction-agricole/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ALPES-AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493314223"
+ },
+ "siren": "493314223",
+ "denomination": "ALPES-AUDIT",
+ "nom_complet": "ALPES-AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-12-15",
+ "ville": "SEYSSINET-PARISET",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "12",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493314223",
+ "maj_rne": "2026-09-24T00:21:49",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "ALPES AUDIT PATRIMOINE",
+   "siren": "539506709",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "AR HOLDING",
+   "siren": "850774357",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/493314223",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.alpesaudit.com/",
+ "site_source": "https://www.alpesaudit.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.alpesaudit.com/missions-expertise-comptable/accompagnement-creation-transmission-entreprise-rhone-alpes/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d’entreprise »).",
+    "extrait": "… Création et transmission d’entreprise - Alpes Audit, Rhône Alpes Aller au contenu Accueil Cabinet Nos missions …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.alpesaudit.com/missions-expertise-comptable/accompagnement-creation-transmission-entreprise-rhone-alpes/",
+    "date": "2026-11-12",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}
