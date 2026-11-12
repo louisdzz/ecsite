@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "GROUPE LYS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 76",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478246036"
+ },
+ "siren": "478246036",
+ "denomination": "GROUPE LYS PATRIMOINE",
+ "nom_complet": "GROUPE LYS PATRIMOINE",
+ "sigle": null,
+ "enseigne": "GROUPE LYS PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-07-20",
+ "ville": "BRETTEVILLE-SUR-ODON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478246036",
+ "maj_rne": "2026-09-27T05:45:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLAVIEN PIERRE",
+   "nom": "HUREL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/478246036",
+  "numero": "07008238",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/04/2010"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/03/2008"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/478246036"
+ }
+}

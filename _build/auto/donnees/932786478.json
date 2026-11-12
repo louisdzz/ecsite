@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "PATRIMOINE & DIRIGEANTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 38",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/932786478"
+ },
+ "siren": "932786478",
+ "denomination": "PATRIMOINE & DIRIGEANTS",
+ "nom_complet": "PATRIMOINE & DIRIGEANTS (HEXA PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "HEXA PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-09-03",
+ "ville": "VIZILLE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/932786478",
+ "maj_rne": "2026-10-09T18:37:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN CLAUDE JACQUES CHARLES",
+   "nom": "LEFEBVRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/932786478",
+  "numero": "24006738",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "11/10/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/01/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/932786478"
+ }
+}
