@@ -67705,6 +67705,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "m-conseils",
+   "nom": "M CONSEILS",
+   "categorie": "cgp",
+   "siren": "982451361",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/m-conseils.html",
+   "crm": null,
+   "orias": "24002757",
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-12"
+  },
+  {
    "slug": "mae-strategie-patrimoniale",
    "nom": "MAE STRATEGIE PATRIMONIALE",
    "categorie": "cgp",
@@ -112519,6 +112533,14 @@
    "chemin": "p/nicolas-fuger.html"
   },
   {
+   "slug": "quentin-metais",
+   "nom": "Quentin Metais",
+   "fonction": "Gérant",
+   "maison": "m-conseils",
+   "siren": "982451361",
+   "chemin": "p/quentin-metais.html"
+  },
+  {
    "slug": "michel-pignalosa",
    "nom": "Michel Pignalosa",
    "fonction": "Président de SAS",
@@ -120109,102 +120131,5 @@
    "motif": "homonymie ou mandats multiples non résolus"
   }
  ],
- "retraits": [
-  {
-   "personne": "laurent-runacher",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "patrice-amans",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "stephane-debair",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "sebastien-kieffer",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "herve-de-galbert",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "elhadj-nouar",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "laurianne-bellier",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "stephane-gay",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "gerald-anselme",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "evelyne-desserey",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "christian-donnefort",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "julie-compagnon",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "theo-laborde",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "christophe-verpillot",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "gianni-d-andrea",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "cyril-vaneensberghe",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "sebastien-teruin",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "david-richard",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "ivan-vagic",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "loic-ronzani",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "dora-d-ambrosio",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "frederic-desfossez",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "clement-fabre",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "jean-jacques-olivie",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  }
- ]
+ "retraits": []
 }
