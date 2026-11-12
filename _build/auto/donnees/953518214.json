@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CAPISEIS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/953518214"
+ },
+ "siren": "953518214",
+ "denomination": "CAPISEIS",
+ "nom_complet": "CAPISEIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-05-25",
+ "ville": "ANNECY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/953518214",
+ "maj_rne": "2026-10-13T19:30:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC",
+   "nom": "ARNOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "PHILLIPE-PEREZ",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/953518214",
+  "numero": "23005860",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "15/09/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "15/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/09/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/953518214"
+ }
+}

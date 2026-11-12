@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "PLANEXIA PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 57",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929602340"
+ },
+ "siren": "929602340",
+ "denomination": "PLANEXIA PATRIMOINE",
+ "nom_complet": "PLANEXIA PATRIMOINE (PLANEXIA PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "PLANEXIA PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-06-01",
+ "ville": "THIONVILLE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929602340",
+ "maj_rne": "2026-10-19T13:05:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE",
+   "nom": "CHEVALIER (LEMOR)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/929602340",
+  "numero": "24008021",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "11/04/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/929602340"
+ }
+}

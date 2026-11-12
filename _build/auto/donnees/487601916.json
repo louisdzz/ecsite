@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "THIBAUT VIVIER CONSEIL ET INVESTISSEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 83",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487601916"
+ },
+ "siren": "487601916",
+ "denomination": "THIBAUT VIVIER CONSEIL ET INVESTISSEMENT",
+ "nom_complet": "THIBAUT VIVIER CONSEIL ET INVESTISSEMENT (SCG3P)",
+ "sigle": "SCG3P",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2006-01-01",
+ "ville": "OLLIOULES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/487601916",
+ "maj_rne": "2026-09-23T21:45:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIBAUT",
+   "nom": "VIVIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/487601916",
+  "numero": "07023223",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "01/02/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/04/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/04/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/487601916"
+ }
+}

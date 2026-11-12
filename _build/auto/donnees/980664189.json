@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "PATRIMOINE EXPERTISE ET CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 974",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980664189"
+ },
+ "siren": "980664189",
+ "denomination": "PATRIMOINE EXPERTISE ET CONSEIL",
+ "nom_complet": "PATRIMOINE EXPERTISE ET CONSEIL (PATRIMOINE EXPERTISE ET CONSEIL)",
+ "sigle": null,
+ "enseigne": "PATRIMOINE EXPERTISE ET CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-10-11",
+ "ville": "SAINT-DENIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980664189",
+ "maj_rne": "2026-09-27T14:18:25",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRILLE JEAN-PHILIPPE",
+   "nom": "CERVEAUX",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/980664189",
+  "numero": "24001422",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/05/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/980664189"
+ }
+}

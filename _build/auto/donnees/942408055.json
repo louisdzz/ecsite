@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "MGA RHONALP",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 63",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942408055"
+ },
+ "siren": "942408055",
+ "denomination": "MGA RHONALP",
+ "nom_complet": "MGA RHONALP",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-03-21",
+ "ville": "COURNON-D'AUVERGNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942408055",
+ "maj_rne": "2026-09-28T01:00:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND JEAN-YVES",
+   "nom": "CHAPON",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANE LOUIS",
+   "nom": "GROLIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDOVIC MAURICE RAYMOND",
+   "nom": "POULY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/942408055",
+  "numero": "25005728",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/07/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/942408055"
+ }
+}

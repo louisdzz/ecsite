@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ALTA PATRIMONIA",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 83",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106804065"
+ },
+ "siren": "106804065",
+ "denomination": "ALTA PATRIMONIA",
+ "nom_complet": "ALTA PATRIMONIA (ALTA PATRIMONIA)",
+ "sigle": null,
+ "enseigne": "ALTA PATRIMONIA",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2026-06-25",
+ "ville": "LA FARLEDE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106804065",
+ "maj_rne": "2026-09-28T11:59:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE HÉLÈNE",
+   "nom": "ROUX (QUINTARELLI)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/106804065",
+  "numero": "26010194",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/106804065"
+ }
+}

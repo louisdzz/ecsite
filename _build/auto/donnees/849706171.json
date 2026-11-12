@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LA TUTELAIRE - HELIOS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 974",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849706171"
+ },
+ "siren": "849706171",
+ "denomination": "LA TUTELAIRE - HELIOS PATRIMOINE",
+ "nom_complet": "LA TUTELAIRE - HELIOS PATRIMOINE (LA TUTELAIRE PATRIMOINE / HELIOS PATRIMOINE) (LTHP)",
+ "sigle": "LTHP",
+ "enseigne": "LA TUTELAIRE PATRIMOINE / HELIOS PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-04-15",
+ "ville": "LANDIVISIAU",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849706171",
+ "maj_rne": "2026-09-26T00:37:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "CAM",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/849706171",
+  "numero": "19003229",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/04/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/06/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/849706171"
+ }
+}

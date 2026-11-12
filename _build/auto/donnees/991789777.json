@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "NANTUCKET PARTNERS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991789777"
+ },
+ "siren": "991789777",
+ "denomination": "NANTUCKET PARTNERS",
+ "nom_complet": "NANTUCKET PARTNERS (NANTUCKET PARTNERS) (NANPART)",
+ "sigle": "NANPART",
+ "enseigne": "NANTUCKET PARTNERS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-09-15",
+ "ville": "GUETHARY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991789777",
+ "maj_rne": "2026-09-28T04:58:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "GRANNET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/991789777",
+  "numero": "26003780",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "06/03/2026"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "06/03/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/03/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/991789777"
+ }
+}

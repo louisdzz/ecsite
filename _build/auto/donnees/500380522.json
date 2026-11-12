@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "GALINDO PH PATRIMOINE PARTENAIRES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 42",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500380522"
+ },
+ "siren": "500380522",
+ "denomination": "GALINDO PH PATRIMOINE PARTENAIRES",
+ "nom_complet": "GALINDO PH PATRIMOINE PARTENAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2007-10-03",
+ "ville": "RENAISON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500380522",
+ "maj_rne": "2026-09-24T02:38:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "GALINDO",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VERONIQUE ANNE",
+   "nom": "KRIEGELSTEIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/500380522",
+  "numero": "07037824",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "13/12/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/11/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/500380522"
+ }
+}

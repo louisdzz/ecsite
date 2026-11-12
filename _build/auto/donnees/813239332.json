@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "B.I.S. CONSULTANTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 37",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813239332"
+ },
+ "siren": "813239332",
+ "denomination": "B.I.S. CONSULTANTS",
+ "nom_complet": "B.I.S. CONSULTANTS (B.I.S. CONSULTANTS)",
+ "sigle": null,
+ "enseigne": "B.I.S. CONSULTANTS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2015-08-28",
+ "ville": "FONDETTES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813239332",
+ "maj_rne": "2026-09-25T06:35:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ILIZETTE",
+   "nom": "SA",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "SOUANEF",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/813239332",
+  "numero": "16001297",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/03/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "04/03/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/813239332"
+ }
+}

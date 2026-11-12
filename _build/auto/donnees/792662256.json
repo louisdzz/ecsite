@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CONSEIL TRANSPARENCE ANALYSE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 17",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792662256"
+ },
+ "siren": "792662256",
+ "denomination": "CONSEIL TRANSPARENCE ANALYSE PATRIMOINE",
+ "nom_complet": "CONSEIL TRANSPARENCE ANALYSE PATRIMOINE (CONSEIL TRANSPARENCE ANALYSE PATRIMOINE) (CTA PATRIMOINE)",
+ "sigle": "CTA PATRIMOINE",
+ "enseigne": "CONSEIL TRANSPARENCE ANALYSE PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-04-15",
+ "ville": "PERIGNY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/792662256",
+ "maj_rne": "2026-09-28T23:03:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "BINEAU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/792662256",
+  "numero": "13007134",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "23/02/2024"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "02/02/2018"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/09/2013"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/03/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/792662256"
+ }
+}

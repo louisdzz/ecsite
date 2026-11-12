@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MON DIRECTEUR FINANCIER",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539265041"
+ },
+ "siren": "539265041",
+ "denomination": "MON DIRECTEUR FINANCIER",
+ "nom_complet": "MON DIRECTEUR FINANCIER (STRATEZIO)",
+ "sigle": null,
+ "enseigne": "STRATEZIO",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2012-02-01",
+ "ville": "PLOERMEL",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539265041",
+ "maj_rne": "2026-09-24T15:46:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "DOHOLLOU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/539265041",
+  "numero": "16005150",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "04/11/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/11/2016"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/09/2016"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/539265041"
+ }
+}

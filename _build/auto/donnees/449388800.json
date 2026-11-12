@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CHRISTIAN SOULAS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 37",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449388800"
+ },
+ "siren": "449388800",
+ "denomination": "CHRISTIAN SOULAS PATRIMOINE",
+ "nom_complet": "CHRISTIAN SOULAS PATRIMOINE (CHRISTIAN SOULAS PATRIMOINE CABINET CHRISTIAN SOULAS)",
+ "sigle": null,
+ "enseigne": "CHRISTIAN SOULAS PATRIMOINE CABINET CHRISTIAN SOULAS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2003-07-10",
+ "ville": "PAU",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/449388800",
+ "maj_rne": "2026-08-10T23:00:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL SERGE",
+   "nom": "BRUNORO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MALCOLM YANNICK MARC",
+   "nom": "VINCENT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/449388800",
+  "numero": "07002909",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/12/2005"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/449388800"
+ }
+}

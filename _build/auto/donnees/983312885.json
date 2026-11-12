@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "VOTRE PATRIMOINE AUTREMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 17",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983312885"
+ },
+ "siren": "983312885",
+ "denomination": "VOTRE PATRIMOINE AUTREMENT",
+ "nom_complet": "VOTRE PATRIMOINE AUTREMENT (VPA BY SANDRA) (VPA)",
+ "sigle": "VPA",
+ "enseigne": "VPA BY SANDRA",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-01-09",
+ "ville": "LE GRAND-VILLAGE-PLAGE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983312885",
+ "maj_rne": "2026-09-30T11:08:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SANDRA MYLÈNE",
+   "nom": "TESTARD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983312885",
+  "numero": "24001719",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/03/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/03/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/983312885"
+ }
+}

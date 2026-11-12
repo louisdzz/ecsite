@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "ARMORIQUE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 29",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/454010927"
+ },
+ "siren": "454010927",
+ "denomination": "ARMORIQUE PATRIMOINE",
+ "nom_complet": "ARMORIQUE PATRIMOINE (ARMORIQUE PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ARMORIQUE PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2004-07-01",
+ "ville": "LANDERNEAU",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/454010927",
+ "maj_rne": "2026-07-16T17:48:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE ANNE",
+   "nom": "ROUILLE (LATIMIER)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL PIERRE MARIE",
+   "nom": "ROUILLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/454010927",
+  "numero": "07004442",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "22/03/2013"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "09/06/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "02/10/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/454010927"
+ }
+}
