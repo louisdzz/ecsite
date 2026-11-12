@@ -8835,6 +8835,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cgp-expert",
+   "nom": "CGP EXPERT",
+   "categorie": "cgp",
+   "siren": "437985252",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/cgp-expert.html",
+   "crm": null,
+   "orias": "07002236",
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-12"
+  },
+  {
    "slug": "finaltis",
    "nom": "FINALTIS",
    "categorie": "sgp",
@@ -23605,6 +23619,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cabinet-pauk-associes",
+   "nom": "CABINET PAUK&ASSOCIES",
+   "categorie": "cgp",
+   "siren": "751521998",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/cabinet-pauk-associes.html",
+   "crm": null,
+   "orias": "12067127",
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-12"
+  },
+  {
    "slug": "av-finance",
    "nom": "AV FINANCE",
    "categorie": "cgp",
@@ -34889,6 +34917,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "jmcf",
+   "nom": "JMCF",
+   "categorie": "cgp",
+   "siren": "841407927",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/jmcf.html",
+   "crm": null,
+   "orias": "18005452",
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-12"
+  },
+  {
    "slug": "smart-gestion-privee",
    "nom": "SMART GESTION PRIVEE",
    "categorie": "cgp",
@@ -39367,6 +39409,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "o-patrimoine",
+   "nom": "O PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "880609086",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/o-patrimoine.html",
+   "crm": null,
+   "orias": "20001234",
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-12"
   },
   {
    "slug": "1212-capital",
@@ -45109,6 +45165,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "lm4-conseil-patrimoine",
+   "nom": "LM4 CONSEIL&PATRIMOINE",
+   "categorie": "cgp",
+   "siren": "903596724",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/lm4-conseil-patrimoine.html",
+   "crm": null,
+   "orias": "21008228",
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-12"
+  },
+  {
    "slug": "framatong-cgp",
    "nom": "FRAMATONG CGP",
    "categorie": "cgp",
@@ -45219,6 +45289,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "iker-family-office",
+   "nom": "IKER FAMILY OFFICE",
+   "categorie": "mfo",
+   "siren": "903995579",
+   "apercu": false,
+   "remplace": true,
+   "chemin": "f/iker-family-office.html",
+   "crm": null,
+   "orias": "21008783",
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-12"
   },
   {
    "slug": "asto-conseil",
@@ -76217,6 +76301,30 @@
    "chemin": "p/olivier-pastre.html"
   },
   {
+   "slug": "gwendoline-barel",
+   "nom": "Gwendoline Barel",
+   "fonction": "Gérant",
+   "maison": "cgp-expert",
+   "siren": "437985252",
+   "chemin": "p/gwendoline-barel.html"
+  },
+  {
+   "slug": "christophe-boulanger",
+   "nom": "Christophe Boulanger",
+   "fonction": "Gérant",
+   "maison": "cgp-expert",
+   "siren": "437985252",
+   "chemin": "p/christophe-boulanger.html"
+  },
+  {
+   "slug": "kilian-vivier",
+   "nom": "Kilian Vivier",
+   "fonction": "Gérant",
+   "maison": "cgp-expert",
+   "siren": "437985252",
+   "chemin": "p/kilian-vivier.html"
+  },
+  {
    "slug": "denis-beaudoin",
    "nom": "Denis Beaudoin",
    "fonction": "Président de SAS",
@@ -84961,6 +85069,14 @@
    "chemin": "p/christian-carcy.html"
   },
   {
+   "slug": "thierry-pauk",
+   "nom": "Thierry Pauk",
+   "fonction": "Directeur Général",
+   "maison": "cabinet-pauk-associes",
+   "siren": "751521998",
+   "chemin": "p/thierry-pauk.html"
+  },
+  {
    "slug": "arnaud-voisin",
    "nom": "Arnaud Voisin",
    "fonction": "Gérant",
@@ -91025,6 +91141,14 @@
    "chemin": "p/laurent-champieux.html"
   },
   {
+   "slug": "joel-marquet",
+   "nom": "Joel Marquet",
+   "fonction": "Gérant",
+   "maison": "jmcf",
+   "siren": "841407927",
+   "chemin": "p/joel-marquet.html"
+  },
+  {
    "slug": "benjamin-bouye",
    "nom": "Benjamin Bouye",
    "fonction": "Gérant",
@@ -93471,6 +93595,22 @@
    "maison": "cambiale",
    "siren": "880568068",
    "chemin": "p/edouard-marcuzzo.html"
+  },
+  {
+   "slug": "nicolas-buteau",
+   "nom": "Nicolas Buteau",
+   "fonction": "Gérant",
+   "maison": "o-patrimoine",
+   "siren": "880609086",
+   "chemin": "p/nicolas-buteau.html"
+  },
+  {
+   "slug": "olivier-tripoteau",
+   "nom": "Olivier Tripoteau",
+   "fonction": "Gérant",
+   "maison": "o-patrimoine",
+   "siren": "880609086",
+   "chemin": "p/olivier-tripoteau.html"
   },
   {
    "slug": "adam-farouk",
@@ -96689,6 +96829,14 @@
    "chemin": "p/william-pichon.html"
   },
   {
+   "slug": "morganne-isoard",
+   "nom": "Morganne Isoard",
+   "fonction": "Gérant",
+   "maison": "lm4-conseil-patrimoine",
+   "siren": "903596724",
+   "chemin": "p/morganne-isoard.html"
+  },
+  {
    "slug": "vincent-malcolm",
    "nom": "Vincent Malcolm",
    "fonction": "Président de SAS",
@@ -96743,6 +96891,14 @@
    "maison": "amvedag-croissance",
    "siren": "903890564",
    "chemin": "p/antoine-lencou-bareme.html"
+  },
+  {
+   "slug": "marina-gaucherot",
+   "nom": "Marina Gaucherot",
+   "fonction": "Gérant",
+   "maison": "iker-family-office",
+   "siren": "903995579",
+   "chemin": "p/marina-gaucherot.html"
   },
   {
    "slug": "damien-herlin",
@@ -114879,46 +115035,5 @@
    "motif": "homonymie ou mandats multiples non résolus"
   }
  ],
- "retraits": [
-  {
-   "personne": "elodie-oudin",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "vincent-arrachart",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "martial-bes",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "yannick-manfe",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "nicolas-mejri",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "bertrand-turgal",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "julien-berard",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "jean-baptiste-villain",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "charles-d-hausen",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  },
-  {
-   "personne": "sebastien-valleix",
-   "motif": "fonction hors président, gérant, directeur général, ou fiche non reconduite"
-  }
- ]
+ "retraits": []
 }

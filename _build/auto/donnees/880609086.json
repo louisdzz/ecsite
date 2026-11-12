@@ -1,0 +1,75 @@
+{
+ "nom_usuel": "O PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "o-patrimoine",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 10 (NAF 66.19B et 66.22Z, 85 départements de métropole et d'outre-mer hors Île-de-France et hors départements déjà parcourus), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://o-patrimoine.fr/mentions-legales-2/"
+ },
+ "siren": "880609086",
+ "denomination": "O PATRIMOINE",
+ "nom_complet": "O PATRIMOINE (O PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "O PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-01-15",
+ "ville": "LA ROCHE-SUR-YON",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/880609086",
+ "maj_rne": "2026-09-26T04:52:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "BUTEAU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "TRIPOTEAU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/880609086",
+  "numero": "20001234",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/03/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://o-patrimoine.fr/",
+ "site_pages": [
+  "https://o-patrimoine.fr/",
+  "https://o-patrimoine.fr/mentions-legales-2/",
+  "https://o-patrimoine.fr/mentions-legales-2/",
+  "https://o-patrimoine.fr/mentions-legales-2/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/880609086"
+ }
+}
