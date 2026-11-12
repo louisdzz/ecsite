@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "IN EXTENSO PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519548325"
+ },
+ "siren": "519548325",
+ "denomination": "IN EXTENSO PATRIMOINE",
+ "nom_complet": "IN EXTENSO PATRIMOINE (ONEXYS CONSEIL) (IEP)",
+ "sigle": "IEP",
+ "enseigne": "ONEXYS CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-12-18",
+ "ville": "VITROLLES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519548325",
+ "maj_rne": "2026-09-27T06:53:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS JEAN",
+   "nom": "BRAUN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAETAN FRANCOIS MICHEL",
+   "nom": "DANDO (DANDO)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/519548325",
+  "numero": "18001718",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/03/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/519548325"
+ }
+}

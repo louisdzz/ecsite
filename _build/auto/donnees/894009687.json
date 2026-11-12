@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "ARKEA REAL ESTATE INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306571"
+ },
+ "siren": "894009687",
+ "denomination": "ARKEA REAL ESTATE INVESTMENT MANAGEMENT",
+ "nom_complet": "ARKEA REAL ESTATE INVESTMENT MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-02-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/894009687",
+ "maj_rne": "2026-09-29T15:50:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE CHARLOTTE",
+   "nom": "HUREL",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN JEAN BERNARD",
+   "nom": "VIDECOQ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306571",
+  "numero": "GP-20228",
+  "date_agrement": "2022-04-06",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "72 rue Pierre Charron, 75008 PARIS",
+  "lei": "96950042D1RHKV1GQR35",
+  "denomination": "ARKEA REAL ESTATE INVESTMENT MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20228.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/306571"
+ }
+}

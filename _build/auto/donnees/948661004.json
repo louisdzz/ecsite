@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MON CONSEIL PATRIMONIAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948661004"
+ },
+ "siren": "948661004",
+ "denomination": "MON CONSEIL PATRIMONIAL",
+ "nom_complet": "MON CONSEIL PATRIMONIAL (MON CONSEIL PATRIMONIAL) (M.C.P.)",
+ "sigle": "M.C.P.",
+ "enseigne": "MON CONSEIL PATRIMONIAL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-01-02",
+ "ville": "PAREMPUYRE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948661004",
+ "maj_rne": "2026-09-27T09:01:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DANIEL PIERRE",
+   "nom": "DROETTO (DROETTO)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/948661004",
+  "numero": "23004148",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "24/10/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/06/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/01/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/948661004"
+ }
+}

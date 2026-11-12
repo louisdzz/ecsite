@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "FIDARE GESTION",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 37",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908431398"
+ },
+ "siren": "908431398",
+ "denomination": "FIDARE GESTION",
+ "nom_complet": "FIDARE GESTION (FIDARE GESTION)",
+ "sigle": null,
+ "enseigne": "FIDARE GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-12-15",
+ "ville": "CINQ-MARS-LA-PILE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908431398",
+ "maj_rne": "2026-09-26T17:25:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN CHRISTOPHE OLIVIER",
+   "nom": "BEAUVAIS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE GABRIEL MICHEL",
+   "nom": "TROUSLARD",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/908431398",
+  "numero": "22000602",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/01/2022"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/908431398"
+ }
+}

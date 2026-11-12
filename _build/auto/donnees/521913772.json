@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "MAGELLIM REIM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21807"
+ },
+ "siren": "521913772",
+ "denomination": "MAGELLIM REIM",
+ "nom_complet": "MAGELLIM REIM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-03-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/521913772",
+ "maj_rne": "2026-09-30T16:04:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEVEN",
+   "nom": "PERRON",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21807",
+  "numero": "GP-14000048",
+  "date_agrement": "2014-12-19",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "44 rue de Villiers, 75017 PARIS",
+  "lei": "969500YGGH3VHD5MLD96",
+  "denomination": "Magellim REIM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000048.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21807"
+ }
+}

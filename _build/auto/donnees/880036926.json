@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "EPICUREAM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29457"
+ },
+ "siren": "880036926",
+ "denomination": "EPICUREAM",
+ "nom_complet": "EPICUREAM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-12-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/880036926",
+ "maj_rne": "2026-09-26T04:37:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "CHEVRIER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "DE WARREN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29457",
+  "numero": "GP-21000011",
+  "date_agrement": "2021-03-23",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "106 rue de sévres, 75015 PARIS",
+  "lei": "969500YK5Z9FZEWKC076",
+  "denomination": "EPICUREAM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-21000011.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29457"
+ }
+}

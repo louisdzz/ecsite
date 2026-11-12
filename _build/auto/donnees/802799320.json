@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "REDTREE CAPITAL FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29643"
+ },
+ "siren": "802799320",
+ "denomination": "REDTREE CAPITAL FRANCE",
+ "nom_complet": "REDTREE CAPITAL FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-05-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/802799320",
+ "maj_rne": "2026-09-25T02:18:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "SASSON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANK",
+   "nom": "VITAGLIONE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29643",
+  "numero": "GP-21000020",
+  "date_agrement": "2021-05-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "7 Place d'Iena, 75116 PARIS",
+  "lei": "96950035HN32IDWXZF28",
+  "denomination": "REDTREE CAPITAL FRANCE"
+ },
+ "site": "https://www.redtreecapital.com",
+ "site_pages": [
+  "https://www.redtreecapital.com/",
+  "https://www.redtreecapital.com/legal-mentions"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-21000020.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/29643"
+ },
+ "site_source": "https://www.redtreecapital.com/"
+}

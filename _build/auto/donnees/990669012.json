@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LUMEN INVESTISSEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 37",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990669012"
+ },
+ "siren": "990669012",
+ "denomination": "LUMEN INVESTISSEMENT",
+ "nom_complet": "LUMEN INVESTISSEMENT (LUMEN INVESTISSEMENT)",
+ "sigle": null,
+ "enseigne": "LUMEN INVESTISSEMENT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-09-29",
+ "ville": "ROCHECORBON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990669012",
+ "maj_rne": "2026-09-28T04:27:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YOHANN LUC JOACHIM",
+   "nom": "AIMEE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/990669012",
+  "numero": "25007621",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "26/09/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "24/10/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/990669012"
+ }
+}

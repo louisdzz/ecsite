@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "NC HABITAT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829642750"
+ },
+ "siren": "829642750",
+ "denomination": "NC HABITAT",
+ "nom_complet": "NC HABITAT (NC CONSEILS PATRIMONIAUX)",
+ "sigle": null,
+ "enseigne": "NC CONSEILS PATRIMONIAUX",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-05-09",
+ "ville": "VILLENAVE-D'ORNON",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829642750",
+ "maj_rne": "2026-07-16T18:15:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE",
+   "nom": "NAVARRO (NAVARRO)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE HERVE YVES",
+   "nom": "NAVARRO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/829642750",
+  "numero": "23004317",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "30/06/2023"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "30/06/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "20/06/2025"
+   },
+   {
+    "code": "ALPSI",
+    "libelle": "Agent lié de prestataire de services d'investissement",
+    "etat": "Supprimé",
+    "date": "16/05/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/829642750"
+ }
+}

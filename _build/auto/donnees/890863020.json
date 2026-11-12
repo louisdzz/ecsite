@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "CONSELY PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890863020"
+ },
+ "siren": "890863020",
+ "denomination": "CONSELY PATRIMOINE",
+ "nom_complet": "CONSELY PATRIMOINE (CONSELY PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "CONSELY PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-10-31",
+ "ville": "ANNECY",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890863020",
+ "maj_rne": "2026-09-26T09:23:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD FABIEN BERNARD",
+   "nom": "CRESPEL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL GILLES MARLEN FRANÇOIS",
+   "nom": "MOULIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "THEVENET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/890863020",
+  "numero": "20009230",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/890863020"
+ }
+}

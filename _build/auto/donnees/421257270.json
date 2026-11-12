@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "21 INVEST FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/166"
+ },
+ "siren": "421257270",
+ "denomination": "21 INVEST FRANCE",
+ "nom_complet": "21 INVEST FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-12-10",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/421257270",
+ "maj_rne": "2026-09-25T11:46:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "BARBIER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GIOVANNI",
+   "nom": "CORRADO",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTEO",
+   "nom": "FANCIULLACI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "PERRIQUET",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/166",
+  "numero": "GP99006",
+  "date_agrement": "1999-02-12",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "9, avenue Hoche, 75008 PARIS",
+  "lei": "9695005Y972LCPM2PG75",
+  "denomination": "21 INVEST FRANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP99006.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/166"
+ }
+}

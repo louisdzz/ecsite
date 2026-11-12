@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "PORTZAMPARC GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/366"
+ },
+ "siren": "326991163",
+ "denomination": "PORTZAMPARC GESTION",
+ "nom_complet": "PORTZAMPARC GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1983-04-01",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326991163",
+ "maj_rne": "2026-09-22T13:15:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL ANTOINE REGIS",
+   "nom": "COLLINET DE LA SALLE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND JEAN-YVES REGIS",
+   "nom": "LAMIELLE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EVE",
+   "nom": "LAW-THIME",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "PORTZAMPARC",
+   "siren": "399223437",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/366",
+  "numero": "GP97077",
+  "date_agrement": "1997-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "10, rue Meuris, 44186 NANTES",
+  "lei": "969500T74BGTAKN9AL59",
+  "denomination": "PORTZAMPARC GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97077.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/366"
+ }
+}

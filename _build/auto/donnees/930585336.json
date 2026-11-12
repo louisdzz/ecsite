@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "DIMM PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 69 (code postal 69210)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930585336"
+ },
+ "siren": "930585336",
+ "denomination": "DIMM PATRIMOINE",
+ "nom_complet": "DIMM PATRIMOINE (DIMM PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "DIMM PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-07-01",
+ "ville": "LENTILLY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930585336",
+ "maj_rne": "2026-09-27T19:35:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DÉBORAH JENNIFER",
+   "nom": "RODRIGUES",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/930585336",
+  "numero": "24005593",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/930585336"
+ }
+}

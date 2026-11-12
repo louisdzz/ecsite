@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "STEPHANE PARCILY CONSEIL PATRIMONIAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/894935923"
+ },
+ "siren": "894935923",
+ "denomination": "STEPHANE PARCILY CONSEIL PATRIMONIAL",
+ "nom_complet": "STEPHANE PARCILY CONSEIL PATRIMONIAL (SP CONSEIL IMMO) (SPCP)",
+ "sigle": "SPCP",
+ "enseigne": "SP CONSEIL IMMO",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-01-22",
+ "ville": "CANDILLARGUES",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/894935923",
+ "maj_rne": "2026-09-26T11:47:25",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE JEAN-FRANCOIS",
+   "nom": "PARCILY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/894935923",
+  "numero": "23002833",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/05/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/894935923"
+ }
+}

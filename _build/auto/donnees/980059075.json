@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "COLBERT PATRIMOINE FINANCE LES HERBIERS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 85",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980059075"
+ },
+ "siren": "980059075",
+ "denomination": "COLBERT PATRIMOINE FINANCE LES HERBIERS",
+ "nom_complet": "COLBERT PATRIMOINE FINANCE LES HERBIERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-09-22",
+ "ville": "HERBIERS (LES)",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980059075",
+ "maj_rne": "2026-09-27T13:49:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT-CHARLES",
+   "nom": "CLERICE DE MEYNARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WILLIAM",
+   "nom": "DAVID",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISKRA STOILOVA",
+   "nom": "KRATCHMAROVA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/980059075",
+  "numero": "26007014",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/05/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/05/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/980059075"
+ }
+}

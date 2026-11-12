@@ -1,0 +1,130 @@
+{
+ "nom_usuel": "UZES GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/221"
+ },
+ "siren": "318743960",
+ "denomination": "UZES GESTION",
+ "nom_complet": "UZES GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1980-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/318743960",
+ "maj_rne": "2026-09-22T11:58:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "GENDILLOU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE",
+   "nom": "GODET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉDRIC ALEXANDRE MARIE ANDRÉ",
+   "nom": "GOIRAND",
+   "qualite": ""
+  },
+  {
+   "type": "pp",
+   "prenoms": "STANISLAS",
+   "nom": "GOIRAND",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY DOMINIQUE",
+   "nom": "GOIRAND",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE MARIE",
+   "nom": "JUILLARD",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALICE",
+   "nom": "LHABOUZ",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RUI",
+   "nom": "LOPES-FERNANDES",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "MAUGEY",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "PERRICARD",
+   "qualite": "Membre du directoire, Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN FRANCOIS",
+   "nom": "WEILL",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE D'UZES SA",
+   "siren": "349052852",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/221",
+  "numero": "GP-04000053",
+  "date_agrement": "1997-03-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "75002 PARIS",
+  "lei": "9695000LDTHLV0MP6Q81",
+  "denomination": "UZES GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000053.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/221"
+ }
+}

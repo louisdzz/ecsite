@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ETUDES CONSEILS PATRIMOINE GESTION",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440527638"
+ },
+ "siren": "440527638",
+ "denomination": "ETUDES CONSEILS PATRIMOINE GESTION",
+ "nom_complet": "ETUDES CONSEILS PATRIMOINE GESTION (E C P GESTION)",
+ "sigle": null,
+ "enseigne": "E C P GESTION",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2001-12-19",
+ "ville": "CRETEIL",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440527638",
+ "maj_rne": "2026-09-23T11:52:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "PAGES",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/440527638",
+  "numero": "07025569",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/06/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/08/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/440527638"
+ }
+}

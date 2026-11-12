@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ASSEO CONSEIL GESTION PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19A dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440619302"
+ },
+ "siren": "440619302",
+ "denomination": "ASSEO CONSEIL GESTION PATRIMOINE",
+ "nom_complet": "ASSEO CONSEIL GESTION PATRIMOINE (ACG PATRIMOINE)",
+ "sigle": "ACG PATRIMOINE",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2002-01-11",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440619302",
+ "maj_rne": "2026-09-23T11:55:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND SALVADOR",
+   "nom": "ASSEO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/440619302",
+  "numero": "07003939",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/01/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/440619302"
+ }
+}

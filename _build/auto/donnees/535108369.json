@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "SANSO LONGCHAMP ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18596"
+ },
+ "siren": "535108369",
+ "denomination": "SANSO LONGCHAMP ASSET MANAGEMENT",
+ "nom_complet": "SANSO LONGCHAMP ASSET MANAGEMENT (SANSO IS)",
+ "sigle": null,
+ "enseigne": "SANSO IS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-09-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/535108369",
+ "maj_rne": "2026-09-24T14:20:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "ARMSTRONG",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "KALFON",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18596",
+  "numero": "GP-11000033",
+  "date_agrement": "2011-10-19",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "17 rue de Chaillot, 75116 PARIS",
+  "lei": "969500YG058LY4Z60081",
+  "denomination": "SANSO LONGCHAMP ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000033.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18596"
+ }
+}

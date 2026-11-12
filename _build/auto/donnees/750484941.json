@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LE HENAFF CONSEIL ET PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 35",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/750484941"
+ },
+ "siren": "750484941",
+ "denomination": "LE HENAFF CONSEIL ET PATRIMOINE",
+ "nom_complet": "LE HENAFF CONSEIL ET PATRIMOINE (LE HENAFF CONSEIL ET PATRIMOINE) (LHCP)",
+ "sigle": "LHCP",
+ "enseigne": "LE HENAFF CONSEIL ET PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2012-03-01",
+ "ville": "BRUZ",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/750484941",
+ "maj_rne": "2026-09-24T17:47:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "LE HENAFF",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/750484941",
+  "numero": "18008054",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/03/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "14/12/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/750484941"
+ }
+}

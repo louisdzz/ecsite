@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "PEA COTE BASQUE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/999578404"
+ },
+ "siren": "999578404",
+ "denomination": "PEA COTE BASQUE",
+ "nom_complet": "PEA COTE BASQUE (PEA COTE BASQUE)",
+ "sigle": null,
+ "enseigne": "PEA COTE BASQUE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-01-01",
+ "ville": "PAU",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/999578404",
+ "maj_rne": "2026-09-28T07:24:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "BRUNORO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MALCOLM YANNICK MARC",
+   "nom": "VINCENT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/999578404",
+  "numero": "26004463",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "03/04/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "03/04/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/999578404"
+ }
+}

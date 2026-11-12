@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ACTE PATRIMOINE STEPHANE GAY",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19A dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500631890"
+ },
+ "siren": "500631890",
+ "denomination": "ACTE PATRIMOINE STEPHANE GAY",
+ "nom_complet": "ACTE PATRIMOINE STEPHANE GAY",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-10-23",
+ "ville": "SAINT-BAUZILLE-DE-MONTMEL",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/500631890",
+ "maj_rne": "2026-09-24T02:36:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "GAY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/500631890",
+  "numero": "08040615",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/03/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/01/2008"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/500631890"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "AVA INVESTISSEMENTS CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75014)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824197255"
+ },
+ "siren": "824197255",
+ "denomination": "AVA INVESTISSEMENTS CONSEIL",
+ "nom_complet": "AVA INVESTISSEMENTS CONSEIL (AVA INVESTISSEMENTS CONSEIL) (AIC)",
+ "sigle": "AIC",
+ "enseigne": "AVA INVESTISSEMENTS CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824197255",
+ "maj_rne": "2026-09-25T12:33:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHAEL",
+   "nom": "BRAKA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/824197255",
+  "numero": "17002074",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "13/04/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/824197255"
+ }
+}

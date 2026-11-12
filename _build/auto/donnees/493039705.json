@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "A.T.P.E. (AGENCE TRANSMISION PATRIMOINE ENTREPRISE)",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 22",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493039705"
+ },
+ "siren": "493039705",
+ "denomination": "A.T.P.E. (AGENCE TRANSMISION PATRIMOINE ENTREPRISE)",
+ "nom_complet": "A.T.P.E. (AGENCE TRANSMISION PATRIMOINE ENTREPRISE)",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2006-11-27",
+ "ville": "LANNION",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493039705",
+ "maj_rne": "2026-09-24T00:13:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DIDIER MARC",
+   "nom": "LAPORTE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MANUEL CLAUDE ALAIN",
+   "nom": "PARENT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/493039705",
+  "numero": "08043232",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/05/2015"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/11/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/493039705"
+ }
+}

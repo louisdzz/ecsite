@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LEONHARD INVESTMENT ADVISORS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 06",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927615468"
+ },
+ "siren": "927615468",
+ "denomination": "LEONHARD INVESTMENT ADVISORS",
+ "nom_complet": "LEONHARD INVESTMENT ADVISORS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-04-11",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927615468",
+ "maj_rne": "2026-09-27T17:57:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "IVAN",
+   "nom": "GOKALSING-POUPIA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/927615468",
+  "numero": "25008750",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/11/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/927615468"
+ }
+}

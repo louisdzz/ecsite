@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CLAY ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18427"
+ },
+ "siren": "537447351",
+ "denomination": "CLAY ASSET MANAGEMENT",
+ "nom_complet": "CLAY ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537447351",
+ "maj_rne": "2026-09-24T14:27:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRILLE",
+   "nom": "BERGE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDOVIC",
+   "nom": "DE POLIGNAC",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18427",
+  "numero": "GP-11000034",
+  "date_agrement": "2011-10-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "26, rue Saussier Leroy, 75017 PARIS",
+  "lei": "969500V9LMH9UDRRIT12",
+  "denomination": "CLAY ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000034.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18427"
+ }
+}

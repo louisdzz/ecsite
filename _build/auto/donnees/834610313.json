@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "KYANEOS ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25575"
+ },
+ "siren": "834610313",
+ "denomination": "KYANEOS ASSET MANAGEMENT",
+ "nom_complet": "KYANEOS ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-01-05",
+ "ville": "LES ANGLES",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/834610313",
+ "maj_rne": "2026-09-25T18:16:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "PICOT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEREMIE",
+   "nom": "ROUZAUD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25575",
+  "numero": "GP-18000002",
+  "date_agrement": "2018-02-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "avenue de la 2ème DB, 30133 LES ANGLES",
+  "lei": "969500O91CKO70UQUZ81",
+  "denomination": "KYANEOS ASSET MANAGEMENT"
+ },
+ "site": "https://www.kyaneosAM.com",
+ "site_pages": [
+  "https://kyaneosam.com/",
+  "https://kyaneosam.com/mentions-legales/",
+  "https://kyaneosam.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-18000002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25575"
+ },
+ "site_source": "https://kyaneosam.com/mentions-legales/"
+}

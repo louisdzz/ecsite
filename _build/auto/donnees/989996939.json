@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "MCP CAPITAL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75017)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989996939"
+ },
+ "siren": "989996939",
+ "denomination": "MCP CAPITAL",
+ "nom_complet": "MCP CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-07-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989996939",
+ "maj_rne": "2026-09-30T12:23:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND GILLES MARIE",
+   "nom": "COSTES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALBAN HUBERT",
+   "nom": "DU BREIL DE PONTBRIAND DE LA CAUNELAYE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIEN",
+   "nom": "MOISI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK PIERRE",
+   "nom": "PAYEN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/989996939",
+  "numero": "25007913",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "21/11/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/10/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/11/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/989996939"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "IN EXTENSO PATRIMOINE CENTRE OUEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 49",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828501999"
+ },
+ "siren": "828501999",
+ "denomination": "IN EXTENSO PATRIMOINE CENTRE OUEST",
+ "nom_complet": "IN EXTENSO PATRIMOINE CENTRE OUEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-03-06",
+ "ville": "CHOLET",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828501999",
+ "maj_rne": "2026-09-25T14:01:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GAETAN",
+   "nom": "DANDO",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LIONEL",
+   "nom": "DOUYEAU",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/828501999",
+  "numero": "17002641",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/828501999"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "1001 PATRIMOINES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/840212831"
+ },
+ "siren": "840212831",
+ "denomination": "1001 PATRIMOINES",
+ "nom_complet": "1001 PATRIMOINES (1001 PATRIMOINES)",
+ "sigle": null,
+ "enseigne": "1001 PATRIMOINES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-05-22",
+ "ville": "TASSIN-LA-DEMI-LUNE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/840212831",
+ "maj_rne": "2026-09-25T20:19:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE THERESE PAULETTE",
+   "nom": "BOULAY (LEGUY)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE GENEVIEVE ANNIE",
+   "nom": "VEYRE DE SORAS (VALIN)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/840212831",
+  "numero": "18004423",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/07/2018"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/04/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/840212831"
+ }
+}

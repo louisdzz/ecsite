@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "EQUITAM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/323682"
+ },
+ "siren": "909798530",
+ "denomination": "EQUITAM",
+ "nom_complet": "EQUITAM (EQUITAM)",
+ "sigle": null,
+ "enseigne": "EQUITAM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-01-26",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909798530",
+ "maj_rne": "2026-09-26T18:11:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTHONY MARIE FRANCIS ROBERT",
+   "nom": "FABRE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARMAN",
+   "nom": "MANSOURI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/323682",
+  "numero": "GP-20230014",
+  "date_agrement": "2023-07-12",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "33 Allées de Chartres, 33000 BORDEAUX",
+  "lei": "969500AB8R3HRL4OA536",
+  "denomination": "EQUITAM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230014.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/323682"
+ }
+}

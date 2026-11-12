@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "AD-ASTA GESTION FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/332017"
+ },
+ "siren": "948607858",
+ "denomination": "AD-ASTA GESTION FRANCE",
+ "nom_complet": "AD-ASTA GESTION FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-01-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948607858",
+ "maj_rne": "2026-09-29T13:41:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE MATTHIEU",
+   "nom": "CUNY",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LESLIE",
+   "nom": "ROYERE (KAPIN)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/332017",
+  "numero": "GP-20260002",
+  "date_agrement": "2026-02-06",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "2 RUE DE LABORDE, 75008 PARIS",
+  "lei": "636700U9RMD1F4E6QH05",
+  "denomination": "AD-ASTA GESTION FRANCE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/332017"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ENTREPRISE & PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19A dép. 32",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979828134"
+ },
+ "siren": "979828134",
+ "denomination": "ENTREPRISE & PATRIMOINE",
+ "nom_complet": "ENTREPRISE & PATRIMOINE (ENTREPRISE & PATRIMOINE) (E&P)",
+ "sigle": "E&P",
+ "enseigne": "ENTREPRISE & PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-12-01",
+ "ville": "GIMONT",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/979828134",
+ "maj_rne": "2026-07-16T19:16:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THÉO PAUL FRIDOL",
+   "nom": "LABORDE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELHADJ HASNI",
+   "nom": "NOUAR",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/979828134",
+  "numero": "23007116",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/09/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "27/10/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/10/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/979828134"
+ }
+}

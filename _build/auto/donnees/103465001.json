@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "RIDGEROCK FRANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/103465001"
+ },
+ "siren": "103465001",
+ "denomination": "RIDGEROCK FRANCE",
+ "nom_complet": "RIDGEROCK FRANCE (RIDGEROCK)",
+ "sigle": null,
+ "enseigne": "RIDGEROCK",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-02-01",
+ "ville": "ARCHAMPS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/103465001",
+ "maj_rne": "2026-09-28T09:47:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DUCROUX",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARTHUR HERVÉ BAPTISTE",
+   "nom": "SILVESTRE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/103465001",
+  "numero": "26008238",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/09/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/103465001"
+ }
+}

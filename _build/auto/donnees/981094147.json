@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "SOGECA GESTION DE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981094147"
+ },
+ "siren": "981094147",
+ "denomination": "SOGECA GESTION DE PATRIMOINE",
+ "nom_complet": "SOGECA GESTION DE PATRIMOINE (SOGECA GESTION DE PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "SOGECA GESTION DE PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-11-01",
+ "ville": "BAYONNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981094147",
+ "maj_rne": "2026-09-27T14:38:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME MICHEL GHISLAIN",
+   "nom": "LAPALU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/981094147",
+  "numero": "24000243",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "12/01/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/01/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/01/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/981094147"
+ }
+}

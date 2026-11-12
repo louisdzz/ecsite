@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "STAM FRANCE INVESTMENT MANAGERS SAS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13686"
+ },
+ "siren": "502099922",
+ "denomination": "STAM FRANCE INVESTMENT MANAGERS SAS",
+ "nom_complet": "STAM FRANCE INVESTMENT MANAGERS SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-01-17",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502099922",
+ "maj_rne": "2026-09-24T03:17:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARTIN FRANÇOIS RENÉ",
+   "nom": "JACQUESSON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SAMANTHA",
+   "nom": "ROUX (SUDRE)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13686",
+  "numero": "GP-08000012",
+  "date_agrement": "2008-02-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "18-20 place de la Madeleine, 75008 PARIS",
+  "lei": "969500O5KTR8ICT7F294",
+  "denomination": "STAM FRANCE INVESTMENT MANAGERS SAS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13686"
+ }
+}

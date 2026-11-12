@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "IMMOINVESTIR",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 75",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438476830"
+ },
+ "siren": "438476830",
+ "denomination": "IMMOINVESTIR",
+ "nom_complet": "IMMOINVESTIR (IMMOINVESTIR)",
+ "sigle": null,
+ "enseigne": "IMMOINVESTIR",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-06-10",
+ "ville": "VERTOU",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438476830",
+ "maj_rne": "2026-07-16T17:53:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "CASTELLIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDOUARD",
+   "nom": "FOURNIAU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/438476830",
+  "numero": "25007562",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "26/09/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/438476830"
+ }
+}

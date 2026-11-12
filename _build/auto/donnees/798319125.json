@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "RENARD PARTENAIRES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 59",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798319125"
+ },
+ "siren": "798319125",
+ "denomination": "RENARD PARTENAIRES",
+ "nom_complet": "RENARD PARTENAIRES (RENARD PARTENAIRES)",
+ "sigle": null,
+ "enseigne": "RENARD PARTENAIRES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-10-01",
+ "ville": "TOURCOING",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798319125",
+ "maj_rne": "2026-09-25T00:06:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RACHEL",
+   "nom": "DE VALICOURT (JANIN)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "FUTUR CAPITAL",
+   "siren": "829174234",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "TMJ CAPITAL",
+   "siren": "829470566",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/798319125",
+  "numero": "14000180",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "06/03/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "04/09/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/01/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "14/02/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/798319125"
+ }
+}

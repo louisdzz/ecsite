@@ -1,0 +1,93 @@
+{
+ "nom_usuel": "CGP EXPERT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "cgp-expert",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 10 (NAF 66.19B et 66.22Z, 85 départements de métropole et d'outre-mer hors Île-de-France et hors départements déjà parcourus), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.cgpexpert.fr/mentions-legales-2/"
+ },
+ "siren": "437985252",
+ "denomination": "CGP EXPERT",
+ "nom_complet": "CGP EXPERT (CGP ENTREPRISES)",
+ "sigle": null,
+ "enseigne": "CGP ENTREPRISES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2001-06-01",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/437985252",
+ "maj_rne": "2026-09-23T10:33:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GWENDOLINE SABRINA AURELIE",
+   "nom": "BAREL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "BOULANGER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KILIAN REMY RICHARD",
+   "nom": "VIVIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/437985252",
+  "numero": "07002236",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "29/03/2019"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "15/02/2019"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/11/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.cgpexpert.fr",
+ "site_pages": [
+  "https://www.cgpexpert.fr",
+  "https://www.cgpexpert.fr/mentions-legales-2/",
+  "https://www.cgpexpert.fr/mentions-legales/",
+  "https://www.cgpexpert.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/437985252"
+ }
+}

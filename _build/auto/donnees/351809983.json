@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "STRATEGIE PATRIMOINE VANNES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351809983"
+ },
+ "siren": "351809983",
+ "denomination": "STRATEGIE PATRIMOINE VANNES",
+ "nom_complet": "STRATEGIE PATRIMOINE VANNES (STRATEGIE PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "STRATEGIE PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1989-08-15",
+ "ville": "VANNES",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351809983",
+ "maj_rne": "2026-09-22T17:13:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLES PIERRE ANDRE",
+   "nom": "GATEY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/351809983",
+  "numero": "07000901",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/08/2020"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/05/2007"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/351809983"
+ }
+}

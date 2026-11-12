@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "ACCI PLUS GLOBAL SOLUTIONS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 30",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/978381671"
+ },
+ "siren": "978381671",
+ "denomination": "ACCI PLUS GLOBAL SOLUTIONS",
+ "nom_complet": "ACCI PLUS GLOBAL SOLUTIONS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-08-01",
+ "ville": "NIMES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/978381671",
+ "maj_rne": "2026-09-27T13:33:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS MANUEL",
+   "nom": "AFONSO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUCIE ANAIS",
+   "nom": "ANQUETIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JIMMY LAURENT PATRICIA",
+   "nom": "COMBETTE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLIA OCÉANE",
+   "nom": "HALLES",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES JEAN NICOLAS",
+   "nom": "LAUMESFELT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURE CLAIRE ISABELLE CHARLENE",
+   "nom": "VALLEE (MESTRES)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE RENE",
+   "nom": "MILONET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE MARIE",
+   "nom": "MOULIN-LAUMESFELT (MOULIN)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER LUC FABIEN",
+   "nom": "PITOU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "SOULIE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/978381671",
+  "numero": "23008536",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/12/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/978381671"
+ }
+}

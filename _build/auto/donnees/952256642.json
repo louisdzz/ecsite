@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "MON CONSEILLER EN GESTION DE PATRIMOINE INDEPENDANT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/952256642"
+ },
+ "siren": "952256642",
+ "denomination": "MON CONSEILLER EN GESTION DE PATRIMOINE INDEPENDANT",
+ "nom_complet": "MON CONSEILLER EN GESTION DE PATRIMOINE INDEPENDANT (MON CGPI)",
+ "sigle": "MON CGPI",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-05-01",
+ "ville": "FENOUILLET",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/952256642",
+ "maj_rne": "2026-09-27T10:47:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NGOC-MINH",
+   "nom": "TRUONG",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/952256642",
+  "numero": "23005347",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/952256642"
+ }
+}

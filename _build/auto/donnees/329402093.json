@@ -1,0 +1,149 @@
+{
+ "nom_usuel": "MATIGNON FINANCES",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/902"
+ },
+ "siren": "329402093",
+ "denomination": "MATIGNON FINANCES",
+ "nom_complet": "MATIGNON FINANCES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1984-03-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/329402093",
+ "maj_rne": "2026-09-22T13:50:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GEOFFROY",
+   "nom": "CHATILLON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "QUINIOU (CHAUSSADE)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DADVISARD",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "DADVISARD",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "DE CHOLET",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "DE LA FOURNIERE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "DE ROCHECHOUART",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "DELAUNOY DE LA TOUR D'ARTAISE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "DES ROBERT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL",
+   "nom": "LAMOTTE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "LEGOUZ DE SAINT SEINE RODOCANACHI",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE",
+   "nom": "PRADE (PIQUEMAL)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "MATIGNON PARTNERS",
+   "siren": "809755507",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "FINANCIERE DU CHARDON",
+   "siren": "880235536",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/902",
+  "numero": "GP90012",
+  "date_agrement": "1990-05-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "43/45 avenue Kléber, 75116 PARIS",
+  "lei": "969500AHDMNE6SPYPZ55",
+  "denomination": "MATIGNON FINANCES"
+ },
+ "site": "https://www.matignonfinances.com",
+ "site_pages": [
+  "https://www.matignonfinances.com/fr",
+  "https://www.matignonfinances.com/fr/informations-reglementaires",
+  "https://www.matignonfinances.com/fr/mentions-legales",
+  "https://www.matignonfinances.com/fr",
+  "https://www.matignonfinances.com/fr"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/902"
+ },
+ "site_source": "https://www.matignonfinances.com/fr/mentions-legales"
+}

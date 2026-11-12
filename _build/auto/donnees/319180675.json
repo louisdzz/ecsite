@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "CREDIT MUTUEL GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/362"
+ },
+ "siren": "319180675",
+ "denomination": "CREDIT MUTUEL GESTION",
+ "nom_complet": "CREDIT MUTUEL GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1980-05-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319180675",
+ "maj_rne": "2026-09-22T12:05:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "CADIOU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE",
+   "nom": "LABARRE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT MUTUEL ASSET MANAGEMENT",
+   "siren": "388555021",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT INDUSTRIEL ET COMMERCIAL",
+   "siren": "542016381",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/362",
+  "numero": "GP97023",
+  "date_agrement": "1997-03-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "60, rue de la Victoire, 75009 PARIS",
+  "lei": "9695004JE6VLTPDPDQ64",
+  "denomination": "CREDIT MUTUEL GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/362"
+ }
+}

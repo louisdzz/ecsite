@@ -1,0 +1,118 @@
+{
+ "nom_usuel": "CA INDOSUEZ GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/145"
+ },
+ "siren": "392945382",
+ "denomination": "CA INDOSUEZ GESTION",
+ "nom_complet": "CA INDOSUEZ GESTION (GPI)",
+ "sigle": "GPI",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1993-11-08",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392945382",
+ "maj_rne": "2026-09-27T03:53:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIE",
+   "nom": "DE LA PALME (AUBÉ)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS NICOLAS",
+   "nom": "BAUDIENVILLE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PETER",
+   "nom": "DE COENSEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE",
+   "nom": "TIGER (DI PIZIO)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VÉRONIQUE",
+   "nom": "DRANSART",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "BURDIN (GUILLAUMOT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "JIANOUX (ISNARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "RIMAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AMELIE",
+   "nom": "ROUX",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "TASSOU",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/145",
+  "numero": "GP98025",
+  "date_agrement": "1998-07-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "17, rue du Docteur Lancereaux, 75008 PARIS",
+  "lei": "969500BWKQRQVVK1HK94",
+  "denomination": "CA INDOSUEZ GESTION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98025.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/145"
+ }
+}

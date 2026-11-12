@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "ACER FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1107"
+ },
+ "siren": "380130609",
+ "denomination": "ACER FINANCE",
+ "nom_complet": "ACER FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-12-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/380130609",
+ "maj_rne": "2026-09-22T19:18:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RODOLPHE",
+   "nom": "HERBELIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "LEMARE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "LETRILLIART",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "LOUIS",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "MARTIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERNARD PIERRE LOUIS",
+   "nom": "OCHS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "WEISGERBER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "H.T.L.",
+   "siren": "481320489",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1107",
+  "numero": "GP95009",
+  "date_agrement": "1995-06-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "8 RUE DANIELLE CASANOVA, 75002 PARIS",
+  "lei": "969500E3IE5WW0SF4R79",
+  "denomination": "ACER FINANCE"
+ },
+ "site": "https://www.acerfinance.com",
+ "site_pages": [
+  "https://www.acerfinance.com",
+  "https://www.acerfinance.com/mentions-legales/",
+  "https://www.acerfinance.com/informations-reglementaires/",
+  "https://www.acerfinance.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP95009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1107"
+ },
+ "site_source": "https://www.acerfinance.com/mentions-legales/"
+}

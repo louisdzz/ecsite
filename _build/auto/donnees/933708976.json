@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "AECUS PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328329"
+ },
+ "siren": "933708976",
+ "denomination": "AECUS PARTNERS",
+ "nom_complet": "AECUS PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-10-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/933708976",
+ "maj_rne": "2026-09-30T04:37:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "COSSERAT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HELEN",
+   "nom": "LOWDON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JANE",
+   "nom": "RUSSELL",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALISTAIR",
+   "nom": "WITTET",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328329",
+  "numero": "GP-20240027",
+  "date_agrement": "2024-12-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "128 rue du Faubourg Saint-Honore, 75008 PARIS",
+  "lei": "894500098HAAC5BURA25",
+  "denomination": "AECUS PARTNERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20240027.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/328329"
+ }
+}

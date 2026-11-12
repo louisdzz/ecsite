@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CONFLUENCE PATRIMOINE CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508577251"
+ },
+ "siren": "508577251",
+ "denomination": "CONFLUENCE PATRIMOINE CONSEIL",
+ "nom_complet": "CONFLUENCE PATRIMOINE CONSEIL (ASSURANCES-VIE-SANS-FRAIS.COM) (CPC)",
+ "sigle": "CPC",
+ "enseigne": "ASSURANCES-VIE-SANS-FRAIS.COM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-11-15",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508577251",
+ "maj_rne": "2026-09-24T05:17:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN YOANN",
+   "nom": "BERTRAND",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT PIERRE",
+   "nom": "JOURNET",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/508577251",
+  "numero": "08045733",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "03/03/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/11/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/04/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/508577251"
+ }
+}

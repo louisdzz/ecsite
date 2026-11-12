@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "TISSENDO GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537880411"
+ },
+ "siren": "537880411",
+ "denomination": "TISSENDO GESTION PRIVEE",
+ "nom_complet": "TISSENDO GESTION PRIVEE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-10-25",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537880411",
+ "maj_rne": "2026-10-13T19:33:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID PIERRE FRANCOIS",
+   "nom": "BRUNET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "GEFFI CONSEIL",
+   "siren": "804067940",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "S.O.L.L.C. CONSEILS",
+   "siren": "908113004",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "HEXIA CONSEILS",
+   "siren": "989218508",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/537880411",
+  "numero": "24001260",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/537880411"
+ }
+}

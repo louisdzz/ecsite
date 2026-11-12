@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "ATOUTGEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 49",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980896005"
+ },
+ "siren": "980896005",
+ "denomination": "ATOUTGEST",
+ "nom_complet": "ATOUTGEST (ATOUTGEST)",
+ "sigle": null,
+ "enseigne": "ATOUTGEST",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-10-12",
+ "ville": "ANGERS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980896005",
+ "maj_rne": "2026-07-01T20:02:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE JACQUELINE MARYVONNE",
+   "nom": "BESNARD (BESNARD)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/980896005",
+  "numero": "24000687",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "26/01/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/03/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/980896005"
+ }
+}

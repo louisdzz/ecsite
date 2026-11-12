@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "QANTARA ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308316"
+ },
+ "siren": "912686672",
+ "denomination": "QANTARA ASSET MANAGEMENT",
+ "nom_complet": "QANTARA ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-04-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/912686672",
+ "maj_rne": "2026-09-26T19:49:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JAMES",
+   "nom": "KUATÉ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "WILLIAM",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308316",
+  "numero": "GP-20230002",
+  "date_agrement": "2023-01-04",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "44 b Rue Pasquier, 75008 PARIS",
+  "lei": "969500O5SY7GWHVB5X54",
+  "denomination": "QANTARA ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308316"
+ }
+}

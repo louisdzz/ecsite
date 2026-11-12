@@ -1,0 +1,130 @@
+{
+ "nom_usuel": "GROUPAMA ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1071"
+ },
+ "siren": "389522152",
+ "denomination": "GROUPAMA ASSET MANAGEMENT",
+ "nom_complet": "GROUPAMA ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1992-12-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/389522152",
+ "maj_rne": "2026-09-22T21:29:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MIRELA",
+   "nom": "AGACHE-DURAND (AGACHE)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ASSEMAT",
+   "qualite": "Vice-Président"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VERONIQUE",
+   "nom": "NÉDÉLEC (CORRE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "DOUXAMI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "GUIADER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "HOCHE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "PEQUEUX",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELODIE",
+   "nom": "SCHALLER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENCE",
+   "nom": "BRETHES (SOULE DE LAFONT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCIS",
+   "nom": "THOMINE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE NATIONALE DE REASSURANCE MUTUELLE AGRICOLE GROUPAMA",
+   "siren": "343115135",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "COFINTEX 2",
+   "siren": "421189440",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1071",
+  "numero": "GP93002",
+  "date_agrement": "1993-01-05",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "25, rue de la Ville l'Evêque, 75008 PARIS",
+  "lei": "96950003NUWIFWUNHV80",
+  "denomination": "GROUPAMA ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP93002.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1071"
+ }
+}

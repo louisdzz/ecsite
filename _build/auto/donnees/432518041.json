@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "DNCA FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/707"
+ },
+ "siren": "432518041",
+ "denomination": "DNCA FINANCE",
+ "nom_complet": "DNCA FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société en commandite simple",
+ "forme_code": "5306",
+ "creation": "2000-07-28",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/432518041",
+ "maj_rne": "2026-10-02T07:00:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "EGLIZEAU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "FRANC",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CHARLES",
+   "nom": "MERIAUX",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGOIRE",
+   "nom": "SCHEIFF",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "SETBON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS SA",
+   "siren": "453952681",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "NATIXIS INVESTMENT MANAGERS PARTICIPATIONS 3",
+   "siren": "484516919",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIÉTÉ DES CADRES DNCA",
+   "siren": "823892229",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/707",
+  "numero": "GP00030",
+  "date_agrement": "1900-01-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "19, place Vendôme, 75001 PARIS",
+  "lei": "9695000CUPKHA77F4266",
+  "denomination": "DNCA FINANCE"
+ },
+ "site": "https://www.dnca-investments.com",
+ "site_pages": [
+  "https://www.dnca-investments.com",
+  "https://www.dnca-investments.com/mentions-legales",
+  "https://www.dnca-investments.com/informations-reglementaires",
+  "https://www.dnca-investments.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/707"
+ },
+ "site_source": "https://www.dnca-investments.com/mentions-legales"
+}

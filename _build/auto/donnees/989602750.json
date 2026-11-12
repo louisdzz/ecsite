@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "GROUPE LG2M",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989602750"
+ },
+ "siren": "989602750",
+ "denomination": "GROUPE LG2M",
+ "nom_complet": "GROUPE LG2M (LG2M PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "LG2M PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-07-21",
+ "ville": "ANNECY",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/989602750",
+ "maj_rne": "2026-09-28T03:56:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENE CHRISTELLE",
+   "nom": "GONZALEZ",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERWAN",
+   "nom": "GUIAVARC H",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN EMERIC GUILLAUME",
+   "nom": "SOHIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/989602750",
+  "numero": "25006897",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/01/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/989602750"
+ }
+}

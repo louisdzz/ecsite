@@ -1,0 +1,134 @@
+{
+ "nom_usuel": "OFI INVEST ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1063"
+ },
+ "siren": "384940342",
+ "denomination": "OFI INVEST ASSET MANAGEMENT",
+ "nom_complet": "OFI INVEST ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1992-03-03",
+ "ville": "ISSY-LES-MOULINEAUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384940342",
+ "maj_rne": "2026-09-29T18:36:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "BERTRAND",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "DEMONT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "LABROSSE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "POLI",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRYSOULA",
+   "nom": "ZERVOUDAKIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MUTAVIE",
+   "siren": "315652263",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ABEILLE ASSURANCES HOLDING",
+   "siren": "331309120",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "AÉMA GROUPE",
+   "siren": "493754261",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "OFIVALMO PARTENAIRES",
+   "siren": "702053851",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ABEILLE VIE SOCIÉTÉ ANONYME D'ASSURANCES VIE ET CAPITALISATION EN ABRÉGÉ ABEILLE VIE",
+   "siren": "732020805",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "AESIO MUTUELLE",
+   "siren": "775627391",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MUTUELLE ASSURANCE DES COMMERCANTS ET INDUSTRIELS DE FRANCE ET DES CADRES ET SALARIES DE L INDUSTRIE ET DU COMMERCE",
+   "siren": "781452511",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1063",
+  "numero": "GP92012",
+  "date_agrement": "2001-01-12",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "127/129 quai du Président Roosevelt, 92130 ISSY-LES-MOULINEAUX",
+  "lei": "7DOA3A75EDWS6E3NMH88",
+  "denomination": "OFI INVEST ASSET MANAGEMENT"
+ },
+ "site": "https://www.ofi-invest-am.com",
+ "site_pages": [
+  "https://www.ofi-invest-am.com/fr",
+  "https://www.ofi-invest-am.com/fr/informations-reglementaires"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP92012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1063"
+ },
+ "site_source": "https://www.ofi-invest-am.com/fr"
+}

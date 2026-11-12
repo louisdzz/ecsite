@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "VIA LA PLATEFORME PATRIMONIALE STRASBOURG",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 67",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519754311"
+ },
+ "siren": "519754311",
+ "denomination": "VIA LA PLATEFORME PATRIMONIALE STRASBOURG",
+ "nom_complet": "VIA LA PLATEFORME PATRIMONIALE STRASBOURG (VIA LA PLATEFORME PATRIMONIALE)",
+ "sigle": null,
+ "enseigne": "VIA LA PLATEFORME PATRIMONIALE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2010-02-01",
+ "ville": "STRASBOURG",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519754311",
+ "maj_rne": "2026-09-24T08:16:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEROME ANDRE",
+   "nom": "FLECHER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/519754311",
+  "numero": "11063778",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "29/01/2016"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "29/01/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/10/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/11/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/519754311"
+ }
+}

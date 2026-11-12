@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "NAVUS GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 51",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983530148"
+ },
+ "siren": "983530148",
+ "denomination": "NAVUS GESTION PRIVEE",
+ "nom_complet": "NAVUS GESTION PRIVEE (NAVUS CONSULTING GROUP)",
+ "sigle": null,
+ "enseigne": "NAVUS CONSULTING GROUP",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-01-09",
+ "ville": "SAINT-BRICE-COURCELLES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983530148",
+ "maj_rne": "2026-09-27T16:00:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC-ANTOINE",
+   "nom": "SENE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983530148",
+  "numero": "26011582",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "25/09/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/09/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/983530148"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "OTEA CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14660"
+ },
+ "siren": "509249629",
+ "denomination": "OTEA CAPITAL",
+ "nom_complet": "OTEA CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-12-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509249629",
+ "maj_rne": "2026-10-02T16:55:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER HUGUES MARIE",
+   "nom": "DE BUHREN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN THOMAS",
+   "nom": "MICHIELS",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS BRUNO JEAN",
+   "nom": "TRONEL",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14660",
+  "numero": "GP-08000054",
+  "date_agrement": "2008-12-18",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "49, avenue d'Iena, 75116 Paris",
+  "lei": "969500LDYH72F9RSJL91",
+  "denomination": "OTEA CAPITAL"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000054.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14660"
+ }
+}

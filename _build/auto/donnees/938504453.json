@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ARECA ASSURANCE & PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 07",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/938504453"
+ },
+ "siren": "938504453",
+ "denomination": "ARECA ASSURANCE & PATRIMOINE",
+ "nom_complet": "ARECA ASSURANCE & PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-12-10",
+ "ville": "ANNONAY",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/938504453",
+ "maj_rne": "2026-09-27T22:46:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICE JOSEPH BERNARD GHISLAIN",
+   "nom": "BLAISE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "AJM CONSEILS",
+   "siren": "511554321",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "PB PATRIMOINE",
+   "siren": "524466927",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/938504453",
+  "numero": "25002235",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/03/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "18/07/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/938504453"
+ }
+}

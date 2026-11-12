@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ARMOR PATRIMOINE GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 35",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991686957"
+ },
+ "siren": "991686957",
+ "denomination": "ARMOR PATRIMOINE GESTION PRIVEE",
+ "nom_complet": "ARMOR PATRIMOINE GESTION PRIVEE (ARMOR PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ARMOR PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-09-09",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/991686957",
+ "maj_rne": "2026-09-28T04:44:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUGO GUY MICHEL",
+   "nom": "BOIVIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MANUEL BRUNO MARIE",
+   "nom": "MOUNIER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SIMON STÉPHANE SÉBASTIEN",
+   "nom": "MÉHAULT",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/991686957",
+  "numero": "25008239",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/10/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/12/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/991686957"
+ }
+}

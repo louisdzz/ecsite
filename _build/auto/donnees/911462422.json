@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "TJ CONSEIL GESTION DE PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.32B dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911462422"
+ },
+ "siren": "911462422",
+ "denomination": "TJ CONSEIL GESTION DE PATRIMOINE",
+ "nom_complet": "TJ CONSEIL GESTION DE PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-03-16",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "68.32B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911462422",
+ "maj_rne": "2026-09-26T19:12:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIBAUD JEAN-GABRIEL HUBERT",
+   "nom": "JACOB",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/911462422",
+  "numero": "23001110",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/03/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/03/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/911462422"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "ITINERANT INVESTMENT PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/327994"
+ },
+ "siren": "927833335",
+ "denomination": "ITINERANT INVESTMENT PARTNERS",
+ "nom_complet": "ITINERANT INVESTMENT PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-04-08",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927833335",
+ "maj_rne": "2026-07-16T18:43:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-EDOUARD",
+   "nom": "COIFFARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEFF",
+   "nom": "GEHL",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "LECLERCQ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/327994",
+  "numero": "GP-20240022",
+  "date_agrement": "2024-09-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "20 rue Quentin-Bauchart, 75008 PARIS",
+  "lei": "9695008Q2T6R4DX31F84",
+  "denomination": "ITINERANT INVESTMENT PARTNERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20240022.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/327994"
+ }
+}

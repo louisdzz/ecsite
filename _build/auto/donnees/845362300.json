@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "NEO-IN",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 13",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/845362300"
+ },
+ "siren": "845362300",
+ "denomination": "NEO-IN",
+ "nom_complet": "NEO-IN (NEO-IN)",
+ "sigle": null,
+ "enseigne": "NEO-IN",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-01-02",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/845362300",
+ "maj_rne": "2026-09-25T23:17:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-PHILIPPE",
+   "nom": "JARE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "NÉO-IN HOLDING",
+   "siren": "844284950",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/845362300",
+  "numero": "19003619",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/05/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/845362300"
+ }
+}

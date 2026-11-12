@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "DELTOUR CGP",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/830039426"
+ },
+ "siren": "830039426",
+ "denomination": "DELTOUR CGP",
+ "nom_complet": "DELTOUR CGP (DELTOUR INVESTISSEMENT)",
+ "sigle": null,
+ "enseigne": "DELTOUR INVESTISSEMENT",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-05-02",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/830039426",
+ "maj_rne": "2026-09-25T15:20:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "WILLIAM",
+   "nom": "ASTOLFI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "SAINT-ANTONIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/830039426",
+  "numero": "17004623",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "03/07/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "08/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/830039426"
+ }
+}

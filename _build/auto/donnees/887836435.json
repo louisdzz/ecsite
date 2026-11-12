@@ -1,0 +1,90 @@
+{
+ "nom_usuel": "PICTURE ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308363"
+ },
+ "siren": "887836435",
+ "denomination": "PICTURE ASSET MANAGEMENT",
+ "nom_complet": "PICTURE ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-07-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/887836435",
+ "maj_rne": "2026-09-26T07:50:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC JOEL",
+   "nom": "AVEILLAN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT FRANÇOIS",
+   "nom": "DURAFFOUR",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE-ELISABETH",
+   "nom": "GENOT (MARESCAUX)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE POPULAIRE DEVELOPPEMENT",
+   "siren": "378537690",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "NAXICAP PARTNERS",
+   "siren": "437558893",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "M4GE",
+   "siren": "883162463",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308363",
+  "numero": "GP-202229",
+  "date_agrement": "2022-10-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "56 rue Catherine de la Rochefoucauld, 75009 PARIS",
+  "lei": "969500D2XH460O5X5624",
+  "denomination": "PICTURE ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-202229.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/308363"
+ }
+}

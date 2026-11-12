@@ -1,0 +1,149 @@
+{
+ "nom_usuel": "SA DELTAGER",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20754"
+ },
+ "siren": "378684914",
+ "denomination": "SA DELTAGER",
+ "nom_complet": "SA DELTAGER (SA DELTAGER)",
+ "sigle": null,
+ "enseigne": "SA DELTAGER",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-07-01",
+ "ville": "MONTPELLIER",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378684914",
+ "maj_rne": "2026-09-22T18:45:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL ANDRÉ GÉRARD",
+   "nom": "BARRAS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC FRANCOIS",
+   "nom": "CROS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC FLORIAN",
+   "nom": "DO VAN TUAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GEOFFREY",
+   "nom": "DRIOL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE JOSEPH",
+   "nom": "GAONA",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY FREDERIC",
+   "nom": "HARDY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS JEAN",
+   "nom": "LAROCHETTE DE ROECK (LAROCHETTE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC SAMUEL",
+   "nom": "LEBRAT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHAN",
+   "nom": "SACY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "CRCAM DES SAVOIE CREDIT AGRICOLE DES SAVOIE",
+   "siren": "302958491",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL ALPES PROVENCE",
+   "siren": "381976448",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL CENTRE-EST",
+   "siren": "399973825",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD RHONE ALPES",
+   "siren": "402121958",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL PROVENCE COTE D'AZUR",
+   "siren": "415176072",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CRCAM DU LANGUEDOC",
+   "siren": "492826417",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20754",
+  "numero": "GP-14000017",
+  "date_agrement": "2014-06-23",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "609 Avenue Raymond Dugrand, 34961 MONTPELLIER",
+  "lei": "9695006E9HMT5WJYEU35",
+  "denomination": "DELTAGER SA"
+ },
+ "site": "http://deltager.fr",
+ "site_pages": [
+  "https://www.deltager.fr/fr/",
+  "https://www.deltager.fr/fr/decouvrir-deltager/informations-reglementaires/",
+  "https://www.deltager.fr/fr/annexes/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20754"
+ },
+ "site_source": "https://www.deltager.fr/fr/annexes/mentions-legales/"
+}

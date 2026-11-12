@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "ALP CONSULTING",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 84",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493289599"
+ },
+ "siren": "493289599",
+ "denomination": "ALP CONSULTING",
+ "nom_complet": "ALP CONSULTING (ALP CONSULTING SARL)",
+ "sigle": null,
+ "enseigne": "ALP CONSULTING SARL",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-01-01",
+ "ville": "CHATEAUNEUF-DE-GADAGNE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493289599",
+ "maj_rne": "2026-07-16T17:49:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANNIE",
+   "nom": "LIGUISTIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "MONTOYA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/493289599",
+  "numero": "08039450",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "31/01/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/06/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "18/02/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/493289599"
+ }
+}

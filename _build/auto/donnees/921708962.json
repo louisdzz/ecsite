@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "BETHEL CAPITAL WEALTH MANAGEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 95",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/921708962"
+ },
+ "siren": "921708962",
+ "denomination": "BETHEL CAPITAL WEALTH MANAGEMENT",
+ "nom_complet": "BETHEL CAPITAL WEALTH MANAGEMENT (NAS INVEST)",
+ "sigle": null,
+ "enseigne": "NAS INVEST",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-10-01",
+ "ville": "SARCELLES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/921708962",
+ "maj_rne": "2026-09-27T00:03:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NISSIM ABRAHAM",
+   "nom": "ASSARAF",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/921708962",
+  "numero": "24003511",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "24/01/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/01/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "31/05/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/921708962"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "HORIZON CONSEIL PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849943451"
+ },
+ "siren": "849943451",
+ "denomination": "HORIZON CONSEIL PATRIMOINE",
+ "nom_complet": "HORIZON CONSEIL PATRIMOINE (HORIZON CONSEIL PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "HORIZON CONSEIL PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-04-01",
+ "ville": "VANNES",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849943451",
+ "maj_rne": "2026-09-29T12:48:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MANUEL",
+   "nom": "PARENT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIEN JEAN-LUC MARYSE",
+   "nom": "SALOUX",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/849943451",
+  "numero": "19003730",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/05/2019"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/06/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/849943451"
+ }
+}

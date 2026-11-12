@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "FLUMINA",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75008)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992276626"
+ },
+ "siren": "992276626",
+ "denomination": "FLUMINA",
+ "nom_complet": "FLUMINA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-09-30",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/992276626",
+ "maj_rne": "2026-09-28T05:12:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU LUCIEN DÉSIRÉ",
+   "nom": "LÉTANG",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "BESIBERRI",
+   "siren": "100873546",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/992276626",
+  "numero": "25010166",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/12/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/992276626"
+ }
+}

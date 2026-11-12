@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "FINANCIERE DE LA CITE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8779"
+ },
+ "siren": "484780143",
+ "denomination": "FINANCIERE DE LA CITE",
+ "nom_complet": "FINANCIERE DE LA CITE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-10-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484780143",
+ "maj_rne": "2026-09-28T23:41:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "LANGUILLAT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "SALES",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8779",
+  "numero": "GP-05000034",
+  "date_agrement": "2005-10-18",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "30 avenue de l'Opéra, 75002 PARIS",
+  "lei": "9695005K83GATE3XJT49",
+  "denomination": "FINANCIERE DE LA CITE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-05000034.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8779"
+ }
+}

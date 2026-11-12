@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "FINANCIERE LAMARTINE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/947"
+ },
+ "siren": "351557095",
+ "denomination": "FINANCIERE LAMARTINE",
+ "nom_complet": "FINANCIERE LAMARTINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1989-07-01",
+ "ville": "LA CELLE-SAINT-CLOUD",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351557095",
+ "maj_rne": "2026-09-22T17:08:28",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "COSTE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "FEURGARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENEDICTE",
+   "nom": "COSTE (LECLERC DE HAUTECLOCQUE)",
+   "qualite": "Président du conseil d’administration"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/947",
+  "numero": "GP90063",
+  "date_agrement": "1990-07-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "4, avenue Lamartine, 78170 LA CELLE SAINT-CLOUD",
+  "lei": "969500DMS028WO7BDQ68",
+  "denomination": "FINANCIERE LAMARTINE SA"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90063.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/947"
+ }
+}

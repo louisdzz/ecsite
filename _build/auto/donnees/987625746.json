@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "NOUVELLE DONNE PATRIMOINE NANTES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 44",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/987625746"
+ },
+ "siren": "987625746",
+ "denomination": "NOUVELLE DONNE PATRIMOINE NANTES",
+ "nom_complet": "NOUVELLE DONNE PATRIMOINE NANTES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-03-08",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/987625746",
+ "maj_rne": "2026-09-27T17:21:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "LEBRET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BÉNÉDICTE",
+   "nom": "ESNAULT (LETHROSNE)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "MAYOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERWANN",
+   "nom": "QUEMERE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/987625746",
+  "numero": "24006555",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "27/09/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/10/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/987625746"
+ }
+}

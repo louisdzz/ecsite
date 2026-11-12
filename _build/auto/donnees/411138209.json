@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "APOGEE CONSEIL ENTR OCEAN INDIEN",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 974",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/411138209"
+ },
+ "siren": "411138209",
+ "denomination": "APOGEE CONSEIL ENTR OCEAN INDIEN",
+ "nom_complet": "APOGEE CONSEIL ENTR OCEAN INDIEN",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1997-02-10",
+ "ville": "SAINT-PIERRE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/411138209",
+ "maj_rne": "2026-09-23T02:50:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DANIEL GUY MICHEL",
+   "nom": "FERRINO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/411138209",
+  "numero": "07005458",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/11/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "13/10/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/411138209"
+ }
+}

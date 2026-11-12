@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "POLAR CAPITAL (EUROPE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26217"
+ },
+ "siren": "840963912",
+ "denomination": "POLAR CAPITAL (EUROPE)",
+ "nom_complet": "POLAR CAPITAL (EUROPE)",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-07-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/840963912",
+ "maj_rne": "2026-09-25T20:43:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KYFFEN",
+   "nom": "ALLEN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MUJTABA WASEEM",
+   "nom": "GHULAM",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SU",
+   "nom": "PARK",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26217",
+  "numero": "GP-18000013",
+  "date_agrement": "2018-07-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "18 rue de Londres, 75009 PARIS",
+  "lei": "54930031ZR24DZS4CJ70",
+  "denomination": "POLAR CAPITAL (EUROPE)"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-18000013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26217"
+ }
+}

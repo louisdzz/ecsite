@@ -99,7 +99,7 @@ def orias(siren):
         o["categories"].append({"code": c.group(1), "libelle": c.group(2).strip(), "etat": c.group(3).split()[0], "date": c.group(4)})
     return o
 
-NJ = {"5710": "SAS, société par actions simplifiée", "5720": "SASU, société par actions simplifiée à associé unique", "5499": "SARL, société à responsabilité limitée", "5498": "EURL, SARL à associé unique", "5599": "SA à conseil d'administration", "5699": "SA à directoire", "6599": "Société civile", "6540": "Société civile immobilière", "1000": "Entrepreneur individuel", "5202": "Société en nom collectif", "5308": "Société en commandite par actions", "5800": "Société européenne", "9220": "Association déclarée", "6589": "Société civile de moyens", "5485": "Société d'exercice libéral à responsabilité limitée", "5785": "Société d'exercice libéral par actions simplifiée"}
+NJ = {"5306": "Société en commandite simple", "5505": "SA à participation ouvrière à conseil d'administration", "6901": "Autre personne de droit privé inscrite au registre du commerce et des sociétés", "5710": "SAS, société par actions simplifiée", "5720": "SASU, société par actions simplifiée à associé unique", "5499": "SARL, société à responsabilité limitée", "5498": "EURL, SARL à associé unique", "5599": "SA à conseil d'administration", "5699": "SA à directoire", "6599": "Société civile", "6540": "Société civile immobilière", "1000": "Entrepreneur individuel", "5202": "Société en nom collectif", "5308": "Société en commandite par actions", "5800": "Société européenne", "9220": "Association déclarée", "6589": "Société civile de moyens", "5485": "Société d'exercice libéral à responsabilité limitée", "5785": "Société d'exercice libéral par actions simplifiée"}
 
 def main(src, out):
     os.makedirs(out, exist_ok=True)

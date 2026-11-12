@@ -1,0 +1,108 @@
+{
+ "nom_usuel": "HSBC REIM (FRANCE)",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14148"
+ },
+ "siren": "722028206",
+ "denomination": "HSBC REIM (FRANCE)",
+ "nom_complet": "HSBC REIM (FRANCE)",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1972-01-01",
+ "ville": "COURBEVOIE",
+ "actif": true,
+ "naf": "66.12Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/722028206",
+ "maj_rne": "2026-09-24T17:22:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KARIM",
+   "nom": "ABOU GHANNAM",
+   "qualite": "Vice-Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME MARCEL REMI",
+   "nom": "COUTON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JESSICA",
+   "nom": "GONCALVES CASTRO",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIM",
+   "nom": "HENDRICK",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JESSICA",
+   "nom": "LEBERTOIS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "DUPONT (LIEVENS)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENT DAMIEN",
+   "nom": "MOUNGUIA",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS DAVID",
+   "nom": "TAIEB",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "TAILLARD",
+   "qualite": "Président du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14148",
+  "numero": "GP-08000013",
+  "date_agrement": "2008-05-30",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "Immeuble Coeur Défense, 92400 COURBEVOIE",
+  "lei": "2138004F2NVY9FLVZJ53",
+  "denomination": "HSBC REIM ( FRANCE )"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14148"
+ }
+}

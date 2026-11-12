@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CABINET LEPRINCE CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 14",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532406816"
+ },
+ "siren": "532406816",
+ "denomination": "CABINET LEPRINCE CONSEILS",
+ "nom_complet": "CABINET LEPRINCE CONSEILS (CABINET LEPRINCE CONSEILS)",
+ "sigle": null,
+ "enseigne": "CABINET LEPRINCE CONSEILS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2011-05-16",
+ "ville": "BAYEUX",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532406816",
+ "maj_rne": "2026-09-24T12:51:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN MARCEL CLAUDE",
+   "nom": "LEPRINCE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/532406816",
+  "numero": "11062038",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/06/2011"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "17/04/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/11/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/532406816"
+ }
+}

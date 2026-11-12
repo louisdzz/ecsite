@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "MON PATRIMOINE RESPONSABLE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/921409934"
+ },
+ "siren": "921409934",
+ "denomination": "MON PATRIMOINE RESPONSABLE",
+ "nom_complet": "MON PATRIMOINE RESPONSABLE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-11-04",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/921409934",
+ "maj_rne": "2026-09-26T23:53:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE JULIE MADELEINE",
+   "nom": "PAROIS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/921409934",
+  "numero": "23005073",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/921409934"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ADB PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 21",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794647198"
+ },
+ "siren": "794647198",
+ "denomination": "ADB PATRIMOINE",
+ "nom_complet": "ADB PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-07-01",
+ "ville": "BEAUNE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/794647198",
+ "maj_rne": "2026-09-24T23:09:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FLORINE MICHELLE SEVERINE",
+   "nom": "ANGUENOT DE BECKER (ANGUENOT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC LOUIS NICOLAS",
+   "nom": "ANGUENOT DE BECKER (DE BECKER)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/794647198",
+  "numero": "13009971",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "16/10/2015"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/11/2013"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/11/2015"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/794647198"
+ }
+}

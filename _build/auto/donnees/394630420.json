@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "PAMS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/152"
+ },
+ "siren": "394630420",
+ "denomination": "PAMS",
+ "nom_complet": "PAMS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1994-03-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/394630420",
+ "maj_rne": "2026-09-22T23:07:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS NICOLAS",
+   "nom": "DRIEU",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "GILLOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC GREGOIRE JEAN MARIE",
+   "nom": "GUITTET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/152",
+  "numero": "GP98052",
+  "date_agrement": "1998-11-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "94 rue de la Victoire, 75009 PARIS",
+  "lei": "9695001U3GNB5PCKFQ66",
+  "denomination": "Pams"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98052.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/152"
+ }
+}

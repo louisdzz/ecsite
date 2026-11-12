@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "NOUSASSURONS.COM",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533782793"
+ },
+ "siren": "533782793",
+ "denomination": "NOUSASSURONS.COM",
+ "nom_complet": "NOUSASSURONS.COM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-07-15",
+ "ville": "SAINT-MARTIN-LE-VINOUX",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533782793",
+ "maj_rne": "2026-09-24T13:42:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JÉRÔME LIONEL GÉRARD",
+   "nom": "ROBIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "HOOD",
+   "siren": "503541229",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/533782793",
+  "numero": "11063139",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "06/02/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "16/09/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/10/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/533782793"
+ }
+}

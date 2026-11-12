@@ -1,0 +1,114 @@
+{
+ "nom_usuel": "OFI INVEST REAL ESTATE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24378"
+ },
+ "siren": "824539407",
+ "denomination": "OFI INVEST REAL ESTATE",
+ "nom_complet": "OFI INVEST REAL ESTATE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2016-12-12",
+ "ville": "ISSY-LES-MOULINEAUX",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/824539407",
+ "maj_rne": "2026-09-25T12:49:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GRÉGOIRE PIERRE ALEXANDRE",
+   "nom": "BAILLY-SALINS",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN PIERRE",
+   "nom": "CHEMOUNY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE",
+   "nom": "GRIMAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MACIFVIE",
+   "siren": "315652263",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ABEILLE ASSURANCES HOLDING",
+   "siren": "331309120",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "AEMA GROUPE",
+   "siren": "493754261",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ABEILLE VIE SOCIÉTÉ ANONYME D'ASSURANCES VIE ET DE CAPITALISATION EN ABRÉGÉ ABEILLE VIE",
+   "siren": "732020805",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "AESIO MUTUELLE",
+   "siren": "775627391",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "MUTUELLE ASSURANCE DES COMMERCANTS ET INDUSTRIELS DE FRANCE ET DES CADRES ET SALARIES DE L INDUSTRIE ET DU COMMERCE",
+   "siren": "781452511",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "OFI INVEST CAPITAL PARTNERS",
+   "siren": "879964815",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24378",
+  "numero": "GP-17000003",
+  "date_agrement": "2017-02-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "127-129, quai du Président Rooevelt, 75008 PARIS",
+  "lei": "96950034E1K0KW2NC888",
+  "denomination": "OFI INVEST REAL ESTATE"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000003.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24378"
+ }
+}

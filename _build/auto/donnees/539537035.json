@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ECCELIA RHONE ALPES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 69",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539537035"
+ },
+ "siren": "539537035",
+ "denomination": "ECCELIA RHONE ALPES",
+ "nom_complet": "ECCELIA RHONE ALPES (ECCELIA PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ECCELIA PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2012-01-01",
+ "ville": "MEYLAN",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539537035",
+ "maj_rne": "2026-09-24T15:44:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEANNE-CLAIRE EMILIE ELISABETH",
+   "nom": "GROSSET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "SERRE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/539537035",
+  "numero": "12066209",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/01/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/05/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/05/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/539537035"
+ }
+}

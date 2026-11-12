@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "NOVEYS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/899733091"
+ },
+ "siren": "899733091",
+ "denomination": "NOVEYS PATRIMOINE",
+ "nom_complet": "NOVEYS PATRIMOINE (NOVEYS PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "NOVEYS PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-05-27",
+ "ville": "CASTELNAU-LE-LEZ",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/899733091",
+ "maj_rne": "2026-09-26T13:28:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC FRANCOIS GERARD",
+   "nom": "CROS (CROS)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/899733091",
+  "numero": "21006632",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/07/2021"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/07/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/899733091"
+ }
+}

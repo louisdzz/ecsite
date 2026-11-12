@@ -1,0 +1,114 @@
+{
+ "nom_usuel": "ATLANTIC VANTAGE POINT CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23111"
+ },
+ "siren": "811958701",
+ "denomination": "ATLANTIC VANTAGE POINT CAPITAL",
+ "nom_complet": "ATLANTIC VANTAGE POINT CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-06-10",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/811958701",
+ "maj_rne": "2026-09-30T11:47:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ELIZABETH HOPE",
+   "nom": "DE SAINT AIGNAN (BRONSTEIN)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "FOSSEPREZ",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "LEWDEN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "LOUBRY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNE",
+   "nom": "POIRSON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROBIN",
+   "nom": "RAJU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "ROBINET",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WARDA",
+   "nom": "SHAHEEN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GEORGE",
+   "nom": "STANSFIELD",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE",
+   "nom": "TRICOT",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23111",
+  "numero": "GP-16000006",
+  "date_agrement": "2016-03-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "10 boulevard Haussmann, 75009 PARIS",
+  "lei": "969500KAKQULCG4DZB54",
+  "denomination": "Atlantic Vantage Point Capital"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-16000006.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/23111"
+ }
+}

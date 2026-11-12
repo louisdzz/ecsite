@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "ETXEA CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324225"
+ },
+ "siren": "948863865",
+ "denomination": "ETXEA CAPITAL",
+ "nom_complet": "ETXEA CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-02-08",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948863865",
+ "maj_rne": "2026-09-27T09:53:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLOTTE",
+   "nom": "EVANGUELIDIS",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIQUE",
+   "nom": "PRADELS",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324225",
+  "numero": "GP-20230018",
+  "date_agrement": "2023-08-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "40 Cite des Fleurs, 75017 PARIS",
+  "lei": "969500IISULSKD55KQ70",
+  "denomination": "ETXEA CAPITAL"
+ },
+ "site": "https://www.etxeacapital.com",
+ "site_pages": [
+  "https://www.etxeacapital.com",
+  "https://www.etxeacapital.com/mentions-legales",
+  "https://www.etxeacapital.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230018.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/324225"
+ },
+ "site_source": "https://www.etxeacapital.com/mentions-legales"
+}

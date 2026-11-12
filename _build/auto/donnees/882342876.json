@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LSC PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882342876"
+ },
+ "siren": "882342876",
+ "denomination": "LSC PATRIMOINE",
+ "nom_complet": "LSC PATRIMOINE (BROCELIANDE CONSEIL ET PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "BROCELIANDE CONSEIL ET PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-03-15",
+ "ville": "PLOERMEL",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882342876",
+ "maj_rne": "2026-09-26T05:57:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN STÉPHANE JEAN NOËL",
+   "nom": "RETHO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/882342876",
+  "numero": "20003014",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "29/04/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/04/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/882342876"
+ }
+}

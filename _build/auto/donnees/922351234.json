@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "STABIHO INVESTMENT PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/320338"
+ },
+ "siren": "922351234",
+ "denomination": "STABIHO INVESTMENT PARTNERS",
+ "nom_complet": "STABIHO INVESTMENT PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-11-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/922351234",
+ "maj_rne": "2026-09-27T08:33:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "BIDERMAN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "HOTTIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WOJCIECH",
+   "nom": "STANISLAWSKI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/320338",
+  "numero": "GP-20230004",
+  "date_agrement": "2023-02-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "73 rue de Vaugirard, 75006 PARIS",
+  "lei": "969500YE68SYGRQWBA59",
+  "denomination": "STABIHO INVESTMENT PARTNERS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230004.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/320338"
+ }
+}

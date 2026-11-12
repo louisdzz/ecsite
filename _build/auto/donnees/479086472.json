@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "DOM FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8574"
+ },
+ "siren": "479086472",
+ "denomination": "DOM FINANCE",
+ "nom_complet": "DOM FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2004-09-16",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/479086472",
+ "maj_rne": "2026-10-26T11:38:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "BARTHE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JAN",
+   "nom": "DE CONINCK",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ASTRID MARIE GHISLAINE",
+   "nom": "DE SÈZE (DE GÉLOES D'ELSLOO)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "LAFORGE-MESPLOMB",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-SEBASTIEN GERARD",
+   "nom": "MORANCAIS",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "PRIOU",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "SERENITE INVESTISSEMENTS",
+   "siren": "419832787",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8574",
+  "numero": "GP-04000059",
+  "date_agrement": "2004-10-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "39 rue Mstislav Rostropovitch, 75017 PARIS",
+  "lei": "969500C6ZSJZPRJLXS05",
+  "denomination": "DÔM FINANCE"
+ },
+ "site": "https://www.dom-finance.fr",
+ "site_pages": [
+  "https://www.dom-finance.fr",
+  "https://www.dom-finance.fr/mentions-legales/",
+  "https://www.dom-finance.fr/",
+  "https://www.dom-finance.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-04000059.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8574"
+ },
+ "site_source": "https://www.dom-finance.fr/mentions-legales/"
+}

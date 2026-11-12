@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "JYPARTENAIRE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 31",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/924832652"
+ },
+ "siren": "924832652",
+ "denomination": "JYPARTENAIRE",
+ "nom_complet": "JYPARTENAIRE (JYPARTENAIRE) (JYPARTENAIRE)",
+ "sigle": "JYPARTENAIRE",
+ "enseigne": "JYPARTENAIRE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-04-02",
+ "ville": "BOULOC",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/924832652",
+ "maj_rne": "2026-09-27T17:39:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-YVES",
+   "nom": "PERRUCHOT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/924832652",
+  "numero": "24003960",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "14/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/07/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/924832652"
+ }
+}

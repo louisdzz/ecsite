@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "TRADING CENTRAL SA",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 75 (code postal 75016)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423512607"
+ },
+ "siren": "423512607",
+ "denomination": "TRADING CENTRAL SA",
+ "nom_complet": "TRADING CENTRAL SA",
+ "sigle": null,
+ "enseigne": "L' OBSA",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1999-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/423512607",
+ "maj_rne": "2026-09-23T06:28:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "BAVEREZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "PELLIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN PHILIPPE",
+   "nom": "PIN",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/423512607",
+  "numero": "17005458",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/09/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/423512607"
+ }
+}

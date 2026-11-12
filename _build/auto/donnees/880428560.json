@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "S ET C OPERA CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 03",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/880428560"
+ },
+ "siren": "880428560",
+ "denomination": "S ET C OPERA CONSEILS",
+ "nom_complet": "S ET C OPERA CONSEILS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-01-01",
+ "ville": "VICHY",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/880428560",
+ "maj_rne": "2026-09-26T04:49:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VALENTIN",
+   "nom": "CHARASSE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "MARCOS (SORIA)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/880428560",
+  "numero": "20001107",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/02/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/880428560"
+ }
+}

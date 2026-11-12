@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "AIC PATRIMOINE ADEQUATION",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934794207"
+ },
+ "siren": "934794207",
+ "denomination": "AIC PATRIMOINE ADEQUATION",
+ "nom_complet": "AIC PATRIMOINE ADEQUATION (AIC PATRIMOINE ADEQUATION)",
+ "sigle": null,
+ "enseigne": "AIC PATRIMOINE ADEQUATION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-10-29",
+ "ville": "BIARRITZ",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934794207",
+ "maj_rne": "2026-09-27T21:40:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "CHILLON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE MAXIME JOSEPH",
+   "nom": "DELCOURT",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/934794207",
+  "numero": "25000964",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/02/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/934794207"
+ }
+}

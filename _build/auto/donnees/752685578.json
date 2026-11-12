@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "ACCES FINANCE IMMOBILIER",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 17",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752685578"
+ },
+ "siren": "752685578",
+ "denomination": "ACCES FINANCE IMMOBILIER",
+ "nom_complet": "ACCES FINANCE IMMOBILIER (ACCES FINANCE IMMOBILIER)",
+ "sigle": null,
+ "enseigne": "ACCES FINANCE IMMOBILIER",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2012-07-01",
+ "ville": "PUILBOREAU",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752685578",
+ "maj_rne": "2026-09-24T18:55:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "BOUHARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDOVIC SEBASTIEN",
+   "nom": "BOUHARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/752685578",
+  "numero": "12068238",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Supprimé",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "18/12/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/752685578"
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "RICHELIEU INVEST",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/359"
+ },
+ "siren": "317517191",
+ "denomination": "RICHELIEU INVEST",
+ "nom_complet": "RICHELIEU INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1979-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317517191",
+ "maj_rne": "2026-09-22T11:59:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "ADAM",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LORENZO",
+   "nom": "GAZZOLETTI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "LE MAIRE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "PASCAULT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GEORGES",
+   "nom": "SAGHBINI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE RICHELIEU FRANCE",
+   "siren": "338318470",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "COMPAGNIE FINANCIERE RICHELIEU",
+   "siren": "839230109",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/359",
+  "numero": "GP97036",
+  "date_agrement": "1997-06-02",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "1-3-5,rue Paul Cézanne, 75008 PARIS",
+  "lei": "969500ZKXE1NM0UBUP47",
+  "denomination": "RICHELIEU INVEST"
+ },
+ "site": "https://www.richelieuinvest.com",
+ "site_pages": [
+  "https://richelieuinvest.com/",
+  "https://richelieuinvest.com/mentions-legales/",
+  "https://richelieuinvest.com/informations-reglementaires/",
+  "https://richelieuinvest.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97036.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/359"
+ },
+ "site_source": "https://richelieuinvest.com/mentions-legales/"
+}

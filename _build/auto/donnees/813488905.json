@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "COLVILLE CAPITAL PARTNERS FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26889"
+ },
+ "siren": "813488905",
+ "denomination": "COLVILLE CAPITAL PARTNERS FRANCE",
+ "nom_complet": "COLVILLE CAPITAL PARTNERS FRANCE (COLVILLE CAPITAL PARTNERS)",
+ "sigle": null,
+ "enseigne": "COLVILLE CAPITAL PARTNERS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813488905",
+ "maj_rne": "2026-09-25T07:01:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACQUES-ANTOINE",
+   "nom": "PHILIPPE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "PHILIPPE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26889",
+  "numero": "GP-19000026",
+  "date_agrement": "2019-05-06",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "71, boulevard Raspail, 75006 PARIS",
+  "lei": "969500AYXINDZEL74227",
+  "denomination": "COLVILLE CAPITAL PARTNERS FRANCE"
+ },
+ "site": "https://www.colvillecapitalpartnersfrance.com",
+ "site_pages": [
+  "https://www.colvillecapitalpartnersfrance.com",
+  "https://www.colvillecapitalpartnersfrance.com/mentions-legales",
+  "https://www.colvillecapitalpartnersfrance.com/informations-reglementaires",
+  "https://www.colvillecapitalpartnersfrance.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-19000026.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/26889"
+ },
+ "site_source": "https://www.colvillecapitalpartnersfrance.com/mentions-legales"
+}

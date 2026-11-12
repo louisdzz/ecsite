@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "ENTRUST GLOBAL SAS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17284"
+ },
+ "siren": "532384195",
+ "denomination": "ENTRUST GLOBAL SAS",
+ "nom_complet": "ENTRUST GLOBAL SAS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-06-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/532384195",
+ "maj_rne": "2026-09-24T12:45:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "BECQUAERT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "BOILLOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELIE",
+   "nom": "KORKMAZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAHER",
+   "nom": "SAYEGH",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17284",
+  "numero": "GP-11000023",
+  "date_agrement": "2011-07-01",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "2, Avenue de Montespan, 75116 paris",
+  "lei": "969500K6WN6ODI3DOH22",
+  "denomination": "ENTRUST GLOBAL SAS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/17284"
+ }
+}

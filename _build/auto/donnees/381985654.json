@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "HMG FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1037"
+ },
+ "siren": "381985654",
+ "denomination": "HMG FINANCE",
+ "nom_complet": "HMG FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "1991-05-22",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/381985654",
+ "maj_rne": "2026-09-22T19:34:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC JEAN PAUL",
+   "nom": "GIRAULT",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIANA",
+   "nom": "GIRAULT (GUERRERO PINZO)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOROTHEE NATHALIE VALERIE",
+   "nom": "HAUVETTE-RAUX",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES LOUIS",
+   "nom": "HENNESSY",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS JACQUES MARCEL",
+   "nom": "MICHELIN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "PONS",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1037",
+  "numero": "GP91017",
+  "date_agrement": "1991-06-18",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "2, rue de la Bourse, 75002 PARIS",
+  "lei": "969500O6OQEJ8808D970",
+  "denomination": "HMG FINANCE SA"
+ },
+ "site": "https://www.hmgfinance.com",
+ "site_pages": [
+  "https://www.hmgfinance.com",
+  "https://www.hmgfinance.com/mentions-legales/",
+  "https://www.hmgfinance.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP91017.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1037"
+ },
+ "site_source": "https://www.hmgfinance.com"
+}

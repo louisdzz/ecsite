@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "CROISSENS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 44",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/932431877"
+ },
+ "siren": "932431877",
+ "denomination": "CROISSENS PATRIMOINE",
+ "nom_complet": "CROISSENS PATRIMOINE (CROISSENS PATRIMOINE) (CROISSENS PATRIMOINE)",
+ "sigle": "CROISSENS PATRIMOINE",
+ "enseigne": "CROISSENS PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-08-27",
+ "ville": "NANTES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/932431877",
+ "maj_rne": "2026-09-27T20:36:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "COSTE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/932431877",
+  "numero": "25000683",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/01/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/04/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/932431877"
+ }
+}

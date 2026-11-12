@@ -1,0 +1,83 @@
+{
+ "nom_usuel": "ATHYMIS GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14301"
+ },
+ "siren": "502521685",
+ "denomination": "ATHYMIS GESTION",
+ "nom_complet": "ATHYMIS GESTION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2008-02-05",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502521685",
+ "maj_rne": "2026-09-27T06:26:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AUDE",
+   "nom": "LAVAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "TOULLIEUX",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pm",
+   "denomination": "GROUPE PEA",
+   "siren": "489440610",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "AELIS GROUPE",
+   "siren": "531988285",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14301",
+  "numero": "GP-08000035",
+  "date_agrement": "2008-09-25",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "10 Rue notre Dame de Lorette, 75009 PARIS",
+  "lei": "9695002IXLZEZAAS3N45",
+  "denomination": "ATHYMIS GESTION"
+ },
+ "site": "https://www.athymis.fr",
+ "site_pages": [
+  "https://athymis.fr/",
+  "https://athymis.fr/mentions-legales/",
+  "https://athymis.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000035.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/14301"
+ },
+ "site_source": "https://athymis.fr/mentions-legales/"
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "PATRIMONIA BY BSF",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 33",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104423967"
+ },
+ "siren": "104423967",
+ "denomination": "PATRIMONIA BY BSF",
+ "nom_complet": "PATRIMONIA BY BSF (GROUPE BSF - PROCEDURES & DOCUMENTATION)",
+ "sigle": null,
+ "enseigne": "GROUPE BSF - PROCEDURES & DOCUMENTATION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-04-29",
+ "ville": "LIBOURNE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104423967",
+ "maj_rne": "2026-09-28T10:23:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAUD MARIE",
+   "nom": "RIGOU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/104423967",
+  "numero": "26010263",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/104423967"
+ }
+}

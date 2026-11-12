@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "CHENAVARI ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/307475"
+ },
+ "siren": "913407243",
+ "denomination": "CHENAVARI ASSET MANAGEMENT",
+ "nom_complet": "CHENAVARI ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-03-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913407243",
+ "maj_rne": "2026-09-26T20:21:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DIDIER",
+   "nom": "DERRIEN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOIC",
+   "nom": "FERY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "LAURENCIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "PARLEBAS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/307475",
+  "numero": "GP-20230001",
+  "date_agrement": "2023-01-03",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "24 avenue de la grande armée, 75017 PARIS",
+  "lei": "549300VA0CANJLYOK162",
+  "denomination": "CHENAVARI ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230001.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/307475"
+ }
+}

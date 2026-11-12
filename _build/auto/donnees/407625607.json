@@ -1,0 +1,81 @@
+{
+ "nom_usuel": "COVEA FINANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1122"
+ },
+ "siren": "407625607",
+ "denomination": "COVEA FINANCE",
+ "nom_complet": "COVEA FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1996-05-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/407625607",
+ "maj_rne": "2026-09-28T19:04:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK FRANÇOIS",
+   "nom": "IBALOT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCIS MARIE CAMILLE ALBERIC",
+   "nom": "JAISSON",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES ANDRÉ",
+   "nom": "NADAL",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1122",
+  "numero": "GP97007",
+  "date_agrement": "1997-02-21",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "8-12, rue Boissy d'Anglas, 75008 PARIS",
+  "lei": "969500T2ER13UUWFNJ46",
+  "denomination": "COVEA FINANCE"
+ },
+ "site": "https://www.covea-finance.fr",
+ "site_pages": [
+  "https://www.covea-finance.fr",
+  "https://www.covea-finance.fr/mentions-legales",
+  "https://www.covea-finance.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP97007.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/1122"
+ },
+ "site_source": "https://www.covea-finance.fr/mentions-legales"
+}

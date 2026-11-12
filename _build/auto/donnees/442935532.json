@@ -1,0 +1,80 @@
+{
+ "nom_usuel": "ALVEN CAPITAL PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/809"
+ },
+ "siren": "442935532",
+ "denomination": "ALVEN CAPITAL PARTNERS",
+ "nom_complet": "ALVEN CAPITAL PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2002-07-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442935532",
+ "maj_rne": "2026-09-23T13:07:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "AUBIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "LETOURNEUR",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "LEVY AMEDEE MANNHHEIM (LEVY)",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/809",
+  "numero": "GP02016",
+  "date_agrement": "2002-08-31",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "124 rue Réaumur, 75002 PARIS",
+  "lei": "969500XEG9ID45XK4R92",
+  "denomination": "ALVEN CAPITAL PARTNERS"
+ },
+ "site": "https://www.alven.co",
+ "site_pages": [
+  "https://alven.co/",
+  "https://alven.co/legal-information"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02016.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/809"
+ },
+ "site_source": "https://alven.co/legal-information"
+}

@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "IN EXTENSO PATRIMOINE DAUPHINE SAVOIE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879296937"
+ },
+ "siren": "879296937",
+ "denomination": "IN EXTENSO PATRIMOINE DAUPHINE SAVOIE",
+ "nom_complet": "IN EXTENSO PATRIMOINE DAUPHINE SAVOIE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-11-26",
+ "ville": "ALBERTVILLE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879296937",
+ "maj_rne": "2026-09-26T04:04:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER ANDRE LOUIS",
+   "nom": "DE LYLLE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/879296937",
+  "numero": "20001199",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/02/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/879296937"
+ }
+}

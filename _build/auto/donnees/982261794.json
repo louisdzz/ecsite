@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ATHENA PATRIMOINE BFC",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 70",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982261794"
+ },
+ "siren": "982261794",
+ "denomination": "ATHENA PATRIMOINE BFC",
+ "nom_complet": "ATHENA PATRIMOINE BFC",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-01-01",
+ "ville": "SENARGENT-MIGNAFANS",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982261794",
+ "maj_rne": "2026-09-27T15:13:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JUSTINE",
+   "nom": "PARMENTIER (BOUCARD)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pm",
+   "denomination": "ATHENA",
+   "siren": "981783426",
+   "qualite": "Personne ayant le pouvoir d’engager à titre habituel la société"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/982261794",
+  "numero": "24000883",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "21/02/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "09/02/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/982261794"
+ }
+}

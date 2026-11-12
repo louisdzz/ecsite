@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "THEOREIM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28512"
+ },
+ "siren": "882005622",
+ "denomination": "THEOREIM",
+ "nom_complet": "THEOREIM (THEOREIM)",
+ "sigle": null,
+ "enseigne": "THEOREIM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-03-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882005622",
+ "maj_rne": "2026-09-26T05:36:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GAELLA",
+   "nom": "HELLEGOUARCH",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN",
+   "nom": "WELSCH",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28512",
+  "numero": "GP-20000030",
+  "date_agrement": "2020-09-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "105-109, rue du Faubourg Saint Honoré, 75008 PARIS",
+  "lei": "969500E38S5ODJWI2663",
+  "denomination": "THEOREIM"
+ },
+ "site": "https://www.theoreim.com",
+ "site_pages": [
+  "https://theoreim.com/?doing_wp_cron=1794443589.2703249454498291015625",
+  "https://theoreim.com/mentions-legales/",
+  "https://theoreim.com/informations-reglementaires/",
+  "https://theoreim.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20000030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/28512"
+ },
+ "site_source": "https://theoreim.com/mentions-legales/"
+}

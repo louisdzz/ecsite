@@ -1,0 +1,95 @@
+{
+ "nom_usuel": "JMCF",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "jmcf",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 10 (NAF 66.19B et 66.22Z, 85 départements de métropole et d'outre-mer hors Île-de-France et hors départements déjà parcourus), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://jmconseilfinance.com/mentions-legales/"
+ },
+ "siren": "841407927",
+ "denomination": "JMCF",
+ "nom_complet": "JMCF",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-07-25",
+ "ville": "CESSON-SEVIGNE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/841407927",
+ "maj_rne": "2026-09-25T21:00:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JOEL",
+   "nom": "MARQUET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/841407927",
+  "numero": "18005452",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "27/01/2023"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "21/04/2023"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "13/01/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/08/2019"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "13/01/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "14/12/2018"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://jmconseilfinance.com/",
+ "site_pages": [
+  "https://jmconseilfinance.com/",
+  "https://jmconseilfinance.com/mentions-legales/",
+  "https://jmconseilfinance.com/mentions-legales/"
+ ],
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/37027931/admin/feed/posts",
+  "source": "https://jmconseilfinance.com/"
+ },
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/841407927"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MONNEY PINTRAND ET ASSOCIES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 63",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798135323"
+ },
+ "siren": "798135323",
+ "denomination": "MONNEY PINTRAND ET ASSOCIES",
+ "nom_complet": "MONNEY PINTRAND ET ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2013-10-24",
+ "ville": "CHAMALIERES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/798135323",
+ "maj_rne": "2026-09-24T23:49:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE",
+   "nom": "BAUDRY (MONNEY)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RENAUD",
+   "nom": "PINTRAND",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/798135323",
+  "numero": "14000238",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/01/2014"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/01/2014"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/798135323"
+ }
+}

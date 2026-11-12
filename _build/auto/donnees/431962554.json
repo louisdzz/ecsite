@@ -1,0 +1,74 @@
+{
+ "nom_usuel": "GALILEE ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/675"
+ },
+ "siren": "431962554",
+ "denomination": "GALILEE ASSET MANAGEMENT",
+ "nom_complet": "GALILEE ASSET MANAGEMENT (GALILEE AM) (CFGI)",
+ "sigle": "CFGI",
+ "enseigne": "GALILEE AM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2000-07-01",
+ "ville": "STRASBOURG",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/431962554",
+ "maj_rne": "2026-09-23T08:29:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EDMOND",
+   "nom": "MICHALY",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RONI",
+   "nom": "MICHALY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/675",
+  "numero": "GP00023",
+  "date_agrement": "2000-07-05",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "10, boulevard Tauler, 67000 STRASBOURG",
+  "lei": "969500JJ8OBBAQSC7D05",
+  "denomination": "GALILEE ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP00023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/675"
+ }
+}

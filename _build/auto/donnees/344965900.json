@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "TAILOR AM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/920"
+ },
+ "siren": "344965900",
+ "denomination": "TAILOR AM",
+ "nom_complet": "TAILOR AM (TAILOR ASSET MANAGEMENT)",
+ "sigle": null,
+ "enseigne": "TAILOR ASSET MANAGEMENT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1987-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/344965900",
+ "maj_rne": "2026-09-22T15:26:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RICHARD",
+   "nom": "ARNAULT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "CATALAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "DUBOIS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOIC",
+   "nom": "KEREVER",
+   "qualite": "Président de SAS, Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "REMY",
+   "nom": "MABILLON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "QUISTREBERT",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/920",
+  "numero": "GP90031",
+  "date_agrement": "1990-06-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "23 rue Royale, 75008 PARIS",
+  "lei": "549300INVP71EOYOVV10",
+  "denomination": "TAILOR AM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90031.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/920"
+ }
+}

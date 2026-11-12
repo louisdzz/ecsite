@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "AURALYS CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 15",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/994854990"
+ },
+ "siren": "994854990",
+ "denomination": "AURALYS CONSEIL",
+ "nom_complet": "AURALYS CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-12-04",
+ "ville": "FIGEAC",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/994854990",
+ "maj_rne": "2026-09-28T06:41:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KILIAN",
+   "nom": "BEYAERT (BEYAERT-LABBÉ)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SAMUEL",
+   "nom": "LAGARDE (LAGARDE)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/994854990",
+  "numero": "26005807",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/04/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/994854990"
+ }
+}

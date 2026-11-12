@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "AMOROS BOUTEILLE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 11",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442110409"
+ },
+ "siren": "442110409",
+ "denomination": "AMOROS BOUTEILLE",
+ "nom_complet": "AMOROS BOUTEILLE (ARCADIS PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "ARCADIS PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2002-07-01",
+ "ville": "CARCASSONNE",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442110409",
+ "maj_rne": "2026-09-23T12:45:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE",
+   "nom": "AMOROS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN",
+   "nom": "BOUTEILLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/442110409",
+  "numero": "07005144",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/03/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/11/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/442110409"
+ }
+}

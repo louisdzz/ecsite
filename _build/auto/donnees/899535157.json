@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "CENTRE D'AFFAIRES DE L'ARTISAN",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/899535157"
+ },
+ "siren": "899535157",
+ "denomination": "CENTRE D'AFFAIRES DE L'ARTISAN",
+ "nom_complet": "CENTRE D'AFFAIRES DE L'ARTISAN (C2A)",
+ "sigle": "C2A",
+ "enseigne": "C2A PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-05-12",
+ "ville": "MONTPELLIER",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/899535157",
+ "maj_rne": "2026-10-22T20:23:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "SENAUX (SENAUX)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE ANDRE",
+   "nom": "SENAUX",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/899535157",
+  "numero": "23000698",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/05/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/05/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/02/2023"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/899535157"
+ }
+}

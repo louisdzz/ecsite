@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "MICHEL BASCANS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828520247"
+ },
+ "siren": "828520247",
+ "denomination": "MICHEL BASCANS",
+ "nom_complet": "MICHEL BASCANS (PATRIMOINE-CONSEILS-CONFIANCE)",
+ "sigle": null,
+ "enseigne": "PATRIMOINE-CONSEILS-CONFIANCE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-01-15",
+ "ville": "SAINT-JEAN-LE-VIEUX",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/828520247",
+ "maj_rne": "2026-09-25T14:05:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "BASCANS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/828520247",
+  "numero": "17002593",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "23/09/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/05/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/828520247"
+ }
+}

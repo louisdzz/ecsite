@@ -119,27 +119,22 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
 
 <section class="sec">
     <h2 class="disp">Ce que vous payez</h2>
-    <p class="q">Vous payez le même prix que toutes les maisons de l’Annuaire de l’Exit, quelle que soit votre catégorie, quelle que soit votre taille. 2 400 € HT par an, ou 240 € HT par mois. La qualification porte sur ce que votre maison accepte de publier.</p>
-
-    <div class="cad" id="cad">
-      <button type="button" data-c="an" class="on">Annuel · 2 mois offerts</button>
-      <button type="button" data-c="mois">Mensuel</button>
-    </div>
+    <p class="q">Vous payez le même prix que toutes les maisons de l’Annuaire de l’Exit, quelle que soit votre catégorie, quelle que soit votre taille. 2 400 € HT par an. La qualification porte sur ce que votre maison accepte de publier.</p>
 
     <div class="grid" id="paliers">
-      <label class="pal" data-p="standard" data-an="2400" data-mois="240">
+      <label class="pal" data-p="standard" data-an="2400">
         <input type="radio" name="palier" value="standard">
         <div class="n">Profil vérifié</div>
         <div class="p"><b class="v">2 400 €</b> <span class="u">HT / an</span></div>
-        <div class="c">Toutes catégories, toutes tailles de maison</div>
+        <div class="c">Toutes catégories, toutes tailles de maison · mise à jour annuelle · sans effet sur le classement</div>
       </label>
     </div>
-    <p class="fine">Prix hors taxes, TVA ajoutée au paiement. Carte bancaire ou prélèvement SEPA. Sans engagement de reconduction : vous arrêtez quand vous voulez, votre maison reste recensée gratuitement. Vous êtes remboursé intégralement si vous renoncez à la qualification. Tarif de lancement du 6 août 2026, bloqué à vie pour les maisons qui souscrivent avant la publication de la page de leur catégorie.</p>
+    <p class="fine">Prix hors taxes, TVA ajoutée au paiement. Carte bancaire ou prélèvement SEPA. Sans engagement de reconduction : vous arrêtez quand vous voulez, votre maison reste recensée gratuitement. Le profil est revu chaque année avec vous. Profil vérifié, sans effet sur le classement.</p>
   </section>
 
   <section class="sec">
     <h2 class="disp">Ce qu'on vous demande</h2>
-    <p class="q">Vous réglez, puis deux choses. Un email avec vos pièces : logo, équipe, one-pager, opportunité du moment, lien de rendez-vous. Et une heure d'interview sans filtre pour répondre aux questions de votre catégorie : nous écrivons tout, vous validez tout avant publication. Votre profil est en ligne sous 7 jours.</p>
+    <p class="q">Vous réglez, puis deux choses. Un email avec vos pièces : logo, équipe, one-pager, opportunité du moment, lien de rendez-vous. Et un entretien écrit : nous vous envoyons les questions de votre catégorie, vous y répondez par écrit, l'Annuaire rédige votre profil et vous le relisez avant publication. Rien n'est publié sans votre relecture.</p>
 
     <form id="f" novalidate>
       <div>
@@ -207,7 +202,7 @@ a.lk{color:var(--accent);text-decoration:none;border-bottom:1px solid #C6D3A5}
   var cadence = "an";
 
   if (q.get("institution")) document.getElementById("institution").value = q.get("institution");
-  var catMap = {"conseil-ma":"Conseil M&A","banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","experts-comptables":"Expert-comptable / auditeur","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","secondaire":"Secondaire & pré-IPO","treso":"Trésorerie & monétaire","actifs-numeriques":"Actifs numériques","jets":"Aviation d’affaires","expatriation":"Expatriation & installation à l’étranger","biographies":"Biographies & mémoire familiale","intermediaires":"Intermédiaires & distribution de fonds"};
+  var catMap = {"conseil-ma":"Conseil M&A","banques-affaires":"Banque d'affaires","boutiques-ma":"Boutique M&A","avocats":"Avocat d'affaires / fiscaliste","experts-comptables":"Expert-comptable / auditeur","notaires":"Notaire patrimonial","banques-privees":"Banque privée","cgp":"CGP","mfo":"Family Office","assurance-vie-lux":"Assurance-vie lux","fonds-pe":"Fonds PE / LBO","fonds-dette":"Fonds Dette","fonds-vc":"Fonds VC","sgp":"Société de gestion","secondaire":"Secondaire & pré-IPO","treso":"Trésorerie & monétaire","actifs-numeriques":"Actifs numériques","jets":"Aviation d’affaires","expatriation":"Expatriation & installation à l’étranger","biographies":"Biographies & mémoire familiale","intermediaires":"Intermédiaires & distribution de fonds"};
   var cat = q.get("cat"); if (cat && catMap[cat]) document.getElementById("categorie").value = catMap[cat];
 
   var msg = document.getElementById("msg"), go = document.getElementById("go");

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "PENICAUD PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 77",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/811521053"
+ },
+ "siren": "811521053",
+ "denomination": "PENICAUD PATRIMOINE",
+ "nom_complet": "PENICAUD PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2015-04-01",
+ "ville": "LA CHAPELLE-SAINT-MESMIN",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/811521053",
+ "maj_rne": "2026-09-25T05:41:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "PENICAUD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARTHUR",
+   "nom": "POISOT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/811521053",
+  "numero": "17005744",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "20/10/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/05/2019"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/811521053"
+ }
+}

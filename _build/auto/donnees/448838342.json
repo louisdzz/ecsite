@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "FB GESTION PRIVEE ET PROFESSIONNELLE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19A dép. 95",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/448838342"
+ },
+ "siren": "448838342",
+ "denomination": "FB GESTION PRIVEE ET PROFESSIONNELLE",
+ "nom_complet": "FB GESTION PRIVEE ET PROFESSIONNELLE (FB GESTION)",
+ "sigle": null,
+ "enseigne": "FB GESTION",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2003-06-02",
+ "ville": "ENGHIEN-LES-BAINS",
+ "actif": true,
+ "naf": "66.19A",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/448838342",
+ "maj_rne": "2026-09-23T15:17:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "BOULLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/448838342",
+  "numero": "07002769",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "26/04/2013"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "26/04/2013"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/06/2006"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/448838342"
+ }
+}

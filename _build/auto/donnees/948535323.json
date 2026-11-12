@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "INDEPENDANCE AM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321132"
+ },
+ "siren": "948535323",
+ "denomination": "INDEPENDANCE AM",
+ "nom_complet": "INDEPENDANCE AM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-01-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/948535323",
+ "maj_rne": "2026-09-27T09:08:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARTHUR",
+   "nom": "DE LA FAGE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VICTOR",
+   "nom": "DE PREMOREL-HIGGONS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WILLIAM",
+   "nom": "DE PREMOREL-HIGGONS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321132",
+  "numero": "GP-20230005",
+  "date_agrement": "2023-02-22",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "20, avenue Franklin D. Roosevelt, 75008 PARIS",
+  "lei": "969500KLX4BYA8OWBT02",
+  "denomination": "INDEPENDANCE AM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20230005.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/321132"
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "nom_usuel": "M PLUS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25786"
+ },
+ "siren": "844040782",
+ "denomination": "M PLUS",
+ "nom_complet": "M PLUS (M+) (M+)",
+ "sigle": "M+",
+ "enseigne": "M+",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2018-11-09",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844040782",
+ "maj_rne": "2026-09-25T22:34:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "BLANC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE JEAN-FRANCOIS",
+   "nom": "BROUSSAUD",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DORIAN STEPHANE",
+   "nom": "KELBERG",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE CHARLES",
+   "nom": "RANOUIL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "SIMONI",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25786",
+  "numero": "GP-18000023",
+  "date_agrement": "2018-11-28",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5bis rue Kepler 75016 Paris, 75016 PARIS",
+  "lei": "9695003XTD9BM8Q7ZA72",
+  "denomination": "M PLUS"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-18000023.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/25786"
+ }
+}

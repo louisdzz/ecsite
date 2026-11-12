@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "IZIMMO",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 87",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488650417"
+ },
+ "siren": "488650417",
+ "denomination": "IZIMMO",
+ "nom_complet": "IZIMMO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-01-01",
+ "ville": "BREST",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/488650417",
+ "maj_rne": "2026-11-09T08:47:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VINCENT GILLES LUC",
+   "nom": "GUENERON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY JOSEPH",
+   "nom": "KERMARREC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE YVES",
+   "nom": "LANDEMAINE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN GEORGES MARIE",
+   "nom": "LE GOASCOZ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMILIE MARIE PIERRETTE CHANTAL",
+   "nom": "SIMON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT MUTUEL ARKEA",
+   "siren": "775577018",
+   "qualite": "Président du conseil d’administration"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/488650417",
+  "numero": "11062731",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "31/01/2014"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "16/07/2021"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "06/09/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/488650417"
+ }
+}

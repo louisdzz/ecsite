@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "GS CONSEILS ET PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 34",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927682518"
+ },
+ "siren": "927682518",
+ "denomination": "GS CONSEILS ET PATRIMOINE",
+ "nom_complet": "GS CONSEILS ET PATRIMOINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-04-01",
+ "ville": "JACOU",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/927682518",
+ "maj_rne": "2026-09-27T17:58:15",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "GS EXPERTS ET PARTICIPATIONS",
+   "siren": "504125741",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "NUDGE",
+   "siren": "878465681",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/927682518",
+  "numero": "24004762",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "19/07/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/07/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/927682518"
+ }
+}

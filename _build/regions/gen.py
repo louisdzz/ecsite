@@ -4,7 +4,8 @@
 Pourquoi ces pages. Un cabinet ne paie pas parce que sa fiche est belle, il paie
 parce que celle du confrère d'à côté l'est plus. La page régionale met les
 cabinets d'un même marché côte à côte, dans le même format : celui qui publie
-ses encours a une ligne de plus, celui qui est vérifié passe en tête. C'est
+ses encours a une ligne de plus. L'ordre des fiches ne dépend jamais d'un
+paiement (décision de Louis du 12 novembre 2026). C'est
 aussi la page que le dirigeant enverra à son associé pour justifier la dépense.
 
 Entrées : _build/cgp-geo.json (3056 cabinets géolocalisés par le registre)
@@ -377,20 +378,17 @@ for nom, prep, deps in REGIONS:
                % (nver, 's' if nver > 1 else '', 'sont' if nver > 1 else 'est',
                   's' if nver > 1 else ''))
     else:
-        big = ('Aucun cabinet %s n\'est encore vérifié. <em>Le premier apparaîtra ici, en tête.</em>'
+        big = ('Aucun cabinet %s n\'a encore de profil vérifié.'
                % e(prep))
-    b.append('<div class="slots"><div class="n">%d</div><div class="tx">'
+    b.append('<div class="slots"><div class="tx">'
              '<p class="big">%s</p>'
-             '<p class="small">%d places de fiches vérifiées sont ouvertes pour 2026 en gestion privée, '
-             'toutes régions confondues. %d %s prise%s. Une fiche vérifiée porte le logo, les visages '
+             '<p class="small">Un profil vérifié porte le logo, les visages '
              'des associés, l\'expertise post-cession et la prise de rendez-vous directe. '
-             'La vérification n\'influence ni la présence dans le recensement, ni l\'ordre '
-             'd\'affichage, ni les Ligues.</p></div>'
-             '<a class="btn" href="/fiche-verifiee?cat=cgp&region=%s">Faire vérifier ma fiche</a>'
-             '</div>'
-             % (rest, big, CGP['places'], CGP['prises'],
-                'est' if CGP['prises'] < 2 else 'sont',
-                's' if CGP['prises'] > 1 else '', e(rslug)))
+             '2 400 € HT par an. L\'ordre des fiches ne dépend jamais d\'un paiement : le profil '
+             'vérifié n\'influence ni la présence dans le recensement, ni l\'ordre '
+             'd\'affichage, ni les classements.</p></div>'
+             '<a class="btn" href="/tarifs">Profil vérifié · sans effet sur le classement</a>'
+             '</div>' % big)
 
     b.append('<section class="sect"><div class="k">Ce que le marché sait déjà</div>'
              '<h2>Les cabinets qui publient leurs encours.</h2>')
@@ -481,11 +479,9 @@ b.append('<section class="hero"><p class="over">Gestion privée · France</p>'
          % '{:,}'.format(loc).replace(',', ' '))
 b.append('<div class="kpi"><div><b>%d</b><span>régions</span></div>'
          '<div><b>%s</b><span>cabinets de gestion de patrimoine</span></div>'
-         '<div><b>%d</b><span>encours publiés</span></div>'
-         '<div><b>%d</b><span>places vérifiées restantes</span></div></div>'
+         '<div><b>%d</b><span>encours publiés</span></div></div>'
          % (len([1 for n2 in counts if counts[n2]]),
-            '{:,}'.format(loc).replace(',', ' '), len(ENCS),
-            CGP['places'] - CGP['prises']))
+            '{:,}'.format(loc).replace(',', ' '), len(ENCS)))
 b.append('<section class="sect"><div class="k">Recensement</div>'
          '<h2>Choisissez une région.</h2><div class="rgrid">%s</div></section>'
          % ''.join('<a class="rg" href="/regions/%s"><b>%s</b><span>%d cabinets</span></a>'

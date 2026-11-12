@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CLEA CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 64",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939836854"
+ },
+ "siren": "939836854",
+ "denomination": "CLEA CONSEILS",
+ "nom_complet": "CLEA CONSEILS (CLEA CONSEILS)",
+ "sigle": null,
+ "enseigne": "CLEA CONSEILS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2025-01-20",
+ "ville": "SAINT-JEAN-DE-LUZ",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939836854",
+ "maj_rne": "2026-09-27T23:25:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAIRE",
+   "nom": "DURAND",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LÉA",
+   "nom": "ARRACHART OZCOIDI (OZCOIDI)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/939836854",
+  "numero": "25004753",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/06/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/08/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/939836854"
+ }
+}

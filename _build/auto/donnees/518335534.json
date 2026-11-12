@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "PATRIMONIAL'EXPERTISE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 80",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518335534"
+ },
+ "siren": "518335534",
+ "denomination": "PATRIMONIAL'EXPERTISE",
+ "nom_complet": "PATRIMONIAL'EXPERTISE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-11-16",
+ "ville": "GLISY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/518335534",
+ "maj_rne": "2026-09-24T07:56:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MURIEL ISABELLE",
+   "nom": "FERET (BOYER)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/518335534",
+  "numero": "13000697",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "01/05/2010"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/518335534"
+ }
+}

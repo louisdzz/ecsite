@@ -1,0 +1,78 @@
+{
+ "nom_usuel": "TWENTYTWO INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24615"
+ },
+ "siren": "829233907",
+ "denomination": "TWENTYTWO INVESTMENT MANAGEMENT",
+ "nom_complet": "TWENTYTWO INVESTMENT MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2017-04-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829233907",
+ "maj_rne": "2026-09-25T14:36:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE",
+   "nom": "CASTAGNES",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DANIEL FRÉDÉRIC",
+   "nom": "RIGNY",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VAFA",
+   "nom": "ROHANI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "JUNIPER SQUARE LUXEMBOURG",
+   "siren": null,
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24615",
+  "numero": "GP-17000011",
+  "date_agrement": "2017-05-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "4 Rue Dumont d'Urville, 75116 PARIS",
+  "lei": "9695005GAOEQ36X5TH78",
+  "denomination": "TwentyTwo Investment Management"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-17000011.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/24615"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "COMPAGNIE FINANCIERE DE LA SEINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 76",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515401313"
+ },
+ "siren": "515401313",
+ "denomination": "COMPAGNIE FINANCIERE DE LA SEINE",
+ "nom_complet": "COMPAGNIE FINANCIERE DE LA SEINE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-09-15",
+ "ville": "LE HAVRE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515401313",
+ "maj_rne": "2026-09-24T07:44:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC MAXIMILIEN JEAN-PAUL DIDIER",
+   "nom": "COUDERT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN PIERRE DOMINIQUE",
+   "nom": "LAMORINIERE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/515401313",
+  "numero": "10054911",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/12/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/515401313"
+ }
+}

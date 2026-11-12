@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CABINET HMAIDIA BOUTIN PATRIMOINE ET FINANCEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 974",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106982549"
+ },
+ "siren": "106982549",
+ "denomination": "CABINET HMAIDIA BOUTIN PATRIMOINE ET FINANCEMENT",
+ "nom_complet": "CABINET HMAIDIA BOUTIN PATRIMOINE ET FINANCEMENT (CHBPF)",
+ "sigle": "CHBPF",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-06-30",
+ "ville": "SAINT-LOUIS",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/106982549",
+ "maj_rne": "2026-09-28T12:02:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SONIA",
+   "nom": "HMAIDIA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/106982549",
+  "numero": "26010459",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "28/08/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "09/10/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/106982549"
+ }
+}

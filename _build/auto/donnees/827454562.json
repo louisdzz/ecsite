@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "MANACH CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 68.31Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/827454562"
+ },
+ "siren": "827454562",
+ "denomination": "MANACH CONSEIL",
+ "nom_complet": "MANACH CONSEIL (MANACH CONSEIL IMMOBILIER)",
+ "sigle": null,
+ "enseigne": "MANACH CONSEIL IMMOBILIER",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-02-01",
+ "ville": "VANNES",
+ "actif": true,
+ "naf": "68.31Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/827454562",
+ "maj_rne": "2026-09-25T13:24:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "MANACH",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/827454562",
+  "numero": "17003812",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/06/2017"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/827454562"
+ }
+}

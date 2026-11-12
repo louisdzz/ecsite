@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "AUDIT TAXES LOCALES ET SCPI",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 08",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930207402"
+ },
+ "siren": "930207402",
+ "denomination": "AUDIT TAXES LOCALES ET SCPI",
+ "nom_complet": "AUDIT TAXES LOCALES ET SCPI (EXPERT TAXES FONCIERES)",
+ "sigle": null,
+ "enseigne": "EXPERT TAXES FONCIERES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-06-19",
+ "ville": "VRIGNE AUX BOIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930207402",
+ "maj_rne": "2026-11-04T13:35:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GERALD",
+   "nom": "ANSELME",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/930207402",
+  "numero": "24005666",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "23/10/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/930207402"
+ }
+}

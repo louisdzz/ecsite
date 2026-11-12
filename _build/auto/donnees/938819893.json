@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "BARZ PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/938819893"
+ },
+ "siren": "938819893",
+ "denomination": "BARZ PATRIMOINE",
+ "nom_complet": "BARZ PATRIMOINE (KERN PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "KERN PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-12-19",
+ "ville": "CAUDAN",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/938819893",
+ "maj_rne": "2026-09-27T22:59:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BAPTISTE",
+   "nom": "LE PEIH",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JONATHAN",
+   "nom": "LE PEIH",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YVAN",
+   "nom": "POURCHASSE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/938819893",
+  "numero": "25001892",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/03/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/03/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/938819893"
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "MTV CAPITAL INVESTMENT MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19243"
+ },
+ "siren": "539802173",
+ "denomination": "MTV CAPITAL INVESTMENT MANAGEMENT",
+ "nom_complet": "MTV CAPITAL INVESTMENT MANAGEMENT (MTV CAPITAL IM)",
+ "sigle": null,
+ "enseigne": "MTV CAPITAL IM",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-01-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/539802173",
+ "maj_rne": "2026-09-24T15:53:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIRGILE CORENTIN ROMAIN MARIE",
+   "nom": "BICH",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME BENOIT JEAN-PHILIPPE",
+   "nom": "BRISON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TUGDUAL ALAIN JEAN-PAUL MARIE",
+   "nom": "RABREAU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19243",
+  "numero": "GP-12000012",
+  "date_agrement": "2012-05-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "40 rue La Pérouse, 75116 PARIS",
+  "lei": "9695005BC4QL4PK31E62",
+  "denomination": "MTV CAPITAL IM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-12000012.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/19243"
+ }
+}

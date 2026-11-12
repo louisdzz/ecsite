@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "TRICEPS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 19",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829106095"
+ },
+ "siren": "829106095",
+ "denomination": "TRICEPS",
+ "nom_complet": "TRICEPS (TRICEPS)",
+ "sigle": null,
+ "enseigne": "TRICEPS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-04-18",
+ "ville": "BRIVE-LA-GAILLARDE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/829106095",
+ "maj_rne": "2026-09-25T14:33:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE GEORGES RENE",
+   "nom": "CLAUDE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "MEYRIGNAC",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NEIL",
+   "nom": "NAUDEY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/829106095",
+  "numero": "17003307",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "02/06/2017"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "02/06/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "16/04/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/829106095"
+ }
+}

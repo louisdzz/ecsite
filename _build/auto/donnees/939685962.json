@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "KOWIKAN",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939685962"
+ },
+ "siren": "939685962",
+ "denomination": "KOWIKAN",
+ "nom_complet": "KOWIKAN",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-01-10",
+ "ville": "ANNECY",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939685962",
+ "maj_rne": "2026-09-27T23:32:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICE LUCIEN JEAN",
+   "nom": "BOUCHÉ",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ZENITH GROUPE",
+   "siren": "843749011",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/939685962",
+  "numero": "25007957",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/10/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/939685962"
+ }
+}

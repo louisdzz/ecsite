@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "LA POMMERAYE FINANCE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-11",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 92",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929329456"
+ },
+ "siren": "929329456",
+ "denomination": "LA POMMERAYE FINANCE",
+ "nom_complet": "LA POMMERAYE FINANCE (LA POMMERAYE FINANCE) (LPF)",
+ "sigle": "LPF",
+ "enseigne": "LA POMMERAYE FINANCE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-05-15",
+ "ville": "NEUILLY-SUR-SEINE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/929329456",
+ "maj_rne": "2026-10-27T14:15:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD GUY MARIE ALPHONSE",
+   "nom": "GUYOT DE LA POMMERAYE (GUYOT DE LA POMMERAYE)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/929329456",
+  "numero": "24005600",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "22/11/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/929329456"
+ }
+}

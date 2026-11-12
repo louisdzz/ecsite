@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ANAXIS ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16291"
+ },
+ "siren": "523455350",
+ "denomination": "ANAXIS ASSET MANAGEMENT",
+ "nom_complet": "ANAXIS ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-06-21",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/523455350",
+ "maj_rne": "2026-09-24T09:46:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT",
+   "nom": "DESTRES",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "GIAILEVRA",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-JULIEN",
+   "nom": "GOETTMANN",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16291",
+  "numero": "GP-10000030",
+  "date_agrement": "2010-07-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT27",
+    "libelle": "Gestion de FIA - en-dessous des seuils et ne souhaitant pas opter pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "9, rue Scribe, 75009 PARIS",
+  "lei": "9695005VR5O4WBJDM975",
+  "denomination": "ANAXIS ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16291"
+ }
+}

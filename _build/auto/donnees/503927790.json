@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "AUVERGNE PATRIMOINE PLACEMENTS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 63",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503927790"
+ },
+ "siren": "503927790",
+ "denomination": "AUVERGNE PATRIMOINE PLACEMENTS",
+ "nom_complet": "AUVERGNE PATRIMOINE PLACEMENTS (A2P PATRIMOINE) (A2P)",
+ "sigle": "A2P",
+ "enseigne": "A2P PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-04-01",
+ "ville": "CLERMONT-FERRAND",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503927790",
+ "maj_rne": "2026-09-24T04:06:51",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACQUES",
+   "nom": "BERTHOMME",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD MAURICE JEAN HONORE LEON ANDRE",
+   "nom": "SOULET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/503927790",
+  "numero": "08045467",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "07/05/2021"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/01/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/10/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/06/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/503927790"
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "ELYSEES PRESTIGES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 74",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513568022"
+ },
+ "siren": "513568022",
+ "denomination": "ELYSEES PRESTIGES",
+ "nom_complet": "ELYSEES PRESTIGES (ELYSEES PRESTIGES)",
+ "sigle": null,
+ "enseigne": "ELYSEES PRESTIGES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2009-07-01",
+ "ville": "CHAVANOD",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/513568022",
+ "maj_rne": "2026-09-24T07:09:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "JOSSERAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC RENAUD PAUL",
+   "nom": "LEQUEUX",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/513568022",
+  "numero": "09051017",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "01/09/2023"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "04/09/2009"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/09/2009"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/513568022"
+ }
+}

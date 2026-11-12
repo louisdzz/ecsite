@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "NC 23 INVEST",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 56",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982909475"
+ },
+ "siren": "982909475",
+ "denomination": "NC 23 INVEST",
+ "nom_complet": "NC 23 INVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-12-27",
+ "ville": "BRECH",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/982909475",
+ "maj_rne": "2026-09-27T15:47:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GRÉGORY ALEXIS THÉODORE",
+   "nom": "DESTRÉS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT PATRICE JEAN-YVES",
+   "nom": "PRONO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/982909475",
+  "numero": "24000847",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "09/02/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "23/02/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/982909475"
+ }
+}

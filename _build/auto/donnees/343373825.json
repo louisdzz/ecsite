@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "INITIATIVE ET FINANCE GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16741"
+ },
+ "siren": "343373825",
+ "denomination": "INITIATIVE ET FINANCE GESTION",
+ "nom_complet": "INITIATIVE ET FINANCE GESTION",
+ "sigle": null,
+ "enseigne": "I&F GESTION",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1988-01-04",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/343373825",
+ "maj_rne": "2026-09-29T13:18:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "GIRON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL PIERRE",
+   "nom": "LAVEU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD HENRI ALVARO",
+   "nom": "MENDELSOHN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16741",
+  "numero": "GP-10000043",
+  "date_agrement": "2010-10-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "20 rue Quentin Bauchart, 75008 PARIS",
+  "lei": "969500SNX9H253QCFF09",
+  "denomination": "INITIATIVE & FINANCE GESTION"
+ },
+ "site": "https://www.initiative-finance.com",
+ "site_pages": [
+  "https://www.initiative-finance.com",
+  "https://www.initiative-finance.com/mentions-legales/",
+  "https://www.initiative-finance.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-10000043.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/16741"
+ },
+ "site_source": "https://www.initiative-finance.com/mentions-legales/"
+}

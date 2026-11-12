@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "INGENIERIE FISCALE DU PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 974",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/424164663"
+ },
+ "siren": "424164663",
+ "denomination": "INGENIERIE FISCALE DU PATRIMOINE",
+ "nom_complet": "INGENIERIE FISCALE DU PATRIMOINE (IFP)",
+ "sigle": "IFP",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1999-07-01",
+ "ville": "SAINT-PAUL",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/424164663",
+ "maj_rne": "2026-09-23T06:50:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCIS JEAN MICHEL",
+   "nom": "GLEY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/424164663",
+  "numero": "07003879",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/01/2007"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "07/11/2005"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/424164663"
+ }
+}

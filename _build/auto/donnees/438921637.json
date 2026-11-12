@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "PARQUEST CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/822"
+ },
+ "siren": "438921637",
+ "denomination": "PARQUEST CAPITAL",
+ "nom_complet": "PARQUEST CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2001-08-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/438921637",
+ "maj_rne": "2026-10-15T11:39:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "DECRÉ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/822",
+  "numero": "GP02021",
+  "date_agrement": "2002-09-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "19 avenue de l'Opéra, 75001 PARIS",
+  "lei": "9695007C09I6DB3ER958",
+  "denomination": "PARQUEST CAPITAL"
+ },
+ "site": "https://www.parquest.fr",
+ "site_pages": [
+  "https://parquest.fr/fr/",
+  "https://parquest.fr/fr/mentions-legales/",
+  "https://parquest.fr/fr/mentions-legales/",
+  "https://parquest.fr/fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02021.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/822"
+ },
+ "site_source": "https://parquest.fr/fr/mentions-legales/"
+}

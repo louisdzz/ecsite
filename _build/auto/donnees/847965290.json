@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "NATHALIE MAYOUX CONSULTANT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 85",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/847965290"
+ },
+ "siren": "847965290",
+ "denomination": "NATHALIE MAYOUX CONSULTANT",
+ "nom_complet": "NATHALIE MAYOUX CONSULTANT (NMC)",
+ "sigle": "NMC",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-01-14",
+ "ville": "MONTAIGU-VENDEE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/847965290",
+ "maj_rne": "2026-09-25T23:39:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE NOEL JACQUES",
+   "nom": "LEBRET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "MAYOUX",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERWANN",
+   "nom": "QUEMERE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/847965290",
+  "numero": "20005404",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "10/07/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/07/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/847965290"
+ }
+}

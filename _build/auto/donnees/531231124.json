@@ -1,0 +1,96 @@
+{
+ "nom_usuel": "PRAEMIA REIM FRANCE",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18941"
+ },
+ "siren": "531231124",
+ "denomination": "PRAEMIA REIM FRANCE",
+ "nom_complet": "PRAEMIA REIM FRANCE (PREIM FRANCE)",
+ "sigle": "PREIM FRANCE",
+ "enseigne": null,
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "creation": "2011-03-10",
+ "ville": "CLICHY",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531231124",
+ "maj_rne": "2026-09-24T12:23:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC",
+   "nom": "BERTRAND",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS MARIE",
+   "nom": "CHANDOU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE",
+   "nom": "COHEN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GONZAGUE",
+   "nom": "MONTIGNY",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JUSTINE",
+   "nom": "MOUGIN",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LIONEL",
+   "nom": "PAQUIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "RAGONS",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18941",
+  "numero": "GP-11000043",
+  "date_agrement": "2011-12-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "24 rue de Villeneuve, 92110 CLICHY",
+  "lei": "969500VFRPFZHH9DFC56",
+  "denomination": "PRAEMIA REIM France"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-11000043.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18941"
+ }
+}

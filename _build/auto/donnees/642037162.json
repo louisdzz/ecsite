@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "AESTIAM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21529"
+ },
+ "siren": "642037162",
+ "denomination": "AESTIAM",
+ "nom_complet": "AESTIAM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1900-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/642037162",
+ "maj_rne": "2026-09-24T17:03:06",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "LE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21529",
+  "numero": "GP-14000024",
+  "date_agrement": "2014-07-11",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "5 rue Cadet, 75009 PARIS",
+  "lei": "969500BTQ1MJ30SR8702",
+  "denomination": "AESTIAM"
+ },
+ "site": "https://www.aestiam.com",
+ "site_pages": [
+  "https://www.aestiam.com",
+  "https://www.aestiam.com/dispositifs-reglementaires/",
+  "https://www.aestiam.com/mentions-legales/",
+  "https://www.aestiam.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000024.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/21529"
+ },
+ "site_source": "https://www.aestiam.com/mentions-legales/"
+}

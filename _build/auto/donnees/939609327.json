@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "GLOBAL PATRIMOINE INVESTISSEMENT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 57",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939609327"
+ },
+ "siren": "939609327",
+ "denomination": "GLOBAL PATRIMOINE INVESTISSEMENT",
+ "nom_complet": "GLOBAL PATRIMOINE INVESTISSEMENT (GLOBAL PATRIMOINE INVESTISSEMENT) (G.P.I)",
+ "sigle": "G.P.I",
+ "enseigne": "GLOBAL PATRIMOINE INVESTISSEMENT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-02-15",
+ "ville": "METZ",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/939609327",
+ "maj_rne": "2026-09-28T01:43:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY CHARLES JEAN",
+   "nom": "SCHUMACHER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/939609327",
+  "numero": "25007265",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/09/2025"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/09/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/939609327"
+ }
+}

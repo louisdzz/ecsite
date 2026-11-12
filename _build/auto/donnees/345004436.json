@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "INTER GESTION REIM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18426"
+ },
+ "siren": "345004436",
+ "denomination": "INTER GESTION REIM",
+ "nom_complet": "INTER GESTION REIM",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1988-04-11",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/345004436",
+ "maj_rne": "2026-09-22T15:34:31",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMILIEN EMILIEN",
+   "nom": "RODRIGUEZ",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILBERT GILBERT",
+   "nom": "RODRIGUEZ",
+   "qualite": "Président du conseil d’administration et directeur général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANÇOIS JEAN-FRANCOIS",
+   "nom": "TALON",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18426",
+  "numero": "GP-12000008",
+  "date_agrement": "2012-02-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "2 rue de la Paix, 75002 PARIS",
+  "lei": "8945000TJUKMS1BVJQ93",
+  "denomination": "INTER GESTION REIM"
+ },
+ "site": "https://www.inter-gestion.com",
+ "site_pages": [
+  "https://www.inter-gestion.com/corpo/accueil",
+  "https://www.inter-gestion.com/corpo/mentions-legales",
+  "https://www.inter-gestion.com/corpo/mentions-reglementaires",
+  "https://www.inter-gestion.com/corpo/mentions-legales",
+  "https://www.inter-gestion.com/corpo/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-12000008.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/18426"
+ },
+ "site_source": "https://www.inter-gestion.com/corpo/mentions-legales"
+}

@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "LINK CONSEILS ET PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 01",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/749992467"
+ },
+ "siren": "749992467",
+ "denomination": "LINK CONSEILS ET PATRIMOINE",
+ "nom_complet": "LINK CONSEILS ET PATRIMOINE (LINK CONSEILS)",
+ "sigle": null,
+ "enseigne": "LINK CONSEILS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-02-17",
+ "ville": "BOURG-EN-BRESSE",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/749992467",
+ "maj_rne": "2026-09-24T17:25:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN NICOLAS JEAN",
+   "nom": "ANCEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGUES JOSEPH",
+   "nom": "SERPINET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/749992467",
+  "numero": "12067532",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/09/2012"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/04/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/749992467"
+ }
+}

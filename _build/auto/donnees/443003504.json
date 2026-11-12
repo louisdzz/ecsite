@@ -1,0 +1,77 @@
+{
+ "nom_usuel": "M CAPITAL PARTNERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/831"
+ },
+ "siren": "443003504",
+ "denomination": "M CAPITAL PARTNERS",
+ "nom_complet": "M CAPITAL PARTNERS (MIDI CAPITAL)",
+ "sigle": null,
+ "enseigne": "MIDI CAPITAL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2002-07-01",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/443003504",
+ "maj_rne": "2026-09-23T13:07:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "AVERSENQ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STÉPHANIE",
+   "nom": "PINEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RUDY PIERRE JACQUES",
+   "nom": "SECCO",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/831",
+  "numero": "GP02028",
+  "date_agrement": "2002-10-29",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "8 RUE DES 36 PONTS, 31031 TOULOUSE",
+  "lei": "969500NLXFIV68BES730",
+  "denomination": "M CAPITAL PARTNERS"
+ },
+ "site": "http://www.mcapital.fr",
+ "site_pages": [
+  "https://www.mcapital.fr/",
+  "https://www.mcapital.fr/mentions-legales/",
+  "https://www.mcapital.fr/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP02028.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/831"
+ },
+ "site_source": "https://www.mcapital.fr/mentions-legales/"
+}

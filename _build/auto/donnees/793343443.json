@@ -1,0 +1,65 @@
+{
+ "nom_usuel": "BLUEIMVEST",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20979"
+ },
+ "siren": "793343443",
+ "denomination": "BLUEIMVEST",
+ "nom_complet": "BLUEIMVEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2013-05-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/793343443",
+ "maj_rne": "2026-09-24T22:23:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "COLOMBU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20979",
+  "numero": "GP-14000037",
+  "date_agrement": "2014-09-24",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "45 Avenue Georges Mandel, 75116 PARIS",
+  "lei": "969500HYS6OZVNQXH014",
+  "denomination": "BLUEIMVEST"
+ },
+ "site": "https://www.blueimvest.com",
+ "site_pages": [
+  "https://www.blueimvest.com",
+  "https://www.blueimvest.com/mentions-legales/",
+  "https://www.blueimvest.com/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000037.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/20979"
+ },
+ "site_source": "https://www.blueimvest.com/mentions-legales/"
+}

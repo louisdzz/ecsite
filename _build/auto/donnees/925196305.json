@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "MAEKN BUSINESS IMMOBILIER",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 78",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/925196305"
+ },
+ "siren": "925196305",
+ "denomination": "MAEKN BUSINESS IMMOBILIER",
+ "nom_complet": "MAEKN BUSINESS IMMOBILIER (MAEKN BUSINESS IMMOBILIER)",
+ "sigle": null,
+ "enseigne": "MAEKN BUSINESS IMMOBILIER",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-03-22",
+ "ville": "MAISONS-LAFFITTE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/925196305",
+ "maj_rne": "2026-09-27T17:42:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC GEORGES PIERRE",
+   "nom": "BROUILLARD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/925196305",
+  "numero": "24004214",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "28/06/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/925196305"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "nom_usuel": "MANSARTIS GESTION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/933"
+ },
+ "siren": "324823996",
+ "denomination": "MANSARTIS GESTION",
+ "nom_complet": "MANSARTIS GESTION (PGC)",
+ "sigle": "PGC",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1982-03-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/324823996",
+ "maj_rne": "2026-09-28T16:34:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME MARIE NICOLAS",
+   "nom": "JALENQUES DE LABEAU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/933",
+  "numero": "GP90045",
+  "date_agrement": "1990-07-05",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "8, place Vendôme, 75001 PARIS",
+  "lei": "96950021TL5W93GCMP38",
+  "denomination": "MANSARTIS GESTION"
+ },
+ "site": "https://www.mansartis.com",
+ "site_pages": [
+  "https://www.mansartis.com:443/fr/home",
+  "https://www.mansartis.com:443/fr/mentions",
+  "https://www.mansartis.com:443/fr/legals",
+  "https://www.mansartis.com:443/fr/home",
+  "https://www.mansartis.com:443/fr/home"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP90045.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/933"
+ },
+ "site_source": "https://www.mansartis.com:443/fr/mentions"
+}

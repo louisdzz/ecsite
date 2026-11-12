@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "AUDIT ET OPTIMISATION FINANCIERE BESSE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 85",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533848321"
+ },
+ "siren": "533848321",
+ "denomination": "AUDIT ET OPTIMISATION FINANCIERE BESSE",
+ "nom_complet": "AUDIT ET OPTIMISATION FINANCIERE BESSE (AUDIT OPTIMISATION FINANCIERE BESSE) (AOF BESSE)",
+ "sigle": "AOF BESSE",
+ "enseigne": "AUDIT OPTIMISATION FINANCIERE BESSE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2011-07-18",
+ "ville": "LES SABLES D'OLONNE",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/533848321",
+ "maj_rne": "2026-09-24T13:36:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI CHRISTIAN YANN",
+   "nom": "BESSÉ",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/533848321",
+  "numero": "11063748",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/09/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "21/10/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/11/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/533848321"
+ }
+}

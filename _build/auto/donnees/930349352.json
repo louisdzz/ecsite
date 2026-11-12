@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "HOPE ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/329938"
+ },
+ "siren": "930349352",
+ "denomination": "HOPE ASSET MANAGEMENT",
+ "nom_complet": "HOPE ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-06-24",
+ "ville": "SAINT-CYR-AU-MONT-D'OR",
+ "actif": true,
+ "naf": "64.20Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/930349352",
+ "maj_rne": "2026-07-16T18:46:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANÇOIS",
+   "nom": "BERTHOU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANNICK",
+   "nom": "GAUDEL",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/329938",
+  "numero": "GP-20250010",
+  "date_agrement": "2025-11-20",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "31 chemin de Champlong, 69450 SAINT CYR AU MONT D'OR",
+  "lei": "969500B0LWKC373MWB88",
+  "denomination": "HOPE ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20250010.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/329938"
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "nom_usuel": "LA FRANCAISE REAL ESTATE MANAGERS",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7155"
+ },
+ "siren": "399922699",
+ "denomination": "LA FRANCAISE REAL ESTATE MANAGERS",
+ "nom_complet": "LA FRANCAISE REAL ESTATE MANAGERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1995-01-31",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399922699",
+ "maj_rne": "2026-10-19T15:36:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "ALLARD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME ARNAUD",
+   "nom": "ALLARD",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "LE TREUT",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY CHRISTOPHE",
+   "nom": "MOLTON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID",
+   "nom": "RENDALL",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE ALAIN LUCIEN",
+   "nom": "BASSO (VERDIER)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE FEDERALE DU CREDIT MUTUEL NORD EUROPE",
+   "siren": "320342264",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pm",
+   "denomination": "GROUPE LA FRANÇAISE",
+   "siren": "480871490",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "CAISSE REGIONALE DE CREDIT MUTUEL DE LOIRE-ATLANTIQUE ET DU CENTRE OUEST",
+   "siren": "870800299",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7155",
+  "numero": "GP-07000038",
+  "date_agrement": "2007-06-26",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "128 boulevard Raspail, 75006 PARIS",
+  "lei": "969500ET3YGGJKKE7526",
+  "denomination": "LA FRANCAISE REAL ESTATE MANAGERS."
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-07000038.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7155"
+ }
+}

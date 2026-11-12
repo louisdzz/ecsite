@@ -1,0 +1,70 @@
+{
+ "nom_usuel": "CONFIDENCE CONSEILS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 14",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/878527647"
+ },
+ "siren": "878527647",
+ "denomination": "CONFIDENCE CONSEILS",
+ "nom_complet": "CONFIDENCE CONSEILS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-10-01",
+ "ville": "CAEN",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/878527647",
+ "maj_rne": "2026-09-26T03:42:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHUONG MAI",
+   "nom": "LUU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "QUENTIN CLAUDE MARCEAU",
+   "nom": "NISOLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/878527647",
+  "numero": "21006872",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "12/05/2023"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "27/08/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/878527647"
+ }
+}

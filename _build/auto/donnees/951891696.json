@@ -1,0 +1,66 @@
+{
+ "nom_usuel": "GLASSBOX ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326567"
+ },
+ "siren": "951891696",
+ "denomination": "GLASSBOX ASSET MANAGEMENT",
+ "nom_complet": "GLASSBOX ASSET MANAGEMENT (GLASSBOX ASSET MANAGEMENT)",
+ "sigle": null,
+ "enseigne": "GLASSBOX ASSET MANAGEMENT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-04-24",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951891696",
+ "maj_rne": "2026-09-27T10:24:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN JOSEPH ANDRÉ MARIE",
+   "nom": "LAFOND",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "DE BELLEFONDS (PISSONNET DE BELLEFONDS)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326567",
+  "numero": "GP-20240016",
+  "date_agrement": "2024-07-23",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": "40 rue du Colisée, 75008 PARIS",
+  "lei": "2549002IF2GOV17DX749",
+  "denomination": "GLASSBOX ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20240016.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/326567"
+ }
+}

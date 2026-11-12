@@ -1,0 +1,98 @@
+{
+ "nom_usuel": "AGPM KLESIA ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "SIREN publié par l'AMF (GECO), identique au SIREN du LEI (GLEIF)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13989"
+ },
+ "siren": "338081714",
+ "denomination": "AGPM KLESIA ASSET MANAGEMENT",
+ "nom_complet": "AGPM KLESIA ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1986-06-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/338081714",
+ "maj_rne": "2026-09-30T12:48:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "CALES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "GESLIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "LEMAIRE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLOTHILDE GWENDALIN MARIE CHRISTINE FRANCE",
+   "nom": "MEALLONNIER",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "NOËL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER BERNARD RENE",
+   "nom": "REQUIN",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13989",
+  "numero": "GP-08000022",
+  "date_agrement": "2008-07-15",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT28",
+    "libelle": "Gestion de FIA - Gestionnaire de FIA agissant sous régime dérogatoire"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "4 Rue Georges Picquart, 75017 PARIS",
+  "lei": "969500HFLFZGNQ91F211",
+  "denomination": "AGPM KLESIA ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-08000022.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/13989"
+ }
+}

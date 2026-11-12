@@ -1,0 +1,92 @@
+{
+ "nom_usuel": "CABINET PAUK&ASSOCIES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": "cabinet-pauk-associes",
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "rapprochement par SIREN d'un doublon possible (CIF ORIAS 10 (NAF 66.19B et 66.22Z, 85 départements de métropole et d'outre-mer hors Île-de-France et hors départements déjà parcourus), 2026-11-12)",
+ "siren_source": {
+  "type": "site officiel",
+  "url": "https://www.cabinet-pauk.com"
+ },
+ "siren": "751521998",
+ "denomination": "CABINET PAUK&ASSOCIES",
+ "nom_complet": "CABINET PAUK&ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2012-05-09",
+ "ville": "METZ",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/751521998",
+ "maj_rne": "2026-09-24T18:23:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MANUEL",
+   "nom": "PARENT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY CLAUDE",
+   "nom": "PAUK",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/751521998",
+  "numero": "12067127",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "16/07/2021"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2014"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "07/05/2014"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Supprimé",
+    "date": "17/02/2017"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "25/05/2012"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": "https://www.cabinet-pauk.com",
+ "site_pages": [
+  "https://www.cabinet-pauk.com",
+  "https://www.cabinet-pauk.com/mentions-legales",
+  "https://www.cabinet-pauk.com/mentions-legales"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/751521998"
+ }
+}

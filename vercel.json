@@ -35,6 +35,26 @@
       "source": "/statistiques-confidentialite",
       "destination": "/confidentialite",
       "permanent": true
+    },
+    {
+      "source": "/f/tas-patrimoine",
+      "destination": "/f/aetas-patrimoine",
+      "permanent": true
+    },
+    {
+      "source": "/f/tas-patrimoine.html",
+      "destination": "/f/aetas-patrimoine",
+      "permanent": true
+    },
+    {
+      "source": "/f/invest-finances",
+      "destination": "/f/investae-finances",
+      "permanent": true
+    },
+    {
+      "source": "/f/invest-finances.html",
+      "destination": "/f/investae-finances",
+      "permanent": true
     }
   ],
   "headers": [

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "MELIOS EPARGNE ET CONSEIL",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 971",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/889763694"
+ },
+ "siren": "889763694",
+ "denomination": "MELIOS EPARGNE ET CONSEIL",
+ "nom_complet": "MELIOS EPARGNE ET CONSEIL (MELIOS EPARGNE ET CONSEIL) (MEL)",
+ "sigle": "MEL",
+ "enseigne": "MELIOS EPARGNE ET CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-10-07",
+ "ville": "BAIE MAHAULT",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/889763694",
+ "maj_rne": "2026-09-26T08:43:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAX-EDMOND PATRICE",
+   "nom": "LOUVOUNOU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/889763694",
+  "numero": "20008109",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "06/11/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/889763694"
+ }
+}

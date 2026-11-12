@@ -1,0 +1,60 @@
+{
+ "nom_usuel": "PARIS TITRISATION",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7250"
+ },
+ "siren": "379014095",
+ "denomination": "PARIS TITRISATION",
+ "nom_complet": "PARIS TITRISATION",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1990-08-07",
+ "ville": "PUTEAUX",
+ "actif": true,
+ "naf": "64.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379014095",
+ "maj_rne": "2026-08-25T16:21:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "BLIND",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7250",
+  "numero": "GP-14000018",
+  "date_agrement": "2014-06-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT28",
+    "libelle": "Gestion de FIA - Gestionnaire de FIA agissant sous régime dérogatoire"
+   }
+  ],
+  "adresse": "17, cours Valmy - La Défense 7, 92972 PARIS LA DEFENSE CEDEX",
+  "lei": "969500K2382NASIIBC98",
+  "denomination": "PARIS TITRISATION"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-14000018.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/7250"
+ }
+}

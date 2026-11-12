@@ -6,13 +6,16 @@ Usage : python3 _build/auto/copie_lot.py "<libellé du lot>" <dossier_plage> [<d
 """
 import json, glob, os, sys, re, collections, unicodedata
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+TRANSLIT = str.maketrans({"Æ": "AE", "æ": "ae", "Œ": "OE", "œ": "oe", "ß": "ss", "Ø": "O", "ø": "o", "Ł": "L", "ł": "l", "Đ": "D", "đ": "d"})
 def slugify(s):
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+    s = unicodedata.normalize("NFKD", s.translate(TRANSLIT)).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]+", "-", s.replace("&", " ")).strip("-")
 lot, dossiers = sys.argv[1], sys.argv[2:]
 houses = json.load(open(os.path.join(ROOT, "assets/ecosysteme/maison/data.json"), encoding="utf-8"))["houses"]
 pris = {h["slug"] for h in houses} | {os.path.basename(f)[:-5] for f in glob.glob(os.path.join(ROOT, "f", "*.html"))}
 new = [json.load(open(f, encoding="utf-8")) for d in dossiers for f in sorted(glob.glob(os.path.join(d, "[0-9]*.json")))]
+# Une société ayant des établissements dans plusieurs départements sort dans plusieurs plages : un seul enregistrement par SIREN.
+new = list({r["siren"]: r for r in new}.values())
 vus = collections.defaultdict(list)
 for r in new:
     vus[slugify(r["nom_usuel"])].append(r)

@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "SYQUANT CAPITAL",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8751"
+ },
+ "siren": "482781580",
+ "denomination": "SYQUANT CAPITAL",
+ "nom_complet": "SYQUANT CAPITAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2005-06-03",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482781580",
+ "maj_rne": "2026-09-27T01:28:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "BOSCHEREL",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENRI",
+   "nom": "JEANTET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "MORIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8751",
+  "numero": "GP-05000030",
+  "date_agrement": "2005-09-27",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "25, avenue Kléber, 75116 Paris",
+  "lei": "969500YXMX6ZAENXSP27",
+  "denomination": "SYQUANT CAPITAL"
+ },
+ "site": "https://www.syquant-capital.fr",
+ "site_pages": [
+  "https://www.syquant-capital.fr",
+  "https://www.syquant-capital.fr/mentions-legales/",
+  "https://www.syquant-capital.fr/mentions-reglementaires/",
+  "https://www.syquant-capital.fr/mentions-legales/"
+ ],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-05000030.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/8751"
+ },
+ "site_source": "https://www.syquant-capital.fr/mentions-legales/"
+}

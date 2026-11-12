@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "A&C INGEPAT",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 06",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/984532010"
+ },
+ "siren": "984532010",
+ "denomination": "A&C INGEPAT",
+ "nom_complet": "A&C INGEPAT (CABINET A & C INGENIERIE PATRIMONIALE)",
+ "sigle": null,
+ "enseigne": "CABINET A & C INGENIERIE PATRIMONIALE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-02-06",
+ "ville": "LE CANNET",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/984532010",
+ "maj_rne": "2026-09-27T16:33:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ZAMEN",
+   "nom": "AOUNI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/984532010",
+  "numero": "24002404",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "05/04/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "10/01/2025"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/984532010"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "INDEP'AM",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9652"
+ },
+ "siren": "489084186",
+ "denomination": "INDEP'AM",
+ "nom_complet": "INDEP'AM (INDEP'AM)",
+ "sigle": null,
+ "enseigne": "INDEP'AM",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "2006-03-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489084186",
+ "maj_rne": "2026-09-23T22:28:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MURIEL MARIA YVONNE",
+   "nom": "BESSON (BLANCONNIER)",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN CLAUDE",
+   "nom": "DUCHARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHANTAL",
+   "nom": "GARCIN (LAFARGE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "LAGIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE JEAN-MARIE",
+   "nom": "LECHUGA",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIA MANUELA",
+   "nom": "MORGADINHO (RIBEIRO-ANDRE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "GARANCE",
+   "siren": "391399227",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9652",
+  "numero": "GP-06000016",
+  "date_agrement": "2006-05-16",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "56 RUE SAINT LAZARE, 75009 PARIS",
+  "lei": "969500EX3MK1RWJXGH05",
+  "denomination": "INDEP'AM"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-06000016.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/9652"
+ }
+}

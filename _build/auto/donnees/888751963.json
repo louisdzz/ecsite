@@ -1,0 +1,58 @@
+{
+ "nom_usuel": "IN EXTENSO PATRIMOINE S2O",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 24",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888751963"
+ },
+ "siren": "888751963",
+ "denomination": "IN EXTENSO PATRIMOINE S2O",
+ "nom_complet": "IN EXTENSO PATRIMOINE S2O",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-08-07",
+ "ville": "BERGERAC",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888751963",
+ "maj_rne": "2026-09-26T08:20:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YANNICK",
+   "nom": "MANFÉ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/888751963",
+  "numero": "21000502",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "29/01/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/888751963"
+ }
+}

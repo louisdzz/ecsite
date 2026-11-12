@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "HERITAGE-AVENIR",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.22Z dép. 77",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890772031"
+ },
+ "siren": "890772031",
+ "denomination": "HERITAGE-AVENIR",
+ "nom_complet": "HERITAGE-AVENIR (BSC)",
+ "sigle": null,
+ "enseigne": "BSC",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-11-09",
+ "ville": "BOIS-LE-ROI",
+ "actif": true,
+ "naf": "66.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/890772031",
+ "maj_rne": "2026-11-10T01:48:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANGÈLE",
+   "nom": "DEBONDANT (NGUYEN)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT BASILE JACQUES JOSEPH",
+   "nom": "SOULLIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/890772031",
+  "numero": "20009188",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "30/06/2023"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "17/02/2023"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/12/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "12/02/2021"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/890772031"
+ }
+}

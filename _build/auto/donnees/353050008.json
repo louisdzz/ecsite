@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "CHOLET DUPONT ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "LEI publié par l'AMF (GECO), SIREN lu au registre GLEIF",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/522"
+ },
+ "siren": "353050008",
+ "denomination": "CHOLET DUPONT ASSET MANAGEMENT",
+ "nom_complet": "CHOLET DUPONT ASSET MANAGEMENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1990-01-02",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/353050008",
+ "maj_rne": "2026-09-22T17:48:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD MARCEL FERNAND",
+   "nom": "CAYLA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "DE CHOLET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SALMA",
+   "nom": "DUPONT (DRISSI QEYTONI)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANÇOIS",
+   "nom": "DUPOUY",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "HUBERT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER CLAUDE MICHEL",
+   "nom": "NICOLAS",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/522",
+  "numero": "GP98009",
+  "date_agrement": "1998-02-09",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   },
+   {
+    "code": "ACT29",
+    "libelle": "Gestion de portefeuille (au sens gestion collective)"
+   }
+  ],
+  "adresse": "16, place de la Madeleine, 75008 PARIS",
+  "lei": "9695005AJMVLHX5EJZ51",
+  "denomination": "CHOLET DUPONT ASSET MANAGEMENT"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP98009.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/522"
+ }
+}

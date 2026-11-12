@@ -1,0 +1,72 @@
+{
+ "nom_usuel": "BATHYS ASSET MANAGEMENT",
+ "categorie": "sgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot SGP AMF GECO",
+ "siren_source": {
+  "type": "recherche par dénomination à l'API Recherche d'entreprises : une seule société active de dénomination identique, activité 66.30Z (gestion de fonds)",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334737"
+ },
+ "siren": "107955783",
+ "denomination": "BATHYS ASSET MANAGEMENT",
+ "nom_complet": "BATHYS ASSET MANAGEMENT (BATHYS)",
+ "sigle": null,
+ "enseigne": "BATHYS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "66.30Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/107955783",
+ "maj_rne": "2026-10-08T02:01:03",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AUGUSTE MARIE",
+   "nom": "BALLU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENT ALEXIS BASTIEN",
+   "nom": "COLOMBET",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TOMAS HUMBERTO",
+   "nom": "SILVA MONSALVES",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "amf": {
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334737",
+  "numero": "GP-20260013",
+  "date_agrement": "2026-08-13",
+  "statut": "Agréée, en activité (statut GECO « VIV »)",
+  "activites": [
+   {
+    "code": "ACT26",
+    "libelle": "Gestion de FIA - au-delà des seuils de la Directive AIFM ou ayant opté pour l'application de la Directive AIFM"
+   }
+  ],
+  "adresse": null,
+  "lei": null,
+  "denomination": "Bathys Asset Management"
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Société de gestion de portefeuille agréée par l’AMF sous le numéro GP-20260013.",
+  "label": "AMF, base GECO",
+  "url": "https://geco.amf-france.org/societe-de-gestion-agree-francaise/334737"
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "PRAESIS PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 71",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981545429"
+ },
+ "siren": "981545429",
+ "denomination": "PRAESIS PATRIMOINE",
+ "nom_complet": "PRAESIS PATRIMOINE (VAEDIS PATRIMOINE)",
+ "sigle": null,
+ "enseigne": "VAEDIS PATRIMOINE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-11-01",
+ "ville": "GUEUGNON",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/981545429",
+ "maj_rne": "2026-09-27T14:57:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ELODIE GERMAINE GISÈLE",
+   "nom": "OUDIN",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/981545429",
+  "numero": "24005731",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "30/08/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/981545429"
+ }
+}
