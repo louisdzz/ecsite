@@ -1,0 +1,82 @@
+{
+ "nom_usuel": "MICHEL ET ASSOCIES",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 70.22Z dép. 78 (code postal 78690)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504420175"
+ },
+ "siren": "504420175",
+ "denomination": "MICHEL ET ASSOCIES",
+ "nom_complet": "MICHEL ET ASSOCIES (MICHEL ET ASSOCIES, METAGP, M&GP, ACCOMPANEA, ACCOMPANEO, SOLIDAIRES ASSURANCES)",
+ "sigle": null,
+ "enseigne": "MICHEL ET ASSOCIES, METAGP, M&GP, ACCOMPANEA, ACCOMPANEO, SOLIDAIRES ASSURANCES",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-06-01",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "70.22Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504420175",
+ "maj_rne": "2026-09-24T04:16:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "MICHEL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/504420175",
+  "numero": "08045170",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "02/09/2016"
+   },
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "05/06/2020"
+   },
+   {
+    "code": "MIOBSP",
+    "libelle": "Mandataire d'intermédiaires en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "13/05/2016"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "24/10/2008"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "06/05/2010"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/504420175"
+ }
+}

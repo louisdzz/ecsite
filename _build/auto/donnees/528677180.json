@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "ALTEA PATRIMOINE REIMS",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 77",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/528677180"
+ },
+ "siren": "528677180",
+ "denomination": "ALTEA PATRIMOINE REIMS",
+ "nom_complet": "ALTEA PATRIMOINE REIMS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2010-11-02",
+ "ville": "LA FERTE-SOUS-JOUARRE",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/528677180",
+ "maj_rne": "2026-09-24T11:04:25",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BRUNO GEORGES ALPHONSE",
+   "nom": "BELAS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN CHARLES GUILLAUME",
+   "nom": "VERILLON",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/528677180",
+  "numero": "11059275",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "28/03/2014"
+   },
+   {
+    "code": "MIA",
+    "libelle": "Mandataire d'intermédiaire d'assurance",
+    "etat": "Inscrit",
+    "date": "28/01/2011"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "21/04/2011"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/528677180"
+ }
+}

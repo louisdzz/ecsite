@@ -1,0 +1,88 @@
+{
+ "nom_usuel": "SOLAES GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 78",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/987729431"
+ },
+ "siren": "987729431",
+ "denomination": "SOLAES GESTION PRIVEE",
+ "nom_complet": "SOLAES GESTION PRIVEE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-03-01",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/987729431",
+ "maj_rne": "2026-09-27T17:25:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIC MARIE FRANÇOIS",
+   "nom": "BILLOT DE LOCHNER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME FRANÇOIS MARIE",
+   "nom": "CAMUS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE CHRISTOPHE MARIE",
+   "nom": "COLLINEAU DE MEEZEMAKER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC MICHEL ROLAND",
+   "nom": "GUILLAUME",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/987729431",
+  "numero": "24004055",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Inscrit",
+    "date": "14/06/2024"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "14/06/2024"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "14/06/2024"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/987729431"
+ }
+}

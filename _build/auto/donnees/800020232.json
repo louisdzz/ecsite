@@ -1,0 +1,76 @@
+{
+ "nom_usuel": "DJN GESTION PRIVEE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 78",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/800020232"
+ },
+ "siren": "800020232",
+ "denomination": "DJN GESTION PRIVEE",
+ "nom_complet": "DJN GESTION PRIVEE (CARDINAL GESTION PRIVEE)",
+ "sigle": null,
+ "enseigne": "CARDINAL GESTION PRIVEE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2014-02-01",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/800020232",
+ "maj_rne": "2026-09-25T00:51:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "COME",
+   "nom": "JEANNIN-NALTET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "SIMONET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/800020232",
+  "numero": "14003982",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "MOBSP",
+    "libelle": "Mandataire non-exclusif en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/01/2022"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "17/04/2026"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "19/06/2026"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/800020232"
+ }
+}

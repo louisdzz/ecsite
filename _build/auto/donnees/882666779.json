@@ -1,0 +1,64 @@
+{
+ "nom_usuel": "12 CHENES PATRIMOINE",
+ "categorie": "cgp",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot ORIAS CIF 66.19B dép. 78",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882666779"
+ },
+ "siren": "882666779",
+ "denomination": "12 CHENES PATRIMOINE",
+ "nom_complet": "12 CHENES PATRIMOINE (12 CHENES PATRIMOINE) (12 CHENES PATRIMOINE)",
+ "sigle": "12 CHENES PATRIMOINE",
+ "enseigne": "12 CHENES PATRIMOINE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-03-28",
+ "ville": "LE VESINET",
+ "actif": true,
+ "naf": "66.19B",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/882666779",
+ "maj_rne": "2026-09-26T06:06:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI JEAN PHILIPPE PASTEUR",
+   "nom": "LOIR",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/882666779",
+  "numero": "20003356",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Inscrit",
+    "date": "15/05/2020"
+   },
+   {
+    "code": "CIF",
+    "libelle": "Conseiller en investissements financiers",
+    "etat": "Inscrit",
+    "date": "15/05/2020"
+   }
+  ],
+  "etat": "Inscrit"
+ },
+ "orias_site": {},
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Inscrite au registre ORIAS en catégorie conseiller en investissements financiers (CIF).",
+  "label": "Registre ORIAS",
+  "url": "https://www.orias.fr/home/showIntermediaire/882666779"
+ }
+}
