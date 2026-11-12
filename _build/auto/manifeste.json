@@ -14169,13 +14169,13 @@
    "consulte_le": "2026-11-12"
   },
   {
-   "slug": "invest-finances",
+   "slug": "investae-finances",
    "nom": "INVESTÆ FINANCES",
    "categorie": "cgp",
    "siren": "492389259",
    "apercu": false,
    "remplace": false,
-   "chemin": "f/invest-finances.html",
+   "chemin": "f/investae-finances.html",
    "crm": null,
    "orias": "08040249",
    "amf": null,
@@ -67859,13 +67859,13 @@
    "consulte_le": "2026-11-12"
   },
   {
-   "slug": "tas-patrimoine",
+   "slug": "aetas-patrimoine",
    "nom": "ÆTAS PATRIMOINE",
    "categorie": "cgp",
    "siren": "990951204",
    "apercu": false,
    "remplace": false,
-   "chemin": "f/tas-patrimoine.html",
+   "chemin": "f/aetas-patrimoine.html",
    "crm": null,
    "orias": "26000837",
    "amf": null,
@@ -79608,7 +79608,7 @@
    "slug": "simon-smith",
    "nom": "Simon Smith",
    "fonction": "Gérant",
-   "maison": "invest-finances",
+   "maison": "investae-finances",
    "siren": "492389259",
    "chemin": "p/simon-smith.html"
   },
@@ -109752,7 +109752,7 @@
    "slug": "cyprien-jeulin",
    "nom": "Cyprien Jeulin",
    "fonction": "Président de SAS",
-   "maison": "tas-patrimoine",
+   "maison": "aetas-patrimoine",
    "siren": "990951204",
    "chemin": "p/cyprien-jeulin.html"
   },

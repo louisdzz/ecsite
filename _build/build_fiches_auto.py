@@ -61,8 +61,13 @@ def fr_date(iso):
     return "%s %s" % (MOIS[int(m) - 1], y) if m else y
 
 
+# Lettres ligaturées ou barrées que la décomposition Unicode ne ramène pas à l'ASCII : translittérées avant le passage en ASCII,
+# sinon la lettre disparaît de l'adresse (« ÆTAS PATRIMOINE » donnait /f/tas-patrimoine).
+TRANSLIT = str.maketrans({"Æ": "AE", "æ": "ae", "Œ": "OE", "œ": "oe", "ß": "ss", "Ø": "O", "ø": "o", "Ł": "L", "ł": "l", "Đ": "D", "đ": "d"})
+
+
 def slugify(s):
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
+    s = unicodedata.normalize("NFKD", s.translate(TRANSLIT)).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]+", "-", s.replace("&", " ")).strip("-")
 
 
@@ -332,7 +337,10 @@ def main():
 
     # Maisons retenues : actives, slug unique, fiche existante remplaçable.
     # Le slug d'une fiche déjà publiée ne change jamais, même si le nom affiché est corrigé.
-    slug_fixe = {x["siren"]: x["slug"] for x in ancien.get("maisons", [])}
+    # Exception : adresses_changees.json (ancienne adresse fautive vers nouvelle adresse) ; l'ancienne adresse est redirigée dans vercel.json.
+    pc = os.path.join(AUTO, "adresses_changees.json")
+    change = json.load(open(pc, encoding="utf-8")) if os.path.exists(pc) else {}
+    slug_fixe = {x["siren"]: change.get(x["slug"], x["slug"]) for x in ancien.get("maisons", [])}
     slugs, retenus = {}, []
     for r in recs:
         if not r["actif"]:
