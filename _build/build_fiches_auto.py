@@ -59,6 +59,9 @@ CATS = {
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
 LIEN_LIB = {"a": "Registre ORIAS", "b": "Activité affichée", "c": "Opération publique", "d": "Classement public", "complement": "Classement public"}
+# Mentions externes des fiches déjà publiées, par identifiant de fiche (voir _build/auto/pose_mentions.py).
+_pm = os.path.join(AUTO, "mentions_externes.json")
+MENTIONS = json.load(open(_pm, encoding="utf-8"))["fiches"] if os.path.exists(_pm) else {}
 PARTICULES = {"de", "du", "des", "le", "la", "d", "van", "von", "den", "der"}
 # Fiches existantes jamais remplacées : offre ou échange Annuaire au CRM (contrôle du 11 novembre 2026).
 PROTEGES = {"myway-family-office", "norman-k"}
@@ -333,7 +336,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 """.format(cat=r["categorie"], label=e(c["label"]), av=av, logo=logo, activite=activite, nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
            rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens), lien=lien,
            pers=('<section aria-labelledby="fa-personnes" id="personnes"><h2 class="pv-section-title" id="fa-personnes">Personnes de la maison.</h2><ul class="fa-people">%s</ul></section>' % liste) if liste else "",
-           mentions=bloc_mentions(r.get("mentions_externes")), q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
+           mentions=bloc_mentions(r.get("mentions_externes") or MENTIONS.get(slug)), q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
     return h + body + PIED
 
 
