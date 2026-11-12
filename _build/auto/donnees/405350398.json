@@ -1,0 +1,68 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "405350398",
+ "denomination": "XL1 AVOCATS",
+ "nom_complet": "XL1 AVOCATS (ROUXEL CHAPALAIN)",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/405350398",
+ "site": "https://xl1avocats.com/",
+ "site_source": "https://xl1avocats.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/405350398"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/405350398"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "ROUXEL CHAPALAIN",
+ "creation": "1996-04-09",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-23T01:35:45",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRILLE",
+   "nom": "BEHAGHEL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "XL1 Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=si5uUUastB8xlullvxRtrw%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "813709441",
+ "denomination": "ALMAIN",
+ "nom_complet": "ALMAIN",
+ "sigle": null,
+ "forme": "AARPI, association d'avocats à responsabilité professionnelle individuelle",
+ "forme_code": "9224",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813709441",
+ "site": "https://almain.com/",
+ "site_source": "https://almain.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/almain",
+  "source": "https://almain.com/"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/813709441"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://almain.com/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2015-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-29T17:37:20",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Almain Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=qDJi%2BECjTZKLex935bcCPA%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

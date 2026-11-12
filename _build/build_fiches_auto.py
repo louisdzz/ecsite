@@ -31,6 +31,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AUTO = os.path.join(ROOT, "_build", "auto")
 MOIS = "janvier février mars avril mai juin juillet août septembre octobre novembre décembre".split()
 
+_MA = "Un conseil en fusions-acquisitions organise la cession ou l’acquisition : valorisation, recherche de contreparties, négociation, coordination des conseils. La taille des opérations suivies et la rémunération varient selon la maison."
+_MA_Q = ["Quelles opérations comparables avez-vous conduites, et quand ?", "Quelle part de votre rémunération dépend du succès de l’opération ?", "Qui suivra le dossier au quotidien ?"]
+_FONDS = "Un fonds ou une société d’investissement prend des participations, ou prête, dans des sociétés non cotées. Selon sa forme, il est géré par une société agréée par l’AMF ou investit ses fonds propres. Les tickets, la durée de détention et les frais varient selon l’investisseur."
+_FONDS_Q = ["Quel est le ticket d’entrée et la durée de détention ?", "Quels frais s’appliquent, chaque année et sur la performance ?", "Quelles sorties avez-vous réalisées ?"]
 CATS = {
     "mfo": {"label": "Multi-Family Offices",
             "metier": "Le métier de family office consiste à organiser le suivi du patrimoine et à coordonner les intervenants. Les services et les modes de rémunération varient selon la maison.",
@@ -44,6 +48,14 @@ CATS = {
     "experts-comptables": {"label": "Experts-comptables & auditeurs",
             "metier": "Un cabinet d’expertise comptable tient ou contrôle les comptes, conseille en fiscalité et en gestion. Certains interviennent aussi avant ou après une cession : évaluation, préparation de la transmission, due diligence. L’étendue de ces missions varie selon le cabinet.",
             "questions": ["Quelles missions de cession menez-vous vous-mêmes : évaluation, due diligence, accompagnement de la transmission ?", "Qui, dans le cabinet, suit ces missions et sur combien de dossiers par an ?", "Comment ces missions sont-elles facturées, au forfait, au temps passé ou au succès ?"]},
+    "avocats": {"label": "Avocats d'affaires & fiscalistes",
+            "metier": "Un cabinet d’avocats d’affaires conseille sur la structuration juridique et fiscale d’une opération : négociation, documentation, fiscalité de la cession. Les domaines, les équipes et les honoraires varient selon le cabinet.",
+            "questions": ["Quels associés suivront le dossier ?", "Comment sont calculés les honoraires (forfait, temps passé, succès) ?", "Sur quelles opérations comparables le cabinet est-il intervenu ?"]},
+    "banques-affaires": {"label": "Banques d'affaires (M&A)", "metier": _MA, "questions": _MA_Q},
+    "boutiques-ma": {"label": "Boutiques M&A", "metier": _MA, "questions": _MA_Q},
+    "fonds-pe": {"label": "Fonds de Private Equity & LBO", "metier": _FONDS, "questions": _FONDS_Q},
+    "fonds-vc": {"label": "Fonds de Venture Capital", "metier": _FONDS, "questions": _FONDS_Q},
+    "fonds-dette": {"label": "Fonds de dette", "metier": _FONDS, "questions": _FONDS_Q},
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
 LIEN_LIB = {"a": "Registre ORIAS", "b": "Activité affichée", "c": "Opération publique", "d": "Classement public", "complement": "Classement public"}
@@ -141,6 +153,30 @@ def champ(dt, dd, source=""):
     return "<div><dt>%s</dt><dd>%s%s</dd></div>" % (e(dt), dd, source)
 
 
+def categorie_classement(titre):
+    """Titre du classement sans le millésime (« … - France - 2025 », « … - Classement 2026 - … »)."""
+    return re.sub(r"\s+-\s+(?:Classement\s+)?20\d\d(?=\s+-\s+|$)", "", titre).strip()
+
+
+def bloc_mentions(ms):
+    """Mentions externes (méthode 02) : reconnaissances de tiers, datées et liées, sans rang ni texte recopié.
+    Bas de fiche seulement : jamais dans le titre, le badge, la description, le JSON-LD ou le tri."""
+    if not ms:
+        return ""
+    jma = lambda iso: "%s/%s/%s" % tuple(reversed(iso.split("-")))
+    def li(m):
+        return ('<li><span style="text-align:left">Cité dans les classements publics %s (%s, édition %s), consulté le %s</span> <a href="%s" rel="noopener nofollow" style="white-space:nowrap" target="_blank">Voir le classement</a></li>'
+                % (e(m["source"]), e(categorie_classement(m["classement"])), e(m["edition"]), jma(m["consulte_le"]), e(m["url"])))
+    liste = '<ul class="fa-people fa-mentions">%s</ul>' % "".join(li(m) for m in ms)
+    if len(ms) > 3:
+        eds = sorted({m["edition"] for m in ms})
+        ed = ("éditions " + " et ".join(eds)) if len(eds) > 1 else ("édition " + eds[0])
+        dates = sorted({m["consulte_le"] for m in ms})
+        liste = '<p>Cité dans %d classements publics %s (%s), consultés le %s.</p><details><summary>Voir les classements</summary>%s</details>' % (len(ms), e(ms[0]["source"]), ed, jma(dates[-1]), liste)
+    return ('<section aria-labelledby="fa-mentions" id="mentions-externes"><h2 class="pv-section-title" id="fa-mentions">Mentions externes.</h2>%s'
+            '<p class="pv-source-note">Ces mentions sont des reconnaissances de tiers. Elles n’entrent pas dans le classement de l’Annuaire, fondé sur l’activité documentée.</p></section>') % liste
+
+
 def head(titre, desc, canon, noindex, base_style, jsonld):
     return """<!DOCTYPE html>
 <html lang="fr">
@@ -214,7 +250,14 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 
     o = r.get("orias") or {}
     am = r.get("amf")
-    if am:
+    if r["categorie"] == "avocats":
+        # Cabinet d'avocats : barreau affiché seulement s'il est sourcé (annuaire de l'Ordre ou mentions légales du site officiel). Pas de lecture ORIAS.
+        ba = r.get("barreau")
+        if ba and ba.get("sources"):
+            regl = '<dl class="pv-condition-list">%s</dl>' % champ("Barreau", e(ba["texte"]), "".join(src(y["label"], y["url"], y["date"]) for y in ba["sources"]))
+        else:
+            regl = '<p class="fa-vide">Inscription au barreau : non renseignée.</p>'
+    elif am:
         # Société de gestion de portefeuille : agrément lu dans la base GECO de l'AMF.
         s_amf = src("AMF, base GECO", am["url"], d)
         acts = "".join("<li><span>%s</span></li>" % e(k["libelle"]) for k in am.get("activites") or [])
@@ -245,11 +288,11 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
     liens = []
     if r.get("site"):
-        liens.append(champ("Site officiel", '<a href="%s" rel="noopener nofollow" target="_blank">%s</a>' % (e(r["site"]), e(re.sub(r"^https?://(www\.)?|/$", "", r["site"]))), src("site officiel de la maison", r.get("site_source") or (r.get("siren_source") or {}).get("url") or r["site"], d)))
+        liens.append(champ("Site officiel", '<a href="%s" rel="noopener nofollow" target="_blank">%s</a>' % (e(r["site"]), e(re.sub(r"^https?://(www\.)?|/$", "", r["site"]))), src("site officiel de la maison", r.get("site_source") or (r.get("siren_source") or {}).get("url") or r["site"], r.get("site_consulte_le") or d)))
     else:
         liens.append(champ("Site officiel", "Non renseigné"))
     if r.get("linkedin"):
-        liens.append(champ("LinkedIn", '<a href="%s" rel="noopener nofollow" target="_blank">Page de la maison</a>' % e(r["linkedin"]["url"]), src("lien publié sur le site officiel", r["linkedin"]["source"], d)))
+        liens.append(champ("LinkedIn", '<a href="%s" rel="noopener nofollow" target="_blank">Page de la maison</a>' % e(r["linkedin"]["url"]), src("lien publié sur le site officiel", r["linkedin"]["source"], r.get("site_consulte_le") or d)))
     else:
         liens.append(champ("LinkedIn", "Non renseigné"))
 
@@ -258,7 +301,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     corr = "mailto:louis@exit.club?subject=" + e("Fiche %s · correction" % slug).replace(" ", "%20")
     claim = pv.lien(slug, "maison", maison=nom, dom=pv.dom_site(r.get("site")))
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": nom, "legalName": r["denomination"], "url": url_pub, **({"sameAs": [r["site"]]} if r.get("site") else {})}, ensure_ascii=False)
-    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ORIAS, site officiel", c["label"])
+    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, barreau, site officiel" if r["categorie"] == "avocats" else "registre, ORIAS, site officiel", c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
     av = '<p class="fa-apercu">Aperçu interne · cette maison a déjà une fiche publiée (<a href="/f/%s">/f/%s</a>), qui n’est pas modifiée.</p>' % (slug, slug) if apercu else ""
     lg = r.get("_logo")
@@ -282,7 +325,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 <section aria-labelledby="fa-rubrique" id="rubrique"><h2 class="pv-section-title" id="fa-rubrique">Rubrique et raison du classement.</h2><dl class="pv-condition-list">{rub}{rai}</dl><p class="pv-source-note">{metier} Le référencement identifie un acteur. Il ne vaut ni note ni recommandation, et aucun paiement ne modifie un rang.</p></section>
 {lien}<section aria-labelledby="fa-liens" id="liens"><h2 class="pv-section-title" id="fa-liens">Site officiel et LinkedIn.</h2><dl class="pv-condition-list">{liens}</dl></section>
 <section aria-labelledby="fa-activite" id="activite"><h2 class="pv-section-title" id="fa-activite">Activité documentée.</h2>{activite}</section>
-{pers}</div>
+{pers}{mentions}</div>
 <div><aside aria-labelledby="pv-compare-title" class="pv-compare" id="questions-avant-contact"><p class="pv-compare-label">Avant de prendre contact</p><h2 id="pv-compare-title">Trois questions utiles.</h2><ol>{q}</ol><a class="pv-secondary" href="/annuaire?metier={cat}">Voir les autres acteurs</a></aside>
 <aside aria-labelledby="fa-nr" class="pv-compare fa-nonrenseigne" id="non-renseigne"><p class="pv-compare-label">Non renseigné</p><h2 id="fa-nr">Ce que cette fiche ne dit pas.</h2><ul><li>Spécialités</li><li>Clientèle</li><li>Ticket d’entrée</li><li>Frais</li><li>Équipe</li><li>Entretien</li></ul><p class="fa-cta-q">Vous représentez cette maison ?</p><div class="fa-ctas"><a class="pv-primary" href="{claim}">Revendiquer ce profil</a><a class="pv-secondary" href="/tarifs">{tarif}</a></div><p class="ec-sans-effet">Revendiquer et corriger ses faits est gratuit. {note}</p></aside></div></div>
 <div class="pv-bottom"><a href="/annuaire?metier={cat}">Retour à la catégorie</a><p>Le référencement ne vaut pas recommandation de l’Exit Club.</p></div>
@@ -290,7 +333,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 """.format(cat=r["categorie"], label=e(c["label"]), av=av, logo=logo, activite=activite, nom=e(nom), date=fr_date(d), ident="".join(ident), dirig=dirig, regl=regl,
            rub=champ("Rubrique", e(c["label"])), rai=champ("Raison", raison), metier=e(c["metier"]), liens="".join(liens), lien=lien,
            pers=('<section aria-labelledby="fa-personnes" id="personnes"><h2 class="pv-section-title" id="fa-personnes">Personnes de la maison.</h2><ul class="fa-people">%s</ul></section>' % liste) if liste else "",
-           q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
+           mentions=bloc_mentions(r.get("mentions_externes")), q="".join("<li>%s</li>" % e(x) for x in c["questions"]), claim=claim, tarif=pv.TARIF, note=pv.NOTE)
     return h + body + PIED
 
 
@@ -397,7 +440,7 @@ def main():
         r["dirigeants"] = sans_mandat_double(r["dirigeants"])
         # Experts-comptables (lot du 12 novembre 2026) : fiches cabinets seulement. Les dirigeants du registre sont listés sur la fiche
         # du cabinet avec leur qualité exacte, sans fiche personne et sans titre professionnel non vérifié à l'Ordre.
-        sans_pers = r["categorie"] == "experts-comptables"
+        sans_pers = r["categorie"] == "experts-comptables" or bool(r.get("sans_fiche_personne"))
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue

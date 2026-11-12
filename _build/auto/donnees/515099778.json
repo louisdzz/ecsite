@@ -1,0 +1,72 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-12",
+ "siren": "515099778",
+ "denomination": "BARBER HAULER CAPITAL ADVISERS",
+ "nom_complet": "BARBER HAULER CAPITAL ADVISERS",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515099778",
+ "site": "https://barberhauler.com/fr/",
+ "site_source": "https://barberhauler.com/fr/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515099778"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : industrie - large-cap - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-industrie-large-cap-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/515099778"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2009-09-23",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-24T07:40:52",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "BAZY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "HERVE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "FREVILLE",
+   "siren": "443909411",
+   "qualite": "Autre"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/515099778",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Barber Hauler Capital Advisers"
+}

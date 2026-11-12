@@ -1,0 +1,75 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-12",
+ "siren": "903526168",
+ "denomination": "KPMG ADVISORY",
+ "nom_complet": "KPMG ADVISORY",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/903526168",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/903526168"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Debt Advisory - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-debt-advisory-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/903526168"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2021-09-24",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-26T15:37:07",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARIE LENAICK ANNE AMELIE",
+   "nom": "GUILLEMOT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/903526168",
+  "numero": "22006942",
+  "inscrit": true,
+  "categories": [
+   {
+    "code": "COBSP",
+    "libelle": "Courtier en opérations de banque et en services de paiement",
+    "etat": "Supprimé",
+    "date": "07/03/2025"
+   },
+   {
+    "code": "COA",
+    "libelle": "Courtier d'assurance ou de réassurance",
+    "etat": "Supprimé",
+    "date": "07/03/2025"
+   }
+  ],
+  "etat": "Radié"
+ },
+ "nom_usuel": "KPMG ADVISORY"
+}

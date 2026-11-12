@@ -1,0 +1,117 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "822257754",
+ "denomination": "DELCADE",
+ "nom_complet": "DELCADE",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822257754",
+ "site": "https://www.delcade.com",
+ "site_source": "https://www.delcade.com/legal-notices/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/delcade",
+  "source": "https://www.delcade.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822257754"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Contentieux fiscal et assistance à redressement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-contentieux-fiscal-et-assistance-a-redressement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des transactions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-transactions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des groupes internationaux - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-groupes-internationaux-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.delcade.com/legal-notices/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2016-07-21",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-25T11:19:05",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "DELOUIS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "LAFOURCADE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "LAFOURCADE AVOCATS",
+   "siren": "537442964",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pm",
+   "denomination": "DELOUIS AVOCATS",
+   "siren": "797858123",
+   "qualite": "Membre du directoire"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Delcade",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=Mlkp4Upj3%2Fy0xBoAs3w9Qg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "510016090",
+ "denomination": "POLDER AVOCATS",
+ "nom_complet": "POLDER AVOCATS",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510016090",
+ "site": "https://polder-avocats.com/",
+ "site_source": "https://polder-avocats.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510016090"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/510016090"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2009-01-01",
+ "ville": "LYON",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-11-10T17:27:31",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AURELIEN PIERRE MARIE-FRANCOISE",
+   "nom": "BARRIE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHILDE",
+   "nom": "BOUCHET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE FRANCOIS",
+   "nom": "MULLER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "RIAUX",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Polder Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Lyon",
+  "sources": [
+   {
+    "barreau": "Lyon",
+    "label": "annuaire du barreau de Lyon",
+    "url": "https://www.barreaulyon.com/annuaire/avocat/barrie-aurelien/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

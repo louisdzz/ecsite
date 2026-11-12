@@ -1,0 +1,71 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "478509805",
+ "denomination": "DAHAN AVOCATS",
+ "nom_complet": "DAHAN AVOCATS",
+ "sigle": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478509805",
+ "site": "https://www.dahanavocats.com",
+ "site_source": "https://www.dahanavocats.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/dahan-avocats",
+  "source": "https://www.dahanavocats.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478509805"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Cabinet d'avocats - France - Auvergne-Rhône-Alpes - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-cabinet-d-avocats-france-auvergne-rhone-alpes-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/478509805"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2004-09-06",
+ "ville": "LYON",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-23T18:29:42",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CAROLE",
+   "nom": "DAHAN (MAMAN)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Dahan Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Lyon",
+  "sources": [
+   {
+    "barreau": "Lyon",
+    "label": "annuaire du barreau de Lyon",
+    "url": "https://www.barreaulyon.com/annuaire/avocat/dahan-carole/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

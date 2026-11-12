@@ -1,0 +1,60 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "838844967",
+ "denomination": "FRIEH ASSOCIES AARPI",
+ "nom_complet": "FRIEH ASSOCIES AARPI",
+ "sigle": null,
+ "forme": "AARPI, association d'avocats à responsabilité professionnelle individuelle",
+ "forme_code": "9224",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838844967",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838844967"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838844967"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2018-03-13",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-29T16:01:36",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [],
+ "orias_site": {},
+ "orias": null,
+ "nom_usuel": "Frieh Associés",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=ac8eFRt7b0EjMTtcccwKuw%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

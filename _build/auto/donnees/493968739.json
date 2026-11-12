@@ -1,0 +1,88 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "493968739",
+ "denomination": "PSP AVOCATS",
+ "nom_complet": "PSP AVOCATS",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493968739",
+ "site": "https://www.psp-avocats.com",
+ "site_source": "https://www.psp-avocats.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493968739"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Contentieux fiscal et assistance à redressement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-contentieux-fiscal-et-assistance-a-redressement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des groupes internationaux - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-groupes-internationaux-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine : pré-contentieux et contentieux - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-pre-contentieux-et-contentieux-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/493968739"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2007-02-22",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-24T00:43:44",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARIE-ALINE",
+   "nom": "PIERRET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MYRTILLE",
+   "nom": "BLANCHARD (PUYAU)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "PSP Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=JMaZVzqCdVsroZDPGtUl3A%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

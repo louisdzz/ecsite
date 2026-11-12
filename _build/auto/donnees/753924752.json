@@ -1,0 +1,119 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "753924752",
+ "denomination": "NUMA AVOCATS",
+ "nom_complet": "NUMA AVOCATS",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/753924752",
+ "site": "https://www.numaavocats.com",
+ "site_source": "https://www.numaavocats.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/753924752"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital développement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-developpement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital risque - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-risque-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/753924752"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2012-10-01",
+ "ville": "AIX-EN-PROVENCE",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-24T19:24:48",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER LOUIS JEAN",
+   "nom": "DECOURCHELLE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME",
+   "nom": "MARCHAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE",
+   "nom": "PERROD-DE-VERDELHAN DES MOLLES (PERROD)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "ROSSO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HADRIEN",
+   "nom": "SEGUIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERALDINE",
+   "nom": "TANGUY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Numa Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau d’Aix-en-Provence",
+  "sources": [
+   {
+    "barreau": "Aix-en-Provence",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.numaavocats.com/mentions-legales/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

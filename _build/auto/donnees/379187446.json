@@ -1,0 +1,119 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "379187446",
+ "denomination": "LAMY-LEXEL AVOCATS ASSOCIES",
+ "nom_complet": "LAMY-LEXEL AVOCATS ASSOCIES",
+ "sigle": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379187446",
+ "site": "https://www.lamy-lexel.com",
+ "site_source": "https://www.lamy-lexel.com/mentions-legales-et-conditions-dutilisation",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/lamy-lexel",
+  "source": "https://www.lamy-lexel.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379187446"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Classement 2026 - Cabinet d'avocats DIP - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-classement-2026-cabinet-d-avocats-dip-france",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital développement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-developpement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital risque - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-risque-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Cabinet d'avocats - France - Auvergne-Rhône-Alpes - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-cabinet-d-avocats-france-auvergne-rhone-alpes-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.lamy-lexel.com/mentions-legales-et-conditions-dutilisation"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "SERVICES LAMY",
+ "creation": "1990-08-14",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-27T03:09:40",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE DENIS",
+   "nom": "BIDEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ANTOINE",
+   "nom": "FARHAT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Lamy Lexel",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=iza%2BzK1geig8c9gW%2FAEDxA%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "791667934",
+ "denomination": "WIRE",
+ "nom_complet": "WIRE",
+ "sigle": null,
+ "forme": "AARPI, association d'avocats à responsabilité professionnelle individuelle",
+ "forme_code": "9224",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791667934",
+ "site": "https://www.wire.legal",
+ "site_source": "https://www.wire.legal/mentions-legales",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/wireavocats",
+  "source": "https://www.wire.legal"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/791667934"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.wire.legal/mentions-legales"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2013-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-29T16:01:12",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "WIRE",
+ "barreau": {
+  "texte": "Inscrit aux barreaux de Paris et de Bordeaux",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=WZpOVdsPjbWOAB8iI894MA%3D%3D",
+    "date": "2026-11-12"
+   },
+   {
+    "barreau": "Bordeaux",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.wire.legal/mentions-legales",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

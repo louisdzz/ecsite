@@ -1,0 +1,118 @@
+{
+ "categorie": "experts-comptables",
+ "consulte_le": "2026-11-13",
+ "siren": "351329503",
+ "denomination": "EXPONENS CONSEIL ET EXPERTISE",
+ "nom_complet": "EXPONENS CONSEIL ET EXPERTISE (EXPONENS)",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "69.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351329503",
+ "site": "https://www.exponens.com",
+ "site_source": "https://www.exponens.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/exponens",
+  "source": "https://www.exponens.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.20Z (activités comptables) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351329503"
+ },
+ "mentions_externes": [],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.exponens.com/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "EXPONENS",
+ "creation": "1989-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-27T00:27:29",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "BARRAUD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE",
+   "nom": "BOURGIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "LEGRAND",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/351329503",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "EXPONENS CONSEIL ET EXPERTISE",
+ "lien_cession": {
+  "criteres": [
+   "d"
+  ],
+  "preuves": [
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Capital investissement - Conseil en transaction services smid cap - Cabinet d'audit & d'expertise comptable - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseil-en-transaction-services-smid-cap-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+    "date": "2026-11-12"
+   },
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Capital investissement - Évaluation financière & commissariat aux apports et à la fusion - Cabinet d'audit & d'expertise comptable - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/capital-investissement-evaluation-financiere-and-commissariat-aux-apports-et-a-la-fusion-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+    "date": "2026-11-12"
+   },
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Restructuring & Entreprises en difficulté - Auditeurs et conseils financiers - Cabinet de conseils - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-auditeurs-et-conseils-financiers-cabinet-de-conseils-france-2026",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ "mentions_externes_source": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Conseil en transaction services smid cap - Cabinet d'audit & d'expertise comptable - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseil-en-transaction-services-smid-cap-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Évaluation financière & commissariat aux apports et à la fusion - Cabinet d'audit & d'expertise comptable - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-evaluation-financiere-and-commissariat-aux-apports-et-a-la-fusion-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Auditeurs et conseils financiers - Cabinet de conseils - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-auditeurs-et-conseils-financiers-cabinet-de-conseils-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ]
+}

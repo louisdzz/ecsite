@@ -1,0 +1,106 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "897574307",
+ "denomination": "MONCEY AVOCATS",
+ "nom_complet": "MONCEY AVOCATS",
+ "sigle": null,
+ "forme": "AARPI, association d'avocats à responsabilité professionnelle individuelle",
+ "forme_code": "9224",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897574307",
+ "site": "https://www.monceyavocats.com/fr",
+ "site_source": "https://www.monceyavocats.com/fr/mentions-legales",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/monceyavocats",
+  "source": "https://www.monceyavocats.com/fr"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897574307"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des transactions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-transactions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Fiscalité des LBO - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-fiscalite-des-lbo-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Financement d'acquisitions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-financement-d-acquisitions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Upper mid & large-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-upper-mid-and-large-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Opérations LBO en difficulté - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-operations-lbo-en-difficulte-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations comprises entre 75M€ et 500M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-comprises-entre-75meur-et-500meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897574307"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2021-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-29T16:01:58",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Moncey Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=o9cPHq%2B2mxUrwFlMppNePg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

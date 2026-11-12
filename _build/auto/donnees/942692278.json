@@ -1,0 +1,69 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-13",
+ "siren": "942692278",
+ "denomination": "VIRELLIAN PARTNERS",
+ "nom_complet": "VIRELLIAN PARTNERS",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942692278",
+ "site": "https://virellian.com/",
+ "site_source": "https://virellian.com/virellian-legal-notice/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/virellian-partners",
+  "source": "https://virellian.com/"
+ },
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942692278"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : énergie & infrastructure - large-cap - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-energie-and-infrastructure-large-cap-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942692278"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2025-03-31",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-11-03T14:41:13",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "MERRY CAPITAL",
+   "siren": "919518191",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ARKHOS CAPITAL",
+   "siren": "982486342",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/942692278",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Virellian Partners"
+}

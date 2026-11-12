@@ -1,0 +1,63 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-12",
+ "siren": "482025129",
+ "denomination": "FINANCEHARMONIST",
+ "nom_complet": "FINANCEHARMONIST (B-HARMONIST)",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482025129",
+ "site": "https://b-harmonist.com/fr/",
+ "site_source": "https://b-harmonist.com/fr/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/businessharmonist",
+  "source": "https://b-harmonist.com/fr/mentions-legales/"
+ },
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/482025129"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Conseils en levée de fonds - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseils-en-levee-de-fonds-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://b-harmonist.com/fr/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "B-HARMONIST",
+ "creation": "2005-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-23T19:55:16",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "VIGNAUD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/482025129",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "B-Harmonist"
+}

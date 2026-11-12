@@ -1,0 +1,83 @@
+{
+ "categorie": "fonds-pe",
+ "consulte_le": "2026-11-12",
+ "siren": "492792973",
+ "denomination": "DENTRESSANGLE",
+ "nom_complet": "DENTRESSANGLE",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "64.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492792973",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 64.20Z (activités des sociétés holding) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492792973"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO large-cap - Fonds d'investissement - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-large-cap-fonds-d-investissement-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492792973"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2006-11-07",
+ "ville": "LYON 2EME",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-27T07:42:39",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THIERRY BERNARD MAURICE",
+   "nom": "COLOIGNER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARINE LOUISE MÉLINA",
+   "nom": "DRUMAIN DENTRESSANGLE (DENTRESSANGLE)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NORBERT MARIE AUGUSTE",
+   "nom": "DENTRESSANGLE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-HENRI PAUL GEORGES",
+   "nom": "DENTRESSANGLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LOUIS",
+   "nom": "SAVOYE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492792973",
+  "inscrit": false
+ },
+ "nom_usuel": "DENTRESSANGLE"
+}

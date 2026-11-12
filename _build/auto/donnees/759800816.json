@@ -1,0 +1,214 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "759800816",
+ "denomination": "ACD AVOCATS",
+ "nom_complet": "ACD AVOCATS (ACD)",
+ "sigle": "ACD",
+ "forme": "SA à directoire",
+ "forme_code": "5699",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/759800816",
+ "site": "https://www.acd.fr",
+ "site_source": "https://www.acd.fr/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/audit-conseil-defense/posts",
+  "source": "https://www.acd.fr"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/759800816"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital développement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-developpement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital risque - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-risque-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Distressed M&A - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-distressed-m-and-a-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/759800816"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1959-01-01",
+ "ville": "NANCY",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-24T19:42:02",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE MARIE",
+   "nom": "CAHEN (BAILLY)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC LOUIS ETIENNE",
+   "nom": "BIDON",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "BLAISE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARYLINE",
+   "nom": "BUHL",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARMIN",
+   "nom": "CHEVAL",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "COLNAT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAUT",
+   "nom": "CUNY",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERALDINE LAETICIA",
+   "nom": "EMONET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AMELIE JEANNE IRIS",
+   "nom": "CAILLAUD (FORESTIER)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRILLE",
+   "nom": "GUENIOT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLENE",
+   "nom": "MANGIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNY",
+   "nom": "MORLOT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICKAEL",
+   "nom": "MUNIN",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CORINE",
+   "nom": "ANDRIEUX (PEDRAZA)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HERVE CHRISTIAN YVES",
+   "nom": "RENOUX",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "SESTER",
+   "qualite": "Président du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA",
+   "nom": "DUQUESNE (THEOBALD)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXIA DOMINIQUE",
+   "nom": "CADIX (TIMON)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEVERINE FRANCE MARIE",
+   "nom": "VALENT",
+   "qualite": "Membre du conseil de surveillance"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "ACD Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=bpm7jexOOu6hTGaPdec5hg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

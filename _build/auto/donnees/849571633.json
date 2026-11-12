@@ -1,0 +1,79 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "849571633",
+ "denomination": "SEIGLE. SOUILAH. DURAND-ZORZI",
+ "nom_complet": "SEIGLE. SOUILAH. DURAND-ZORZI",
+ "sigle": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849571633",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849571633"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849571633"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2019-04-01",
+ "ville": "LYON",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-26T00:35:36",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "DURAND-ZORZI (DURAND)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "SEIGLE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MEHDI",
+   "nom": "SOUILAH",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "nom_usuel": "SEIGLE. SOUILAH. DURAND-ZORZI",
+ "barreau": {
+  "texte": "Inscrit au barreau de Lyon",
+  "sources": [
+   {
+    "barreau": "Lyon",
+    "label": "annuaire du barreau de Lyon",
+    "url": "https://www.barreaulyon.com/annuaire/avocat/durand-zorzi-julien/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

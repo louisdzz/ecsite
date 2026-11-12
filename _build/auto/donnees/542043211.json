@@ -1,0 +1,112 @@
+{
+ "categorie": "banques-affaires",
+ "consulte_le": "2026-11-12",
+ "siren": "542043211",
+ "denomination": "CIC CONSEIL",
+ "nom_complet": "CIC CONSEIL (CM-CIC TRANSACTIONS PME)",
+ "sigle": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "naf": "64.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542043211",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 64.20Z (activités des sociétés holding) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542043211"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 30 M€ - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-30-meur-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : industrie - small & mid-cap - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-industrie-small-and-mid-cap-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : santé & Industrie pharmaceutique - small & mid-cap - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-sante-and-industrie-pharmaceutique-small-and-mid-cap-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : TMT - small & mid-cap - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-tmt-small-and-mid-cap-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO small-cap - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-small-cap-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : agrobusiness & vins - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-agrobusiness-and-vins-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542043211"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "CM-CIC TRANSACTIONS PME",
+ "creation": "1954-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-08-25T16:32:07",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CYRIL",
+   "nom": "SERRATRICE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "TOURNIER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "VTP-1 INVESTISSEMENTS",
+   "siren": "401856471",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "CREDIT MUTUEL EQUITY",
+   "siren": "562118299",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/542043211",
+  "inscrit": false
+ },
+ "nom_usuel": "CIC CONSEIL"
+}

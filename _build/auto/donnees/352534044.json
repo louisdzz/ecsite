@@ -1,0 +1,83 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "352534044",
+ "denomination": "CLEACH",
+ "nom_complet": "CLEACH (ADS)",
+ "sigle": "ADS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352534044",
+ "site": "https://cleach.com/",
+ "site_source": "https://cleach.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/cleachavocats",
+  "source": "https://cleach.com/"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352534044"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://cleach.com/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1989-11-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-10-29T18:33:28",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CHRISTOPHE",
+   "nom": "CLEACH",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "SICOT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES JULIEN",
+   "nom": "VERMONT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Cleach Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=mQBORaGbUYSe8%2BDzx08TcQ%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

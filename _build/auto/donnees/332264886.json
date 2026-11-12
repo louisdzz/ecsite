@@ -1,0 +1,125 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "332264886",
+ "denomination": "GUEGUEN AVOCATS",
+ "nom_complet": "GUEGUEN AVOCATS",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/332264886",
+ "site": "https://www.gueguenavocats.com",
+ "site_source": "https://www.gueguenavocats.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/gueguen-avocats",
+  "source": "https://www.gueguenavocats.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/332264886"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/332264886"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1985-02-01",
+ "ville": "LA CHAPELLE-SUR-ERDRE",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-29T11:16:27",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE LUCAS",
+   "nom": "BLANCHARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "BLANCKAERT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-MARIE",
+   "nom": "CADO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAUD",
+   "nom": "CENSIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARINE",
+   "nom": "DUCLOS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU JEAN-BAPTISTE",
+   "nom": "FELIDE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT CHRISTIAN",
+   "nom": "GABORIAU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE GENEVIEVE",
+   "nom": "HOUDU",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAEL",
+   "nom": "LE BERT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE",
+   "nom": "MANDEVILLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Gueguen Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Nantes",
+  "sources": [
+   {
+    "barreau": "Nantes",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.gueguenavocats.com/mentions-legales/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

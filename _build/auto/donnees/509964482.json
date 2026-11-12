@@ -1,0 +1,74 @@
+{
+ "categorie": "experts-comptables",
+ "consulte_le": "2026-11-13",
+ "siren": "509964482",
+ "denomination": "IQ EQ",
+ "nom_complet": "IQ EQ (P & PARTNERS - IQ EQ)",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "69.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509964482",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.20Z (activités comptables) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509964482"
+ },
+ "mentions_externes": [],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509964482"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "P & PARTNERS - IQ EQ",
+ "creation": "2009-01-05",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-24T05:47:52",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "GLORIÈS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/509964482",
+  "inscrit": false
+ },
+ "nom_usuel": "IQ EQ",
+ "lien_cession": {
+  "criteres": [
+   "d"
+  ],
+  "preuves": [
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Capital investissement - Évaluation de portefeuilles - Cabinet d'audit & d'expertise comptable - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/capital-investissement-evaluation-de-portefeuilles-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ "mentions_externes_source": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Évaluation de portefeuilles - Cabinet d'audit & d'expertise comptable - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-evaluation-de-portefeuilles-cabinet-d-audit-and-d-expertise-comptable-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ]
+}

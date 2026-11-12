@@ -1,0 +1,74 @@
+{
+ "categorie": "experts-comptables",
+ "consulte_le": "2026-11-12",
+ "siren": "509317475",
+ "denomination": "BJ ASSOCIES",
+ "nom_complet": "BJ ASSOCIES",
+ "sigle": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "naf": "69.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509317475",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.20Z (activités comptables) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509317475"
+ },
+ "mentions_externes": [],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/509317475"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2008-10-02",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-27T06:37:04",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "JACOB",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/509317475",
+  "inscrit": false
+ },
+ "nom_usuel": "BJ ASSOCIES",
+ "lien_cession": {
+  "criteres": [
+   "d"
+  ],
+  "preuves": [
+   {
+    "critere": "d",
+    "texte": "Cité dans le classement « Restructuring & Entreprises en difficulté - Auditeurs et conseils financiers - Cabinet de conseils - France - 2026 » de Leaders League, édition 2026.",
+    "label": "Leaders League, page du classement",
+    "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-auditeurs-et-conseils-financiers-cabinet-de-conseils-france-2026",
+    "date": "2026-11-12"
+   }
+  ]
+ },
+ "mentions_externes_source": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Auditeurs et conseils financiers - Cabinet de conseils - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-auditeurs-et-conseils-financiers-cabinet-de-conseils-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ]
+}

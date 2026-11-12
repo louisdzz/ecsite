@@ -1,0 +1,80 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-13",
+ "siren": "900210485",
+ "denomination": "ONDRA",
+ "nom_complet": "ONDRA",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "64.30Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/900210485",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 64.30Z (fonds de placement et entités financières similaires) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/900210485"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : énergie & infrastructure - large-cap - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-energie-and-infrastructure-large-cap-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations boursières, complexes ou à potentiel contentieux - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-boursieres-complexes-ou-a-potentiel-contentieux-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Distressed M&A - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-distressed-m-and-a-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Restructuration de la dette en difficulté - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-restructuration-de-la-dette-en-difficulte-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/900210485"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2021-06-03",
+ "ville": "MONTPERREUX",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-26T13:44:02",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OCEANE CHARLOTTE JACQUELINE",
+   "nom": "PERNET (POTTIER)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/900210485",
+  "inscrit": false
+ },
+ "nom_usuel": "ONDRA"
+}

@@ -1,0 +1,59 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-12",
+ "siren": "507422731",
+ "denomination": "KRN FINANCE",
+ "nom_complet": "KRN FINANCE",
+ "sigle": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507422731",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507422731"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Distressed M&A - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-distressed-m-and-a-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (second essai, s5a_retry.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507422731"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2008-06-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-24T04:43:05",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAUDE",
+   "nom": "DE CRAENE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/507422731",
+  "inscrit": false
+ },
+ "nom_usuel": "KRN FINANCE"
+}

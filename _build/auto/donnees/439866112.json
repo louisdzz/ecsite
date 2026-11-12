@@ -1,0 +1,72 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-13",
+ "siren": "439866112",
+ "denomination": "INVEST SECURITIES",
+ "nom_complet": "INVEST SECURITIES",
+ "sigle": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "naf": "66.30Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439866112",
+ "site": "https://all-invest.com/securities-2/",
+ "site_source": "https://all-invest.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 66.30Z (gestion de fonds) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439866112"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Conseils en levée de fonds - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseils-en-levee-de-fonds-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/439866112"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2001-11-05",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-23T11:31:01",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC-ANTOINE",
+   "nom": "GUILLEN",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "BELLAVOINE (PERROQUIN)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-EMMANUEL",
+   "nom": "VERNAY",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/439866112",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Invest Securities"
+}

@@ -1,0 +1,73 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "904340742",
+ "denomination": "H8 CONSEIL",
+ "nom_complet": "H8 CONSEIL",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904340742",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904340742"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Cabinet d'avocats - France - Auvergne-Rhône-Alpes - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-cabinet-d-avocats-france-auvergne-rhone-alpes-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904340742"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2021-10-07",
+ "ville": "LYON",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-26T15:59:12",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "DEVOLFE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT MARIE PASCAL",
+   "nom": "DUMERIL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "nom_usuel": "H8 CONSEIL",
+ "barreau": {
+  "texte": "Inscrit au barreau de Lyon",
+  "sources": [
+   {
+    "barreau": "Lyon",
+    "label": "annuaire du barreau de Lyon",
+    "url": "https://www.barreaulyon.com/annuaire/avocat/devolfe-julien/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

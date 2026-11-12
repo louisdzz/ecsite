@@ -1,0 +1,59 @@
+{
+ "categorie": "boutiques-ma",
+ "consulte_le": "2026-11-13",
+ "siren": "504548140",
+ "denomination": "OLORYN PARTNERS",
+ "nom_complet": "OLORYN PARTNERS (OLORYN PARTNERS)",
+ "sigle": "OLORYN PARTNERS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504548140",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504548140"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Conseil aux équipes dirigeantes - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-conseil-aux-equipes-dirigeantes-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504548140"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2008-06-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-24T04:15:06",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "CORALIES",
+   "siren": "530939701",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/504548140",
+  "inscrit": false
+ },
+ "nom_usuel": "OLORYN PARTNERS"
+}

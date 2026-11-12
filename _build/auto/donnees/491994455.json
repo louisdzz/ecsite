@@ -1,0 +1,74 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "491994455",
+ "denomination": "SELARL ARBOR, TOURNOUD & ASSOCIES",
+ "nom_complet": "SELARL ARBOR, TOURNOUD & ASSOCIES",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491994455",
+ "site": "https://www.arbor-tournoud.fr",
+ "site_source": "https://www.arbor-tournoud.fr/ressources/ajax/mentions_legales_box.php",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491994455"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine : pré-contentieux et contentieux - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-pre-contentieux-et-contentieux-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491994455"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2006-10-01",
+ "ville": "GRENOBLE",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-23T23:52:23",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARC BERNARD",
+   "nom": "TOURNOUD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Arbor, Tournoud & Associés",
+ "barreau": {
+  "texte": "Inscrit aux barreaux de Grenoble et de Paris",
+  "sources": [
+   {
+    "barreau": "Grenoble",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.arbor-tournoud.fr",
+    "date": "2026-11-12"
+   },
+   {
+    "barreau": "Paris",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.arbor-tournoud.fr",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "392313425",
+ "denomination": "LUSSAN",
+ "nom_complet": "LUSSAN",
+ "sigle": null,
+ "forme": "SCP d'avocats",
+ "forme_code": "6561",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392313425",
+ "site": "https://www.lussan.com",
+ "site_source": "https://www.lussan.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392313425"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Contentieux fiscal et assistance à redressement - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-contentieux-fiscal-et-assistance-a-redressement-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des transactions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-transactions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.lussan.com/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1993-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-27T07:15:23",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "BEHR",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "BENOIT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BEATRIZ",
+   "nom": "DE SILVA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN YVES ANDRE",
+   "nom": "DUPEUX",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ETIENNE",
+   "nom": "GASTEBLED",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PAUL-HENRI",
+   "nom": "JOB",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE-GAELLE",
+   "nom": "LE MERLUS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "ORENGO",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROLAND",
+   "nom": "POIRIER",
+   "qualite": "Autre"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Lussan",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=IEMCb30x7M7MQLh2QX7E9A%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "440614196",
+ "denomination": "STREAM",
+ "nom_complet": "STREAM",
+ "sigle": null,
+ "forme": "SCP d'avocats",
+ "forme_code": "6561",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440614196",
+ "site": "https://stream.law/",
+ "site_source": "https://stream.law/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/stream-law",
+  "source": "https://stream.law/"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/440614196"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Droit fiscal - Fiscalité des transactions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/droit-fiscal-fiscalite-des-transactions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Financement d'acquisitions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-financement-d-acquisitions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://stream.law/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2002-01-02",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-23T11:54:48",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRE",
+   "nom": "BESNARD",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "CHALLINE",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU VINCENT GUILLAUME",
+   "nom": "CROIX",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRIEN",
+   "nom": "D'HAUSSY",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHARLES",
+   "nom": "DE CORBIERE",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDDY PATRICK JACQUES",
+   "nom": "DESPLANQUES",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "EVRARD",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIQUE",
+   "nom": "HEURTEL-PETITE",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VY LOAN",
+   "nom": "OLIVIERI (HUYNH)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "MAGERAND",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE ARMAND",
+   "nom": "PENSO",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE",
+   "nom": "ROLET",
+   "qualite": "Associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AYMERIC PIERRE JEAN",
+   "nom": "VINCENS DE TAPOL",
+   "qualite": "Associé indéfiniment responsable"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Stream",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=XJhzD%2FYw9jd6vcgyK%2B4LtQ%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

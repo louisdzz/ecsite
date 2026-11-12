@@ -1,0 +1,113 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "349048454",
+ "denomination": "HADENGUE ET ASSOCIES",
+ "nom_complet": "HADENGUE ET ASSOCIES",
+ "sigle": null,
+ "forme": "Autre société civile professionnelle",
+ "forme_code": "6585",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349048454",
+ "site": "https://www.hadengue.eu",
+ "site_source": "https://www.hadengue.eu/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/hadengue-&",
+  "source": "https://www.hadengue.eu"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349048454"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349048454"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1989-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-08-26T21:03:50",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN RENAUD CLAUDE",
+   "nom": "BAYI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "CALLEGARI (CORMARY)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "DUPUY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "GINOUX",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "MONTEILLET",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNABELLE",
+   "nom": "GRANGIER (PAVON)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCALE",
+   "nom": "REGRETTIER-GERMAIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC GEORGES OLIVIER",
+   "nom": "VILLEFAYOT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "HADENGUE ET ASSOCIES",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=6BF651rDXDNESe0QAxMZhg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

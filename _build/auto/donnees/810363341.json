@@ -1,0 +1,59 @@
+{
+ "categorie": "fonds-pe",
+ "consulte_le": "2026-11-12",
+ "siren": "810363341",
+ "denomination": "BALDERTON CAPITAL",
+ "nom_complet": "BALDERTON CAPITAL",
+ "sigle": null,
+ "forme": "Société étrangère non immatriculée au RCS",
+ "forme_code": "3220",
+ "naf": "64.30Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810363341",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 64.30Z (fonds de placement et entités financières similaires) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810363341"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital développement - Fonds d'investissement - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-developpement-fonds-d-investissement-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations de capital risque - Fonds d'investissement - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-de-capital-risque-fonds-d-investissement-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810363341"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2014-11-12",
+ "ville": null,
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-25T05:01:42",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/810363341",
+  "inscrit": false
+ },
+ "nom_usuel": "BALDERTON CAPITAL"
+}

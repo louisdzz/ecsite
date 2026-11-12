@@ -1,0 +1,77 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "442744850",
+ "denomination": "ALTIJ",
+ "nom_complet": "ALTIJ",
+ "sigle": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442744850",
+ "site": "https://www.altij.fr",
+ "site_source": "https://www.altij.fr/mentions-legales",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/altij",
+  "source": "https://www.altij.fr"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442744850"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/442744850"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2002-06-25",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-10-13T11:16:00",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCE ANNE HUGUETTE",
+   "nom": "CHARRUYER",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN",
+   "nom": "FAVIER",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Altij",
+ "barreau": {
+  "texte": "Inscrit au barreau de Toulouse",
+  "sources": [
+   {
+    "barreau": "Toulouse",
+    "label": "mentions légales du site officiel du cabinet",
+    "url": "https://www.altij.fr/mentions-legales",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

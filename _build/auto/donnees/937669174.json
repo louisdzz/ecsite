@@ -1,0 +1,77 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "937669174",
+ "denomination": "STACK AVOCATS",
+ "nom_complet": "STACK AVOCATS (STACK AVOCATS)",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/937669174",
+ "site": "https://www.stack-avocats.com",
+ "site_source": "https://www.stack-avocats.com/mentions-legales.htm",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/105581732/admin/dashboard",
+  "source": "https://www.stack-avocats.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/937669174"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/937669174"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "STACK AVOCATS",
+ "creation": "2025-01-01",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-27T22:30:29",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUBERT",
+   "nom": "BIARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "PITAULT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Stack Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Bordeaux",
+  "sources": [
+   {
+    "barreau": "Bordeaux",
+    "label": "annuaire du barreau de Bordeaux",
+    "url": "https://www.barreau-bordeaux.com/avocat/biard-hubert/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

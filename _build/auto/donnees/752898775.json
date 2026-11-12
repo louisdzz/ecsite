@@ -1,0 +1,86 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "752898775",
+ "denomination": "SWANN AVOCATS",
+ "nom_complet": "SWANN AVOCATS",
+ "sigle": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752898775",
+ "site": "https://swannavocats.com/",
+ "site_source": "https://swannavocats.com/mentions-legales/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752898775"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (second essai, s5a_retry.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/752898775"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "SWANN SPIRIT",
+ "creation": "2012-07-03",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-10-07T17:43:31",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIQUE JACQUELINE",
+   "nom": "FORGET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "LOUBIERES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORE",
+   "nom": "HORS (MAZAS)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DANIEL",
+   "nom": "PETARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Swann Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=gszYj910SO%2FWW78rE0C5DQ%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

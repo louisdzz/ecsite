@@ -1,0 +1,66 @@
+{
+ "categorie": "cgp",
+ "consulte_le": "2026-11-12",
+ "siren": "507603587",
+ "denomination": "ADUNEA",
+ "nom_complet": "ADUNEA",
+ "sigle": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507603587",
+ "site": "https://adunea.com/",
+ "site_source": "https://adunea.com/",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507603587"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Groupements de cabinets de conseil en gestion de patrimoine - Conseil en gestion de patrimoine - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-groupements-de-cabinets-de-conseil-en-gestion-de-patrimoine-conseil-en-gestion-de-patrimoine-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/507603587"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2008-07-26",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-10-26T00:48:37",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "DELPEUT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pm",
+   "denomination": "GROUPE PREMIUM CGP",
+   "siren": "907608194",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/507603587",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Adunea"
+}

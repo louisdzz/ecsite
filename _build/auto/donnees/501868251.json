@@ -1,0 +1,102 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "501868251",
+ "denomination": "RSDA",
+ "nom_complet": "RSDA (RSDA)",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501868251",
+ "site": "https://www.rsda.eu",
+ "site_source": "https://www.rsda.eu/mentions-legales.htm",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/91584384",
+  "source": "https://www.rsda.eu"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501868251"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine : pré-contentieux et contentieux - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-pre-contentieux-et-contentieux-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/501868251"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "RSDA",
+ "creation": "2008-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-24T03:20:49",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MASSIMO",
+   "nom": "BUCALOSSI",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HIRBOD",
+   "nom": "DEHGHANI-AZAR",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "CARUS (GONZALEZ)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SARAH CLÉMENCE ELISE ADÈLE",
+   "nom": "PAPOULAR",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HOMAM",
+   "nom": "ROYAI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "RSDA",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=kh19CC1Y5PCqkdFdJrf3Sg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

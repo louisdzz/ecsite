@@ -1,0 +1,83 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "491764965",
+ "denomination": "RENAUD  AVOCATS",
+ "nom_complet": "RENAUD  AVOCATS (LEXICUBE SOCIAL - LEXICUBE CONTENTIEUX)",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491764965",
+ "site": "https://www.lexicube-avocats.com",
+ "site_source": "https://www.lexicube-avocats.com/mentions-legales/",
+ "linkedin": {
+  "url": "https://fr.linkedin.com/company/lexicube-corporate",
+  "source": "https://www.lexicube-avocats.com"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491764965"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Cabinet d'avocats - France - Auvergne-Rhône-Alpes - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-cabinet-d-avocats-france-auvergne-rhone-alpes-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "site officiel, mentions légales",
+  "url": "https://www.lexicube-avocats.com/mentions-legales/"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "LEXICUBE SOCIAL - LEXICUBE CONTENTIEUX",
+ "creation": "2006-09-15",
+ "ville": "VILLEURBANNE",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-23T23:45:37",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DORIAN",
+   "nom": "JARJAT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "RENAUD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC JEAN-BERNARD MARIE",
+   "nom": "RENAUD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-13",
+ "nom_usuel": "Lexicube Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Lyon",
+  "sources": [
+   {
+    "barreau": "Lyon",
+    "label": "annuaire du barreau de Lyon",
+    "url": "https://www.barreaulyon.com/annuaire/avocat/jarjat-dorian/",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

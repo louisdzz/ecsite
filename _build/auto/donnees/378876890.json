@@ -1,0 +1,72 @@
+{
+ "categorie": "fonds-pe",
+ "consulte_le": "2026-11-12",
+ "siren": "378876890",
+ "denomination": "BUTLER INDUSTRIES",
+ "nom_complet": "BUTLER INDUSTRIES",
+ "sigle": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "naf": "64.20Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378876890",
+ "site": "https://butlerindustries.com/",
+ "site_source": "https://butlerindustries.com/mentions-legales",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 64.20Z (activités des sociétés holding) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378876890"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Investisseurs : Situations complexes et retournement - Fonds d'investissement - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-investisseurs-situations-complexes-et-retournement-fonds-d-investissement-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378876890"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1990-06-05",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-22T18:30:40",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ELEONORE",
+   "nom": "BUTLER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WALTER",
+   "nom": "BUTLER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "AMSTAR ENTREPRISES",
+   "siren": "402887384",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/378876890",
+  "inscrit": false
+ },
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Butler Industries"
+}

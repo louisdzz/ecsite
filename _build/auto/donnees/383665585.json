@@ -1,0 +1,86 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "383665585",
+ "denomination": "ENJEA AVOCATS",
+ "nom_complet": "ENJEA AVOCATS",
+ "sigle": null,
+ "forme": "SCP d'avocats",
+ "forme_code": "6561",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383665585",
+ "site": "https://www.enjea-avocats.com",
+ "site_source": "https://www.enjea-avocats.com/mentions",
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383665585"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations jusqu'à 75M€ - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-jusqu-a-75meur-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383665585"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1991-10-23",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-22T20:10:39",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "BAILLON",
+   "qualite": "Gérant, Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "BARBET",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "COTILLON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHIAS RENE JACQUES",
+   "nom": "DECANTER",
+   "qualite": "Autre"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Enjea Avocats",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=ILtGldcHb%2FaHLdqS9sq3Kg%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

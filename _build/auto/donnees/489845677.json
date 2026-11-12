@@ -1,0 +1,73 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-13",
+ "siren": "489845677",
+ "denomination": "SCHULTZE & BRAUN GMBH",
+ "nom_complet": "SCHULTZE & BRAUN GMBH",
+ "sigle": null,
+ "forme": "Société commerciale étrangère immatriculée au RCS",
+ "forme_code": "3120",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489845677",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489845677"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Restructuring & Entreprises en difficulté - Conseil des entreprises et actionnaires - Small & mid-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/restructuring-and-entreprises-en-difficulte-conseil-des-entreprises-et-actionnaires-small-and-mid-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/489845677"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "2006-03-01",
+ "ville": null,
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-09-23T22:50:26",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PATRICK",
+   "nom": "EHRET",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELLEN",
+   "nom": "DELZANT (HORSTKOTTER)",
+   "qualite": "Autre"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "nom_usuel": "SCHULTZE & BRAUN GMBH",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=RhU6qZVRiaB%2Fsvtv5fC6bw%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

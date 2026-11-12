@@ -1,0 +1,128 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "379360548",
+ "denomination": "BRETLIM FORTUNY",
+ "nom_complet": "BRETLIM FORTUNY",
+ "sigle": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379360548",
+ "site": "https://bretlim-fortuny.com/fr/",
+ "site_source": "https://bretlim-fortuny.com/fr/mentions-legales/",
+ "linkedin": {
+  "url": "https://www.linkedin.com/company/bretlim",
+  "source": "https://bretlim-fortuny.com/fr/"
+ },
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379360548"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Gestion de patrimoine - Fiscalité du patrimoine - Classement 2026 - Cabinet d'avocats - France",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/gestion-de-patrimoine-fiscalite-du-patrimoine-classement-2026-cabinet-d-avocats-france",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Management Packages - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-management-packages-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Financement d'acquisitions - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-financement-d-acquisitions-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO lower mid & small-cap - Cabinet d'avocats - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-lower-mid-and-small-cap-cabinet-d-avocats-france-2026",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/379360548"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "GROUPE FIDUCIAIRE FORTUNY",
+ "creation": "1990-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "opposition_prospection": false,
+ "maj_rne": "2026-10-29T18:33:14",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "XAVIER",
+   "nom": "BOURDET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT JACQUES MARIS",
+   "nom": "GRIFFON",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "GUELE (HARLICOT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMILY",
+   "nom": "JULLION",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CAROLINE",
+   "nom": "LAFOND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDWIGE COLETTE ANNE-MARIE",
+   "nom": "MICHAUDEL",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NOELLE",
+   "nom": "MORIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "site_consulte_le": "2026-11-12",
+ "nom_usuel": "Bretlim Fortuny",
+ "barreau": {
+  "texte": "Inscrit au barreau de Paris",
+  "sources": [
+   {
+    "barreau": "Paris",
+    "label": "annuaire du barreau de Paris",
+    "url": "https://www.avocatparis.org/annuaire/structure?cgr=WwuDcj7BfYjOi7wZMaVznQ%3D%3D",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

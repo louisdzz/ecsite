@@ -27,6 +27,8 @@ if add or ren:
     open(pd, "w", encoding="utf-8").write(json.dumps(d, ensure_ascii=False, separators=(",", ":")) if compact else json.dumps(d, ensure_ascii=False))
 
 # 2. Liste statique (noscript) de annuaire.html
+# Les rubriques d'un groupe (« Conseil M&A » : boutiques et banques d'affaires) partagent une section de la liste statique.
+GROUPE = {c: g["id"] for g in d.get("categoryGroups") or [] for c in g["categoryIds"]}
 pa = os.path.join(ROOT, "annuaire.html")
 h = open(pa, encoding="utf-8").read()
 n_static = 0
@@ -35,7 +37,7 @@ for x in m["maisons"]:
     if li_ok in h:
         continue
     h = re.sub(r'<li><a href="/f/%s">.*?</a></li>' % re.escape(x["slug"]), "", h)
-    sec = re.search(r'(<section id="%s">.*?<ul>)(.*?)(</ul>)' % re.escape(x["categorie"]), h, re.S)
+    sec = re.search(r'(<section id="%s">.*?<ul>)(.*?)(</ul>)' % re.escape(GROUPE.get(x["categorie"], x["categorie"])), h, re.S)
     items = re.findall(r'<li><a href="/f/[^"]+">.*?</a></li>', sec.group(2))
     items.append('<li><a href="/f/%s">%s</a></li>' % (x["slug"], html.escape(x["nom"], quote=False)))
     items.sort(key=lambda li: key(html.unescape(re.sub(r"<[^>]+>", "", li))))

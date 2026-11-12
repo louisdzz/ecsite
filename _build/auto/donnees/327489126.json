@@ -1,0 +1,115 @@
+{
+ "categorie": "avocats",
+ "consulte_le": "2026-11-12",
+ "siren": "327489126",
+ "denomination": "BOLLET ET ASSOCIES",
+ "nom_complet": "BOLLET ET ASSOCIES",
+ "sigle": null,
+ "forme": "Société civile",
+ "forme_code": "6599",
+ "naf": "69.10Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/327489126",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 69.10Z (activités juridiques) au registre.",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/327489126"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Distressed M&A - Cabinet d'avocats - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-distressed-m-and-a-cabinet-d-avocats-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/327489126"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": null,
+ "creation": "1983-01-01",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-22T13:27:52",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PAUL ANDRE",
+   "nom": "ARMAND",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTINE",
+   "nom": "BERNARDOT",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC HENRI",
+   "nom": "BOLLET",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÉMY",
+   "nom": "BORNET",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "DE THOMASSIN DE MONTBEL",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE",
+   "nom": "DEPREZ",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "HUGUES",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS YVES",
+   "nom": "PERIANO",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAULT",
+   "nom": "PINATEL",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias_site": {},
+ "orias": null,
+ "nom_usuel": "BOLLET ET ASSOCIES",
+ "barreau": {
+  "texte": "Inscrit au barreau de Marseille",
+  "sources": [
+   {
+    "barreau": "Marseille",
+    "label": "annuaire du barreau de Marseille",
+    "url": "https://www.barreau-marseille.avocat.fr/annuaire/?nom=armand",
+    "date": "2026-11-12"
+   }
+  ]
+ }
+}

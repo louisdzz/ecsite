@@ -1,0 +1,147 @@
+{
+ "categorie": "banques-affaires",
+ "consulte_le": "2026-11-12",
+ "siren": "437897648",
+ "denomination": "INDOSUEZ CORPORATE ADVISORY",
+ "nom_complet": "INDOSUEZ CORPORATE ADVISORY (DEGROOF PETERCAM INVESTMENT BANKING)",
+ "sigle": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "naf": "70.22Z",
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/437897648",
+ "site": null,
+ "site_source": null,
+ "linkedin": null,
+ "raison": {
+  "texte": "Code NAF 70.22Z (conseil pour les affaires et autres conseils de gestion) au registre. Rubrique retenue d’après la catégorie des classements publics où la maison est citée (voir Mentions externes).",
+  "label": "Annuaire des entreprises (registres SIRENE et RNE)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/437897648"
+ },
+ "mentions_externes": [
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Opérations LBO mid-cap - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-operations-lbo-mid-cap-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Capital investissement - Debt Advisory - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/capital-investissement-debt-advisory-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : santé & Industrie pharmaceutique - small & mid-cap - Banque d'affaires - France - 2026",
+   "edition": "2026",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-sante-and-industrie-pharmaceutique-small-and-mid-cap-banque-d-affaires-france-2026",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Opérations comprises entre 30 M€ et 150 M€ - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-operations-comprises-entre-30-meur-et-150-meur-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  },
+  {
+   "source": "Leaders League",
+   "classement": "Fusions & Acquisitions - Secteur : agrobusiness & vins - Banque d'affaires - France - 2025",
+   "edition": "2025",
+   "url": "https://www.leadersleague.com/fr/classements/fusions-and-acquisitions-secteur-agrobusiness-and-vins-banque-d-affaires-france-2025",
+   "consulte_le": "2026-11-12"
+  }
+ ],
+ "siren_source": {
+  "type": "registre, concordance stricte de dénomination et de code NAF (siren.py)",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/437897648"
+ },
+ "crm": null,
+ "slug_existant": null,
+ "sources": {},
+ "enseigne": "DEGROOF PETERCAM INVESTMENT BANKING",
+ "creation": "2001-04-23",
+ "ville": "MONTROUGE",
+ "actif": true,
+ "opposition_prospection": true,
+ "maj_rne": "2026-09-28T20:22:57",
+ "lot": "reperage-classements-publics-20261112",
+ "sans_fiche_personne": true,
+ "origine": "repérage par les classements publics (qui chercher) ; fiche construite depuis le registre, le site officiel et les annuaires des barreaux",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "CAPES",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "FAYOL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU",
+   "nom": "FERRAGUT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIDIER",
+   "nom": "GAFFINEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURE",
+   "nom": "BELLUZZO (JOURNU)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL",
+   "nom": "KAMMOUN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RICHARD",
+   "nom": "LABORIE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "NICOLAS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE",
+   "nom": "ARNAL (QUACH)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "RIMAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "TOLEDANO",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias_site": {},
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/437897648",
+  "inscrit": false
+ },
+ "nom_usuel": "INDOSUEZ CORPORATE ADVISORY"
+}
