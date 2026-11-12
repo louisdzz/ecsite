@@ -83,6 +83,31 @@ def nom_registre(prenom, nom):
     return nom_propre((prenom or "") + " " + nom)
 
 
+def sans_prenom_double(prenom, nom):
+    # Le registre range parfois le prénom dans le champ nom (« BENOIT PAILLET (PAILLET) » avec le prénom BENOIT) :
+    # le prénom en tête du nom est retiré quand le nom entre parenthèses confirme le reste.
+    m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", nom or "")
+    if m and prenom and norm(m.group(1)) == norm(prenom + " " + m.group(2)):
+        return "%s (%s)" % (m.group(2).strip(), m.group(2).strip())
+    # Le champ nom ne contient que le prénom (« CHRISTOPHE (LAUVERGEON) » avec le prénom CHRISTOPHE) : le seul nom de famille
+    # donné par le registre est celui entre parenthèses, il est retenu pour ne pas afficher le prénom deux fois.
+    if m and prenom and norm(m.group(1)) == norm(prenom) and norm(m.group(2)) and norm(m.group(2)) != norm(prenom):
+        return "%s (%s)" % (m.group(2).strip(), m.group(2).strip())
+    return nom
+
+
+def sans_mandat_double(dirigeants):
+    # Un même mandat saisi deux fois au registre (même personne, même qualité) n'est listé qu'une fois.
+    vus, out = set(), []
+    for p in dirigeants:
+        k = (p.get("type"), norm(p.get("prenoms") or ""), norm(p.get("nom") or p.get("denomination") or ""), p.get("siren") or "", norm(p.get("qualite") or ""))
+        if k in vus:
+            continue
+        vus.add(k)
+        out.append(p)
+    return out
+
+
 def qualite(q):
     q = (q or "").strip()
     return "Mandataire, qualité non précisée au registre" if q in ("", "Autre") else q
@@ -153,11 +178,19 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     ident.append(champ("Ville du siège", e(nom_propre(r["ville"])) if r.get("ville") else "Non renseignée", reg() if r.get("ville") else ""))
     ident.append(champ("Statut", "Active au registre" if r["actif"] else "Cessée au registre", reg()))
 
-    lignes = []
+    lignes, deja_pp = [], []
     for p in r["dirigeants"]:
         if p["type"] == "pp":
+            # Même personne saisie deux fois au registre avec plus ou moins de prénoms (« CAMILLE » et « CAMILLE HERVE YVES »),
+            # même nom et même qualité : une seule ligne affichée.
+            k = (norm(p.get("prenoms") or ""), norm(re.sub(r"\(.*?\)", " ", p.get("nom") or "")), norm(p.get("qualite") or ""))
+            if any(k[1:] == z[1:] and ((k[0] + " ").startswith(z[0] + " ") or (z[0] + " ").startswith(k[0] + " ")) for z in deja_pp):
+                continue
+            deja_pp.append(k)
+        if p["type"] == "pp":
             pers = next((x for x in personnes if x["cle"] == (r["siren"], norm(p["prenoms"] or "") + "|" + norm(p["nom"] or ""))), None)
-            n = pers["nom"] if pers else nom_registre(re.split(r"[ ,]+", (p["prenoms"] or "").strip())[0], p["nom"])
+            pr0 = re.split(r"[ ,]+", (p["prenoms"] or "").strip())[0]
+            n = pers["nom"] if pers else nom_registre(pr0, sans_prenom_double(pr0, p["nom"]))
             lab = '<a href="/p/%s">%s</a>' % (pers["slug"], e(n)) if pers and pers.get("slug") else e(n)
         else:
             lab = e(p.get("denomination") or "Personne morale") + " <span class=\"fa-pm\">(personne morale)</span>"
@@ -336,6 +369,7 @@ def main():
     # Personnes : président, gérant, directeur général (délégué) du registre. Homonymie entre maisons : pas de fiche.
     personnes, vus, memes = [], {}, {}
     for r in retenus:
+        r["dirigeants"] = sans_mandat_double(r["dirigeants"])
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue
@@ -348,7 +382,7 @@ def main():
                 prenom = prenom + toks[1]
             cle = (r["siren"], norm(p["prenoms"]) + "|" + norm(p["nom"]))
             fonction = qualite(p["qualite"])
-            m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", p["nom"])
+            m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", sans_prenom_double(prenom, p["nom"]))
             if m:
                 # Deux noms au registre : le nom professionnel corroboré par une source publique est retenu,
                 # sinon le nom hors parenthèse. Le nom entre parenthèses n'est jamais affiché.

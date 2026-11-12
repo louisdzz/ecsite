@@ -42,10 +42,22 @@ for x in ech:
     bloc=re.search(r'id="dirigeants">(.*?)</section>',h,re.S).group(1)
     aff=[plat(html.unescape(re.sub(r"<[^>]+>","",b))) for b in re.findall(r"<li><b>(.*?)</b>",bloc)]
     reg=[d_ for d_ in a.get("dirigeants") or [] if not re.search("commissaire aux comptes",d_.get("qualite") or "",re.I)]
+    # un même mandat saisi deux fois au registre (même personne, même nom hors parenthèses, même qualité, prénoms identiques ou inclus) n'est affiché qu'une fois
+    _v=[]; _r=[]
+    for d_ in reg:
+        k_=(d_.get("type_dirigeant"),plat(re.sub(r"\(.*?\)"," ",d_.get("nom") or d_.get("denomination") or "")),d_.get("siren") or "",plat(d_.get("qualite") or ""),plat(d_.get("prenoms") or ""))
+        if any(k_[:4]==z[:4] and ((k_[4]+" ").startswith(z[4]+" ") or (z[4]+" ").startswith(k_[4]+" ")) for z in _v): continue
+        _v.append(k_); _r.append(d_)
+    reg=_r
+    if any(len(z.split())>1 and z.split()[0]==z.split()[1] for z in aff): e.append("prénom doublé")
     if len(aff)!=len(reg): e.append("nb dirigeants %d/%d"%(len(aff),len(reg)))
     for d_ in reg:
         if d_.get("type_dirigeant")=="personne physique":
             pn=plat((d_.get("prenoms") or "").split()[0] if d_.get("prenoms") else ""); nm=plat(re.sub(r"\(.*?\)","",d_.get("nom") or ""))
+            # le registre range parfois le prénom dans le champ nom : « BENOIT PAILLET (PAILLET) » se lit Paillet, « CHRISTOPHE (LAUVERGEON) » se lit Lauvergeon
+            par_=plat(" ".join(re.findall(r"\((.*?)\)",d_.get("nom") or "")))
+            if par_ and pn and nm==pn+" "+par_: nm=par_
+            elif par_ and pn and nm==pn and par_!=pn: nm=par_
             if not any(pn in z and nm in z for z in aff): e.append("dirigeant absent "+nm)
             if "(" in (d_.get("nom") or "") and plat(re.search(r"\((.*?)\)",d_["nom"]).group(1)) in plat(bloc) and plat(re.search(r"\((.*?)\)",d_["nom"]).group(1)) not in nm: e.append("nom entre parenthèses affiché")
     if re.search(r"\b(né|née) (le|en)\b|\d{2}/\d{2}/19\d\d",bloc): e.append("date de naissance")
