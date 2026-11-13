@@ -1,0 +1,362 @@
+{
+ "nom_usuel": "CREDIT COOPERATIF",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=21892&start=0"
+ },
+ "siren": "349974931",
+ "denomination": "CREDIT COOPERATIF",
+ "nom_complet": "CREDIT COOPERATIF",
+ "sigle": null,
+ "enseigne": "CREDIT COOPERATIF",
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1989-03-13",
+ "ville": "NANTERRE",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/349974931",
+ "maj_rne": "2026-10-12T10:03:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GLENN",
+   "nom": "ANDRE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN JEAN LUC",
+   "nom": "ANGENARD",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MORGANE COLINE MARIANNA",
+   "nom": "BATANTOU",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AGNES",
+   "nom": "BRIGAUD (BEBOT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RACHEL",
+   "nom": "CORCOS (BENAZRA)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "BESSEAU",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORIAN RÉMI",
+   "nom": "D'ANGELO",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA",
+   "nom": "MALARTRE (DEBARD)",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE LUCIEN",
+   "nom": "DELFERIER",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DANIELLE",
+   "nom": "DESGUEES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN JEAN-PIERRE NICOLAS",
+   "nom": "FLARY",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LÉA",
+   "nom": "RESBEUT (FONGUES)",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AXELLE LESLIE",
+   "nom": "PIERROT (FUGIER)",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT",
+   "nom": "GELLNER",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRÉDÉRIQUE MICHÈLE VÉRONIQUE",
+   "nom": "JACQUES",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CORINNE",
+   "nom": "LACROIX",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MEGGY",
+   "nom": "LAMOUCHE",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MEGGY NATHALIE PATRICIA",
+   "nom": "LAMOUCHE",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAËLLE",
+   "nom": "LEGRAVEREND (MAHE)",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN JOSEPH MAURICE",
+   "nom": "MAHON",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAGALI DOMINIQUE BRIGITTE",
+   "nom": "MARRONCLE",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MORGANE CHRISTELLE",
+   "nom": "MARTIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "LIEGEOIS (MODAINE)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE CAROLINE",
+   "nom": "MONCOEUR-BILY (MONCOEUR)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL PAUL",
+   "nom": "PEYROULET",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BAPTISTE",
+   "nom": "PLANTADE",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE CLAUDINE",
+   "nom": "PLUNIAN",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "POUYET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "REMY",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE",
+   "nom": "REY",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOLENN",
+   "nom": "WOZNIAK (ROUBACH)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIBAUD MAURICE LUDOVIC",
+   "nom": "SABADIE",
+   "qualite": "Personne ayant le pouvoir d’engager l'établissement"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "SADDIER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "SALORD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRINE",
+   "nom": "LEMERY (TAMISIER)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "COMITE CATHOLIQUE CONTRE LA FAIM ET POUR LE DEVELOPPEMENT",
+   "siren": "775664527",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "APF FRANCE HANDICAP",
+   "siren": "775688792",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "LA COOPERATION AGRICOLE",
+   "siren": "784179665",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "WE COOP",
+   "siren": null,
+   "qualite": ""
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=21892&start=0",
+  "id_referentiel": "21892",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1989-07-31",
+  "cib": [
+   "42559"
+  ],
+  "lei": "W2RVX391BFSQJQAGEM62",
+  "denomination": "Crédit coopératif",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "12 Boulevard Pesaro CS 10002, 92000 NANTERRE",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 42559.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=21892&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée",
+   "banque d'affaires"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.credit-cooperatif.coop/votre-banque/a-la-une/lancement-banque-privee-impact-banque-affaires-impact/",
+    "extrait": "la Banque privée à impact du Crédit Coopératif, dirigée par Séghir Sabri, propose une approche unique : une finance patiente, transparente et orientée vers l'accompagnement durable de ses clients .",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Nouveautés : Banque privée à impact et Banque d'affaires à impact",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque d'affaires",
+    "url": "https://www.credit-cooperatif.coop/votre-banque/a-la-une/lancement-banque-privee-impact-banque-affaires-impact/",
+    "extrait": "le Crédit Coopératif propose une nouvelle approche de la banque d'affaires : stratégique, sur-mesure et alignée avec les objectifs ESG de ses clients .",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Nouveautés : Banque privée à impact et Banque d'affaires à impact",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Annonce du 26/05/2025 sur le site du Crédit Coopératif : « création de deux nouvelles entités ». À vérifier : si ces entités sont des sociétés distinctes, la preuve viserait une autre entité.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Annonce du Crédit Coopératif du 26 mai 2025. Aucune société distincte n’a été trouvée au registre des entreprises pour ces deux activités."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CREDIT COOPERATIF"
+}

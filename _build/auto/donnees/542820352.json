@@ -1,0 +1,204 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE BOURGOGNE FRANCHE-COMTE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=3226&start=0"
+ },
+ "siren": "542820352",
+ "denomination": "BANQUE POPULAIRE BOURGOGNE FRANCHE-COMTE",
+ "nom_complet": "BANQUE POPULAIRE BOURGOGNE FRANCHE-COMTE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "5560",
+ "creation": "1942-01-01",
+ "ville": "DIJON",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542820352",
+ "maj_rne": "2026-09-24T16:14:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIOLAINE FLEUR NATHALIE",
+   "nom": "BELLIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC MAURICE GEORGES",
+   "nom": "BILLOTTE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIA AURÉLIE",
+   "nom": "CATTIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ESTELLE SUZANNE ELISABETH",
+   "nom": "VOILLOT (CHAMBAULT)",
+   "qualite": "Administrateurs représentant les salariés"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS JOSEPH PIERRE PAUL",
+   "nom": "CORTINOVIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCALE LUCIENNE MARIE",
+   "nom": "DUBOURGEOIS (GASPARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTINE MARIE RENEE",
+   "nom": "DELBOS (GUILLAUME)",
+   "qualite": "Vice-Président"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE MADELEINE",
+   "nom": "FROUX (HUET)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE JEAN-FRANCOIS LOUIS",
+   "nom": "LACHAT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE LAURE EDITH",
+   "nom": "DE LA BROSSE (MAURY)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "REGIS JUST",
+   "nom": "PENNECOT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK RAYMOND MICHEL",
+   "nom": "PERRAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE BEATRICE ISABELLE",
+   "nom": "SAVIN",
+   "qualite": "Président du conseil d’administration"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=3226&start=0",
+  "id_referentiel": "3226",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "10807"
+  ],
+  "lei": "969500QFU43JUMEBY949",
+  "denomination": "Banque populaire Bourgogne Franche-Comté",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "14 bd de la Trémouille, 21000 DIJON",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 10807.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=3226&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/bpbfc/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/bpbfc/banque-privee/",
+   "extrait": "Banque Populaire Bourgogne Franche-Comté Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Votre Banque Banque Populaire Bourgogne Franche-Comté Accessibilité Une question ?",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE BOURGOGNE FRANCHE-COMTE"
+}

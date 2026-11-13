@@ -1,0 +1,234 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8554&start=0"
+ },
+ "siren": "755501590",
+ "denomination": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE",
+ "nom_complet": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE (BPACA)",
+ "sigle": "BPACA",
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1955-01-01",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/755501590",
+ "maj_rne": "2026-09-24T19:40:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALAIN",
+   "nom": "BOY",
+   "qualite": "Vice-Président"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VERONIQUE",
+   "nom": "DAUSSE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERALDINE",
+   "nom": "DELMAS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA ANNE-LAURE",
+   "nom": "FROIDEFOND (DUBERNARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HICMAT",
+   "nom": "EL ACHKAR",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE",
+   "nom": "RICARD (GARCELON)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE BÉATRICE CHARLOTTE MARIE",
+   "nom": "JALLET-AUGUSTE-GARIBALDI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL PATRICE JEAN-MARIE NICOLAS",
+   "nom": "LAVENTURE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "LOUVEAU JONCOUR (LOUVEAU)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "MEUNIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARYSE",
+   "nom": "DELIBIE (MEYNARD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIANE MARIE",
+   "nom": "DUVERT (MORAUD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EVELYNE",
+   "nom": "NICOLINI-LURO (NICOLINI)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARC",
+   "nom": "OGIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE",
+   "nom": "GUERIN PIGEON (PIGEON)",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE JEAN MICHEL MARIE",
+   "nom": "PUEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-CHARLES",
+   "nom": "ROUMAT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MICHEL CHRISTOPHE",
+   "nom": "VELAY",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8554&start=0",
+  "id_referentiel": "8554",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "10907"
+  ],
+  "lei": "969500FVXC72N72X9J71",
+  "denomination": "Banque populaire Aquitaine Centre Atlantique",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "10 quai des Queyries, 33100 BORDEAUX",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 10907.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8554&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/bpaca/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire Aquitaine Centre Atlantique | BPACA",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/bpaca/banque-privee/",
+   "extrait": "Banque Populaire Aquitaine Centre Atlantique | BPACA Choisissez votre région Êtes-vous déjà client ?",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE AQUITAINE CENTRE ATLANTIQUE"
+}

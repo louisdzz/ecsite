@@ -1,0 +1,231 @@
+{
+ "nom_usuel": "The Governor and company of the bank of Ireland (Bank of Ireland)",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI), identique au SIREN attaché au LEI publié par l'ACPR (GLEIF) ; dénomination REGAFI et dénomination du registre différentes (registre : GOVERNOR  COMPANY  BANK  IRELAND)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=11486&start=0"
+ },
+ "siren": "480676642",
+ "denomination": "GOVERNOR  COMPANY  BANK  IRELAND",
+ "nom_complet": "GOVERNOR  COMPANY  BANK  IRELAND",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société commerciale étrangère immatriculée au RCS",
+ "forme_code": "3120",
+ "creation": "2005-02-01",
+ "ville": null,
+ "actif": true,
+ "naf": "64.92Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/480676642",
+ "maj_rne": "2026-10-01T12:40:49",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GILES",
+   "nom": "ANDREWS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AKSHAYA",
+   "nom": "BHARGAVA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "BONAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EVELYN",
+   "nom": "BOURKE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EILEEN",
+   "nom": "FITZPATRICK",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELE",
+   "nom": "GREENE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICK THOMAS",
+   "nom": "KENNEDY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BASTIEN",
+   "nom": "LEFEVRE",
+   "qualite": "Dirigeant en France d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PETER",
+   "nom": "MULLEN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MYLES",
+   "nom": "O'GRADY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHEN JAMES",
+   "nom": "PATEMAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARK",
+   "nom": "SPAIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARGARET MARY",
+   "nom": "SWEENEY",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=11486&start=0",
+  "id_referentiel": "11486",
+  "famille": "Succursale en France d'un établissement de crédit de l'Espace économique européen",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [],
+  "nature_autorisation": null,
+  "date_debut": "2005-05-01",
+  "cib": [
+   "15258"
+  ],
+  "lei": "6354002WOGLFYPOC1W29",
+  "denomination": "The Governor and company of the bank of Ireland (Bank of Ireland)",
+  "forme_regafi": null,
+  "adresse": "223 Rue Saint Honoré, 75001 PARIS",
+  "maison_mere": {
+   "denomination": "The Governor and company of the bank of Ireland (Bank of Ireland)",
+   "pays": "IRLANDE"
+  },
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "A2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "A4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "A5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "A6",
+    "libelle": "Prise ferme / placement avec engagement ferme"
+   },
+   {
+    "code": "A7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [
+   {
+    "code": "1",
+    "libelle": "Réception de dépôts et d'autres fonds remboursables"
+   },
+   {
+    "code": "2",
+    "libelle": "Prêts, y compris notamment : le crédit à la consommation, le crédit hypothécaire, l'affacturage avec ou sans recours et le financement de transactions commerciales (affacturage à forfait inclus)"
+   },
+   {
+    "code": "3",
+    "libelle": "Crédit bail"
+   },
+   {
+    "code": "4",
+    "libelle": "Services de paiement au sens de l'article 4, paragraphe 3, de la Directive (UE) 2015/2366 du Parlement européen et du Conseil"
+   },
+   {
+    "code": "5",
+    "libelle": "Emission et gestion de moyens de paiement (par exemple cartes de crédit, chèques de voyage et lettres de crédit)"
+   },
+   {
+    "code": "6",
+    "libelle": "Octroi de garanties et souscription d'engagements"
+   },
+   {
+    "code": "7",
+    "libelle": "Transactions pour compte propre ou pour compte de la clientèle sur :"
+   },
+   {
+    "code": "8",
+    "libelle": "Participation aux émissions de titres et prestations de services y afférents"
+   },
+   {
+    "code": "9",
+    "libelle": "Conseil aux entreprises en matière de structure de capital, de stratégie industrielle et questions connexes et conseils ainsi que services dans le domaine de la fusion et du rachat d'entreprises"
+   },
+   {
+    "code": "11",
+    "libelle": "Gestion et conseil en gestion de patrimoine"
+   }
+  ],
+  "retrait_en_cours": false,
+  "denomination_registre_differente": true
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Succursale en France d’un établissement de crédit de l’Espace économique européen inscrite au registre REGAFI de l’ACPR sous le code interbancaire 15258.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=11486&start=0"
+ },
+ "activites": {
+  "categories": [
+   "financement d'acquisition"
+  ],
+  "categorie_principale": "financement d'acquisition",
+  "preuves": [
+   {
+    "categorie": "financement d'acquisition",
+    "url": "https://corporate.bankofireland.com/products-and-services/leveraged-acquisition-finance/",
+    "extrait": "L'équipe Financement d'Acquisitions de Bank of Ireland est solidement établie sur le marché Européen du Leveraged Finance, offrant des solutions de financements aux fonds d'investissement les plus renommés.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Global Acquisition Finance | Corporate Banking",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Rubrique « France » de la page Leveraged Acquisition Finance ; la page cite le SIREN de la succursale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Rubrique « France » de la page ; la page cite le SIREN de la succursale française."
+ },
+ "lot_origine": "lot à valider (SIREN confirmé par LEI)",
+ "sans_fiche_personne": true,
+ "nom_registre": "GOVERNOR  COMPANY  BANK  IRELAND",
+ "nom_usuel_source": "dénomination publiée par l'ACPR (REGAFI), celle du registre des entreprises étant abrégée"
+}

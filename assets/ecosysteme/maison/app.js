@@ -10,7 +10,7 @@ const normalize = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLo
 const labels = {
   'gestion-actifs':'Gestion d’actifs', 'medias-formation':'Médias & éducation financière', 'services-professionnels':'Services aux professionnels', 'immobilier-patrimonial':'Investissement immobilier',
   'conseil-ma': 'Conseil M&A', 'banques-affaires': 'Banques d’affaires', 'boutiques-ma': 'Boutiques M&A', mfo: 'Multi-family offices',
-  'banques-privees': 'Banques privées', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
+  'banques-privees': 'Banques privées', banques: 'Banques', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires patrimoniaux', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
   'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', jets: 'Aviation d’affaires',
@@ -212,7 +212,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261113-ec2');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261113-banques');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');

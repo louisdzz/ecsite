@@ -1,0 +1,238 @@
+{
+ "nom_usuel": "SOCIETE GENERALE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20441&start=0"
+ },
+ "siren": "552120222",
+ "denomination": "SOCIETE GENERALE",
+ "nom_complet": "SOCIETE GENERALE (SG)",
+ "sigle": "SG",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1900-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552120222",
+ "maj_rne": "2026-03-05T11:39:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURA JANE",
+   "nom": "BARLOW",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LORENZO",
+   "nom": "BINI SMAGHI",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "WILLIAM",
+   "nom": "CONNELLY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "CONTAMINE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIANE",
+   "nom": "CÔTÉ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "DE RUFFRAY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIA ULRIKA MARGARETA",
+   "nom": "EKMAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCE",
+   "nom": "HOUSSAYE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "KLEIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "INGRID-HELEN",
+   "nom": "ARNOLD (KOSA)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SLAWOMIR",
+   "nom": "KRUPA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNETTE",
+   "nom": "MESSEMER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "PALMIERI",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HENRI",
+   "nom": "POUPART-LAFARGE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JOHAN",
+   "nom": "PRAUD",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEBASTIEN",
+   "nom": "WETTER",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20441&start=0",
+  "id_referentiel": "20441",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1941-10-01",
+  "cib": [
+   "30003"
+  ],
+  "lei": "O2RNE8IBXP4R0TD8PU41",
+  "denomination": "Société générale s.a.",
+  "forme_regafi": "Société anonyme",
+  "adresse": "29 boulevard Haussmann, 75009 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 30003.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20441&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée",
+   "financement d'acquisition",
+   "banque d'affaires"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.privatebanking.societegenerale.com/fr/",
+    "extrait": "Société Générale Private Banking : votre partenaire de confiance pour la gestion de votre patrimoine.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque Privée : Gestion de fortune en France et à l’international | Société Générale - Societe Generale Private Banking",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque d'affaires",
+    "url": "https://wholesale.banking.societegenerale.com/fr/solutions-services/banque-investissement/fusions-acquisitions/",
+    "extrait": "Société Générale est un acteur de référence pour toute opération de fusion et acquisition (acquisitions, cessions, offres publiques, fusions…) en Europe ou en lien avec l'Europe, grâce à une solide expertise en matière d'exécution.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Fusions et Acquisitions  - Societe Generale Wholesale Banking",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "financement d'acquisition",
+    "url": "https://wholesale.banking.societegenerale.com/fr/solutions-services/banque-investissement/fusions-acquisitions/",
+    "extrait": "opérations de financement de rachats avec effet de levier (« Leveraged Buy-Out » - LBO) soutenus par...",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Fusions et Acquisitions  - Societe Generale Wholesale Banking",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Deux sites Société Générale à contenu variable d'une requête à l'autre. Banque privée (privatebanking.societegenerale.com/fr/) : présente à la lecture, à deux relectures et à la relecture des 30, absente à la dernière relecture complète. Banque d'affaires et financement d'acquisition (wholesale.banking.societegenerale.com) : présents à la lecture et à deux relectures complètes, absents à la relecture des 30, puis 5 fois sur 5 à un contrôle dédié. Tous contrôles du 13/11/2026.",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "SOCIETE GENERALE"
+}

@@ -1,0 +1,198 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE DU SUD",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=984&start=0"
+ },
+ "siren": "554200808",
+ "denomination": "BANQUE POPULAIRE DU SUD",
+ "nom_complet": "BANQUE POPULAIRE DU SUD",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1955-01-01",
+ "ville": "PERPIGNAN",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/554200808",
+ "maj_rne": "2026-09-29T12:04:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JACQUES GASTON",
+   "nom": "ASSIE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL PIERRE LAURENT",
+   "nom": "BRUN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOIZIC",
+   "nom": "JEAN (FABRA)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOISE MARTINE",
+   "nom": "GUETRON-GOUAZE (GOUAZE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDRE ROGER FERNAND",
+   "nom": "JOFFRE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAETITIA SANDRINE",
+   "nom": "LEONARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO VINCENT JOSEPH",
+   "nom": "LIGUORI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENEDICTE MARIE-PAULE",
+   "nom": "NAVARRO",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIA ROSA",
+   "nom": "PEREZ SISCAR",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SEVERINE VERONIQUE",
+   "nom": "PUEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KARINE",
+   "nom": "PUGET",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS YVES JACQUES MARIE HUGUES",
+   "nom": "RAGUIN",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=984&start=0",
+  "id_referentiel": "984",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "16607"
+  ],
+  "lei": "969500VRA7FNH5YBQJ98",
+  "denomination": "Banque populaire du Sud",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "38, boulevard Georges Clémenceau, 66000 PERPIGNAN",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 16607.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=984&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/sud/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/sud/banque-privee/clientele-patrimoniale/banque-privee-du-dirigeant/",
+   "extrait": "Banque Populaire du Sud Contacter un Banquier Privé Contacter un Banquier Privé Un duo d'excellence Vous accompagner Nos experts Nos offres en architecture ouverte Contacter un Banquier Privé En tant que Dirigeant vous exigez proactivité, réactivité et expertise pour la gestion de votre patrimoine et celle de votre banque au quotidien.",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE DU SUD"
+}

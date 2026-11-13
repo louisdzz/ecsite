@@ -1,0 +1,193 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE VAL DE FRANCE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI), identique au SIREN attaché au LEI publié par l'ACPR (GLEIF) ; dénomination REGAFI et dénomination du registre différentes (registre : BANQUE POPULAIRE VAL DE FRANCE)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=16512&start=0"
+ },
+ "siren": "549800373",
+ "denomination": "BANQUE POPULAIRE VAL DE FRANCE",
+ "nom_complet": "BANQUE POPULAIRE VAL DE FRANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1954-01-01",
+ "ville": "MONTIGNY-LE-BRETONNEUX",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/549800373",
+ "maj_rne": "2026-09-24T16:18:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI",
+   "nom": "BOITIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE RENÉ ROBERT",
+   "nom": "CHESNAIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE",
+   "nom": "JOCHYMS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "JOUSSEAUME",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "LEGER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "MAGNIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARION ANDREE HENRIETTE",
+   "nom": "PAILLE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "DESOUBRY (PINCELOUP)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HELENE",
+   "nom": "RESSEGUIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "BATY-SOREL (SOREL)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CHRISTINE",
+   "nom": "TEYSSOU",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=16512&start=0",
+  "id_referentiel": "16512",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "18707"
+  ],
+  "lei": "969500W7Y2VW04VB8943",
+  "denomination": "Banque populaire Val de France (2ème du nom)",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "9 avenue Newton, 78180 MONTIGNY LE BRETONNEUX",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false,
+  "denomination_registre_differente": true
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 18707.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=16512&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/valdefrance/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/valdefrance/banque-privee/",
+   "extrait": "Banque Populaire Val de France Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Banque Populaire Val de France Contact Aide Sécurité Accessibilité Banque Populaire Val de France Banque Privée Dirigeant d'entreprise Valoriser votre patrimoine professionnel Les ingénieries Transmettre et réinvestir le produit de la cession Voir tout Client Privé",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot à valider (SIREN confirmé par LEI)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE VAL DE FRANCE"
+}

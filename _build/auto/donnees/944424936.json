@@ -1,0 +1,176 @@
+{
+ "nom_usuel": "BANQUE INTERNATIONALE A LUXEMBOURG",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=742829&start=0"
+ },
+ "siren": "944424936",
+ "denomination": "BANQUE INTERNATIONALE A LUXEMBOURG",
+ "nom_complet": "BANQUE INTERNATIONALE A LUXEMBOURG (BIL)",
+ "sigle": "BIL",
+ "enseigne": null,
+ "forme": "Société commerciale étrangère immatriculée au RCS",
+ "forme_code": "3120",
+ "creation": "2025-05-14",
+ "ville": null,
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944424936",
+ "maj_rne": "2026-09-28T02:57:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GABRIEL",
+   "nom": "BENDAYAN",
+   "qualite": "Dirigeant en France d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEFFREY JOHN",
+   "nom": "DENTZER",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLAUDE JOSEPH GUSTAVE",
+   "nom": "EYSCHEN",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER LOUIS JEAN-PIERRE",
+   "nom": "GORIN",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARCEL",
+   "nom": "LEYERS",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÔME",
+   "nom": "NEBLE",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICO",
+   "nom": "FUCHS (PICARD)",
+   "qualite": "Dirigeant à l’étranger d’une personne morale étrangère"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=742829&start=0",
+  "id_referentiel": "742829",
+  "famille": "Succursale en France d'un établissement de crédit de l'Espace économique européen",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [],
+  "nature_autorisation": null,
+  "date_debut": "2025-04-15",
+  "cib": [
+   "31333"
+  ],
+  "lei": "8945007OZPAXKLJP1M70",
+  "denomination": "Banque Internationale à Luxembourg S.A.",
+  "forme_regafi": null,
+  "adresse": "5 Avenue Bertie Albrecht, 75008 PARIS",
+  "maison_mere": {
+   "denomination": "Banque internationale à Luxembourg",
+   "pays": "LUXEMBOURG"
+  },
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "A1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "A2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "A4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "A5",
+    "libelle": "Conseil en investissement"
+   }
+  ],
+  "activites_directive_bancaire": [
+   {
+    "code": "1",
+    "libelle": "Réception de dépôts et d'autres fonds remboursables"
+   },
+   {
+    "code": "2",
+    "libelle": "Prêts, y compris notamment : le crédit à la consommation, le crédit hypothécaire, l'affacturage avec ou sans recours et le financement de transactions commerciales (affacturage à forfait inclus)"
+   },
+   {
+    "code": "4",
+    "libelle": "Services de paiement au sens de l'article 4, paragraphe 3, de la Directive (UE) 2015/2366 du Parlement européen et du Conseil"
+   },
+   {
+    "code": "7",
+    "libelle": "Transactions pour compte propre ou pour compte de la clientèle sur :"
+   },
+   {
+    "code": "8",
+    "libelle": "Participation aux émissions de titres et prestations de services y afférents"
+   },
+   {
+    "code": "9",
+    "libelle": "Conseil aux entreprises en matière de structure de capital, de stratégie industrielle et questions connexes et conseils ainsi que services dans le domaine de la fusion et du rachat d'entreprises"
+   },
+   {
+    "code": "11",
+    "libelle": "Gestion et conseil en gestion de patrimoine"
+   }
+  ],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Succursale en France d’un établissement de crédit de l’Espace économique européen inscrite au registre REGAFI de l’ACPR sous le code interbancaire 31333.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=742829&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.bil.com/en/bil-group/pressroom/news/Pages/BIL-opens-a-private-banking-branch-in-France.aspx",
+    "extrait": "steps up its activities in the French market by setting up a private banking branch in Paris.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "BIL opens a private banking branch in France – Banque Internationale à Luxembourg",
+    "label": "site officiel de la banque, communiqué du 3 juillet 2025"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Communiqué de la BIL du 03/07/2025 sur bil.com.",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE INTERNATIONALE A LUXEMBOURG"
+}

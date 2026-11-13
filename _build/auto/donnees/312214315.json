@@ -1,0 +1,158 @@
+{
+ "nom_usuel": "BANQUE MICHEL INCHAUSPE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15273&start=0"
+ },
+ "siren": "312214315",
+ "denomination": "BANQUE MICHEL INCHAUSPE",
+ "nom_complet": "BANQUE MICHEL INCHAUSPE (BAMI)",
+ "sigle": "BAMI",
+ "enseigne": "BANQUE MICHEL INCHAUSPE - BAMI",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1978-01-01",
+ "ville": "BAYONNE",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312214315",
+ "maj_rne": "2026-09-22T11:26:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE DOMINIQUE",
+   "nom": "BARRERE-FLIGT (BARRERE-FLIGT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PAUL",
+   "nom": "INCHAUSPE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "INCHAUSPE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "INCHAUSPE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "LAZARE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT AUGUSTIN JULES",
+   "nom": "TAUPIN",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pm",
+   "denomination": "BAKIA",
+   "siren": "317706323",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "HIGSY CONSULTING",
+   "siren": null,
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15273&start=0",
+  "id_referentiel": "15273",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1977-11-24",
+  "cib": [
+   "17959"
+  ],
+  "lei": "969500APVF0CDPMX5249",
+  "denomination": "Banque Michel Inchauspé - BAMI",
+  "forme_regafi": "Société anonyme",
+  "adresse": "76 Avenue du 8 Mai 1945, 64100 BAYONNE",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 17959.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15273&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquebami.fr/",
+    "extrait": "Être client à la Bami, c'est bénéficier de tous les services d'une banque commerciale et de tous les conseils d'une banque privée indépendante.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Bami, une banque pour la vie | bami",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquebami.fr/nos-m%C3%A9tiers/cliente%CC%80le-patrimoniale",
+    "extrait": "Notre métier consiste à créer de la valeur afin de protéger et développer le patrimoine de nos clients.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Clientèle Patrimoniale | bami",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": null,
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE MICHEL INCHAUSPE"
+}

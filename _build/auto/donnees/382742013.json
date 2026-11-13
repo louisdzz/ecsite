@@ -1,0 +1,280 @@
+{
+ "nom_usuel": "CAISSE D'EPARGNE ET DE PREVOYANCE D'AUVERGNE ET DU LIMOUSIN",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=521&start=0"
+ },
+ "siren": "382742013",
+ "denomination": "CAISSE D'EPARGNE ET DE PREVOYANCE D'AUVERGNE ET DU LIMOUSIN",
+ "nom_complet": "CAISSE D'EPARGNE ET DE PREVOYANCE D'AUVERGNE ET DU LIMOUSIN (CEPAL OU CAISSE D'EP)",
+ "sigle": "CEPAL OU CAISSE D'EP",
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "5660",
+ "creation": "1991-07-26",
+ "ville": "CLERMONT-FERRAND",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/382742013",
+ "maj_rne": "2026-09-22T20:01:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE GEORGES",
+   "nom": "ANDRE-VAUDEVILLE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS FERNAND RENE",
+   "nom": "AUQUE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME PIERRE JEAN",
+   "nom": "BRUNET",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMILIE NOELIE VICTORINE",
+   "nom": "PRORIOL (BUSSIERE)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAGALI",
+   "nom": "CHIFFRE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE CATHERINE",
+   "nom": "MONTEIL (COMBABESSOU)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANNICK JEAN",
+   "nom": "DEBORD",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS",
+   "nom": "EXBRAYAT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE MICHEL JACQUES",
+   "nom": "FOUCRY",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE LAURENT",
+   "nom": "GATIGNOL",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "GAVARDON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME FREDERIC VINCENT",
+   "nom": "GUERIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC ROGER",
+   "nom": "JEANSANNETAS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME CLAUDE FRANCOIS",
+   "nom": "LAFFAIRE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERNADETTE MARIE-THERESE",
+   "nom": "PENARD (LAURENT)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SAMIRAH",
+   "nom": "DEAT (MAKHOUL)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE YVONNE",
+   "nom": "PONCET (MARTEL )",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS ANTONIN LEON",
+   "nom": "MIGNON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE VERONIQUE",
+   "nom": "ALAZARD (MONTALBAN)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "ANDRIEU (MURAT)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL RAYMOND JEAN HENRI",
+   "nom": "PUYBARET",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLEMENT REMI",
+   "nom": "RAVAUD",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE JEAN-LOUIS",
+   "nom": "SAULNIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DIDIER PAUL",
+   "nom": "VALETTE",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=521&start=0",
+  "id_referentiel": "521",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1991-09-26",
+  "cib": [
+   "18715"
+  ],
+  "lei": "9695001WIZU5SWHBP423",
+  "denomination": "Caisse d'épargne et de prévoyance d'Auvergne et du Limousin",
+  "forme_regafi": "Société coopérative, conseil d'orientation et de surveillance et directoire - Art. L512-85 à 104 (à capital fixe)",
+  "adresse": "63 rue Montlosier, 63000 CLERMONT FERRAND",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 18715.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=521&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/auvergne-limousin/banque-privee/",
+    "extrait": "La Banque Privée de Caisse d'Epargne au service des dirigeants d'entreprise.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/auvergne-limousin/banque-privee/",
+    "extrait": "La Banque Privée vous accompagne dans la gestion de vos actifs professionnels et privés.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.caisse-epargne.fr/auvergne-limousin/banque-privee/",
+   "extrait": "Caisse d'Epargne Auvergne Limousin Accessibilité Contact Sécurité Aide Gérer ses comptes Ouvrir un compte bancaire Offres de bienvenue Choisissez la Caisse d'Epargne comme banque principale et profitez d'avantages de bienvenue Formule Individuelle Formule Famille Cartes Visa Carte Visa Classic Carte Visa Premier Carte Visa Platinum Carte Visa Infinite Consulter et gérer ses",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la caisse régionale sur caisse-epargne.fr.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la caisse régionale sur caisse-epargne.fr."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CAISSE D'EPARGNE ET DE PREVOYANCE D'AUVERGNE ET DU LIMOUSIN"
+}

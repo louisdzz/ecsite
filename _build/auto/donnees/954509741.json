@@ -1,0 +1,256 @@
+{
+ "nom_usuel": "CREDIT LYONNAIS",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20363&start=0"
+ },
+ "siren": "954509741",
+ "denomination": "CREDIT LYONNAIS",
+ "nom_complet": "CREDIT LYONNAIS (LCL)",
+ "sigle": "LCL",
+ "enseigne": "LCL",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1954-01-01",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/954509741",
+ "maj_rne": "2026-03-03T10:16:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK JEAN-LOUIS",
+   "nom": "ALEXANDRE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CHRISTINE CECILE MADELEINE",
+   "nom": "BENOIST-CHARLES (BENOIST)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE JEAN",
+   "nom": "BRASSAC",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-YVES PIERRE JOSEPH",
+   "nom": "CARILLET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE ROBERT ROGER",
+   "nom": "CRUMIERE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE SEVERINE ISABELLE",
+   "nom": "LESCOURRET (DAURES)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS MICHEL ALEXANDRE",
+   "nom": "DENIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANÇOIS",
+   "nom": "DUPOUY",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE MARIE",
+   "nom": "HELAINE (ELMIDORO)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE",
+   "nom": "GAILLARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JÉRÔME PIERRE",
+   "nom": "GRIVET",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE HENRI",
+   "nom": "GUILLOU",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME RENE",
+   "nom": "HOMBOURGER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE PATRICIA",
+   "nom": "JOB-BAZILLE (JOB)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE",
+   "nom": "MAGDELEINE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ESTELLE GERMAINE GEORGETTE",
+   "nom": "MOLITOR-ROBERT (MOLITOR)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER CLAUDE MICHEL",
+   "nom": "NICOLAS",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GAELLE DENISE MARIE",
+   "nom": "REGNARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-YVES MARIE",
+   "nom": "REMILLET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MURIEL NADINE",
+   "nom": "NOUCHY (SCLARSIC)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "SACAM DEVELOPPEMENT",
+   "siren": "444369607",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20363&start=0",
+  "id_referentiel": "20363",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1941-10-01",
+  "cib": [
+   "30002"
+  ],
+  "lei": "9695009F5UPB9IITI298",
+  "denomination": "Crédit lyonnais",
+  "forme_regafi": "Société anonyme",
+  "adresse": "18 rue de la République, 69002 LYON",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 30002.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20363&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.lcl.fr/banque-privee/gestion-de-fortune",
+    "extrait": "La gestion de fortune s'adresse aux chefs d'entreprises, aux dirigeants actionnaires et à leurs familles disposant d'un potentiel d'investissements financiers supérieur à 5 millions d'euros.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "LCL Wealth Management - LCL Gestion de Fortune",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque privée",
+    "url": "https://www.lcl.fr/banque-privee/interlocuteurs-privilegies",
+    "extrait": "LCL Banque Privée s'engage ainsi à vous offrir un mode relationnel et une gamme d'offres adaptés à chaque client, créant ainsi plus de valeur.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Une organisation au service de votre patrimoine",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": null,
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CREDIT LYONNAIS"
+}

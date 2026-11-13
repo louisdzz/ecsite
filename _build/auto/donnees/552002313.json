@@ -1,0 +1,215 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE RIVES DE PARIS",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2273&start=0"
+ },
+ "siren": "552002313",
+ "denomination": "BANQUE POPULAIRE RIVES DE PARIS",
+ "nom_complet": "BANQUE POPULAIRE RIVES DE PARIS",
+ "sigle": null,
+ "enseigne": "BANQUE POPULAIRE RIVES DE PARIS",
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1985-10-18",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552002313",
+ "maj_rne": "2026-09-29T02:51:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VALERIE",
+   "nom": "ACCARY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS XAVIER",
+   "nom": "ALIOTTI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOISE",
+   "nom": "FISCHER (BERTHON)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "BORREL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YAHYA",
+   "nom": "BOUHARROU",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "BOURIEZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE MAUD",
+   "nom": "CARLIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND",
+   "nom": "DORMOY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BORIS",
+   "nom": "JOSEPH",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "KAYSER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELE",
+   "nom": "MENART (LAIK)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "PATRY",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-FRANCOISE",
+   "nom": "PIC-PARIS ALLAVENA (PIC-PARIS)",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "SIMMENAUER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "WAECHTER",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2273&start=0",
+  "id_referentiel": "2273",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "10207"
+  ],
+  "lei": "969500W8SBCXNX1DG443",
+  "denomination": "Banque populaire Rives de Paris",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "80 boulevard Auguste Blanqui, 75013 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 10207.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2273&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/rivesparis/banque-privee/",
+    "extrait": "Notre Banque Privée, où se conjuguent proximité, agilité et excellence, vous offre un service sur mesure.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/rivesparis/banque-privee/",
+   "extrait": "Banque Populaire Rives de Paris Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Banque Populaire Rives de Paris Accessibilité Sécurité Qui sommes-nous ?",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": null,
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE RIVES DE PARIS"
+}

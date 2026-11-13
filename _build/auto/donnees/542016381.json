@@ -1,0 +1,203 @@
+{
+ "nom_usuel": "CREDIT INDUSTRIEL ET COMMERCIAL",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=723&start=0"
+ },
+ "siren": "542016381",
+ "denomination": "CREDIT INDUSTRIEL ET COMMERCIAL",
+ "nom_complet": "CREDIT INDUSTRIEL ET COMMERCIAL (CIC)",
+ "sigle": "CIC",
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1954-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/542016381",
+ "maj_rne": "2026-10-28T11:38:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DANIEL",
+   "nom": "BAAL",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SAIDA",
+   "nom": "BERKOUK",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MONIQUE",
+   "nom": "BOUGHELILBA",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "CHARPENTIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE SUZANNE",
+   "nom": "CHEVELARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRINE MARIE-GABRIELLE JACQUELINE",
+   "nom": "CRESTOIS-COGNARD (CRESTOIS)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL",
+   "nom": "KOCHER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN",
+   "nom": "LIEVENS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RENE",
+   "nom": "SCHWARTZ",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RAISSA",
+   "nom": "HAFIDHOU (SOILIHI)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARLÈNE",
+   "nom": "VERCRUYSSE",
+   "qualite": "Administrateurs représentant les salariés"
+  },
+  {
+   "type": "pm",
+   "denomination": "BANQUE FEDERATIVE DU CREDIT MUTUEL",
+   "siren": "355801929",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=723&start=0",
+  "id_referentiel": "723",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-06-15",
+  "cib": [
+   "30066"
+  ],
+  "lei": "N4JDFKKH2FTD8RKFXO39",
+  "denomination": "Crédit industriel et commercial - CIC",
+  "forme_regafi": "Société anonyme",
+  "adresse": "6 avenue de Provence, 75009 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 30066.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=723&start=0"
+ },
+ "activites": {
+  "categories": [
+   "financement d'acquisition"
+  ],
+  "categorie_principale": "financement d'acquisition",
+  "preuves": [
+   {
+    "categorie": "financement d'acquisition",
+    "url": "https://www.cic.fr/fr/entreprises/ingenierie-financiere/haut-de-bilan.html",
+    "extrait": "Les financements d'acquisition sont réalisés par sept équipes organisées en ligne métier et rattachées aux banques régionales et à la Direction des Financements Structurés.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Opérations de haut de bilan | CIC",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [
+   {
+    "categorie": "financement d'acquisition",
+    "url": "https://www.cic.fr/fr/entreprises/ingenierie-financiere/haut-de-bilan.html",
+    "extrait": "Le métier couvre tout type de transaction : LBO ( Leveraged Buy-Out 3 ), OBO ( Owner Buy-Out 4 ), retraits de cote, transmission familiale, financements d'acquisitions par des corporates, financements de croissances externes, refinancements, etc.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Opérations de haut de bilan | CIC",
+    "motif": "extrait portant des appels de note de la page source : non affiché, la première preuve suffit"
+   }
+  ],
+  "designation_entite": null,
+  "note": "Le conseil en fusions-acquisitions est confié à CIC Conseil (autre entité) : non retenu pour le CIC. Aucune page CIC Banque Privée lisible (404).",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CREDIT INDUSTRIEL ET COMMERCIAL"
+}

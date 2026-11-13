@@ -1,0 +1,158 @@
+{
+ "nom_usuel": "CCF",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15527&start=0"
+ },
+ "siren": "315769257",
+ "denomination": "CCF",
+ "nom_complet": "CCF (CCF - BANQUE DES CARAIBES)",
+ "sigle": null,
+ "enseigne": "CCF - BANQUE DES CARAIBES",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1979-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/315769257",
+ "maj_rne": "2026-11-09T14:32:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARIA",
+   "nom": "GOIRI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-YVES",
+   "nom": "GUEGAN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BEATRICE MARIE ENGRACE",
+   "nom": "DE CLERMONT-TONNERRE (HENAULT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDER MARIA",
+   "nom": "KLOOSTERMAN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHAD ALAN",
+   "nom": "LEAT",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOISE MARIE BERNADETTE",
+   "nom": "DELASALLES (MERCADAL)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE CLAUDINE MONIQUE",
+   "nom": "MATHERAT-AUDAN (THOMAS)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICCOLO",
+   "nom": "UBERTALLI",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "VANDEVILLE",
+   "qualite": "Directeur général délégué"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15527&start=0",
+  "id_referentiel": "15527",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1979-03-02",
+  "cib": [
+   "18079"
+  ],
+  "lei": "969500VFRBX1W3Y3XS80",
+  "denomination": "CCF",
+  "forme_regafi": "Société anonyme",
+  "adresse": "103 Rue de Grenelle, 75007 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 18079.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=15527&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://ccf.fr/banque-privee.html",
+    "extrait": "Votre banquier privé accompagne un nombre limité de clients ce qui lui permet d'être plus disponible et de pouvoir vous rencontrer chaque trimestre ou à chaque fois que vous le souhaitez.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Découvrez la banque privée du CCF et son accompagnement sur-mesure - CCF",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": null,
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CCF"
+}

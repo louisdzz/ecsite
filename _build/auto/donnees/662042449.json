@@ -1,0 +1,230 @@
+{
+ "nom_usuel": "BNP PARIBAS",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20556&start=0"
+ },
+ "siren": "662042449",
+ "denomination": "BNP PARIBAS",
+ "nom_complet": "BNP PARIBAS (HELLO BANK!)",
+ "sigle": null,
+ "enseigne": "HELLO BANK!",
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1966-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/662042449",
+ "maj_rne": "2026-03-03T14:55:15",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JACQUES",
+   "nom": "ASCHENBROICH",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MONIQUE",
+   "nom": "COHEN (AYACHE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LAURENT",
+   "nom": "BONNAFÉ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIETTE MELANIE MARGUERITE LILY",
+   "nom": "BRISAC",
+   "qualite": "Administrateurs représentant les salariés"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALÉRIE JEANNE",
+   "nom": "CHORT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND PAUL CHRISTIAN PHILIPPE",
+   "nom": "DE MAZIÈRES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HUGUES",
+   "nom": "EPAILLARD",
+   "qualite": "Administrateurs représentant les salariés"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN NICOLAS",
+   "nom": "GERARDIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY ALAIN PIERRE",
+   "nom": "LABORDE",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN",
+   "nom": "LEMIERRE",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VANESSA SEVERINE AURELIE",
+   "nom": "LEPOULTIER",
+   "qualite": "Administrateurs représentant les salariés"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LIEVE MARIA H",
+   "nom": "LOGGHE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN MAURICE MARIE",
+   "nom": "NOYER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS ERIC PAUL",
+   "nom": "PETER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "POUPARD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DANIELA",
+   "nom": "SCHWARZER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CHRISTINE MICHELE",
+   "nom": "LOMBARD (SOSTHE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNA MARIA HENRICA ADRIANA",
+   "nom": "STRAATHOF",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20556&start=0",
+  "id_referentiel": "20556",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1966-07-01",
+  "cib": [
+   "30004",
+   "41329",
+   "11498"
+  ],
+  "lei": "R0MUWSFPU8MPRO8K5P83",
+  "denomination": "BNP Paribas",
+  "forme_regafi": "Société anonyme",
+  "adresse": "16 boulevard des Italiens, 75009 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 30004.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=20556&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://wealthmanagement.bnpparibas/fr/parlons-de-vous/clients-banque-privee.html",
+    "extrait": "Votre Banquier privé est à vos côtés dans tous vos projets pour protéger, développer, diversifier et transmettre votre patrimoine à partir de 250 000 € d'actifs financiers chez BNP Paribas.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Clients Banque Privée",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "BNP Paribas Wealth Management est une ligne métier de BNP Paribas SA ; le site du groupe (group.bnpparibas) a renvoyé une erreur 403 et le site CIB n'a pas répondu : financement d'acquisition et banque d'affaires non vérifiés ici.",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BNP PARIBAS"
+}

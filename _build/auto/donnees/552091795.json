@@ -1,0 +1,257 @@
+{
+ "nom_usuel": "BRED BANQUE POPULAIRE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2129&start=0"
+ },
+ "siren": "552091795",
+ "denomination": "BRED BANQUE POPULAIRE",
+ "nom_complet": "BRED BANQUE POPULAIRE (BRED)",
+ "sigle": "BRED",
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "5560",
+ "creation": "1929-07-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/552091795",
+ "maj_rne": "2026-09-24T16:31:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NADINE",
+   "nom": "CALVES (ADAM)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL MARIE XAVIER",
+   "nom": "BARTH",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "BAS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO TOBIE ANDRE MARIE",
+   "nom": "BLANDIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE VERONIQUE MARIE",
+   "nom": "BOUGON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE",
+   "nom": "BAY (CHOUZENOUX)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "DROUHAUD",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEVE-RICHARD",
+   "nom": "GENTILI",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "BRIOT (GINER)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "GIORGIANNI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "GRATIANT",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PAUL",
+   "nom": "JULIA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LEILA",
+   "nom": "TURKI (KALLEL)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GERARD",
+   "nom": "KUSTER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "LEWIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "MARTIN DE FREMONT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS JACQUES HENRI MARIE",
+   "nom": "MARTINEAU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "PASTORET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "RAPHAEL",
+   "nom": "POCHET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENT",
+   "nom": "RONIS-LE MOAL (RONIS)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "SAVARANIN",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2129&start=0",
+  "id_referentiel": "2129",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit|Agent PSP",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément|",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "10107"
+  ],
+  "lei": "NICH5Q04ADUV9SN3Q390",
+  "denomination": "BRED - Banque populaire",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital fixe - Art. L512-2,3 et 4",
+  "adresse": "18 quai de la Rapée, 75012 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 10107.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=2129&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée",
+   "banque d'affaires"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.bred.fr/banqueprivee",
+    "extrait": "Votre conseiller en Banque Privée s'appuie sur une gamme de solutions d'investissement permettant de couvrir l'ensemble des besoins décelés et d'atteindre vos objectifs.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque Privée | BRED",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque d'affaires",
+    "url": "https://www.bred.fr/banqueprivee",
+    "extrait": "une équipe de M&A cession-transmission qui réalise des opérations dont le montant est compris entre 2 et 30 millions d'euros.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque Privée | BRED",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Pages lues pendant la tâche BRED Gestion (même site bred.fr).",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BRED BANQUE POPULAIRE"
+}

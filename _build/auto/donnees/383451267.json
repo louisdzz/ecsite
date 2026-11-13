@@ -1,0 +1,288 @@
+{
+ "nom_usuel": "Caisse d'épargne et de prévoyance du Languedoc Roussillon",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI), identique au SIREN attaché au LEI publié par l'ACPR (GLEIF) ; dénomination REGAFI et dénomination du registre différentes (registre : CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8339&start=0"
+ },
+ "siren": "383451267",
+ "denomination": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+ "nom_complet": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON (CEPLR)",
+ "sigle": "CEPLR",
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "5560",
+ "creation": "1991-10-11",
+ "ville": "MONTPELLIER",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/383451267",
+ "maj_rne": "2026-09-27T00:42:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE NOEL JOSEPH",
+   "nom": "AMALOU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GUILLAUME",
+   "nom": "BEROUJON",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "COLETTE MARIE LOUISE",
+   "nom": "MOULIERE (BONHOMME)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VALERIE ANGELE MARIE",
+   "nom": "IGNATOFF (BRIOT)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABRICE VINCENT PASCAL",
+   "nom": "CHAMBOREDON",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANDRE MAURICE JEAN",
+   "nom": "DEMARE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS JOSEPH FRANCOIS",
+   "nom": "DORANDEU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HÉLÈNE JEANINE MIREILLE",
+   "nom": "DOUAT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FLORENT VIVIEN ARNAUD",
+   "nom": "FEUILLOLEY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE FRANCOISE",
+   "nom": "ROBERT (FLAISLER)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME NICOLAS RENE",
+   "nom": "FORT",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CYRIL FABRICE",
+   "nom": "LAURENT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS JACQUES",
+   "nom": "MADAULE",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN MATHIEU",
+   "nom": "MARIMOUTOU",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NORIA",
+   "nom": "MESSELEKA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE PIERRE",
+   "nom": "NAUTE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID JEAN ANDRÉ",
+   "nom": "NOWICKI",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "XAVIER CLAUDE JEAN ROGER",
+   "nom": "PASSEMAR",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIANE SIMONE PAULE",
+   "nom": "AUDIER (REBELLER)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE DOMINIQUE GABRIEL",
+   "nom": "ROUGEOT",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDIVINE FRANCOISE",
+   "nom": "SERRES",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTILLE MIREILLE ANNE-MARIE",
+   "nom": "ANFOSSO (STEIN)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRA STEPHANIE MELIKA",
+   "nom": "DEMARQUET (THILL)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NAIRA",
+   "nom": "ZOROYAN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pm",
+   "denomination": "SLE PAYS CATALAN",
+   "siren": null,
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8339&start=0",
+  "id_referentiel": "8339",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1991-10-11",
+  "cib": [
+   "13485"
+  ],
+  "lei": "9695001BN7B574TIZH43",
+  "denomination": "Caisse d'épargne et de prévoyance du Languedoc Roussillon",
+  "forme_regafi": "Société coopérative, conseil d'orientation et de surveillance et directoire - Art. L512-85 à 104 (à capital fixe)",
+  "adresse": "254 rue Michel Teule, 34000 MONTPELLIER",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false,
+  "denomination_registre_differente": true
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 13485.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8339&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/languedoc-roussillon/banque-privee/",
+    "extrait": "La Banque Privée de Caisse d'Epargne au service des dirigeants d'entreprise.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/languedoc-roussillon/banque-privee/",
+    "extrait": "La Banque Privée vous accompagne dans la gestion de vos actifs professionnels et privés.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.caisse-epargne.fr/languedoc-roussillon/banque-privee/",
+   "extrait": "Caisse d'Epargne Languedoc Roussillon Accessibilité (partiellement conforme) Contact Sécurité Aide Comptes Choisir une carte bancaire Carte Visa Classic Carte Visa Premier Carte Visa Platinum Carte Visa Infinite Choisir une formule bancaire Formule Individuelle Formule Famille Réaliser des achats en ligne Service e-cartes Organiser ses vacances Option Internationale Carte bancaire en",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la caisse régionale sur caisse-epargne.fr.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la caisse régionale sur caisse-epargne.fr."
+ },
+ "lot_origine": "lot à valider (SIREN confirmé par LEI)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CAISSE EPARGNE PREVOYANCE LANGUEDOC ROUSSILLON",
+ "nom_usuel_source": "dénomination publiée par l'ACPR (REGAFI), celle du registre des entreprises étant abrégée"
+}

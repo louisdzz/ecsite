@@ -1,0 +1,210 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE DU NORD",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8378&start=0"
+ },
+ "siren": "457506566",
+ "denomination": "BANQUE POPULAIRE DU NORD",
+ "nom_complet": "BANQUE POPULAIRE DU NORD (BPN)",
+ "sigle": "BPN",
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1983-06-30",
+ "ville": "MARCQ-EN-BARŒUL",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/457506566",
+ "maj_rne": "2026-10-07T11:37:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "GEORGES",
+   "nom": "CHARLET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE MADELEINE",
+   "nom": "CHEYNEL",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMILIENNE",
+   "nom": "COULON",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "COURSIERES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID JEAN-CLAUDE",
+   "nom": "DELBERGUE",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "DUBOIS DUPLAN (DUPLAN)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC PHILIPPE",
+   "nom": "GOSSELIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "HOURDAIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PATRICIA",
+   "nom": "DUCANGE (MARTINEZ)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCIS",
+   "nom": "PETIT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "POUGHON",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "POULAIN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "LECLERCQ (REYNAERT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "TARANNE",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8378&start=0",
+  "id_referentiel": "8378",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "13507"
+  ],
+  "lei": "969500RVNUVNP6SCY284",
+  "denomination": "Banque populaire du Nord",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "847 avenue de la République, 59700 MARCQ EN BAROEUL",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 13507.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=8378&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/nord/banque-privee/",
+    "extrait": "JPM Banque Privée offre à votre patrimoine toute l'expertise qu'il mérite.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/nord/banque-privee/",
+   "extrait": "Banque Populaire Nord Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Banque Populaire Nord Accessibilité Contact Qui sommes-nous ?",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "JPM Banque Privée : marque de banque privée présentée sur la page de la Banque Populaire du Nord.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "JPM Banque Privée est la marque de banque privée présentée sur la page de la Banque Populaire du Nord."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE DU NORD"
+}

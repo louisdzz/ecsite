@@ -1,0 +1,160 @@
+{
+ "nom_usuel": "BANQUE CHABRIERES",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=178&start=0"
+ },
+ "siren": "314007709",
+ "denomination": "BANQUE CHABRIERES",
+ "nom_complet": "BANQUE CHABRIERES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SA à conseil d'administration",
+ "forme_code": "5599",
+ "creation": "1978-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314007709",
+ "maj_rne": "2026-09-22T11:36:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMY",
+   "nom": "CHEVALLIER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "FERRIER",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "LUREAU",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "BARDIN (PERDU)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "PINGENOT",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "ROUSSELOT-MARTINET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "SOCIETE CIVILE DES MOUSQUETAIRES",
+   "siren": "344092093",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pm",
+   "denomination": "ITM ENTREPRISES",
+   "siren": "722064102",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=178&start=0",
+  "id_referentiel": "178",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1980-09-23",
+  "cib": [
+   "24659"
+  ],
+  "lei": "969500LZ4AGNWDECVP72",
+  "denomination": "Banque Chabrières",
+  "forme_regafi": "Société anonyme",
+  "adresse": "24 rue Auguste Chabrières, 75015 PARIS",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 24659.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=178&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://banque-chabrieres.fr/",
+    "extrait": "les équipes de conseillers en gestion privée de la Banque Chabrières accompagnent les Adhérents et les persévérants.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque Chabrières",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Terme employé : « gestion privée », pour les adhérents du groupement (dirigeants de points de vente).",
+  "critere": "validé par Louis le 13/11/2026"
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE CHABRIERES"
+}

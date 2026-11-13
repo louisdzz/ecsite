@@ -1,0 +1,210 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10537&start=0"
+ },
+ "siren": "356801571",
+ "denomination": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE",
+ "nom_complet": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE (BPALC)",
+ "sigle": "BPALC",
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1956-01-01",
+ "ville": "METZ",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/356801571",
+ "maj_rne": "2026-10-30T07:04:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SALOUA",
+   "nom": "BENNAGHMOUCH",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "CHAMPIGNY (BERTHELOT)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANÇOIS",
+   "nom": "BRAUN",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO JEAN YVES",
+   "nom": "CACHOT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY",
+   "nom": "CAHN",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELODIE ANDREE APOLLINARIA",
+   "nom": "HIGONET-CHAPUY (CHAPUY)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIANE",
+   "nom": "ROTH (DANIEL)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YVES",
+   "nom": "DUBIEF",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELISABETH MARTINE JOSÈPHE",
+   "nom": "MOREAU (DUTHOIT)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHELE",
+   "nom": "WALTER (HENTZ)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "MINOIS",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN PIERRE",
+   "nom": "PROCUREUR",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "RENNER",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN",
+   "nom": "TILIGNAC",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10537&start=0",
+  "id_referentiel": "10537",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "14707"
+  ],
+  "lei": "969500EVOBAGHKZEXA33",
+  "denomination": "Banque populaire Alsace Lorraine Champagne",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "3 rue François de Curel, 57000 METZ",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 14707.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10537&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/bpalc/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée - Gestion de patrimoine - Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/bpalc/banque-privee/",
+   "extrait": "Banque Populaire Alsace Lorraine Champagne Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Banque Populaire Alsace Lorraine Champagne Nos engagements Accessibilité Sécurité Nous contacter Banque Populaire Alsace Lorraine Champagne Banque Privée Vous êtes Dirigeant d'une entreprise Valoriser votre patrimoine professionnel Les ingénieries Transmettre et",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE ALSACE LORRAINE CHAMPAGNE"
+}

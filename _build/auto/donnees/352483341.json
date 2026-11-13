@@ -1,0 +1,275 @@
+{
+ "nom_usuel": "CAISSE D'EPARGNE ET DE PREVOYANCE DE BOURGOGNE FRANCHE-COMTE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=5712&start=0"
+ },
+ "siren": "352483341",
+ "denomination": "CAISSE D'EPARGNE ET DE PREVOYANCE DE BOURGOGNE FRANCHE-COMTE",
+ "nom_complet": "CAISSE D'EPARGNE ET DE PREVOYANCE DE BOURGOGNE FRANCHE-COMTE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": null,
+ "forme_code": "5660",
+ "creation": "1989-09-21",
+ "ville": "DIJON",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352483341",
+ "maj_rne": "2026-11-04T15:17:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEROME",
+   "nom": "BALLET",
+   "qualite": "Président du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE VALERIE",
+   "nom": "PATENAT (BARBIER)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTIN",
+   "nom": "BAUER",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "BERTHET",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MADELEINE",
+   "nom": "ROUSSET-CHARPENET (CHARPENET)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FABIEN YVES-MARIE",
+   "nom": "CHAUVE",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTINE",
+   "nom": "DAUX",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JACQUES JEAN-FRANCOIS",
+   "nom": "DENIS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE",
+   "nom": "MATRAT (DUBOIS)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ESTELLE CLAIRE",
+   "nom": "DULION",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILLES",
+   "nom": "FALLET",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "FOUGERE",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUDIVINE MARIE-LAURE CECILE",
+   "nom": "MARTIN (GIMET)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE",
+   "nom": "KOENDERS",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN ROBERT FRANCOIS",
+   "nom": "LE GUILLOUX",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "MAUCLAIR",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "MENIGOZ",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL",
+   "nom": "OUDOT",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "TERRIER (PACAUD)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIQUE FRANCOISE MARIE-HELENE",
+   "nom": "BALEDENT (PATTE)",
+   "qualite": "Membre du directoire"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTINE",
+   "nom": "ABRAHAMSE (PLASTRE)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE",
+   "nom": "DUBAN (SIZE)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EMMANUELLE",
+   "nom": "BLONDE (TOURNEFIER)",
+   "qualite": "Membre du conseil de surveillance"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN CLAUDE ALAIN",
+   "nom": "VUILLET",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=5712&start=0",
+  "id_referentiel": "5712",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1991-10-11",
+  "cib": [
+   "12135"
+  ],
+  "lei": "9695009GVHASHCJ1D122",
+  "denomination": "Caisse d'épargne et de prévoyance de Bourgogne Franche-Comté",
+  "forme_regafi": "Société coopérative, conseil d'orientation et de surveillance et directoire - Art. L512-85 à 104 (à capital fixe)",
+  "adresse": "18 avenue Françoise Giroud, 21000 DIJON",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 12135.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=5712&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/bourgogne-franche-comte/banque-privee/",
+    "extrait": "La Banque Privée de Caisse d'Epargne Bourgogne Franche-Comté au service des dirigeants d'entreprise.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   },
+   {
+    "categorie": "banque privée",
+    "url": "https://www.caisse-epargne.fr/bourgogne-franche-comte/banque-privee/",
+    "extrait": "La Banque Privée vous accompagne dans la gestion de vos actifs professionnels et privés.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque privée pour entrepreneurs | Caisse d'Épargne",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": null,
+  "note": "Page Banque privée de la caisse régionale sur caisse-epargne.fr.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la caisse régionale sur caisse-epargne.fr."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "CAISSE D'EPARGNE ET DE PREVOYANCE DE BOURGOGNE FRANCHE-COMTE"
+}

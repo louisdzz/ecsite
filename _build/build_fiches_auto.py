@@ -3,7 +3,8 @@
 
 Entrée : _build/auto/donnees/<siren>.json, produits par _build/auto/collecte.py
 à partir de sources publiques uniquement (API Recherche d'entreprises de l'État,
-registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, site officiel de la maison ;
+registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, registre REGAFI de l'ACPR pour les banques,
+site officiel de la maison ; pour la rubrique banques, activités décrites par la banque, bloc activites ;
 pour la rubrique experts-comptables, preuves du lien avec la cession, bloc lien_cession). Chaque champ affiché porte sa source
 et sa date de consultation. Un champ sans source reste « Non renseigné ».
 
@@ -42,6 +43,9 @@ CATS = {
     "cgp": {"label": "Conseillers en gestion de patrimoine (CGP)",
             "metier": "Le conseil en gestion de patrimoine part de la situation et des objectifs du client pour proposer une organisation et des placements. Le statut, les produits et la rémunération sont à comparer.",
             "questions": ["Quels statuts et habilitations couvrent votre intervention ?", "Comment êtes-vous rémunéré sur les solutions proposées ?", "Quels risques, frais et contraintes de sortie faut-il prévoir ?"]},
+    "banques": {"label": "Banques et établissements de crédit",
+            "metier": "Un établissement de crédit reçoit des dépôts et accorde des crédits sous agrément de l’Autorité de contrôle prudentiel et de résolution. Les services, les tarifs et la clientèle visée varient selon l’établissement.",
+            "questions": ["Quels services votre agrément couvre-t-il en France ?", "Quels frais s’appliquent à la tenue de compte, au crédit et à la gestion ?", "Quel interlocuteur suivra la relation et avec quel pouvoir de décision ?"]},
     "sgp": {"label": "Sociétés de gestion",
             "metier": "Une société de gestion de portefeuille gère des fonds ou des mandats pour le compte de ses clients, sous agrément de l’Autorité des marchés financiers. Les stratégies, les frais et les conditions de sortie varient selon la société et le fonds.",
             "questions": ["Quelles activités votre agrément AMF couvre-t-il ?", "Quels frais s’appliquent, à l’entrée, chaque année et sur la performance ?", "Quelle durée de blocage et quelles conditions de sortie faut-il prévoir ?"]},
@@ -58,6 +62,7 @@ CATS = {
     "fonds-dette": {"label": "Fonds de dette", "metier": _FONDS, "questions": _FONDS_Q},
 }
 ORIAS_LIB = {"CIF": "Conseiller en investissements financiers", "COA": "Courtier d'assurance ou de réassurance", "COBSP": "Courtier en opérations de banque et en services de paiement", "MIOBSP": "Mandataire d'intermédiaire en opérations de banque et en services de paiement", "MOBSP": "Mandataire non exclusif en opérations de banque et en services de paiement", "MOBSPL": "Mandataire exclusif en opérations de banque et en services de paiement", "AGA": "Agent général d'assurance", "MA": "Mandataire d'assurance", "MIA": "Mandataire d'intermédiaire d'assurance", "ALPSI": "Agent lié de prestataire de services d'investissement", "CIP": "Conseiller en investissements participatifs", "IFP": "Intermédiaire en financement participatif"}
+ACTIVITE_LIB = {"banque privée": "Banque privée", "financement d'acquisition": "Financement d’acquisition", "banque d'affaires": "Banque d’affaires"}
 LIEN_LIB = {"a": "Registre ORIAS", "b": "Activité affichée", "c": "Opération publique", "d": "Classement public", "complement": "Classement public"}
 # Mentions externes des fiches déjà publiées, par identifiant de fiche (voir _build/auto/pose_mentions.py).
 _pm = os.path.join(AUTO, "mentions_externes.json")
@@ -253,7 +258,23 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
 
     o = r.get("orias") or {}
     am = r.get("amf")
-    if r["categorie"] == "avocats":
+    ac = r.get("acpr")
+    if ac:
+        # Banque : inscription lue au registre REGAFI de l'ACPR (établissement de crédit ou succursale), SIREN publié par l'ACPR.
+        s_ac = src("ACPR, registre REGAFI", ac["url"], d)
+        serv = "".join("<li><span>%s</span></li>" % e(k["libelle"]) for k in (ac.get("services_investissement") or []) + (ac.get("activites_directive_bancaire") or []) if k.get("libelle"))
+        mm = ac.get("maison_mere") or {}
+        regl = '<dl class="pv-condition-list">%s%s%s%s%s%s%s%s</dl>%s' % (
+            champ("Registre ACPR", e(ac["famille"].replace("'", "’")), s_ac),
+            champ("Dénomination au registre ACPR", e(ac["denomination"]), s_ac),
+            champ("SIREN publié par l’ACPR", e("%s %s %s" % (r["siren"][:3], r["siren"][3:6], r["siren"][6:])), s_ac),
+            champ("Catégorie", e(" · ".join(ac.get("sous_categorie") or [])), s_ac) if ac.get("sous_categorie") else "",
+            champ("Code interbancaire (CIB)", e(", ".join(ac.get("cib") or [])), s_ac) if ac.get("cib") else "",
+            champ("Autorisation depuis le", e(fr_date(ac["date_debut"])), s_ac) if ac.get("date_debut") else "",
+            champ("Établissement d’origine", e("%s (%s)" % (mm.get("denomination"), nom_propre(mm.get("pays") or ""))), s_ac) if mm.get("denomination") else "",
+            champ("Retrait d’agrément", "Procédure en cours selon le registre", s_ac) if ac.get("retrait_en_cours") else "",
+            ('<p class="pv-source-note">Services déclarés au registre :</p><ul class="fa-people">%s</ul>%s' % (serv, s_ac)) if serv else "")
+    elif r["categorie"] == "avocats":
         # Cabinet d'avocats : barreau affiché seulement s'il est sourcé (annuaire de l'Ordre ou mentions légales du site officiel). Pas de lecture ORIAS.
         ba = r.get("barreau")
         if ba and ba.get("sources"):
@@ -287,6 +308,13 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     if lc and lc.get("preuves"):
         lis = "".join(champ(LIEN_LIB.get(p.get("critere"), "Preuve"), e(p["texte"]) + ((" « %s »" % e(p["extrait"])) if p.get("extrait") else ""), src(p["label"], p["url"], p.get("date") or d)) for p in lc["preuves"])
         lien = '<section aria-labelledby="fa-cession" id="lien-cession"><h2 class="pv-section-title" id="fa-cession">Lien avec la cession.</h2><dl class="pv-condition-list">%s</dl><p class="pv-source-note">Ce cabinet figure dans l’Annuaire parce qu’un lien avec la cession est documenté par la source citée. Ce lien ne dit rien de la qualité du conseil et n’entre pas dans le classement d’activité.</p></section>' % lis
+    # Banques : activités décrites par la banque (critère validé par Louis le 13 novembre 2026). Chaque extrait est daté et lié.
+    ab = r.get("activites")
+    if ac and ab and ab.get("preuves"):
+        # Extrait repris tel quel ; un fragment de phrase est signalé par des points de suspension.
+        cite = lambda x: ("… " if x[:1].islower() else "") + re.sub(r"\s+([.,])", r"\1", x) + ("" if re.search(r"[.!?…]$", x) else " …")
+        lis = "".join(champ(ACTIVITE_LIB[p["categorie"]], "« %s »" % e(cite(p["extrait"])), src(p.get("label") or "site officiel de la banque", p["url"], p.get("relu_le") or p["date_lecture"])) for k in ab["categories"] for p in ab["preuves"] if p["categorie"] == k)
+        lien = '<section aria-labelledby="fa-activites" id="activites-banque"><h2 class="pv-section-title" id="fa-activites">Activités décrites par la banque.</h2><dl class="pv-condition-list">%s</dl>%s<p class="pv-source-note">Cette banque figure dans l’Annuaire parce qu’une activité de banque privée, de financement d’acquisition ou de banque d’affaires est décrite par la source citée. Cette mention ne dit rien de la qualité du service et n’entre pas dans le classement d’activité.</p></section>' % (lis, ('<p class="pv-source-note">%s</p>' % e(ab["precision"])) if ab.get("precision") else "")
     rs = r.get("raison")
     raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
     liens = []
@@ -304,7 +332,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     corr = "mailto:louis@exit.club?subject=" + e("Fiche %s · correction" % slug).replace(" ", "%20")
     claim = pv.lien(slug, "maison", maison=nom, dom=pv.dom_site(r.get("site")))
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": nom, "legalName": r["denomination"], "url": url_pub, **({"sameAs": [r["site"]]} if r.get("site") else {})}, ensure_ascii=False)
-    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, barreau, site officiel" if r["categorie"] == "avocats" else "registre, ORIAS, site officiel", c["label"])
+    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ACPR, site officiel" if r.get("acpr") else "registre, barreau, site officiel" if r["categorie"] == "avocats" else "registre, ORIAS, site officiel", c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
     av = '<p class="fa-apercu">Aperçu interne · cette maison a déjà une fiche publiée (<a href="/f/%s">/f/%s</a>), qui n’est pas modifiée.</p>' % (slug, slug) if apercu else ""
     lg = r.get("_logo")
@@ -497,7 +525,7 @@ def main():
         slug = r["_slug"]
         dest = os.path.join(ROOT, "f", slug + ".html")
         open(dest, "w", encoding="utf-8").write(fiche_maison(r, slug, False, personnes, base_style))
-        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "amf": (r.get("amf") or {}).get("numero"), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
+        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "amf": (r.get("amf") or {}).get("numero"), **({"acpr": ((r["acpr"].get("cib") or [None])[0])} if r.get("acpr") else {}), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
         for p in personnes:
             if p["siren"] == r["siren"] and p.get("slug"):
                 open(os.path.join(ROOT, "p", p["slug"] + ".html"), "w", encoding="utf-8").write(fiche_personne(p, r, slug, base_style))

@@ -1,0 +1,216 @@
+{
+ "nom_usuel": "BANQUE POPULAIRE MEDITERRANEE",
+ "categorie": "banques",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-12",
+ "sources": {},
+ "origine": "lot banques ACPR REGAFI",
+ "siren_source": {
+  "type": "SIREN publié par l'ACPR (REGAFI)",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10325&start=0"
+ },
+ "siren": "058801481",
+ "denomination": "BANQUE POPULAIRE MEDITERRANEE",
+ "nom_complet": "BANQUE POPULAIRE MEDITERRANEE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société coopérative de banque populaire",
+ "forme_code": "5192",
+ "creation": "1958-01-01",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "64.19Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/058801481",
+ "maj_rne": "2026-09-22T10:28:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE MARIE-PIERRE RENEE",
+   "nom": "TRICOIRE (BARRE)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SABINE LILIANE",
+   "nom": "CALBA-BOHLER (CALBA)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GHISLAINE EVELYNE",
+   "nom": "AUGE (CARDI)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS MICHEL",
+   "nom": "GIOCANTI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "HENRI",
+   "qualite": "Président du conseil d’administration"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIA",
+   "nom": "VERAN (KENCK)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GEORGES",
+   "nom": "LINARES",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY CLAUDE RAYMOND EMILE",
+   "nom": "PELISSIER",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC CHARLES ANGE",
+   "nom": "PENICA",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE MICHEL",
+   "nom": "RENAUDI",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTINE DANIELLE GABRIELLE",
+   "nom": "GIULANI (SCORSONERO)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LIONEL",
+   "nom": "SERVANT",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AURÉLIE",
+   "nom": "BERTIN (TEILLAUD)",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHLOE",
+   "nom": "TOURRET",
+   "qualite": "Administrateur"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE JACQUES FRANCOIS",
+   "nom": "ZILIANI",
+   "qualite": "Administrateur"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "acpr": {
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10325&start=0",
+  "id_referentiel": "10325",
+  "famille": "Établissement de crédit",
+  "categorie": "Établissement de Crédit",
+  "sous_categorie": [
+   "Banque mutualiste ou coopérative"
+  ],
+  "nature_autorisation": "Agrément",
+  "date_debut": "1984-10-22",
+  "cib": [
+   "14607"
+  ],
+  "lei": "969500NJ02LC5HAFDY89",
+  "denomination": "BANQUE POPULAIRE MEDITERRANEE",
+  "forme_regafi": "Société anonyme coopérative de banque populaire à capital variable - Art. L512-2 et suivants",
+  "adresse": "457 Promenade des Anglais, 06200 NICE",
+  "maison_mere": null,
+  "prestataire_services_investissement": true,
+  "services_investissement": [
+   {
+    "code": "1",
+    "libelle": "Réception et transmission d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "2",
+    "libelle": "Exécution d'ordres pour le compte de tiers"
+   },
+   {
+    "code": "3",
+    "libelle": "Négociation pour compte propre"
+   },
+   {
+    "code": "4",
+    "libelle": "Gestion de portefeuille pour le compte de tiers"
+   },
+   {
+    "code": "5",
+    "libelle": "Conseil en investissement"
+   },
+   {
+    "code": "6A",
+    "libelle": "Prise ferme"
+   },
+   {
+    "code": "6B",
+    "libelle": "Placement garanti"
+   },
+   {
+    "code": "7",
+    "libelle": "Placement non garanti"
+   }
+  ],
+  "activites_directive_bancaire": [],
+  "retrait_en_cours": false
+ },
+ "site": null,
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Établissement de crédit agréé par l’ACPR, inscrit au registre REGAFI sous le code interbancaire 14607.",
+  "label": "ACPR, registre REGAFI",
+  "url": "https://regafi.fr/pages/fiche-banque?refine.id_referentiel=10325&start=0"
+ },
+ "activites": {
+  "categories": [
+   "banque privée"
+  ],
+  "categorie_principale": "banque privée",
+  "preuves": [
+   {
+    "categorie": "banque privée",
+    "url": "https://www.banquepopulaire.fr/mediterranee/banque-privee/",
+    "extrait": "Forte de ses 150 agences de Banque Privée et de ses experts en ingénieries patrimoniales, financières, immobilières ou encore de gestion d'actifs et sous mandat, Banque Populaire s'engage tous les jours aux côtés de ses clients pour leur offrir les meilleures perspectives de développement de leur patrimoine, leur permettre d'anticiper et de saisir toutes les opportunités, les accompagner à chaque étape clé de leurs projets de vie personnels comme professionnels.",
+    "date_lecture": "2026-11-13",
+    "relu_le": "2026-11-13",
+    "source_type": "site officiel",
+    "titre_page": "Banque Privée | Banque Populaire",
+    "label": "site officiel de la banque"
+   }
+  ],
+  "preuves_ecartees_a_la_relecture": [],
+  "designation_entite": {
+   "url": "https://www.banquepopulaire.fr/mediterranee/banque-privee/",
+   "extrait": "Banque Populaire Méditerranée Banque Privée Banque Privée Particuliers Professionnels Entreprises Banque Privée Votre Banque Banque Populaire Méditerranée Accessibilité Contact Sécurité Votre banque et vous Banque Populaire Méditerranée Banque Privée Dirigeant d'entreprise Valoriser votre patrimoine professionnel Les ingénieries Transmettre et réinvestir le produit de la",
+   "date_lecture": "2026-11-13",
+   "relu_le": "2026-11-13"
+  },
+  "note": "Page Banque privée de la banque régionale sur banquepopulaire.fr ; la phrase descriptive est commune au réseau, la page désigne la banque régionale.",
+  "critere": "validé par Louis le 13/11/2026",
+  "precision": "Page Banque privée de la banque régionale sur banquepopulaire.fr. La phrase citée est commune au réseau Banque Populaire."
+ },
+ "lot_origine": "lot strict (concordance de dénomination)",
+ "sans_fiche_personne": true,
+ "nom_registre": "BANQUE POPULAIRE MEDITERRANEE"
+}
