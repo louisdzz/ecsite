@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AZUR COMPTABILITE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502078835"
+ },
+ "siren": "502078835",
+ "denomination": "AZUR COMPTABILITE",
+ "nom_complet": "AZUR COMPTABILITE (MARINA AUDIT)",
+ "sigle": "MARINA AUDIT",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-01-12",
+ "ville": "VILLENEUVE-LOUBET",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502078835",
+ "maj_rne": "2026-09-24T03:23:50",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KARENE NANCY VIVIANE MARGUERITE",
+   "nom": "ZALEWSKI (FIOT)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/502078835",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.azurcomptabilite.com/",
+ "site_source": "https://www.azurcomptabilite.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « assistance à la cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.azurcomptabilite.com/nos-missions/pour-les-acquisitions-et-transmissions-d-entreprises"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « assistance à la cession »).",
+    "extrait": "… Accompagnement et assistance à la cession : présence lors des négociations, aide à la médiation, implication dans les démarches juridiques et administratives… …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.azurcomptabilite.com/nos-missions/pour-les-acquisitions-et-transmissions-d-entreprises",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AARDT VALUE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810629477"
+ },
+ "siren": "810629477",
+ "denomination": "AARDT VALUE",
+ "nom_complet": "AARDT VALUE (AARDT VALUE)",
+ "sigle": null,
+ "enseigne": "AARDT VALUE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2015-03-19",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/810629477",
+ "maj_rne": "2026-09-25T05:10:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "ROBERT",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/810629477",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://aardtvalue.com/",
+ "site_source": "https://aardtvalue.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due diligences »).",
+  "label": "site officiel du cabinet",
+  "url": "https://aardtvalue.com/audit-et-transactions/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Due diligences »).",
+    "extrait": "… Due diligences (acquisitions, cessions) et assistance à la négociation …",
+    "label": "site officiel du cabinet",
+    "url": "https://aardtvalue.com/audit-et-transactions/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

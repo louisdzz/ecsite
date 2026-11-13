@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ARIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911875854"
+ },
+ "siren": "911875854",
+ "denomination": "ARIS",
+ "nom_complet": "ARIS (RAVOUNA - ARIS)",
+ "sigle": null,
+ "enseigne": "RAVOUNA - ARIS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-03-23",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/911875854",
+ "maj_rne": "2026-09-26T19:26:12",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID ROBERT",
+   "nom": "RAVOUNA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/911875854",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.aris-expertise.com/",
+ "site_source": "https://www.aris-expertise.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.aris-expertise.com/services/transmission/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession »).",
+    "extrait": "… Préparer la cession ou la transmission de votre entreprise : chiffres, valeur, montage, fiscalité du cédant. ARIS vous accompagne à chaque étape. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.aris-expertise.com/services/transmission/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "ACCAB",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/852341098"
+ },
+ "siren": "852341098",
+ "denomination": "ACCAB",
+ "nom_complet": "ACCAB (ACCAB)",
+ "sigle": null,
+ "enseigne": "ACCAB",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-07-10",
+ "ville": "REZE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/852341098",
+ "maj_rne": "2026-09-26T02:07:10",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL RENE MARIE",
+   "nom": "ALBERT",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VIRGINIE",
+   "nom": "TREIL (TREIL)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/852341098",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://accab.fr/",
+ "site_source": "https://accab.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://accab.fr/cession-de-mon-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'entreprise »).",
+    "extrait": "… Cession d'entreprise | ACCAB | Conseiller expert comptable …",
+    "label": "site officiel du cabinet",
+    "url": "https://accab.fr/cession-de-mon-entreprise/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

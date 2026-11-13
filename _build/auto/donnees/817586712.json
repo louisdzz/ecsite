@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "QUANTUS ADVISORY",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/817586712"
+ },
+ "siren": "817586712",
+ "denomination": "QUANTUS ADVISORY",
+ "nom_complet": "QUANTUS ADVISORY (Q & A)",
+ "sigle": "Q & A",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-01-01",
+ "ville": "HERBLAY-SUR-SEINE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/817586712",
+ "maj_rne": "2026-09-25T08:12:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SYLVAIN",
+   "nom": "QUAGLIAROLI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/817586712",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://quantus-advisory.com/",
+ "site_source": "https://quantus-advisory.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://quantus-advisory.com/expertises/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de transmission »).",
+    "extrait": "… les dirigeants et les actionnaires dans l'anticipation, la préparation et la sécurisation de leur projet de transmission, afin de préserver la valeur de l'entreprise et de réunir les conditions favorables à la réussite de …",
+    "label": "site officiel du cabinet",
+    "url": "https://quantus-advisory.com/expertises/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

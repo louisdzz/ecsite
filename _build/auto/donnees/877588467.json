@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "COMPTA973",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877588467"
+ },
+ "siren": "877588467",
+ "denomination": "COMPTA973",
+ "nom_complet": "COMPTA973",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-09-17",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877588467",
+ "maj_rne": "2026-09-29T13:35:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "WILFRIED",
+   "nom": "SIEBER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/877588467",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://compta973.fr/",
+ "site_source": "https://compta973.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://compta973.fr/audit-dacquisition/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… d’argent conséquentes. Il est donc préférable de ne pas se tromper, c’est pourquoi Compta973 vous propose un audit d’acquisition pouvant couvrir plusieurs aspects : …",
+    "label": "site officiel du cabinet",
+    "url": "https://compta973.fr/audit-dacquisition/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

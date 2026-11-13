@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "BEXCO CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519132153"
+ },
+ "siren": "519132153",
+ "denomination": "BEXCO CONSEIL",
+ "nom_complet": "BEXCO CONSEIL (BEXCO CONSEIL)",
+ "sigle": null,
+ "enseigne": "BEXCO CONSEIL",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-12-08",
+ "ville": "BRIE-COMTE-ROBERT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/519132153",
+ "maj_rne": "2026-09-24T08:08:26",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "HPL",
+   "siren": "519260269",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/519132153",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://bexco-conseil.fr/",
+ "site_source": "https://bexco-conseil.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « préparer la cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://bexco-conseil.fr/nos-services/transmission-cession/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « préparer la cession »).",
+    "extrait": "… vie d’un dirigeant. Avec FCS Consulting by Numeris, Bexco Conseil accompagne les deux côtés de l’opération : préparer la cession plusieurs années à l’avance, valoriser, trouver un repreneur ou une cible, négocier et sécuriser le montage …",
+    "label": "site officiel du cabinet",
+    "url": "https://bexco-conseil.fr/nos-services/transmission-cession/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

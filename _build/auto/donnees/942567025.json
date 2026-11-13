@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "CABINET LORENZI - TERRAIN D'EXPERTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942567025"
+ },
+ "siren": "942567025",
+ "denomination": "CABINET LORENZI - TERRAIN D'EXPERTS",
+ "nom_complet": "CABINET LORENZI - TERRAIN D'EXPERTS (CABINET LORENZI - TERRAIN D'EXPERTS)",
+ "sigle": null,
+ "enseigne": "CABINET LORENZI - TERRAIN D'EXPERTS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-10-01",
+ "ville": "SEYSSES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942567025",
+ "maj_rne": "2026-10-07T17:40:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KÉVIN",
+   "nom": "LORENZI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/942567025",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://lorenzi-terrain-experts.fr/",
+ "site_source": "https://lorenzi-terrain-experts.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://lorenzi-terrain-experts.fr/optimisation-et-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+    "extrait": "… Transmission d'entreprise et valorisation | LORENZI | CABINET LORENZI - TERRAIN D'EXPERTS …",
+    "label": "site officiel du cabinet",
+    "url": "https://lorenzi-terrain-experts.fr/optimisation-et-transmission",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

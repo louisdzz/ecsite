@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "TEAMALLIANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/499148872"
+ },
+ "siren": "499148872",
+ "denomination": "TEAMALLIANCE",
+ "nom_complet": "TEAMALLIANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-07-11",
+ "ville": "LEGNY",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/499148872",
+ "maj_rne": "2026-09-24T02:01:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTIAN",
+   "nom": "PREVOT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/499148872",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.teamalliance.fr/",
+ "site_source": "https://www.teamalliance.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.teamalliance.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Préparation et assistance à la cession d’entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.teamalliance.fr",
+    "date": "2026-11-13",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

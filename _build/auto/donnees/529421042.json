@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "GROUPE SACOR",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/529421042"
+ },
+ "siren": "529421042",
+ "denomination": "GROUPE SACOR",
+ "nom_complet": "GROUPE SACOR",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2010-12-15",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/529421042",
+ "maj_rne": "2026-09-24T11:29:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "ANDRE",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLAIRE",
+   "nom": "DISSEZ",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "GUIBORA",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/529421042",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.groupe-sacor.fr/",
+ "site_source": "https://www.groupe-sacor.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « accompagné dans la transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.groupe-sacor.fr/nos-expertises/transmission-reprise-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « accompagné dans la transmission »).",
+    "extrait": "… Vous souhaitez être accompagné dans la transmission ou la reprise d'une entreprise ?  Prenez rendez-vous au …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.groupe-sacor.fr/nos-expertises/transmission-reprise-d-entreprise",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MILLENIUM-EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531411130"
+ },
+ "siren": "531411130",
+ "denomination": "MILLENIUM-EXPERTISE",
+ "nom_complet": "MILLENIUM-EXPERTISE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-03-11",
+ "ville": "VALENCIENNES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/531411130",
+ "maj_rne": "2026-09-24T12:33:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BAPTISTE",
+   "nom": "DESCAMPS",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/531411130",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://millenium-expertise.fr/",
+ "site_source": "https://millenium-expertise.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « CESSION DE VOTRE ENTREPRISE »).",
+  "label": "site officiel du cabinet",
+  "url": "https://millenium-expertise.fr/missions-comptables-fiscales-sociales/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « CESSION DE VOTRE ENTREPRISE »).",
+    "extrait": "… ACCOMPAGNEMENT EN CAS DE CESSION DE VOTRE ENTREPRISE …",
+    "label": "site officiel du cabinet",
+    "url": "https://millenium-expertise.fr/missions-comptables-fiscales-sociales/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "COELIS EXPERTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983110214"
+ },
+ "siren": "983110214",
+ "denomination": "COELIS EXPERTS",
+ "nom_complet": "COELIS EXPERTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-12-18",
+ "ville": "NICE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983110214",
+ "maj_rne": "2026-09-30T11:05:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS ANTOINE",
+   "nom": "BOAGLIO",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983110214",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://coelis-experts.fr/",
+ "site_source": "https://coelis-experts.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « préparation à la cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://coelis-experts.fr/fusion-cession-et-acquisition-2/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « préparation à la cession »).",
+    "extrait": "… Nous accompagnons les dirigeants, investisseurs ou groupes dans la détection d’opportunités de croissance externe ou la préparation à la cession de leur entreprise. …",
+    "label": "site officiel du cabinet",
+    "url": "https://coelis-experts.fr/fusion-cession-et-acquisition-2/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

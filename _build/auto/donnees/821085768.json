@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "EACF AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/821085768"
+ },
+ "siren": "821085768",
+ "denomination": "EACF AUDIT",
+ "nom_complet": "EACF AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-06-01",
+ "ville": "GARCHES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/821085768",
+ "maj_rne": "2026-09-25T10:28:19",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE",
+   "nom": "LE CUNFF",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/821085768",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.eacf-audit.fr/",
+ "site_source": "https://www.eacf-audit.fr/commissariat-aux-comptes/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmettre votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.eacf-audit.fr/patrimoine-immobilier-lmnp-%c2%b7-lmp-%c2%b7-sci/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmettre votre entreprise »).",
+    "extrait": "… Transmettre votre entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.eacf-audit.fr/patrimoine-immobilier-lmnp-%c2%b7-lmp-%c2%b7-sci/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

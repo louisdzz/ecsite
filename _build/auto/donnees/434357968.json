@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "NGP EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434357968"
+ },
+ "siren": "434357968",
+ "denomination": "NGP EXPERTISE",
+ "nom_complet": "NGP EXPERTISE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2001-01-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434357968",
+ "maj_rne": "2026-09-23T09:52:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS",
+   "nom": "NANQUETTE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/434357968",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.ngp-expertise.com/",
+ "site_source": "https://www.ngp-expertise.com/fr/mentions-legales-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Dans le cadre de votre transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.ngp-expertise.com/fr/conseil-patrimonial/transmission-d-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Dans le cadre de votre transmission »).",
+    "extrait": "… Dans le cadre de votre transmission d'entreprise, n'hésitez pas à nous contacter: NGPEXPERTISE, Alexis NANQUETTE, Expert en gestion de …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.ngp-expertise.com/fr/conseil-patrimonial/transmission-d-entreprise",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "BOURDAT FINANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838469112"
+ },
+ "siren": "838469112",
+ "denomination": "BOURDAT FINANCE",
+ "nom_complet": "BOURDAT FINANCE (BOURDAT FINANCE - ADVITEO)",
+ "sigle": null,
+ "enseigne": "BOURDAT FINANCE - ADVITEO",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-01-29",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/838469112",
+ "maj_rne": "2026-10-26T12:37:36",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE FRANCOIS GEORGES",
+   "nom": "BOURDAT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/838469112",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://bourdatfinance.com/",
+ "site_source": "https://bourdatfinance.com/mentions-legales-et-politique-de-confidentialite/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://bourdatfinance.com/reprendre-entreprise-a-lyon/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… vous donner une idée plus précise de la valeur de l’entreprise convoitée, vous pouvez réaliser en amont un audit d’acquisition accompagné d’un audit comptable. Grâce à ces deux études, vous pourrez mieux appréhender les avantages et …",
+    "label": "site officiel du cabinet",
+    "url": "https://bourdatfinance.com/reprendre-entreprise-a-lyon/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

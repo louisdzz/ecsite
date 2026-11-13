@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "COREXX GROUPE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951742857"
+ },
+ "siren": "951742857",
+ "denomination": "COREXX GROUPE",
+ "nom_complet": "COREXX GROUPE (COREXX)",
+ "sigle": null,
+ "enseigne": "COREXX",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-04-13",
+ "ville": "AVIGNON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/951742857",
+ "maj_rne": "2026-09-27T10:17:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SÉBASTIEN",
+   "nom": "JONQUIERE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/951742857",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://corexx.fr/",
+ "site_source": "https://corexx.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'Entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://corexx.fr/cedants/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'Entreprise »).",
+    "extrait": "… Nos Services pour la Cession d'Entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://corexx.fr/cedants/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

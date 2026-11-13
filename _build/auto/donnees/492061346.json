@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "CABINET MEYNIER",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492061346"
+ },
+ "siren": "492061346",
+ "denomination": "CABINET MEYNIER",
+ "nom_complet": "CABINET MEYNIER",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2006-09-25",
+ "ville": "ESPALY-SAINT-MARCEL",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492061346",
+ "maj_rne": "2026-10-05T13:17:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-ALEXANDRE",
+   "nom": "MEYNIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492061346",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.cabinet-meynier.fr/",
+ "site_source": "https://www.cabinet-meynier.fr/mentions-legales-confidentialite-cookies/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.cabinet-meynier.fr/nos-offres/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Nous vous conseillons et vous accompagnons dans tous les aspects de la transmission d’entreprise. Nous vous proposons également notre aide pour modifier vos statuts en cas de donation ou d’indivision. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.cabinet-meynier.fr/nos-offres/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

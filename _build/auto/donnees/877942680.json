@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "HASTERA FINANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877942680"
+ },
+ "siren": "877942680",
+ "denomination": "HASTERA FINANCE",
+ "nom_complet": "HASTERA FINANCE (KORYPHE FINANCE)",
+ "sigle": null,
+ "enseigne": "KORYPHE FINANCE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-10-06",
+ "ville": "MAGNY-EN-VEXIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/877942680",
+ "maj_rne": "2026-09-26T03:20:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE ALEXANDRE VALENTIN",
+   "nom": "AZRIA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/877942680",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.koryphefinance.com/",
+ "site_source": "https://www.koryphefinance.com/mentions_legales/mentions_legales.html",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « processus de cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.koryphefinance.com/expertises/fa/fa.html"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « processus de cession »).",
+    "extrait": "… nous prenons en charge l’ensemble du processus de cession ou d’acquisition, ou intervenons lors de certaines phases de celui-ci, en autonomie ou en collaboration avec les conseils que vous aurez désignés. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.koryphefinance.com/expertises/fa/fa.html",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

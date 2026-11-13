@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "EXPERIAL AUDITORS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/914084975"
+ },
+ "siren": "914084975",
+ "denomination": "EXPERIAL AUDITORS",
+ "nom_complet": "EXPERIAL AUDITORS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-05-12",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/914084975",
+ "maj_rne": "2026-09-26T20:45:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SERGE ROLAND EMILE",
+   "nom": "BOTTOLI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/914084975",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://experialauditors.fr/",
+ "site_source": "https://experialauditors.fr/mentions-legales-mise-en-conformite/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « due diligence »).",
+  "label": "site officiel du cabinet",
+  "url": "https://experialauditors.fr/evaluation-et-due-diligence-financiere/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « due diligence »).",
+    "extrait": "… La due diligence financière examine la substance des comptes et des engagements de la cible. Elle ne dit pas ce que vaut …",
+    "label": "site officiel du cabinet",
+    "url": "https://experialauditors.fr/evaluation-et-due-diligence-financiere/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

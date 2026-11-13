@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ALPHA LEONIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/895268878"
+ },
+ "siren": "895268878",
+ "denomination": "ALPHA LEONIS",
+ "nom_complet": "ALPHA LEONIS (ALPHA LEONIS)",
+ "sigle": null,
+ "enseigne": "ALPHA LEONIS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-03-01",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/895268878",
+ "maj_rne": "2026-09-26T11:42:45",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "THOMAS",
+   "nom": "BELLEMIN-NOEL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/895268878",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://alphaleonis.fr/",
+ "site_source": "https://alphaleonis.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://alphaleonis.fr/audit-acquisition-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… Peu importe le type d’entreprise, nous effectuons pour vous l’audit d’acquisition de votre future nouvelle société et vous fournissons conseil de tout type (conseil juridique, conseil en …",
+    "label": "site officiel du cabinet",
+    "url": "https://alphaleonis.fr/audit-acquisition-entreprise/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

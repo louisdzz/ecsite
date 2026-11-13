@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MONTABEN EXPERTISE & CONSEIL",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/108639543"
+ },
+ "siren": "108639543",
+ "denomination": "MONTABEN EXPERTISE & CONSEIL",
+ "nom_complet": "MONTABEN EXPERTISE & CONSEIL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-07-20",
+ "ville": "COURBEVOIE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/108639543",
+ "maj_rne": "2026-09-28T12:58:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ABDENASSEIR",
+   "nom": "BENNACER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/108639543",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://montaben-expertise-conseil.com/",
+ "site_source": "https://montaben-expertise-conseil.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder »).",
+  "label": "site officiel du cabinet",
+  "url": "https://montaben-expertise-conseil.com/transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder »).",
+    "extrait": "… Céder son entreprise Je prépare le dossier avant qu'il soit présenté : retraitement des comptes, identification de ce qui relève du dirigeant et de ce qui relève de l'entreprise, mise en évidence de la rentabilité réelle. …",
+    "label": "site officiel du cabinet",
+    "url": "https://montaben-expertise-conseil.com/transmission",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

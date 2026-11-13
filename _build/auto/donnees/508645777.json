@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "D2C CONSULTANTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508645777"
+ },
+ "siren": "508645777",
+ "denomination": "D2C CONSULTANTS",
+ "nom_complet": "D2C CONSULTANTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-10-16",
+ "ville": "CHAMPAGNE-AU-MONT-D'OR",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508645777",
+ "maj_rne": "2026-09-27T06:35:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE LAURENT",
+   "nom": "DUMAS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/508645777",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://d2cconsultants.com/",
+ "site_source": "https://d2cconsultants.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://d2cconsultants.com/prestations"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… recherches et analyses, audits, négociations..., autant de paramètres à maitriser pour réussir une transmission d'entreprise ou une reprise d'entreprise. D2C CONSULTANTS vous accompagne dans les nombreuses étapes d'une transmission …",
+    "label": "site officiel du cabinet",
+    "url": "https://d2cconsultants.com/prestations",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

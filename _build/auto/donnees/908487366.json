@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AUDUN PARTNERS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908487366"
+ },
+ "siren": "908487366",
+ "denomination": "AUDUN PARTNERS",
+ "nom_complet": "AUDUN PARTNERS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2021-11-13",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908487366",
+ "maj_rne": "2026-09-26T17:25:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIEN",
+   "nom": "YOUNES",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/908487366",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://audun-partners.fr/",
+ "site_source": "https://audun-partners.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://audun-partners.fr/expertises/fusion-acquisition/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de cession »).",
+    "extrait": "… AUDUN Partners accompagne les dirigeants et actionnaires dans la préparation et l’exécution de leur projet de cession ou d’adossement, en assurant une gestion complète et sécurisée du processus. …",
+    "label": "site officiel du cabinet",
+    "url": "https://audun-partners.fr/expertises/fusion-acquisition/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

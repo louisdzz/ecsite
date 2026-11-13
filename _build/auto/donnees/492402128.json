@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "B.F. AUDIT PARTENAIRES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492402128"
+ },
+ "siren": "492402128",
+ "denomination": "B.F. AUDIT PARTENAIRES",
+ "nom_complet": "B.F. AUDIT PARTENAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-10-13",
+ "ville": "CALUIRE-ET-CUIRE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492402128",
+ "maj_rne": "2026-09-24T00:02:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE GEORGES",
+   "nom": "FILLIAT",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LOUIS-NOEL",
+   "nom": "LORANDON",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492402128",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://bfauditpartenaires.com/",
+ "site_source": "https://bfauditpartenaires.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cessions d'entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://bfauditpartenaires.com/expertise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cessions d'entreprises »).",
+    "extrait": "… apportons notre expertise lors d’opérations telles que les acquisitions, les prises de participation ou les cessions d’entreprises. …",
+    "label": "site officiel du cabinet",
+    "url": "https://bfauditpartenaires.com/expertise/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ELYXCO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814062436"
+ },
+ "siren": "814062436",
+ "denomination": "ELYXCO",
+ "nom_complet": "ELYXCO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2015-10-16",
+ "ville": "TASSIN-LA-DEMI-LUNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814062436",
+ "maj_rne": "2026-09-25T07:00:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANNE-CECILE MARIE",
+   "nom": "TERLE (BERNY)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/814062436",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://elyxco.fr/",
+ "site_source": "https://elyxco.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://elyxco.fr/expertises-conseils/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… Audit d’acquisition …",
+    "label": "site officiel du cabinet",
+    "url": "https://elyxco.fr/expertises-conseils/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

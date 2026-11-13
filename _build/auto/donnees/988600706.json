@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ADAPTIO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988600706"
+ },
+ "siren": "988600706",
+ "denomination": "ADAPTIO",
+ "nom_complet": "ADAPTIO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-06-30",
+ "ville": "LE PETIT-QUEVILLY",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/988600706",
+ "maj_rne": "2026-09-28T03:26:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS PATRICK",
+   "nom": "DUBOC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/988600706",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://adaptio.fr/",
+ "site_source": "https://adaptio.fr/index.php/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'une entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://adaptio.fr/index.php/nos-services/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'une entreprise »).",
+    "extrait": "… accompagnons pour organiser, sécuriser et mettre en valeur votre dossier. S’intéresser à la reprise ou la cession d’une entreprise suppose d’en maîtriser la valeur et de sécuriser la passation à venir. Cela demande méthode, anticipation et …",
+    "label": "site officiel du cabinet",
+    "url": "https://adaptio.fr/index.php/nos-services/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

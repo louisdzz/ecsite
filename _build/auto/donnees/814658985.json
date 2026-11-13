@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "COMPTARTOIS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814658985"
+ },
+ "siren": "814658985",
+ "denomination": "COMPTARTOIS",
+ "nom_complet": "COMPTARTOIS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2016-01-04",
+ "ville": "ACHICOURT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/814658985",
+ "maj_rne": "2026-09-25T07:24:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "DURIEZ",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/814658985",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://comptartois.fr/",
+ "site_source": "https://comptartois.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://comptartois.fr/nos-services/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « céder votre entreprise »).",
+    "extrait": "… Lorsque vient le moment de céder votre entreprise, nous vous aidons à en optimiser la valeur. …",
+    "label": "site officiel du cabinet",
+    "url": "https://comptartois.fr/nos-services/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

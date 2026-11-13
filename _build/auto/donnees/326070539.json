@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "LC EXPERTISE & AUDIT - SOCIETE D'EXPERTISE COMPTABLE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326070539"
+ },
+ "siren": "326070539",
+ "denomination": "LC EXPERTISE & AUDIT - SOCIETE D'EXPERTISE COMPTABLE",
+ "nom_complet": "LC EXPERTISE & AUDIT - SOCIETE D'EXPERTISE COMPTABLE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1982-07-01",
+ "ville": "BAYONNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326070539",
+ "maj_rne": "2026-09-22T13:18:40",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURE",
+   "nom": "CHASSAGNE (CHASSAGNE)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/326070539",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.lcexpertise.com/",
+ "site_source": "https://www.lcexpertise.com/mentions-legales-expert-comptable-a-bayonne-64100-pyrenees-atlantiques-aquitaine/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre affaire »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.lcexpertise.com/transmission-dentreprise-expert-comptable-a-bayonne-64100-pyrenees-atlantiques-aquitaine/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre affaire »).",
+    "extrait": "… Nous pouvons vous aider à organiser la transmission de votre affaire et établir la valeur de votre entreprise. Nous serons alors près de vous pour présenter votre dossier, …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.lcexpertise.com/transmission-dentreprise-expert-comptable-a-bayonne-64100-pyrenees-atlantiques-aquitaine/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

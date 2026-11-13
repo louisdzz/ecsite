@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MANAGEMENT COMPTA GESTION INFORMATIQUE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378163091"
+ },
+ "siren": "378163091",
+ "denomination": "MANAGEMENT COMPTA GESTION INFORMATIQUE",
+ "nom_complet": "MANAGEMENT COMPTA GESTION INFORMATIQUE (MCGI)",
+ "sigle": "MCGI",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1990-04-02",
+ "ville": "BESANCON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/378163091",
+ "maj_rne": "2026-09-22T18:29:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SYLVIE",
+   "nom": "LETELLIER (MARECHAL)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/378163091",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.mcgi.fr/",
+ "site_source": "https://www.mcgi.fr/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « vente d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.mcgi.fr/nos-missions/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « vente d'entreprise »).",
+    "extrait": "… Nous vous assistons également dans le cadre des négociations d’acquisition ou de vente d’entreprise afin de conserver notre politique de satisfaction optimale du client. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.mcgi.fr/nos-missions/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

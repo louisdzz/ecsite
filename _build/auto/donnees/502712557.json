@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ALEXMA AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502712557"
+ },
+ "siren": "502712557",
+ "denomination": "ALEXMA AUDIT",
+ "nom_complet": "ALEXMA AUDIT (AA)",
+ "sigle": "AA",
+ "enseigne": "AA",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2007-12-20",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/502712557",
+ "maj_rne": "2026-09-29T19:05:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPE CHRISTIAN",
+   "nom": "COHEN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/502712557",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://alexma-audit.com/",
+ "site_source": "https://alexma-audit.com/mentions-legales.html",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://alexma-audit.com/evaluation-transmission.html"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Évaluation et transmission d’entreprise | Alexma Audit …",
+    "label": "site officiel du cabinet",
+    "url": "https://alexma-audit.com/evaluation-transmission.html",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

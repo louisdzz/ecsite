@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "120 POUR CENT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884608548"
+ },
+ "siren": "884608548",
+ "denomination": "120 POUR CENT",
+ "nom_complet": "120 POUR CENT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2020-06-23",
+ "ville": "RENNES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/884608548",
+ "maj_rne": "2026-09-26T07:16:26",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "120 POUR CENT INVEST",
+   "siren": "852193341",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pm",
+   "denomination": "ALMAS INVEST",
+   "siren": "884198698",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/884608548",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://120-pour-cent.fr/",
+ "site_source": "https://120-pour-cent.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmettre votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://120-pour-cent.fr/prestations/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmettre votre entreprise »).",
+    "extrait": "… • Transmettre votre entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://120-pour-cent.fr/prestations/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

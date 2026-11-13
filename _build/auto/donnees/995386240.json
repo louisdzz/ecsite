@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "OWLIA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995386240"
+ },
+ "siren": "995386240",
+ "denomination": "OWLIA",
+ "nom_complet": "OWLIA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2026-01-01",
+ "ville": "DIJON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/995386240",
+ "maj_rne": "2026-09-28T06:56:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LAURIE",
+   "nom": "MIALHE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURE-ANNE",
+   "nom": "RAPIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/995386240",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://owlia-ec.fr/",
+ "site_source": "https://owlia-ec.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmissions d'entreprises »).",
+  "label": "site officiel du cabinet",
+  "url": "https://owlia-ec.fr/votre-metier/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmissions d'entreprises »).",
+    "extrait": "… Pour les transmissions d’entreprises familiales, le Pacte Dutreil est un dispositif majeur mais exigeant. Nous vous aidons à : …",
+    "label": "site officiel du cabinet",
+    "url": "https://owlia-ec.fr/votre-metier/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "nom_usuel": "NECC",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/397585621"
+ },
+ "siren": "397585621",
+ "denomination": "NECC",
+ "nom_complet": "NECC (NECC)",
+ "sigle": "NECC",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1994-07-04",
+ "ville": "MARCQ-EN-BARŒUL",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/397585621",
+ "maj_rne": "2026-09-28T18:38:09",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOUIS",
+   "nom": "DELPOUVE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "HENRY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARTIN",
+   "nom": "HENRY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/397585621",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://groupe-necc.com/",
+ "site_source": "https://groupe-necc.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://groupe-necc.com/conseil-juridique-fiscal/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Accompagnement à acquisition ou cession d’entreprise (Lettre d’intention, protocole d’accord, audit juridique) …",
+    "label": "site officiel du cabinet",
+    "url": "https://groupe-necc.com/conseil-juridique-fiscal/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

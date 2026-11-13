@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AGEC FINANCES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508911500"
+ },
+ "siren": "508911500",
+ "denomination": "AGEC FINANCES",
+ "nom_complet": "AGEC FINANCES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2008-10-15",
+ "ville": "LE PRE-SAINT-GERVAIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/508911500",
+ "maj_rne": "2026-09-24T05:21:00",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "BRACH FINANCES",
+   "siren": "918217779",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/508911500",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.agecfinances.com/",
+ "site_source": "https://www.agecfinances.com",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.agecfinances.com"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisition »).",
+    "extrait": "… une ou ouvrir votre capital, nous vous accompagnons de l'évaluation jusqu'à la signature. Nous réalisons les audits d'acquisition, modélisons les montages et optimisons la fiscalité de l'opération. Le cabinet a mené de nombreuses …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.agecfinances.com",
+    "date": "2026-11-13",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

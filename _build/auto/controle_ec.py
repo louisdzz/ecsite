@@ -12,7 +12,8 @@ def fetch(u, n=4, ua="Mozilla/5.0 (compatible; AnnuaireControle/1.0)"):
     for k in range(n):
         try:
             with urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": ua, "Accept-Language": "fr"}), timeout=25, context=CTX) as r:
-                return r.read(6000000).decode("utf-8", "ignore")
+                # jeu de caractères déclaré par le serveur (plusieurs sites de cabinets répondent en ISO-8859-1)
+                return r.read(6000000).decode(r.headers.get_content_charset() or "utf-8", "ignore")
         except Exception as e:
             time.sleep(10 * (k + 1) if "429" in str(e) else 2)
     return None

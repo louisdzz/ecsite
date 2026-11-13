@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "CONSAUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492680608"
+ },
+ "siren": "492680608",
+ "denomination": "CONSAUDIT",
+ "nom_complet": "CONSAUDIT (CONSAUDIT)",
+ "sigle": null,
+ "enseigne": "CONSAUDIT",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-10-10",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/492680608",
+ "maj_rne": "2026-09-24T00:07:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EDMOND DANIEL",
+   "nom": "HABABOU-SALA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/492680608",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.consaudit.fr/",
+ "site_source": "https://www.consaudit.fr/mentions_legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.consaudit.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisition »).",
+    "extrait": "… dans l'optimisation des couts de l'entreprise et du revenu du dirigeant. Nous proposons également des audits d'acquisition pour accompagner de façon optimale le rachat ou la cession d'entreprise. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.consaudit.fr",
+    "date": "2026-11-13",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

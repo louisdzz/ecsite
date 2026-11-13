@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "NEOMI",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822884912"
+ },
+ "siren": "822884912",
+ "denomination": "NEOMI",
+ "nom_complet": "NEOMI",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2016-09-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/822884912",
+ "maj_rne": "2026-09-25T11:45:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "KESARHOUSSEN MOHAMED",
+   "nom": "NAZAMOUDINE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/822884912",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.neomi.fr/",
+ "site_source": "https://www.neomi.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.neomi.fr/services/cessation-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission »).",
+    "extrait": "… Diagnostic pré-transmission (valorisation, audit) 2 Stratégie de transmission (familiale, externe, management) 3 Optimisation fiscale de la cession 4 Négociation & accompagnement juridique 5 Plan de reconversion du dirigeant 6 Gestion …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.neomi.fr/services/cessation-transmission",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

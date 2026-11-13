@@ -57,6 +57,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "hashtag-finance",
+   "nom": "HASHTAG FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "100017748",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hashtag-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "auxesia",
    "nom": "AUXESIA",
    "categorie": "cgp",
@@ -1667,6 +1681,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "ofis-conseils",
+   "nom": "OFIS CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "102620333",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ofis-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "voltaire-independance",
    "nom": "VOLTAIRE INDEPENDANCE",
    "categorie": "cgp",
@@ -2577,6 +2605,34 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "emet-expertise",
+   "nom": "EMET EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "104307871",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/emet-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "db-finance",
+   "nom": "DB FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "104317532",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/db-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "financiere-de-la-londe",
    "nom": "FINANCIERE DE LA LONDE",
    "categorie": "cgp",
@@ -2925,6 +2981,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "jomega-expertise",
+   "nom": "JOMEGA EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "105036875",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jomega-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "aurivion-capital-patrimoine",
@@ -3331,6 +3401,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "advy-partners",
+   "nom": "ADVY PARTNERS",
+   "categorie": "experts-comptables",
+   "siren": "105935142",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/advy-partners.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "acacias-investissement-conseil-patrimonial",
@@ -4453,6 +4537,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "db-partners",
+   "nom": "DB PARTNERS",
+   "categorie": "experts-comptables",
+   "siren": "108380155",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/db-partners.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "sababa-patrimoine",
    "nom": "SABABA PATRIMOINE",
    "categorie": "cgp",
@@ -4605,6 +4703,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "montaben-expertise-conseil",
+   "nom": "MONTABEN EXPERTISE & CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "108639543",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/montaben-expertise-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "manoria",
@@ -4901,6 +5013,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "pme-consultance",
+   "nom": "PME CONSULTANCE",
+   "categorie": "experts-comptables",
+   "siren": "109579763",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pme-consultance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "monarc-patrimoine",
    "nom": "MONARC PATRIMOINE",
    "categorie": "cgp",
@@ -4941,6 +5067,48 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "valeccio",
+   "nom": "VALECCIO",
+   "categorie": "experts-comptables",
+   "siren": "131149833",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/valeccio.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "wekonekt",
+   "nom": "WEKONEKT",
+   "categorie": "experts-comptables",
+   "siren": "131433898",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/wekonekt.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "gaia-fiduciaire",
+   "nom": "GAIA FIDUCIAIRE",
+   "categorie": "experts-comptables",
+   "siren": "131975203",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/gaia-fiduciaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "bnp-paribas-real-estate-investment-management-france",
@@ -5321,6 +5489,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "groupe-cac",
+   "nom": "GROUPE CAC",
+   "categorie": "experts-comptables",
+   "siren": "318517976",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/groupe-cac.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "uzes-gestion",
    "nom": "UZES GESTION",
    "categorie": "sgp",
@@ -5375,6 +5557,20 @@
    "amf": "GP97020",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "groupe-sogeca",
+   "nom": "GROUPE SOGECA",
+   "categorie": "experts-comptables",
+   "siren": "321877144",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/groupe-sogeca.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "seeds-invest",
@@ -5503,6 +5699,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "lc-expertise-audit-societe-d-expertise-comptable",
+   "nom": "LC EXPERTISE & AUDIT - SOCIETE D'EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "326070539",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lc-expertise-audit-societe-d-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "apsis-audit",
    "nom": "APSIS AUDIT",
    "categorie": "experts-comptables",
@@ -5571,6 +5781,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "bricard-lacroix-associes",
+   "nom": "BRICARD - LACROIX & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "327503033",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bricard-lacroix-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ml-a",
@@ -5879,6 +6103,20 @@
    "amf": "GP90023",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "fideco-ouest",
+   "nom": "FIDECO OUEST",
+   "categorie": "experts-comptables",
+   "siren": "333905958",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fideco-ouest.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "arg-conseil-eric-desbuquois-david-biotteau",
@@ -6301,6 +6539,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cogefar",
+   "nom": "COGEFAR",
+   "categorie": "experts-comptables",
+   "siren": "343821716",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cogefar.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "mca-finance",
    "nom": "MCA FINANCE",
    "categorie": "sgp",
@@ -6327,6 +6579,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "interexco",
+   "nom": "INTEREXCO",
+   "categorie": "experts-comptables",
+   "siren": "344360466",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/interexco.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "bismuth-consultant",
@@ -6845,6 +7111,20 @@
    "amf": "GP98053",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "management-compta-gestion-informatique",
+   "nom": "MANAGEMENT COMPTA GESTION INFORMATIQUE",
+   "categorie": "experts-comptables",
+   "siren": "378163091",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/management-compta-gestion-informatique.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "dcga",
@@ -7449,6 +7729,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "sfw-consultants",
+   "nom": "SFW CONSULTANTS",
+   "categorie": "experts-comptables",
+   "siren": "383839719",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sfw-consultants.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "afex-expertise-comptable",
    "nom": "AFEX EXPERTISE COMPTABLE",
    "categorie": "experts-comptables",
@@ -7771,6 +8065,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "e-e-c-michel-chriqui",
+   "nom": "E.E.C. - MICHEL CHRIQUI",
+   "categorie": "experts-comptables",
+   "siren": "390323707",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/e-e-c-michel-chriqui.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cfcaexpert",
    "nom": "CFCAEXPERT",
    "categorie": "experts-comptables",
@@ -7811,6 +8119,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "fidarex",
+   "nom": "FIDAREX",
+   "categorie": "experts-comptables",
+   "siren": "391093879",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fidarex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "bessan-assurances-courtage",
@@ -7855,6 +8177,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "agefec-sarl-audit-gestion-etudes-financieres-expertise-comptable",
+   "nom": "AGEFEC SARL AUDIT-GESTION-ETUDES-FINANCIERES-EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "391384385",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/agefec-sarl-audit-gestion-etudes-financieres-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "dorval-asset-management",
    "nom": "DORVAL ASSET MANAGEMENT",
    "categorie": "sgp",
@@ -7881,6 +8217,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "nsk-audit",
+   "nom": "NSK AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "391857760",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nsk-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "charpenel-patrimoine-conseils",
@@ -7951,6 +8301,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "m-a-expertise",
+   "nom": "M.A EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "392740031",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/m-a-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ca-indosuez-gestion",
@@ -8147,6 +8511,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "necc",
+   "nom": "NECC",
+   "categorie": "experts-comptables",
+   "siren": "397585621",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/necc.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "delehaye-audit-conseil",
@@ -8471,6 +8849,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cabinet-gestion-expertise-d-aquitaine",
+   "nom": "CABINET GESTION EXPERTISE D'AQUITAINE",
+   "categorie": "experts-comptables",
+   "siren": "400472106",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-gestion-expertise-d-aquitaine.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "audrec",
    "nom": "AUDREC",
    "categorie": "experts-comptables",
@@ -8721,6 +9113,20 @@
    "amf": "GP97069",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "rabetllat-associes",
+   "nom": "RABETLLAT ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "404328809",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rabetllat-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "avenir-finances-conseils",
@@ -9129,6 +9535,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "agescor-audit-gestion-expertise-strategie-conseil-organisation",
+   "nom": "AGESCOR (AUDIT GESTION EXPERTISE STRATEGIE CONSEIL ORGANISATION)",
+   "categorie": "experts-comptables",
+   "siren": "412969933",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/agescor-audit-gestion-expertise-strategie-conseil-organisation.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "oc-finances",
    "nom": "OC-FINANCES",
    "categorie": "cgp",
@@ -9393,6 +9813,20 @@
    "amf": "GP-15000004",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "alorex",
+   "nom": "ALOREX",
+   "categorie": "experts-comptables",
+   "siren": "414977397",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alorex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "b-corp-international",
@@ -10613,6 +11047,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cabinet-catherine-berton",
+   "nom": "CABINET CATHERINE BERTON",
+   "categorie": "experts-comptables",
+   "siren": "428983142",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-catherine-berton.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "bersay",
    "nom": "BERSAY",
    "categorie": "avocats",
@@ -10667,6 +11115,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "gorski-et-associes",
+   "nom": "GORSKI ET ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "429403157",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/gorski-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ciclad-gestion",
@@ -10779,6 +11241,20 @@
    "amf": "GP00017",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aw-audit",
+   "nom": "AW AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "430129379",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aw-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "iq-eq-management",
@@ -10975,6 +11451,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "groupe-mg",
+   "nom": "GROUPE MG",
+   "categorie": "experts-comptables",
+   "siren": "432285831",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/groupe-mg.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "defia-courtage",
@@ -11299,6 +11789,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ngp-expertise",
+   "nom": "NGP EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "434357968",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ngp-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "hermes-conseil",
    "nom": "HERMES CONSEIL",
    "categorie": "cgp",
@@ -11339,6 +11843,20 @@
    "amf": "GP01015",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "qualians",
+   "nom": "QUALIANS",
+   "categorie": "experts-comptables",
+   "siren": "434700746",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/qualians.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "compagnie-financiere-javault",
@@ -11843,6 +12361,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "pytheas-conseil",
+   "nom": "PYTHEAS CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "439997859",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pytheas-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "tpa-financiere-de-patrimoine",
@@ -12587,6 +13119,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cofin-audit",
+   "nom": "COFIN'AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "444010672",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cofin-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "xenyt",
    "nom": "XENYT",
    "categorie": "cgp",
@@ -12753,6 +13299,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "adalta",
+   "nom": "ADALTA",
+   "categorie": "experts-comptables",
+   "siren": "445151889",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adalta.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "amiral-gestion",
@@ -12977,6 +13537,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "sequoia-expertise",
+   "nom": "SEQUOIA EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "447996356",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sequoia-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lozang",
@@ -13819,6 +14393,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "krebs-et-associes",
+   "nom": "KREBS ET ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "451509632",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/krebs-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lvm-invest",
    "nom": "LVM INVEST",
    "categorie": "cgp",
@@ -14237,6 +14825,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "reactise",
+   "nom": "REACTISE",
+   "categorie": "experts-comptables",
+   "siren": "452965940",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/reactise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cheysson-marchadier-associes",
@@ -16465,6 +17067,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cabinet-sanner",
+   "nom": "CABINET SANNER",
+   "categorie": "experts-comptables",
+   "siren": "483060786",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-sanner.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "elysean-patrimoine",
    "nom": "ELYSEAN PATRIMOINE",
    "categorie": "cgp",
@@ -16813,6 +17429,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "axcio",
+   "nom": "AXCIO",
+   "categorie": "experts-comptables",
+   "siren": "484940580",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/axcio.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "objectif-finance-conseil",
@@ -17179,6 +17809,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cabinet-millan",
+   "nom": "CABINET MILLAN",
+   "categorie": "experts-comptables",
+   "siren": "488046590",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-millan.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "institut-du-patrimoine-ip",
    "nom": "INSTITUT DU PATRIMOINE (IP)",
    "categorie": "cgp",
@@ -17527,6 +18171,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "sodevex",
+   "nom": "SODEVEX",
+   "categorie": "experts-comptables",
+   "siren": "489349415",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sodevex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ipso-conseil",
@@ -18215,6 +18873,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cabinet-meynier",
+   "nom": "CABINET MEYNIER",
+   "categorie": "experts-comptables",
+   "siren": "492061346",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-meynier.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cabinet-hulme",
    "nom": "CABINET HULME",
    "categorie": "cgp",
@@ -18227,6 +18899,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "onca",
+   "nom": "ONCA",
+   "categorie": "experts-comptables",
+   "siren": "492240916",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/onca.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "upside-finance",
@@ -18269,6 +18955,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "b-f-audit-partenaires",
+   "nom": "B.F. AUDIT PARTENAIRES",
+   "categorie": "experts-comptables",
+   "siren": "492402128",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/b-f-audit-partenaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "abcis-patrimoine",
@@ -18353,6 +19053,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "consaudit",
+   "nom": "CONSAUDIT",
+   "categorie": "experts-comptables",
+   "siren": "492680608",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/consaudit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "dolfine",
@@ -19251,6 +19965,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "financial-expert",
+   "nom": "FINANCIAL EXPERT",
+   "categorie": "experts-comptables",
+   "siren": "495354763",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/financial-expert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "links-capital-management",
    "nom": "LINKS CAPITAL MANAGEMENT",
    "categorie": "cgp",
@@ -19699,6 +20427,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "teamalliance",
+   "nom": "TEAMALLIANCE",
+   "categorie": "experts-comptables",
+   "siren": "499148872",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/teamalliance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "diagnostic-et-solutions-patrimoine",
    "nom": "DIAGNOSTIC ET SOLUTIONS PATRIMOINE",
    "categorie": "cgp",
@@ -19921,6 +20663,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "hr-associes",
+   "nom": "HR & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "499933471",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hr-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cap-projets-courtage",
@@ -20679,6 +21435,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "azur-comptabilite",
+   "nom": "AZUR COMPTABILITE",
+   "categorie": "experts-comptables",
+   "siren": "502078835",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/azur-comptabilite.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "sytex-finance",
    "nom": "SYTEX FINANCE",
    "categorie": "cgp",
@@ -20959,6 +21729,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "alexma-audit",
+   "nom": "ALEXMA AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "502712557",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alexma-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "tilde-associes",
    "nom": "TILDE & ASSOCIES",
    "categorie": "cgp",
@@ -21141,6 +21925,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "annexis",
+   "nom": "ANNEXIS",
+   "categorie": "experts-comptables",
+   "siren": "503309338",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/annexis.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cabinet-audit-conseil-patrick-joudon",
    "nom": "CABINET AUDIT CONSEIL PATRICK JOUDON",
    "categorie": "cgp",
@@ -21223,6 +22021,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "cap-experts-consultants",
+   "nom": "CAP'EXPERTS CONSULTANTS",
+   "categorie": "experts-comptables",
+   "siren": "503646119",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cap-experts-consultants.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lga-strategie-patrimoine",
@@ -21447,6 +22259,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "bilans-et-projets",
+   "nom": "BILANS ET PROJETS",
+   "categorie": "experts-comptables",
+   "siren": "504083189",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bilans-et-projets.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "jpl-conseils",
@@ -21869,6 +22695,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "firex-group",
+   "nom": "FIREX GROUP",
+   "categorie": "experts-comptables",
+   "siren": "507771335",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/firex-group.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "arvor-patrimoine",
    "nom": "ARVOR PATRIMOINE",
    "categorie": "cgp",
@@ -22065,6 +22905,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "d2c-consultants",
+   "nom": "D2C CONSULTANTS",
+   "categorie": "experts-comptables",
+   "siren": "508645777",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/d2c-consultants.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "amarchal-associes",
    "nom": "AMARCHAL & ASSOCIES",
    "categorie": "cgp",
@@ -22091,6 +22945,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "agec-finances",
+   "nom": "AGEC FINANCES",
+   "categorie": "experts-comptables",
+   "siren": "508911500",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/agec-finances.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mcf-finance",
@@ -22142,6 +23010,20 @@
    "apercu": false,
    "remplace": false,
    "chemin": "f/lighthouse-lhlf.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "exentys-associes",
+   "nom": "EXENTYS & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "509106977",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/exentys-associes.html",
    "crm": null,
    "orias": null,
    "amf": null,
@@ -22933,6 +23815,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "tourville-finances",
+   "nom": "TOURVILLE FINANCES",
+   "categorie": "experts-comptables",
+   "siren": "511469264",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/tourville-finances.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "vs-investissements",
    "nom": "VS INVESTISSEMENTS",
    "categorie": "cgp",
@@ -23591,6 +24487,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "enki-partner",
+   "nom": "ENKI PARTNER",
+   "categorie": "experts-comptables",
+   "siren": "514737626",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/enki-partner.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "siliance-conseil",
    "nom": "SILIANCE CONSEIL",
    "categorie": "cgp",
@@ -23969,6 +24879,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "auditial",
+   "nom": "AUDITIAL",
+   "categorie": "experts-comptables",
+   "siren": "518499710",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/auditial.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "euryale",
    "nom": "EURYALE",
    "categorie": "sgp",
@@ -24121,6 +25045,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "bexco-conseil",
+   "nom": "BEXCO CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "519132153",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bexco-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "conseil-en-investissement-financier-et-immobilier-cifi",
@@ -26069,6 +27007,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "veolys-conseil",
+   "nom": "VEOLYS CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "527926984",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/veolys-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "citizen-capital-partenaires",
    "nom": "CITIZEN CAPITAL PARTENAIRES",
    "categorie": "sgp",
@@ -26459,6 +27411,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "groupe-sacor",
+   "nom": "GROUPE SACOR",
+   "categorie": "experts-comptables",
+   "siren": "529421042",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/groupe-sacor.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ethic-capital",
@@ -26979,6 +27945,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "millenium-expertise",
+   "nom": "MILLENIUM-EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "531411130",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/millenium-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "a-r-expertise",
    "nom": "A&R EXPERTISE",
    "categorie": "cgp",
@@ -27119,6 +28099,34 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "amc-conseils",
+   "nom": "AMC CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "532003860",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/amc-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "jexcom-audit",
+   "nom": "JEXCOM AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "532027190",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jexcom-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "proxime-conseil",
    "nom": "PROXIME CONSEIL",
    "categorie": "cgp",
@@ -27201,6 +28209,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aurofi",
+   "nom": "AUROFI",
+   "categorie": "experts-comptables",
+   "siren": "532412855",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aurofi.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "coliseo-finance-conseil",
@@ -27791,6 +28813,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "xtremum",
+   "nom": "XTREMUM",
+   "categorie": "experts-comptables",
+   "siren": "533944716",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/xtremum.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "fidere",
    "nom": "FIDERE",
    "categorie": "cgp",
@@ -27943,6 +28979,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "salustro-et-associes",
+   "nom": "SALUSTRO ET ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "534574959",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/salustro-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "svh-conseil",
@@ -28293,6 +29343,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fiduciaire-beloeuvre-et-associes",
+   "nom": "FIDUCIAIRE BELOEUVRE ET ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "537611253",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fiduciaire-beloeuvre-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "apanage-conseil",
@@ -28967,6 +30031,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "mont-blanc-score",
+   "nom": "MONT BLANC SCORE",
+   "categorie": "experts-comptables",
+   "siren": "607220977",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mont-blanc-score.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "fiducial-gerance",
    "nom": "FIDUCIAL GERANCE",
    "categorie": "sgp",
@@ -29119,6 +30197,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "manigest",
+   "nom": "MANIGEST",
+   "categorie": "experts-comptables",
+   "siren": "712042498",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/manigest.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "hsbc-reim-france",
@@ -29317,6 +30409,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "originne",
+   "nom": "ORIGINNE",
+   "categorie": "experts-comptables",
+   "siren": "750501827",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/originne.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "arborescence-patrimoine",
    "nom": "ARBORESCENCE PATRIMOINE",
    "categorie": "cgp",
@@ -29345,6 +30451,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "heress-associes",
+   "nom": "HERESS ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "750759516",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/heress-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cabinet-reytier",
    "nom": "CABINET REYTIER",
    "categorie": "cgp",
@@ -29357,6 +30477,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "optimexpert",
+   "nom": "OPTIMEXPERT",
+   "categorie": "experts-comptables",
+   "siren": "750910309",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/optimexpert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "dx-invest",
@@ -29709,6 +30843,20 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "les-expertes",
+   "nom": "LES EXPERTES",
+   "categorie": "experts-comptables",
+   "siren": "751998741",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/les-expertes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cm-conseil-associes",
    "nom": "CM CONSEIL & ASSOCIES",
    "categorie": "cgp",
@@ -29791,6 +30939,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "soluce-expert-conseil",
+   "nom": "SOLUCE EXPERT CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "752241547",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/soluce-expert-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ocean-capital-partners",
@@ -32033,6 +33195,20 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "kns-associes",
+   "nom": "KNS ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "794508671",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kns-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "claude-moello-patrimoine",
    "nom": "CLAUDE MOELLO PATRIMOINE",
    "categorie": "cgp",
@@ -32299,6 +33475,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "afr-audit",
+   "nom": "AFR AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "797586385",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/afr-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "iberis-patrimoine",
    "nom": "IBERIS PATRIMOINE",
    "categorie": "cgp",
@@ -32325,6 +33515,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "wise-owls",
+   "nom": "WISE OWLS",
+   "categorie": "experts-comptables",
+   "siren": "797747417",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/wise-owls.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "alain-chasle-consultant",
@@ -32495,6 +33699,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "bonnefoy-associes",
+   "nom": "BONNEFOY & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "798286498",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bonnefoy-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "renard-partenaires",
    "nom": "RENARD PARTENAIRES",
    "categorie": "cgp",
@@ -32591,6 +33809,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "hastings-audit",
+   "nom": "HASTINGS AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "798759973",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hastings-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "yuma-audit",
@@ -33181,6 +34413,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "compta-83",
+   "nom": "COMPTA 83",
+   "categorie": "experts-comptables",
+   "siren": "801184771",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/compta-83.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lj-consulting",
    "nom": "LJ CONSULTING",
    "categorie": "cgp",
@@ -33599,6 +34845,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "blg-conseil",
+   "nom": "BLG CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "802589135",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/blg-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "avenir-expertises",
@@ -34133,6 +35393,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "gexsinfo",
+   "nom": "GEXSINFO",
+   "categorie": "experts-comptables",
+   "siren": "804818011",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/gexsinfo.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "audexium-conseils",
    "nom": "AUDEXIUM CONSEILS",
    "categorie": "experts-comptables",
@@ -34243,6 +35517,34 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "saphilsaudit",
+   "nom": "SAPHILSAUDIT",
+   "categorie": "experts-comptables",
+   "siren": "805308483",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/saphilsaudit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "nizo-expert",
+   "nom": "NIZO EXPERT",
+   "categorie": "experts-comptables",
+   "siren": "805395126",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nizo-expert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lwm",
@@ -34973,6 +36275,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "augexia-partner",
+   "nom": "AUGEXIA PARTNER",
+   "categorie": "experts-comptables",
+   "siren": "810475806",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/augexia-partner.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "investment-funds-com",
    "nom": "INVESTMENT-FUNDS.COM",
    "categorie": "cgp",
@@ -34999,6 +36315,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aardt-value",
+   "nom": "AARDT VALUE",
+   "categorie": "experts-comptables",
+   "siren": "810629477",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aardt-value.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "altheo-partners",
@@ -35057,6 +36387,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "sec-vergnaud-associes",
+   "nom": "SEC VERGNAUD & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "810837369",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sec-vergnaud-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "horizon-asset-management",
    "nom": "HORIZON ASSET MANAGEMENT",
    "categorie": "sgp",
@@ -35097,6 +36441,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "cabinet-maillard",
+   "nom": "CABINET MAILLARD",
+   "categorie": "experts-comptables",
+   "siren": "811003813",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-maillard.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "institut-du-patrimoine-rhone-alpes",
@@ -35475,6 +36833,48 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "computantis",
+   "nom": "COMPUTANTIS",
+   "categorie": "experts-comptables",
+   "siren": "812697910",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/computantis.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "panacee-expertise",
+   "nom": "PANACEE EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "812722890",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/panacee-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "extendeo",
+   "nom": "EXTENDEO",
+   "categorie": "experts-comptables",
+   "siren": "812737104",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/extendeo.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lecap-conseil",
@@ -35981,6 +37381,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "elyxco",
+   "nom": "ELYXCO",
+   "categorie": "experts-comptables",
+   "siren": "814062436",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elyxco.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "bmpa",
    "nom": "BMPA",
    "categorie": "cgp",
@@ -36203,6 +37617,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "comptartois",
+   "nom": "COMPTARTOIS",
+   "categorie": "experts-comptables",
+   "siren": "814658985",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comptartois.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "k-wealth-care",
@@ -36483,6 +37911,34 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "quantus-advisory",
+   "nom": "QUANTUS ADVISORY",
+   "categorie": "experts-comptables",
+   "siren": "817586712",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/quantus-advisory.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "cabinet-dauphin-riffont",
+   "nom": "CABINET DAUPHIN-RIFFONT",
+   "categorie": "experts-comptables",
+   "siren": "817612021",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-dauphin-riffont.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "thubert-brisay-gestion",
@@ -37143,6 +38599,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "kmassocies",
+   "nom": "KMASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "819213950",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kmassocies.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "volt-associes",
    "nom": "VOLT ASSOCIES",
    "categorie": "avocats",
@@ -37547,6 +39017,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "eacf-audit",
+   "nom": "EACF AUDIT",
+   "categorie": "experts-comptables",
+   "siren": "821085768",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eacf-audit.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "jm-patrimoine",
@@ -38233,6 +39717,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "neomi",
+   "nom": "NEOMI",
+   "categorie": "experts-comptables",
+   "siren": "822884912",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/neomi.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cabinet-cgp-expertise",
@@ -39005,6 +40503,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "aventy",
+   "nom": "AVENTY",
+   "categorie": "experts-comptables",
+   "siren": "824875363",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aventy.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "villiers-patrimoine",
    "nom": "VILLIERS PATRIMOINE",
    "categorie": "cgp",
@@ -39045,6 +40557,34 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "rodec-conseils",
+   "nom": "RODEC CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "825124373",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rodec-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "sogea-expertise",
+   "nom": "SOGEA EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "825133143",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sogea-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "op3-conseils",
@@ -40853,6 +42393,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "codypso",
+   "nom": "CODYPSO",
+   "categorie": "experts-comptables",
+   "siren": "832256465",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/codypso.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "morell-alart-associes",
    "nom": "MORELL ALART & ASSOCIES",
    "categorie": "avocats",
@@ -40923,6 +42477,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "bs-associes",
+   "nom": "BS ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "832481782",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bs-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "pinon-s-family",
    "nom": "PINON'S FAMILY",
    "categorie": "cgp",
@@ -40977,6 +42545,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "nr-co-expertise",
+   "nom": "NR-CO EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "832738975",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nr-co-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "consilium-family",
@@ -41315,6 +42897,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "2d-consultants",
+   "nom": "2D CONSULTANTS",
+   "categorie": "experts-comptables",
+   "siren": "833307804",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/2d-consultants.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lussalia",
    "nom": "Lussalia",
    "categorie": "cgp",
@@ -41579,6 +43175,48 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "spinex",
+   "nom": "SPINEX",
+   "categorie": "experts-comptables",
+   "siren": "834175648",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/spinex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "cvea-conseil",
+   "nom": "CVEA CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "834194128",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cvea-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "scale-expertise",
+   "nom": "SCALE EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "834240871",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/scale-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "tic-tac",
@@ -42281,6 +43919,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "bourdat-finance",
+   "nom": "BOURDAT FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "838469112",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bourdat-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "la-courtoise-du-patrimoine",
    "nom": "LA COURTOISE DU PATRIMOINE",
    "categorie": "cgp",
@@ -42321,6 +43973,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "cecap-conseils",
+   "nom": "CECAP CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "838668879",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cecap-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cabinet-lucie-dautancourt",
@@ -42477,6 +44143,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "trevys-advisory",
+   "nom": "TREVYS ADVISORY",
+   "categorie": "experts-comptables",
+   "siren": "839267804",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/trevys-advisory.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "fees-up",
    "nom": "FEES UP",
    "categorie": "cgp",
@@ -42503,6 +44183,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aexconseil",
+   "nom": "AEXCONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "839723988",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aexconseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "phi-patrimoine",
@@ -42615,6 +44309,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "expert-temp",
+   "nom": "EXPERT TEMP",
+   "categorie": "experts-comptables",
+   "siren": "840253744",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/expert-temp.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "pepite-urbaine",
@@ -43021,6 +44729,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "sunspear-conseils",
+   "nom": "SUNSPEAR CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "841528706",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sunspear-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "prades-milian-capital",
@@ -44479,6 +46201,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "davidan-partners",
+   "nom": "DAVIDAN PARTNERS",
+   "categorie": "experts-comptables",
+   "siren": "845357722",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/davidan-partners.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "neo-in",
    "nom": "NEO-IN",
    "categorie": "cgp",
@@ -44855,6 +46591,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "emb-expertise-et-conseils",
+   "nom": "EMB EXPERTISE ET CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "848706032",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/emb-expertise-et-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "vdz-conseils",
@@ -45823,6 +47573,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "adco-experts",
+   "nom": "ADCO-EXPERTS",
+   "categorie": "experts-comptables",
+   "siren": "851368605",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adco-experts.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "fortunis-patrimoine",
    "nom": "FORTUNIS PATRIMOINE",
    "categorie": "cgp",
@@ -46173,6 +47937,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "accab",
+   "nom": "ACCAB",
+   "categorie": "experts-comptables",
+   "siren": "852341098",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/accab.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "athanor",
    "nom": "ATHANOR",
    "categorie": "cgp",
@@ -46325,6 +48103,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "colead-finance",
+   "nom": "COLEAD FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "852897784",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/colead-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "la-financiere-d-hauteville",
@@ -46775,6 +48567,34 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "kalkul",
+   "nom": "KALKUL",
+   "categorie": "experts-comptables",
+   "siren": "877557819",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kalkul.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "compta973",
+   "nom": "COMPTA973",
+   "categorie": "experts-comptables",
+   "siren": "877588467",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/compta973.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cabinet-hb-patrimoine",
    "nom": "CABINET HB PATRIMOINE",
    "categorie": "cgp",
@@ -46885,6 +48705,34 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "nsa-expertise",
+   "nom": "NSA EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "877940668",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nsa-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "hastera-finance",
+   "nom": "HASTERA FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "877942680",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hastera-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mm-patrimoine",
@@ -47251,6 +49099,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "emb",
+   "nom": "EMB",
+   "categorie": "experts-comptables",
+   "siren": "878916121",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/emb.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "june-real-estate-investment-management",
    "nom": "JUNE REAL ESTATE INVESTMENT MANAGEMENT",
    "categorie": "sgp",
@@ -47431,6 +49293,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "lsg-finance",
+   "nom": "LSG FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "879200566",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lsg-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "evolute",
@@ -47809,6 +49685,20 @@
    "amf": "GP-21000011",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "be-in-b",
+   "nom": "BE IN B",
+   "categorie": "experts-comptables",
+   "siren": "880051214",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/be-in-b.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "energy-transition-international-capital",
@@ -48931,6 +50821,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cabinet-labasse",
+   "nom": "CABINET LABASSE",
+   "categorie": "experts-comptables",
+   "siren": "883042426",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-labasse.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "nicolas-ducruet-conseil-associes",
    "nom": "NICOLAS DUCRUET CONSEIL & ASSOCIES",
    "categorie": "cgp",
@@ -49505,6 +51409,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "120-pour-cent",
+   "nom": "120 POUR CENT",
+   "categorie": "experts-comptables",
+   "siren": "884608548",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/120-pour-cent.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cohen-associes-conseil",
    "nom": "COHEN & ASSOCIES CONSEIL",
    "categorie": "cgp",
@@ -49657,6 +51575,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "monjarret",
+   "nom": "MONJARRET",
+   "categorie": "experts-comptables",
+   "siren": "885155812",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/monjarret.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "vitalepargne-idm",
@@ -49825,6 +51757,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "juris-ratio-expertise-comptable",
+   "nom": "JURIS RATIO EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "887641140",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/juris-ratio-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "finankap",
@@ -50021,6 +51967,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "telos-conseils",
+   "nom": "TELOS CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "888244175",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/telos-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "kgr-patrimoine",
@@ -51101,6 +53061,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "aerio-conseils",
+   "nom": "AERIO CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "891583106",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aerio-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "rebound-invest",
    "nom": "REBOUND INVEST",
    "categorie": "cgp",
@@ -52109,6 +54083,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "nexco-expertise",
+   "nom": "NEXCO EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "894279652",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nexco-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "hastings-patrimoine",
    "nom": "HASTINGS PATRIMOINE",
    "categorie": "cgp",
@@ -52417,6 +54405,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "alpha-leonis",
+   "nom": "ALPHA LEONIS",
+   "categorie": "experts-comptables",
+   "siren": "895268878",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alpha-leonis.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "rblanc-conseils",
    "nom": "RBLANC CONSEILS",
    "categorie": "cgp",
@@ -52639,6 +54641,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aupa-experts",
+   "nom": "AUPA EXPERTS",
+   "categorie": "experts-comptables",
+   "siren": "897824231",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aupa-experts.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "2-m-patrimonium",
@@ -53047,6 +55063,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "increst",
+   "nom": "INCREST",
+   "categorie": "experts-comptables",
+   "siren": "899477806",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/increst.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "energy-patrimoine",
    "nom": "ENERGY PATRIMOINE",
    "categorie": "cgp",
@@ -53173,6 +55203,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "fiduciaire-arthemis",
+   "nom": "FIDUCIAIRE ARTHEMIS",
+   "categorie": "experts-comptables",
+   "siren": "900128067",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fiduciaire-arthemis.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "adilo-patrimoine",
    "nom": "ADILO PATRIMOINE",
    "categorie": "cgp",
@@ -53297,6 +55341,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "bigorgne-expert-comptable",
+   "nom": "BIGORGNE EXPERT-COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "900609413",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bigorgne-expert-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "la-futaie-patrimoine",
@@ -53885,6 +55943,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fidutio",
+   "nom": "FIDUTIO",
+   "categorie": "experts-comptables",
+   "siren": "902237510",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fidutio.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "briet-invest",
@@ -54755,6 +56827,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "comet-expertise",
+   "nom": "COMET EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "904686532",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comet-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "mnaltiglob-patrimoine",
    "nom": "MNALTIGLOB PATRIMOINE",
    "categorie": "cgp",
@@ -55525,6 +57611,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "audun-partners",
+   "nom": "AUDUN PARTNERS",
+   "categorie": "experts-comptables",
+   "siren": "908487366",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/audun-partners.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "patrim-roanne",
    "nom": "PATRIM'ROANNE",
    "categorie": "cgp",
@@ -55607,6 +57707,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "elko-finance",
+   "nom": "ELKO FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "908741572",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elko-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ds-invest",
@@ -56365,6 +58479,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "sinsei",
+   "nom": "SINSEI",
+   "categorie": "experts-comptables",
+   "siren": "910406586",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sinsei.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "core-patrimoine",
    "nom": "CORE PATRIMOINE",
    "categorie": "cgp",
@@ -56433,6 +58561,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "fiducera",
+   "nom": "FIDUCERA",
+   "categorie": "experts-comptables",
+   "siren": "910505213",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/fiducera.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "fiducia-courtier-conseil",
@@ -56827,6 +58969,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "primus-expertise",
+   "nom": "PRIMUS EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "911806172",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/primus-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "boyer-gestion-privee",
    "nom": "BOYER GESTION PRIVEE",
    "categorie": "cgp",
@@ -56853,6 +59009,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "aris",
+   "nom": "ARIS",
+   "categorie": "experts-comptables",
+   "siren": "911875854",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/aris.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "nyko",
@@ -56895,6 +59065,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "hexagone-advisory",
+   "nom": "HEXAGONE ADVISORY",
+   "categorie": "experts-comptables",
+   "siren": "911943397",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hexagone-advisory.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "merava-partners",
@@ -57583,6 +59767,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "experial-auditors",
+   "nom": "EXPERIAL AUDITORS",
+   "categorie": "experts-comptables",
+   "siren": "914084975",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/experial-auditors.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lvs-finance",
    "nom": "LVS FINANCE",
    "categorie": "cgp",
@@ -57735,6 +59933,20 @@
    "amf": "GP-202218",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "ourways",
+   "nom": "OURWAYS",
+   "categorie": "experts-comptables",
+   "siren": "914436050",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ourways.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "optima-consulting",
@@ -58577,6 +60789,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "wolf-expertise-paris",
+   "nom": "WOLF EXPERTISE PARIS",
+   "categorie": "experts-comptables",
+   "siren": "918372822",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/wolf-expertise-paris.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "descartes-gestion-privee",
    "nom": "DESCARTES GESTION PRIVEE",
    "categorie": "cgp",
@@ -58589,6 +60815,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "wilhow",
+   "nom": "WILHOW",
+   "categorie": "experts-comptables",
+   "siren": "918463522",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/wilhow.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "sens-patrimoine",
@@ -59067,6 +61307,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "nco-expertise",
+   "nom": "NCO EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "920105863",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nco-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "paro-conseil",
    "nom": "PARO CONSEIL",
    "categorie": "cgp",
@@ -59389,6 +61643,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "propulse-expertise",
+   "nom": "PROPULSE EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "920815495",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/propulse-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "kb-conseil",
    "nom": "KB CONSEIL",
    "categorie": "cgp",
@@ -59583,6 +61851,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "french-figures",
+   "nom": "FRENCH FIGURES",
+   "categorie": "experts-comptables",
+   "siren": "921204186",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/french-figures.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "vauban-conseil-patrimonial",
@@ -60607,6 +62889,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "opus-finance",
+   "nom": "OPUS FINANCE",
+   "categorie": "experts-comptables",
+   "siren": "924872765",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/opus-finance.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "valiantis",
    "nom": "VALIANTIS",
    "categorie": "cgp",
@@ -60801,6 +63097,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "visaec",
+   "nom": "VISAEC",
+   "categorie": "experts-comptables",
+   "siren": "925218737",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/visaec.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "dpatrimoines",
@@ -61699,6 +64009,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "finup",
+   "nom": "FINUP",
+   "categorie": "experts-comptables",
+   "siren": "928972140",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/finup.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "fleur-family-office",
    "nom": "FLEUR FAMILY OFFICE",
    "categorie": "mfo",
@@ -62455,6 +64779,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "elsass-compta",
+   "nom": "ELSASS COMPTA",
+   "categorie": "experts-comptables",
+   "siren": "930585971",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elsass-compta.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "my-family",
    "nom": "MY FAMILY",
    "categorie": "cgp",
@@ -62481,6 +64819,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "omex",
+   "nom": "OMEX",
+   "categorie": "experts-comptables",
+   "siren": "930634894",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/omex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "simeray-partners",
@@ -62735,6 +65087,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "super-ec",
+   "nom": "SUPER EC",
+   "categorie": "experts-comptables",
+   "siren": "931142475",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/super-ec.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "nf-conseil",
    "nom": "NF CONSEIL",
    "categorie": "cgp",
@@ -62943,6 +65309,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "calame-consulting",
+   "nom": "CALAME CONSULTING",
+   "categorie": "experts-comptables",
+   "siren": "931535702",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/calame-consulting.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "arcadia-patrimoine",
@@ -63911,6 +66291,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "mmm-partners",
+   "nom": "MMM & PARTNERS",
+   "categorie": "experts-comptables",
+   "siren": "933684714",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/mmm-partners.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "aecus-partners",
    "nom": "AECUS PARTNERS",
    "categorie": "sgp",
@@ -64233,6 +66627,34 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "theia-expertise",
+   "nom": "THEIA EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "934346644",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/theia-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "ab-evolution",
+   "nom": "AB EVOLUTION",
+   "categorie": "experts-comptables",
+   "siren": "934346941",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ab-evolution.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "avicime",
    "nom": "AVICIME",
    "categorie": "cgp",
@@ -64429,6 +66851,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "kamino",
+   "nom": "KAMINO",
+   "categorie": "experts-comptables",
+   "siren": "934746330",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/kamino.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "bmsa-conseil",
    "nom": "BMSA CONSEIL",
    "categorie": "cgp",
@@ -64483,6 +66919,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "jacono-expertise",
+   "nom": "JACONO EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "934797929",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jacono-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "eurl-moneytime-consulting",
@@ -64581,6 +67031,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "regalys-conseils",
+   "nom": "REGALYS CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "935040907",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/regalys-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "scanvalor-invest",
@@ -65631,6 +68095,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "v7lvet",
+   "nom": "V7LVET",
+   "categorie": "experts-comptables",
+   "siren": "939196408",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/v7lvet.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "bebien-patrimoine",
@@ -66809,6 +69287,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "prevost-expertise-comptable",
+   "nom": "PREVOST EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "941189284",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/prevost-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "eclat-gestion-privee",
    "nom": "ECLAT GESTION PRIVEE",
    "categorie": "cgp",
@@ -67635,6 +70127,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "hayot-expertise",
+   "nom": "HAYOT EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "942525098",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hayot-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "hjcia-herve-jayol-conseil-innovation-auvergne",
    "nom": "HJCIA HERVE JAYOL CONSEIL&INNOVATION AUVERGNE",
    "categorie": "cgp",
@@ -67663,6 +70169,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "cabinet-lorenzi-terrain-d-experts",
+   "nom": "CABINET LORENZI - TERRAIN D'EXPERTS",
+   "categorie": "experts-comptables",
+   "siren": "942567025",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-lorenzi-terrain-d-experts.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "elevancia-gestion-privee",
    "nom": "ELEVANCIA GESTION PRIVEE",
    "categorie": "cgp",
@@ -67675,6 +70195,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "haven",
+   "nom": "HAVEN",
+   "categorie": "experts-comptables",
+   "siren": "942578972",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/haven.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lbi-patrimoine",
@@ -67901,6 +70435,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "turco-advisory",
+   "nom": "TURCO ADVISORY",
+   "categorie": "experts-comptables",
+   "siren": "942919143",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/turco-advisory.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "investreflex",
    "nom": "INVESTREFLEX",
    "categorie": "cgp",
@@ -68109,6 +70657,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "comptafluide",
+   "nom": "COMPTAFLUIDE",
+   "categorie": "experts-comptables",
+   "siren": "943388348",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comptafluide.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "aurevia-global-advisors",
@@ -70015,6 +72577,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "opale-conseils-expertise-comptable",
+   "nom": "OPALE - CONSEILS & EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "949773642",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/opale-conseils-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "financiere-carnot-flandrin",
    "nom": "FINANCIERE CARNOT-FLANDRIN",
    "categorie": "cgp",
@@ -70069,6 +72645,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "sythex",
+   "nom": "SYTHEX",
+   "categorie": "experts-comptables",
+   "siren": "949914154",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sythex.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "scan-invest",
@@ -70293,6 +72883,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "agineo-expertise-comptable",
+   "nom": "AGINEO EXPERTISE COMPTABLE",
+   "categorie": "experts-comptables",
+   "siren": "951090091",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/agineo-expertise-comptable.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "qs-conseils",
@@ -70561,6 +73165,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "corexx-groupe",
+   "nom": "COREXX GROUPE",
+   "categorie": "experts-comptables",
+   "siren": "951742857",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/corexx-groupe.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "rivage-patrimoine",
    "nom": "RIVAGE PATRIMOINE",
    "categorie": "cgp",
@@ -70783,6 +73401,34 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "camixel",
+   "nom": "CAMIXEL",
+   "categorie": "experts-comptables",
+   "siren": "952205318",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/camixel.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "comet-one",
+   "nom": "COMET ONE",
+   "categorie": "experts-comptables",
+   "siren": "952206266",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comet-one.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "professeur-patrimoine",
@@ -71723,6 +74369,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "comexa",
+   "nom": "COMEXA",
+   "categorie": "experts-comptables",
+   "siren": "962503462",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/comexa.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cogeparc",
    "nom": "COGEPARC",
    "categorie": "experts-comptables",
@@ -71777,6 +74437,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "exaco-et-associes",
+   "nom": "EXACO ET ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "977593052",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/exaco-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cyderal-finance",
@@ -72421,6 +75095,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "eminoe-conseil",
+   "nom": "EMINOE CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "979012127",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eminoe-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "pact-associes",
@@ -73137,6 +75825,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "figescom",
+   "nom": "FIGESCOM",
+   "categorie": "experts-comptables",
+   "siren": "980462170",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/figescom.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "triangle-gestion-privee",
    "nom": "TRIANGLE GESTION PRIVEE",
    "categorie": "cgp",
@@ -73373,6 +76075,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "my-expert",
+   "nom": "MY EXPERT",
+   "categorie": "experts-comptables",
+   "siren": "980928352",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/my-expert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "transparence-conseil",
@@ -73879,6 +76595,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "diceme",
+   "nom": "DICEME",
+   "categorie": "experts-comptables",
+   "siren": "981613987",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/diceme.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "inest-family-office",
    "nom": "INEST FAMILY OFFICE",
    "categorie": "cgp",
@@ -74103,6 +76833,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "rsk-expertise",
+   "nom": "RSK EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "981994825",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rsk-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "serres-solutions-patrimoniales",
    "nom": "SERRES SOLUTIONS PATRIMONIALES",
    "categorie": "cgp",
@@ -74143,6 +76887,20 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "verteq",
+   "nom": "VERTEQ",
+   "categorie": "experts-comptables",
+   "siren": "982096778",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/verteq.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "patrivia",
@@ -74705,6 +77463,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "sch-expertise",
+   "nom": "SCH EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "983027822",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sch-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "helan-patrimoine",
    "nom": "HELAN PATRIMOINE",
    "categorie": "cgp",
@@ -74733,6 +77505,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "opalexpert",
+   "nom": "OPALEXPERT",
+   "categorie": "experts-comptables",
+   "siren": "983083080",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/opalexpert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lynq-private-office",
    "nom": "LYNQ Private Office",
    "categorie": "mfo",
@@ -74745,6 +77531,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "coelis-experts",
+   "nom": "COELIS EXPERTS",
+   "categorie": "experts-comptables",
+   "siren": "983110214",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/coelis-experts.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "re-sources-ouest",
@@ -75417,6 +78217,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "bd-expertise",
+   "nom": "BD EXPERTISE",
+   "categorie": "experts-comptables",
+   "siren": "984165175",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bd-expertise.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "etc-patrimoine",
@@ -76217,6 +79031,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "maneco-conseil",
+   "nom": "MANECO CONSEIL",
+   "categorie": "experts-comptables",
+   "siren": "987557311",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maneco-conseil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "nouvelle-donne-patrimoine-nantes",
    "nom": "NOUVELLE DONNE PATRIMOINE NANTES",
    "categorie": "cgp",
@@ -76693,6 +79521,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "adaptio",
+   "nom": "ADAPTIO",
+   "categorie": "experts-comptables",
+   "siren": "988600706",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/adaptio.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "stack-in-med",
    "nom": "STACK IN MED",
    "categorie": "cgp",
@@ -76873,6 +79715,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "eh-associes",
+   "nom": "EH & ASSOCIES",
+   "categorie": "experts-comptables",
+   "siren": "989069497",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eh-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "capelis-patrimoine",
@@ -77379,6 +80235,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "cabinet-47",
+   "nom": "CABINET 47",
+   "categorie": "experts-comptables",
+   "siren": "989841093",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cabinet-47.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "audefi-gestion-privee",
    "nom": "AUDEFI - GESTION PRIVEE",
    "categorie": "cgp",
@@ -77643,6 +80513,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "proxia-conseils",
+   "nom": "PROXIA CONSEILS",
+   "categorie": "experts-comptables",
+   "siren": "990205494",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/proxia-conseils.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lumea-consulting",
@@ -80165,6 +83049,20 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "akade",
+   "nom": "AKADE",
+   "categorie": "experts-comptables",
+   "siren": "994657096",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/akade.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "maison-quatuor",
    "nom": "MAISON QUATUOR",
    "categorie": "cgp",
@@ -80303,6 +83201,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "experion",
+   "nom": "EXPERION",
+   "categorie": "experts-comptables",
+   "siren": "994859536",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/experion.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "fh-finances",
@@ -80571,6 +83483,20 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "owlia",
+   "nom": "OWLIA",
+   "categorie": "experts-comptables",
+   "siren": "995386240",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/owlia.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "angelus-capital",
    "nom": "Angelus Capital",
    "categorie": "boutiques-ma",
@@ -80751,6 +83677,20 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "rce-experts",
+   "nom": "RCE EXPERTS",
+   "categorie": "experts-comptables",
+   "siren": "999395577",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/rce-experts.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ogp",

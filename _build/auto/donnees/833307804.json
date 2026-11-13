@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "2D CONSULTANTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833307804"
+ },
+ "siren": "833307804",
+ "denomination": "2D CONSULTANTS",
+ "nom_complet": "2D CONSULTANTS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2017-11-13",
+ "ville": "TASSIN-LA-DEMI-LUNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/833307804",
+ "maj_rne": "2026-09-25T17:18:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE ANNE HELENE",
+   "nom": "DORIER DUPINEY (DUPINEY)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/833307804",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.2dconsultants.fr/",
+ "site_source": "https://www.2dconsultants.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'Entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.2dconsultants.fr/conseil-en-gestion-and-patrimoine"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession d'Entreprise »).",
+    "extrait": "… Transmission et Cession d'Entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.2dconsultants.fr/conseil-en-gestion-and-patrimoine",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

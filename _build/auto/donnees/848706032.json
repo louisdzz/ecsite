@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "EMB EXPERTISE ET CONSEILS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/848706032"
+ },
+ "siren": "848706032",
+ "denomination": "EMB EXPERTISE ET CONSEILS",
+ "nom_complet": "EMB EXPERTISE ET CONSEILS (EMB EXPERTISE ET CONSEILS)",
+ "sigle": null,
+ "enseigne": "EMB EXPERTISE ET CONSEILS",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2019-02-20",
+ "ville": "NESLES-LA-VALLEE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/848706032",
+ "maj_rne": "2026-09-26T00:22:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN",
+   "nom": "BERTOLA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/848706032",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.emb-expertise.com/",
+ "site_source": "https://www.emb-expertise.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.emb-expertise.com/acquisition-entreprises"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… Audit d’acquisition …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.emb-expertise.com/acquisition-entreprises",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

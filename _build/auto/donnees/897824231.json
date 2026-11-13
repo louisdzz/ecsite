@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AUPA EXPERTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897824231"
+ },
+ "siren": "897824231",
+ "denomination": "AUPA EXPERTS",
+ "nom_complet": "AUPA EXPERTS (AUPA EXPERTS) (AE)",
+ "sigle": "AE",
+ "enseigne": "AUPA EXPERTS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2021-04-01",
+ "ville": "SAINT-JEAN-DE-LUZ",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/897824231",
+ "maj_rne": "2026-09-26T12:13:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LOIC DANIEL VICTOR",
+   "nom": "FIQUET",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/897824231",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://aupa-experts.fr/",
+ "site_source": "https://aupa-experts.fr/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'une société »).",
+  "label": "site officiel du cabinet",
+  "url": "https://aupa-experts.fr/nos-services/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'une société »).",
+    "extrait": "… La cession d’une société est composée de différentes étapes, le cabinet propose ainsi un accompagnement complet dans vos cessions en …",
+    "label": "site officiel du cabinet",
+    "url": "https://aupa-experts.fr/nos-services/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

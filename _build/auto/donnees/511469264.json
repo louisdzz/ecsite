@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "TOURVILLE FINANCES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/511469264"
+ },
+ "siren": "511469264",
+ "denomination": "TOURVILLE FINANCES",
+ "nom_complet": "TOURVILLE FINANCES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2009-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/511469264",
+ "maj_rne": "2026-09-24T06:22:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AXEL HERVE REMY",
+   "nom": "HALNA DU FRETAY",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/511469264",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.tourvillefinances.fr/",
+ "site_source": "https://www.tourvillefinances.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.tourvillefinances.fr/audits-dacquisition"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… cachée. Ce n'est pas hypothétique - ce sont des situations que nous avons vues, et que notre mission d'audit d'acquisition est précisément conçue pour éviter. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.tourvillefinances.fr/audits-dacquisition",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

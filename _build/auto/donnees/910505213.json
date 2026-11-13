@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FIDUCERA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/910505213"
+ },
+ "siren": "910505213",
+ "denomination": "FIDUCERA",
+ "nom_complet": "FIDUCERA (FIDUCERA)",
+ "sigle": null,
+ "enseigne": "FIDUCERA",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2022-01-27",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/910505213",
+ "maj_rne": "2026-09-26T18:44:57",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FALITIANA ELIE",
+   "nom": "RANDRIAMIARISOA",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/910505213",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://fiducera.fr/",
+ "site_source": "https://fiducera.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://fiducera.fr/reprise-cession-transmission-entreprise-paris-8/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de transmission »).",
+    "extrait": "… Votre expert-comptable est votre meilleur allié lors d’un projet de transmission de votre entreprise. Nous vous aiderons à définir la stratégie de transmission la plus adaptée à votre …",
+    "label": "site officiel du cabinet",
+    "url": "https://fiducera.fr/reprise-cession-transmission-entreprise-paris-8/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

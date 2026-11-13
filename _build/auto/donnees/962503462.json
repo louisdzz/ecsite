@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "COMEXA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/962503462"
+ },
+ "siren": "962503462",
+ "denomination": "COMEXA",
+ "nom_complet": "COMEXA",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1962-01-01",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/962503462",
+ "maj_rne": "2026-09-27T00:23:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARTIN ALEXIS PIERRE MARIE",
+   "nom": "EYNARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/962503462",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://comexa.fr/",
+ "site_source": "https://comexa.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://comexa.fr/our-services/fusion-acquisition/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « acquisition »).",
+    "extrait": "… Le cabinet Comexa intervient dans les fusions – acquisitions, nous accompagnons nos clients dans le processus de développement de montages financiers, comme la fusion, l’introduction en bourse, la vente ou encore le rachat de société. …",
+    "label": "site officiel du cabinet",
+    "url": "https://comexa.fr/our-services/fusion-acquisition/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "HAYOT EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942525098"
+ },
+ "siren": "942525098",
+ "denomination": "HAYOT EXPERTISE",
+ "nom_complet": "HAYOT EXPERTISE (HAYOT EXPERTISE) (HAYOT)",
+ "sigle": "HAYOT",
+ "enseigne": "HAYOT EXPERTISE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2025-04-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/942525098",
+ "maj_rne": "2026-09-28T01:22:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SAMUËL ISRAËL MEÏR",
+   "nom": "HAYOT",
+   "qualite": "Personne ayant le pouvoir d’engager à titre habituel la société"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/942525098",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://hayot-expertise.fr/",
+ "site_source": "https://hayot-expertise.fr/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Vendre une entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://hayot-expertise.fr/services/vendre-son-entreprise-cession-paris"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Vendre une entreprise »).",
+    "extrait": "… Vendre une entreprise est un processus qui se prépare au minimum 12 à 18 mois à l'avance. Notre mission comprend : …",
+    "label": "site officiel du cabinet",
+    "url": "https://hayot-expertise.fr/services/vendre-son-entreprise-cession-paris",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

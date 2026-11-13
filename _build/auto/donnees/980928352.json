@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MY EXPERT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980928352"
+ },
+ "siren": "980928352",
+ "denomination": "MY EXPERT",
+ "nom_complet": "MY EXPERT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-10-25",
+ "ville": "LE MANS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/980928352",
+ "maj_rne": "2026-09-27T14:29:54",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NATACHA",
+   "nom": "POTTIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/980928352",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.my-expert.fr/",
+ "site_source": "https://www.my-expert.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.my-expert.fr/conseil-aux-entreprises-le-mans-sarthe/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… de la transaction et optimiser le prix de cession. Nous vous guidons également sur les étapes clés de la transmission d’entreprise, en vous aidant à structurer cette opération de manière optimale, dans le respect des règles fiscales et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.my-expert.fr/conseil-aux-entreprises-le-mans-sarthe/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

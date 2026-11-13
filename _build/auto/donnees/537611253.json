@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FIDUCIAIRE BELOEUVRE ET ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537611253"
+ },
+ "siren": "537611253",
+ "denomination": "FIDUCIAIRE BELOEUVRE ET ASSOCIES",
+ "nom_complet": "FIDUCIAIRE BELOEUVRE ET ASSOCIES (CABINET BELOEUVRE)",
+ "sigle": null,
+ "enseigne": "CABINET BELOEUVRE",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2011-10-05",
+ "ville": "BOURG-LA-REINE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/537611253",
+ "maj_rne": "2026-09-24T14:33:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HERVE",
+   "nom": "BELOEUVRE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/537611253",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://92-expert-comptable.fr/",
+ "site_source": "https://92-expert-comptable.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://92-expert-comptable.fr/offres-comptables-tpe-pme"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+    "extrait": "… Notre cabinet vous accompagne et vous prépare à la réussite de la transmission de votre entreprise, qui est une étape importante de votre vie professionnelle et personnelle. Avancez léger, en transmettant …",
+    "label": "site officiel du cabinet",
+    "url": "https://92-expert-comptable.fr/offres-comptables-tpe-pme",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

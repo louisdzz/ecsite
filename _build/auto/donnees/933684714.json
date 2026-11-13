@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MMM & PARTNERS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/933684714"
+ },
+ "siren": "933684714",
+ "denomination": "MMM & PARTNERS",
+ "nom_complet": "MMM & PARTNERS (MMM & PARTNERS) (MMM & PARTNERS)",
+ "sigle": "MMM & PARTNERS",
+ "enseigne": "MMM & PARTNERS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2024-10-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/933684714",
+ "maj_rne": "2026-09-27T21:09:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAMADOU MAKHTAR",
+   "nom": "MBODJ",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/933684714",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.mmm-partners.com/",
+ "site_source": "https://www.mmm-partners.com/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.mmm-partners.com/acquerir-ceder-votre-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Céder votre entreprise »).",
+    "extrait": "… Acquérir / Céder votre entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.mmm-partners.com/acquerir-ceder-votre-entreprise/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

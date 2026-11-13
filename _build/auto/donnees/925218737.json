@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "VISAEC",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/925218737"
+ },
+ "siren": "925218737",
+ "denomination": "VISAEC",
+ "nom_complet": "VISAEC (VISAEC)",
+ "sigle": null,
+ "enseigne": "VISAEC",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-04-01",
+ "ville": "ANDERNOS-LES-BAINS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/925218737",
+ "maj_rne": "2026-10-05T19:31:16",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN CHRISTIAN",
+   "nom": "BARBET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/925218737",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.visaec.fr/",
+ "site_source": "https://www.visaec.fr",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.visaec.fr/evaluation-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission d'entreprise »).",
+    "extrait": "… Romain BARBET a obtenu en 2026 la certification Transmission d'entreprise de la CCEF (Compagnie des Conseils et Experts Financiers) : accompagnement du cédant, cadre juridique et …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.visaec.fr/evaluation-transmission",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

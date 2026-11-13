@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "DB FINANCE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104317532"
+ },
+ "siren": "104317532",
+ "denomination": "DB FINANCE",
+ "nom_complet": "DB FINANCE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2026-04-20",
+ "ville": "BOULOGNE-BILLANCOURT",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/104317532",
+ "maj_rne": "2026-09-28T10:19:34",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "3MB ADVISORY",
+   "siren": "102121944",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/104317532",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.dbfinance.fr/",
+ "site_source": "https://www.dbfinance.fr",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Vendre son entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.dbfinance.fr/apport-cession-transmission"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Vendre son entreprise »).",
+    "extrait": "… Vendre son entreprise ou la transmettre à ses proches se prépare plusieurs mois, souvent plusieurs années, avant la signature. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.dbfinance.fr/apport-cession-transmission",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

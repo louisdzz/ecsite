@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "M.A EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392740031"
+ },
+ "siren": "392740031",
+ "denomination": "M.A EXPERTISE",
+ "nom_complet": "M.A EXPERTISE (M.A.E.)",
+ "sigle": "M.A.E.",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1993-10-13",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/392740031",
+ "maj_rne": "2026-09-22T22:33:58",
+ "dirigeants": [
+  {
+   "type": "pm",
+   "denomination": "M.A. CONSEIL",
+   "siren": "819365065",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/392740031",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.maexpertise.com/",
+ "site_source": "https://www.maexpertise.com/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.maexpertise.com/dirigeant/transmission-cession"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission »).",
+    "extrait": "… Nous sommes à votre disposition pour vous permettre d’accomplir toutes les démarches nécessaires à la bonne réalisation de vos objectifs. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.maexpertise.com/dirigeant/transmission-cession",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

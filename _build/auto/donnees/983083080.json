@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "OPALEXPERT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983083080"
+ },
+ "siren": "983083080",
+ "denomination": "OPALEXPERT",
+ "nom_complet": "OPALEXPERT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-01-02",
+ "ville": "SAINT-MARTIN-BOULOGNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/983083080",
+ "maj_rne": "2026-09-27T15:50:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS",
+   "nom": "COUSIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/983083080",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://opalexpert.fr/",
+ "site_source": "https://opalexpert.fr/index.php/politique-de-confidentialite/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://opalexpert.fr/index.php/nos-missions/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de votre entreprise »).",
+    "extrait": "… Nous vous assistons dans la préparation et la réalisation de la transmission de votre entreprise, en optimisant les aspects fiscaux et juridiques. Notre approche inclut une évaluation de votre entreprise …",
+    "label": "site officiel du cabinet",
+    "url": "https://opalexpert.fr/index.php/nos-missions/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

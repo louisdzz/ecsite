@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "EXACO ET ASSOCIES",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/977593052"
+ },
+ "siren": "977593052",
+ "denomination": "EXACO ET ASSOCIES",
+ "nom_complet": "EXACO ET ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2023-06-26",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/977593052",
+ "maj_rne": "2026-09-27T12:51:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "AHMED SALIM",
+   "nom": "BENNOUNA",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ZAKARIA",
+   "nom": "LARAKI",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/977593052",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.exaco-expertise.com/",
+ "site_source": "https://www.exaco-expertise.com",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.exaco-expertise.com/nos-conseils"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audit d'acquisition »).",
+    "extrait": "… Réaliser l’audit d’acquisition (due diligence) sur les aspects comptables, financiers, fiscaux et sociaux. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.exaco-expertise.com/nos-conseils",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

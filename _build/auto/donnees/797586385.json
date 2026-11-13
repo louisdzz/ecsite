@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "AFR AUDIT",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/797586385"
+ },
+ "siren": "797586385",
+ "denomination": "AFR AUDIT",
+ "nom_complet": "AFR AUDIT",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2014-09-28",
+ "ville": "VOISINS-LE-BRETONNEUX",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/797586385",
+ "maj_rne": "2026-09-24T23:39:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "ANIS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/797586385",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.afraudit.fr/",
+ "site_source": "https://www.afraudit.fr/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.afraudit.fr"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « projet de cession »).",
+    "extrait": "… Vous avez un projet de cession ? Le cabinet d’audit AFR Audit vous aide à prendre les bonnes décisions, contribue à optimiser le prix de …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.afraudit.fr",
+    "date": "2026-11-13",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

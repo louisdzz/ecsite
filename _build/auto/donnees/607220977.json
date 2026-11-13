@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MONT BLANC SCORE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/607220977"
+ },
+ "siren": "607220977",
+ "denomination": "MONT BLANC SCORE",
+ "nom_complet": "MONT BLANC SCORE (MBC)",
+ "sigle": "MBC",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1972-01-01",
+ "ville": "SALLANCHES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/607220977",
+ "maj_rne": "2026-09-24T16:46:44",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "BLANC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/607220977",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://mont-blanc-score.com/",
+ "site_source": "https://mont-blanc-score.com/mentions-legales/",
+ "site_identification": "dénomination exacte dans les mentions légales (aucun SIREN publié), ville du siège concordante",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://mont-blanc-score.com/prestations/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Nous veillons à vous fournir la meilleure qualité de service possible, afin que votre transmission d’entreprise se déroule dans des conditions idéales. …",
+    "label": "site officiel du cabinet",
+    "url": "https://mont-blanc-score.com/prestations/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

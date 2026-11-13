@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "PROPULSE EXPERTISE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920815495"
+ },
+ "siren": "920815495",
+ "denomination": "PROPULSE EXPERTISE",
+ "nom_complet": "PROPULSE EXPERTISE (AMARRIS CONTACT STRASBOURG)",
+ "sigle": null,
+ "enseigne": "AMARRIS CONTACT STRASBOURG",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2022-10-11",
+ "ville": "STRASBOURG",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/920815495",
+ "maj_rne": "2026-09-26T23:27:53",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEVE",
+   "nom": "HECHT",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/920815495",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://propulse-expertise.fr/",
+ "site_source": "https://propulse-expertise.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://propulse-expertise.fr/transmission-cession-entreprise-strasbourg/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… La réussite d’un projet de cession-transmission d’entreprise dépend grandement de sa préparation. Nos experts se chargeront d’étudier les points faibles de votre …",
+    "label": "site officiel du cabinet",
+    "url": "https://propulse-expertise.fr/transmission-cession-entreprise-strasbourg/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

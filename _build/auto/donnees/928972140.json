@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "FINUP",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928972140"
+ },
+ "siren": "928972140",
+ "denomination": "FINUP",
+ "nom_complet": "FINUP (VMG EXPERTISE)",
+ "sigle": null,
+ "enseigne": "VMG EXPERTISE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2024-05-06",
+ "ville": "SAINTE-MARIE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/928972140",
+ "maj_rne": "2026-10-06T16:47:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN BAPTISTE",
+   "nom": "HUET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/928972140",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://vmg-expertise.com/",
+ "site_source": "https://vmg-expertise.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://vmg-expertise.com/achat-cession-restructuration/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'entreprise »).",
+    "extrait": "… Notre mission : Défendre vos intérêt dans vos opérations d’achats, de restructuration ou de cession d’entreprise. …",
+    "label": "site officiel du cabinet",
+    "url": "https://vmg-expertise.com/achat-cession-restructuration/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

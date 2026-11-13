@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "CAP'EXPERTS CONSULTANTS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503646119"
+ },
+ "siren": "503646119",
+ "denomination": "CAP'EXPERTS CONSULTANTS",
+ "nom_complet": "CAP'EXPERTS CONSULTANTS (CEC)",
+ "sigle": "CEC",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-01-02",
+ "ville": "BRON",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/503646119",
+ "maj_rne": "2026-09-24T04:00:27",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DJILALI",
+   "nom": "BENIDIR",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/503646119",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.capexpertsconsultants.info/",
+ "site_source": "https://www.capexpertsconsultants.info/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.capexpertsconsultants.info/services/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… Audit d'acquisition, due diligence …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.capexpertsconsultants.info/services/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

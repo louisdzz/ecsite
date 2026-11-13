@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "ALOREX",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414977397"
+ },
+ "siren": "414977397",
+ "denomination": "ALOREX",
+ "nom_complet": "ALOREX",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1998-01-01",
+ "ville": "NANCY",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/414977397",
+ "maj_rne": "2026-09-23T03:53:59",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VITAL CHARLES JOSEPH",
+   "nom": "LHUILLIER",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/414977397",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.alorex.fr/",
+ "site_source": "https://www.alorex.fr/mentions-legales-et-rgpd",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de leur entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.alorex.fr/votre-profil/creation-transmission-evaluation-et-reprise-d-entreprises"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission de leur entreprise »).",
+    "extrait": "… et notre expérience de l'entrepreneuriat. Aussi, nous accompagnons nos clients dans l’évaluation et la transmission de leur entreprise. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.alorex.fr/votre-profil/creation-transmission-evaluation-et-reprise-d-entreprises",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

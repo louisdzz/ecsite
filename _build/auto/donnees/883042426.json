@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "CABINET LABASSE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/883042426"
+ },
+ "siren": "883042426",
+ "denomination": "CABINET LABASSE",
+ "nom_complet": "CABINET LABASSE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-04-18",
+ "ville": "REIMS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/883042426",
+ "maj_rne": "2026-09-26T06:13:04",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE MICHELINE MONIQUE",
+   "nom": "LABASSE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/883042426",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinetlabasse.fr/",
+ "site_source": "https://cabinetlabasse.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission de société »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinetlabasse.fr/conseil-entreprises-reims-paris-9/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission de société »).",
+    "extrait": "… Transmission de société …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinetlabasse.fr/conseil-entreprises-reims-paris-9/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

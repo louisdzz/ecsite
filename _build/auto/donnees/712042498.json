@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "MANIGEST",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/712042498"
+ },
+ "siren": "712042498",
+ "denomination": "MANIGEST",
+ "nom_complet": "MANIGEST",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1971-08-13",
+ "ville": "SAINT-MAUR-DES-FOSSES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/712042498",
+ "maj_rne": "2026-09-24T17:30:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE",
+   "nom": "PAGES BOUTAULT (PAGES)",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/712042498",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.manigest.fr/",
+ "site_source": "https://www.manigest.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'actions »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.manigest.fr/conseils-juridiques-creation-entreprise"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « cession d'actions »).",
+    "extrait": "… Notre cabinet rédige le protocole de cession d’actions ou de parts sociales ainsi que les garanties d’actifs et passifs pour sécuriser l'opération. Nous …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.manigest.fr/conseils-juridiques-creation-entreprise",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

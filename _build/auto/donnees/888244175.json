@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "TELOS CONSEILS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888244175"
+ },
+ "siren": "888244175",
+ "denomination": "TELOS CONSEILS",
+ "nom_complet": "TELOS CONSEILS (TELOS CONSEILS) (T LOS CONSEILS)",
+ "sigle": "T LOS CONSEILS",
+ "enseigne": "TELOS CONSEILS",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2020-09-01",
+ "ville": "MEYREUIL",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/888244175",
+ "maj_rne": "2026-09-29T14:55:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SAMY",
+   "nom": "BOUIN",
+   "qualite": "Personne ayant le pouvoir d’engager à titre habituel la société"
+  },
+  {
+   "type": "pm",
+   "denomination": "LEVEL UP EXPERTISE",
+   "siren": "994754323",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/888244175",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://telosconseils.fr/",
+ "site_source": "https://telosconseils.fr",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+  "label": "site officiel du cabinet",
+  "url": "https://telosconseils.fr/conseils/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Audit d'acquisition »).",
+    "extrait": "… Audit d'acquisition …",
+    "label": "site officiel du cabinet",
+    "url": "https://telosconseils.fr/conseils/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

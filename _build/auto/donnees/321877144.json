@@ -1,0 +1,115 @@
+{
+ "nom_usuel": "GROUPE SOGECA",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/321877144"
+ },
+ "siren": "321877144",
+ "denomination": "GROUPE SOGECA",
+ "nom_complet": "GROUPE SOGECA (GROUPE SOGECA)",
+ "sigle": null,
+ "enseigne": "GROUPE SOGECA",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1981-06-01",
+ "ville": "BAYONNE",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/321877144",
+ "maj_rne": "2026-10-27T17:04:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MICHEL JEAN",
+   "nom": "BIDEGAIN",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PASCAL RAYMOND",
+   "nom": "COMBEAU",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALICE BENEDICTE",
+   "nom": "MAUDET (DUBERNET)",
+   "qualite": "Directeur général délégué"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEROME JACQUES",
+   "nom": "LAFITTE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS",
+   "nom": "LISSAR",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN",
+   "nom": "LISSARRAGUE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE",
+   "nom": "MAURIES",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU ELIE",
+   "nom": "MEUNIER",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRUNO",
+   "nom": "SAINT MARTIN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/321877144",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.sogeca.com/",
+ "site_source": "https://www.sogeca.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « opérations de cession »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.sogeca.com/nos-expertises/transaction/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « opérations de cession »).",
+    "extrait": "… d’Entreprise, Philippe GUILHEM accompagne depuis plus de 10 ans les dirigeants de TPE et PME dans leurs opérations de cession ou d’acquisition. Il s’est associé à SOGECA en 2020. …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.sogeca.com/nos-expertises/transaction/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

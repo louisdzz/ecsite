@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "QUALIANS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434700746"
+ },
+ "siren": "434700746",
+ "denomination": "QUALIANS",
+ "nom_complet": "QUALIANS",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2001-02-02",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "03",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/434700746",
+ "maj_rne": "2026-09-23T09:54:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ELISABETH",
+   "nom": "DE MOURA (DA CUNHA)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "VIOLIER",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/434700746",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://qualians.fr/",
+ "site_source": "https://qualians.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'une entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://qualians.fr/transmettre-acheter-ou-ceder-votre-entreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'une entreprise »).",
+    "extrait": "… La transmission d’une entreprise est une étape cruciale qui nécessite une préparation minutieuse et un accompagnement expert. …",
+    "label": "site officiel du cabinet",
+    "url": "https://qualians.fr/transmettre-acheter-ou-ceder-votre-entreprise/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

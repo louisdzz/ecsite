@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "OPALE - CONSEILS & EXPERTISE COMPTABLE",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/949773642"
+ },
+ "siren": "949773642",
+ "denomination": "OPALE - CONSEILS & EXPERTISE COMPTABLE",
+ "nom_complet": "OPALE - CONSEILS & EXPERTISE COMPTABLE (OPALE) (OCEC)",
+ "sigle": "OCEC",
+ "enseigne": "OPALE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2023-03-10",
+ "ville": "LES AVENIERES VEYRINS-THUELLIN",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/949773642",
+ "maj_rne": "2026-09-27T11:32:29",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAMIEN",
+   "nom": "BOUCHEREAU",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/949773642",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://cabinet-opale.fr/",
+ "site_source": "https://cabinet-opale.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession du fonds de commerce »).",
+  "label": "site officiel du cabinet",
+  "url": "https://cabinet-opale.fr/createurs-repreneurs-dentreprise/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Cession du fonds de commerce »).",
+    "extrait": "… Stratégie de transmission : Cession du fonds de commerce ou des parts sociales , nous vous aidons à structurer la transmission pour optimiser la fiscalité et trouver …",
+    "label": "site officiel du cabinet",
+    "url": "https://cabinet-opale.fr/createurs-repreneurs-dentreprise/",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}

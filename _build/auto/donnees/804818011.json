@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "GEXSINFO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/804818011"
+ },
+ "siren": "804818011",
+ "denomination": "GEXSINFO",
+ "nom_complet": "GEXSINFO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2014-09-01",
+ "ville": "AMIENS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "01",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/804818011",
+ "maj_rne": "2026-09-25T03:15:26",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCOIS LUC RENE",
+   "nom": "GERARD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/804818011",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://gexsinfo.fr/",
+ "site_source": "http://gexsinfo.fr/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisitions »).",
+  "label": "site officiel du cabinet",
+  "url": "http://gexsinfo.fr/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « audits d'acquisitions »).",
+    "extrait": "… Nous sommes également à vos côtés pour la réalisation d’audits d’acquisitions ou d’autres travaux spécifiques que vous voudriez nous confier. …",
+    "label": "site officiel du cabinet",
+    "url": "http://gexsinfo.fr/",
+    "date": "2026-11-13",
+    "page": "page d'accueil du site"
+   }
+  ]
+ }
+}

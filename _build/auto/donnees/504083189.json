@@ -1,0 +1,73 @@
+{
+ "nom_usuel": "BILANS ET PROJETS",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504083189"
+ },
+ "siren": "504083189",
+ "denomination": "BILANS ET PROJETS",
+ "nom_complet": "BILANS ET PROJETS (B I P)",
+ "sigle": "B I P",
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2008-05-01",
+ "ville": "LONS",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "02",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/504083189",
+ "maj_rne": "2026-09-24T04:12:38",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC BERNARD",
+   "nom": "FAIVRE-DUBOZ",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ERIC JEAN",
+   "nom": "LAGRILLE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/504083189",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://www.bilans-projets.com/",
+ "site_source": "https://www.bilans-projets.com/mentions-legales/",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission »).",
+  "label": "site officiel du cabinet",
+  "url": "https://www.bilans-projets.com/transmission-dentreprise-expert-comptable-pau-lons-64000-pyrenees-atlantiques-nouvelle-aquitaine/"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « Transmission »).",
+    "extrait": "… Notre cabinet d’expertise comptable à Lons près de Pau et Billère 64, Pyrénées-Atlantiques est là pour vous accompagner dans ce processus délicat, en mettant notre expertise à votre disposition pour vous guider tout au long du processus de …",
+    "label": "site officiel du cabinet",
+    "url": "https://www.bilans-projets.com/transmission-dentreprise-expert-comptable-pau-lons-64000-pyrenees-atlantiques-nouvelle-aquitaine/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ]
+ }
+}

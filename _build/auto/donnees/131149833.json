@@ -1,0 +1,67 @@
+{
+ "nom_usuel": "VALECCIO",
+ "categorie": "experts-comptables",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot experts-comptables NAF 69.20Z, moins de 10 salariés ou effectif non renseigné (critère du 12 novembre 2026)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/131149833"
+ },
+ "siren": "131149833",
+ "denomination": "VALECCIO",
+ "nom_complet": "VALECCIO",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2026-10-01",
+ "ville": "BEGLES",
+ "actif": true,
+ "naf": "69.20Z",
+ "tranche_effectif": "NN",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/131149833",
+ "maj_rne": "2026-10-12T14:32:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALBAN",
+   "nom": "MOGA",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": {
+  "url": "https://www.orias.fr/home/showIntermediaire/131149833",
+  "inscrit": false
+ },
+ "orias_site": {},
+ "site": "https://valeccio.fr/",
+ "site_source": "https://valeccio.fr/mentions-legales",
+ "site_identification": "SIREN",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+  "label": "site officiel du cabinet",
+  "url": "https://valeccio.fr/expert-comptable-pour-entrepreneurs"
+ },
+ "lien_cession": {
+  "criteres": [
+   "b"
+  ],
+  "preuves": [
+   {
+    "critere": "b",
+    "texte": "Activité affichée sur le site officiel du cabinet (terme employé : « transmission d'entreprise »).",
+    "extrait": "… Une cession ou une transmission d'entreprise se prépare en amont. Valeccio vous aide à fiabiliser l’information financière, à mesurer la valeur de …",
+    "label": "site officiel du cabinet",
+    "url": "https://valeccio.fr/expert-comptable-pour-entrepreneurs",
+    "date": "2026-11-13",
+    "page": "page interne du site"
+   }
+  ]
+ }
+}
