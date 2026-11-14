@@ -42,7 +42,7 @@
     "questions": ["Quels travaux sont inclus dans votre mission ?", "Quelle expérience avez-vous des opérations comparables ?", "Quels livrables recevrai-je et dans quel délai ?"]
   },
   "notaires": {
-    "label": "Notaires patrimoniaux",
+    "label": "Notaires",
     "headline": "Préparer une donation, une succession ou un projet immobilier.",
     "context": "Le notaire conseille et établit les actes liés à la transmission et à l’immobilier. Le travail patrimonial se construit à partir de la situation familiale et des biens concernés.",
     "flow": ["Famille et patrimoine", "Conseil et préparation", "Actes authentiques"],
