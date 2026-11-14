@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "BCA NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993527142"
+ },
+ "siren": "993527142",
+ "denomination": "BCA NOTAIRES",
+ "nom_complet": "BCA NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2025-11-04",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993527142",
+ "maj_rne": "2026-09-28T07:45:17",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENJAMIN",
+   "nom": "CELLE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHLOÉ",
+   "nom": "CHASSANY",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/993527142",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "69002",
+  "departement": "69",
+  "nomination_verifiee": false
+ },
+ "site": "https://bca-notaires.com",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://bca-notaires.com/expertises/entreprise.html",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… BCA Notaires vous accompagne dans la vie juridique de votre entreprise, de sa création à sa transmission. …",
+    "label": "site officiel de l’office",
+    "url": "https://bca-notaires.com/expertises/entreprise.html",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:40"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:21",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://bca-notaires.com/mentions-legales.html",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://bca-notaires.com/expertises/entreprise.html"
+ },
+ "sans_fiche_personne": true
+}

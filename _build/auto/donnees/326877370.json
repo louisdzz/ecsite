@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "NOTAIRES TROUVILLE FOCH",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326877370"
+ },
+ "siren": "326877370",
+ "denomination": "NOTAIRES TROUVILLE FOCH",
+ "nom_complet": "NOTAIRES TROUVILLE FOCH (SCP YANN MAYMAUD ET THIERRY PORET, NOTAIRES ASSOCIES)",
+ "sigle": null,
+ "enseigne": "SCP YANN MAYMAUD ET THIERRY PORET, NOTAIRES ASSOCIES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1981-03-17",
+ "ville": "TROUVILLE-SUR-MER",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326877370",
+ "maj_rne": "2026-09-22T13:22:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PAUL CLAUDE",
+   "nom": "KECHICHIAN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YANN FRANCOIS YVES",
+   "nom": "MAYMAUD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY CHRISTIAN RENE",
+   "nom": "PORET",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/326877370",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5710",
+  "forme": "SAS, société par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "14360",
+  "departement": "14",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.notaires-trouville-paris.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.notaires-trouville-paris.fr/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+    "extrait": "… Que vous soyez en pleine création ou rachat d'entreprise, en recherche d'un local ou en cession de votre société, nous nous occupons de la partie juridique de ces changements professionnels. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.notaires-trouville-paris.fr/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:46"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:24",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.notaires-trouville-paris.fr/mentions",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.notaires-trouville-paris.fr/"
+ },
+ "sans_fiche_personne": true
+}

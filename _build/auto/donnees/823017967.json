@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "SCP ANDRE VOROBIEF- SERGE VOROBIEF",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823017967"
+ },
+ "siren": "823017967",
+ "denomination": "SCP ANDRE VOROBIEF- SERGE VOROBIEF",
+ "nom_complet": "SCP ANDRE VOROBIEF- SERGE VOROBIEF",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "2016-02-02",
+ "ville": "MULHOUSE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823017967",
+ "maj_rne": "2026-09-25T11:36:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANDRE",
+   "nom": "VOROBIEF",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SERGE JEAN GABRIEL",
+   "nom": "VOROBIEF",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/823017967",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "68100",
+  "departement": "68",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.vorobief.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.vorobief.notaires.fr/droit-entreprise",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… La cession d'un fonds de commerce est une opération délicate nécessitant une expertise juridique solide. Nous vous guidons à travers chaque étape du processus, de l'évaluation du fonds de commerce à la rédaction de l'acte de cession, tout en veillant à toujours protéger vos intérêts. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.vorobief.notaires.fr/droit-entreprise",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 10:10"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:24",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.vorobief.notaires.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://www.vorobief.notaires.fr/droit-entreprise"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "ALPV NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913652848"
+ },
+ "siren": "913652848",
+ "denomination": "ALPV NOTAIRES ASSOCIES",
+ "nom_complet": "ALPV NOTAIRES ASSOCIES (ALPV NOTAIRES ASSOCIES)",
+ "sigle": null,
+ "enseigne": "ALPV NOTAIRES ASSOCIES",
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2022-06-01",
+ "ville": "GIERES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913652848",
+ "maj_rne": "2026-09-26T20:33:00",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "LINNEA YVETTE",
+   "nom": "PENT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALBAN JEROME",
+   "nom": "VIAL",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/913652848",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "38610",
+  "departement": "38",
+  "nomination_verifiee": false
+ },
+ "site": "https://alpv.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://alpv.notaires.fr/droit-des-societes/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+    "extrait": "… l’office notarial de Linnea PENT et Alban VIAL accompagne entrepreneurs, dirigeants et associés en droit des sociétés et en droit des affaires. …",
+    "label": "site officiel de l’office",
+    "url": "https://alpv.notaires.fr/droit-des-societes/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:39"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:20",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://alpv.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+  "label": "site officiel de l'office",
+  "url": "https://alpv.notaires.fr/droit-des-societes/"
+ },
+ "sans_fiche_personne": true
+}

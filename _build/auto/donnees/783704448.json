@@ -1,0 +1,135 @@
+{
+ "nom_usuel": "TSD NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783704448"
+ },
+ "siren": "783704448",
+ "denomination": "TSD NOTAIRES",
+ "nom_complet": "TSD NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": null,
+ "ville": "LILLE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783704448",
+ "maj_rne": "2026-09-24T19:51:30",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JUDITH",
+   "nom": "BARBRY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANCK",
+   "nom": "BEAUVALOT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "REMI",
+   "nom": "BLONDELLE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "YVES-LAURENT",
+   "nom": "CHATILIEZ",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRINE",
+   "nom": "HAMM",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE",
+   "nom": "DELAROIERE (HERBAUT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTHONY",
+   "nom": "SCRIVE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783704448",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "59800",
+  "departement": "59",
+  "nomination_verifiee": false
+ },
+ "site": "https://tsd.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://tsd.notaires.fr/droit-affaires",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Officiers publics, les notaires de notre office offrent un gage de sécurité et de stabilité pour les actes que doit accomplir le chef d'entreprise : […] Transmission des patrimoines personnel et professionnel du chef d'entreprise (cessions, pactes \"Dutreil\", etc.), …",
+    "label": "site officiel de l’office",
+    "url": "https://tsd.notaires.fr/droit-affaires",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:21"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:36",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://tsd.notaires.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://tsd.notaires.fr/droit-affaires"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

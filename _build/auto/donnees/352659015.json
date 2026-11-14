@@ -1,0 +1,107 @@
+{
+ "nom_usuel": "PIERRE-LOUIS BLEICHER ET MATTHIEU BOISSET",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352659015"
+ },
+ "siren": "352659015",
+ "denomination": "PIERRE-LOUIS BLEICHER ET MATTHIEU BOISSET",
+ "nom_complet": "PIERRE-LOUIS BLEICHER ET MATTHIEU BOISSET (OFFICE NOTARIAL DE LA COTE DES ISLES)",
+ "sigle": null,
+ "enseigne": "OFFICE NOTARIAL DE LA COTE DES ISLES",
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1989-07-18",
+ "ville": "BARNEVILLE-CARTERET",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352659015",
+ "maj_rne": "2026-09-22T17:48:52",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-LOUIS MAURICE XAVIER",
+   "nom": "BLEICHER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATTHIEU HERVE HUGUES",
+   "nom": "BOISSET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/352659015",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "50270",
+  "departement": "50",
+  "nomination_verifiee": false
+ },
+ "site": "https://bleicher-boisset.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://bleicher-boisset.notaires.fr/competences/droit-de-lentreprise-et-des-societes-actes-transversaux.htm",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Droit de l’entreprise »).",
+    "extrait": "… L’Etude dispose enfin de collaborateurs disposant d’un expertise en Droit de l’entreprise et des sociétés. Ces actes sont au cœur des problématiques économiques et fiscales de notre territoire, et regroupent notamment la création de société et les choix fiscaux qui en découlent, la cession de fonds de commerce, la dissolution de société, les baux commerciaux et professionnels, les cessions d’actions ou de parts de sociétés…",
+    "label": "site officiel de l’office",
+    "url": "https://bleicher-boisset.notaires.fr/competences/droit-de-lentreprise-et-des-societes-actes-transversaux.htm",
+    "date": "2026-11-14",
+    "page": "page dédiée du site",
+    "extrait_avant_publication": "… L’Etude dispose enfin de collaborateurs disposant d’un expertise en Droit de l’entreprise et des sociétés. Ces actes sont au cœur des problématiques économiques et fiscales de notre territoire, et regroupent notamment la création de société et les choix fiscaux qui en découlent, …"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:52"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:52",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture du tirage B), mot pour mot",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://bleicher-boisset.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Droit de l’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://bleicher-boisset.notaires.fr/competences/droit-de-lentreprise-et-des-societes-actes-transversaux.htm"
+ },
+ "sans_fiche_personne": true
+}

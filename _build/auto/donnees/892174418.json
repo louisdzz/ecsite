@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "MAXIME HIRIGOYEN NOTAIRE",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892174418"
+ },
+ "siren": "892174418",
+ "denomination": "MAXIME HIRIGOYEN NOTAIRE",
+ "nom_complet": "MAXIME HIRIGOYEN NOTAIRE (MAXIME HIRIGOYEN NOTAIRE)",
+ "sigle": null,
+ "enseigne": "MAXIME HIRIGOYEN NOTAIRE",
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2020-12-11",
+ "ville": "ENGHIEN-LES-BAINS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892174418",
+ "maj_rne": "2026-10-27T13:05:24",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAXIME",
+   "nom": "HIRIGOYEN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/892174418",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5499",
+  "forme": "SARL, société à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "95880",
+  "departement": "95",
+  "nomination_verifiee": false
+ },
+ "site": "https://hirigoyen.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://hirigoyen.notaires.fr/services/commercial-et-entreprise/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission d’entreprise »).",
+    "extrait": "… L’office intervient dans les opérations de restructuration (fusion, scission, apport partiel d’actif) et de transmission d’entreprise (cession de parts sociales, cession de titres, pacte Dutreil). …",
+    "label": "site officiel de l’office",
+    "url": "https://hirigoyen.notaires.fr/services/commercial-et-entreprise/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 11:11"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://hirigoyen.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission d’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://hirigoyen.notaires.fr/services/commercial-et-entreprise/"
+ },
+ "sans_fiche_personne": true
+}

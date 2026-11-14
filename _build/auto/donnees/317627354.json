@@ -1,0 +1,116 @@
+{
+ "nom_usuel": "NOTAVI, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317627354"
+ },
+ "siren": "317627354",
+ "denomination": "NOTAVI, NOTAIRES ASSOCIES",
+ "nom_complet": "NOTAVI, NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1979-01-01",
+ "ville": "CUSSET",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317627354",
+ "maj_rne": "2026-09-22T12:05:11",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARYLENE",
+   "nom": "CABROLIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE MARIE YVONNE",
+   "nom": "MARION (CHEVALIER)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE RENEE",
+   "nom": "DIALLO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC PASCAL",
+   "nom": "ROUVET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/317627354",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "03300",
+  "departement": "03",
+  "nomination_verifiee": false
+ },
+ "site": "https://notavi.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://notavi.notaires.fr",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+    "extrait": "… Notre étude vous accompagne dans le succès de votre entreprise : baux commerciaux, création de société, transmission d’entreprise, cession de fonds de commerce, opérations de société, secrétariat juridique etc. …",
+    "label": "site officiel de l’office",
+    "url": "https://notavi.notaires.fr",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 08:10"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://notavi.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://notavi.notaires.fr"
+ },
+ "sans_fiche_personne": true
+}

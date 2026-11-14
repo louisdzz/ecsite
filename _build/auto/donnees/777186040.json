@@ -1,0 +1,129 @@
+{
+ "nom_usuel": "PIERRE TELLIER, JEAN-PIERRE CARAYON, CHRISTOPHE MONS, OLIVIER TELLIER, KARINE CELESTE-VIGNAT, JULIE DUPUY ET MAILYS JEAN",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/777186040"
+ },
+ "siren": "777186040",
+ "denomination": "PIERRE TELLIER, JEAN-PIERRE CARAYON, CHRISTOPHE MONS, OLIVIER TELLIER, KARINE CELESTE-VIGNAT, JULIE DUPUY ET MAILYS JEAN",
+ "nom_complet": "PIERRE TELLIER, JEAN-PIERRE CARAYON, CHRISTOPHE MONS, OLIVIER TELLIER, KARINE CELESTE-VIGNAT, JULIE DUPUY ET MAILYS JEAN (ACTESA)",
+ "sigle": null,
+ "enseigne": "ACTESA",
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": null,
+ "ville": "ALBI",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/777186040",
+ "maj_rne": "2026-09-24T19:41:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-PIERRE XAVIER EUGENE",
+   "nom": "CARAYON",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "KARINE FLORENCE",
+   "nom": "CELESTE-VIGNAT (CELESTE)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE CLAIRE",
+   "nom": "DUPUY",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAILYS CHLOE VALERIE",
+   "nom": "JEAN",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE MARIE",
+   "nom": "MONS",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER GUY JOSEPH FRANCOIS",
+   "nom": "TELLIER",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/777186040",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "81000",
+  "departement": "81",
+  "nomination_verifiee": false
+ },
+ "site": "https://actesa.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://actesa.fr",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Notre équipe de notaires vous accompagne dans la création de votre société, la rédaction de statuts, les cessions de fonds de commerce, ainsi que dans la transmission de votre entreprise. Nous maîtrisons également les outils juridiques comme le pacte Dutreil …",
+    "label": "site officiel de l’office",
+    "url": "https://actesa.fr",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 08:21"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:36",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://actesa.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://actesa.fr"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

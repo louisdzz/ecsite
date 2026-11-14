@@ -1,0 +1,101 @@
+{
+ "nom_usuel": "MAITRE ANNE ETEVENARD ET MAITRE JEAN-BERTRAND CHARREYRON, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300536760"
+ },
+ "siren": "300536760",
+ "denomination": "MAITRE ANNE ETEVENARD ET MAITRE JEAN-BERTRAND CHARREYRON, NOTAIRES ASSOCIES",
+ "nom_complet": "MAITRE ANNE ETEVENARD ET MAITRE JEAN-BERTRAND CHARREYRON, NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": null,
+ "ville": "MATHA",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300536760",
+ "maj_rne": "2026-09-22T10:33:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN BERTRAND",
+   "nom": "CHARREYRON",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNE CLAUDE",
+   "nom": "ETEVENARD (FAVREAU)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/300536760",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "17160",
+  "departement": "17",
+  "nomination_verifiee": false
+ },
+ "site": "https://etevenardcharreyron.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://etevenardcharreyron.notaires.fr",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprises »).",
+    "extrait": "… Vos notaires accompagnent les entreprises de tous types - artisanales, commerciales, industrielles ou agricoles, pour la cession de fonds de commerce, la gestion des baux commerciaux et la transmission d'entreprise. …",
+    "label": "site officiel de l’office",
+    "url": "https://etevenardcharreyron.notaires.fr",
+    "date": "2026-11-13",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:20"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://etevenardcharreyron.notaires.fr/mentions.html",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprises »).",
+  "label": "site officiel de l'office",
+  "url": "https://etevenardcharreyron.notaires.fr"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

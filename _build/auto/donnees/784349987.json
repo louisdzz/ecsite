@@ -1,0 +1,107 @@
+{
+ "nom_usuel": "ETOILE NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784349987"
+ },
+ "siren": "784349987",
+ "denomination": "ETOILE NOTAIRES",
+ "nom_complet": "ETOILE NOTAIRES",
+ "sigle": null,
+ "enseigne": "ETOILE NOTAIRES",
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": null,
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784349987",
+ "maj_rne": "2026-09-24T19:52:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VICTOIRE DOROTHEE MARIE-LAURE",
+   "nom": "DELOCHE DE NOYELLE (DESCHEPPER)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CELINE",
+   "nom": "BENHAÏM (KNOPFER)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EDOUARD",
+   "nom": "MOURGUE-MOLINES",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/784349987",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "75017",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://etoile.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://etoile.notaires.fr/services/famille-et-patrimoine.htm",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « pacte DUTREIL »).",
+    "extrait": "… De la transmission de votre patrimoine, par le biais de donation, donation-partage, donation-partage transgénérationnelle, rédaction de testament, clause bénéficiaire de contrat d’assurance-vie, pacte DUTREIL en vue d’optimiser la transmission de l’entreprise. …",
+    "label": "site officiel de l’office",
+    "url": "https://etoile.notaires.fr/services/famille-et-patrimoine.htm",
+    "date": "2026-11-13",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 08:49"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:21",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://etoile.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « pacte DUTREIL »).",
+  "label": "site officiel de l'office",
+  "url": "https://etoile.notaires.fr/services/famille-et-patrimoine.htm"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

@@ -1,0 +1,98 @@
+{
+ "nom_usuel": "1391 NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399943513"
+ },
+ "siren": "399943513",
+ "denomination": "1391 NOTAIRES",
+ "nom_complet": "1391 NOTAIRES (1391 NOTAIRES)",
+ "sigle": null,
+ "enseigne": "1391 NOTAIRES",
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "1995-01-12",
+ "ville": "MARSEILLE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399943513",
+ "maj_rne": "2026-10-21T16:32:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PASCAL PANISSE JOSEPH",
+   "nom": "TATONI",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/399943513",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "13008",
+  "departement": "13",
+  "nomination_verifiee": false
+ },
+ "site": "https://1391.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://1391.notaires.fr/droit-des-societes-w1",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… De plus, nous vous accompagnerons pour les apports que vous souhaitez effectuer, pour les augmentations ou réductions du capital social, ainsi que pour les cessions de parts sociales ou de fonds de commerce. …",
+    "label": "site officiel de l’office",
+    "url": "https://1391.notaires.fr/droit-des-societes-w1",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 10:49"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:17",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://1391.notaires.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://1391.notaires.fr/droit-des-societes-w1"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,135 @@
+{
+ "nom_usuel": "OFFICE NOTARIAL 1803",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319149787"
+ },
+ "siren": "319149787",
+ "denomination": "OFFICE NOTARIAL 1803",
+ "nom_complet": "OFFICE NOTARIAL 1803",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1979-10-15",
+ "ville": "CARQUEFOU",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319149787",
+ "maj_rne": "2026-09-22T12:03:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ERIC",
+   "nom": "AUDOIRE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE JACQUES",
+   "nom": "BIRGAND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE",
+   "nom": "BOURGOGNE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD GERARD GEORGES",
+   "nom": "CAMUS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANNA KATELL GWELLAOUEN",
+   "nom": "LE BASTARD",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BERTRAND GILBERT FREDERIC",
+   "nom": "MARTIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GILDAS",
+   "nom": "RASS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319149787",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "44470",
+  "departement": "44",
+  "nomination_verifiee": false
+ },
+ "site": "https://office-1803.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://office-1803.notaires.fr",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Nous vous accompagnons également dans votre vie professionnelle (création de société, bail commercial, cession de fonds de commerce, transmission d’entreprise …). …",
+    "label": "site officiel de l’office",
+    "url": "https://office-1803.notaires.fr",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 08:10"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true,
+   "limite": "Page « Activités » écartée (texte type remanié : « en abordant le droit de l'entreprise dans tous ses aspects ») ; retenu sur la phrase propre de l'accueil, brève."
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://office-1803.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://office-1803.notaires.fr"
+ },
+ "sans_fiche_personne": true
+}

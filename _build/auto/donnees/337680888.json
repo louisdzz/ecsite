@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "REAL LEX NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/337680888"
+ },
+ "siren": "337680888",
+ "denomination": "REAL LEX NOTAIRES",
+ "nom_complet": "REAL LEX NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "1986-01-15",
+ "ville": "CRAPONNE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/337680888",
+ "maj_rne": "2026-09-29T12:06:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN FRANCOIS PIERRE LUCIEN",
+   "nom": "AUVOLAT",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARION COLETTE CLAUDE",
+   "nom": "LACHAL-VESSIERE (LACHAL)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DENIS MARIE PATRICK",
+   "nom": "SICARD",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/337680888",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5499",
+  "forme": "SARL, société à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "69290",
+  "departement": "69",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.real-lex.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.real-lex.fr/nos-expertises-droits-des-societes/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chefs d’entreprise »).",
+    "extrait": "… Nous accompagnons les chefs d’entreprise dans leurs problématiques personnelles et professionnelles, familiales, immobilières ou dans la transmission d’une entreprise familiale avec la mise en place du Pacte Dutreil …",
+    "label": "site officiel de l’office",
+    "url": "https://www.real-lex.fr/nos-expertises-droits-des-societes/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:52"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:52",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.real-lex.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chefs d’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.real-lex.fr/nos-expertises-droits-des-societes/"
+ },
+ "sans_fiche_personne": true
+}

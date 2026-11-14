@@ -1,0 +1,158 @@
+{
+ "nom_usuel": "CCT, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312126105"
+ },
+ "siren": "312126105",
+ "denomination": "CCT, NOTAIRES ASSOCIES",
+ "nom_complet": "CCT, NOTAIRES ASSOCIES (PYRENOT) (C.C.T)",
+ "sigle": "C.C.T",
+ "enseigne": "PYRENOT",
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "1978-01-01",
+ "ville": "TARBES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312126105",
+ "maj_rne": "2026-09-22T11:16:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHARLOTTE PAULINE ROSALIE",
+   "nom": "ABADIE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ISABELLE",
+   "nom": "BANDERA",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SANDRA RÉGINE THÉRÈSE",
+   "nom": "BRIERE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARC HENRI FRANÇOIS",
+   "nom": "CHATEAUNEUF",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LUCAS THIBAULT",
+   "nom": "DESBOS",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PHILIPPINE MARIE STÉPHANIE YOLANDE",
+   "nom": "ESTEBAN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXANDRA CHARLOTTE",
+   "nom": "GERARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTINE",
+   "nom": "LEGRAND (LABAT-CARRERE)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE JOSEPH JEAN-CLAUDE",
+   "nom": "REUTIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-CHRISTINE",
+   "nom": "SEMPE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE-HENRI",
+   "nom": "TOULOUSE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/312126105",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "65000",
+  "departement": "65",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.pyrenot.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.pyrenot.fr/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chef d’entreprise »).",
+    "extrait": "… Dans la continuité de la tradition du conseil et de l’assistance au chef d’entreprise, l’office notarial PYRENOT propose des solutions juridiques et fiscales les mieux adaptées, que ce soit au niveau du bail, des statuts de sociétés, d’actes de cession de parts, de cession de fonds de commerce, ou de déclaration d’insaisissabilité, le tout avec un véritable savoir-faire en matière d’interprofessionnalité. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.pyrenot.fr/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 08:37"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:34",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.pyrenot.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chef d’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.pyrenot.fr/"
+ },
+ "sans_fiche_personne": true
+}

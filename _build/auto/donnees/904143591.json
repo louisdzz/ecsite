@@ -1,0 +1,101 @@
+{
+ "nom_usuel": "ELODIE MAQUINE ET ALEXIA DESVIGNES-BERNARD, NOTAIRES DE L'ESTEREL",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904143591"
+ },
+ "siren": "904143591",
+ "denomination": "ELODIE MAQUINE ET ALEXIA DESVIGNES-BERNARD, NOTAIRES DE L'ESTEREL",
+ "nom_complet": "ELODIE MAQUINE ET ALEXIA DESVIGNES-BERNARD, NOTAIRES DE L'ESTEREL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2021-10-13",
+ "ville": "SAINT-RAPHAEL",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904143591",
+ "maj_rne": "2026-09-26T15:56:46",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ALEXIA PASCALE",
+   "nom": "DESVIGNES-BERNARD (DESVIGNES)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ELODIE VANESSA",
+   "nom": "MAQUINE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/904143591",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "83700",
+  "departement": "83",
+  "nomination_verifiee": false
+ },
+ "site": "https://maquine.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://maquine.notaires.fr/droit-commercial-cession-fonds-de-commerce-w1.html",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Domaine d'expertise méconnu du notaire, nous sommes formés à traiter de problématiques commerciales. […] Une cession de parts de société […] Une cession de fonds de commerce …",
+    "label": "site officiel de l’office",
+    "url": "https://maquine.notaires.fr/droit-commercial-cession-fonds-de-commerce-w1.html",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:49"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:21",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true,
+   "limite": "Ancien extrait (texte d'agence : propriété industrielle, protection des données, fraude) abandonné ; remplacé par la page « Cession fonds de commerce » du même site, rédigée en « nous » et introuvable ailleurs."
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://maquine.notaires.fr/mentions-legales.html",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://maquine.notaires.fr/droit-commercial-cession-fonds-de-commerce-w1.html"
+ },
+ "sans_fiche_personne": true
+}

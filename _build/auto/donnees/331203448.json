@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "JEAN-BENOIT MARTRE, YANNICK ALARY, JENNIFER SIMONCIC-CARNEIRO MACHADO, NOTAIRES ASSOCIES, SOCIETE CIVILE PROFESSIONNELLE",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/331203448"
+ },
+ "siren": "331203448",
+ "denomination": "JEAN-BENOIT MARTRE, YANNICK ALARY, JENNIFER SIMONCIC-CARNEIRO MACHADO, NOTAIRES ASSOCIES, SOCIETE CIVILE PROFESSIONNELLE",
+ "nom_complet": "JEAN-BENOIT MARTRE, YANNICK ALARY, JENNIFER SIMONCIC-CARNEIRO MACHADO, NOTAIRES ASSOCIES, SOCIETE CIVILE PROFESSIONNELLE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1984-07-06",
+ "ville": "ALES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/331203448",
+ "maj_rne": "2026-09-22T13:58:25",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "YANNICK PIERRE ROGER",
+   "nom": "ALARY",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JENNIFER AUDREY",
+   "nom": "SIMONCIC (CARNEIRO MACHADO)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-BENOIT MARIE-ANTOINE",
+   "nom": "MARTRE",
+   "qualite": "Autre"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/331203448",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "30100",
+  "departement": "30",
+  "nomination_verifiee": false
+ },
+ "site": "https://martre-alary-simoncic.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://martre-alary-simoncic.notaires.fr/expertises/transmission-dentreprise/pacte-dutreil.htm",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+    "extrait": "… Nous accompagnons les dirigeants et les professionnels du droit et du chiffre dans l'analyse, le conseil et la préparation des actes liés à la transmission d'une entreprise sous le Pacte Dutreil. …",
+    "label": "site officiel de l’office",
+    "url": "https://martre-alary-simoncic.notaires.fr/expertises/transmission-dentreprise/pacte-dutreil.htm",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:14"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://martre-alary-simoncic.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+  "label": "site officiel de l'office",
+  "url": "https://martre-alary-simoncic.notaires.fr/expertises/transmission-dentreprise/pacte-dutreil.htm"
+ },
+ "sans_fiche_personne": true
+}

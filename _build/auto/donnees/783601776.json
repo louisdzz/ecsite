@@ -1,0 +1,131 @@
+{
+ "nom_usuel": "NATHALIE COUTEAU, MARIE NUNS-AMOUREUX, CLOTILDE DEBERT-FOSSAERT, JEAN-FRANCOIS VITSE, ADELINE SEGUIN, CAMILLE THOOR NOTA",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783601776"
+ },
+ "siren": "783601776",
+ "denomination": "NATHALIE COUTEAU, MARIE NUNS-AMOUREUX, CLOTILDE DEBERT-FOSSAERT, JEAN-FRANCOIS VITSE, ADELINE SEGUIN, CAMILLE THOOR NOTA",
+ "nom_complet": "NATHALIE COUTEAU, MARIE NUNS-AMOUREUX, CLOTILDE DEBERT-FOSSAERT, JEAN-FRANCOIS VITSE, ADELINE SEGUIN, CAMILLE THOOR NOTA (NOTAIRES FLANDRES LITTORAL)",
+ "sigle": null,
+ "enseigne": "NOTAIRES FLANDRES LITTORAL",
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": null,
+ "ville": "DUNKERQUE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783601776",
+ "maj_rne": "2026-09-24T19:51:14",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARIE MARGUERITE CHRISTIANE",
+   "nom": "NUNS-AMOUREUX (AMOUREUX)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NATHALIE MICHELE ESTELLE",
+   "nom": "COUTEAU",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CLOTILDE ODILE HELENE",
+   "nom": "DEBERT-FOSSAERT (DEBERT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ADELINE JEANNE SABINE",
+   "nom": "SEGUIN",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAMILLE MARION CORNELIE",
+   "nom": "DELEGORGUE (THOOR)",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-FRANCOIS GEORGES ALBERT",
+   "nom": "VITSE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/783601776",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "59140",
+  "departement": "59",
+  "nomination_verifiee": false
+ },
+ "site": "https://flandres-littoral.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://flandres-littoral.notaires.fr/expertises/droit-affaires/",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Mais cette transmission est une étape délicate qui doit être anticipée. Nous serons votre meilleur allié pour envisager avec vous les aspects juridiques et fiscaux de cette transmission. Nous assurerons : […] l’optimisation fiscale de la transmission (Pacte Dutreil, Donation-partage…) …",
+    "label": "site officiel de l’office",
+    "url": "https://flandres-littoral.notaires.fr/expertises/droit-affaires/",
+    "date": "2026-11-13",
+    "page": "page du site",
+    "extrait_avant_publication": "… Nous serons votre meilleur allié pour envisager avec vous les aspects juridiques et fiscaux de cette transmission. …"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 07:59"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture des fiches hors tirage), mot pour mot"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://flandres-littoral.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://flandres-littoral.notaires.fr/expertises/droit-affaires/"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

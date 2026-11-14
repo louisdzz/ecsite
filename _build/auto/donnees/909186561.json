@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "HLV NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909186561"
+ },
+ "siren": "909186561",
+ "denomination": "HLV NOTAIRES",
+ "nom_complet": "HLV NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2022-01-14",
+ "ville": "BILLERE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909186561",
+ "maj_rne": "2026-09-26T17:50:13",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC MARC JEAN-FRANCOIS",
+   "nom": "HENNION",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "HELENE",
+   "nom": "LAGAHE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/909186561",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "64140",
+  "departement": "64",
+  "nomination_verifiee": false
+ },
+ "site": "https://hlv-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://hlv-notaires.fr/droit-des-affaires-et-de-lentreprise/",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Nous vous conseillons dans la mise en place de mécanismes de protection (séparation des biens, déclarations d’insaisissabilité, holding patrimoniale), afin de sécuriser vos actifs et préparer sereinement la transmission. …",
+    "label": "site officiel de l’office",
+    "url": "https://hlv-notaires.fr/droit-des-affaires-et-de-lentreprise/",
+    "date": "2026-11-13",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:04"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:22",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://hlv-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://hlv-notaires.fr/droit-des-affaires-et-de-lentreprise/"
+ },
+ "sans_fiche_personne": true
+}

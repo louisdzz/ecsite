@@ -1,0 +1,118 @@
+{
+ "nom_usuel": "NEUILLY NOISY NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342353075"
+ },
+ "siren": "342353075",
+ "denomination": "NEUILLY NOISY NOTAIRES",
+ "nom_complet": "NEUILLY NOISY NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1987-09-15",
+ "ville": "NEUILLY-SUR-MARNE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342353075",
+ "maj_rne": "2026-09-29T13:15:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERNARD HENRY RAYMOND",
+   "nom": "BANCAREL-RAUILHAC (BANCAREL)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLE",
+   "nom": "CASTRO (DAYAN)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NEVINE",
+   "nom": "GOUBERT (GOULAMHOUSSEN)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "AUDREY ELISE",
+   "nom": "CEREZO LERAUD (LERAUD)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARIE-BEATRICE",
+   "nom": "MONTASSIER (TERRIER)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342353075",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "93330",
+  "departement": "93",
+  "nomination_verifiee": false
+ },
+ "site": "https://neuilly-noisy-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://neuilly-noisy-notaires.fr/nos-expertises/",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chef d’entreprise »).",
+    "extrait": "… Vous êtes chef d’entreprise, l’étude est là pour vous accompagner dans la vie de votre société : rédaction de statuts, choix de la forme sociale optimale, cession de parts sociales, augmentation ou réduction de capital, dissolution de société, etc. …",
+    "label": "site officiel de l’office",
+    "url": "https://neuilly-noisy-notaires.fr/nos-expertises/",
+    "date": "2026-11-13",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 07:59"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://neuilly-noisy-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « chef d’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://neuilly-noisy-notaires.fr/nos-expertises/"
+ },
+ "sans_fiche_personne": true
+}

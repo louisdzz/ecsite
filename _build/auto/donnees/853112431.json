@@ -1,0 +1,105 @@
+{
+ "nom_usuel": "STEPHANE LAHITTE ET FRANCK GUILLAMET, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853112431"
+ },
+ "siren": "853112431",
+ "denomination": "STEPHANE LAHITTE ET FRANCK GUILLAMET, NOTAIRES ASSOCIES",
+ "nom_complet": "STEPHANE LAHITTE ET FRANCK GUILLAMET, NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2019-08-28",
+ "ville": "LE BOULOU",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853112431",
+ "maj_rne": "2026-09-26T02:36:18",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FRANCK PIERRE FRANCIS",
+   "nom": "GUILLAMET",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE DAVID JEROME",
+   "nom": "LAHITTE",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/853112431",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "66160",
+  "departement": "66",
+  "nomination_verifiee": false
+ },
+ "site": "https://office-lahitte-guillamet.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://office-lahitte-guillamet.notaires.fr/notaire-droit-des-societes-le-boulou",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Votre Notaire en droit des sociétés au Boulou peut vous accompagner dans divers actes tout au long de la vie de votre entreprise tels que : […] Cession de parts sociales […] Vous pouvez également céder la totalité de vos parts en cas de transmission de votre entreprise, de sa cession. …",
+    "label": "site officiel de l’office",
+    "url": "https://office-lahitte-guillamet.notaires.fr/notaire-droit-des-societes-le-boulou",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 10:48"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:17",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true,
+   "limite": "Texte de référencement (« Votre Notaire en droit des sociétés au Boulou ») mais propre au site et détaillé sur la cession de parts."
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://office-lahitte-guillamet.notaires.fr/fr/article/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://office-lahitte-guillamet.notaires.fr/notaire-droit-des-societes-le-boulou"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "JULIENNE MAUGAIN NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944067586"
+ },
+ "siren": "944067586",
+ "denomination": "JULIENNE MAUGAIN NOTAIRES",
+ "nom_complet": "JULIENNE MAUGAIN NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2025-04-25",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944067586",
+ "maj_rne": "2026-09-28T01:54:23",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BERTRAM",
+   "nom": "JULIENNE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALICE",
+   "nom": "MAUGAIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/944067586",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "69003",
+  "departement": "69",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.julienne-maugain-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.julienne-maugain-notaires.fr/droit-des-affaires/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission de votre entreprise »).",
+    "extrait": "… Nous structurons la transmission de votre entreprise, que ce soit dans un cadre familial ou à un tiers, en optimisant les aspects fiscaux et juridiques de l’opération. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.julienne-maugain-notaires.fr/droit-des-affaires/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:15"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:22",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "dénomination exacte et ville du siège dans les mentions légales (aucun SIREN publié)",
+ "site_source": "https://www.julienne-maugain-notaires.fr/mentions-legales-tous-droits-reserves/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission de votre entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.julienne-maugain-notaires.fr/droit-des-affaires/"
+ },
+ "sans_fiche_personne": true
+}

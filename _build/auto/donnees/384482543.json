@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "SOCIETE CIVILE PROFESSIONNELLE CLAUDINE LOTZ ET STEPHANE LOTZ, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384482543"
+ },
+ "siren": "384482543",
+ "denomination": "SOCIETE CIVILE PROFESSIONNELLE CLAUDINE LOTZ ET STEPHANE LOTZ, NOTAIRES ASSOCIES",
+ "nom_complet": "SOCIETE CIVILE PROFESSIONNELLE CLAUDINE LOTZ ET STEPHANE LOTZ, NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1992-01-17",
+ "ville": "VAL-DE-MODER",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384482543",
+ "maj_rne": "2026-09-22T20:31:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CLAUDINE",
+   "nom": "LOTZ (HEPP)",
+   "qualite": "Gérant et associé indéfiniment et solidairement responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE FRANCOIS RAYMOND",
+   "nom": "LOTZ",
+   "qualite": "Gérant et associé indéfiniment et solidairement responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384482543",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "67350",
+  "departement": "67",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.lotz-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.lotz-notaires.fr/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+    "extrait": "… L’étude est à vos côtés pour les projets de création d’entreprise ou de société, la cession de fonds de commerce et les transmissions d’entreprise (y compris via le Pacte Dutreil) …",
+    "label": "site officiel de l’office",
+    "url": "https://www.lotz-notaires.fr/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 10:36"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:17",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.lotz-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.lotz-notaires.fr/"
+ },
+ "sans_fiche_personne": true
+}

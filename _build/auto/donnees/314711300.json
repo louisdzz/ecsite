@@ -1,0 +1,107 @@
+{
+ "nom_usuel": "HAMOU & ASSOCIES, NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314711300"
+ },
+ "siren": "314711300",
+ "denomination": "HAMOU & ASSOCIES, NOTAIRES",
+ "nom_complet": "HAMOU & ASSOCIES, NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "1978-01-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314711300",
+ "maj_rne": "2026-09-22T11:34:35",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LOUIS MICHEL",
+   "nom": "HAMOU",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DAVID BENJAMIN",
+   "nom": "SOUSSAN",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314711300",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5710",
+  "forme": "SAS, société par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "75001",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://hamou-soussan.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://hamou-soussan.notaires.fr/expertises/droit-des-societes/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « droit des sociétés »).",
+    "extrait": "… Choix du statut juridique de constitution de société, formalités et déclarations à effectuer, immatriculation, cession de parts sociales, d’actions. […] Qu’il s’agisse de créer, gérer, céder ou transmettre, l’étude HAMOU & SOUSSAN vous accompagnera et vous guidera dans les démarches nécessaires à votre activité et à son fonctionnement. …",
+    "label": "site officiel de l’office",
+    "url": "https://hamou-soussan.notaires.fr/expertises/droit-des-societes/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site",
+    "extrait_avant_publication": "… Spécialistes du droit des sociétés, Me HAMOU, Me SOUSSAN et leurs collaborateurs apportent au chef d’entreprise leur solide expérience dans la gestion de problématiques telles que : …"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:04"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:22",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1",
+   "extrait_complete": true,
+   "motif": "extrait remplacé sur la même page : phrase de l'étude sans titre accolé à une personne"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://hamou-soussan.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « droit des sociétés »).",
+  "label": "site officiel de l'office",
+  "url": "https://hamou-soussan.notaires.fr/expertises/droit-des-societes/"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "IPSE NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934726514"
+ },
+ "siren": "934726514",
+ "denomination": "IPSE NOTAIRES",
+ "nom_complet": "IPSE NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2024-10-14",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934726514",
+ "maj_rne": "2026-09-28T02:49:41",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MAXIME",
+   "nom": "PEREIRA",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TYFFANIE MARYVONNE MARCELLE",
+   "nom": "THORIS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/934726514",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "75009",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://ipse.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://ipse.notaires.fr",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+    "extrait": "… Nous accompagnons les entrepreneurs et dirigeants dans la création, l’évolution et la transmission de leur entreprise : structuration de sociétés, opérations sur capital, cessions et restructurations. …",
+    "label": "site officiel de l’office",
+    "url": "https://ipse.notaires.fr",
+    "date": "2026-11-13",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:04"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:22",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://ipse.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « dirigeants »).",
+  "label": "site officiel de l'office",
+  "url": "https://ipse.notaires.fr"
+ },
+ "sans_fiche_personne": true
+}

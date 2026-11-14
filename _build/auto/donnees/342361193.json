@@ -1,0 +1,128 @@
+{
+ "nom_usuel": "RACLE ET COLIN ASSOCIES -SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342361193"
+ },
+ "siren": "342361193",
+ "denomination": "RACLE ET COLIN ASSOCIES -SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+ "nom_complet": "RACLE ET COLIN ASSOCIES -SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL (RCA)",
+ "sigle": null,
+ "enseigne": "RCA",
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1971-02-02",
+ "ville": "BESANCON",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342361193",
+ "maj_rne": "2026-09-29T13:16:08",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CATHERINE MARIE",
+   "nom": "BELLARD (BAILLY)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "BELLARD",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "THIERRY BENOIT",
+   "nom": "COLIN",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "SOPHIE",
+   "nom": "MAIRE",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "PEPIN",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRIGITTE ELISABETH MARIE",
+   "nom": "GUIGON (RACLE)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342361193",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "25000",
+  "departement": "25",
+  "nomination_verifiee": false
+ },
+ "site": "https://rca.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://rca.notaires.fr/nos-competences/droit-des-affaires/transmission-et-cession-d-entreprises",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession de titres »).",
+    "extrait": "… Nous sommes à même d’établir, de par nos compétences, les actes de cession de titres, les actes de cession de fonds de commerce, et de vous guider, tant sur le plan juridique que fiscal lors de ces différentes opérations. …",
+    "label": "site officiel de l’office",
+    "url": "https://rca.notaires.fr/nos-competences/droit-des-affaires/transmission-et-cession-d-entreprises",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:21"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:36",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://rca.notaires.fr/mentions-legales-rgpd",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession de titres »).",
+  "label": "site officiel de l'office",
+  "url": "https://rca.notaires.fr/nos-competences/droit-des-affaires/transmission-et-cession-d-entreprises"
+ },
+ "sans_fiche_personne": true
+}

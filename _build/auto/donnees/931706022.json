@@ -1,0 +1,98 @@
+{
+ "nom_usuel": "OFFICE NOTARIAL VIRGINIE PERRIN",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931706022"
+ },
+ "siren": "931706022",
+ "denomination": "OFFICE NOTARIAL VIRGINIE PERRIN",
+ "nom_complet": "OFFICE NOTARIAL VIRGINIE PERRIN (SELARLU)",
+ "sigle": "SELARLU",
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2024-07-24",
+ "ville": "SAINT-JOUAN-DES-GUERETS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931706022",
+ "maj_rne": "2026-09-27T20:53:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIRGINIE MARIE JEANNE",
+   "nom": "PERRIN",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931706022",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "35430",
+  "departement": "35",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.virginie-perrin.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.virginie-perrin.notaires.fr/service/entreprises/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+    "extrait": "… La transmission d’une entreprise se prépare souvent plusieurs années à l’avance. Qu’il s’agisse d’une transmission familiale, d’une cession à un tiers ou d’une réorganisation patrimoniale, l’accompagnement notarial permet d’anticiper les enjeux juridiques, fiscaux et familiaux. L’étude vous accompagne pour : …",
+    "label": "site officiel de l’office",
+    "url": "https://www.virginie-perrin.notaires.fr/service/entreprises/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:16"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.virginie-perrin.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.virginie-perrin.notaires.fr/service/entreprises/"
+ },
+ "sans_fiche_personne": true
+}

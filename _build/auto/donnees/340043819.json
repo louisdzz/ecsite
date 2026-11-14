@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "MAITRES ARNAUD BONNEFOND ET MAXIME VENDITTI NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340043819"
+ },
+ "siren": "340043819",
+ "denomination": "MAITRES ARNAUD BONNEFOND ET MAXIME VENDITTI NOTAIRES ASSOCIES",
+ "nom_complet": "MAITRES ARNAUD BONNEFOND ET MAXIME VENDITTI NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle",
+ "forme_code": "6585",
+ "creation": "1986-10-15",
+ "ville": "LYON",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340043819",
+ "maj_rne": "2026-09-29T12:43:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "BONNEFOND",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MAXIME",
+   "nom": "VENDITTI",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/340043819",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "6585",
+  "forme": "Société civile professionnelle",
+  "naf": "69.10Z",
+  "code_postal": "69002",
+  "departement": "69",
+  "nomination_verifiee": false
+ },
+ "site": "https://bonnefond-venditti.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://bonnefond-venditti.notaires.fr/expertise/droit-des-affaires-et-des-societes.htm",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Qu'il s'agisse d'une vente, d'une donation ou d'une succession, l'Office notarial 1810 est habilité à rédiger et authentifier les actes, tout en s'assurant du respect des obligations fiscales et sociales. …",
+    "label": "site officiel de l’office",
+    "url": "https://bonnefond-venditti.notaires.fr/expertise/droit-des-affaires-et-des-societes.htm",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:29"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://bonnefond-venditti.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://bonnefond-venditti.notaires.fr/expertise/droit-des-affaires-et-des-societes.htm"
+ },
+ "sans_fiche_personne": true
+}

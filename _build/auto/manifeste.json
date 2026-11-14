@@ -2396,6 +2396,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "auras-notaires",
+   "nom": "AURAS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "103863452",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/auras-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "uni-patrimoine",
    "nom": "UNI PATRIMOINE",
    "categorie": "cgp",
@@ -3724,6 +3739,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "ulysse-notaires-associes",
+   "nom": "ULYSSE NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "106646136",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ulysse-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "hb-partners-conseil",
@@ -5126,6 +5156,36 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "treize17-notaires",
+   "nom": "TREIZE17 NOTAIRES",
+   "categorie": "notaires",
+   "siren": "300474574",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/treize17-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "maitre-anne-etevenard-et-maitre-jean-bertrand-charreyron-notaires-associes",
+   "nom": "MAITRE ANNE ETEVENARD ET MAITRE JEAN-BERTRAND CHARREYRON, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "300536760",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maitre-anne-etevenard-et-maitre-jean-bertrand-charreyron-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "bnp-paribas-real-estate-investment-management-france",
    "nom": "BNP PARIBAS REAL ESTATE INVESTMENT MANAGEMENT FRANCE",
    "categorie": "sgp",
@@ -5152,6 +5212,51 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "neolia-notaires",
+   "nom": "NEOLIA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "301275004",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/neolia-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "n3b-notaires",
+   "nom": "N3B NOTAIRES",
+   "categorie": "notaires",
+   "siren": "301275731",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/n3b-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "lm53-notaires",
+   "nom": "LM53 NOTAIRES",
+   "categorie": "notaires",
+   "siren": "301375978",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lm53-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "secno",
@@ -5252,6 +5357,66 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "notaires-pardieu",
+   "nom": "NOTAIRES PARDIEU",
+   "categorie": "notaires",
+   "siren": "306262270",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-pardieu.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
+   "slug": "audrey-malaussena-notaire",
+   "nom": "AUDREY MALAUSSENA NOTAIRE",
+   "categorie": "notaires",
+   "siren": "306762360",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/audrey-malaussena-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
+   "slug": "1594-notaires",
+   "nom": "1594 NOTAIRES",
+   "categorie": "notaires",
+   "siren": "306807736",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/1594-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "26-jaures-notaires",
+   "nom": "26 JAURES NOTAIRES",
+   "categorie": "notaires",
+   "siren": "307423533",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/26-jaures-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "societe-d-expertise-comptable-de-gestion-et-d-etudes-financieres",
    "nom": "SOCIETE D'EXPERTISE COMPTABLE DE GESTION ET D'ETUDES FINANCIERES",
    "categorie": "experts-comptables",
@@ -5266,6 +5431,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "dcbm-notaires",
+   "nom": "DCBM NOTAIRES",
+   "categorie": "notaires",
+   "siren": "309321925",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dcbm-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "hoche-audit",
    "nom": "HOCHE AUDIT",
    "categorie": "experts-comptables",
@@ -5278,6 +5458,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "sannois-notaires-1587",
+   "nom": "SANNOIS NOTAIRES 1587",
+   "categorie": "notaires",
+   "siren": "309708253",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/sannois-notaires-1587.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "societe-d-expertise-comptable-d-organisation-et-de-revision-de-l-atlantique-secora",
@@ -5334,6 +5529,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "cct-notaires-associes",
+   "nom": "CCT, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "312126105",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cct-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "banque-michel-inchauspe",
@@ -5422,6 +5632,36 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "michel-hau-pale-et-christophe-gourgues-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-offices-notari",
+   "nom": "MICHEL HAU-PALE ET CHRISTOPHE GOURGUES NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'OFFICES NOTARI",
+   "categorie": "notaires",
+   "siren": "314514514",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/michel-hau-pale-et-christophe-gourgues-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-offices-notari.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "hamou-associes-notaires",
+   "nom": "HAMOU & ASSOCIES, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "314711300",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hamou-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "as-afac",
    "nom": "AS AFAC",
    "categorie": "experts-comptables",
@@ -5507,6 +5747,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "notavi-notaires-associes",
+   "nom": "NOTAVI, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "317627354",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notavi-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "execo-conseil",
    "nom": "EXECO CONSEIL",
    "categorie": "experts-comptables",
@@ -5533,6 +5788,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "notaires-seine-estuaire",
+   "nom": "NOTAIRES SEINE ESTUAIRE",
+   "categorie": "notaires",
+   "siren": "318150968",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-seine-estuaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "adg-normandie",
@@ -5577,6 +5847,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "office-notarial-1803",
+   "nom": "OFFICE NOTARIAL 1803",
+   "categorie": "notaires",
+   "siren": "319149787",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-1803.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "credit-mutuel-gestion",
    "nom": "CREDIT MUTUEL GESTION",
    "categorie": "sgp",
@@ -5605,6 +5890,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "savoure-notaires",
+   "nom": "SAVOURE, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "319625083",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/savoure-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "sienna-gestion",
    "nom": "SIENNA GESTION",
    "categorie": "sgp",
@@ -5617,6 +5917,21 @@
    "amf": "GP97020",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "dlf-notaires",
+   "nom": "DLF NOTAIRES",
+   "categorie": "notaires",
+   "siren": "321079105",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dlf-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "groupe-sogeca",
@@ -5773,6 +6088,21 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "nbc-1649",
+   "nom": "NBC 1649",
+   "categorie": "notaires",
+   "siren": "326127156",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nbc-1649.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "apsis-audit",
    "nom": "APSIS AUDIT",
    "categorie": "experts-comptables",
@@ -5815,6 +6145,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "notaires-trouville-foch",
+   "nom": "NOTAIRES TROUVILLE FOCH",
+   "categorie": "notaires",
+   "siren": "326877370",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-trouville-foch.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "portzamparc-gestion",
    "nom": "PORTZAMPARC GESTION",
    "categorie": "sgp",
@@ -5827,6 +6172,21 @@
    "amf": "GP97077",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "hyacinthe-simon-et-billy-poupelin-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notarial",
+   "nom": "HYACINTHE SIMON ET BILLY POUPELIN, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+   "categorie": "notaires",
+   "siren": "327202453",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hyacinthe-simon-et-billy-poupelin-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notarial.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "bollet-et-associes",
@@ -5869,6 +6229,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "seize-notaires",
+   "nom": "SEIZE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "328031323",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/seize-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "batt-associes",
@@ -6009,6 +6384,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "jean-benoit-martre-yannick-alary-jennifer-simoncic-carneiro-machado-notaires-associes-societe-civile-professionnelle",
+   "nom": "JEAN-BENOIT MARTRE, YANNICK ALARY, JENNIFER SIMONCIC-CARNEIRO MACHADO, NOTAIRES ASSOCIES, SOCIETE CIVILE PROFESSIONNELLE",
+   "categorie": "notaires",
+   "siren": "331203448",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jean-benoit-martre-yannick-alary-jennifer-simoncic-carneiro-machado-notaires-associes-societe-civile-professionnelle.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "ephisens",
@@ -6277,6 +6667,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "real-lex-notaires",
+   "nom": "REAL LEX NOTAIRES",
+   "categorie": "notaires",
+   "siren": "337680888",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/real-lex-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "agpm-klesia-asset-management",
    "nom": "AGPM KLESIA ASSET MANAGEMENT",
    "categorie": "sgp",
@@ -6417,6 +6822,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "maitres-arnaud-bonnefond-et-maxime-venditti-notaires-associes",
+   "nom": "MAITRES ARNAUD BONNEFOND ET MAXIME VENDITTI NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "340043819",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maitres-arnaud-bonnefond-et-maxime-venditti-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "optigestion",
    "nom": "OPTIGESTION",
    "categorie": "sgp",
@@ -6429,6 +6849,21 @@
    "amf": "GP90002",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "paul-associes-notaires",
+   "nom": "PAUL & ASSOCIES - NOTAIRES",
+   "categorie": "notaires",
+   "siren": "340432632",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/paul-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "naviseo",
@@ -6487,6 +6922,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "virginie-vial-et-emilie-rignaux-notaires-associees",
+   "nom": "VIRGINIE VIAL ET EMILIE RIGNAUX, NOTAIRES ASSOCIEES",
+   "categorie": "notaires",
+   "siren": "341833846",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/virginie-vial-et-emilie-rignaux-notaires-associees.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "api-expertises-normandie",
    "nom": "API EXPERTISES NORMANDIE",
    "categorie": "experts-comptables",
@@ -6499,6 +6949,51 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "martin-camps-et-noel-charras-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notarial",
+   "nom": "MARTIN CAMPS ET NOEL CHARRAS NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+   "categorie": "notaires",
+   "siren": "342293602",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/martin-camps-et-noel-charras-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notarial.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "neuilly-noisy-notaires",
+   "nom": "NEUILLY NOISY NOTAIRES",
+   "categorie": "notaires",
+   "siren": "342353075",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/neuilly-noisy-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "racle-et-colin-associes-societe-civile-professionnelle-titulaire-d-un-office-notarial",
+   "nom": "RACLE ET COLIN ASSOCIES -SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+   "categorie": "notaires",
+   "siren": "342361193",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/racle-et-colin-associes-societe-civile-professionnelle-titulaire-d-un-office-notarial.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "institut-de-gestion-et-d-audit-des-metiers",
@@ -6569,6 +7064,21 @@
    "amf": "GP98038",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "notaires-conseils-associes",
+   "nom": "NOTAIRES CONSEILS ASSOCIES",
+   "categorie": "notaires",
+   "siren": "343140398",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-conseils-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "odyce-sas",
@@ -6880,6 +7390,21 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "olivier-rapinat-julie-gautier-olivier-brousson-estel-tarrit-delphine-rhode-arzens",
+   "nom": "OLIVIER RAPINAT, JULIE GAUTIER, OLIVIER BROUSSON, ESTEL TARRIT, DELPHINE RHODE-ARZENS",
+   "categorie": "notaires",
+   "siren": "351451935",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/olivier-rapinat-julie-gautier-olivier-brousson-estel-tarrit-delphine-rhode-arzens.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "financiere-lamartine",
    "nom": "FINANCIERE LAMARTINE",
    "categorie": "sgp",
@@ -7035,6 +7560,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "pierre-louis-bleicher-et-matthieu-boisset",
+   "nom": "PIERRE-LOUIS BLEICHER ET MATTHIEU BOISSET",
+   "categorie": "notaires",
+   "siren": "352659015",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pierre-louis-bleicher-et-matthieu-boisset.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "objectif-patrimoine",
    "nom": "OBJECTIF PATRIMOINE",
    "categorie": "cgp",
@@ -7145,6 +7685,21 @@
    "amf": "GP-14000032",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "odyssea-office-notarial",
+   "nom": "ODYSSEA, OFFICE NOTARIAL",
+   "categorie": "notaires",
+   "siren": "353919541",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/odyssea-office-notarial.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "cf-experts",
@@ -7442,6 +7997,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "thomas-crolet-notaires",
+   "nom": "THOMAS-CROLET NOTAIRES",
+   "categorie": "notaires",
+   "siren": "379727555",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/thomas-crolet-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "valeurs-investissements-patrimoine",
    "nom": "VALEURS INVESTISSEMENTS PATRIMOINE",
    "categorie": "cgp",
@@ -7482,6 +8052,21 @@
    "amf": "GP95009",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "alpine-3v-notaires",
+   "nom": "ALPINE 3V NOTAIRES",
+   "categorie": "notaires",
+   "siren": "380204537",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alpine-3v-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "socomex-noirclere-et-associes",
@@ -7652,6 +8237,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "melanie-gogniat-et-thomas-schmit-notaires-associes",
+   "nom": "MELANIE GOGNIAT ET THOMAS SCHMIT, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "381766047",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/melanie-gogniat-et-thomas-schmit-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "ubs-la-maison-de-gestion",
    "nom": "UBS LA MAISON DE GESTION",
    "categorie": "sgp",
@@ -7678,6 +8278,36 @@
    "amf": "GP91017",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "laroche-associes-notaires",
+   "nom": "LAROCHE & ASSOCIES, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "382325009",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/laroche-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "agea-notaires",
+   "nom": "AGEA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "382370492",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/agea-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "auditis",
@@ -7996,6 +8626,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "societe-civile-professionnelle-claudine-lotz-et-stephane-lotz-notaires-associes",
+   "nom": "SOCIETE CIVILE PROFESSIONNELLE CLAUDINE LOTZ ET STEPHANE LOTZ, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "384482543",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/societe-civile-professionnelle-claudine-lotz-et-stephane-lotz-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "ofi-invest-asset-management",
    "nom": "OFI INVEST ASSET MANAGEMENT",
    "categorie": "sgp",
@@ -8008,6 +8653,21 @@
    "amf": "GP92012",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "anaelle-coqueux-et-remi-charpentier-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office",
+   "nom": "ANAELLE COQUEUX ET REMI CHARPENTIER, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE...",
+   "categorie": "notaires",
+   "siren": "384948154",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/anaelle-coqueux-et-remi-charpentier-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "mv-patrimoine",
@@ -8148,6 +8808,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "ghd-notaires-associes",
+   "nom": "GHD NOTAIRES & ASSOCIES",
+   "categorie": "notaires",
+   "siren": "388782013",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ghd-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "fidu-bretagne",
@@ -8458,6 +9133,21 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "arnaud-viossange-et-julien-latour-notaires-associes",
+   "nom": "ARNAUD VIOSSANGE ET JULIEN LATOUR, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "392145728",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/arnaud-viossange-et-julien-latour-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "charpenel-patrimoine-conseils",
    "nom": "CHARPENEL PATRIMOINE CONSEILS",
    "categorie": "cgp",
@@ -8737,6 +9427,21 @@
    "amf": "GP01013",
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "societe-a-responsabilite-limitee-francois-xavier-gapais-notaire-a-nogent-le-rotrou",
+   "nom": "SOCIETE A RESPONSABILITE LIMITEE FRANCOIS XAVIER GAPAIS NOTAIRE A NOGENT LE ROTROU",
+   "categorie": "notaires",
+   "siren": "395295207",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/societe-a-responsabilite-limitee-francois-xavier-gapais-notaire-a-nogent-le-rotrou.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "morereau-conseil",
@@ -9045,6 +9750,21 @@
    "amf": "GP-07000038",
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "1391-notaires",
+   "nom": "1391 NOTAIRES",
+   "categorie": "notaires",
+   "siren": "399943513",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/1391-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "patrimoine-epargne-conseil",
@@ -9467,6 +10187,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "notaires-de-longueil",
+   "nom": "NOTAIRES DE LONGUEIL",
+   "categorie": "notaires",
+   "siren": "407993203",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-de-longueil.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "vmp",
    "nom": "VMP",
    "categorie": "cgp",
@@ -9661,6 +10396,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "carole-olivier-imperatrice-laurence-petrolesi-cros-notaires-associes",
+   "nom": "CAROLE OLIVIER-IMPERATRICE, LAURENCE PETROLESI-CROS, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "410499750",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/carole-olivier-imperatrice-laurence-petrolesi-cros-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "apogee-conseil-entr-ocean-indien",
@@ -11217,6 +11967,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "scp-arnaud-nicolas-et-jean-baptiste-peyronnie-notaires-et-associes",
+   "nom": "SCP ARNAUD, NICOLAS ET JEAN-BAPTISTE PEYRONNIE NOTAIRES ET ASSOCIES",
+   "categorie": "notaires",
+   "siren": "428567069",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/scp-arnaud-nicolas-et-jean-baptiste-peyronnie-notaires-et-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "conseil-investissement-patrimoine",
    "nom": "CONSEIL INVESTISSEMENT PATRIMOINE",
    "categorie": "cgp",
@@ -11985,6 +12750,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "office-notarial-de-saint-ouen",
+   "nom": "OFFICE NOTARIAL DE SAINT OUEN",
+   "categorie": "notaires",
+   "siren": "434086344",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-de-saint-ouen.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "keren-finance",
@@ -14421,6 +15201,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "paris-ouest-notaires",
+   "nom": "PARIS OUEST NOTAIRES",
+   "categorie": "notaires",
+   "siren": "450908850",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/paris-ouest-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "epargne-et-courtage",
@@ -17631,6 +18426,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "vancia-relave-et-virginie-halter-notaires-associes",
+   "nom": "VANCIA RELAVE ET  VIRGINIE HALTER, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "484585369",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/vancia-relave-et-virginie-halter-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "lumiere-finance",
    "nom": "LUMIERE FINANCE",
    "categorie": "cgp",
@@ -18961,6 +19771,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "entreligne-notaires",
+   "nom": "ENTRELIGNE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "491351987",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/entreligne-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "drai-finance-conseil-et-patrimoine",
    "nom": "DRAI FINANCE CONSEIL ET PATRIMOINE",
    "categorie": "cgp",
@@ -19015,6 +19840,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "cellard-notaires-avocats",
+   "nom": "CELLARD NOTAIRES & AVOCATS",
+   "categorie": "notaires",
+   "siren": "491556973",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/cellard-notaires-avocats.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "amber-conseils",
@@ -26689,6 +27529,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "selarl-jean-sebastien-duracher-jean-christophe-roussel-et-jessica-savournin-notaires-associes",
+   "nom": "SELARL JEAN-SEBASTIEN DURACHER, JEAN-CHRISTOPHE ROUSSEL ET JESSICA SAVOURNIN NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "523738573",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/selarl-jean-sebastien-duracher-jean-christophe-roussel-et-jessica-savournin-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "jars-pappini-associes",
    "nom": "JARS PAPPINI & ASSOCIES",
    "categorie": "avocats",
@@ -28997,6 +29852,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "office-notarial-de-rochebonne",
+   "nom": "OFFICE NOTARIAL DE ROCHEBONNE",
+   "categorie": "notaires",
+   "siren": "533799136",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-de-rochebonne.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "foley-hoag",
@@ -31669,6 +32539,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "monia-kerharo-notaire",
+   "nom": "MONIA KERHARO NOTAIRE",
+   "categorie": "notaires",
+   "siren": "753599802",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/monia-kerharo-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "vnca",
    "nom": "VNCA",
    "categorie": "experts-comptables",
@@ -31868,6 +32753,111 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "pierre-tellier-jean-pierre-carayon-christophe-mons-olivier-tellier-karine-celeste-vignat-julie-dupuy-et-mailys-jean",
+   "nom": "PIERRE TELLIER, JEAN-PIERRE CARAYON, CHRISTOPHE MONS, OLIVIER TELLIER, KARINE CELESTE-VIGNAT, JULIE DUPUY ET MAILYS JEAN",
+   "categorie": "notaires",
+   "siren": "777186040",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pierre-tellier-jean-pierre-carayon-christophe-mons-olivier-tellier-karine-celeste-vignat-julie-dupuy-et-mailys-jean.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "maitres-jean-luc-garnier-david-bloche-et-benoit-darras-notaires-associes-d-une-societe-civile-profesionnelle-titulaire",
+   "nom": "MAITRES JEAN-LUC GARNIER, DAVID BLOCHE ET BENOIT DARRAS, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESIONNELLE TITULAIRE",
+   "categorie": "notaires",
+   "siren": "780691325",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maitres-jean-luc-garnier-david-bloche-et-benoit-darras-notaires-associes-d-une-societe-civile-profesionnelle-titulaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "latour-et-associes-notaires",
+   "nom": "LATOUR ET ASSOCIES, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "781701883",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/latour-et-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "nathalie-saint-maxin-chimene-pottiez-valerie-drouart-vincent-delvart-notaires-associes-societe-civile-professionnel",
+   "nom": "NATHALIE SAINT-MAXIN, CHIMENE POTTIEZ, VALERIE DROUART, VINCENT DELVART, NOTAIRES ASSOCIES, SOCIETE CIVILE PROFESSIONNEL",
+   "categorie": "notaires",
+   "siren": "783601768",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nathalie-saint-maxin-chimene-pottiez-valerie-drouart-vincent-delvart-notaires-associes-societe-civile-professionnel.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "nathalie-couteau-marie-nuns-amoureux-clotilde-debert-fossaert-jean-francois-vitse-adeline-seguin-camille-thoor-nota",
+   "nom": "NATHALIE COUTEAU, MARIE NUNS-AMOUREUX, CLOTILDE DEBERT-FOSSAERT, JEAN-FRANCOIS VITSE, ADELINE SEGUIN, CAMILLE THOOR NOTA",
+   "categorie": "notaires",
+   "siren": "783601776",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/nathalie-couteau-marie-nuns-amoureux-clotilde-debert-fossaert-jean-francois-vitse-adeline-seguin-camille-thoor-nota.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "tsd-notaires",
+   "nom": "TSD NOTAIRES",
+   "categorie": "notaires",
+   "siren": "783704448",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/tsd-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "etoile-notaires",
+   "nom": "ETOILE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "784349987",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/etoile-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "societe-anonyme-de-transactions-et-courtage",
    "nom": "SOCIETE ANONYME DE TRANSACTIONS ET COURTAGE",
    "categorie": "cgp",
@@ -31894,6 +32884,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "millet-montazeaud-associes-notaires",
+   "nom": "MILLET MONTAZEAUD & ASSOCIES NOTAIRES",
+   "categorie": "notaires",
+   "siren": "785311150",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/millet-montazeaud-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "syperus-finances",
@@ -32790,6 +33795,36 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "notaires-nord-anjou",
+   "nom": "NOTAIRES NORD ANJOU",
+   "categorie": "notaires",
+   "siren": "791092141",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-nord-anjou.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "chance-varin-associes-notaires",
+   "nom": "CHANCE-VARIN & ASSOCIES, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "791112493",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/chance-varin-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "dwbh-participation",
@@ -35424,6 +36459,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "offsix-notaire",
+   "nom": "OFFSIX NOTAIRE",
+   "categorie": "notaires",
+   "siren": "802895193",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/offsix-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "g-s",
    "nom": "G & S",
    "categorie": "cgp",
@@ -35996,6 +37046,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "selas-olivier-benchetrit-notaire",
+   "nom": "SELAS OLIVIER BENCHETRIT NOTAIRE",
+   "categorie": "notaires",
+   "siren": "805315678",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/selas-olivier-benchetrit-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "nizo-expert",
@@ -38756,6 +39821,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "ryckman-associes-avocat-notaire",
+   "nom": "RYCKMAN & ASSOCIES - AVOCAT-NOTAIRE",
+   "categorie": "notaires",
+   "siren": "818606154",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ryckman-associes-avocat-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cabinet-erard-patrimoine",
    "nom": "CABINET ERARD PATRIMOINE",
    "categorie": "cgp",
@@ -39946,6 +41026,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "act-notaires-associes",
+   "nom": "ACT & NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "822268843",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/act-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "conselia-patrimoine",
    "nom": "CONSELIA PATRIMOINE",
    "categorie": "cgp",
@@ -40266,6 +41361,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "scp-andre-vorobief-serge-vorobief",
+   "nom": "SCP ANDRE VOROBIEF- SERGE VOROBIEF",
+   "categorie": "notaires",
+   "siren": "823017967",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/scp-andre-vorobief-serge-vorobief.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "baris-strategie",
@@ -42592,6 +43702,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "thivel-notaires",
+   "nom": "THIVEL NOTAIRES",
+   "categorie": "notaires",
+   "siren": "831499819",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/thivel-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "w2b-patrimoine",
    "nom": "W2B PATRIMOINE",
    "categorie": "cgp",
@@ -42674,6 +43799,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "not-atlantique-notaires-associes",
+   "nom": "NOT'ATLANTIQUE NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "831676556",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/not-atlantique-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "alcion-s",
@@ -43022,6 +44162,21 @@
    "crm": null,
    "orias": null,
    "amf": null,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
+   "slug": "eunomia-notaires",
+   "nom": "EUNOMIA, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "832769756",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eunomia-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
    "opposition_prospection": false,
    "consulte_le": "2026-11-13"
   },
@@ -44088,6 +45243,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "selarl-marie-coursolle-bernard-moutel-laetitia-gourivaud-notaires",
+   "nom": "SELARL MARIE COURSOLLE - BERNARD MOUTEL - LAETITIA GOURIVAUD, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "837538073",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/selarl-marie-coursolle-bernard-moutel-laetitia-gourivaud-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "lifento",
@@ -45812,6 +46982,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "eric-belloch-notaire",
+   "nom": "ERIC BELLOCH, NOTAIRE",
+   "categorie": "notaires",
+   "siren": "842677635",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eric-belloch-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "thealais-patrimoine",
    "nom": "THEALAIS PATRIMOINE",
    "categorie": "cgp",
@@ -46288,6 +47473,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "seragora-notaires",
+   "nom": "SERAGORA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "844500140",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/seragora-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "avenir-conseils-et-investissements",
    "nom": "AVENIR CONSEILS ET INVESTISSEMENTS",
    "categorie": "cgp",
@@ -46400,6 +47600,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "proxima-notaires",
+   "nom": "PROXIMA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "844831933",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/proxima-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "altride-family-office",
    "nom": "ALTRIDE FAMILY OFFICE",
    "categorie": "cgp",
@@ -46468,6 +47683,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "notaires-des-vallees-de-la-marne-et-du-morin",
+   "nom": "NOTAIRES DES VALLEES DE LA MARNE ET DU MORIN",
+   "categorie": "notaires",
+   "siren": "844897777",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/notaires-des-vallees-de-la-marne-et-du-morin.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mp-conseil",
@@ -47184,6 +48414,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "omega-notaires",
+   "nom": "OMEGA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "848989851",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/omega-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "lnb-patrimonia",
    "nom": "LNB PATRIMONIA",
    "categorie": "cgp",
@@ -47350,6 +48595,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "flandres-lys-notaires",
+   "nom": "FLANDRES LYS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "849376611",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/flandres-lys-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "millennium-capital-management-france",
@@ -47882,6 +49142,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "s-e-l-a-r-l-f-x-derouvroy-a-gabet-c-coffin-c-e-sueur-j-balland-g-e-dupas-notaires-associes",
+   "nom": "S.E.L.A.R.L. F-X. DEROUVROY, A. GABET, C. COFFIN, C-E. SUEUR, J. BALLAND & G-E. DUPAS, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "850784190",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/s-e-l-a-r-l-f-x-derouvroy-a-gabet-c-coffin-c-e-sueur-j-balland-g-e-dupas-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "elioz-patrimoine",
@@ -48486,6 +49761,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "dcb-notaires-associes",
+   "nom": "DCB NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "852619758",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/dcb-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "hermess-patrimoine",
    "nom": "HERMESS PATRIMOINE",
    "categorie": "cgp",
@@ -48598,6 +49888,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "stephane-lahitte-et-franck-guillamet-notaires-associes",
+   "nom": "STEPHANE LAHITTE ET FRANCK GUILLAMET, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "853112431",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/stephane-lahitte-et-franck-guillamet-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "lcp-gestion",
    "nom": "LCP GESTION",
    "categorie": "cgp",
@@ -48652,6 +49957,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "chassaint-cercle-notaires",
+   "nom": "CHASSAINT & CERCLE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "853260149",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/chassaint-cercle-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "lignum-patrimoine",
@@ -49227,6 +50547,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "zographos-notaires",
+   "nom": "ZOGRAPHOS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "877950477",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/zographos-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "jf-investment",
@@ -49857,6 +51192,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "auteuil-notaires",
+   "nom": "AUTEUIL NOTAIRES",
+   "categorie": "notaires",
+   "siren": "879317154",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/auteuil-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ynvest-conseil",
@@ -50571,6 +51921,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "plantelin",
+   "nom": "PLANTELIN",
+   "categorie": "notaires",
+   "siren": "881389597",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/plantelin.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mt-patrimoine-conseil",
@@ -51735,6 +53100,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "trichet-et-associes-notaires",
+   "nom": "TRICHET ET ASSOCIES NOTAIRES",
+   "categorie": "notaires",
+   "siren": "884194044",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/trichet-et-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "olea-patrimoine",
    "nom": "OLEA PATRIMOINE",
    "categorie": "cgp",
@@ -51831,6 +53211,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "pegasus-notaires",
+   "nom": "PEGASUS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "884439605",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/pegasus-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "bovis-conseil-patrimoine",
@@ -51943,6 +53338,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "eric-midonet-notaire-associe",
+   "nom": "ERIC MIDONET, NOTAIRE ASSOCIE",
+   "categorie": "notaires",
+   "siren": "884884529",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/eric-midonet-notaire-associe.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "altyx-gestion-de-patrimoine",
@@ -52307,6 +53717,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "juliette-bres-et-perrine-maubon-notaires-associes",
+   "nom": "JULIETTE BRES ET PERRINE MAUBON, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "887756047",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/juliette-bres-et-perrine-maubon-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "amkan",
@@ -53163,6 +54588,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "operandi-notaires-associes",
+   "nom": "OPERANDI NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "890518764",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/operandi-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "altitude-investment-solutions",
    "nom": "ALTITUDE INVESTMENT SOLUTIONS",
    "categorie": "cgp",
@@ -53709,6 +55149,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "me-caroline-vincent-et-me-cyrielle-rougereau-notaires-associes",
+   "nom": "ME CAROLINE VINCENT ET ME CYRIELLE ROUGEREAU - NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "892073925",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/me-caroline-vincent-et-me-cyrielle-rougereau-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "cyprae",
    "nom": "CYPRAE",
    "categorie": "cgp",
@@ -53791,6 +55246,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "maxime-hirigoyen-notaire",
+   "nom": "MAXIME HIRIGOYEN NOTAIRE",
+   "categorie": "notaires",
+   "siren": "892174418",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/maxime-hirigoyen-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "ennoia-patrimoine-vendee",
@@ -54365,6 +55835,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "1512-notaires",
+   "nom": "1512 NOTAIRES",
+   "categorie": "notaires",
+   "siren": "893526038",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/1512-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "axipiter",
@@ -55039,6 +56524,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "selas-etude-notariale-peigne-dours",
+   "nom": "SELAS ETUDE NOTARIALE PEIGNE-DOURS",
+   "categorie": "notaires",
+   "siren": "897633400",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/selas-etude-notariale-peigne-dours.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "dherbeline-assurance-gestion-patrimoine",
    "nom": "DHERBELINE ASSURANCE, GESTION & PATRIMOINE",
    "categorie": "cgp",
@@ -55149,6 +56649,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "les-artisans-notaires",
+   "nom": "LES ARTISANS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "897858858",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/les-artisans-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mimco-asset-management",
@@ -55345,6 +56860,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "legi-notaires",
+   "nom": "LEGI NOTAIRES",
+   "categorie": "notaires",
+   "siren": "898898408",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/legi-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "iceo",
@@ -56073,6 +57603,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "jm-mateu-a-sanchez-jc-tassel-notaires-associes",
+   "nom": "JM. MATEU, A. SANCHEZ & JC. TASSEL NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "901244327",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/jm-mateu-a-sanchez-jc-tassel-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ribere-conseils",
@@ -57055,6 +58600,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "elodie-maquine-et-alexia-desvignes-bernard-notaires-de-l-esterel",
+   "nom": "ELODIE MAQUINE ET ALEXIA DESVIGNES-BERNARD, NOTAIRES DE L'ESTEREL",
+   "categorie": "notaires",
+   "siren": "904143591",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/elodie-maquine-et-alexia-desvignes-bernard-notaires-de-l-esterel.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "enso-patrimoine",
    "nom": "ENSO PATRIMOINE",
    "categorie": "cgp",
@@ -57937,6 +59497,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "grand-large-notaires-associes",
+   "nom": "GRAND LARGE - NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "908079494",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/grand-large-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "pg-conseils",
    "nom": "PG CONSEILS",
    "categorie": "cgp",
@@ -58453,6 +60028,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "hlv-notaires",
+   "nom": "HLV NOTAIRES",
+   "categorie": "notaires",
+   "siren": "909186561",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hlv-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "gestion-privee-541",
@@ -59561,6 +61151,21 @@
    "consulte_le": "2026-11-13"
   },
   {
+   "slug": "m-rosier-et-c-charbin",
+   "nom": "M.ROSIER ET C.CHARBIN",
+   "categorie": "notaires",
+   "siren": "911967685",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/m-rosier-et-c-charbin.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "merava-partners",
    "nom": "MERAVA PARTNERS",
    "categorie": "cgp",
@@ -60051,6 +61656,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "brunet-fosset-notaires",
+   "nom": "BRUNET & FOSSET NOTAIRES",
+   "categorie": "notaires",
+   "siren": "913599536",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/brunet-fosset-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "equinoxe-gp",
    "nom": "EQUINOXE GP",
    "categorie": "cgp",
@@ -60119,6 +61739,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "alpv-notaires-associes",
+   "nom": "ALPV NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "913652848",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/alpv-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ivy-patrimoine",
@@ -60821,6 +62456,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "g2d-notaires",
+   "nom": "G2D NOTAIRES",
+   "categorie": "notaires",
+   "siren": "917427924",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/g2d-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "rvr",
    "nom": "RVR",
    "categorie": "cgp",
@@ -60847,6 +62497,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "equilis-notaires",
+   "nom": "EQUILIS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "917494940",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/equilis-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "edaliz-patrimoine",
@@ -61365,6 +63030,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "volle-et-associes-notaires",
+   "nom": "VOLLE ET ASSOCIES, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "918790163",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/volle-et-associes-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "amplificatum",
@@ -63243,6 +64923,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "office-notarial-emmanuelle-bouzonie",
+   "nom": "OFFICE NOTARIAL EMMANUELLE BOUZONIE",
+   "categorie": "notaires",
+   "siren": "922697388",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-emmanuelle-bouzonie.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "mieux-placer",
    "nom": "MIEUX PLACER",
    "categorie": "cgp",
@@ -63299,6 +64994,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "damien-gousseau-et-charlene-dhif-notaires",
+   "nom": "DAMIEN GOUSSEAU ET CHARLENE DHIF, NOTAIRES",
+   "categorie": "notaires",
+   "siren": "924400617",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/damien-gousseau-et-charlene-dhif-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "socatri",
    "nom": "SOCATRI",
    "categorie": "cgp",
@@ -63353,6 +65063,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "isely-lex-artis-notaires",
+   "nom": "ISELY - LEX ARTIS NOTAIRES",
+   "categorie": "notaires",
+   "siren": "924845845",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/isely-lex-artis-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "racyn",
@@ -64025,6 +65750,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "odc-notaires-associes",
+   "nom": "ODC NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "928186154",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/odc-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "famille-office",
@@ -65525,6 +67265,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "hyphen-notaires",
+   "nom": "HYPHEN NOTAIRES",
+   "categorie": "notaires",
+   "siren": "931046197",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/hyphen-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "axis-gestion-privee",
    "nom": "AXIS GESTION PRIVEE",
    "categorie": "cgp",
@@ -65889,6 +67644,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "legacy-notaires",
+   "nom": "LEGACY NOTAIRES",
+   "categorie": "notaires",
+   "siren": "931677595",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/legacy-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "alsace-courtage-assurance-et-prevoyance",
    "nom": "ALSACE COURTAGE ASSURANCE ET PREVOYANCE",
    "categorie": "cgp",
@@ -65915,6 +67685,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "office-notarial-virginie-perrin",
+   "nom": "OFFICE NOTARIAL VIRGINIE PERRIN",
+   "categorie": "notaires",
+   "siren": "931706022",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-virginie-perrin.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "andromede-gestion-privee",
@@ -66265,6 +68050,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "lauryanne-toillier-et-morgane-jarry-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notar",
+   "nom": "LAURYANNE TOILLIER ET MORGANE JARRY, NOTAIRES, ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTAR",
+   "categorie": "notaires",
+   "siren": "932537723",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/lauryanne-toillier-et-morgane-jarry-notaires-associes-d-une-societe-civile-professionnelle-titulaire-d-un-office-notar.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "cabinet-alexandre-pilon",
@@ -66967,6 +68767,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "californie-notaires",
+   "nom": "CALIFORNIE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "934090820",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/californie-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
+  },
+  {
    "slug": "haut-doubs-conseils",
    "nom": "HAUT DOUBS CONSEILS",
    "categorie": "cgp",
@@ -67301,6 +69116,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "ipse-notaires",
+   "nom": "IPSE NOTAIRES",
+   "categorie": "notaires",
+   "siren": "934726514",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/ipse-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "ofilae-lille",
@@ -71083,6 +72913,21 @@
    "consulte_le": "2026-11-11"
   },
   {
+   "slug": "carla-pradoura-notaire",
+   "nom": "CARLA PRADOURA NOTAIRE",
+   "categorie": "notaires",
+   "siren": "943312918",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/carla-pradoura-notaire.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "evervest",
    "nom": "EVERVEST",
    "categorie": "cgp",
@@ -71333,6 +73178,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "julienne-maugain-notaires",
+   "nom": "JULIENNE MAUGAIN NOTAIRES",
+   "categorie": "notaires",
+   "siren": "944067586",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/julienne-maugain-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "hent-patrimoine",
@@ -72804,6 +74664,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "onpc-notaires",
+   "nom": "ONPC NOTAIRES",
+   "categorie": "notaires",
+   "siren": "949212278",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/onpc-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "am-patrimoine-et-conseil",
@@ -74290,6 +76165,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "office-notarial-le-tallec",
+   "nom": "OFFICE NOTARIAL LE TALLEC",
+   "categorie": "notaires",
+   "siren": "952962900",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-le-tallec.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": false,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "patrimoine-pluriel",
    "nom": "PATRIMOINE PLURIEL",
    "categorie": "cgp",
@@ -74778,6 +76668,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "vme-notaires",
+   "nom": "VME NOTAIRES",
+   "categorie": "notaires",
+   "siren": "953964129",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/vme-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "c-dp-immobilier",
@@ -77789,6 +79694,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "peyriere-boizard-notaires-associes",
+   "nom": "PEYRIERE & BOIZARD, NOTAIRES ASSOCIES",
+   "categorie": "notaires",
+   "siren": "982526816",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/peyriere-boizard-notaires-associes.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "aedgis",
@@ -81263,6 +83183,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "vita-notaires",
+   "nom": "VITA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "990577355",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/vita-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "mbm-auxilium",
    "nom": "MBM AUXILIUM",
    "categorie": "cgp",
@@ -82719,6 +84654,21 @@
    "consulte_le": "2026-11-12"
   },
   {
+   "slug": "office-notarial-du-63-avenue-des-pyrenees-carine-bert",
+   "nom": "OFFICE NOTARIAL DU 63 AVENUE DES PYRENEES - CARINE BERT",
+   "categorie": "notaires",
+   "siren": "993233840",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/office-notarial-du-63-avenue-des-pyrenees-carine-bert.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
+  },
+  {
    "slug": "umbrella-patrimoine",
    "nom": "UMBRELLA PATRIMOINE",
    "categorie": "cgp",
@@ -82927,6 +84877,21 @@
    "amf": null,
    "opposition_prospection": false,
    "consulte_le": "2026-11-12"
+  },
+  {
+   "slug": "bca-notaires",
+   "nom": "BCA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "993527142",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/bca-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-13"
   },
   {
    "slug": "mahr-associes-gouvieux",
@@ -84145,6 +86110,21 @@
    "amf": null,
    "opposition_prospection": true,
    "consulte_le": "2026-11-11"
+  },
+  {
+   "slug": "althea-notaires",
+   "nom": "ALTHEA NOTAIRES",
+   "categorie": "notaires",
+   "siren": "999262926",
+   "apercu": false,
+   "remplace": false,
+   "chemin": "f/althea-notaires.html",
+   "crm": null,
+   "orias": null,
+   "amf": null,
+   "office_notarial": true,
+   "opposition_prospection": true,
+   "consulte_le": "2026-11-14"
   },
   {
    "slug": "regalys-patrimoine",

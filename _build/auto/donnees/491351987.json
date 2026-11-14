@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "ENTRELIGNE NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491351987"
+ },
+ "siren": "491351987",
+ "denomination": "ENTRELIGNE NOTAIRES",
+ "nom_complet": "ENTRELIGNE NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2006-08-02",
+ "ville": "BRON",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491351987",
+ "maj_rne": "2026-09-23T23:36:55",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "SANDRINE YAËL SANDRINE",
+   "nom": "NAUDON (ARFI)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE JACQUELINE ROBERTE CELINE JACQUELINE ROBERTE",
+   "nom": "SYLVAIN (PACALET)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MATHIEU MARIE MATHIEU",
+   "nom": "SARRAU",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491351987",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "69500",
+  "departement": "69",
+  "nomination_verifiee": false
+ },
+ "site": "https://entreligne.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://entreligne.notaires.fr/droit-affaires/transmission-cession-entreprise",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession d'entreprise »).",
+    "extrait": "… Pour garantir le succès d'une transmission ou d'une cession d'entreprise, une préparation méticuleuse et anticipée est essentielle. Chez Entreligne, nous vous accompagnons dès les premiers pas de ce processus complexe, en portant une attention particulière à chaque détail. …",
+    "label": "site officiel de l’office",
+    "url": "https://entreligne.notaires.fr/droit-affaires/transmission-cession-entreprise",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:14"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://entreligne.notaires.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession d'entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://entreligne.notaires.fr/droit-affaires/transmission-cession-entreprise"
+ },
+ "sans_fiche_personne": true
+}

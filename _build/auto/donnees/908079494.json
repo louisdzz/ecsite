@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "GRAND LARGE - NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908079494"
+ },
+ "siren": "908079494",
+ "denomination": "GRAND LARGE - NOTAIRES ASSOCIES",
+ "nom_complet": "GRAND LARGE - NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2021-12-08",
+ "ville": "LORIENT",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908079494",
+ "maj_rne": "2026-10-09T16:57:39",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANNE CÉCILE MARIE",
+   "nom": "COSPAIN",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MARINE MARIE DOMINIQUE",
+   "nom": "GUILLOT",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BRICE LOUIS BERNARD YVES",
+   "nom": "LE BERRE",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/908079494",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "56100",
+  "departement": "56",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.grandlarge.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.grandlarge.notaires.fr/notaires-lorient/notre,etude,notariale,met,a,votre,disposition,ses,services,en,droit,commercial-10.html",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Cession de fonds de commerce et d’entreprise : Lorsque vous souhaitez vendre votre entreprise, nous veillons à mettre en place les garanties nécessaires, au bon déroulement de la cession, et nous assurons que la transaction se déroule en parfaite conformité avec les lois et réglementations. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.grandlarge.notaires.fr/notaires-lorient/notre,etude,notariale,met,a,votre,disposition,ses,services,en,droit,commercial-10.html",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:04"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:21",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.grandlarge.notaires.fr/notaires-lorient/mentions-legales.php",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://www.grandlarge.notaires.fr/notaires-lorient/notre,etude,notariale,met,a,votre,disposition,ses,services,en,droit,commercial-10.html"
+ },
+ "sans_fiche_personne": true
+}

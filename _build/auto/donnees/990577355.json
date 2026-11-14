@@ -1,0 +1,107 @@
+{
+ "nom_usuel": "VITA NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990577355"
+ },
+ "siren": "990577355",
+ "denomination": "VITA NOTAIRES",
+ "nom_complet": "VITA NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2025-02-02",
+ "ville": "TOURS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990577355",
+ "maj_rne": "2026-07-16T19:28:02",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "BENOÎT RAPHAËL MARIE",
+   "nom": "BERGE",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE FRANÇOIS MICHEL",
+   "nom": "PIQUEMAL",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/990577355",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "37000",
+  "departement": "37",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.vita-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.vita-notaires.fr/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… L'étude accompagne particuliers et entrepreneurs lors la préparation de la transmission de leur patrimoine personnel et professionnel. […] Cessions de parts, établissement de statuts, transmissions, pacte Dutreil, fusions, cession de fonds de commerce et de droit au bail, établissement de baux commerciaux. Notre étude intervient pour tout contrat ou protocole nécessitant la compétence de professionnels …",
+    "label": "site officiel de l’office",
+    "url": "https://www.vita-notaires.fr/",
+    "date": "2026-11-14",
+    "page": "page du site",
+    "extrait_avant_publication": "… Cessions de parts, établissement de statuts, transmissions, pacte Dutreil, fusions, cession de fonds de commerce et de droit au bail, établissement de baux commerciaux. …"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 11:00"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture du tirage B), mot pour mot",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.vita-notaires.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://www.vita-notaires.fr/"
+ },
+ "sans_fiche_personne": true
+}

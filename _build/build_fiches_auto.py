@@ -5,7 +5,8 @@ Entrée : _build/auto/donnees/<siren>.json, produits par _build/auto/collecte.py
 à partir de sources publiques uniquement (API Recherche d'entreprises de l'État,
 registre ORIAS, base GECO de l'AMF pour les sociétés de gestion, registre REGAFI de l'ACPR pour les banques,
 site officiel de la maison ; pour la rubrique banques, activités décrites par la banque, bloc activites ;
-pour la rubrique experts-comptables, preuves du lien avec la cession, bloc lien_cession). Chaque champ affiché porte sa source
+pour la rubrique experts-comptables, preuves du lien avec la cession, bloc lien_cession ; pour la rubrique notaires,
+société d'exercice lue au registre, bloc office_notarial, et extrait du site de l'office, bloc lien_cedant). Chaque champ affiché porte sa source
 et sa date de consultation. Un champ sans source reste « Non renseigné ».
 
 Sorties :
@@ -46,6 +47,9 @@ CATS = {
     "banques": {"label": "Banques et établissements de crédit",
             "metier": "Un établissement de crédit reçoit des dépôts et accorde des crédits sous agrément de l’Autorité de contrôle prudentiel et de résolution. Les services, les tarifs et la clientèle visée varient selon l’établissement.",
             "questions": ["Quels services votre agrément couvre-t-il en France ?", "Quels frais s’appliquent à la tenue de compte, au crédit et à la gestion ?", "Quel interlocuteur suivra la relation et avec quel pouvoir de décision ?"]},
+    "notaires": {"label": "Notaires",
+            "metier": "Le notaire est un officier public nommé par le garde des Sceaux. Il reçoit les actes authentiques et intervient notamment sur la transmission, la donation, le régime matrimonial et l’immobilier. Les émoluments des actes sont fixés par un tarif réglementé, les honoraires de conseil sont libres.",
+            "questions": ["Quels actes relèvent du tarif réglementé et lesquels d’honoraires libres ?", "Qui suivra mon dossier au sein de l’office ?", "Comment travaillez-vous avec mon avocat et mon conseil patrimonial ?"]},
     "sgp": {"label": "Sociétés de gestion",
             "metier": "Une société de gestion de portefeuille gère des fonds ou des mandats pour le compte de ses clients, sous agrément de l’Autorité des marchés financiers. Les stratégies, les frais et les conditions de sortie varient selon la société et le fonds.",
             "questions": ["Quelles activités votre agrément AMF couvre-t-il ?", "Quels frais s’appliquent, à l’entrée, chaque année et sur la performance ?", "Quelle durée de blocage et quelles conditions de sortie faut-il prévoir ?"]},
@@ -259,6 +263,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     o = r.get("orias") or {}
     am = r.get("amf")
     ac = r.get("acpr")
+    on = r.get("office_notarial")
     if ac:
         # Banque : inscription lue au registre REGAFI de l'ACPR (établissement de crédit ou succursale), SIREN publié par l'ACPR.
         s_ac = src("ACPR, registre REGAFI", ac["url"], d)
@@ -274,6 +279,22 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
             champ("Établissement d’origine", e("%s (%s)" % (mm.get("denomination"), nom_propre(mm.get("pays") or ""))), s_ac) if mm.get("denomination") else "",
             champ("Retrait d’agrément", "Procédure en cours selon le registre", s_ac) if ac.get("retrait_en_cours") else "",
             ('<p class="pv-source-note">Services déclarés au registre :</p><ul class="fa-people">%s</ul>%s' % (serv, s_ac)) if serv else "")
+    elif on:
+        # Société d'exercice notarial : fait lu au registre des entreprises. La nomination par arrêté n'est pas vérifiée,
+        # et aucun titre professionnel n'est attribué à une personne.
+        s_on = src("Annuaire des entreprises (registres SIRENE et RNE)", on["url"], d)
+        mention = lambda x: bool(re.search(r"nota[ir]", norm(x or "")))
+        if on.get("forme_code") == "6565":
+            nature = "Société civile professionnelle de notaires (catégorie juridique du registre)"
+        elif mention(r["denomination"]):
+            nature = "Société d’activités juridiques dont la dénomination porte la mention de notaire"
+        elif mention(r.get("enseigne")):
+            nature = "Société d’activités juridiques dont l’enseigne au registre porte la mention de notaire"
+        else:
+            nature = "Société d’activités juridiques dont le sigle au registre porte la mention de notaire"
+        regl = '<dl class="pv-condition-list">%s%s</dl><p class="fa-vide">Arrêté de nomination, office et chambre de rattachement : non renseignés.</p>' % (
+            champ("Office notarial", e(nature), s_on),
+            champ("Activité déclarée", e("Activités juridiques (NAF %s)" % on["naf"]), s_on) if on.get("naf") else "")
     elif r["categorie"] == "avocats":
         # Cabinet d'avocats : barreau affiché seulement s'il est sourcé (annuaire de l'Ordre ou mentions légales du site officiel). Pas de lecture ORIAS.
         ba = r.get("barreau")
@@ -315,8 +336,14 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
         cite = lambda x: ("… " if x[:1].islower() else "") + re.sub(r"\s+([.,])", r"\1", x) + ("" if re.search(r"[.!?…]$", x) else " …")
         lis = "".join(champ(ACTIVITE_LIB[p["categorie"]], "« %s »" % e(cite(p["extrait"])), src(p.get("label") or "site officiel de la banque", p["url"], p.get("relu_le") or p["date_lecture"])) for k in ab["categories"] for p in ab["preuves"] if p["categorie"] == k)
         lien = '<section aria-labelledby="fa-activites" id="activites-banque"><h2 class="pv-section-title" id="fa-activites">Activités décrites par la banque.</h2><dl class="pv-condition-list">%s</dl>%s<p class="pv-source-note">Cette banque figure dans l’Annuaire parce qu’une activité de banque privée, de financement d’acquisition ou de banque d’affaires est décrite par la source citée. Cette mention ne dit rien de la qualité du service et n’entre pas dans le classement d’activité.</p></section>' % (lis, ('<p class="pv-source-note">%s</p>' % e(ab["precision"])) if ab.get("precision") else "")
+    # Notaires : texte propre à l'office décrivant son travail sur le droit utile au cédant (critère validé par Louis le
+    # 14 novembre 2026). Chaque extrait est repris tel quel, daté et lié à sa page.
+    ln = r.get("lien_cedant")
+    if on and ln and ln.get("preuves"):
+        lis = "".join(champ("Activité décrite par l’office", "« %s »" % e(p["extrait"].strip()), src(p.get("label") or "site officiel de l’office", p["url"], p.get("date") or d)) for p in ln["preuves"])
+        lien = '<section aria-labelledby="fa-cession" id="lien-cession"><h2 class="pv-section-title" id="fa-cession">Lien avec la cession.</h2><dl class="pv-condition-list">%s</dl><p class="pv-source-note">Cet office figure dans l’Annuaire parce que son site officiel décrit, par un texte qui lui est propre, un travail utile au cédant : droit des sociétés, cession de titres ou de fonds de commerce, pacte Dutreil, donation avant cession, transmission d’entreprise ou patrimoine du dirigeant. Cette mention ne dit rien de la qualité du conseil et n’entre pas dans le classement d’activité.</p></section>' % lis
     rs = r.get("raison")
-    raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
+    raison = ('%s%s' % (e(rs["texte"]), src(rs["label"], rs["url"], rs.get("date") or d))) if rs else "Rubrique issue du recensement initial de l’Annuaire. Justification publique non renseignée."
     liens = []
     if r.get("site"):
         liens.append(champ("Site officiel", '<a href="%s" rel="noopener nofollow" target="_blank">%s</a>' % (e(r["site"]), e(re.sub(r"^https?://(www\.)?|/$", "", r["site"]))), src("site officiel de la maison", r.get("site_source") or (r.get("siren_source") or {}).get("url") or r["site"], r.get("site_consulte_le") or d)))
@@ -332,7 +359,7 @@ def fiche_maison(r, slug, apercu, personnes, base_style):
     corr = "mailto:louis@exit.club?subject=" + e("Fiche %s · correction" % slug).replace(" ", "%20")
     claim = pv.lien(slug, "maison", maison=nom, dom=pv.dom_site(r.get("site")))
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "Organization", "name": nom, "legalName": r["denomination"], "url": url_pub, **({"sameAs": [r["site"]]} if r.get("site") else {})}, ensure_ascii=False)
-    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ACPR, site officiel" if r.get("acpr") else "registre, barreau, site officiel" if r["categorie"] == "avocats" else "registre, ORIAS, site officiel", c["label"])
+    desc = "%s : fiche générée à partir de sources publiques (%s). Rubrique %s de L’Annuaire de l’Exit." % (nom, "registre, AMF" if r.get("amf") else "registre, ACPR, site officiel" if r.get("acpr") else "registre, barreau, site officiel" if r["categorie"] == "avocats" else "registre, site officiel de l’office" if r.get("office_notarial") else "registre, ORIAS, site officiel", c["label"])
     h = head("%s · %s" % (nom, c["label"]), desc, canon, apercu, base_style, jsonld)
     av = '<p class="fa-apercu">Aperçu interne · cette maison a déjà une fiche publiée (<a href="/f/%s">/f/%s</a>), qui n’est pas modifiée.</p>' % (slug, slug) if apercu else ""
     lg = r.get("_logo")
@@ -471,7 +498,8 @@ def main():
         r["dirigeants"] = sans_mandat_double(r["dirigeants"])
         # Experts-comptables (lot du 12 novembre 2026) : fiches cabinets seulement. Les dirigeants du registre sont listés sur la fiche
         # du cabinet avec leur qualité exacte, sans fiche personne et sans titre professionnel non vérifié à l'Ordre.
-        sans_pers = r["categorie"] == "experts-comptables" or bool(r.get("sans_fiche_personne"))
+        # Notaires (lot du 14 novembre 2026) : même règle, le titre de notaire n'étant vérifié pour aucune personne.
+        sans_pers = r["categorie"] in ("experts-comptables", "notaires") or bool(r.get("sans_fiche_personne"))
         for p in r["dirigeants"]:
             if p["type"] != "pp" or not p.get("nom") or not p.get("prenoms"):
                 continue
@@ -525,7 +553,7 @@ def main():
         slug = r["_slug"]
         dest = os.path.join(ROOT, "f", slug + ".html")
         open(dest, "w", encoding="utf-8").write(fiche_maison(r, slug, False, personnes, base_style))
-        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "amf": (r.get("amf") or {}).get("numero"), **({"acpr": ((r["acpr"].get("cib") or [None])[0])} if r.get("acpr") else {}), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
+        manifeste["maisons"].append({"slug": slug, "nom": r["nom_usuel"], "categorie": r["categorie"], "siren": r["siren"], "apercu": False, "remplace": r["_remplace"], "chemin": "f/%s.html" % slug, "crm": r.get("crm"), "orias": (r.get("orias") or {}).get("numero"), "amf": (r.get("amf") or {}).get("numero"), **({"acpr": ((r["acpr"].get("cib") or [None])[0])} if r.get("acpr") else {}), **({"office_notarial": True} if r.get("office_notarial") else {}), "opposition_prospection": r.get("opposition_prospection"), "consulte_le": r["consulte_le"]})
         for p in personnes:
             if p["siren"] == r["siren"] and p.get("slug"):
                 open(os.path.join(ROOT, "p", p["slug"] + ".html"), "w", encoding="utf-8").write(fiche_personne(p, r, slug, base_style))

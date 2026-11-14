@@ -1,0 +1,98 @@
+{
+ "nom_usuel": "OFFICE NOTARIAL LE TALLEC",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/952962900"
+ },
+ "siren": "952962900",
+ "denomination": "OFFICE NOTARIAL LE TALLEC",
+ "nom_complet": "OFFICE NOTARIAL LE TALLEC",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2023-05-30",
+ "ville": "LORIENT",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/952962900",
+ "maj_rne": "2026-10-09T16:53:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMILIEN JEAN MARIE",
+   "nom": "LE TALLEC",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/952962900",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "56100",
+  "departement": "56",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.letallec-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.letallec-notaires.fr/expertises/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… De la création à la transmission, en passant par la restructuration ou la cession de fonds de commerce, notre étude accompagne les dirigeants à chaque étape clé. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.letallec-notaires.fr/expertises/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-14 22:16"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:18",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.letallec-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://www.letallec-notaires.fr/expertises/"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,94 @@
+{
+ "nom_usuel": "SEIZE NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/328031323"
+ },
+ "siren": "328031323",
+ "denomination": "SEIZE NOTAIRES",
+ "nom_complet": "SEIZE NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1983-07-01",
+ "ville": "SAINT-MARTIN-DE-LONDRES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/328031323",
+ "maj_rne": "2026-09-22T13:38:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "PASCALE MARYLINE",
+   "nom": "MORTON-OUKRATE (MORTON)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/328031323",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "34380",
+  "departement": "34",
+  "nomination_verifiee": false
+ },
+ "site": "https://seize-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://seize-notaires.fr/expertises-droit-des-affaires/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Parce que l’office ne s’adresse pas qu’aux particuliers, elle saura vous apporter sa compétence en la matière, et notamment comment protéger sa famille, comment créer son entreprise ou sa société et comment la céder. …",
+    "label": "site officiel de l’office",
+    "url": "https://seize-notaires.fr/expertises-droit-des-affaires/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:20"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:29",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://seize-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://seize-notaires.fr/expertises-droit-des-affaires/"
+ },
+ "sans_fiche_personne": true
+}

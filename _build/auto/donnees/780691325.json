@@ -1,0 +1,110 @@
+{
+ "nom_usuel": "MAITRES JEAN-LUC GARNIER, DAVID BLOCHE ET BENOIT DARRAS, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESIONNELLE TITULAIRE",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/780691325"
+ },
+ "siren": "780691325",
+ "denomination": "MAITRES JEAN-LUC GARNIER, DAVID BLOCHE ET BENOIT DARRAS, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESIONNELLE TITULAIRE",
+ "nom_complet": "MAITRES JEAN-LUC GARNIER, DAVID BLOCHE ET BENOIT DARRAS, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESIONNELLE TITULAIRE",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1987-10-16",
+ "ville": "BAYEUX",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/780691325",
+ "maj_rne": "2026-09-24T19:49:42",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DAVID MAURICE PASCAL",
+   "nom": "BLOCHE",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "BENOIT",
+   "nom": "DARRAS",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VINCENT",
+   "nom": "POTTIER",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/780691325",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "14400",
+  "departement": "14",
+  "nomination_verifiee": false
+ },
+ "site": "https://bloche-darras-pottier.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://bloche-darras-pottier.notaires.fr/competences",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Bail commercial, fonds de commerce, création de société, cession d’entreprise et transmission d’entreprise au sein de la famille…Nous vous apporterons tous les conseils juridiques et fiscaux qui vous permettront d’envisager votre projets professionnels avec sérénité. …",
+    "label": "site officiel de l’office",
+    "url": "https://bloche-darras-pottier.notaires.fr/competences",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:29"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB1"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://bloche-darras-pottier.notaires.fr",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://bloche-darras-pottier.notaires.fr/competences"
+ },
+ "sans_fiche_personne": true
+}

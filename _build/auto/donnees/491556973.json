@@ -1,0 +1,128 @@
+{
+ "nom_usuel": "CELLARD NOTAIRES & AVOCATS",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491556973"
+ },
+ "siren": "491556973",
+ "denomination": "CELLARD NOTAIRES & AVOCATS",
+ "nom_complet": "CELLARD NOTAIRES & AVOCATS (CNA)",
+ "sigle": "CNA",
+ "enseigne": null,
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2006-07-12",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491556973",
+ "maj_rne": "2026-10-27T10:44:01",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ANTOINE JEAN PIERRE",
+   "nom": "CELLARD (CELLARD)",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FRANÇOIS MAXIME PIERRE",
+   "nom": "CELLARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIEN PHILIPPE PIERRE",
+   "nom": "CELLARD (CELLARD)",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PIERRE MARIE JACQUES",
+   "nom": "CELLARD",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VANESSA",
+   "nom": "GODINHO",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "EVELYNE PATRICIA",
+   "nom": "CELLARD (JOUANIN)",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/491556973",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5710",
+  "forme": "SAS, société par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "75011",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.cellard-notaires-avocats.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.cellard-notaires-avocats.fr/competences/transmission-cession-entreprise",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Pacte Dutreil »).",
+    "extrait": "… Pacte Dutreil, apport-cession (150-0 B ter), holding pré-cession, pacte d'associés. Schémas intégrés notaire + avocat fiscaliste, du pacte d'associés à l'acte de cession. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.cellard-notaires-avocats.fr/competences/transmission-cession-entreprise",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 07:57"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:34",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.cellard-notaires-avocats.fr/mentions-legales",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Pacte Dutreil »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.cellard-notaires-avocats.fr/competences/transmission-cession-entreprise"
+ },
+ "sans_fiche_personne": true
+}

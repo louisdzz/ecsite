@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "MICHEL HAU-PALE ET CHRISTOPHE GOURGUES NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'OFFICES NOTARI",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314514514"
+ },
+ "siren": "314514514",
+ "denomination": "MICHEL HAU-PALE ET CHRISTOPHE GOURGUES NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'OFFICES NOTARI",
+ "nom_complet": "MICHEL HAU-PALE ET CHRISTOPHE GOURGUES NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'OFFICES NOTARI",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1978-01-01",
+ "ville": "MAULEON-LICHARRE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314514514",
+ "maj_rne": "2026-09-22T11:40:43",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "CHRISTOPHE",
+   "nom": "GOURGUES",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "MICHEL JOSEPH LEON",
+   "nom": "HAU PALE",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/314514514",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "64130",
+  "departement": "64",
+  "nomination_verifiee": false
+ },
+ "site": "https://gourgues.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://gourgues.notaires.fr/presentation-de-l-office--gourgues-christophe.html",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Nous accompagnons les entrepreneurs, dirigeants et investisseurs dans toutes les étapes de la vie de leur entreprise, en conseil comme en sécurisation juridique. Nous intervenons notamment pour : […] les transmissions d’entreprises (cession de fonds de commerce, titres) ; …",
+    "label": "site officiel de l’office",
+    "url": "https://gourgues.notaires.fr/presentation-de-l-office--gourgues-christophe.html",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:29"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://gourgues.notaires.fr/mentions-legales-gourgues-christophe.html",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://gourgues.notaires.fr/presentation-de-l-office--gourgues-christophe.html"
+ },
+ "sans_fiche_personne": true
+}

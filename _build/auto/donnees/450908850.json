@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "PARIS OUEST NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/450908850"
+ },
+ "siren": "450908850",
+ "denomination": "PARIS OUEST NOTAIRES",
+ "nom_complet": "PARIS OUEST NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2003-11-12",
+ "ville": "ASNIERES-SUR-SEINE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/450908850",
+ "maj_rne": "2026-09-23T16:13:21",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "STEPHANE",
+   "nom": "LEVI MARTIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-LUC",
+   "nom": "TRUFFET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/450908850",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "92600",
+  "departement": "92",
+  "nomination_verifiee": false
+ },
+ "site": "https://parisouestnotaires.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://parisouestnotaires.notaires.fr/expertises/droit-commercial-et-des-societes.htm",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « sociétés »).",
+    "extrait": "… Spécialisés dans le domaine du droit des affaires, nous accompagnons nos clients dans toutes les phases de la vie de leur société ou de leur activité depuis la création, pendant le fonctionnement et jusqu'à la transmission. […] la cession de fonds de commerce ou de droit au bail […] la cession de parts sociales […] la transmission d'entreprise …",
+    "label": "site officiel de l’office",
+    "url": "https://parisouestnotaires.notaires.fr/expertises/droit-commercial-et-des-societes.htm",
+    "date": "2026-11-13",
+    "page": "page dédiée du site",
+    "extrait_avant_publication": "… L'expérience des Notaires de PARIS OUEST NOTAIRES vous accompagnera dans les principaux domaines du droit commercial et des sociétés et vous apportera un conseil avisé et personnalisé , notamment pour : …"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:54"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:24",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture des fiches hors tirage), mot pour mot"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://parisouestnotaires.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « sociétés »).",
+  "label": "site officiel de l'office",
+  "url": "https://parisouestnotaires.notaires.fr/expertises/droit-commercial-et-des-societes.htm"
+ },
+ "sans_fiche_personne": true
+}

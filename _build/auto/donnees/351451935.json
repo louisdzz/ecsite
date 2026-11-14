@@ -1,0 +1,122 @@
+{
+ "nom_usuel": "OLIVIER RAPINAT, JULIE GAUTIER, OLIVIER BROUSSON, ESTEL TARRIT, DELPHINE RHODE-ARZENS",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351451935"
+ },
+ "siren": "351451935",
+ "denomination": "OLIVIER RAPINAT, JULIE GAUTIER, OLIVIER BROUSSON, ESTEL TARRIT, DELPHINE RHODE-ARZENS",
+ "nom_complet": "OLIVIER RAPINAT, JULIE GAUTIER, OLIVIER BROUSSON, ESTEL TARRIT, DELPHINE RHODE-ARZENS (OFFICE NOTARIAL SAINT CRESCENT)",
+ "sigle": null,
+ "enseigne": "OFFICE NOTARIAL SAINT CRESCENT",
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1989-06-23",
+ "ville": "NARBONNE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351451935",
+ "maj_rne": "2026-09-22T17:22:34",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER ALAIN CHRISTIAN",
+   "nom": "BROUSSON",
+   "qualite": "Gérant et associé indéfiniment et solidairement responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER",
+   "nom": "RAPINAT",
+   "qualite": "Gérant et associé indéfiniment et solidairement responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "DELPHINE MARIE",
+   "nom": "ARZENS (RHODE)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JULIE",
+   "nom": "GAUTIER (SEGURA)",
+   "qualite": "Gérant et associé indéfiniment et solidairement responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ESTEL JEANNE",
+   "nom": "TARRIT",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/351451935",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "11100",
+  "departement": "11",
+  "nomination_verifiee": false
+ },
+ "site": "https://notaires-saintcrescent.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://notaires-saintcrescent.fr/profils-clients/entreprises/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… Nous accompagnons les chefs d’entreprise à toutes les étapes de leur projet entrepreneurial, de la création (ou la reprise), en passant par la gestion jusqu’à la transmission. …",
+    "label": "site officiel de l’office",
+    "url": "https://notaires-saintcrescent.fr/profils-clients/entreprises/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:10"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:36",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://notaires-saintcrescent.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://notaires-saintcrescent.fr/profils-clients/entreprises/"
+ },
+ "sans_fiche_personne": true
+}

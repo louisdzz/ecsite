@@ -1,0 +1,128 @@
+{
+ "nom_usuel": "GHD NOTAIRES & ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388782013"
+ },
+ "siren": "388782013",
+ "denomination": "GHD NOTAIRES & ASSOCIES",
+ "nom_complet": "GHD NOTAIRES & ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "1992-09-25",
+ "ville": "NIMES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388782013",
+ "maj_rne": "2026-09-27T03:37:22",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EVA ISABELLE HELENE",
+   "nom": "ANDREO",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "LAURENCE",
+   "nom": "TINCHANT (CHAUMONT)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE MARTINE",
+   "nom": "FOLCHER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "FREDERIC",
+   "nom": "GERBET",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/388782013",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "30000",
+  "departement": "30",
+  "nomination_verifiee": false
+ },
+ "site": "https://ghd.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://ghd.notaires.fr/expertises/droit-des-affaires/transmission-et-cession-dentreprise.htm",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "À Nîmes, l’étude GHd Notaires & Associés accompagne les entrepreneurs, dirigeants, investisseurs et commerçants dans leurs projets, avec une approche globale articulant droit des sociétés, patrimoine et famille.",
+    "label": "site officiel de l’office",
+    "url": "https://ghd.notaires.fr/expertises/droit-des-affaires.htm",
+    "date": "2026-11-14",
+    "page": "page du site"
+   },
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… L’accompagnement porte sur l’organisation juridique et patrimoniale de l’opération, en tenant compte des intérêts du cédant et du repreneur, ainsi que des mécanismes fiscaux existants, tels que le pacte Dutreil dans un cadre familial. …",
+    "label": "site officiel de l’office",
+    "url": "https://ghd.notaires.fr/expertises/droit-des-affaires/transmission-et-cession-dentreprise.htm",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 07:57"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true,
+   "limite": "Page principale : formule générale ; retenu sur la sous-page « Transmission et cession d'entreprise » du site (modèle de réseau, texte introuvable ailleurs)."
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "phrase propre à l'office ajoutée (page Droit des affaires), en plus de la sous-page Transmission et cession d'entreprise",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://ghd.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://ghd.notaires.fr/expertises/droit-des-affaires/transmission-et-cession-dentreprise.htm"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,122 @@
+{
+ "nom_usuel": "FLANDRES LYS NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849376611"
+ },
+ "siren": "849376611",
+ "denomination": "FLANDRES LYS NOTAIRES",
+ "nom_complet": "FLANDRES LYS NOTAIRES (F.L NOT)",
+ "sigle": "F.L NOT",
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2019-03-22",
+ "ville": "STEENVOORDE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849376611",
+ "maj_rne": "2026-09-26T00:25:33",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "HUBERT NICOLAS BERNARD",
+   "nom": "BOURGEOIS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NICOLAS NOËL PASCAL",
+   "nom": "BOURGEOIS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CÉLINE THÉRÈSE MARIE",
+   "nom": "IOOS",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ALEXIS JEAN-PIERRE LAURENT",
+   "nom": "MARY",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "PAULINE MARIE",
+   "nom": "GRAUWIN (RUCKSTUHL)",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/849376611",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "59114",
+  "departement": "59",
+  "nomination_verifiee": false
+ },
+ "site": "https://flandres-lys.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://flandres-lys.notaires.fr/droit-des-affaires/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession d’entreprise »).",
+    "extrait": "… Vous bénéficierez de l’expertise de FLANDRES LYS NOTAIRES pour les aspects juridiques de création, reprise, restructuration, cession d’entreprise. …",
+    "label": "site officiel de l’office",
+    "url": "https://flandres-lys.notaires.fr/droit-des-affaires/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 07:57"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://flandres-lys.notaires.fr/politique-de-confidentialite/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « cession d’entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://flandres-lys.notaires.fr/droit-des-affaires/"
+ },
+ "sans_fiche_personne": true
+}

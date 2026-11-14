@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "ANAELLE COQUEUX ET REMI CHARPENTIER, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE...",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384948154"
+ },
+ "siren": "384948154",
+ "denomination": "ANAELLE COQUEUX ET REMI CHARPENTIER, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE...",
+ "nom_complet": "ANAELLE COQUEUX ET REMI CHARPENTIER, NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE...",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1992-03-23",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384948154",
+ "maj_rne": "2026-09-22T20:44:56",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "REMI",
+   "nom": "CHARPENTIER",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ANAELLE",
+   "nom": "COQUEUX",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/384948154",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "75008",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://coqueux-charpentier.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://coqueux-charpentier.notaires.fr/societes/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « société »).",
+    "extrait": "… De la création de votre société à sa transmission, l’étude intervient sur la rédaction et la modification des statuts, les pactes d’associés, les apports de biens, les cessions de parts sociales ou encore la dissolution et la liquidation. Nous veillons à articuler ces opérations avec l’organisation patrimoniale du dirigeant. …",
+    "label": "site officiel de l’office",
+    "url": "https://coqueux-charpentier.notaires.fr/societes/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:31"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:31",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://coqueux-charpentier.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « société »).",
+  "label": "site officiel de l'office",
+  "url": "https://coqueux-charpentier.notaires.fr/societes/"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "MARTIN CAMPS ET NOEL CHARRAS NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342293602"
+ },
+ "siren": "342293602",
+ "denomination": "MARTIN CAMPS ET NOEL CHARRAS NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+ "nom_complet": "MARTIN CAMPS ET NOEL CHARRAS NOTAIRES ASSOCIES D'UNE SOCIETE CIVILE PROFESSIONNELLE TITULAIRE D'UN OFFICE NOTARIAL",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société civile professionnelle de notaires",
+ "forme_code": "6565",
+ "creation": "1987-07-02",
+ "ville": "TOULOUSE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342293602",
+ "maj_rne": "2026-09-29T13:12:20",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MARTIN",
+   "nom": "CAMPS",
+   "qualite": "Autre"
+  },
+  {
+   "type": "pp",
+   "prenoms": "NOEL",
+   "nom": "CHARRAS",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/342293602",
+  "critere": "catégorie juridique 6565 au registre (société civile professionnelle de notaires)",
+  "forme_code": "6565",
+  "forme": "Société civile professionnelle de notaires",
+  "naf": "69.10Z",
+  "code_postal": "31000",
+  "departement": "31",
+  "nomination_verifiee": false
+ },
+ "site": "https://camps-associes.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://camps-associes.notaires.fr/la-transmission-de-lactivite-professionnelle/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « statuts »).",
+    "extrait": "… Audit de statuts et aménagements pour l’agrément des héritiers, établissement de « Pacte Dutreil », donations-partages, cessions de parts sociales et d’entreprises, étude de fiscalité …",
+    "label": "site officiel de l’office",
+    "url": "https://camps-associes.notaires.fr/la-transmission-de-lactivite-professionnelle/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:29"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://camps-associes.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « statuts »).",
+  "label": "site officiel de l'office",
+  "url": "https://camps-associes.notaires.fr/la-transmission-de-lactivite-professionnelle/"
+ },
+ "sans_fiche_personne": true
+}

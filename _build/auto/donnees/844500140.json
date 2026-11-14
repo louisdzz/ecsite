@@ -1,0 +1,106 @@
+{
+ "nom_usuel": "SERAGORA NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844500140"
+ },
+ "siren": "844500140",
+ "denomination": "SERAGORA NOTAIRES",
+ "nom_complet": "SERAGORA NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "SARL, société à responsabilité limitée",
+ "forme_code": "5499",
+ "creation": "2018-11-20",
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844500140",
+ "maj_rne": "2026-09-25T22:56:48",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "JULIE",
+   "nom": "MOUMIN",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "ROMAIN",
+   "nom": "OUSTRIC",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/844500140",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5499",
+  "forme": "SARL, société à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "33000",
+  "departement": "33",
+  "nomination_verifiee": false
+ },
+ "site": "https://seragora.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://seragora.notaires.fr/droits-des-entreprises/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office.",
+    "extrait": "… Nous vous conseillons sur la mise en place et la gestion de holdings pour structurer et optimiser votre patrimoine professionnel et personnel. […] Nous vous accompagnons dans la préparation et la mise en œuvre de la transmission de votre structure, en tenant compte des implications fiscales et patrimoniales, et lorsque cela est possible, avec un Pacte Dutreil. …",
+    "label": "site officiel de l’office",
+    "url": "https://seragora.notaires.fr/droits-des-entreprises/",
+    "date": "2026-11-14",
+    "page": "page dédiée du site",
+    "extrait_avant_publication": "… Nous vous conseillons sur la mise en place et la gestion de holdings pour structurer et optimiser votre patrimoine professionnel et personnel. …"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 10:36"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:17",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture des fiches hors tirage), mot pour mot"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://seragora.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office.",
+  "label": "site officiel de l'office",
+  "url": "https://seragora.notaires.fr/droits-des-entreprises/"
+ },
+ "sans_fiche_personne": true
+}

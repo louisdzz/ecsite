@@ -1,0 +1,104 @@
+{
+ "nom_usuel": "LEGACY NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931677595"
+ },
+ "siren": "931677595",
+ "denomination": "LEGACY NOTAIRES",
+ "nom_complet": "LEGACY NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "2024-08-01",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931677595",
+ "maj_rne": "2026-09-27T20:15:07",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "MATHIS PIERRE DANIEL",
+   "nom": "DUPIN",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "TOM ALEXIS CHRISTIAN HERVÉ",
+   "nom": "PINARD",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/931677595",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "75008",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://legacy.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://legacy.notaires.fr/expertises/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… À la demande de nos clients, nous sommes en mesure de procéder à l’évaluation de titres sociaux dans le cadre d’une transmission à titre gratuit (donation ou succession), en adéquation avec la jurisprudence et la doctrine administrative. …",
+    "label": "site officiel de l’office",
+    "url": "https://legacy.notaires.fr/expertises/",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 09:20"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:22",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "dénomination exacte et ville du siège dans les mentions légales (aucun SIREN publié)",
+ "site_source": "https://legacy.notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://legacy.notaires.fr/expertises/"
+ },
+ "sans_fiche_personne": true
+}

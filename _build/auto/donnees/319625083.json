@@ -1,0 +1,98 @@
+{
+ "nom_usuel": "SAVOURE, NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319625083"
+ },
+ "siren": "319625083",
+ "denomination": "SAVOURE, NOTAIRES",
+ "nom_complet": "SAVOURE, NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": "1979-04-24",
+ "ville": "VERSAILLES",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319625083",
+ "maj_rne": "2026-09-22T12:16:58",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "DOMINIQUE",
+   "nom": "SAVOURE",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/319625083",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "78000",
+  "departement": "78",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.savoure-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.savoure-notaires.fr/patrimoine-et-entreprise",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+    "extrait": "… En lui donnant les moyens d’optimiser juridiquement et fiscalement la détention, la structuration et la cession de son entreprise, et ce au moyen d’une stratégie d’anticipation. …",
+    "label": "site officiel de l’office",
+    "url": "https://www.savoure-notaires.fr/patrimoine-et-entreprise",
+    "date": "2026-11-14",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-14 22:20"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:29",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://www.savoure-notaires.fr/mentions-legales5",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « entreprise »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.savoure-notaires.fr/patrimoine-et-entreprise"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,126 @@
+{
+ "nom_usuel": "N3B NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301275731"
+ },
+ "siren": "301275731",
+ "denomination": "N3B NOTAIRES",
+ "nom_complet": "N3B NOTAIRES (N3B)",
+ "sigle": null,
+ "enseigne": "N3B",
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": null,
+ "ville": "BORDEAUX",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301275731",
+ "maj_rne": "2026-09-22T10:34:05",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "EMMANUEL",
+   "nom": "BAUDERE",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "OLIVIER JEAN XAVIER",
+   "nom": "DEYMES",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "STEPHANIE THERESE",
+   "nom": "PETIT (MAURICE)",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VIRGINIE",
+   "nom": "PONTALIER",
+   "qualite": "Gérant"
+  },
+  {
+   "type": "pp",
+   "prenoms": "GREGORY",
+   "nom": "SEPZ",
+   "qualite": "Gérant"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/301275731",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "33000",
+  "departement": "33",
+  "nomination_verifiee": false
+ },
+ "site": "https://www.notaires-n3b.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://www.notaires-n3b.fr/competences/",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Dirigeants d’entreprises »).",
+    "extrait": "… Dirigeants d’entreprises, l’étude intervient à vos côtés dans la vie des affaires. Maîtrisant les besoins pratiques de notre clientèle, notre équipe vous accompagne à chaque étape de la vie sociétaire : […] à l’occasion de la cession (cession de titres ou fonds de commerce) ou la transmission (donation, donation-partage) de votre entreprise.",
+    "label": "site officiel de l’office",
+    "url": "https://www.notaires-n3b.fr/competences/",
+    "date": "2026-11-14",
+    "page": "page du site",
+    "extrait_avant_publication": "… Dirigeants d’entreprises, l’étude intervient à vos côtés dans la vie des affaires. …"
+   }
+  ],
+  "lecture": {
+   "code": "G2",
+   "date": "2026-11-13 07:58"
+  },
+  "relecture": {
+   "date": "2026-11-13 08:35",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "extrait_complete": true,
+   "motif": "extrait complété sur la même page (relecture du tirage B), mot pour mot",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "dénomination exacte et ville du siège dans les mentions légales (aucun SIREN publié)",
+ "site_source": "https://www.notaires-n3b.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « Dirigeants d’entreprises »).",
+  "label": "site officiel de l'office",
+  "url": "https://www.notaires-n3b.fr/competences/"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}

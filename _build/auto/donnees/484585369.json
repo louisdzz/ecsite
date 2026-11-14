@@ -1,0 +1,101 @@
+{
+ "nom_usuel": "VANCIA RELAVE ET  VIRGINIE HALTER, NOTAIRES ASSOCIES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-14",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484585369"
+ },
+ "siren": "484585369",
+ "denomination": "VANCIA RELAVE ET  VIRGINIE HALTER, NOTAIRES ASSOCIES",
+ "nom_complet": "VANCIA RELAVE ET  VIRGINIE HALTER, NOTAIRES ASSOCIES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral à responsabilité limitée",
+ "forme_code": "5485",
+ "creation": "2005-10-01",
+ "ville": "LE BEAUSSET",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": false,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484585369",
+ "maj_rne": "2026-09-23T21:17:47",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "VIRGINIE",
+   "nom": "HALTER",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  },
+  {
+   "type": "pp",
+   "prenoms": "VANCIA",
+   "nom": "RELAVE (LACHENMAIER)",
+   "qualite": "Gérant et associé indéfiniment responsable"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/484585369",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5485",
+  "forme": "Société d'exercice libéral à responsabilité limitée",
+  "naf": "69.10Z",
+  "code_postal": "83330",
+  "departement": "83",
+  "nomination_verifiee": false
+ },
+ "site": "https://relavehalter.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://relavehalter.notaires.fr/details-ceder+les+parts+sociales+d+une+societe+civile+d+exploitation+agricole+scea+au+beausset+avec+le+suivi+contractuel+de+notre+office+de+notaires+du+var-132.html",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… 1804 NOTAIRES accompagne la cession de parts sociales d'une SCEA au Beausset, sécurisant la transmission juridique et fiscale de votre exploitation viticole. …",
+    "label": "site officiel de l’office",
+    "url": "https://relavehalter.notaires.fr/details-ceder+les+parts+sociales+d+une+societe+civile+d+exploitation+agricole+scea+au+beausset+avec+le+suivi+contractuel+de+notre+office+de+notaires+du+var-132.html",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 11:00"
+  },
+  "relecture": {
+   "date": "2026-11-14 22:17",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true,
+   "limite": "Ancien extrait sans cession ni transmission ; remplacé par un article du site (rédaction d'agence, propre à l'office et nommé « 1804 Notaires ») sur la cession de parts de SCEA."
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://relavehalter.notaires.fr/mentions-legales.html",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://relavehalter.notaires.fr/details-ceder+les+parts+sociales+d+une+societe+civile+d+exploitation+agricole+scea+au+beausset+avec+le+suivi+contractuel+de+notre+office+de+notaires+du+var-132.html"
+ },
+ "sans_fiche_personne": true
+}

@@ -1,0 +1,100 @@
+{
+ "nom_usuel": "AUTEUIL NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879317154"
+ },
+ "siren": "879317154",
+ "denomination": "AUTEUIL NOTAIRES",
+ "nom_complet": "AUTEUIL NOTAIRES (AUTEUIL NOTAIRES)",
+ "sigle": null,
+ "enseigne": "AUTEUIL NOTAIRES",
+ "forme": "SAS, société par actions simplifiée",
+ "forme_code": "5710",
+ "creation": "2019-11-25",
+ "ville": "PARIS",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879317154",
+ "maj_rne": "2026-09-26T04:13:32",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "FABRICE JEAN-CLAUDE",
+   "nom": "COLLARD",
+   "qualite": "Président de SAS"
+  },
+  {
+   "type": "pp",
+   "prenoms": "CAROLINE MARTINE",
+   "nom": "LE CABEC",
+   "qualite": "Directeur Général"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/879317154",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5710",
+  "forme": "SAS, société par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "75016",
+  "departement": "75",
+  "nomination_verifiee": false
+ },
+ "site": "https://auteuil-notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://auteuil-notaires.fr/entreprise/",
+  "date": "2026-11-13"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission d’entreprises »).",
+    "extrait": "… Nous orchestrons également la transmission d’entreprises avec des dispositifs tels que le pacte Dutreil, garantissant une continuité d’affaires sécurisée. …",
+    "label": "site officiel de l’office",
+    "url": "https://auteuil-notaires.fr/entreprise/",
+    "date": "2026-11-13",
+    "page": "page dédiée du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 08:40"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:21",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": false
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://auteuil-notaires.fr/mentions-legales/",
+ "raison_avant_publication": {
+  "texte": "Activité affichée sur le site officiel de l'office (terme employé : « transmission d’entreprises »).",
+  "label": "site officiel de l'office",
+  "url": "https://auteuil-notaires.fr/entreprise/"
+ },
+ "sans_fiche_personne": true
+}

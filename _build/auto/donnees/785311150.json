@@ -1,0 +1,105 @@
+{
+ "nom_usuel": "MILLET MONTAZEAUD & ASSOCIES NOTAIRES",
+ "categorie": "notaires",
+ "crm": null,
+ "slug_existant": null,
+ "consulte_le": "2026-11-13",
+ "sources": {},
+ "origine": "lot notaires registre, critère du 13 novembre 2026 (condition 1)",
+ "siren_source": {
+  "type": "registre",
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785311150"
+ },
+ "siren": "785311150",
+ "denomination": "MILLET MONTAZEAUD & ASSOCIES NOTAIRES",
+ "nom_complet": "MILLET MONTAZEAUD & ASSOCIES NOTAIRES",
+ "sigle": null,
+ "enseigne": null,
+ "forme": "Société d'exercice libéral par actions simplifiée",
+ "forme_code": "5785",
+ "creation": null,
+ "ville": "BOURG-LA-REINE",
+ "actif": true,
+ "naf": "69.10Z",
+ "opposition_prospection": true,
+ "registre_url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785311150",
+ "maj_rne": "2026-09-24T19:57:37",
+ "dirigeants": [
+  {
+   "type": "pp",
+   "prenoms": "ARNAUD",
+   "nom": "MILLET",
+   "qualite": "Directeur Général"
+  },
+  {
+   "type": "pp",
+   "prenoms": "JEAN-MARIE",
+   "nom": "MONTAZEAUD",
+   "qualite": "Président de SAS"
+  }
+ ],
+ "orias": null,
+ "orias_site": {},
+ "office_notarial": {
+  "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785311150",
+  "critere": "activité 69.10Z (activités juridiques) et mention « notaire » ou « notarial » dans la dénomination, le sigle ou l'enseigne au registre",
+  "forme_code": "5785",
+  "forme": "Société d'exercice libéral par actions simplifiée",
+  "naf": "69.10Z",
+  "code_postal": "92340",
+  "departement": "92",
+  "nomination_verifiee": false
+ },
+ "site": "https://milletmontazeaud.notaires.fr",
+ "site_pages": [],
+ "linkedin": null,
+ "raison": {
+  "texte": "Office dont le site officiel décrit, par un texte qui lui est propre, un travail utile au cédant. L’extrait figure sous « Lien avec la cession ».",
+  "label": "site officiel de l’office",
+  "url": "https://milletmontazeaud.notaires.fr/competences/conseil-aux-chefs-dentreprises.htm",
+  "date": "2026-11-14"
+ },
+ "lien_cedant": {
+  "criteres": [
+   "1"
+  ],
+  "preuves": [
+   {
+    "critere": "1",
+    "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+    "extrait": "… il est de notre devoir de conseiller et d’accompagner les chefs d’entreprises depuis la création de la société jusqu’à sa transmission (ou sa dissolution). …",
+    "label": "site officiel de l’office",
+    "url": "https://milletmontazeaud.notaires.fr/competences/conseil-aux-chefs-dentreprises.htm",
+    "date": "2026-11-14",
+    "page": "page du site"
+   }
+  ],
+  "lecture": {
+   "code": "G1",
+   "date": "2026-11-13 09:29"
+  },
+  "relecture": {
+   "date": "2026-11-13 10:23",
+   "extrait_retrouve": true
+  },
+  "nettoyage": {
+   "date": "2026-11-14",
+   "regle": "texte propre à l'office décrivant son travail sur le droit utile au cédant ; texte type, modèle de réseau et intitulés exclus",
+   "verdict": "retenu",
+   "extrait_remplace": true
+  },
+  "publication": {
+   "date": "2026-11-14",
+   "tirage": "tirageB2"
+  }
+ },
+ "site_identification": "SIREN",
+ "site_source": "https://milletmontazeaud.notaires.fr/mentions-legales.htm",
+ "raison_avant_publication": {
+  "texte": "Activité décrite par l'office sur son site officiel (relecture stricte du 14 novembre 2026).",
+  "label": "site officiel de l'office",
+  "url": "https://milletmontazeaud.notaires.fr/competences/conseil-aux-chefs-dentreprises.htm"
+ },
+ "sans_fiche_personne": true,
+ "creation_registre": "1900-01-01"
+}
