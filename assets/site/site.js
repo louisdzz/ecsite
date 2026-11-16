@@ -99,3 +99,49 @@
     }, true);
   });
 })();
+
+/* Notes des exiters : encart flouté sur les fiches du secondaire et du pré-IPO.
+   Les notes vivent dans l'espace membres (app.exit.club/notes). Rien de réel n'est
+   affiché ici : le contenu flouté est décoratif. */
+(function () {
+  var ACTEURS = ['maresquier-partners','upscalers','clifton-partners','fish','hiive','forge-global','equityzen','caplight','nasdaq-private-market','zanbato','mvp-manhattan-venture-partners','g-squared','industry-ventures','isomer-capital','giano-capital','ltv-long-term-value-partners','rift-capital','tempocap'];
+  var m = location.pathname.match(/^\/f\/([a-z0-9-]+?)(?:\.html)?\/?$/);
+  if (!m || ACTEURS.indexOf(m[1]) < 0) return;
+  var slug = m[1];
+  function go() {
+    if (document.getElementById('notes-exiters')) return;
+    var h1 = document.querySelector('.pv-identity h1, h1');
+    var nom = h1 ? h1.textContent.trim() : '';
+    var css = document.createElement('style');
+    css.textContent = '#notes-exiters{margin:28px 0;border-radius:18px;background:#17382f;color:#f7f3e4;padding:26px 26px 24px;display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:26px;align-items:center;overflow:hidden}'
+      + '#notes-exiters .ne-k{font-size:11.5px;letter-spacing:.22em;text-transform:uppercase;color:#d8b46a;font-weight:600;margin:0 0 10px}'
+      + '#notes-exiters h2{font-family:Fraunces,Georgia,serif;font-weight:300;font-size:27px;line-height:1.12;margin:0 0 10px;color:#f7f3e4}'
+      + '#notes-exiters p{font-size:14.5px;line-height:1.6;color:rgba(247,243,228,.82);margin:0}'
+      + '#notes-exiters .ne-cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}'
+      + '#notes-exiters .ne-cta a{display:inline-block;border-radius:999px;padding:10px 18px;font-size:13.5px;font-weight:600;text-decoration:none}'
+      + '#notes-exiters .ne-1{background:#d8b46a;color:#17382f}#notes-exiters .ne-2{border:1px solid rgba(247,243,228,.4);color:#f7f3e4}'
+      + '#notes-exiters .ne-flou{position:relative;background:rgba(247,243,228,.07);border:1px solid rgba(247,243,228,.15);border-radius:14px;padding:18px 20px}'
+      + '#notes-exiters .ne-flou .ne-in{filter:blur(5px);user-select:none;pointer-events:none}'
+      + '#notes-exiters .ne-big{font-family:Fraunces,Georgia,serif;font-size:38px;line-height:1}#notes-exiters .ne-big small{font-size:16px;opacity:.7}'
+      + '#notes-exiters .ne-row{display:flex;align-items:center;gap:10px;margin-top:9px;font-size:12.5px}#notes-exiters .ne-row span:first-child{width:120px;flex:none}'
+      + '#notes-exiters .ne-bar{height:7px;border-radius:9px;background:#d8b46a}'
+      + '#notes-exiters .ne-lock{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:#f7f3e4;text-align:center;padding:12px}'
+      + '#notes-exiters .ne-lock span{background:rgba(23,56,47,.88);border-radius:999px;padding:8px 14px}'
+      + '@media (max-width:720px){#notes-exiters{grid-template-columns:1fr;padding:22px 18px}#notes-exiters h2{font-size:23px}}';
+    document.head.appendChild(css);
+    var rows = [['Frais d’entrée',62],['Carry',44],['Spread',78],['Délai',35]].map(function (r) {
+      return '<div class="ne-row"><span>' + r[0] + '</span><span class="ne-bar" style="width:' + r[1] + '%"></span></div>';
+    }).join('');
+    var box = document.createElement('section');
+    box.id = 'notes-exiters';
+    box.setAttribute('aria-labelledby', 'notes-exiters-titre');
+    var app = 'https://app.exit.club';
+    box.innerHTML = '<div><p class="ne-k">Notes des exiters</p><h2 id="notes-exiters-titre">Ce que les membres ont vraiment payé chez ' + nom.replace(/</g, '&lt;') + '.</h2>'
+      + '<p>Prix par action, frais réels, couches de SPV, délais, sorties. Notes anonymes des membres de l’Exit Club, réservées au club. Aucun acteur ne peut payer pour les modifier.</p>'
+      + '<div class="ne-cta"><a class="ne-1" href="' + app + '/notes/noter?acteur=' + slug + '">J’ai investi avec eux : noter</a><a class="ne-2" href="' + app + '/notes">Lire les notes</a></div></div>'
+      + '<div class="ne-flou" aria-hidden="true"><div class="ne-in"><div class="ne-big">4,1 <small>/ 5</small></div>' + rows + '</div><div class="ne-lock"><span>Réservé aux membres</span></div></div>';
+    var hero = document.getElementById('pv-offre') || document.querySelector('main section');
+    if (hero && hero.parentNode) hero.parentNode.insertBefore(box, hero.nextSibling);
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', go); else go();
+})();
