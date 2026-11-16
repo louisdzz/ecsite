@@ -3,7 +3,7 @@
   const panels = [...document.querySelectorAll('[data-panel]')];
   const nav = [...document.querySelectorAll('[data-view]')];
   const ids = new Set(panels.map(p => p.dataset.panel));
-  const journalAnchors = new Set(['classements', 'polymarket', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels', 'cash-out']);
+  const journalAnchors = new Set(['classements', 'regards', 'fil-actualites', 'personnes', 'sujets', 'actualites-professionnels', 'cash-out']);
   const status = document.querySelector('#media-status');
   function show(view, focus = false) {
     if (!ids.has(view)) view = 'journal';
@@ -12,7 +12,7 @@
     if (entry) {
       if (view === 'annuaire') document.querySelector('#annuaire').prepend(entry);
       else if (searchHome) searchHome.append(entry);
-      else document.querySelector('#polymarket').after(entry);
+      else (document.querySelector('#cash-out') || document.querySelector('#fil-actualites'))?.before(entry);
     }
     document.body.dataset.mediaView = view;
     const masthead = document.querySelector('.mercury-masthead');
