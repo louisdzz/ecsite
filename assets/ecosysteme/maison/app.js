@@ -1,3 +1,4 @@
+(function(){var st=document.createElement('style');st.textContent='.house-rank{align-self:flex-start;font-family:var(--sans);font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#7a5c17;background:#f1e6c8;border-radius:999px;padding:4px 10px;margin:-6px 0 10px}';document.head.appendChild(st)})();
 'use strict';
 const $ = (s) => document.querySelector(s);
 const input = $('#recherche');
@@ -78,6 +79,8 @@ function render() {
   const matchedHouseSlugs = new Set(matchedProfiles.map(p => p.houseSlug).filter(Boolean));
   const filtered = houses.filter(h => (!active || h.categories.includes(active)) && (active !== 'conseil-ma' || !maType || h.maTypes.includes(maType)) && (active !== 'secondaire' || !secondaryRole || h.secondaryRole === secondaryRole) && (words.every(w => h.search.includes(w)) || matchedHouseSlugs.has(h.slug)));
   renderProfileResults(matchedProfiles);
+  const rankSecondaire = active === 'secondaire' && !words.length;
+  if (rankSecondaire) filtered.sort((a, b) => (a.rangSecondaire || 99) - (b.rangSecondaire || 99));
 
   const previousSize = results.children.length;
   const visible = filtered.slice(0, limit);
@@ -100,13 +103,14 @@ function render() {
     const arrow = el('span', 'house-arrow', '↗'); arrow.setAttribute('aria-hidden', 'true');
     top.append(mark, arrow);
     a.append(top, el('h3', '', h.name), el('p', '', h.categories.map(c => labels[c] || c).join(' · ')));
+    if (rankSecondaire && h.rangSecondaire) top.after(el('span', 'house-rank', `N° ${h.rangSecondaire} · les plus connus`));
     if (h.note) a.append(el('p', 'house-note', h.note));
     if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
   });
   $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les sociétés');
   $('#results-count').textContent = `${number.format(filtered.length)} société${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}` + (matchedProfiles.length ? ` · ${number.format(matchedProfiles.length)} professionnel${matchedProfiles.length > 1 ? 's' : ''}` : '');
-  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : 'Par ordre alphabétique';
+  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : rankSecondaire ? 'Les plus connus des exiters en tête, selon la rédaction, puis par ordre alphabétique' : 'Par ordre alphabétique';
   $('#reset-results').hidden = !active && !input.value.trim();
   $('#shown-count').textContent = filtered.length ? `${number.format(visible.length)} sur ${number.format(filtered.length)} sociétés` : '';
   $('#load-more').hidden = limit >= filtered.length && limit >= matchedProfiles.length;
@@ -212,7 +216,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261114-notaires');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261116-rang');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
