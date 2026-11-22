@@ -14,7 +14,7 @@ const labels = {
   'banques-privees': 'Banques privées', banques: 'Banques', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
-  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', 'remploi-150-0-b-ter': 'Remploi 150-0 B ter', jets: 'Aviation d’affaires',
+  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', 'remploi-150-0-b-ter': 'Remploi 150-0 B ter', 'securite-identite': 'Sécurité et identité', jets: 'Aviation d’affaires',
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
@@ -22,7 +22,8 @@ const labels = {
   intermediaires: 'Intermédiaires & distribution de fonds',
   hotels: 'Hôtels', montres: 'Montres', voyages: 'Voyages sur mesure', yachting: 'Yachting'
 };
-let houses = [], categories = [], active = '', maType = '', secondaryRole = '', remploiRegime = '', limit = pageSize;
+let houses = [], categories = [], active = '', maType = '', secondaryRole = '', remploiRegime = '', securiteType = '', limit = pageSize;
+const SECURITE = [['mots-de-passe', 'Mots de passe et clés'], ['donnees-chiffrees', 'Messagerie et données chiffrées'], ['effacer-ses-donnees', 'Effacer ses données'], ['cyber-famille', 'Cybersécurité de la famille'], ['cryptoactifs', 'Garde des cryptoactifs'], ['surete-physique', 'Sûreté physique'], ['discretion', 'Discrétion et identité']];
 const REGIMES = { ancien_seulement: 'Cessions avant le 21/02/2026', nouveau_compatible: 'Cessions depuis le 21/02/2026', les_deux: 'Cessions avant et après le 21/02/2026', non_precise: 'Régime non précisé par le gestionnaire' };
 const regimeMatch = (r, key) => !key || (key === 'ancien' ? ['ancien_seulement', 'les_deux'].includes(r.regime) : key === 'nouveau' ? ['nouveau_compatible', 'les_deux'].includes(r.regime) : r.regime === 'non_precise');
 // Public identity export, controlled 1 November 2026. No CRM/private data.
@@ -69,7 +70,7 @@ function renderCategories() {
     const count = category.id ? houses.filter(h => h.categories.includes(category.id)).length : houses.length;
     button.append(el('span', '', labels[category.id] || category.name), el('span', '', number.format(count)));
     button.addEventListener('click', () => {
-      active = category.id; maType = ''; secondaryRole = ''; remploiRegime = ''; limit = pageSize; closeCategories(); render();
+      active = category.id; maType = ''; secondaryRole = ''; remploiRegime = ''; securiteType = ''; limit = pageSize; closeCategories(); render();
       if (matchMedia('(max-width:800px)').matches) $('#results-title').focus({ preventScroll: true });
     });
     categoryList.append(button);
@@ -79,7 +80,7 @@ function render() {
   const words = normalize(input.value).split(' ').filter(Boolean);
   const matchedProfiles = words.length ? publicProfiles.filter(p => (!active || p.category === active) && (!maType || (p.houseSlug && houses.some(h => h.slug === p.houseSlug && h.maTypes.includes(maType)))) && words.every(w => normalize(p.name + ' ' + p.house + ' ' + p.specialty + ' ' + (p.aliases||[]).join(' ')).includes(w))) : [];
   const matchedHouseSlugs = new Set(matchedProfiles.map(p => p.houseSlug).filter(Boolean));
-  const filtered = houses.filter(h => (!active || h.categories.includes(active)) && (active !== 'conseil-ma' || !maType || h.maTypes.includes(maType)) && (active !== 'secondaire' || !secondaryRole || h.secondaryRole === secondaryRole) && (active !== 'remploi-150-0-b-ter' || !remploiRegime || (h.remploi || []).some(r => regimeMatch(r, remploiRegime))) && (words.every(w => h.search.includes(w)) || matchedHouseSlugs.has(h.slug)));
+  const filtered = houses.filter(h => (!active || h.categories.includes(active)) && (active !== 'conseil-ma' || !maType || h.maTypes.includes(maType)) && (active !== 'secondaire' || !secondaryRole || h.secondaryRole === secondaryRole) && (active !== 'remploi-150-0-b-ter' || !remploiRegime || (h.remploi || []).some(r => regimeMatch(r, remploiRegime))) && (active !== 'securite-identite' || !securiteType || h.securite === securiteType) && (words.every(w => h.search.includes(w)) || matchedHouseSlugs.has(h.slug)));
   renderProfileResults(matchedProfiles);
   const rankSecondaire = active === 'secondaire' && !words.length;
   if (rankSecondaire) filtered.sort((a, b) => (a.rangSecondaire || 99) - (b.rangSecondaire || 99));
@@ -113,7 +114,7 @@ function render() {
   });
   $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les sociétés');
   $('#results-count').textContent = `${number.format(filtered.length)} société${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}` + (matchedProfiles.length ? ` · ${number.format(matchedProfiles.length)} professionnel${matchedProfiles.length > 1 ? 's' : ''}` : '');
-  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : rankSecondaire ? 'Les plus connus des exiters en tête, selon la rédaction, puis par ordre alphabétique' : active === 'remploi-150-0-b-ter' ? 'Par ordre alphabétique · aucun classement, aucun conseil d’investissement' : 'Par ordre alphabétique';
+  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : rankSecondaire ? 'Les plus connus des exiters en tête, selon la rédaction, puis par ordre alphabétique' : ['remploi-150-0-b-ter', 'securite-identite'].includes(active) ? 'Par ordre alphabétique · aucun classement, aucune recommandation' : 'Par ordre alphabétique';
   $('#reset-results').hidden = !active && !input.value.trim();
   $('#shown-count').textContent = filtered.length ? `${number.format(visible.length)} sur ${number.format(filtered.length)} sociétés` : '';
   $('#load-more').hidden = limit >= filtered.length && limit >= matchedProfiles.length;
@@ -182,9 +183,23 @@ function selectCategory(key, type = '') {
 }
 function renderMaFilters() {
   const box = $('#ma-filters');
-  box.hidden = !['conseil-ma', 'secondaire', 'remploi-150-0-b-ter'].includes(active);
+  box.hidden = !['conseil-ma', 'secondaire', 'remploi-150-0-b-ter', 'securite-identite'].includes(active);
   box.replaceChildren();
   if (box.hidden) return;
+  if (active === 'securite-identite') {
+    const controls = el('div', 'ma-types');
+    controls.setAttribute('role', 'group'); controls.setAttribute('aria-label', 'Sous-rubrique');
+    [['', 'Tous'], ...SECURITE].forEach(([key, label]) => {
+      const count = houses.filter(h => h.categories.includes('securite-identite') && (!key || h.securite === key)).length;
+      const button = el('button', 'ma-type', `${label} · ${number.format(count)}`);
+      button.type = 'button'; button.setAttribute('aria-pressed', String(securiteType === key));
+      button.addEventListener('click', () => { securiteType = key; limit = pageSize; render(); });
+      controls.append(button);
+    });
+    box.append(controls);
+    box.append(el('p', 'ma-help', 'Après une cession, votre nom, votre adresse et votre patrimoine deviennent plus visibles : registre du commerce, presse, réseaux. Cette rubrique recense les outils et prestataires pour protéger vos accès, vos données, votre famille et vos actifs. Offres relevées le 22 novembre 2026 sur les sites des acteurs ; elles évoluent.'));
+    return;
+  }
   if (active === 'remploi-150-0-b-ter') {
     const controls = el('div', 'ma-types');
     controls.setAttribute('role', 'group'); controls.setAttribute('aria-label', 'Date de la cession');
@@ -236,7 +251,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-remploi5');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-securite1');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
