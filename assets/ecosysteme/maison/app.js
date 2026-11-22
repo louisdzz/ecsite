@@ -1,4 +1,4 @@
-(function(){var st=document.createElement('style');st.textContent='.house-rank{align-self:flex-start;font-family:var(--sans);font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#7a5c17;background:#f1e6c8;border-radius:999px;padding:4px 10px;margin:-6px 0 10px}';document.head.appendChild(st)})();
+(function(){var st=document.createElement('style');st.textContent='.house-rank{align-self:flex-start;font-family:var(--sans);font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#7a5c17;background:#f1e6c8;border-radius:999px;padding:4px 10px;margin:-6px 0 10px}.house-regime{display:inline-block;margin:8px 0 4px!important;line-height:1.4}.house-remploi{margin-top:12px}';document.head.appendChild(st)})();
 'use strict';
 const $ = (s) => document.querySelector(s);
 const input = $('#recherche');
@@ -106,7 +106,7 @@ function render() {
     top.append(mark, arrow);
     a.append(top, el('h3', '', h.name), el('p', '', h.categories.map(c => labels[c] || c).join(' · ')));
     if (rankSecondaire && h.rangSecondaire) top.after(el('span', 'house-rank', `N° ${h.rangSecondaire} · les plus connus`));
-    if (active === 'remploi-150-0-b-ter' && h.remploi) h.remploi.filter(r => regimeMatch(r, remploiRegime)).forEach(r => { const line = el('p', 'house-note house-remploi'); line.append(el('strong', '', r.fonds), document.createTextNode(r.detail ? ' · ' + r.detail : '')); a.append(line); if (r.regime) a.append(el('span', 'house-rank', REGIMES[r.regime] || r.regime)); });
+    if (active === 'remploi-150-0-b-ter' && h.remploi) h.remploi.filter(r => regimeMatch(r, remploiRegime)).forEach(r => { const line = el('p', 'house-note house-remploi'); line.append(el('strong', '', r.fonds), document.createTextNode(r.detail ? ' · ' + r.detail : '')); a.append(line); if (r.regime) a.append(el('span', 'house-rank house-regime', REGIMES[r.regime] || r.regime)); });
     if (h.note) a.append(el('p', 'house-note', h.note));
     if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
@@ -236,7 +236,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-remploi2');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-remploi3');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
