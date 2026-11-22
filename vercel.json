@@ -55,6 +55,11 @@
       "source": "/f/invest-finances.html",
       "destination": "/f/investae-finances",
       "permanent": true
+    },
+    {
+      "source": "/f/vitaceae-transactions",
+      "destination": "/f/vitaceae",
+      "permanent": true
     }
   ],
   "headers": [
