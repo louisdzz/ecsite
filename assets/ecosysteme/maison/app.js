@@ -14,7 +14,7 @@ const labels = {
   'banques-privees': 'Banques privées', banques: 'Banques', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
-  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', jets: 'Aviation d’affaires',
+  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', 'remploi-150-0-b-ter': 'Fonds éligibles 150-0 B ter', jets: 'Aviation d’affaires',
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
@@ -104,13 +104,14 @@ function render() {
     top.append(mark, arrow);
     a.append(top, el('h3', '', h.name), el('p', '', h.categories.map(c => labels[c] || c).join(' · ')));
     if (rankSecondaire && h.rangSecondaire) top.after(el('span', 'house-rank', `N° ${h.rangSecondaire} · les plus connus`));
+    if (active === 'remploi-150-0-b-ter' && h.remploi) h.remploi.forEach(r => { const line = el('p', 'house-note house-remploi'); line.append(el('strong', '', r.fonds), document.createTextNode(r.detail ? ' · ' + r.detail : '')); a.append(line); });
     if (h.note) a.append(el('p', 'house-note', h.note));
     if (h.logoAttribution) a.append(el('p', 'house-note logo-attribution', h.logoAttribution));
     item.append(a); results.append(item);
   });
   $('#results-title').textContent = active ? labels[active] : ($('#results-title').dataset.defaultTitle || 'Toutes les sociétés');
   $('#results-count').textContent = `${number.format(filtered.length)} société${filtered.length > 1 ? 's' : ''}${words.length ? ' trouvée' + (filtered.length > 1 ? 's' : '') : ' référencée' + (filtered.length > 1 ? 's' : '')}` + (matchedProfiles.length ? ` · ${number.format(matchedProfiles.length)} professionnel${matchedProfiles.length > 1 ? 's' : ''}` : '');
-  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : rankSecondaire ? 'Les plus connus des exiters en tête, selon la rédaction, puis par ordre alphabétique' : 'Par ordre alphabétique';
+  $('#results-context').textContent = input.value.trim() ? `Recherche : « ${input.value.trim()} »` : rankSecondaire ? 'Les plus connus des exiters en tête, selon la rédaction, puis par ordre alphabétique' : active === 'remploi-150-0-b-ter' ? 'Par ordre alphabétique · aucun classement, aucun conseil d’investissement' : 'Par ordre alphabétique';
   $('#reset-results').hidden = !active && !input.value.trim();
   $('#shown-count').textContent = filtered.length ? `${number.format(visible.length)} sur ${number.format(filtered.length)} sociétés` : '';
   $('#load-more').hidden = limit >= filtered.length && limit >= matchedProfiles.length;
@@ -179,9 +180,15 @@ function selectCategory(key, type = '') {
 }
 function renderMaFilters() {
   const box = $('#ma-filters');
-  box.hidden = !['conseil-ma', 'secondaire'].includes(active);
+  box.hidden = !['conseil-ma', 'secondaire', 'remploi-150-0-b-ter'].includes(active);
   box.replaceChildren();
   if (box.hidden) return;
+  if (active === 'remploi-150-0-b-ter') {
+    const link = el('a', '', 'Les avocats fiscalistes');
+    link.href = '/annuaire?metier=avocats#annuaire';
+    box.append(el('p', 'ma-help', 'Fonds présentés par leur société de gestion comme éligibles au remploi après un apport-cession (article 150-0 B ter du CGI). L’éligibilité s’apprécie à la souscription, selon votre opération : date de cession, part à réinvestir, délai. Conditions relevées le 22 novembre 2026 ; elles évoluent.'), link);
+    return;
+  }
   if (active === 'secondaire') {
     const controls = el('div', 'ma-types');
     controls.setAttribute('role', 'group'); controls.setAttribute('aria-label', 'Rôle sur le marché secondaire');
@@ -216,7 +223,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261116-rang');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-remploi');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
