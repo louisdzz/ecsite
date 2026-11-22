@@ -14,7 +14,7 @@ const labels = {
   'banques-privees': 'Banques privées', banques: 'Banques', avocats: 'Avocats & fiscalistes', 'experts-comptables': 'Experts-comptables',
   notaires: 'Notaires', cgp: 'Gestion de patrimoine', 'assurance-vie-lux': 'Assurance-vie luxembourgeoise',
   treso: 'Trésorerie & monétaire', 'actifs-numeriques': 'Actifs numériques', 'fonds-pe': 'Private equity & LBO',
-  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', 'remploi-150-0-b-ter': 'Fonds éligibles 150-0 B ter', jets: 'Aviation d’affaires',
+  'fonds-dette': 'Fonds de dette', 'fonds-vc': 'Venture capital', sgp: 'Sociétés de gestion', secondaire: 'Secondaire & pré-IPO', 'secondaire-fonds': 'Secondaire de fonds & private equity', 'remploi-150-0-b-ter': 'Remploi 150-0 B ter', jets: 'Aviation d’affaires',
   expatriation: 'Expatriation & installation à l’étranger',
   biographies: 'Biographies & mémoire familiale',
   'formations-transitions': 'Formations & nouvelles perspectives',
@@ -196,10 +196,10 @@ function renderMaFilters() {
       controls.append(button);
     });
     box.append(controls);
-    box.append(el('p', 'ma-help', 'La loi de finances 2026 a durci le dispositif pour les cessions réalisées depuis le 21 février 2026 : 70 % à réinvestir au lieu de 60 %, en 3 ans au lieu de 2, conservation 5 ans dans tous les cas, et exclusion des activités immobilières (marchands de biens, promotion, location meublée), financières et à revenus garantis. Les cessions antérieures restent soumises aux anciennes règles. Vérifiez le régime visé par chaque fonds.'));
+    box.append(el('p', 'ma-help', 'La loi de finances 2026 a durci le dispositif pour les cessions réalisées depuis le 21 février 2026 : 70 % à réinvestir au lieu de 60 %, en 3 ans au lieu de 2, conservation 5 ans dans tous les cas, et exclusion des activités immobilières (marchands de biens, promotion, location meublée), financières et à revenus garantis. Les cessions antérieures restent soumises aux anciennes règles. Vérifiez le régime visé par chaque offre.'));
     const link = el('a', '', 'Les avocats fiscalistes');
     link.href = '/annuaire?metier=avocats#annuaire';
-    box.append(el('p', 'ma-help', 'Fonds présentés par leur société de gestion comme éligibles au remploi après un apport-cession (article 150-0 B ter du CGI). L’éligibilité s’apprécie à la souscription, selon votre opération : date de cession, part à réinvestir, délai. Conditions relevées le 22 novembre 2026 ; elles évoluent.'), link);
+    box.append(el('p', 'ma-help', 'Fonds, club deals, plateformes et sociétés qui se présentent comme éligibles au remploi après un apport-cession (article 150-0 B ter du CGI). L’éligibilité s’apprécie à la souscription, selon votre opération : date de cession, part à réinvestir, délai. Conditions relevées le 22 novembre 2026 ; elles évoluent.'), link);
     return;
   }
   if (active === 'secondaire') {
@@ -236,7 +236,7 @@ function renderMaFilters() {
 }
 async function init() {
   try {
-    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-regime');
+    const response = await fetch('/assets/ecosysteme/maison/data.json?v=20261122-remploi2');
     if (!response.ok) throw new Error('Data unavailable');
     const data = await response.json();
     const group = data.categoryGroups.find(c => c.id === 'conseil-ma');
